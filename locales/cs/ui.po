@@ -1,12 +1,18 @@
+# 
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-05-17 21:36+0000\n"
+"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
 "POT Version: 2.0\n"
+"X-Generator: Pontoon\n"
 
 #. UI.ACCOUNT.CANCEL
 msgctxt "UI.ACCOUNT.CANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušit"
 
 #. UI.ACCOUNT.CDKEY
 msgctxt "UI.ACCOUNT.CDKEY"
@@ -110,27 +116,43 @@ msgstr ""
 
 #. UI.BARTERSCREEN.CONFIRM_BUY_FMT
 msgctxt "UI.BARTERSCREEN.CONFIRM_BUY_FMT"
-msgid "Use {doodad_count} Spools to weave item: {item_name}?\n\nYou will be left with {doodad_net} Spools.\nSpools are used to weave \"Woven\" rarity curios."
+msgid ""
+"Use {doodad_count} Spools to weave item: {item_name}?\n"
+"\n"
+"You will be left with {doodad_net} Spools.\n"
+"Spools are used to weave \"Woven\" rarity curios."
 msgstr ""
 
 #. UI.BARTERSCREEN.CONFIRM_GRIND_DUPES_FMT
 msgctxt "UI.BARTERSCREEN.CONFIRM_GRIND_DUPES_FMT"
-msgid "Unravel {count} duplicates into {doodad_count} Spools?\n\nYou will have a total of {doodad_net} Spools."
+msgid ""
+"Unravel {count} duplicates into {doodad_count} Spools?\n"
+"\n"
+"You will have a total of {doodad_net} Spools."
 msgstr ""
 
 #. UI.BARTERSCREEN.CONFIRM_GRIND_DUPE_FMT
 msgctxt "UI.BARTERSCREEN.CONFIRM_GRIND_DUPE_FMT"
-msgid "Unravel 1 duplicate into {doodad_count} Spools?\n\nYou will have a total of {doodad_net} Spools."
+msgid ""
+"Unravel 1 duplicate into {doodad_count} Spools?\n"
+"\n"
+"You will have a total of {doodad_net} Spools."
 msgstr ""
 
 #. UI.BARTERSCREEN.CONFIRM_GRIND_FMT
 msgctxt "UI.BARTERSCREEN.CONFIRM_GRIND_FMT"
-msgid "Unravel this {item_name} into {doodad_count} Spools?\n\nYou will have a total of {doodad_net} Spools.\nSpools are used to weave \"Woven\" rarity curios."
+msgid ""
+"Unravel this {item_name} into {doodad_count} Spools?\n"
+"\n"
+"You will have a total of {doodad_net} Spools.\n"
+"Spools are used to weave \"Woven\" rarity curios."
 msgstr ""
 
 #. UI.BARTERSCREEN.FAILED_BODY
 msgctxt "UI.BARTERSCREEN.FAILED_BODY"
-msgid "Sorry!\nFailed to contact Klei Servers. Please try again."
+msgid ""
+"Sorry!\n"
+"Failed to contact Klei Servers. Please try again."
 msgstr ""
 
 #. UI.BARTERSCREEN.FAILED_TITLE
@@ -140,7 +162,11 @@ msgstr ""
 
 #. UI.BARTERSCREEN.FAIL_BUY_FMT
 msgctxt "UI.BARTERSCREEN.FAIL_BUY_FMT"
-msgid "{doodad_count} Spools are required to weave item: {item_name}.\n\nYou need {doodad_net} more Spool(s) to weave this item.\nSpools can be obtained by unraveling curios."
+msgid ""
+"{doodad_count} Spools are required to weave item: {item_name}.\n"
+"\n"
+"You need {doodad_net} more Spool(s) to weave this item.\n"
+"Spools can be obtained by unraveling curios."
 msgstr ""
 
 #. UI.BARTERSCREEN.NO_MARKET
@@ -165,7 +191,9 @@ msgstr ""
 
 #. UI.BARTERSCREEN.UNRAVEL_WARNING_RESTRICTED_BODY
 msgctxt "UI.BARTERSCREEN.UNRAVEL_WARNING_RESTRICTED_BODY"
-msgid "You will no longer be able to play as {character} if you unravel this item. You'll also lose access to all the items you own that are character-specific to {character}, although you'll be able to unravel them, if you wish."
+msgid ""
+"You will no longer be able to play as {character} if you unravel this item. You'll also lose access to all the items you own that are character-specific to {character}, although you'll be able to "
+"unravel them, if you wish."
 msgstr ""
 
 #. UI.BARTERSCREEN.UNRAVEL_WARNING_TITLE
@@ -220,7 +248,9 @@ msgstr ""
 
 #. UI.BUGREPORTSCREEN.CANCEL_SUBMIT_BODY
 msgctxt "UI.BUGREPORTSCREEN.CANCEL_SUBMIT_BODY"
-msgid "You have not submitted your report.\nAre you sure you want to cancel?"
+msgid ""
+"You have not submitted your report.\n"
+"Are you sure you want to cancel?"
 msgstr ""
 
 #. UI.BUGREPORTSCREEN.CANCEL_SUBMIT_HEADER
@@ -265,7 +295,10 @@ msgstr ""
 
 #. UI.BUGREPORTSCREEN.SUBMIT_DIALOG_BODY
 msgctxt "UI.BUGREPORTSCREEN.SUBMIT_DIALOG_BODY"
-msgid "Submitting a bug report will upload your game information and saved worlds to Klei to help us analyze the issue.\n\nThis may take several minutes."
+msgid ""
+"Submitting a bug report will upload your game information and saved worlds to Klei to help us analyze the issue.\n"
+"\n"
+"This may take several minutes."
 msgstr ""
 
 #. UI.BUGREPORTSCREEN.SUBMIT_DIALOG_HEADER
@@ -385,7 +418,10 @@ msgstr ""
 
 #. UI.COLLECTIONSCREEN.FAILED_TO_LOAD
 msgctxt "UI.COLLECTIONSCREEN.FAILED_TO_LOAD"
-msgid "Sorry!\nWe've temporarily misplaced your curios.\nPlease try again later."
+msgid ""
+"Sorry!\n"
+"We've temporarily misplaced your curios.\n"
+"Please try again later."
 msgstr ""
 
 #. UI.COLLECTIONSCREEN.GAMEITEM
@@ -710,7 +746,12 @@ msgstr ""
 
 #. UI.DATACOLLECTION_LOGIN.BODY
 msgctxt "UI.DATACOLLECTION_LOGIN.BODY"
-msgid "We require the collection of user data to provide online services. Players who disable data collection will only have access to play in offline mode.\n\nSurvivors and worlds from online games will be unavailable.\n\nData Collection settings can be modified in the Options menu."
+msgid ""
+"We require the collection of user data to provide online services. Players who disable data collection will only have access to play in offline mode.\n"
+"\n"
+"Survivors and worlds from online games will be unavailable.\n"
+"\n"
+"Data Collection settings can be modified in the Options menu."
 msgstr ""
 
 #. UI.DATACOLLECTION_LOGIN.CONTINUE
@@ -725,7 +766,10 @@ msgstr ""
 
 #. UI.DATACOLLECTION_POPUP.BODY
 msgctxt "UI.DATACOLLECTION_POPUP.BODY"
-msgid "We require the collection of user data to provide online services. Players who disable data collection will only have access to play in offline mode.\n\nFor more details on our privacy policy and how we use the data we collect, please see our official privacy policy."
+msgid ""
+"We require the collection of user data to provide online services. Players who disable data collection will only have access to play in offline mode.\n"
+"\n"
+"For more details on our privacy policy and how we use the data we collect, please see our official privacy policy."
 msgstr ""
 
 #. UI.DATACOLLECTION_POPUP.CANCEL
@@ -1020,7 +1064,12 @@ msgstr ""
 
 #. UI.GAMEMODES.ENDLESS_DESCRIPTION
 msgctxt "UI.GAMEMODES.ENDLESS_DESCRIPTION"
-msgid "A neverending Don't Starve sandbox.\n\n* Enter the world through the Florid Postern.\n* Become a ghost when you die (no sanity drain).\n* Resurrection is always available via the Florid Postern."
+msgid ""
+"A neverending Don't Starve sandbox.\n"
+"\n"
+"* Enter the world through the Florid Postern.\n"
+"* Become a ghost when you die (no sanity drain).\n"
+"* Resurrection is always available via the Florid Postern."
 msgstr ""
 
 #. UI.GAMEMODES.LAVAARENA
@@ -1030,7 +1079,11 @@ msgstr ""
 
 #. UI.GAMEMODES.LAVAARENA_DESCRIPTION
 msgctxt "UI.GAMEMODES.LAVAARENA_DESCRIPTION"
-msgid "Prove yourself to Battlemaster Pugna in this Gate Realm.\n* Enter the world through the Molten Gateway.\n* No hunger or sanity.\n* Use what you can find. No outside weapons in the Pit!"
+msgid ""
+"Prove yourself to Battlemaster Pugna in this Gate Realm.\n"
+"* Enter the world through the Molten Gateway.\n"
+"* No hunger or sanity.\n"
+"* Use what you can find. No outside weapons in the Pit!"
 msgstr ""
 
 #. UI.GAMEMODES.QUAGMIRE
@@ -1040,7 +1093,11 @@ msgstr ""
 
 #. UI.GAMEMODES.QUAGMIRE_DESCRIPTION
 msgctxt "UI.GAMEMODES.QUAGMIRE_DESCRIPTION"
-msgid "Cook delicious dishes to appease the Eternal Gnaw in this Gate Realm.\n* Enter the world through the Mossy Gateway.\n* No nighttime.\n* Use what you can find to cook offerings for the altar!"
+msgid ""
+"Cook delicious dishes to appease the Eternal Gnaw in this Gate Realm.\n"
+"* Enter the world through the Mossy Gateway.\n"
+"* No nighttime.\n"
+"* Use what you can find to cook offerings for the altar!"
 msgstr ""
 
 #. UI.GAMEMODES.SURVIVAL
@@ -1050,7 +1107,12 @@ msgstr ""
 
 #. UI.GAMEMODES.SURVIVAL_DESCRIPTION
 msgctxt "UI.GAMEMODES.SURVIVAL_DESCRIPTION"
-msgid "We survive together, we die together!\n\n* Enter the world through the Florid Postern.\n* Become a ghost when you die.\n* Ghost players cause a sanity drain for living players."
+msgid ""
+"We survive together, we die together!\n"
+"\n"
+"* Enter the world through the Florid Postern.\n"
+"* Become a ghost when you die.\n"
+"* Ghost players cause a sanity drain for living players."
 msgstr ""
 
 #. UI.GAMEMODES.UNKNOWN
@@ -1070,7 +1132,12 @@ msgstr ""
 
 #. UI.GAMEMODES.WILDERNESS_DESCRIPTION
 msgctxt "UI.GAMEMODES.WILDERNESS_DESCRIPTION"
-msgid "It's wild and dangerous out there!\n\n* Enter at a random location in the world.\n* No safety net. If you die: try, try again.\n* Those you encounter may or may not be friendly."
+msgid ""
+"It's wild and dangerous out there!\n"
+"\n"
+"* Enter at a random location in the world.\n"
+"* No safety net. If you die: try, try again.\n"
+"* Those you encounter may or may not be friendly."
 msgstr ""
 
 #. UI.GENDERSTRINGS.DEFAULT.ONE
@@ -1215,7 +1282,9 @@ msgstr ""
 
 #. UI.ITEM_SERVER.FAILED_DEFAULT
 msgctxt "UI.ITEM_SERVER.FAILED_DEFAULT"
-msgid "Sorry!\nFailed to contact Klei Servers. Please try again."
+msgid ""
+"Sorry!\n"
+"Failed to contact Klei Servers. Please try again."
 msgstr ""
 
 #. UI.ITEM_SERVER.FAILED_EVENT_TITLE
@@ -1380,7 +1449,9 @@ msgstr ""
 
 #. UI.LOADING_SCREEN_LORE_TIPS.TIP_PORTALS
 msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_PORTALS"
-msgid "\"It seems that every time we discover a doorway out of this terrible place, it just leads to more strange worlds with new horrors to endure. Still, I can't give up hope that one day we'll find a doorway that will take us home...\" -W"
+msgid ""
+"\"It seems that every time we discover a doorway out of this terrible place, it just leads to more strange worlds with new horrors to endure. Still, I can't give up hope that one day we'll find a "
+"doorway that will take us home...\" -W"
 msgstr ""
 
 #. UI.LOADING_SCREEN_LORE_TIPS.TIP_THEM
@@ -1425,7 +1496,9 @@ msgstr ""
 
 #. UI.LOADING_SCREEN_LORE_TIPS.TIP_WILSON_UNI
 msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_WILSON_UNI"
-msgid "Wilson chose the path of an independent Gentleman Scientist after finding the university environment to be too stifling for a man of his ambitions. (The enormous bill the university sent him to pay for repairs to the chemistry lab had absolutely nothing to do with this.)"
+msgid ""
+"Wilson chose the path of an independent Gentleman Scientist after finding the university environment to be too stifling for a man of his ambitions. (The enormous bill the university sent him to pay "
+"for repairs to the chemistry lab had absolutely nothing to do with this.)"
 msgstr ""
 
 #. UI.LOADING_SCREEN_LORE_TIPS.TIP_WINONA_CHARLIE
@@ -1470,7 +1543,10 @@ msgstr ""
 
 #. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.VOTE_POPUP_BODY
 msgctxt "UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.VOTE_POPUP_BODY"
-msgid "You are voting to start the match without a full server.\nThe difficulty does not scale based on the number of players.\nThis will be a more challenging experience."
+msgid ""
+"You are voting to start the match without a full server.\n"
+"The difficulty does not scale based on the number of players.\n"
+"This will be a more challenging experience."
 msgstr ""
 
 #. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.VOTE_POPUP_CANCEL
@@ -1505,7 +1581,9 @@ msgstr ""
 
 #. UI.MYSTERYBOXSCREEN.OUT_OF_BOXES_BODY
 msgctxt "UI.MYSTERYBOXSCREEN.OUT_OF_BOXES_BODY"
-msgid "You have no chests in your treasury.\nStart playing to earn some!"
+msgid ""
+"You have no chests in your treasury.\n"
+"Start playing to earn some!"
 msgstr ""
 
 #. UI.MYSTERYBOXSCREEN.OUT_OF_BOXES_BODY_NO_EVENT
@@ -1830,7 +1908,9 @@ msgstr ""
 
 #. UI.REDEEMDIALOG.LEGALESE
 msgctxt "UI.REDEEMDIALOG.LEGALESE"
-msgid "Delivery time may vary due to temporal portal anomalies. Wilson is not responsible for emotional injuries caused by waiting. Gifts may result in bragging, unexpected delight, and/or enhanced gameplay experiences."
+msgid ""
+"Delivery time may vary due to temporal portal anomalies. Wilson is not responsible for emotional injuries caused by waiting. Gifts may result in bragging, unexpected delight, and/or enhanced "
+"gameplay experiences."
 msgstr ""
 
 #. UI.REDEEMDIALOG.MENU_BUTTON_DESC
@@ -1885,12 +1965,16 @@ msgstr ""
 
 #. UI.SAVELOAD.DISABLE_AUTOSAVE
 msgctxt "UI.SAVELOAD.DISABLE_AUTOSAVE"
-msgid "Are you sure you want to\ndisable the auto-save feature?"
+msgid ""
+"Are you sure you want to\n"
+"disable the auto-save feature?"
 msgstr ""
 
 #. UI.SAVELOAD.DISABLE_AUTOSAVE_PS4
 msgctxt "UI.SAVELOAD.DISABLE_AUTOSAVE_PS4"
-msgid "Are you sure you want to\ndisable the save feature?"
+msgid ""
+"Are you sure you want to\n"
+"disable the save feature?"
 msgstr ""
 
 #. UI.SAVELOAD.LOAD_FAILED
@@ -1920,7 +2004,9 @@ msgstr ""
 
 #. UI.SAVELOAD.RESTOREBACKUP_FAILED
 msgctxt "UI.SAVELOAD.RESTOREBACKUP_FAILED"
-msgid "An error occurred while\nrestoring your data."
+msgid ""
+"An error occurred while\n"
+"restoring your data."
 msgstr ""
 
 #. UI.SAVELOAD.RESTORE_BACKUP
@@ -2065,12 +2151,18 @@ msgstr ""
 
 #. UI.STARTADVENTURE.BODY
 msgctxt "UI.STARTADVENTURE.BODY"
-msgid "You are about to embark on a long, arduous expedition to locate Maxwell. You will need to survive five randomly generated worlds, each presenting you with a unique challenge.\n\nShould you die you will be transported safely back to this portal, but lose all your progress on the adventure."
+msgid ""
+"You are about to embark on a long, arduous expedition to locate Maxwell. You will need to survive five randomly generated worlds, each presenting you with a unique challenge.\n"
+"\n"
+"Should you die you will be transported safely back to this portal, but lose all your progress on the adventure."
 msgstr ""
 
 #. UI.STARTADVENTURE.BODY_TEST
 msgctxt "UI.STARTADVENTURE.BODY_TEST"
-msgid "If you die during adventure mode, you will return back to this portal where you may restart the adventure.\n\nYou are about to embark on a long, arduous expedition to locate Maxwell. You will need to survive five randomly generated worlds, each presenting you with a unique challenge."
+msgid ""
+"If you die during adventure mode, you will return back to this portal where you may restart the adventure.\n"
+"\n"
+"You are about to embark on a long, arduous expedition to locate Maxwell. You will need to survive five randomly generated worlds, each presenting you with a unique challenge."
 msgstr ""
 
 #. UI.STARTADVENTURE.NO
@@ -2450,11 +2542,12 @@ msgstr ""
 
 #. UI.XB1_USER_DIALOG.USER_2_MUST_BE_DIFFERENT
 msgctxt "UI.XB1_USER_DIALOG.USER_2_MUST_BE_DIFFERENT"
-msgid "Player 2's profile must be\ndifferent from Player 1's."
+msgid ""
+"Player 2's profile must be\n"
+"different from Player 1's."
 msgstr ""
 
 #. UI.XPUTILS.XPPROGRESS
 msgctxt "UI.XPUTILS.XPPROGRESS"
 msgid "{num}/{max}"
 msgstr ""
-
