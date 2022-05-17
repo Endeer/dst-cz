@@ -1,7 +1,13 @@
+# 
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-05-17 22:06+0000\n"
+"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
 "POT Version: 2.0\n"
+"X-Generator: Pontoon\n"
 
 #. UI.WORLDGEN.CAVETITLE
 msgctxt "UI.WORLDGEN.CAVETITLE"
@@ -256,57 +262,57 @@ msgstr ""
 #. UI.WORLDGEN.VERBS.16
 msgctxt "UI.WORLDGEN.VERBS.16"
 msgid "Summoning"
-msgstr ""
+msgstr "Vyvolávání"
 
 #. UI.WORLDGEN.VERBS.17
 msgctxt "UI.WORLDGEN.VERBS.17"
 msgid "Compiling"
-msgstr ""
+msgstr "Sestavování"
 
 #. UI.WORLDGEN.VERBS.18
 msgctxt "UI.WORLDGEN.VERBS.18"
 msgid "Building"
-msgstr ""
+msgstr "Budování"
 
 #. UI.WORLDGEN.VERBS.19
 msgctxt "UI.WORLDGEN.VERBS.19"
 msgid "Spawning"
-msgstr ""
+msgstr "Množení"
 
 #. UI.WORLDGEN.VERBS.2
 msgctxt "UI.WORLDGEN.VERBS.2"
 msgid "Generating"
-msgstr ""
+msgstr "Generování"
 
 #. UI.WORLDGEN.VERBS.20
 msgctxt "UI.WORLDGEN.VERBS.20"
 msgid "Rendering"
-msgstr ""
+msgstr "Vykreslování"
 
 #. UI.WORLDGEN.VERBS.21
 msgctxt "UI.WORLDGEN.VERBS.21"
 msgid "Enchanting"
-msgstr ""
+msgstr "Očarovávání"
 
 #. UI.WORLDGEN.VERBS.22
 msgctxt "UI.WORLDGEN.VERBS.22"
 msgid "Solving"
-msgstr ""
+msgstr "Řešení"
 
 #. UI.WORLDGEN.VERBS.3
 msgctxt "UI.WORLDGEN.VERBS.3"
 msgid "Herding"
-msgstr ""
+msgstr "Nahánění"
 
 #. UI.WORLDGEN.VERBS.4
 msgctxt "UI.WORLDGEN.VERBS.4"
 msgid "Embiggening"
-msgstr ""
+msgstr "Zveličování"
 
 #. UI.WORLDGEN.VERBS.5
 msgctxt "UI.WORLDGEN.VERBS.5"
 msgid "Iterating upon"
-msgstr ""
+msgstr "Cizelování"
 
 #. UI.WORLDGEN.VERBS.6
 msgctxt "UI.WORLDGEN.VERBS.6"
@@ -327,4 +333,3 @@ msgstr ""
 msgctxt "UI.WORLDGEN.VERBS.9"
 msgid "Framing"
 msgstr ""
-
