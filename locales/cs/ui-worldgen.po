@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-17 22:06+0000\n"
+"PO-Revision-Date: 2022-05-17 22:40+0000\n"
 "Last-Translator: Ender Wiggin <f@endeer.cz>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
@@ -317,12 +317,12 @@ msgstr "Cizelování"
 #. UI.WORLDGEN.VERBS.6
 msgctxt "UI.WORLDGEN.VERBS.6"
 msgid "Insinuating"
-msgstr ""
+msgstr "Vetkávání"
 
 #. UI.WORLDGEN.VERBS.7
 msgctxt "UI.WORLDGEN.VERBS.7"
 msgid "Reticulating"
-msgstr ""
+msgstr "Rozvětvování"
 
 #. UI.WORLDGEN.VERBS.8
 msgctxt "UI.WORLDGEN.VERBS.8"
