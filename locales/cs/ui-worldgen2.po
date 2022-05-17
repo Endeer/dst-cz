@@ -1,7 +1,13 @@
+# 
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-05-17 22:51+0000\n"
+"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
 "POT Version: 2.0\n"
+"X-Generator: Pontoon\n"
 
 #. UI.WORLDGEN.CAVETITLE
 msgctxt "UI.WORLDGEN.CAVETITLE"
@@ -296,7 +302,7 @@ msgstr "Solving"
 #. UI.WORLDGEN.VERBS.3
 msgctxt "UI.WORLDGEN.VERBS.3"
 msgid "Herding"
-msgstr "Herding"
+msgstr "Řešení"
 
 #. UI.WORLDGEN.VERBS.4
 msgctxt "UI.WORLDGEN.VERBS.4"
@@ -327,4 +333,3 @@ msgstr "Inserting"
 msgctxt "UI.WORLDGEN.VERBS.9"
 msgid "Framing"
 msgstr "Framing"
-
