@@ -1,12 +1,18 @@
+# 
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-05-17 19:25+0000\n"
+"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
 "POT Version: 2.0\n"
+"X-Generator: Pontoon\n"
 
 #. ACTIONS.ABANDON
 msgctxt "ACTIONS.ABANDON"
 msgid "Abandon"
-msgstr ""
+msgstr "Opustit"
 
 #. ACTIONS.ABANDON_QUEST
 msgctxt "ACTIONS.ABANDON_QUEST"
@@ -1677,4 +1683,3 @@ msgstr ""
 msgctxt "ACTIONS.YOTB_UNLOCKSKIN"
 msgid "Learn Costume"
 msgstr ""
-
