@@ -1,0 +1,425 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.HUD.ACTIVATE_RESURRECTION
+msgctxt "UI.HUD.ACTIVATE_RESURRECTION"
+msgid "Activate Meat Effigy"
+msgstr "고기 우상 활성화"
+
+#. UI.HUD.AFK_BODY
+msgctxt "UI.HUD.AFK_BODY"
+msgid "Make sure to stretch your legs! The deathly wilderness will still be here when you get back."
+msgstr "잠깐 쉬면서 다리를 스트레칭하세요! 죽음의 황무지는 여전히 기다리고 있을 것입니다."
+
+#. UI.HUD.AFK_OK
+msgctxt "UI.HUD.AFK_OK"
+msgid "Return"
+msgstr "확인"
+
+#. UI.HUD.AFK_TITLE
+msgctxt "UI.HUD.AFK_TITLE"
+msgid "Taking A Breather"
+msgstr "잠깐의 휴식"
+
+#. UI.HUD.ATTACK
+msgctxt "UI.HUD.ATTACK"
+msgid "Attack"
+msgstr "공격"
+
+#. UI.HUD.BUILD
+msgctxt "UI.HUD.BUILD"
+msgid "Build"
+msgstr "만들기"
+
+#. UI.HUD.BUYNOW
+msgctxt "UI.HUD.BUYNOW"
+msgid "Buy Now"
+msgstr "지금 구매"
+
+#. UI.HUD.CANCEL
+msgctxt "UI.HUD.CANCEL"
+msgid "Cancel"
+msgstr "취소"
+
+#. UI.HUD.CLOCKDAY
+msgctxt "UI.HUD.CLOCKDAY"
+msgid "Day"
+msgstr "낮"
+
+#. UI.HUD.CLOCKDAYS
+msgctxt "UI.HUD.CLOCKDAYS"
+msgid "Days"
+msgstr "일"
+
+#. UI.HUD.CLOCKSURVIVED
+msgctxt "UI.HUD.CLOCKSURVIVED"
+msgid "Survived"
+msgstr "생존"
+
+#. UI.HUD.CRITTER_TRAITS.COMBAT
+msgctxt "UI.HUD.CRITTER_TRAITS.COMBAT"
+msgid "Scrappy"
+msgstr "공격적인"
+
+#. UI.HUD.CRITTER_TRAITS.CRAFTY
+msgctxt "UI.HUD.CRITTER_TRAITS.CRAFTY"
+msgid "Crafty"
+msgstr "교활한"
+
+#. UI.HUD.CRITTER_TRAITS.PLAYFUL
+msgctxt "UI.HUD.CRITTER_TRAITS.PLAYFUL"
+msgid "Peppy"
+msgstr "활발한"
+
+#. UI.HUD.CRITTER_TRAITS.WELLFED
+msgctxt "UI.HUD.CRITTER_TRAITS.WELLFED"
+msgid "Plump"
+msgstr "통통한"
+
+#. UI.HUD.DEATH_ANNOUNCEMENT_1
+msgctxt "UI.HUD.DEATH_ANNOUNCEMENT_1"
+msgid "was killed by"
+msgstr "사망. 사인:"
+
+#. UI.HUD.DEATH_ANNOUNCEMENT_2_DEFAULT
+msgctxt "UI.HUD.DEATH_ANNOUNCEMENT_2_DEFAULT"
+msgid ". They became a spooky ghost!"
+msgstr ". 그들은 으스스한 유령이 되었다!"
+
+#. UI.HUD.DEATH_ANNOUNCEMENT_2_FEMALE
+msgctxt "UI.HUD.DEATH_ANNOUNCEMENT_2_FEMALE"
+msgid ". She became a spooky ghost!"
+msgstr ". 그녀는 으스스한 유령이 되었다!"
+
+#. UI.HUD.DEATH_ANNOUNCEMENT_2_MALE
+msgctxt "UI.HUD.DEATH_ANNOUNCEMENT_2_MALE"
+msgid ". He became a spooky ghost!"
+msgstr ". 그는 으스스한 유령이 되었다!"
+
+#. UI.HUD.DEATH_ANNOUNCEMENT_2_ROBOT
+msgctxt "UI.HUD.DEATH_ANNOUNCEMENT_2_ROBOT"
+msgid ". They became a spooky ghost!"
+msgstr ". 그들은 으스스한 유령이 되었다!"
+
+#. UI.HUD.DEATH_PET_NAME
+msgctxt "UI.HUD.DEATH_PET_NAME"
+msgid "%s's %s"
+msgstr "%s의 %s"
+
+#. UI.HUD.DEPLOY
+msgctxt "UI.HUD.DEPLOY"
+msgid "Deploy"
+msgstr "배치"
+
+#. UI.HUD.DROP
+msgctxt "UI.HUD.DROP"
+msgid "Drop"
+msgstr "내려놓기"
+
+#. UI.HUD.EQUIP
+msgctxt "UI.HUD.EQUIP"
+msgid "Equip"
+msgstr "장착하기"
+
+#. UI.HUD.GETHALF
+msgctxt "UI.HUD.GETHALF"
+msgid "Get Half"
+msgstr "반만 챙기기"
+
+#. UI.HUD.GHOST_DEATH_ANNOUNCEMENT_DEFAULT
+msgctxt "UI.HUD.GHOST_DEATH_ANNOUNCEMENT_DEFAULT"
+msgid "lost all of their humanity and is gone forever."
+msgstr "은(는) 인간성을 잃고 영영 사라졌다."
+
+#. UI.HUD.GHOST_DEATH_ANNOUNCEMENT_FEMALE
+msgctxt "UI.HUD.GHOST_DEATH_ANNOUNCEMENT_FEMALE"
+msgid "lost all of her humanity and is gone forever."
+msgstr "은(는) 인간성을 잃고 영영 사라졌다."
+
+#. UI.HUD.GHOST_DEATH_ANNOUNCEMENT_MALE
+msgctxt "UI.HUD.GHOST_DEATH_ANNOUNCEMENT_MALE"
+msgid "lost all of his humanity and is gone forever."
+msgstr "은(는) 인간성을 잃고 영영 사라졌다."
+
+#. UI.HUD.GHOST_DEATH_ANNOUNCEMENT_ROBOT
+msgctxt "UI.HUD.GHOST_DEATH_ANNOUNCEMENT_ROBOT"
+msgid "lost all of their humanity and is gone forever."
+msgstr "은(는) 인간성을 잃고 영영 사라졌다."
+
+#. UI.HUD.HERE
+msgctxt "UI.HUD.HERE"
+msgid "here"
+msgstr "이곳"
+
+#. UI.HUD.HUNGRY
+msgctxt "UI.HUD.HUNGRY"
+msgid "Hungry"
+msgstr "배고픔"
+
+#. UI.HUD.INSPECT
+msgctxt "UI.HUD.INSPECT"
+msgid "Inspect"
+msgstr "조사하기"
+
+#. UI.HUD.INSPECT_SELF
+msgctxt "UI.HUD.INSPECT_SELF"
+msgid "Inspect Self"
+msgstr "자신 조사하기"
+
+#. UI.HUD.LAVAARENA_LOSE_BODY
+msgctxt "UI.HUD.LAVAARENA_LOSE_BODY"
+msgid "You have failed Battlemaster Pugna's challenge."
+msgstr "전장의 주인 퍼그나의 시험에서 실패했다."
+
+#. UI.HUD.LAVAARENA_LOSE_TITLE
+msgctxt "UI.HUD.LAVAARENA_LOSE_TITLE"
+msgid "Defeat!"
+msgstr "패배!"
+
+#. UI.HUD.LAVAARENA_WIN_BODY
+msgctxt "UI.HUD.LAVAARENA_WIN_BODY"
+msgid "You have bested Battlemaster Pugna's champions in battle."
+msgstr "전투에서 전장의 주인 퍼그나의 전사들을 무찔렀다."
+
+#. UI.HUD.LAVAARENA_WIN_TITLE
+msgctxt "UI.HUD.LAVAARENA_WIN_TITLE"
+msgid "Victory!"
+msgstr "승리!"
+
+#. UI.HUD.MAP
+msgctxt "UI.HUD.MAP"
+msgid "Show Map\n"
+msgstr "지도 표시\n"
+
+#. UI.HUD.OPENGIFT
+msgctxt "UI.HUD.OPENGIFT"
+msgid "Activate"
+msgstr "작동하기"
+
+#. UI.HUD.PAUSE
+msgctxt "UI.HUD.PAUSE"
+msgid "Pause\n"
+msgstr "일시 중지\n"
+
+#. UI.HUD.PUT
+msgctxt "UI.HUD.PUT"
+msgid "Put"
+msgstr "놓기"
+
+#. UI.HUD.PUTONE
+msgctxt "UI.HUD.PUTONE"
+msgid "Put One"
+msgstr "한 개 두기"
+
+#. UI.HUD.QUAGMIRE_NOTFICATIONS.DISCOVERED
+msgctxt "UI.HUD.QUAGMIRE_NOTFICATIONS.DISCOVERED"
+msgid "New Recipe Discovered"
+msgstr "새로운 레시피 발견"
+
+#. UI.HUD.QUAGMIRE_NOTFICATIONS.FAILED
+msgctxt "UI.HUD.QUAGMIRE_NOTFICATIONS.FAILED"
+msgid "Recipe Failed"
+msgstr "레시피 실패"
+
+#. UI.HUD.QUAGMIRE_NOTFICATIONS.INGREDIENT_MADE
+msgctxt "UI.HUD.QUAGMIRE_NOTFICATIONS.INGREDIENT_MADE"
+msgid "Syrup Produced"
+msgstr "시럽 생산"
+
+#. UI.HUD.QUAGMIRE_NOTFICATIONS.MADE
+msgctxt "UI.HUD.QUAGMIRE_NOTFICATIONS.MADE"
+msgid "Meal Cooked"
+msgstr "음식 요리 완료"
+
+#. UI.HUD.QUAGMIRE_NOTFICATIONS.OVERCOOKED
+msgctxt "UI.HUD.QUAGMIRE_NOTFICATIONS.OVERCOOKED"
+msgid "Meal Burnt"
+msgstr "음식 태움"
+
+#. UI.HUD.QUAGMIRE_NOTFICATIONS.SENT
+msgctxt "UI.HUD.QUAGMIRE_NOTFICATIONS.SENT"
+msgid "Meal Snackrificed"
+msgstr "음식 제물로 바침"
+
+#. UI.HUD.READY
+msgctxt "UI.HUD.READY"
+msgid "How long will you survive?"
+msgstr "과연 얼마나 버틸 수 있을까요?"
+
+#. UI.HUD.READYTITLE
+msgctxt "UI.HUD.READYTITLE"
+msgid "Ready to play!"
+msgstr "플레이 준비 완료!"
+
+#. UI.HUD.REPORT_RESULT_ANNOUCEMENT
+msgctxt "UI.HUD.REPORT_RESULT_ANNOUCEMENT"
+msgid "Your presence has been noticed."
+msgstr "당신의 존재가 감지되었습니다."
+
+#. UI.HUD.RETROFITTING_ANNOUNCEMENT
+msgctxt "UI.HUD.RETROFITTING_ANNOUNCEMENT"
+msgid "World will reload in {time} seconds to complete retrofitting."
+msgstr "레트로핏을 완료하기 위해 {time}초 뒤 세계를 다시 불러옵니다."
+
+#. UI.HUD.RETROFITTING_ANNOUNCEMENT_NOW
+msgctxt "UI.HUD.RETROFITTING_ANNOUNCEMENT_NOW"
+msgid "World is reloading to complete retrofitting."
+msgstr "레트로핏을 완료하기 위해 세계를 다시 불러오는 중입니다."
+
+#. UI.HUD.REZ_ANNOUNCEMENT
+msgctxt "UI.HUD.REZ_ANNOUNCEMENT"
+msgid "was resurrected by"
+msgstr "부활. 시전자:"
+
+#. UI.HUD.ROTLEFT
+msgctxt "UI.HUD.ROTLEFT"
+msgid "Rotate Left\n"
+msgstr "왼쪽으로 돌리기\n"
+
+#. UI.HUD.ROTRIGHT
+msgctxt "UI.HUD.ROTRIGHT"
+msgid "Rotate Right\n"
+msgstr "오른쪽으로 돌리기\n"
+
+#. UI.HUD.SAVING
+msgctxt "UI.HUD.SAVING"
+msgid "SAVING..."
+msgstr "저장 중..."
+
+#. UI.HUD.SELECT
+msgctxt "UI.HUD.SELECT"
+msgid "Select"
+msgstr "선택"
+
+#. UI.HUD.SPOILED
+msgctxt "UI.HUD.SPOILED"
+msgid "Spoiled"
+msgstr "상한"
+
+#. UI.HUD.SPOILED_FROZEN
+msgctxt "UI.HUD.SPOILED_FROZEN"
+msgid "Melted"
+msgstr "녹은"
+
+#. UI.HUD.STALE
+msgctxt "UI.HUD.STALE"
+msgid "Stale"
+msgstr "조금 상한"
+
+#. UI.HUD.STALE_FROZEN
+msgctxt "UI.HUD.STALE_FROZEN"
+msgid "Melting"
+msgstr "녹고 있는"
+
+#. UI.HUD.START
+msgctxt "UI.HUD.START"
+msgid "Start"
+msgstr "시작"
+
+#. UI.HUD.START_AFK
+msgctxt "UI.HUD.START_AFK"
+msgid "went away for a bit."
+msgstr "이(가) 잠시 자리를 떠났다."
+
+#. UI.HUD.STARVING
+msgctxt "UI.HUD.STARVING"
+msgid "Starving"
+msgstr "굶주린"
+
+#. UI.HUD.STOP_AFK
+msgctxt "UI.HUD.STOP_AFK"
+msgid "has returned from their relaxing time away."
+msgstr "이(가) 달콤한 휴식을 취하고 돌아왔다."
+
+#. UI.HUD.SWAP
+msgctxt "UI.HUD.SWAP"
+msgid "Swap"
+msgstr "교체"
+
+#. UI.HUD.TAKE
+msgctxt "UI.HUD.TAKE"
+msgid "Take"
+msgstr "가져가기"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.catcoon
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.catcoon"
+msgid "A Catcoon"
+msgstr "캣쿤"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.crabking
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.crabking"
+msgid "The Crab King"
+msgstr "대게왕"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.merm
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.merm"
+msgid "A Merm"
+msgstr "어인"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermguard
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermguard"
+msgid "A Loyal Merm Guard"
+msgstr "충실한 어인 근위병"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermhouse
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermhouse"
+msgid "A family of Merms"
+msgstr "어인 가족"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermhouse_crafted
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermhouse_crafted"
+msgid "A well-to-do Merm"
+msgstr "부유한 어인"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermking
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermking"
+msgid "The King of the Merms"
+msgstr "어인의 왕"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermthrone
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermthrone"
+msgid "The King of the Merms"
+msgstr "어인의 왕"
+
+#. UI.HUD.TROPHYSCALE_UNKNOWN_OWNER
+msgctxt "UI.HUD.TROPHYSCALE_UNKNOWN_OWNER"
+msgid "An Unnamed Donor"
+msgstr "익명의 기부자"
+
+#. UI.HUD.UNEQUIP
+msgctxt "UI.HUD.UNEQUIP"
+msgid "Unequip"
+msgstr "장착 해제하기"
+
+#. UI.HUD.UNLOCK_TARGET
+msgctxt "UI.HUD.UNLOCK_TARGET"
+msgid "Unlock Target"
+msgstr "표적 잠금 해제"
+
+#. UI.HUD.WAXED
+msgctxt "UI.HUD.WAXED"
+msgid "Waxed"
+msgstr "왁스칠 됨"
+
+#. UI.HUD.WHACK
+msgctxt "UI.HUD.WHACK"
+msgid "Whack"
+msgstr "후려치기"
+
+#. UI.HUD.WORLD
+msgctxt "UI.HUD.WORLD"
+msgid "World"
+msgstr "세계"
+
+#. UI.HUD.WORLD_CLOCKDAY
+msgctxt "UI.HUD.WORLD_CLOCKDAY"
+msgid "Day"
+msgstr "낮"
+
+#. UI.HUD.WORLD_CLOCKDAY_V2
+msgctxt "UI.HUD.WORLD_CLOCKDAY_V2"
+msgid "Day {day_count}"
+msgstr "제{day_count}일"
+

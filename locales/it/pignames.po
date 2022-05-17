@@ -1,0 +1,735 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. PIGNAMES.1
+msgctxt "PIGNAMES.1"
+msgid "Augustus"
+msgstr "Augusto"
+
+#. PIGNAMES.10
+msgctxt "PIGNAMES.10"
+msgid "Titus"
+msgstr "Tito"
+
+#. PIGNAMES.100
+msgctxt "PIGNAMES.100"
+msgid "Hugo"
+msgstr "Ugo"
+
+#. PIGNAMES.101
+msgctxt "PIGNAMES.101"
+msgid "Moon Pie"
+msgstr "Merendina"
+
+#. PIGNAMES.102
+msgctxt "PIGNAMES.102"
+msgid "Bagel"
+msgstr "Bagel"
+
+#. PIGNAMES.103
+msgctxt "PIGNAMES.103"
+msgid "Biscuit"
+msgstr "Biscotto"
+
+#. PIGNAMES.104
+msgctxt "PIGNAMES.104"
+msgid "Bacon"
+msgstr "Pancetta"
+
+#. PIGNAMES.105
+msgctxt "PIGNAMES.105"
+msgid "Hamilton"
+msgstr "Hamilton"
+
+#. PIGNAMES.106
+msgctxt "PIGNAMES.106"
+msgid "Hamms"
+msgstr "Amedeo"
+
+#. PIGNAMES.107
+msgctxt "PIGNAMES.107"
+msgid "Mr.P"
+msgstr "Sig. P"
+
+#. PIGNAMES.108
+msgctxt "PIGNAMES.108"
+msgid "Brownie"
+msgstr "Brownie"
+
+#. PIGNAMES.109
+msgctxt "PIGNAMES.109"
+msgid "Butters"
+msgstr "Burro"
+
+#. PIGNAMES.11
+msgctxt "PIGNAMES.11"
+msgid "Domitian"
+msgstr "Domiziano"
+
+#. PIGNAMES.110
+msgctxt "PIGNAMES.110"
+msgid "Tuna"
+msgstr "Tonno"
+
+#. PIGNAMES.111
+msgctxt "PIGNAMES.111"
+msgid "Clover"
+msgstr "Trifoglio"
+
+#. PIGNAMES.112
+msgctxt "PIGNAMES.112"
+msgid "Coco"
+msgstr "Cocco"
+
+#. PIGNAMES.113
+msgctxt "PIGNAMES.113"
+msgid "Custard"
+msgstr "Crema"
+
+#. PIGNAMES.114
+msgctxt "PIGNAMES.114"
+msgid "Dumpling"
+msgstr "Gnocco"
+
+#. PIGNAMES.115
+msgctxt "PIGNAMES.115"
+msgid "Eggy"
+msgstr "Uovoso"
+
+#. PIGNAMES.116
+msgctxt "PIGNAMES.116"
+msgid "Kiwi"
+msgstr "Kiwi"
+
+#. PIGNAMES.117
+msgctxt "PIGNAMES.117"
+msgid "Weiner"
+msgstr "Weiner"
+
+#. PIGNAMES.118
+msgctxt "PIGNAMES.118"
+msgid "Waffle"
+msgstr "Cialda"
+
+#. PIGNAMES.119
+msgctxt "PIGNAMES.119"
+msgid "Twinkie"
+msgstr "Twinkie"
+
+#. PIGNAMES.12
+msgctxt "PIGNAMES.12"
+msgid "Nerva"
+msgstr "Nerva"
+
+#. PIGNAMES.120
+msgctxt "PIGNAMES.120"
+msgid "Truffle"
+msgstr "Tartufo"
+
+#. PIGNAMES.121
+msgctxt "PIGNAMES.121"
+msgid "Tater"
+msgstr "Patata"
+
+#. PIGNAMES.122
+msgctxt "PIGNAMES.122"
+msgid "Cheddar"
+msgstr "Cheddar"
+
+#. PIGNAMES.123
+msgctxt "PIGNAMES.123"
+msgid "Pumpkin"
+msgstr "Zucca"
+
+#. PIGNAMES.124
+msgctxt "PIGNAMES.124"
+msgid "Oatey"
+msgstr "Avena"
+
+#. PIGNAMES.125
+msgctxt "PIGNAMES.125"
+msgid "Oinkey"
+msgstr "Grugno"
+
+#. PIGNAMES.126
+msgctxt "PIGNAMES.126"
+msgid "Nacho"
+msgstr "Nacho"
+
+#. PIGNAMES.127
+msgctxt "PIGNAMES.127"
+msgid "Puffin"
+msgstr "Pio"
+
+#. PIGNAMES.128
+msgctxt "PIGNAMES.128"
+msgid "Doughnut"
+msgstr "Ciambella"
+
+#. PIGNAMES.129
+msgctxt "PIGNAMES.129"
+msgid "Cabbage"
+msgstr "Verza"
+
+#. PIGNAMES.13
+msgctxt "PIGNAMES.13"
+msgid "Trajan"
+msgstr "Traiano"
+
+#. PIGNAMES.130
+msgctxt "PIGNAMES.130"
+msgid "Porky"
+msgstr "Porky"
+
+#. PIGNAMES.131
+msgctxt "PIGNAMES.131"
+msgid "Porkins"
+msgstr "Porchino"
+
+#. PIGNAMES.132
+msgctxt "PIGNAMES.132"
+msgid "Porkbun"
+msgstr "Porcuno"
+
+#. PIGNAMES.133
+msgctxt "PIGNAMES.133"
+msgid "Pepper"
+msgstr "Peperoncino"
+
+#. PIGNAMES.134
+msgctxt "PIGNAMES.134"
+msgid "Gouda"
+msgstr "Gouda"
+
+#. PIGNAMES.135
+msgctxt "PIGNAMES.135"
+msgid "Eggbert"
+msgstr "Uoverto"
+
+#. PIGNAMES.136
+msgctxt "PIGNAMES.136"
+msgid "Chip"
+msgstr "Chip"
+
+#. PIGNAMES.137
+msgctxt "PIGNAMES.137"
+msgid "Berry"
+msgstr "Bacca"
+
+#. PIGNAMES.138
+msgctxt "PIGNAMES.138"
+msgid "Crabby"
+msgstr "Granchio"
+
+#. PIGNAMES.139
+msgctxt "PIGNAMES.139"
+msgid "Reuben"
+msgstr "Reuben"
+
+#. PIGNAMES.14
+msgctxt "PIGNAMES.14"
+msgid "Hadrian"
+msgstr "Adriano"
+
+#. PIGNAMES.140
+msgctxt "PIGNAMES.140"
+msgid "Barley"
+msgstr "Orzo"
+
+#. PIGNAMES.141
+msgctxt "PIGNAMES.141"
+msgid "Olive"
+msgstr "Olivio"
+
+#. PIGNAMES.142
+msgctxt "PIGNAMES.142"
+msgid "Pickles"
+msgstr "Cetriolo"
+
+#. PIGNAMES.143
+msgctxt "PIGNAMES.143"
+msgid "Wiggles"
+msgstr "Ondino"
+
+#. PIGNAMES.144
+msgctxt "PIGNAMES.144"
+msgid "Jerky"
+msgstr "Cotechino"
+
+#. PIGNAMES.145
+msgctxt "PIGNAMES.145"
+msgid "Smelly"
+msgstr "Puzzino"
+
+#. PIGNAMES.146
+msgctxt "PIGNAMES.146"
+msgid "Salty"
+msgstr "Salatino"
+
+#. PIGNAMES.15
+msgctxt "PIGNAMES.15"
+msgid "Antonius"
+msgstr "Antonino"
+
+#. PIGNAMES.16
+msgctxt "PIGNAMES.16"
+msgid "Lucius"
+msgstr "Lucio Vero"
+
+#. PIGNAMES.17
+msgctxt "PIGNAMES.17"
+msgid "Marcus"
+msgstr "Marco Aurelio"
+
+#. PIGNAMES.18
+msgctxt "PIGNAMES.18"
+msgid "Commodus"
+msgstr "Commodo"
+
+#. PIGNAMES.19
+msgctxt "PIGNAMES.19"
+msgid "Pertinax"
+msgstr "Pertinace"
+
+#. PIGNAMES.2
+msgctxt "PIGNAMES.2"
+msgid "Tiberius"
+msgstr "Tiberio"
+
+#. PIGNAMES.20
+msgctxt "PIGNAMES.20"
+msgid "Didius"
+msgstr "Didio"
+
+#. PIGNAMES.21
+msgctxt "PIGNAMES.21"
+msgid "Septmius"
+msgstr "Settimio"
+
+#. PIGNAMES.22
+msgctxt "PIGNAMES.22"
+msgid "Caracalla"
+msgstr "Caracalla"
+
+#. PIGNAMES.23
+msgctxt "PIGNAMES.23"
+msgid "Geta"
+msgstr "Geta"
+
+#. PIGNAMES.24
+msgctxt "PIGNAMES.24"
+msgid "Marcrinus"
+msgstr "Macrino"
+
+#. PIGNAMES.25
+msgctxt "PIGNAMES.25"
+msgid "Elagabalus"
+msgstr "Eliogabalo"
+
+#. PIGNAMES.26
+msgctxt "PIGNAMES.26"
+msgid "Severus"
+msgstr "Severo"
+
+#. PIGNAMES.27
+msgctxt "PIGNAMES.27"
+msgid "Maximinus"
+msgstr "Massimino"
+
+#. PIGNAMES.28
+msgctxt "PIGNAMES.28"
+msgid "Gordian"
+msgstr "Gordiano"
+
+#. PIGNAMES.29
+msgctxt "PIGNAMES.29"
+msgid "Pupienus"
+msgstr "Pupieno"
+
+#. PIGNAMES.3
+msgctxt "PIGNAMES.3"
+msgid "Caligula"
+msgstr "Caligola"
+
+#. PIGNAMES.30
+msgctxt "PIGNAMES.30"
+msgid "Balbinus"
+msgstr "Balbino"
+
+#. PIGNAMES.31
+msgctxt "PIGNAMES.31"
+msgid "Philip"
+msgstr "Filippo"
+
+#. PIGNAMES.32
+msgctxt "PIGNAMES.32"
+msgid "Hostilian"
+msgstr "Ostiliano"
+
+#. PIGNAMES.33
+msgctxt "PIGNAMES.33"
+msgid "Trebonianus"
+msgstr "Treboniano"
+
+#. PIGNAMES.34
+msgctxt "PIGNAMES.34"
+msgid "Aemilian"
+msgstr "Emiliano"
+
+#. PIGNAMES.35
+msgctxt "PIGNAMES.35"
+msgid "Valerian"
+msgstr "Valeriano"
+
+#. PIGNAMES.36
+msgctxt "PIGNAMES.36"
+msgid "Gallienus"
+msgstr "Gallieno"
+
+#. PIGNAMES.37
+msgctxt "PIGNAMES.37"
+msgid "Quintillus"
+msgstr "Quintillo"
+
+#. PIGNAMES.38
+msgctxt "PIGNAMES.38"
+msgid "Aurelian"
+msgstr "Aureliano"
+
+#. PIGNAMES.39
+msgctxt "PIGNAMES.39"
+msgid "Tacitus"
+msgstr "Tacito"
+
+#. PIGNAMES.4
+msgctxt "PIGNAMES.4"
+msgid "Claudius"
+msgstr "Claudio"
+
+#. PIGNAMES.40
+msgctxt "PIGNAMES.40"
+msgid "Florian"
+msgstr "Floriano"
+
+#. PIGNAMES.41
+msgctxt "PIGNAMES.41"
+msgid "Probus"
+msgstr "Probo"
+
+#. PIGNAMES.42
+msgctxt "PIGNAMES.42"
+msgid "Carus"
+msgstr "Caro"
+
+#. PIGNAMES.43
+msgctxt "PIGNAMES.43"
+msgid "Numerian"
+msgstr "Numeriano"
+
+#. PIGNAMES.44
+msgctxt "PIGNAMES.44"
+msgid "Carinus"
+msgstr "Carino"
+
+#. PIGNAMES.45
+msgctxt "PIGNAMES.45"
+msgid "Diocletian"
+msgstr "Diocleziano"
+
+#. PIGNAMES.46
+msgctxt "PIGNAMES.46"
+msgid "Maximian"
+msgstr "Massimiano"
+
+#. PIGNAMES.47
+msgctxt "PIGNAMES.47"
+msgid "Constantius"
+msgstr "Costanzo"
+
+#. PIGNAMES.48
+msgctxt "PIGNAMES.48"
+msgid "Galerius"
+msgstr "Galerio"
+
+#. PIGNAMES.49
+msgctxt "PIGNAMES.49"
+msgid "Constantine"
+msgstr "Costantino"
+
+#. PIGNAMES.5
+msgctxt "PIGNAMES.5"
+msgid "Nero"
+msgstr "Nerone"
+
+#. PIGNAMES.50
+msgctxt "PIGNAMES.50"
+msgid "Maxentius"
+msgstr "Massenzio"
+
+#. PIGNAMES.51
+msgctxt "PIGNAMES.51"
+msgid "Licinius"
+msgstr "Licinio"
+
+#. PIGNAMES.52
+msgctxt "PIGNAMES.52"
+msgid "Constans"
+msgstr "Costante"
+
+#. PIGNAMES.53
+msgctxt "PIGNAMES.53"
+msgid "Vetriano"
+msgstr "Vetranione"
+
+#. PIGNAMES.54
+msgctxt "PIGNAMES.54"
+msgid "Julian"
+msgstr "Giuliano"
+
+#. PIGNAMES.55
+msgctxt "PIGNAMES.55"
+msgid "Jovian"
+msgstr "Gioviano"
+
+#. PIGNAMES.56
+msgctxt "PIGNAMES.56"
+msgid "Valentinian"
+msgstr "Valentiniano"
+
+#. PIGNAMES.57
+msgctxt "PIGNAMES.57"
+msgid "Valens"
+msgstr "Valente"
+
+#. PIGNAMES.58
+msgctxt "PIGNAMES.58"
+msgid "Gratian"
+msgstr "Graziano"
+
+#. PIGNAMES.59
+msgctxt "PIGNAMES.59"
+msgid "Theodosius"
+msgstr "Teodosio"
+
+#. PIGNAMES.6
+msgctxt "PIGNAMES.6"
+msgid "Galba"
+msgstr "Galba"
+
+#. PIGNAMES.60
+msgctxt "PIGNAMES.60"
+msgid "Arcadius"
+msgstr "Arcadio"
+
+#. PIGNAMES.61
+msgctxt "PIGNAMES.61"
+msgid "Honorius"
+msgstr "Onorio"
+
+#. PIGNAMES.62
+msgctxt "PIGNAMES.62"
+msgid "Joannes"
+msgstr "Giovanni"
+
+#. PIGNAMES.63
+msgctxt "PIGNAMES.63"
+msgid "Marcian"
+msgstr "Marciano"
+
+#. PIGNAMES.64
+msgctxt "PIGNAMES.64"
+msgid "Petronius"
+msgstr "Petronio"
+
+#. PIGNAMES.65
+msgctxt "PIGNAMES.65"
+msgid "Avitus"
+msgstr "Avito"
+
+#. PIGNAMES.66
+msgctxt "PIGNAMES.66"
+msgid "Majorian"
+msgstr "Maggioriano"
+
+#. PIGNAMES.67
+msgctxt "PIGNAMES.67"
+msgid "Libius"
+msgstr "Libio"
+
+#. PIGNAMES.68
+msgctxt "PIGNAMES.68"
+msgid "Anthemius"
+msgstr "Antemio"
+
+#. PIGNAMES.69
+msgctxt "PIGNAMES.69"
+msgid "Olybrius"
+msgstr "Olibrio"
+
+#. PIGNAMES.7
+msgctxt "PIGNAMES.7"
+msgid "Otho"
+msgstr "Otone"
+
+#. PIGNAMES.70
+msgctxt "PIGNAMES.70"
+msgid "Glycerius"
+msgstr "Glicerio"
+
+#. PIGNAMES.71
+msgctxt "PIGNAMES.71"
+msgid "Julius"
+msgstr "Giulio"
+
+#. PIGNAMES.72
+msgctxt "PIGNAMES.72"
+msgid "Romulus"
+msgstr "Romolo"
+
+#. PIGNAMES.73
+msgctxt "PIGNAMES.73"
+msgid "Leo"
+msgstr "Leone"
+
+#. PIGNAMES.74
+msgctxt "PIGNAMES.74"
+msgid "Zeno"
+msgstr "Zenone"
+
+#. PIGNAMES.75
+msgctxt "PIGNAMES.75"
+msgid "Basiliscus"
+msgstr "Basilisco"
+
+#. PIGNAMES.76
+msgctxt "PIGNAMES.76"
+msgid "Anatasius"
+msgstr "Anastasio"
+
+#. PIGNAMES.77
+msgctxt "PIGNAMES.77"
+msgid "Justin"
+msgstr "Giustino"
+
+#. PIGNAMES.78
+msgctxt "PIGNAMES.78"
+msgid "Justinian"
+msgstr "Giustiniano"
+
+#. PIGNAMES.79
+msgctxt "PIGNAMES.79"
+msgid "Maurice"
+msgstr "Maurizio"
+
+#. PIGNAMES.8
+msgctxt "PIGNAMES.8"
+msgid "Vitellius"
+msgstr "Vitellio"
+
+#. PIGNAMES.80
+msgctxt "PIGNAMES.80"
+msgid "Mickey"
+msgstr "Michele"
+
+#. PIGNAMES.81
+msgctxt "PIGNAMES.81"
+msgid "Cheeky Chris"
+msgstr "Chris Faccia tosta"
+
+#. PIGNAMES.82
+msgctxt "PIGNAMES.82"
+msgid "Kevin"
+msgstr "Calvino"
+
+#. PIGNAMES.83
+msgctxt "PIGNAMES.83"
+msgid "Ju-lian"
+msgstr "Giu-liano"
+
+#. PIGNAMES.84
+msgctxt "PIGNAMES.84"
+msgid "Alia"
+msgstr "Alia"
+
+#. PIGNAMES.85
+msgctxt "PIGNAMES.85"
+msgid "Tatham"
+msgstr "Tatamo"
+
+#. PIGNAMES.86
+msgctxt "PIGNAMES.86"
+msgid "Brook"
+msgstr "Brucco"
+
+#. PIGNAMES.87
+msgctxt "PIGNAMES.87"
+msgid "Matt"
+msgstr "Mattia"
+
+#. PIGNAMES.88
+msgctxt "PIGNAMES.88"
+msgid "Alex"
+msgstr "Alessandro"
+
+#. PIGNAMES.89
+msgctxt "PIGNAMES.89"
+msgid "Kris"
+msgstr "Kris"
+
+#. PIGNAMES.9
+msgctxt "PIGNAMES.9"
+msgid "Vespasian"
+msgstr "Vespasiano"
+
+#. PIGNAMES.90
+msgctxt "PIGNAMES.90"
+msgid "Kelly"
+msgstr "Kelly"
+
+#. PIGNAMES.91
+msgctxt "PIGNAMES.91"
+msgid "Eugene"
+msgstr "Eugenio"
+
+#. PIGNAMES.92
+msgctxt "PIGNAMES.92"
+msgid "Graham"
+msgstr "Gramo"
+
+#. PIGNAMES.93
+msgctxt "PIGNAMES.93"
+msgid "Jamie"
+msgstr "Gianni"
+
+#. PIGNAMES.94
+msgctxt "PIGNAMES.94"
+msgid "Jeff"
+msgstr "Genoveffo"
+
+#. PIGNAMES.95
+msgctxt "PIGNAMES.95"
+msgid "Joe"
+msgstr "Giò"
+
+#. PIGNAMES.96
+msgctxt "PIGNAMES.96"
+msgid "Corey"
+msgstr "Cara"
+
+#. PIGNAMES.97
+msgctxt "PIGNAMES.97"
+msgid "Bryce"
+msgstr "Benedetto"
+
+#. PIGNAMES.98
+msgctxt "PIGNAMES.98"
+msgid "Bug"
+msgstr "Buggo"
+
+#. PIGNAMES.99
+msgctxt "PIGNAMES.99"
+msgid "Seth"
+msgstr "Set"
+

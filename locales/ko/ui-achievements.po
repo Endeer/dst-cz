@@ -1,0 +1,1510 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.ACHIEVEMENTS.INGAME_NOTICE
+msgctxt "UI.ACHIEVEMENTS.INGAME_NOTICE"
+msgid "Accomplishments are awarded at the end of a match."
+msgstr "도전과제는 매치가 끝난 다음에 달성이 인정됩니다."
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons.DESC"
+msgid "Finish the Pit Pig round having taken less than 800 teamwide damage"
+msgstr "팀이 받은 총 피해가 800 미만인 상태에서 전투 돼지 라운드 완료"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons.TITLE"
+msgid "Down But Not Snout"
+msgstr "칠전팔계"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons_hard.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons_hard.DESC"
+msgid "Finish the Pit Pig round having taken less than 600 teamwide damage"
+msgstr "팀이 받은 총 피해가 600 미만인 상태에서 전투 돼지 라운드 완료"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons_hard.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons_hard.TITLE"
+msgid "Hair Of Their Chinny, Chin, Chin"
+msgstr "턱, 턱, 턱털"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_easy.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_easy.DESC"
+msgid "Survive until the first wave of Scorpeons without any teammates dying"
+msgstr "팀원 사망 없이 전갈 첫 웨이브까지 버티기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_easy.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_easy.TITLE"
+msgid "Not Today"
+msgstr "오늘은 아니다"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_hard.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_hard.DESC"
+msgid "Survive until the Grand Forge Boarrior is summoned without any teammates dying"
+msgstr "팀원 사망 없이 위대한 Forge의 멧투사가 소환될 때까지 버티기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_hard.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_hard.TITLE"
+msgid "Just Won't Die!"
+msgstr "안 죽어!"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_medium.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_medium.DESC"
+msgid "Survive until the first Boarilla arrives and defeat it without any teammates dying"
+msgstr "팀원 사망 없이 첫 멧돼릴라가 도착할 때까지 버티기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_medium.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_medium.TITLE"
+msgid "Hard To Kill"
+msgstr "죽이기 어려움"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_peghook.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_peghook.DESC"
+msgid "Survive the first wave of Scorpeons without any teammates dying from acid"
+msgstr "산성물질로 인한 팀원 사망 없이 전갈 첫 웨이브까지 버티기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_peghook.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_peghook.TITLE"
+msgid "Basic Solution"
+msgstr "기본 용액"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus.DESC"
+msgid "Finish the Snortoise round without allowing Snortoises to perform more than 3 spin attacks"
+msgstr "코자라의 회전 공격이 3회를 넘기 전에 코자라 물리치기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus.TITLE"
+msgid "Big Wheel Kept From Turnin'"
+msgstr "큰 바퀴의 회전 막기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus_hard.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus_hard.DESC"
+msgid "Finish the Snortoise round without allowing Snortoises to perform any spin attacks"
+msgstr "코자라의 회전 공격을 허용하지 않고 코자라 물리치기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus_hard.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus_hard.TITLE"
+msgid "Unspun Hero"
+msgstr "돌지 못하는 영웅"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_axethrow.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_axethrow.DESC"
+msgid "Land 20 Lucy Chucks in a single match"
+msgstr "단일 매치에서 루시 던지기 20회 적중"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_axethrow.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_axethrow.TITLE"
+msgid "Chuck It Overboard"
+msgstr "무조건 던지기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_battlecry.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_battlecry.DESC"
+msgid "Trigger the Battle Cry buff on at least 3 friends, 10 times in a single match"
+msgstr "단일 매치에서 최소한 3명의 친구에게 전투 함성 버프 10회 발동"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_battlecry.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_battlecry.TITLE"
+msgid "Standing Ovation"
+msgstr "기립 박수"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_battlestandards.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_battlestandards.DESC"
+msgid "Destroy 3 or more battle standards in a single match"
+msgstr "단일 매치에서 3개 이상의 전투 깃발 파괴"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_battlestandards.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_battlestandards.TITLE"
+msgid "Triple Standard"
+msgstr "삼중 깃발"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_beetle1.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_beetle1.DESC"
+msgid "desc_laq_beetle1"
+msgstr "desc_laq_beetle1"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_beetle1.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_beetle1.TITLE"
+msgid "name_laq_beetle1"
+msgstr "name_laq_beetle1"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_boarons.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_boarons.DESC"
+msgid "Defeat the Pit Pigs round with less then 800 player damage take by the team"
+msgstr "팀이 받은 총 피해가 800 미만인 상태에서 전투 돼지 라운드 승리"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_boarons.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_boarons.TITLE"
+msgid "Acceptable Casualties"
+msgstr "피해 감수"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_dailymatch.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_dailymatch.DESC"
+msgid ""
+msgstr ""
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_dailymatch.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_dailymatch.TITLE"
+msgid "Daily Match Bonus"
+msgstr "일일 매치 보너스"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_dailywin.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_dailywin.DESC"
+msgid ""
+msgstr ""
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_dailywin.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_dailywin.TITLE"
+msgid "Daily Victory Bonus"
+msgstr "일일 승리 보너스"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_decoy.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_decoy.DESC"
+msgid "Achieve the Expert Decoy card at the end of the match"
+msgstr "매치 종료 시 유인 전문가 카드 달성"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_decoy.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_decoy.TITLE"
+msgid "Bundle of Decoy"
+msgstr "유인 번들"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_boarrior.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_boarrior.DESC"
+msgid "Defeat the Grand Forge Boarrior"
+msgstr "위대한 Forge의 멧투사 물리치기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_boarrior.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_boarrior.TITLE"
+msgid "Boarrior Victorior"
+msgstr "멧투사 승리자"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_rhinodrill.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_rhinodrill.DESC"
+msgid "Defeat the Rhinocebro round"
+msgstr "코뿔소 형제 라운드 격파"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_rhinodrill.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_rhinodrill.TITLE"
+msgid "Way To Go, Bro"
+msgstr "잘 한다, 형제여"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_snapper.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_snapper.DESC"
+msgid "Complete the Crocommander round"
+msgstr "악어사령관 라운드 마치기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_snapper.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_snapper.TITLE"
+msgid "Crocommand the Room"
+msgstr "악어사령관 제압"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_trails.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_trails.DESC"
+msgid "Defeat the Boarilla"
+msgstr "멧돼릴라 물리치기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_trails.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_trails.TITLE"
+msgid "Boarilla'd To Death"
+msgstr "멧돼릴라의 몰락"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_distraction.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_distraction.DESC"
+msgid "Achieve the Distraction or Expert Decoy card at the end of the match"
+msgstr "매치 종료 시 주의 분산 또는 유인 전문가 카드 달성"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_distraction.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_distraction.TITLE"
+msgid "Welcome Distraction"
+msgstr "기꺼운 주의 분산"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_doctor.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_doctor.DESC"
+msgid "Achieve the Doctor card at the end of the match"
+msgstr "매치 종료 시 의사 카드 달성"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_doctor.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_doctor.TITLE"
+msgid "Win Doctor"
+msgstr "의사 획득"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_fasthealing.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_fasthealing.DESC"
+msgid "Cast 4 Life Blossoms within 60 seconds"
+msgstr "60초 이내로 생명의 꽃 4회 시전"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_fasthealing.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_fasthealing.TITLE"
+msgid "Fight Four Their Life"
+msgstr "생사를 건 싸움"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_flip.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_flip.DESC"
+msgid "Flip 20 or more Snortoises in a single match"
+msgstr "단일 매치에서 코자라 20마리 이상 뒤집기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_flip.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_flip.TITLE"
+msgid "Flip It Real Good"
+msgstr "제대로 뒤집기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_fullhands.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_fullhands.DESC"
+msgid "Perform a special attack using a melee weapon, dart and staff all in a single match"
+msgstr "단일 매치에서 근접 무기, 다트, 지팡이로 특수 공격 날리기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_fullhands.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_fullhands.TITLE"
+msgid "Many Hands Make Fight Work"
+msgstr "손이 많이 가는 싸움"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_guardsbroken.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_guardsbroken.DESC"
+msgid "Interrupt 5 or more guarded enemies in a single match"
+msgstr "단일 매치에서 방어 자세인 적 5회 이상 방해하기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_guardsbroken.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_guardsbroken.TITLE"
+msgid "Drop Your Guard"
+msgstr "방어 태세 풀기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_hammer.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_hammer.DESC"
+msgid "Land Anvil Strikes on 25 or more targets in a single match"
+msgstr "단일 매치에서 표적 25개 이상에 모루 때리기 적중"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_hammer.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_hammer.TITLE"
+msgid "Strike A Match"
+msgstr "때리는 매치"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_heavyblade_special.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_heavyblade_special.DESC"
+msgid "Parry 15 special attacks in a single match using the Blacksmith's Edge"
+msgstr "단일 매치에서 대장장이의 대검을 사용하여 특수 공격 15회 받아넘기기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_heavyblade_special.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_heavyblade_special.TITLE"
+msgid "Best Blade Plans"
+msgstr "최적의 대검 궤도"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_killingblows_lots.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_killingblows_lots.DESC"
+msgid "Land 10 or more killing blows in a single match"
+msgstr "단일 매치에서 살상타 10회 이상 적중"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_killingblows_lots.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_killingblows_lots.TITLE"
+msgid "Blow It Wide Open"
+msgstr "무자비한 살상"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_merciless.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_merciless.DESC"
+msgid "Achieve the Merciless card at the end of the match"
+msgstr "매치 종료 시 무자비 카드 달성"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_merciless.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_merciless.TITLE"
+msgid "Cry Mercy"
+msgstr "자비의 애원"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_meteorkill.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_meteorkill.DESC"
+msgid "Land a killing blow with a Cataclysm Meteor"
+msgstr "격변 유성으로 살상타 적중"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_meteorkill.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_meteorkill.TITLE"
+msgid "Death From Above"
+msgstr "죽음이 비처럼"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_meteors.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_meteors.DESC"
+msgid "Land Cataclysm Meteors on 40 or more targets in a single match"
+msgstr "단일 매치에서 표적 40개 이상에 격변 유성 적중"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_meteors.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_meteors.TITLE"
+msgid "Meteor Your Match"
+msgstr "유성 내리는 매치"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodashhounds.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodashhounds.DESC"
+msgid "Avoid being hit by a dashing Pit Pig before the Snortoises arrive"
+msgstr "코자라가 도착할 때까지 돌진하는 전투 돼지 회피"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodashhounds.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodashhounds.TITLE"
+msgid "Dash Their Hopes"
+msgstr "희망 끊기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r2.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r2.DESC"
+msgid "Survive with no team deaths before the Snortoises arrive"
+msgstr "팀원 사망 없이 코자라가 도착할 때까지 버티기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r2.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r2.TITLE"
+msgid "Rigor Snortoise"
+msgstr "코자라의 경직"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r3.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r3.DESC"
+msgid "Survive with no team deaths before the Scorpeons arrive"
+msgstr "팀원 사망 없이 전갈이 도착할 때까지 버티기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r3.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r3.TITLE"
+msgid "Scorpeon Denizens"
+msgstr "전갈 주민"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r4.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r4.DESC"
+msgid "Survive with no team deaths until a Boarilla is defeated"
+msgstr "팀원 사망 없이 멧돼릴라가 도착할 때까지 버티기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r4.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r4.TITLE"
+msgid "Mindless Violence"
+msgstr "무차별 폭력"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r5.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r5.DESC"
+msgid "Survive with no team deaths until the Grand Forge Boarrior is defeated"
+msgstr "팀원 사망 없이 위대한 Forge의 멧투사를 무찌를 때까지 버티기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r5.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r5.TITLE"
+msgid "On the Boarrior Path"
+msgstr "멧투사의 길"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r6.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r6.DESC"
+msgid "Survive with no team deaths until both Rhinocebros are defeated"
+msgstr "팀원 사망 없이 두 코뿔소 형제를 무찌를 때까지 버티기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r6.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r6.TITLE"
+msgid "Drill Down"
+msgstr "드릴 고정"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_solo_easy.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_solo_easy.DESC"
+msgid "Avoid death before the Boarilla arrives"
+msgstr "사망 없이 멧돼릴라가 도착할 때까지 버티기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_solo_easy.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_solo_easy.TITLE"
+msgid "Live To See the Fray"
+msgstr "생존을 위한 투쟁"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_solo_hard.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_solo_hard.DESC"
+msgid "Survive until the Grand Forge Boarrior is defeated"
+msgstr "위대한 Forge의 멧투사를 무찌를 때까지 버티기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_solo_hard.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_solo_hard.TITLE"
+msgid "Delusions of Grand Forge"
+msgstr "위대한 Forge의 현혹"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nopoisondeath.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nopoisondeath.DESC"
+msgid "Defeat the initial Scorpeon wave without anyone dying from Scorpeon Acid"
+msgstr "전갈 산성물질로 인한 사망 없이 전갈 첫 웨이브 물리치기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nopoisondeath.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nopoisondeath.TITLE"
+msgid "Acid Redux"
+msgstr "산성물질 역류"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_outofharmsway.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_outofharmsway.DESC"
+msgid "Survive until the Scorpeons arrive, taking under 200 damage"
+msgstr "받은 피해가 200 미만인 상태에서 전갈이 도착할 때까지 버티기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_outofharmsway.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_outofharmsway.TITLE"
+msgid "Scorpeons Position"
+msgstr "전갈의 위치"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_petrify.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_petrify.DESC"
+msgid "Petrify 25 or more enemies before the Infernal Staff drops"
+msgstr "지옥 지팡이가 떨어지기 전까지 적을 25명 이상 석화하기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_petrify.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_petrify.TITLE"
+msgid "Stone Cold"
+msgstr "돌처럼 차갑게"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_reviver.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_reviver.DESC"
+msgid "Revive a fallen friend"
+msgstr "쓰러진 친구 부활시키기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_reviver.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_reviver.TITLE"
+msgid "Modern Prometheus"
+msgstr "현대의 프로메테우스"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_rhinodrill1.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_rhinodrill1.DESC"
+msgid "Avoid death by the Rhinocebros"
+msgstr "코뿔소 형제에게 죽지 않기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_rhinodrill1.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_rhinodrill1.TITLE"
+msgid "No the Drill"
+msgstr "드릴은 거부"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_rhinodrill_hard.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_rhinodrill_hard.DESC"
+msgid "Defeat the Rhinocebros without allowing either of them to be revived"
+msgstr "코뿔소 형제의 부활을 허용하지 않으면서 코뿔소 형제 물리치기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_rhinodrill_hard.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_rhinodrill_hard.TITLE"
+msgid "Night of the Drilling Dead"
+msgstr "죽은 드릴의 밤"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_shadowkill.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_shadowkill.DESC"
+msgid "Deal a killing blow using Maxwell's shadow minions"
+msgstr "맥스웰의 그림자 부하를 사용하여 살상타 날리기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_shadowkill.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_shadowkill.TITLE"
+msgid "From The Shadows"
+msgstr "그림자의 공격"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_shock.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_shock.DESC"
+msgid "Stop a spinning Snortoise with a shock"
+msgstr "회전하는 코자라를 충격으로 멈추기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_shock.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_shock.TITLE"
+msgid "Shell Shocked"
+msgstr "충격 받은 등딱지"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_specials_somany.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_specials_somany.DESC"
+msgid "Use 40 or more special attacks in a single match"
+msgstr "단일 매치에서 특수 공격 40회 이상 사용하기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_specials_somany.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_specials_somany.TITLE"
+msgid "Super Special"
+msgstr "초특수"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_specials_veryfast.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_specials_veryfast.DESC"
+msgid "Perform 4 special attacks in under 20 seconds (excludes chucking Riled Lucy)"
+msgstr "20초 이내에 특수 공격 4회 사용하기(열받은 루시 던지기 제외)"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_specials_veryfast.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_specials_veryfast.TITLE"
+msgid "Rapid Try Movement"
+msgstr "재빠른 손놀림"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinners_easy.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinners_easy.DESC"
+msgid "Defeat the Snortoise round without allowing Snortoises to perform more than 4 spin attacks"
+msgstr "코자라의 회전 공격이 4회를 넘기기 전에 코자라 물리치기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinners_easy.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinners_easy.TITLE"
+msgid "Spin Docker"
+msgstr "회전 차단"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinners_hard.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinners_hard.DESC"
+msgid "Defeat the Snortoise round without allowing Snortoises to perform any spin attacks"
+msgstr "코자라의 회전 공격 공격을 전혀 허용하지 않고 코자라 물리치기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinners_hard.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinners_hard.TITLE"
+msgid "Unspun Hero"
+msgstr "돌지 못하는 영웅"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinstopper.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinstopper.DESC"
+msgid "Stop a spinning Snortoise, by any means necessary."
+msgstr "아무 방법으로든 회전하는 코자라 멈추기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinstopper.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinstopper.TITLE"
+msgid "Spinning In Their Grave"
+msgstr "회전은 무덤에서"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_stronghealing.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_stronghealing.DESC"
+msgid "Cast 3 amplified Life Blossoms within 60 seconds"
+msgstr "60초 이내로 증폭된 생명의 꽃 3회 시전"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_stronghealing.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_stronghealing.TITLE"
+msgid "Spell It Out"
+msgstr "주문 만개"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_20.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_20.DESC"
+msgid "Win a match in under 20 minutes"
+msgstr "20분 이내로 매치에서 승리하기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_20.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_20.TITLE"
+msgid "Gold Speed Run"
+msgstr "골드 스피드 런"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_25.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_25.DESC"
+msgid "Win a match in under 25 minutes"
+msgstr "25분 이내로 매치에서 승리하기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_25.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_25.TITLE"
+msgid "Silver Speed Run"
+msgstr "실버 스피드 런"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_30.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_30.DESC"
+msgid "Win a match in under 30 minutes"
+msgstr "30분 이내로 매치에서 승리하기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_30.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_30.TITLE"
+msgid "Bronze Speed Run"
+msgstr "브론즈 스피드 런"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_self.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_self.DESC"
+msgid "Win a Forge match without dying"
+msgstr "사망 없이 Forge 매치에서 승리하기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_self.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_self.TITLE"
+msgid "Solo Survivor"
+msgstr "유일한 생존자"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_team.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_team.DESC"
+msgid "Win a Forge match without any teammates dying"
+msgstr "팀원 사망 없이 Forge 매치에서 승리하기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_team.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_team.TITLE"
+msgid "Team Survivor"
+msgstr "팀 생존자"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_uniqueteam.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_uniqueteam.DESC"
+msgid "Play on a team with 6 unique survivors and win without any teammates dying"
+msgstr "6인의 독특한 생존자가 있는 팀에서 플레이하고 팀원을 한 명도 죽이지 않고 승리하세요."
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_uniqueteam.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_uniqueteam.TITLE"
+msgid "Survival of the Mis-Fittest"
+msgstr "부적자생존"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_battlecry.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_battlecry.DESC"
+msgid "Buff 3 friends simultaneously 5 times in a match using Battle Cry"
+msgstr "매치에서 동시에 3명의 친구에게 전투 함성으로 버프 5회 부여"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_battlecry.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_battlecry.TITLE"
+msgid "Curtain Call"
+msgstr "커튼 콜"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_flip.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_flip.DESC"
+msgid "Flip 20 or more Snortoises in a single match"
+msgstr "단일 매치에서 코자라 20마리 이상 뒤집기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_flip.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_flip.TITLE"
+msgid "Exit, Pursued By Viking"
+msgstr "바이킹에게 쫓겨서 퇴장"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_victory.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Wigfrid"
+msgstr "위그프리드로 전장의 주인 퍼그나의 전사 물리치기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_victory.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_victory.TITLE"
+msgid "Forging Victory"
+msgstr "승리 벼리기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_minion_kill.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_minion_kill.DESC"
+msgid "Deal a killing blow using Maxwell's shadow minions"
+msgstr "맥스웰의 그림자 부하를 사용하여 살상타 날리기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_minion_kill.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_minion_kill.TITLE"
+msgid "From The Shadows"
+msgstr "그림자의 공격"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_petrify.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_petrify.DESC"
+msgid "Petrify 25 or more enemies before the Infernal Staff drops"
+msgstr "지옥 지팡이가 떨어지기 전까지 적을 25명 이상 석화하기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_petrify.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_petrify.TITLE"
+msgid "Stone Cold"
+msgstr "돌처럼 차갑게"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_victory.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Maxwell"
+msgstr "맥스웰로 전장의 주인 퍼그나의 전사 물리치기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_victory.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_victory.TITLE"
+msgid "Forging Victory"
+msgstr "승리 벼리기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_darts.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_darts.DESC"
+msgid "Use 3 special attacks in under 20 seconds"
+msgstr "20초 이내에 특수 공격 3회 사용하기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_darts.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_darts.TITLE"
+msgid "Webslinger"
+msgstr "거미줄 발사"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_merciless.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_merciless.DESC"
+msgid "Achieve the Merciless card at the end of the match"
+msgstr "매치 종료 시 무자비 카드 달성"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_merciless.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_merciless.TITLE"
+msgid "Prey Tell"
+msgstr "먹잇감의 비명"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_victory.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Webber"
+msgstr "웨버로 전장의 주인 퍼그나의 전사 물리치기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_victory.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_victory.TITLE"
+msgid "Forging Victory"
+msgstr "승리 벼리기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_guardsbroken.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_guardsbroken.DESC"
+msgid "Interrupt 5 or more enemies while they're in guard stance in a single match"
+msgstr "단일 매치에서 방어 자세인 적 5명 이상 방해하기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_guardsbroken.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_guardsbroken.TITLE"
+msgid "En-guard, Villain"
+msgstr "덤벼라, 악당"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_outofharmsway.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_outofharmsway.DESC"
+msgid "Take under 100 damage and land 150 darts before the Scorpeon wave"
+msgstr "받은 피해가 100 미만이고 다트를 150개 명중시킨 상태에서 전갈이 도착할 때까지 버티기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_outofharmsway.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_outofharmsway.TITLE"
+msgid "Float Like A Butterfly"
+msgstr "나비처럼 훨훨"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_victory.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Wendy"
+msgstr "웬디로 전장의 주인 퍼그나의 전사 물리치기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_victory.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_victory.TITLE"
+msgid "Forging Victory"
+msgstr "승리 벼리기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_battlestandards.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_battlestandards.DESC"
+msgid "Destroy 3 or more Battle Standards in a single match"
+msgstr "단일 매치에서 전투 깃발 3개 이상 파괴하기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_battlestandards.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_battlestandards.TITLE"
+msgid "Unspoken Standard"
+msgstr "무언의 깃발"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_decoy.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_decoy.DESC"
+msgid "Receive the Expert Decoy card at the end of the match"
+msgstr "매치 종료 시 유인 전문가 카드 획득"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_decoy.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_decoy.TITLE"
+msgid "Show, Don't Tell"
+msgstr "말보다는 행동"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_victory.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Wes"
+msgstr "웨스로 전장의 주인 퍼그나의 전사 물리치기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_victory.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_victory.TITLE"
+msgid "Forging Victory"
+msgstr "승리 벼리기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_healing.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_healing.DESC"
+msgid "Cast 3 amplified Life Blossoms within 60 seconds"
+msgstr "60초 이내로 증폭된 생명의 꽃 3회 시전"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_healing.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_healing.TITLE"
+msgid "Spell It Out"
+msgstr "주문 만개"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_meteor.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_meteor.DESC"
+msgid "Land a killing blow with an amplified Cataclysm Meteor"
+msgstr "증폭된 격변 유성으로 살상타 적중"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_meteor.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_meteor.TITLE"
+msgid "Library Staff"
+msgstr "도서관 지팡이"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_victory.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Wickerbottom"
+msgstr "위커바텀으로 전장의 주인 퍼그나의 전사 물리치기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_victory.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_victory.TITLE"
+msgid "Forging Victory"
+msgstr "승리 벼리기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_meteor.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_meteor.DESC"
+msgid "Hit 40 or more targets in a single match using Meteor Strikes"
+msgstr "단일 매치에서 표적 40개 이상에 유성타 적중"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_meteor.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_meteor.TITLE"
+msgid "Heat Stricken"
+msgstr "열 공격"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_moltenbolt.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_moltenbolt.DESC"
+msgid "Stop a spinning Snortoise with using a Molten Bolt attack"
+msgstr "용암 볼트로 회전하는 코자라 멈추기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_moltenbolt.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_moltenbolt.TITLE"
+msgid "Ring of Fire"
+msgstr "불타는 투기장"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_victory.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Willow"
+msgstr "윌로우로 전장의 주인 퍼그나의 전사 물리치기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_victory.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_victory.TITLE"
+msgid "Forging Victory"
+msgstr "승리 벼리기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_battlestandards.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_battlestandards.DESC"
+msgid "Destroy 3 or more Battle Standards in a single match"
+msgstr "단일 매치에서 전투 깃발 3개 이상 파괴하기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_battlestandards.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_battlestandards.TITLE"
+msgid "Standard Deviations"
+msgstr "깃발의 일탈"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_reviver.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_reviver.DESC"
+msgid "Revive a fallen friend"
+msgstr "쓰러진 친구 부활시키기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_reviver.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_reviver.TITLE"
+msgid "It's Alive!"
+msgstr "살아있네!"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_victory.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Wilson"
+msgstr "윌슨으로 전장의 주인 퍼그나의 전사 물리치기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_victory.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_victory.TITLE"
+msgid "Forging Victory"
+msgstr "승리 벼리기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_allweapons.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_allweapons.DESC"
+msgid "Perform a special attack using a melee weapon, a dart, and a staff in a single match"
+msgstr "단일 매치에서 근접 무기, 다트, 지팡이로 특수 공격 날리기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_allweapons.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_allweapons.TITLE"
+msgid "Jill of All Trades"
+msgstr "팔방미녀"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_altattacks.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_altattacks.DESC"
+msgid "Use 40 or more special attacks in a single match"
+msgstr "단일 매치에서 특수 공격 40회 이상 사용하기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_altattacks.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_altattacks.TITLE"
+msgid "Maximum Efficiency"
+msgstr "최대 효율"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_victory.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Winona"
+msgstr "위노나로 전장의 주인 퍼그나의 전사 물리치기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_victory.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_victory.TITLE"
+msgid "Forging Victory"
+msgstr "승리 벼리기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_20.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_20.DESC"
+msgid "Win a Forge match in under 20 minutes"
+msgstr "20분 이내로 Forge 매치를 이김"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_20.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_20.TITLE"
+msgid "Gold Speed Run"
+msgstr "골드 스피드 런"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_25.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_25.DESC"
+msgid "Win a Forge match in under 25 minutes"
+msgstr "25분 이내로 Forge 매치를 이김"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_25.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_25.TITLE"
+msgid "Silver Speed Run"
+msgstr "실버 스피드 런"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_30.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_30.DESC"
+msgid "Win a Forge match in under 30 minutes"
+msgstr "30분 이내로 Forge 매치를 이김"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_30.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_30.TITLE"
+msgid "Bronze Speed Run"
+msgstr "브론즈 스피드 런"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_guardsbroken.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_guardsbroken.DESC"
+msgid "Interrupt 5 or more enemies while they're in guard stance in a single match"
+msgstr "단일 매치에서 방어 자세인 적 5명 이상 방해하기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_guardsbroken.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_guardsbroken.TITLE"
+msgid "Caught Off Guard"
+msgstr "방어 무너뜨리기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_nospinning.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_nospinning.DESC"
+msgid "Stop a spinning Snortoise using an Anvil Strike attack"
+msgstr "모루 때리기로 회전하는 코자라 멈추기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_nospinning.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_nospinning.TITLE"
+msgid "High Striker"
+msgstr "고고한 공격"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_victory.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Wolfgang"
+msgstr "볼프강으로 전장의 주인 퍼그나의 전사 물리치기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_victory.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_victory.TITLE"
+msgid "Forging Victory"
+msgstr "승리 벼리기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_lucychuck.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_lucychuck.DESC"
+msgid "Land 20 Lucy Chucks in a single match"
+msgstr "단일 매치에서 루시 던지기 20회 적중"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_lucychuck.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_lucychuck.TITLE"
+msgid "Would A Werebeaver Chuck"
+msgstr "비버인간의 투척"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_nospinning.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_nospinning.DESC"
+msgid "Stop a spinning Snortoise using Lucy"
+msgstr "루시로 회전하는 코자라 멈추기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_nospinning.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_nospinning.TITLE"
+msgid "The Chopping Block"
+msgstr "도마 위의 고기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_victory.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Woodie"
+msgstr "우디로 전장의 주인 퍼그나의 전사 물리치기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_victory.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_victory.TITLE"
+msgid "Forging Victory"
+msgstr "승리 벼리기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_anvil.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_anvil.DESC"
+msgid "Land Anvil Strikes on 50 or more targets in a single match"
+msgstr "단일 매치에서 표적 50개 이상에 모루 때리기 적중"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_anvil.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_anvil.TITLE"
+msgid "Well-Oiled Machine"
+msgstr "기름칠 잘한 기계"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_shocks.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_shocks.DESC"
+msgid "Stop a spinning Snortoise with a shock"
+msgstr "회전하는 코자라를 충격으로 멈추기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_shocks.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_shocks.TITLE"
+msgid "Circuit Breaker"
+msgstr "회로 차단"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_victory.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as WX-78"
+msgstr "WX-78로 전장의 주인 퍼그나의 전사 물리치기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_victory.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_victory.TITLE"
+msgid "Forging Victory"
+msgstr "승리 벼리기"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.encore
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.encore"
+msgid "Forge Mastery"
+msgstr "Forge 마스터리"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.nodeaths
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.nodeaths"
+msgid "Perfect Runs"
+msgstr "완벽한 승리"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wathgrithr
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wathgrithr"
+msgid "Wigfrid"
+msgstr "위그프리드"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.waxwell
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.waxwell"
+msgid "Maxwell"
+msgstr "맥스웰"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.webber
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.webber"
+msgid "Webber"
+msgstr "웨버"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wendy
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wendy"
+msgid "Wendy"
+msgstr "웬디"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wes
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wes"
+msgid "Wes"
+msgstr "웨스"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wickerbottom
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wickerbottom"
+msgid "Wickerbottom"
+msgstr "위커바텀"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.willow
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.willow"
+msgid "Willow"
+msgstr "윌로우"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wilson
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wilson"
+msgid "Wilson"
+msgstr "윌슨"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.winona
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.winona"
+msgid "Winona"
+msgstr "위노나"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wintime
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wintime"
+msgid "Speed Runs"
+msgstr "스피드런"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wolfgang
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wolfgang"
+msgid "Wolfgang"
+msgstr "볼프강"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.woodie
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.woodie"
+msgid "Woodie"
+msgstr "우디"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wx78
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wx78"
+msgid "WX-78"
+msgstr "WX-78"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_all_stations.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_all_stations.DESC"
+msgid "Cook and complete at least one meal using an oven, a cookpot, and a grill, respectively"
+msgstr "오븐, 요리솥, 그릴을 각각 최소한 한 번씩은 사용하여 음식을 조리하여 완성하기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_all_stations.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_all_stations.TITLE"
+msgid "Bake Boss"
+msgstr "굽기 보스"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_first.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_first.DESC"
+msgid "Cook a meal"
+msgstr "음식 조리하기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_first.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_first.TITLE"
+msgid "Great Victorian Cook Off"
+msgstr "대 빅토리아풍 요리 대회"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_full_book.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_full_book.DESC"
+msgid "Discover all possible recipes"
+msgstr "모든 레시피 발견하기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_full_book.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_full_book.TITLE"
+msgid "Master Chef"
+msgstr "마스터 요리사"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_large.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_large.DESC"
+msgid "Cook and complete at least one meal using a Large Grill, Large Cookpot or Large Casserole Dish"
+msgstr "대형 그릴, 큰 요리솥, 대형 찜기 중 하나를 사용하여 음식을 조리하여 완성하기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_large.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_large.TITLE"
+msgid "Big Meal"
+msgstr "대규모 식사"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_noburnt.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_noburnt.DESC"
+msgid "Cook at least 6 meals from start to finish in a single match, without burning any of them"
+msgstr "단일 매치에서 처음부터 끝까지 최소한 6개의 음식를 하나도 태우지 않고 요리하기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_noburnt.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_noburnt.TITLE"
+msgid "It's Not Raw"
+msgstr "제대로 익히기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_silver.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_silver.DESC"
+msgid "Increase the value of a dish by plating it in a silver plate or bowl"
+msgstr "은 접시나 그릇에 요리를 담아 가치 올리기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_silver.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_silver.TITLE"
+msgid "The Silver Gullet"
+msgstr "은제 식도"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_fertilize.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_fertilize.DESC"
+msgid "Fertilize at least 20 crops in a single match"
+msgstr "단일 매치에서 최소한 20개의 작물에 비료 주기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_fertilize.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_fertilize.TITLE"
+msgid "Premium Plant Food"
+msgstr "고급 식물 양분"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_sow.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_sow.DESC"
+msgid "Sow at least 30 seeds in a single match"
+msgstr "단일 매치에서 최소한 30개의 씨앗 심기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_sow.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_sow.TITLE"
+msgid "Reap What You Sow"
+msgstr "뿌린 대로 거두기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_sow_all.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_sow_all.DESC"
+msgid "Sow one or more of each type of seed"
+msgstr "씨앗을 모든 종류별로 최소한 하나씩 심기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_sow_all.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_sow_all.TITLE"
+msgid "Sowing Machine"
+msgstr "파종기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_till.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_till.DESC"
+msgid "Till at least 50 farm plots in a single match"
+msgstr "단일 매치에서 최소한 50 개의 경작지 경작하기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_till.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_till.TITLE"
+msgid "Dawn Till Dusk"
+msgstr "새벽에서 황혼까지"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_crab.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_crab.DESC"
+msgid "Catch a Pebble Crab"
+msgstr "자갈 게 잡기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_crab.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_crab.TITLE"
+msgid "The Landed Land Crab"
+msgstr "땅으로 이주한 땅게"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_logs.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_logs.DESC"
+msgid "Chop and gather 80 logs or more in a single match"
+msgstr "단일 매치에서 통나무 80개 이상 베고 채집하기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_logs.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_logs.TITLE"
+msgid "Chopped"
+msgstr "도끼질"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_safe.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_safe.DESC"
+msgid "Unlock at least one safe"
+msgstr "금고를 최소한 한 개 열기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_safe.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_safe.TITLE"
+msgid "Finders, Keepers"
+msgstr "찾는 자가 임자"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_sap.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_sap.DESC"
+msgid "Gather sap from Sugarwood trees 9 times or more in a single match"
+msgstr "단일 매치에서 사탕나무 수액 9회 이상 채취"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_sap.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_sap.TITLE"
+msgid "Extra Sappy"
+msgstr "수액 착즙"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_spice.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_spice.DESC"
+msgid "Grind 5 teaspoons of spice in a single match"
+msgstr "단일 매치에서 향신료를 5 티스푼어치 갈기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_spice.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_spice.TITLE"
+msgid "The Spice of Strife"
+msgstr "투쟁의 향신료"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_all_stations_large.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_all_stations_large.DESC"
+msgid "Cook and complete at least one meal using a Large Grill, a Large Cookpot, and a Large Casserole Dish, respectively"
+msgstr "대형 그릴, 큰 요리솥, 대형 찜기를 각각 최소한 한 번씩은 사용하여 음식을 조리하여 완성하기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_all_stations_large.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_all_stations_large.TITLE"
+msgid "Snack of All Trades"
+msgstr "만능 간식"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_allcooks.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_allcooks.DESC"
+msgid "Play a 3-player match where everyone has a turn to cook and complete at least two meals"
+msgstr "3인 매치에서 모두가 각자 음식을 최소한 두 번은 요리해서 완성하기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_allcooks.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_allcooks.TITLE"
+msgid "Three Many Cooks"
+msgstr "세 명의 요리사"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_meaty.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_meaty.DESC"
+msgid "Escape with all cooked meals having one or more meat ingredients (Meat Scraps, Salmon, Meat, or Crab Meat)"
+msgstr "음식을 요리할 때마다 하나 이상의 고기 재료(자투리 고기, 연어, 고기 또는 게살)를 포함한 후 탈출하기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_meaty.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_meaty.TITLE"
+msgid "Killing Spree"
+msgstr "연쇄 살생"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_nomatches.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_nomatches.DESC"
+msgid "Escape without satisfying any cravings"
+msgstr "갈망을 하나도 만족시키지 않고 탈출하기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_nomatches.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_nomatches.TITLE"
+msgid "Never Satisfied"
+msgstr "언제나 불만족"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_notrees.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_notrees.DESC"
+msgid "Escape without harvesting any logs"
+msgstr "통나무를 하나도 수확하지 않고 탈출하기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_notrees.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_notrees.TITLE"
+msgid "Tree Hugger"
+msgstr "나무 애호가"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_tribute_coin2.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_tribute_coin2.DESC"
+msgid "Find or earn 3 or more Sapphire Medallions in one match"
+msgstr "한 매치에서 3개 이상의 사파이어 메달리언을 찾거나 획득하기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_tribute_coin2.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_tribute_coin2.TITLE"
+msgid "Gather 'Round the Sapphire"
+msgstr "사파이어 주위에 모여라"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_tribute_coin3.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_tribute_coin3.DESC"
+msgid "Find or earn 3 or more Red Marks in one match"
+msgstr "한 매치에서 3개 이상의 레드 마크를 찾거나 획득하기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_tribute_coin3.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_tribute_coin3.TITLE"
+msgid "Marked For Red"
+msgstr "레드 마크"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_veggie.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_veggie.DESC"
+msgid "Escape without any meals cooked with meat ingredients (Meat Scraps, Salmon, Meat, or Crab Meat)"
+msgstr "음식을 요리할 때마다 고기 재료(자투리 고기, 연어, 고기 또는 게살)를 하나도 쓰지 않은 후 탈출하기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_veggie.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_veggie.TITLE"
+msgid "Meaty Neglect"
+msgstr "고기 무시"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_fast.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_fast.DESC"
+msgid "Escape the Gorge by offering 10 meals or less"
+msgstr "음식을 10개 이하로 바치고 Gorge 탈출하기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_fast.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_fast.TITLE"
+msgid "Quick Lunch"
+msgstr "빠른 점심 식사"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_first.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_first.DESC"
+msgid "Activate the Ancient Gateway and escape the Gorge"
+msgstr "고대 관문을 작동하여 Gorge 탈출하기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_first.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_first.TITLE"
+msgid "Escape!"
+msgstr "탈출!"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_long.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_long.DESC"
+msgid "Escape the Gorge having fulfilled 15 or more of the Gnaw's cravings"
+msgstr "물뜯이의 갈망을 15가지 이상 충족하고 Gorge 탈출하기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_long.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_long.TITLE"
+msgid "Gnaw's Gnosh"
+msgstr "물뜯이의 식사"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_noburnt.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_noburnt.DESC"
+msgid "Escape the Gorge without having burned or ruined any meals"
+msgstr "요리를 태우거나 망치지 않고 Gorge 탈출하기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_noburnt.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_noburnt.TITLE"
+msgid "Cooked to Perfection"
+msgstr "완벽한 조리"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nodups.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nodups.DESC"
+msgid "Escape the Gorge without offering any duplicate meals"
+msgstr "중복 요리를 바치지 않고 Gorge 탈출하기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nodups.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nodups.TITLE"
+msgid "No Repeater Eater"
+msgstr "잡식성 포식자"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nosalt.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nosalt.DESC"
+msgid "Escape the Gorge without offering the Gnaw any salted meals"
+msgstr "물뜯이에게 소금이 들어간 요리를 바치지 않고 Gorge 탈출하기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nosalt.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nosalt.TITLE"
+msgid "Sodi-yum"
+msgstr "저염식"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nosilver.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nosilver.DESC"
+msgid "Escape the Gorge without offering any silver plated meals to the Gnaw"
+msgstr "물뜯이에게 은식기에 담긴 요리를 바치지 않고 Gorge 탈출하기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nosilver.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nosilver.TITLE"
+msgid "No Silver Linings"
+msgstr "은수저 아님"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_perfect.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_perfect.DESC"
+msgid "Escape the Gorge without failing to fulfill any cravings"
+msgstr "갈망을 하나도 충족하지 않고 Gorge 탈출하기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_perfect.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_perfect.TITLE"
+msgid "Taste Maker"
+msgstr "맛의 결정자"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_veryfast.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_veryfast.DESC"
+msgid "Escape the Gorge by offering 7 meals or less"
+msgstr "요리를 7개 이하로 바치고 Gorge 탈출하기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_veryfast.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_veryfast.TITLE"
+msgid "Zero-Wait Staff"
+msgstr "고효율 식당"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_verylong.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_verylong.DESC"
+msgid "Escape the Gorge having fulfilled 18 or more of the Gnaw's cravings"
+msgstr "물뜯이의 갈망을 18가지 이상 충족하고 Gorge 탈출하기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_verylong.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_verylong.TITLE"
+msgid "Flavorville"
+msgstr "맛촌"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin2.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin2.DESC"
+msgid "Find or earn a Sapphire Medallion"
+msgstr "사파이어 메달리언을 찾거나 획득하기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin2.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin2.TITLE"
+msgid "Gnaw In The Sky With Sapphires"
+msgstr "사파이어와 하늘의 물뜯이"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin3.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin3.DESC"
+msgid "Find or earn a Red Mark"
+msgstr "레드 마크를 찾거나 획득하기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin3.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin3.TITLE"
+msgid "Marked"
+msgstr "마크 보유"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin4.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin4.DESC"
+msgid "Earn the Gnaw's Favor"
+msgstr "물뜯이의 은혜 얻기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin4.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin4.TITLE"
+msgid "Favored"
+msgstr "은혜 받음"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_fast.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_fast.DESC"
+msgid "Sacrifice something the Gnaw is craving 3 times in 3 minutes"
+msgstr "3분 내로 물뜯이의 갈망에 일치하는 것을 3회 바치기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_fast.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_fast.TITLE"
+msgid "Fast Food"
+msgstr "패스트푸드"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_high.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_high.DESC"
+msgid "Sacrifice something the Gnaw is craving at least 9 times in one match"
+msgstr "한 매치에서 물뜯이의 갈망에 일치하는 것을 최소한 9회 바치기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_high.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_high.TITLE"
+msgid "Spoiled Wyrm"
+msgstr "배부른 괴수"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_low.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_low.DESC"
+msgid "Sacrifice something the Gnaw is craving at least 3 times in one match"
+msgstr "한 매치에서 물뜯이의 갈망에 일치하는 것을 최소한 3회 바치기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_low.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_low.TITLE"
+msgid "Cheat Day"
+msgstr "대충 때우는 날"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_med.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_med.DESC"
+msgid "Sacrifice something the Gnaw is craving at least 6 times in one match"
+msgstr "한 매치에서 물뜯이의 갈망에 일치하는 것을 최소한 6회 바치기"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_med.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_med.TITLE"
+msgid "Eternal Cravings"
+msgstr "영원한 갈망"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.chef
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.chef"
+msgid "Cooking"
+msgstr "요리"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.encore
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.encore"
+msgid "Gorge Mastery"
+msgstr "Gorge 마스터리"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.farmer
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.farmer"
+msgid "Farming"
+msgstr "농사"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.gatherer
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.gatherer"
+msgid "Resource Collection"
+msgstr "자원 채집"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.tributes
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.tributes"
+msgid "Offerings"
+msgstr "제물"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.victory
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.victory"
+msgid "Victory"
+msgstr "승리"
+
+#. UI.ACHIEVEMENTS.SCREENTITLE
+msgctxt "UI.ACHIEVEMENTS.SCREENTITLE"
+msgid "Accomplishments"
+msgstr "도전과제"
+

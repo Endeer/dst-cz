@@ -1,0 +1,745 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. SIGNS.ADDITIONS.1
+msgctxt "SIGNS.ADDITIONS.1"
+msgid "of Perilousness"
+msgstr "冒险"
+
+#. SIGNS.ADDITIONS.10
+msgctxt "SIGNS.ADDITIONS.10"
+msgid "of Happiness"
+msgstr "欢乐"
+
+#. SIGNS.ADDITIONS.11
+msgctxt "SIGNS.ADDITIONS.11"
+msgid "of Dreariness"
+msgstr "沉闷"
+
+#. SIGNS.ADDITIONS.12
+msgctxt "SIGNS.ADDITIONS.12"
+msgid "of Death"
+msgstr "死亡"
+
+#. SIGNS.ADDITIONS.13
+msgctxt "SIGNS.ADDITIONS.13"
+msgid "full of Bees"
+msgstr "许多蜜蜂"
+
+#. SIGNS.ADDITIONS.2
+msgctxt "SIGNS.ADDITIONS.2"
+msgid "of Horribleness"
+msgstr "恐惧"
+
+#. SIGNS.ADDITIONS.3
+msgctxt "SIGNS.ADDITIONS.3"
+msgid "of Loneliness"
+msgstr "孤独"
+
+#. SIGNS.ADDITIONS.4
+msgctxt "SIGNS.ADDITIONS.4"
+msgid "of Sorrow"
+msgstr "悲伤"
+
+#. SIGNS.ADDITIONS.5
+msgctxt "SIGNS.ADDITIONS.5"
+msgid "of Danger"
+msgstr "危险"
+
+#. SIGNS.ADDITIONS.6
+msgctxt "SIGNS.ADDITIONS.6"
+msgid "of Hunger"
+msgstr "饥饿"
+
+#. SIGNS.ADDITIONS.7
+msgctxt "SIGNS.ADDITIONS.7"
+msgid "of Shadows"
+msgstr "暗影"
+
+#. SIGNS.ADDITIONS.8
+msgctxt "SIGNS.ADDITIONS.8"
+msgid "infested with Monsters"
+msgstr "怪物出没"
+
+#. SIGNS.ADDITIONS.9
+msgctxt "SIGNS.ADDITIONS.9"
+msgid "crawling with Horrors"
+msgstr "充满恐惧"
+
+#. SIGNS.ADJECTIVES.1
+msgctxt "SIGNS.ADJECTIVES.1"
+msgid "Sunny"
+msgstr "阳光充足"
+
+#. SIGNS.ADJECTIVES.10
+msgctxt "SIGNS.ADJECTIVES.10"
+msgid "Perilous"
+msgstr "十分危险"
+
+#. SIGNS.ADJECTIVES.11
+msgctxt "SIGNS.ADJECTIVES.11"
+msgid "Dangerous"
+msgstr "凶险的"
+
+#. SIGNS.ADJECTIVES.12
+msgctxt "SIGNS.ADJECTIVES.12"
+msgid "Hazardous"
+msgstr "有害的"
+
+#. SIGNS.ADJECTIVES.13
+msgctxt "SIGNS.ADJECTIVES.13"
+msgid "Creepy"
+msgstr "吓人的"
+
+#. SIGNS.ADJECTIVES.14
+msgctxt "SIGNS.ADJECTIVES.14"
+msgid "Empty"
+msgstr "空的"
+
+#. SIGNS.ADJECTIVES.15
+msgctxt "SIGNS.ADJECTIVES.15"
+msgid "Lonely"
+msgstr "孤独的"
+
+#. SIGNS.ADJECTIVES.16
+msgctxt "SIGNS.ADJECTIVES.16"
+msgid "Wet"
+msgstr "潮湿"
+
+#. SIGNS.ADJECTIVES.17
+msgctxt "SIGNS.ADJECTIVES.17"
+msgid "Dry"
+msgstr "干燥"
+
+#. SIGNS.ADJECTIVES.18
+msgctxt "SIGNS.ADJECTIVES.18"
+msgid "Huge"
+msgstr "巨大"
+
+#. SIGNS.ADJECTIVES.19
+msgctxt "SIGNS.ADJECTIVES.19"
+msgid "Small"
+msgstr "小"
+
+#. SIGNS.ADJECTIVES.2
+msgctxt "SIGNS.ADJECTIVES.2"
+msgid "Danker"
+msgstr "潮湿"
+
+#. SIGNS.ADJECTIVES.20
+msgctxt "SIGNS.ADJECTIVES.20"
+msgid "Little"
+msgstr "小巧的"
+
+#. SIGNS.ADJECTIVES.21
+msgctxt "SIGNS.ADJECTIVES.21"
+msgid "Picturesque"
+msgstr "生动的"
+
+#. SIGNS.ADJECTIVES.22
+msgctxt "SIGNS.ADJECTIVES.22"
+msgid "Hideous"
+msgstr "可怕的"
+
+#. SIGNS.ADJECTIVES.23
+msgctxt "SIGNS.ADJECTIVES.23"
+msgid "Dreary"
+msgstr "沉闷的"
+
+#. SIGNS.ADJECTIVES.24
+msgctxt "SIGNS.ADJECTIVES.24"
+msgid "Repulsive"
+msgstr "可憎的"
+
+#. SIGNS.ADJECTIVES.25
+msgctxt "SIGNS.ADJECTIVES.25"
+msgid "Boring"
+msgstr "乏味的"
+
+#. SIGNS.ADJECTIVES.26
+msgctxt "SIGNS.ADJECTIVES.26"
+msgid "Good"
+msgstr "好的"
+
+#. SIGNS.ADJECTIVES.27
+msgctxt "SIGNS.ADJECTIVES.27"
+msgid "Striking"
+msgstr "显著的"
+
+#. SIGNS.ADJECTIVES.28
+msgctxt "SIGNS.ADJECTIVES.28"
+msgid "Uninteresting"
+msgstr "乏味的"
+
+#. SIGNS.ADJECTIVES.29
+msgctxt "SIGNS.ADJECTIVES.29"
+msgid "Fascinating"
+msgstr "迷人的"
+
+#. SIGNS.ADJECTIVES.3
+msgctxt "SIGNS.ADJECTIVES.3"
+msgid "Dark"
+msgstr "黑暗"
+
+#. SIGNS.ADJECTIVES.30
+msgctxt "SIGNS.ADJECTIVES.30"
+msgid "Magnificent"
+msgstr "华丽的"
+
+#. SIGNS.ADJECTIVES.31
+msgctxt "SIGNS.ADJECTIVES.31"
+msgid "Soulless"
+msgstr "无精打采的"
+
+#. SIGNS.ADJECTIVES.32
+msgctxt "SIGNS.ADJECTIVES.32"
+msgid "Echoing"
+msgstr "回音"
+
+#. SIGNS.ADJECTIVES.33
+msgctxt "SIGNS.ADJECTIVES.33"
+msgid "Sleepy"
+msgstr "困乏的"
+
+#. SIGNS.ADJECTIVES.34
+msgctxt "SIGNS.ADJECTIVES.34"
+msgid "Smelly"
+msgstr "史梅里"
+
+#. SIGNS.ADJECTIVES.35
+msgctxt "SIGNS.ADJECTIVES.35"
+msgid "Mediocre"
+msgstr "普通的"
+
+#. SIGNS.ADJECTIVES.36
+msgctxt "SIGNS.ADJECTIVES.36"
+msgid "Awesome"
+msgstr "令人敬畏的"
+
+#. SIGNS.ADJECTIVES.37
+msgctxt "SIGNS.ADJECTIVES.37"
+msgid "Brilliant"
+msgstr "杰出的"
+
+#. SIGNS.ADJECTIVES.38
+msgctxt "SIGNS.ADJECTIVES.38"
+msgid "Excellent"
+msgstr "好极了"
+
+#. SIGNS.ADJECTIVES.4
+msgctxt "SIGNS.ADJECTIVES.4"
+msgid "Morose"
+msgstr "郁闷"
+
+#. SIGNS.ADJECTIVES.5
+msgctxt "SIGNS.ADJECTIVES.5"
+msgid "Morbid"
+msgstr "生病"
+
+#. SIGNS.ADJECTIVES.6
+msgctxt "SIGNS.ADJECTIVES.6"
+msgid "Awful"
+msgstr "骇人"
+
+#. SIGNS.ADJECTIVES.7
+msgctxt "SIGNS.ADJECTIVES.7"
+msgid "Horrible"
+msgstr "可怕"
+
+#. SIGNS.ADJECTIVES.8
+msgctxt "SIGNS.ADJECTIVES.8"
+msgid "Perfectly Normal"
+msgstr "完全正常"
+
+#. SIGNS.ADJECTIVES.9
+msgctxt "SIGNS.ADJECTIVES.9"
+msgid "Ordinary"
+msgstr "平常的"
+
+#. SIGNS.ADJ_NOUN_ADD_FMT
+msgctxt "SIGNS.ADJ_NOUN_ADD_FMT"
+msgid "{adjective} {noun} {addition}"
+msgstr "{adjective} {noun} {addition}"
+
+#. SIGNS.ADJ_NOUN_FMT
+msgctxt "SIGNS.ADJ_NOUN_FMT"
+msgid "{adjective} {noun}"
+msgstr "{adjective} {noun}"
+
+#. SIGNS.DEFAULT_NOUNS.1
+msgctxt "SIGNS.DEFAULT_NOUNS.1"
+msgid "Spot"
+msgstr "点"
+
+#. SIGNS.DEFAULT_NOUNS.2
+msgctxt "SIGNS.DEFAULT_NOUNS.2"
+msgid "Area"
+msgstr "区域"
+
+#. SIGNS.DEFAULT_NOUNS.3
+msgctxt "SIGNS.DEFAULT_NOUNS.3"
+msgid "Region"
+msgstr "地区"
+
+#. SIGNS.DEFAULT_NOUNS.4
+msgctxt "SIGNS.DEFAULT_NOUNS.4"
+msgid "Point"
+msgstr "点"
+
+#. SIGNS.DEFAULT_NOUNS.5
+msgctxt "SIGNS.DEFAULT_NOUNS.5"
+msgid "Locality"
+msgstr "本地"
+
+#. SIGNS.DEFAULT_NOUNS.6
+msgctxt "SIGNS.DEFAULT_NOUNS.6"
+msgid "Site"
+msgstr "场所"
+
+#. SIGNS.MENU.ACCEPT
+msgctxt "SIGNS.MENU.ACCEPT"
+msgid "Write it!"
+msgstr "写上东西！"
+
+#. SIGNS.MENU.CANCEL
+msgctxt "SIGNS.MENU.CANCEL"
+msgid "Cancel"
+msgstr "取消"
+
+#. SIGNS.MENU.FILTERING
+msgctxt "SIGNS.MENU.FILTERING"
+msgid "Validating Message..."
+msgstr "正在验证信息……"
+
+#. SIGNS.MENU.PROMPT
+msgctxt "SIGNS.MENU.PROMPT"
+msgid "Write on the sign"
+msgstr "写在木牌上"
+
+#. SIGNS.MENU.PROMPT_BEEFALO
+msgctxt "SIGNS.MENU.PROMPT_BEEFALO"
+msgid "Name This Beef"
+msgstr "命名此牛"
+
+#. SIGNS.MENU.RANDOM
+msgctxt "SIGNS.MENU.RANDOM"
+msgid "Random"
+msgstr "随机"
+
+#. SIGNS.NOUNS.10.1
+msgctxt "SIGNS.NOUNS.10.1"
+msgid "Place"
+msgstr "位置"
+
+#. SIGNS.NOUNS.10.2
+msgctxt "SIGNS.NOUNS.10.2"
+msgid "Corner"
+msgstr "角落"
+
+#. SIGNS.NOUNS.10.3
+msgctxt "SIGNS.NOUNS.10.3"
+msgid "Spot"
+msgstr "点"
+
+#. SIGNS.NOUNS.10.4
+msgctxt "SIGNS.NOUNS.10.4"
+msgid "Base"
+msgstr "基地"
+
+#. SIGNS.NOUNS.10.5
+msgctxt "SIGNS.NOUNS.10.5"
+msgid "Hidey-Hole"
+msgstr "藏身之所"
+
+#. SIGNS.NOUNS.11.1
+msgctxt "SIGNS.NOUNS.11.1"
+msgid "Place"
+msgstr "位置"
+
+#. SIGNS.NOUNS.11.2
+msgctxt "SIGNS.NOUNS.11.2"
+msgid "Corner"
+msgstr "角落"
+
+#. SIGNS.NOUNS.11.3
+msgctxt "SIGNS.NOUNS.11.3"
+msgid "Spot"
+msgstr "点"
+
+#. SIGNS.NOUNS.11.4
+msgctxt "SIGNS.NOUNS.11.4"
+msgid "Base"
+msgstr "基地"
+
+#. SIGNS.NOUNS.11.5
+msgctxt "SIGNS.NOUNS.11.5"
+msgid "Hidey-Hole"
+msgstr "藏身之所"
+
+#. SIGNS.NOUNS.11.6
+msgctxt "SIGNS.NOUNS.11.6"
+msgid "Carpet"
+msgstr "地毯"
+
+#. SIGNS.NOUNS.11.7
+msgctxt "SIGNS.NOUNS.11.7"
+msgid "Rug"
+msgstr "小地毯"
+
+#. SIGNS.NOUNS.12.1
+msgctxt "SIGNS.NOUNS.12.1"
+msgid "Place"
+msgstr "位置"
+
+#. SIGNS.NOUNS.12.2
+msgctxt "SIGNS.NOUNS.12.2"
+msgid "Corner"
+msgstr "角落"
+
+#. SIGNS.NOUNS.12.3
+msgctxt "SIGNS.NOUNS.12.3"
+msgid "Spot"
+msgstr "点"
+
+#. SIGNS.NOUNS.12.4
+msgctxt "SIGNS.NOUNS.12.4"
+msgid "Base"
+msgstr "基地"
+
+#. SIGNS.NOUNS.12.5
+msgctxt "SIGNS.NOUNS.12.5"
+msgid "Checkerboard"
+msgstr "棋盘"
+
+#. SIGNS.NOUNS.12.6
+msgctxt "SIGNS.NOUNS.12.6"
+msgid "Zone"
+msgstr "区域"
+
+#. SIGNS.NOUNS.13.1
+msgctxt "SIGNS.NOUNS.13.1"
+msgid "Cave"
+msgstr "洞穴"
+
+#. SIGNS.NOUNS.14.1
+msgctxt "SIGNS.NOUNS.14.1"
+msgid "Cave"
+msgstr "洞穴"
+
+#. SIGNS.NOUNS.15.1
+msgctxt "SIGNS.NOUNS.15.1"
+msgid "Cave"
+msgstr "洞穴"
+
+#. SIGNS.NOUNS.16.1
+msgctxt "SIGNS.NOUNS.16.1"
+msgid "Cave"
+msgstr "洞穴"
+
+#. SIGNS.NOUNS.17.1
+msgctxt "SIGNS.NOUNS.17.1"
+msgid "Cave"
+msgstr "洞穴"
+
+#. SIGNS.NOUNS.18.1
+msgctxt "SIGNS.NOUNS.18.1"
+msgid "Cave"
+msgstr "洞穴"
+
+#. SIGNS.NOUNS.19.1
+msgctxt "SIGNS.NOUNS.19.1"
+msgid "Cave"
+msgstr "洞穴"
+
+#. SIGNS.NOUNS.2.1
+msgctxt "SIGNS.NOUNS.2.1"
+msgid "Road"
+msgstr "道路"
+
+#. SIGNS.NOUNS.2.2
+msgctxt "SIGNS.NOUNS.2.2"
+msgid "Path"
+msgstr "小路"
+
+#. SIGNS.NOUNS.20.1
+msgctxt "SIGNS.NOUNS.20.1"
+msgid "Cave"
+msgstr "洞穴"
+
+#. SIGNS.NOUNS.21.1
+msgctxt "SIGNS.NOUNS.21.1"
+msgid "Cave"
+msgstr "洞穴"
+
+#. SIGNS.NOUNS.22.1
+msgctxt "SIGNS.NOUNS.22.1"
+msgid "Cave"
+msgstr "洞穴"
+
+#. SIGNS.NOUNS.23.1
+msgctxt "SIGNS.NOUNS.23.1"
+msgid "Cave"
+msgstr "洞穴"
+
+#. SIGNS.NOUNS.24.1
+msgctxt "SIGNS.NOUNS.24.1"
+msgid "Cave"
+msgstr "洞穴"
+
+#. SIGNS.NOUNS.25.1
+msgctxt "SIGNS.NOUNS.25.1"
+msgid "Cave"
+msgstr "洞穴"
+
+#. SIGNS.NOUNS.3.1
+msgctxt "SIGNS.NOUNS.3.1"
+msgid "Crag"
+msgstr "岩石碎块"
+
+#. SIGNS.NOUNS.3.2
+msgctxt "SIGNS.NOUNS.3.2"
+msgid "Area"
+msgstr "区域"
+
+#. SIGNS.NOUNS.3.3
+msgctxt "SIGNS.NOUNS.3.3"
+msgid "Region"
+msgstr "地区"
+
+#. SIGNS.NOUNS.3.4
+msgctxt "SIGNS.NOUNS.3.4"
+msgid "Rocky Place"
+msgstr "岩区"
+
+#. SIGNS.NOUNS.30.1
+msgctxt "SIGNS.NOUNS.30.1"
+msgid "Forest"
+msgstr "森林"
+
+#. SIGNS.NOUNS.30.2
+msgctxt "SIGNS.NOUNS.30.2"
+msgid "Woods"
+msgstr "树林"
+
+#. SIGNS.NOUNS.30.3
+msgctxt "SIGNS.NOUNS.30.3"
+msgid "Thicket"
+msgstr "丛林"
+
+#. SIGNS.NOUNS.30.4
+msgctxt "SIGNS.NOUNS.30.4"
+msgid "Grove"
+msgstr "小树林"
+
+#. SIGNS.NOUNS.31.1
+msgctxt "SIGNS.NOUNS.31.1"
+msgid "Desert"
+msgstr "沙漠"
+
+#. SIGNS.NOUNS.31.2
+msgctxt "SIGNS.NOUNS.31.2"
+msgid "Badlands"
+msgstr "荒地"
+
+#. SIGNS.NOUNS.31.3
+msgctxt "SIGNS.NOUNS.31.3"
+msgid "Flats"
+msgstr "平原"
+
+#. SIGNS.NOUNS.32.1
+msgctxt "SIGNS.NOUNS.32.1"
+msgid "Place"
+msgstr "位置"
+
+#. SIGNS.NOUNS.32.2
+msgctxt "SIGNS.NOUNS.32.2"
+msgid "Corner"
+msgstr "角落"
+
+#. SIGNS.NOUNS.32.3
+msgctxt "SIGNS.NOUNS.32.3"
+msgid "Spot"
+msgstr "点"
+
+#. SIGNS.NOUNS.32.4
+msgctxt "SIGNS.NOUNS.32.4"
+msgid "Base"
+msgstr "基地"
+
+#. SIGNS.NOUNS.32.5
+msgctxt "SIGNS.NOUNS.32.5"
+msgid "Hidey-Hole"
+msgstr "藏身之所"
+
+#. SIGNS.NOUNS.32.6
+msgctxt "SIGNS.NOUNS.32.6"
+msgid "Zone"
+msgstr "区域"
+
+#. SIGNS.NOUNS.32.7
+msgctxt "SIGNS.NOUNS.32.7"
+msgid "Scale"
+msgstr "比例尺"
+
+#. SIGNS.NOUNS.4.1
+msgctxt "SIGNS.NOUNS.4.1"
+msgid "Patch"
+msgstr "小块地"
+
+#. SIGNS.NOUNS.4.2
+msgctxt "SIGNS.NOUNS.4.2"
+msgid "Turf"
+msgstr "地皮"
+
+#. SIGNS.NOUNS.4.3
+msgctxt "SIGNS.NOUNS.4.3"
+msgid "Area"
+msgstr "区域"
+
+#. SIGNS.NOUNS.4.4
+msgctxt "SIGNS.NOUNS.4.4"
+msgid "Tract"
+msgstr "大块土地"
+
+#. SIGNS.NOUNS.5.1
+msgctxt "SIGNS.NOUNS.5.1"
+msgid "Savannah"
+msgstr "萨凡纳"
+
+#. SIGNS.NOUNS.5.2
+msgctxt "SIGNS.NOUNS.5.2"
+msgid "Grassland"
+msgstr "草地"
+
+#. SIGNS.NOUNS.5.3
+msgctxt "SIGNS.NOUNS.5.3"
+msgid "Prairie"
+msgstr "大草原"
+
+#. SIGNS.NOUNS.6.1
+msgctxt "SIGNS.NOUNS.6.1"
+msgid "Field"
+msgstr "现场"
+
+#. SIGNS.NOUNS.6.2
+msgctxt "SIGNS.NOUNS.6.2"
+msgid "Pasture"
+msgstr "草原"
+
+#. SIGNS.NOUNS.6.3
+msgctxt "SIGNS.NOUNS.6.3"
+msgid "Meadow"
+msgstr "牧场"
+
+#. SIGNS.NOUNS.6.4
+msgctxt "SIGNS.NOUNS.6.4"
+msgid "Garden"
+msgstr "花园"
+
+#. SIGNS.NOUNS.7.1
+msgctxt "SIGNS.NOUNS.7.1"
+msgid "Forest"
+msgstr "森林"
+
+#. SIGNS.NOUNS.7.2
+msgctxt "SIGNS.NOUNS.7.2"
+msgid "Woods"
+msgstr "树林"
+
+#. SIGNS.NOUNS.7.3
+msgctxt "SIGNS.NOUNS.7.3"
+msgid "Thicket"
+msgstr "丛林"
+
+#. SIGNS.NOUNS.7.4
+msgctxt "SIGNS.NOUNS.7.4"
+msgid "Grove"
+msgstr "小树林"
+
+#. SIGNS.NOUNS.8.1
+msgctxt "SIGNS.NOUNS.8.1"
+msgid "Marsh"
+msgstr "沼泽"
+
+#. SIGNS.NOUNS.8.2
+msgctxt "SIGNS.NOUNS.8.2"
+msgid "Swamp"
+msgstr "湿地"
+
+#. SIGNS.NOUNS.8.3
+msgctxt "SIGNS.NOUNS.8.3"
+msgid "Bog"
+msgstr "泥塘"
+
+#. SIGNS.NOUNS.8.4
+msgctxt "SIGNS.NOUNS.8.4"
+msgid "Fen"
+msgstr "沼地"
+
+#. SIGNS.NOUNS.9.1
+msgctxt "SIGNS.NOUNS.9.1"
+msgid "Web"
+msgstr "网"
+
+#. SIGNS.NOUNS.9.2
+msgctxt "SIGNS.NOUNS.9.2"
+msgid "Cobweb"
+msgstr "蜘蛛网"
+
+#. SIGNS.QUANTIFIERS.1
+msgctxt "SIGNS.QUANTIFIERS.1"
+msgid "Really"
+msgstr "真的"
+
+#. SIGNS.QUANTIFIERS.2
+msgctxt "SIGNS.QUANTIFIERS.2"
+msgid "Very"
+msgstr "非常"
+
+#. SIGNS.QUANTIFIERS.3
+msgctxt "SIGNS.QUANTIFIERS.3"
+msgid "Quite"
+msgstr "相当"
+
+#. SIGNS.QUANTIFIERS.4
+msgctxt "SIGNS.QUANTIFIERS.4"
+msgid "Very Very"
+msgstr "非常非常"
+
+#. SIGNS.QUANTIFIERS.5
+msgctxt "SIGNS.QUANTIFIERS.5"
+msgid "Extremely"
+msgstr "非常"
+
+#. SIGNS.QUANTIFIERS.6
+msgctxt "SIGNS.QUANTIFIERS.6"
+msgid "Moderately"
+msgstr "适度地"
+
+#. SIGNS.QUANTIFIERS.7
+msgctxt "SIGNS.QUANTIFIERS.7"
+msgid "Minimally"
+msgstr "最少地"
+
+#. SIGNS.QUANTIFIERS.8
+msgctxt "SIGNS.QUANTIFIERS.8"
+msgid "Sort of"
+msgstr "有点"
+
+#. SIGNS.QUANTIFIERS.9
+msgctxt "SIGNS.QUANTIFIERS.9"
+msgid "Totally"
+msgstr "完全"
+
+#. SIGNS.QUANT_ADJ_NOUN_ADD_FMT
+msgctxt "SIGNS.QUANT_ADJ_NOUN_ADD_FMT"
+msgid "{quantifier} {adjective} {noun} {addition}"
+msgstr "{quantifier} {adjective} {noun} {addition}"
+
+#. SIGNS.QUANT_ADJ_NOUN_FMT
+msgctxt "SIGNS.QUANT_ADJ_NOUN_FMT"
+msgid "{quantifier} {adjective} {noun}"
+msgstr "{quantifier} {adjective} {noun}"
+

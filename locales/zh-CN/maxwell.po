@@ -1,0 +1,310 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_1.ONE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_1.ONE"
+msgid "Oh, you found my portal did you?"
+msgstr "哦，你找到了我的传送门，是吗？"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_1.THREE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_1.THREE"
+msgid "Hmm. Let's try something a little more challenging, shall we?"
+msgstr "嗯。来试试更有挑战性的事情吧，好吗？"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_1.TWO
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_1.TWO"
+msgid "You'd think you would have learned your lesson by now."
+msgstr "你会觉得你尝到教训了。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_2.ONE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_2.ONE"
+msgid "Well would you look at that, you survived."
+msgstr "好吧，看看，你活下来了。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_2.TWO
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_2.TWO"
+msgid "One down, four to go!"
+msgstr "搞定一个，还有四个！"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_3.ONE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_3.ONE"
+msgid "What? You're still here?"
+msgstr "什么？你还在这里？"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_3.TWO
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_3.TWO"
+msgid "Impressive. But you should probably stop while you're ahead."
+msgstr "了不起。不过你也许应该停住脚步，不要继续往前走。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_4.ONE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_4.ONE"
+msgid "Say, pal."
+msgstr "喂，朋友。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_4.THREE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_4.THREE"
+msgid "Turn back now, or I may have to resort to drastic measures."
+msgstr "马上往回走，否则我就要采取非常手段了。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_4.TWO
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_4.TWO"
+msgid "You're really pushing your luck."
+msgstr "你真是得寸进尺。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_5.ONE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_5.ONE"
+msgid "You insolent, pitiful, insignificant ant!"
+msgstr "你这个无礼的、可怜的、卑微的蝼蚁！"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_5.THREE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_5.THREE"
+msgid "You will regret coming any further..."
+msgstr "再往前一步你会后悔的..."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_5.TWO
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_5.TWO"
+msgid "Do not arouse the wrath of the Great Maxwell!"
+msgstr "不要激怒伟大的麦斯威尔！"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.COMBATFAIL.1
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.COMBATFAIL.1"
+msgid "Where would be the sport in that?"
+msgstr "没有一点儿体育精神吗？"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.COMBATFAIL.2
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.COMBATFAIL.2"
+msgid "Who do you think allowed you to make that?"
+msgstr "你以为是谁允许你这么做的？"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.1
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.1"
+msgid "Is this what you were expecting?"
+msgstr "这就是你所期待的吗？"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.10
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.10"
+msgid "Just dust. And the void. And Them."
+msgstr "只有虚空，尘埃，还有他们。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.11
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.11"
+msgid "I've learned so much since then. I've built so much."
+msgstr "从那以后我学会了很多。我建造了很多。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.12
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.12"
+msgid "But even a King is bound to the board."
+msgstr "但即使是国王也有无能为力的时候。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.13
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.13"
+msgid "You can't change the rules of the game."
+msgstr "你不能改变游戏规则。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.14
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.14"
+msgid "I don't know what they want. They... they just watch."
+msgstr "我不知道他们想要什么。他们...他们只是看着。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.15
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.15"
+msgid "Unless you get too close. Then..."
+msgstr "除非你靠得太近。然后..."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.16
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.16"
+msgid "Well, there's a reason I stay so dapper."
+msgstr "唔，我总是这么衣冠楚楚是有原因的。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.17
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.17"
+msgid "What year is it out there? Time moves differently here."
+msgstr "外面是哪一年了？这里时间流逝的方式不一样。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.18
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.18"
+msgid "Go on, stay a while. Keep us company."
+msgstr "继续，待一会儿。陪陪我们。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.19
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.19"
+msgid "Or put the key in the box. It's your decision."
+msgstr "或把钥匙放到箱子里。由你决定。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.2
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.2"
+msgid "Forgive me if I don't get up."
+msgstr "原谅我没有站起来。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.20
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.20"
+msgid "Either way, you're just delaying the inevitable."
+msgstr "无论如何，你只是在拖延必将发生的事情。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.21
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.21"
+msgid "Reality is like that, sometimes."
+msgstr "有时现实就像那样。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.22
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.22"
+msgid "I think I've said enough."
+msgstr "我想我说的够多了。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.23
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.23"
+msgid "..."
+msgstr "..."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.3
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.3"
+msgid "You've been an interesting plaything, but I've grown tired of this game."
+msgstr "你真的很好玩，但我已经厌倦这个游戏了。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.4
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.4"
+msgid "Or maybe They've grown tired of me."
+msgstr "或者，也许是他们厌倦我了。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.5
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.5"
+msgid "Heh. Took them long enough."
+msgstr "呵呵。花了他们够长的时间。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.6
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.6"
+msgid "They'll show you terrible, beautiful things."
+msgstr "他们会让你看到既可怕又美丽的东西。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.7
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.7"
+msgid "It will change you, like it did me."
+msgstr "它会改变你，像改变我一样。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.8
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.8"
+msgid "It's best not to fight it."
+msgstr "最好是别反抗。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.9
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.9"
+msgid "There wasn't much here when I showed up."
+msgstr "我来的时候这儿没什么东西。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.ONE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.ONE"
+msgid "Well, this is it."
+msgstr "好吧，就是这样。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.TELEPORTFAIL
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.TELEPORTFAIL"
+msgid "Don't you think I've tried that?"
+msgstr "你不觉得我已经试过了？"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.TELEPORTFAIL2
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.TELEPORTFAIL2"
+msgid "This is the end of the line. We have no escape."
+msgstr "这就是结局。我们无路可逃。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.TWO
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.TWO"
+msgid "You found me. Now, what are you going to do?"
+msgstr "你找到我了。现在，你打算怎么办？"
+
+#. MAXWELL_ADVENTUREINTROS.TWOLANDS.FOUR
+msgctxt "MAXWELL_ADVENTUREINTROS.TWOLANDS.FOUR"
+msgid "All I want in return is a truce."
+msgstr "我唯一的要求就是休战。"
+
+#. MAXWELL_ADVENTUREINTROS.TWOLANDS.ONE
+msgctxt "MAXWELL_ADVENTUREINTROS.TWOLANDS.ONE"
+msgid "Say, pal."
+msgstr "喂，朋友。"
+
+#. MAXWELL_ADVENTUREINTROS.TWOLANDS.THREE
+msgctxt "MAXWELL_ADVENTUREINTROS.TWOLANDS.THREE"
+msgid "I'll give you food, gold, pigs, whatever you need."
+msgstr "我会给你食物、黄金、猪，你需要的任何东西。"
+
+#. MAXWELL_ADVENTUREINTROS.TWOLANDS.TWO
+msgctxt "MAXWELL_ADVENTUREINTROS.TWOLANDS.TWO"
+msgid "Let's make a deal. You can stay here. Settle down, even."
+msgstr "来做个交易吧。你可以待在这儿。甚至是永久定居。"
+
+#. MAXWELL_ADVENTURETHRONE.LEVEL_6.HIT.ONE
+msgctxt "MAXWELL_ADVENTURETHRONE.LEVEL_6.HIT.ONE"
+msgid "The throne won't allow that. I've tried."
+msgstr "王座不会让你那么做的。我试过了。"
+
+#. MAXWELL_ADVENTURETHRONE.LEVEL_6.INTRO.ONE
+msgctxt "MAXWELL_ADVENTURETHRONE.LEVEL_6.INTRO.ONE"
+msgid "Is this how it ends?"
+msgstr "难道这就是结局？"
+
+#. MAXWELL_ADVENTURETHRONE.LEVEL_6.NOUNLOCK.ONE
+msgctxt "MAXWELL_ADVENTURETHRONE.LEVEL_6.NOUNLOCK.ONE"
+msgid "Ah, I am a fool. I had dared to hope."
+msgstr "噢，我真傻。我竟敢心存希望。"
+
+#. MAXWELL_ADVENTURETHRONE.LEVEL_6.PHONOGRAPHOFF.ONE
+msgctxt "MAXWELL_ADVENTURETHRONE.LEVEL_6.PHONOGRAPHOFF.ONE"
+msgid "Thank you. I have been listening to that song for an eternity."
+msgstr "谢谢你。那首歌我早就听烦了。"
+
+#. MAXWELL_ADVENTURETHRONE.LEVEL_6.PHONOGRAPHON.ONE
+msgctxt "MAXWELL_ADVENTURETHRONE.LEVEL_6.PHONOGRAPHON.ONE"
+msgid "I guess I deserve that."
+msgstr "我想那是我应得的。"
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_4.ONE
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_4.ONE"
+msgid "Fine. Just remember that you chose this."
+msgstr "好吧。记住这是你的选择。"
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_6.FOUR.ONE
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_6.FOUR.ONE"
+msgid "It's just that..."
+msgstr "只是..."
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_6.FOUR.TWO
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_6.FOUR.TWO"
+msgid "I've become accustomed to winning."
+msgstr "我已经习惯于胜利。"
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_6.ONE
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_6.ONE"
+msgid "We're not so different, you and I."
+msgstr "你和我并没有什么不同。"
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_6.THREE.ONE
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_6.THREE.ONE"
+msgid "Oh, did you think you were the first?"
+msgstr "哦，你以为你是第一个？"
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_6.THREE.TWO
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_6.THREE.TWO"
+msgid "HA!"
+msgstr "哈！"
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_6.TWO.ONE
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_6.TWO.ONE"
+msgid "That's why I brought you here."
+msgstr "这就是我把你带来这里的原因。"
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_6.TWO.TWO
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_6.TWO.TWO"
+msgid "That's why I brought all of them here."
+msgstr "这就是我把他们所有人带来这里的原因。"
+
+#. MAXWELL_SANDBOXINTROS.ONE
+msgctxt "MAXWELL_SANDBOXINTROS.ONE"
+msgid "Say pal, you don't look so good."
+msgstr "喂，朋友，你看上去不太好。"
+
+#. MAXWELL_SANDBOXINTROS.TWO
+msgctxt "MAXWELL_SANDBOXINTROS.TWO"
+msgid "You'd better find something to eat before night comes!"
+msgstr "你最好在天黑之前找点吃的！"
+

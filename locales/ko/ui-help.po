@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.HELP.ACCEPT
+msgctxt "UI.HELP.ACCEPT"
+msgid "Accept Changes"
+msgstr "변경 사항 수락"
+
+#. UI.HELP.APPLY
+msgctxt "UI.HELP.APPLY"
+msgid "Apply"
+msgstr "적용"
+
+#. UI.HELP.BACK
+msgctxt "UI.HELP.BACK"
+msgid "Back"
+msgstr "뒤로"
+
+#. UI.HELP.CANCEL
+msgctxt "UI.HELP.CANCEL"
+msgid "Cancel"
+msgstr "취소"
+
+#. UI.HELP.CHANGECHARACTER
+msgctxt "UI.HELP.CHANGECHARACTER"
+msgid "Change Character"
+msgstr "캐릭터 변경"
+
+#. UI.HELP.CHANGEPAGE
+msgctxt "UI.HELP.CHANGEPAGE"
+msgid "Change Page"
+msgstr "페이지 변경"
+
+#. UI.HELP.CHANGEVALUE
+msgctxt "UI.HELP.CHANGEVALUE"
+msgid "Change Value"
+msgstr "값 변경"
+
+#. UI.HELP.CHANGE_MESSAGE
+msgctxt "UI.HELP.CHANGE_MESSAGE"
+msgid "Change Message"
+msgstr "메시지 변경"
+
+#. UI.HELP.CHANGE_TAB
+msgctxt "UI.HELP.CHANGE_TAB"
+msgid "Change Tab"
+msgstr "탭 변경"
+
+#. UI.HELP.CHANGE_TEXT
+msgctxt "UI.HELP.CHANGE_TEXT"
+msgid "Change Text"
+msgstr "텍스트 변경"
+
+#. UI.HELP.CLOSE
+msgctxt "UI.HELP.CLOSE"
+msgid "Close"
+msgstr "닫기"
+
+#. UI.HELP.CONFIGURE
+msgctxt "UI.HELP.CONFIGURE"
+msgid "Configure"
+msgstr "구성"
+
+#. UI.HELP.ENTER_TEXT
+msgctxt "UI.HELP.ENTER_TEXT"
+msgid "Enter Text"
+msgstr "텍스트 입력"
+
+#. UI.HELP.NEXT
+msgctxt "UI.HELP.NEXT"
+msgid "Next"
+msgstr "다음"
+
+#. UI.HELP.NEXTPAGE
+msgctxt "UI.HELP.NEXTPAGE"
+msgid "Next Page"
+msgstr "다음 페이지"
+
+#. UI.HELP.NEXTVALUE
+msgctxt "UI.HELP.NEXTVALUE"
+msgid "Next Value"
+msgstr "다음 값"
+
+#. UI.HELP.PREV
+msgctxt "UI.HELP.PREV"
+msgid "Previous"
+msgstr "이전"
+
+#. UI.HELP.PREVPAGE
+msgctxt "UI.HELP.PREVPAGE"
+msgid "Prev. Page"
+msgstr "이전 페이지"
+
+#. UI.HELP.PREVVALUE
+msgctxt "UI.HELP.PREVVALUE"
+msgid "Previous Value"
+msgstr "이전 값"
+
+#. UI.HELP.RANDOM
+msgctxt "UI.HELP.RANDOM"
+msgid "Random"
+msgstr "무작위"
+
+#. UI.HELP.REVERT
+msgctxt "UI.HELP.REVERT"
+msgid "Revert Changes"
+msgstr "변경 사항 되돌리기"
+
+#. UI.HELP.ROTATE_LEFT
+msgctxt "UI.HELP.ROTATE_LEFT"
+msgid "Rotate Left"
+msgstr "왼쪽으로 회전"
+
+#. UI.HELP.ROTATE_RIGHT
+msgctxt "UI.HELP.ROTATE_RIGHT"
+msgid "Rotate Right"
+msgstr "오른쪽으로 회전"
+
+#. UI.HELP.SAVEPRESET
+msgctxt "UI.HELP.SAVEPRESET"
+msgid "Save Preset"
+msgstr "프리셋 저장"
+
+#. UI.HELP.SCROLL
+msgctxt "UI.HELP.SCROLL"
+msgid "Scroll"
+msgstr "스크롤"
+
+#. UI.HELP.SCROLLBACK
+msgctxt "UI.HELP.SCROLLBACK"
+msgid "Scroll Up"
+msgstr "위로 스크롤"
+
+#. UI.HELP.SCROLLFWD
+msgctxt "UI.HELP.SCROLLFWD"
+msgid "Scroll Down"
+msgstr "아래로 스크롤"
+
+#. UI.HELP.SELECT
+msgctxt "UI.HELP.SELECT"
+msgid "Select"
+msgstr "선택"
+
+#. UI.HELP.SERVERACTIONS
+msgctxt "UI.HELP.SERVERACTIONS"
+msgid "More Server Actions"
+msgstr "기타 서버 작업"
+
+#. UI.HELP.SHOWCHAT
+msgctxt "UI.HELP.SHOWCHAT"
+msgid "Show the Chat Tab"
+msgstr "채팅 탭 표시"
+
+#. UI.HELP.SHOWPLAYERS
+msgctxt "UI.HELP.SHOWPLAYERS"
+msgid "Show the Players Tab"
+msgstr "플레이어 탭 표시"
+
+#. UI.HELP.TOGGLE
+msgctxt "UI.HELP.TOGGLE"
+msgid "Toggle"
+msgstr "토글"
+
+#. UI.HELP.VIEWGROUP
+msgctxt "UI.HELP.VIEWGROUP"
+msgid "View Group Page"
+msgstr "그룹 페이지 보기"
+
+#. UI.HELP.ZOOM_IN
+msgctxt "UI.HELP.ZOOM_IN"
+msgid "Zoom In"
+msgstr "확대"
+
+#. UI.HELP.ZOOM_OUT
+msgctxt "UI.HELP.ZOOM_OUT"
+msgid "Zoom Out"
+msgstr "축소"
+

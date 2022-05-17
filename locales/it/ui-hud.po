@@ -1,0 +1,425 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.HUD.ACTIVATE_RESURRECTION
+msgctxt "UI.HUD.ACTIVATE_RESURRECTION"
+msgid "Activate Meat Effigy"
+msgstr "Attiva effigie di carne"
+
+#. UI.HUD.AFK_BODY
+msgctxt "UI.HUD.AFK_BODY"
+msgid "Make sure to stretch your legs! The deathly wilderness will still be here when you get back."
+msgstr "Assicurati di sgranchirti le gambe! La natura letale sarà ancora qua quando farai ritorno."
+
+#. UI.HUD.AFK_OK
+msgctxt "UI.HUD.AFK_OK"
+msgid "Return"
+msgstr "Di ritorno"
+
+#. UI.HUD.AFK_TITLE
+msgctxt "UI.HUD.AFK_TITLE"
+msgid "Taking A Breather"
+msgstr "Andato a prendere una boccata d'aria"
+
+#. UI.HUD.ATTACK
+msgctxt "UI.HUD.ATTACK"
+msgid "Attack"
+msgstr "Attacca"
+
+#. UI.HUD.BUILD
+msgctxt "UI.HUD.BUILD"
+msgid "Build"
+msgstr "Costruisci"
+
+#. UI.HUD.BUYNOW
+msgctxt "UI.HUD.BUYNOW"
+msgid "Buy Now"
+msgstr "Acquista ora"
+
+#. UI.HUD.CANCEL
+msgctxt "UI.HUD.CANCEL"
+msgid "Cancel"
+msgstr "Annulla"
+
+#. UI.HUD.CLOCKDAY
+msgctxt "UI.HUD.CLOCKDAY"
+msgid "Day"
+msgstr "Giorno"
+
+#. UI.HUD.CLOCKDAYS
+msgctxt "UI.HUD.CLOCKDAYS"
+msgid "Days"
+msgstr "Giorni"
+
+#. UI.HUD.CLOCKSURVIVED
+msgctxt "UI.HUD.CLOCKSURVIVED"
+msgid "Survived"
+msgstr "Sopravvissuto"
+
+#. UI.HUD.CRITTER_TRAITS.COMBAT
+msgctxt "UI.HUD.CRITTER_TRAITS.COMBAT"
+msgid "Scrappy"
+msgstr "Grintoso"
+
+#. UI.HUD.CRITTER_TRAITS.CRAFTY
+msgctxt "UI.HUD.CRITTER_TRAITS.CRAFTY"
+msgid "Crafty"
+msgstr "Abile"
+
+#. UI.HUD.CRITTER_TRAITS.PLAYFUL
+msgctxt "UI.HUD.CRITTER_TRAITS.PLAYFUL"
+msgid "Peppy"
+msgstr "Giocherellone"
+
+#. UI.HUD.CRITTER_TRAITS.WELLFED
+msgctxt "UI.HUD.CRITTER_TRAITS.WELLFED"
+msgid "Plump"
+msgstr "Paffuto"
+
+#. UI.HUD.DEATH_ANNOUNCEMENT_1
+msgctxt "UI.HUD.DEATH_ANNOUNCEMENT_1"
+msgid "was killed by"
+msgstr "è stato ucciso da"
+
+#. UI.HUD.DEATH_ANNOUNCEMENT_2_DEFAULT
+msgctxt "UI.HUD.DEATH_ANNOUNCEMENT_2_DEFAULT"
+msgid ". They became a spooky ghost!"
+msgstr ". Ora è un fantasma inquietante!"
+
+#. UI.HUD.DEATH_ANNOUNCEMENT_2_FEMALE
+msgctxt "UI.HUD.DEATH_ANNOUNCEMENT_2_FEMALE"
+msgid ". She became a spooky ghost!"
+msgstr ". Ora è un fantasma inquietante!"
+
+#. UI.HUD.DEATH_ANNOUNCEMENT_2_MALE
+msgctxt "UI.HUD.DEATH_ANNOUNCEMENT_2_MALE"
+msgid ". He became a spooky ghost!"
+msgstr ". Ora è un fantasma inquietante!"
+
+#. UI.HUD.DEATH_ANNOUNCEMENT_2_ROBOT
+msgctxt "UI.HUD.DEATH_ANNOUNCEMENT_2_ROBOT"
+msgid ". They became a spooky ghost!"
+msgstr ". Ora è un fantasma inquietante!"
+
+#. UI.HUD.DEATH_PET_NAME
+msgctxt "UI.HUD.DEATH_PET_NAME"
+msgid "%s's %s"
+msgstr "%s di %s"
+
+#. UI.HUD.DEPLOY
+msgctxt "UI.HUD.DEPLOY"
+msgid "Deploy"
+msgstr "Schiera"
+
+#. UI.HUD.DROP
+msgctxt "UI.HUD.DROP"
+msgid "Drop"
+msgstr "Lascia cadere"
+
+#. UI.HUD.EQUIP
+msgctxt "UI.HUD.EQUIP"
+msgid "Equip"
+msgstr "Equipaggia"
+
+#. UI.HUD.GETHALF
+msgctxt "UI.HUD.GETHALF"
+msgid "Get Half"
+msgstr "Prendine metà"
+
+#. UI.HUD.GHOST_DEATH_ANNOUNCEMENT_DEFAULT
+msgctxt "UI.HUD.GHOST_DEATH_ANNOUNCEMENT_DEFAULT"
+msgid "lost all of their humanity and is gone forever."
+msgstr "ha perso la sua umanità e ci ha lasciati per sempre."
+
+#. UI.HUD.GHOST_DEATH_ANNOUNCEMENT_FEMALE
+msgctxt "UI.HUD.GHOST_DEATH_ANNOUNCEMENT_FEMALE"
+msgid "lost all of her humanity and is gone forever."
+msgstr "ha perso la sua umanità e se ne è andata per sempre."
+
+#. UI.HUD.GHOST_DEATH_ANNOUNCEMENT_MALE
+msgctxt "UI.HUD.GHOST_DEATH_ANNOUNCEMENT_MALE"
+msgid "lost all of his humanity and is gone forever."
+msgstr "ha perso la sua umanità e ci ha lasciati per sempre."
+
+#. UI.HUD.GHOST_DEATH_ANNOUNCEMENT_ROBOT
+msgctxt "UI.HUD.GHOST_DEATH_ANNOUNCEMENT_ROBOT"
+msgid "lost all of their humanity and is gone forever."
+msgstr "ha perso la sua umanità e ci ha lasciati per sempre."
+
+#. UI.HUD.HERE
+msgctxt "UI.HUD.HERE"
+msgid "here"
+msgstr "qui"
+
+#. UI.HUD.HUNGRY
+msgctxt "UI.HUD.HUNGRY"
+msgid "Hungry"
+msgstr "Affamato"
+
+#. UI.HUD.INSPECT
+msgctxt "UI.HUD.INSPECT"
+msgid "Inspect"
+msgstr "Ispeziona"
+
+#. UI.HUD.INSPECT_SELF
+msgctxt "UI.HUD.INSPECT_SELF"
+msgid "Inspect Self"
+msgstr "Autoispezione"
+
+#. UI.HUD.LAVAARENA_LOSE_BODY
+msgctxt "UI.HUD.LAVAARENA_LOSE_BODY"
+msgid "You have failed Battlemaster Pugna's challenge."
+msgstr "Hai fallito la sfida del mastro d'armi Pugna."
+
+#. UI.HUD.LAVAARENA_LOSE_TITLE
+msgctxt "UI.HUD.LAVAARENA_LOSE_TITLE"
+msgid "Defeat!"
+msgstr "Sconfitta!"
+
+#. UI.HUD.LAVAARENA_WIN_BODY
+msgctxt "UI.HUD.LAVAARENA_WIN_BODY"
+msgid "You have bested Battlemaster Pugna's champions in battle."
+msgstr "Hai battuto in battaglia i paladini del mastro d'armi Pugna."
+
+#. UI.HUD.LAVAARENA_WIN_TITLE
+msgctxt "UI.HUD.LAVAARENA_WIN_TITLE"
+msgid "Victory!"
+msgstr "Vittoria!"
+
+#. UI.HUD.MAP
+msgctxt "UI.HUD.MAP"
+msgid "Show Map\n"
+msgstr "Mostra la mappa\n"
+
+#. UI.HUD.OPENGIFT
+msgctxt "UI.HUD.OPENGIFT"
+msgid "Activate"
+msgstr "Attiva"
+
+#. UI.HUD.PAUSE
+msgctxt "UI.HUD.PAUSE"
+msgid "Pause\n"
+msgstr "Pausa\n"
+
+#. UI.HUD.PUT
+msgctxt "UI.HUD.PUT"
+msgid "Put"
+msgstr "Metti"
+
+#. UI.HUD.PUTONE
+msgctxt "UI.HUD.PUTONE"
+msgid "Put One"
+msgstr "Mettine uno"
+
+#. UI.HUD.QUAGMIRE_NOTFICATIONS.DISCOVERED
+msgctxt "UI.HUD.QUAGMIRE_NOTFICATIONS.DISCOVERED"
+msgid "New Recipe Discovered"
+msgstr "Nuova ricetta scoperta"
+
+#. UI.HUD.QUAGMIRE_NOTFICATIONS.FAILED
+msgctxt "UI.HUD.QUAGMIRE_NOTFICATIONS.FAILED"
+msgid "Recipe Failed"
+msgstr "Ricetta non riuscita"
+
+#. UI.HUD.QUAGMIRE_NOTFICATIONS.INGREDIENT_MADE
+msgctxt "UI.HUD.QUAGMIRE_NOTFICATIONS.INGREDIENT_MADE"
+msgid "Syrup Produced"
+msgstr "Sciroppo prodotto"
+
+#. UI.HUD.QUAGMIRE_NOTFICATIONS.MADE
+msgctxt "UI.HUD.QUAGMIRE_NOTFICATIONS.MADE"
+msgid "Meal Cooked"
+msgstr "Pasto cucinato"
+
+#. UI.HUD.QUAGMIRE_NOTFICATIONS.OVERCOOKED
+msgctxt "UI.HUD.QUAGMIRE_NOTFICATIONS.OVERCOOKED"
+msgid "Meal Burnt"
+msgstr "Pasto bruciato"
+
+#. UI.HUD.QUAGMIRE_NOTFICATIONS.SENT
+msgctxt "UI.HUD.QUAGMIRE_NOTFICATIONS.SENT"
+msgid "Meal Snackrificed"
+msgstr "Pasto sacricibato"
+
+#. UI.HUD.READY
+msgctxt "UI.HUD.READY"
+msgid "How long will you survive?"
+msgstr "Quanto tempo sopravvivrai?"
+
+#. UI.HUD.READYTITLE
+msgctxt "UI.HUD.READYTITLE"
+msgid "Ready to play!"
+msgstr "Pronto a giocare!"
+
+#. UI.HUD.REPORT_RESULT_ANNOUCEMENT
+msgctxt "UI.HUD.REPORT_RESULT_ANNOUCEMENT"
+msgid "Your presence has been noticed."
+msgstr "La tua presenza è stata notata."
+
+#. UI.HUD.RETROFITTING_ANNOUNCEMENT
+msgctxt "UI.HUD.RETROFITTING_ANNOUNCEMENT"
+msgid "World will reload in {time} seconds to complete retrofitting."
+msgstr "Il mondo si ricaricherà tra {time} secondi, per completare il retrofit."
+
+#. UI.HUD.RETROFITTING_ANNOUNCEMENT_NOW
+msgctxt "UI.HUD.RETROFITTING_ANNOUNCEMENT_NOW"
+msgid "World is reloading to complete retrofitting."
+msgstr "Il mondo si sta ricaricando per completare il retrofit."
+
+#. UI.HUD.REZ_ANNOUNCEMENT
+msgctxt "UI.HUD.REZ_ANNOUNCEMENT"
+msgid "was resurrected by"
+msgstr "è di nuovo in vita grazie a"
+
+#. UI.HUD.ROTLEFT
+msgctxt "UI.HUD.ROTLEFT"
+msgid "Rotate Left\n"
+msgstr "Ruota a sinistra\n"
+
+#. UI.HUD.ROTRIGHT
+msgctxt "UI.HUD.ROTRIGHT"
+msgid "Rotate Right\n"
+msgstr "Ruota a destra\n"
+
+#. UI.HUD.SAVING
+msgctxt "UI.HUD.SAVING"
+msgid "SAVING..."
+msgstr "SALVATAGGIO..."
+
+#. UI.HUD.SELECT
+msgctxt "UI.HUD.SELECT"
+msgid "Select"
+msgstr "Seleziona"
+
+#. UI.HUD.SPOILED
+msgctxt "UI.HUD.SPOILED"
+msgid "Spoiled"
+msgstr "(Avariato)"
+
+#. UI.HUD.SPOILED_FROZEN
+msgctxt "UI.HUD.SPOILED_FROZEN"
+msgid "Melted"
+msgstr "(Fuso)"
+
+#. UI.HUD.STALE
+msgctxt "UI.HUD.STALE"
+msgid "Stale"
+msgstr "(Raffermo)"
+
+#. UI.HUD.STALE_FROZEN
+msgctxt "UI.HUD.STALE_FROZEN"
+msgid "Melting"
+msgstr "(In fase di scioglimento)"
+
+#. UI.HUD.START
+msgctxt "UI.HUD.START"
+msgid "Start"
+msgstr "Avvia"
+
+#. UI.HUD.START_AFK
+msgctxt "UI.HUD.START_AFK"
+msgid "went away for a bit."
+msgstr "è andato via per un po'."
+
+#. UI.HUD.STARVING
+msgctxt "UI.HUD.STARVING"
+msgid "Starving"
+msgstr "Affamatissimo"
+
+#. UI.HUD.STOP_AFK
+msgctxt "UI.HUD.STOP_AFK"
+msgid "has returned from their relaxing time away."
+msgstr "è tornato dal suo momento di relax."
+
+#. UI.HUD.SWAP
+msgctxt "UI.HUD.SWAP"
+msgid "Swap"
+msgstr "Scambia"
+
+#. UI.HUD.TAKE
+msgctxt "UI.HUD.TAKE"
+msgid "Take"
+msgstr "Prendi"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.catcoon
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.catcoon"
+msgid "A Catcoon"
+msgstr "Un gattorsetto lavatore"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.crabking
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.crabking"
+msgid "The Crab King"
+msgstr "Il re granchio"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.merm
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.merm"
+msgid "A Merm"
+msgstr "Un mermo"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermguard
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermguard"
+msgid "A Loyal Merm Guard"
+msgstr "Una fedele guardia mermica"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermhouse
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermhouse"
+msgid "A family of Merms"
+msgstr "Una famiglia di mermi"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermhouse_crafted
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermhouse_crafted"
+msgid "A well-to-do Merm"
+msgstr "Un mermo abbiente"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermking
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermking"
+msgid "The King of the Merms"
+msgstr "Il re dei mermi"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermthrone
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermthrone"
+msgid "The King of the Merms"
+msgstr "Il re dei mermi"
+
+#. UI.HUD.TROPHYSCALE_UNKNOWN_OWNER
+msgctxt "UI.HUD.TROPHYSCALE_UNKNOWN_OWNER"
+msgid "An Unnamed Donor"
+msgstr "Un donatore anonimo"
+
+#. UI.HUD.UNEQUIP
+msgctxt "UI.HUD.UNEQUIP"
+msgid "Unequip"
+msgstr "Togli dall'equipaggiamento"
+
+#. UI.HUD.UNLOCK_TARGET
+msgctxt "UI.HUD.UNLOCK_TARGET"
+msgid "Unlock Target"
+msgstr "Sblocca obiettivo"
+
+#. UI.HUD.WAXED
+msgctxt "UI.HUD.WAXED"
+msgid "Waxed"
+msgstr "Cerato"
+
+#. UI.HUD.WHACK
+msgctxt "UI.HUD.WHACK"
+msgid "Whack"
+msgstr "Colpisci"
+
+#. UI.HUD.WORLD
+msgctxt "UI.HUD.WORLD"
+msgid "World"
+msgstr "Mondo"
+
+#. UI.HUD.WORLD_CLOCKDAY
+msgctxt "UI.HUD.WORLD_CLOCKDAY"
+msgid "Day"
+msgstr "Giorno"
+
+#. UI.HUD.WORLD_CLOCKDAY_V2
+msgctxt "UI.HUD.WORLD_CLOCKDAY_V2"
+msgid "Day {day_count}"
+msgstr "Giorno {day_count}"
+

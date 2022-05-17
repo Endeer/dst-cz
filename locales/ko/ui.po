@@ -1,0 +1,2460 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.ACCOUNT.CANCEL
+msgctxt "UI.ACCOUNT.CANCEL"
+msgid "Cancel"
+msgstr "취소"
+
+#. UI.ACCOUNT.CDKEY
+msgctxt "UI.ACCOUNT.CDKEY"
+msgid "Don't Starve CD-Key"
+msgstr "Don't Starve CD-키"
+
+#. UI.ACCOUNT.CREATE
+msgctxt "UI.ACCOUNT.CREATE"
+msgid "Create"
+msgstr "생성"
+
+#. UI.ACCOUNT.EMAIL
+msgctxt "UI.ACCOUNT.EMAIL"
+msgid "Email"
+msgstr "이메일주소"
+
+#. UI.ACCOUNT.LAN
+msgctxt "UI.ACCOUNT.LAN"
+msgid "LAN"
+msgstr "LAN"
+
+#. UI.ACCOUNT.LINKSTEAMACCOUNT
+msgctxt "UI.ACCOUNT.LINKSTEAMACCOUNT"
+msgid "Link Steam Account"
+msgstr "Steam 계정 연결"
+
+#. UI.ACCOUNT.LOGIN
+msgctxt "UI.ACCOUNT.LOGIN"
+msgid "Login"
+msgstr "로그인"
+
+#. UI.ACCOUNT.LOGINWITHSTEAM
+msgctxt "UI.ACCOUNT.LOGINWITHSTEAM"
+msgid "Login With Steam"
+msgstr "Steam으로 로그인하기"
+
+#. UI.ACCOUNT.PASSWORD
+msgctxt "UI.ACCOUNT.PASSWORD"
+msgid "Password"
+msgstr "비밀번호"
+
+#. UI.ACCOUNT.REGISTER
+msgctxt "UI.ACCOUNT.REGISTER"
+msgid "Register"
+msgstr "회원가입"
+
+#. UI.ACCOUNT.USERNAME
+msgctxt "UI.ACCOUNT.USERNAME"
+msgid "User Name"
+msgstr "사용자 이름"
+
+#. UI.BARTERSCREEN.CANCEL
+msgctxt "UI.BARTERSCREEN.CANCEL"
+msgid "Never mind"
+msgstr "취소"
+
+#. UI.BARTERSCREEN.COMMERCE_BUY
+msgctxt "UI.BARTERSCREEN.COMMERCE_BUY"
+msgid "Weave"
+msgstr "직조"
+
+#. UI.BARTERSCREEN.COMMERCE_GRIND
+msgctxt "UI.BARTERSCREEN.COMMERCE_GRIND"
+msgid "Unravel"
+msgstr "풀기"
+
+#. UI.BARTERSCREEN.COMMERCE_GRIND_DUPES
+msgctxt "UI.BARTERSCREEN.COMMERCE_GRIND_DUPES"
+msgid "Unravel Duplicates"
+msgstr "중복 아이템 풀기"
+
+#. UI.BARTERSCREEN.COMMERCE_INFO_BUY
+msgctxt "UI.BARTERSCREEN.COMMERCE_INFO_BUY"
+msgid "Use {doodad_value} Spools to weave this curio."
+msgstr "이 골동품은 실타래 {doodad_value}개로 직조할 수 있습니다."
+
+#. UI.BARTERSCREEN.COMMERCE_INFO_GRIND
+msgctxt "UI.BARTERSCREEN.COMMERCE_INFO_GRIND"
+msgid "This curio can be unraveled into {doodad_value} Spools."
+msgstr "이 골동품을 풀면 실타래 {doodad_value}개가 나옵니다."
+
+#. UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_NEVER
+msgctxt "UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_NEVER"
+msgid "This curio is not weaveable."
+msgstr "이 골동품은 직조할 수 없습니다."
+
+#. UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_NOT_ACTIVE
+msgctxt "UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_NOT_ACTIVE"
+msgid "This curio is not currently weaveable."
+msgstr "이 골동품은 현재 직조할 수 없습니다."
+
+#. UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_UNOWNED
+msgctxt "UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_UNOWNED"
+msgid "You must have {character} unlocked to weave this item from Spools."
+msgstr "이 아이템을 실타래로 직조하려면 {character} 캐릭터를 잠금 해제해야 합니다."
+
+#. UI.BARTERSCREEN.COMMERCE_INFO_NOGRIND
+msgctxt "UI.BARTERSCREEN.COMMERCE_INFO_NOGRIND"
+msgid "This curio cannot be unraveled."
+msgstr "이 골동품은 풀 수 없습니다."
+
+#. UI.BARTERSCREEN.CONFIRM_BUY_FMT
+msgctxt "UI.BARTERSCREEN.CONFIRM_BUY_FMT"
+msgid "Use {doodad_count} Spools to weave item: {item_name}?\n\nYou will be left with {doodad_net} Spools.\nSpools are used to weave \"Woven\" rarity curios."
+msgstr "실타래 {doodad_count}개를 사용하여 {item_name} 아이템을 직조하시겠습니까?\n\n하고 나면 실타래 {doodad_net}개가 남게 됩니다.\n실타래는 \"직물\" 희귀도 골동품을 직조하는 데 사용됩니다."
+
+#. UI.BARTERSCREEN.CONFIRM_GRIND_DUPES_FMT
+msgctxt "UI.BARTERSCREEN.CONFIRM_GRIND_DUPES_FMT"
+msgid "Unravel {count} duplicates into {doodad_count} Spools?\n\nYou will have a total of {doodad_net} Spools."
+msgstr "중복 아이템 {count}개를 풀어서 실타래를 {doodad_count}개 얻으시겠습니까?\n\n실타래가 총 {doodad_net}개가 됩니다."
+
+#. UI.BARTERSCREEN.CONFIRM_GRIND_DUPE_FMT
+msgctxt "UI.BARTERSCREEN.CONFIRM_GRIND_DUPE_FMT"
+msgid "Unravel 1 duplicate into {doodad_count} Spools?\n\nYou will have a total of {doodad_net} Spools."
+msgstr "중복 아이템 1개를 풀어서 실타래를 {doodad_count}개 얻으시겠습니까?\n\n실타래가 총 {doodad_net}개가 됩니다."
+
+#. UI.BARTERSCREEN.CONFIRM_GRIND_FMT
+msgctxt "UI.BARTERSCREEN.CONFIRM_GRIND_FMT"
+msgid "Unravel this {item_name} into {doodad_count} Spools?\n\nYou will have a total of {doodad_net} Spools.\nSpools are used to weave \"Woven\" rarity curios."
+msgstr "이 {item_name} 아이템을 풀어서 실타래 {doodad_count}개를 얻으시겠습니까?\n\n하고 나면 실타래가 총 {doodad_net}개가 됩니다.\n실타래는 \"직물\" 희귀도 골동품을 직조하는 데 사용됩니다."
+
+#. UI.BARTERSCREEN.FAILED_BODY
+msgctxt "UI.BARTERSCREEN.FAILED_BODY"
+msgid "Sorry!\nFailed to contact Klei Servers. Please try again."
+msgstr "죄송합니다!\nKlei 서버 접속에 실패했습니다. 다시 시도하십시오."
+
+#. UI.BARTERSCREEN.FAILED_TITLE
+msgctxt "UI.BARTERSCREEN.FAILED_TITLE"
+msgid "Connection failure"
+msgstr "연결 실패"
+
+#. UI.BARTERSCREEN.FAIL_BUY_FMT
+msgctxt "UI.BARTERSCREEN.FAIL_BUY_FMT"
+msgid "{doodad_count} Spools are required to weave item: {item_name}.\n\nYou need {doodad_net} more Spool(s) to weave this item.\nSpools can be obtained by unraveling curios."
+msgstr "{item_name} 아이템을 직조하려면 실타래가 {doodad_count}개 필요합니다.\n\n이 아이템을 직조하려면 실타래가 {doodad_net}개 더 필요합니다.\n실타래는 골동품을 풀어서 획득할 수 있습니다."
+
+#. UI.BARTERSCREEN.NO_MARKET
+msgctxt "UI.BARTERSCREEN.NO_MARKET"
+msgid "This curio cannot be traded or sold."
+msgstr "이 골동품은 거래하거나 판매할 수 없습니다."
+
+#. UI.BARTERSCREEN.OK
+msgctxt "UI.BARTERSCREEN.OK"
+msgid "OK"
+msgstr "확인"
+
+#. UI.BARTERSCREEN.TITLE
+msgctxt "UI.BARTERSCREEN.TITLE"
+msgid "The Curio Loom"
+msgstr "골동품 직조기"
+
+#. UI.BARTERSCREEN.UNRAVEL_WARNING_BODY
+msgctxt "UI.BARTERSCREEN.UNRAVEL_WARNING_BODY"
+msgid "Unraveling this item will break your {ensemble_name} and cause you to lose access to the Reward item, {reward_name}."
+msgstr "이 아이템을 풀면 {ensemble_name} 앙상블이 파손되어 그 보상 아이템인 {reward_name}을(를) 이용할 수 없게 됩니다."
+
+#. UI.BARTERSCREEN.UNRAVEL_WARNING_RESTRICTED_BODY
+msgctxt "UI.BARTERSCREEN.UNRAVEL_WARNING_RESTRICTED_BODY"
+msgid "You will no longer be able to play as {character} if you unravel this item. You'll also lose access to all the items you own that are character-specific to {character}, although you'll be able to unravel them, if you wish."
+msgstr "이 아이템을 풀면 더는 {character} 캐릭터로 플레이할 수 없습니다. 모든 {character} 전용 아이템도 풀 수는 있지만 사용할 수는 없게 됩니다."
+
+#. UI.BARTERSCREEN.UNRAVEL_WARNING_TITLE
+msgctxt "UI.BARTERSCREEN.UNRAVEL_WARNING_TITLE"
+msgid "Warning!"
+msgstr "경고!"
+
+#. UI.BEARDSCREEN.BEARD_NAMES.1
+msgctxt "UI.BEARDSCREEN.BEARD_NAMES.1"
+msgid "Trimmed"
+msgstr "다듬음"
+
+#. UI.BEARDSCREEN.BEARD_NAMES.2
+msgctxt "UI.BEARDSCREEN.BEARD_NAMES.2"
+msgid "Groomed"
+msgstr "손질함"
+
+#. UI.BEARDSCREEN.BEARD_NAMES.3
+msgctxt "UI.BEARDSCREEN.BEARD_NAMES.3"
+msgid "Magnificent"
+msgstr "웅장한"
+
+#. UI.BOAT.HEALTH
+msgctxt "UI.BOAT.HEALTH"
+msgid "Boat Health: "
+msgstr "배 생명력: "
+
+#. UI.BOX_POPUP.OK
+msgctxt "UI.BOX_POPUP.OK"
+msgid "OK"
+msgstr "확인"
+
+#. UI.BOX_POPUP.SERVER_ERROR_BODY
+msgctxt "UI.BOX_POPUP.SERVER_ERROR_BODY"
+msgid "There was an error while opening your Chest. Please log in again to refresh your account inventory."
+msgstr "상자를 여는 도중에 오류가 있었습니다. 다시 로그인하여 계정 인벤토리를 새로고침하세요."
+
+#. UI.BOX_POPUP.SERVER_ERROR_TITLE
+msgctxt "UI.BOX_POPUP.SERVER_ERROR_TITLE"
+msgid "Error Opening Chest"
+msgstr "상자 열기 오류"
+
+#. UI.BOX_POPUP.SERVER_NO_ITEM_BODY
+msgctxt "UI.BOX_POPUP.SERVER_NO_ITEM_BODY"
+msgid "This Chest contained items that are not supported by your current game version. Please exit and update your game."
+msgstr "이 상자에는 현재 게임 버전에서 지원하지 않는 아이템이 들어 있었습니다. 게임을 종료하고 업데이트하세요."
+
+#. UI.BOX_POPUP.TITLE
+msgctxt "UI.BOX_POPUP.TITLE"
+msgid "You received..."
+msgstr "획득 내용"
+
+#. UI.BUGREPORTSCREEN.CANCEL_SUBMIT_BODY
+msgctxt "UI.BUGREPORTSCREEN.CANCEL_SUBMIT_BODY"
+msgid "You have not submitted your report.\nAre you sure you want to cancel?"
+msgstr "신고를 제출하지 않았습니다.\n정말 취소하시겠습니까?"
+
+#. UI.BUGREPORTSCREEN.CANCEL_SUBMIT_HEADER
+msgctxt "UI.BUGREPORTSCREEN.CANCEL_SUBMIT_HEADER"
+msgid "Cancel Bug Report?"
+msgstr "버그 신고를 취소하시겠습니까?"
+
+#. UI.BUGREPORTSCREEN.CHANGE_BUG_DESCRIPTION
+msgctxt "UI.BUGREPORTSCREEN.CHANGE_BUG_DESCRIPTION"
+msgid "Change Bug Description"
+msgstr "버그 설명 변경"
+
+#. UI.BUGREPORTSCREEN.DESCRIPTION_LABEL
+msgctxt "UI.BUGREPORTSCREEN.DESCRIPTION_LABEL"
+msgid "Please describe your issue."
+msgstr "문제를 설명해 주세요."
+
+#. UI.BUGREPORTSCREEN.ENTER_BUG_DESCRIPTION
+msgctxt "UI.BUGREPORTSCREEN.ENTER_BUG_DESCRIPTION"
+msgid "Enter Bug Description"
+msgstr "버그 설명 입력"
+
+#. UI.BUGREPORTSCREEN.NO
+msgctxt "UI.BUGREPORTSCREEN.NO"
+msgid "No"
+msgstr "아니요"
+
+#. UI.BUGREPORTSCREEN.OK
+msgctxt "UI.BUGREPORTSCREEN.OK"
+msgid "OK"
+msgstr "확인"
+
+#. UI.BUGREPORTSCREEN.SUBMIT
+msgctxt "UI.BUGREPORTSCREEN.SUBMIT"
+msgid "Submit"
+msgstr "제출"
+
+#. UI.BUGREPORTSCREEN.SUBMITTING_TEXT
+msgctxt "UI.BUGREPORTSCREEN.SUBMITTING_TEXT"
+msgid "Submitting files, please wait"
+msgstr "파일 제출 중이니 잠시만 기다리십시오."
+
+#. UI.BUGREPORTSCREEN.SUBMIT_DIALOG_BODY
+msgctxt "UI.BUGREPORTSCREEN.SUBMIT_DIALOG_BODY"
+msgid "Submitting a bug report will upload your game information and saved worlds to Klei to help us analyze the issue.\n\nThis may take several minutes."
+msgstr "버그 신고를 제출하면 문제를 분석하는 데 도움이 되는 게임 정보와 저장된 세계가 Klei에 업로드됩니다.\n\n이 작업은 몇 분 정도 걸릴 수 있습니다."
+
+#. UI.BUGREPORTSCREEN.SUBMIT_DIALOG_HEADER
+msgctxt "UI.BUGREPORTSCREEN.SUBMIT_DIALOG_HEADER"
+msgid "Submit Bug Report?"
+msgstr "버그 신고를 제출하시겠습니까?"
+
+#. UI.BUGREPORTSCREEN.SUBMIT_FAILURE_TEXT
+msgctxt "UI.BUGREPORTSCREEN.SUBMIT_FAILURE_TEXT"
+msgid "There was a problem uploading your files."
+msgstr "파일을 업로드하는 데 문제가 있었습니다."
+
+#. UI.BUGREPORTSCREEN.SUBMIT_FAILURE_TITLE
+msgctxt "UI.BUGREPORTSCREEN.SUBMIT_FAILURE_TITLE"
+msgid "Error"
+msgstr "오류"
+
+#. UI.BUGREPORTSCREEN.SUBMIT_SUCCESS
+msgctxt "UI.BUGREPORTSCREEN.SUBMIT_SUCCESS"
+msgid "Files successfully uploaded. Thanks for the report!"
+msgstr "파일 업로드에 성공했습니다. 신고해 주셔서 감사합니다!"
+
+#. UI.BUGREPORTSCREEN.SUBMIT_SUCCESS_TITLE
+msgctxt "UI.BUGREPORTSCREEN.SUBMIT_SUCCESS_TITLE"
+msgid "Success"
+msgstr "성공"
+
+#. UI.BUGREPORTSCREEN.SUBMIT_TEXT_PLACEHOLDER
+msgctxt "UI.BUGREPORTSCREEN.SUBMIT_TEXT_PLACEHOLDER"
+msgid "Please enter a description of the bug you are experiencing and any details that you feel may aid us in fixing it."
+msgstr "경험한 버그에 대한 설명과 버그 수정에 도움이 될 만한 세부 정보를 입력하세요."
+
+#. UI.BUGREPORTSCREEN.YES
+msgctxt "UI.BUGREPORTSCREEN.YES"
+msgid "Yes"
+msgstr "예"
+
+#. UI.CHARACTERSELECT.APPLY
+msgctxt "UI.CHARACTERSELECT.APPLY"
+msgid "Apply"
+msgstr "적용"
+
+#. UI.CHARACTERSELECT.CANCEL
+msgctxt "UI.CHARACTERSELECT.CANCEL"
+msgid "Cancel"
+msgstr "취소"
+
+#. UI.CHARACTERSELECT.DISCONNECT
+msgctxt "UI.CHARACTERSELECT.DISCONNECT"
+msgid "Disconnect"
+msgstr "연결 끊기"
+
+#. UI.CHARACTERSELECT.SELECT
+msgctxt "UI.CHARACTERSELECT.SELECT"
+msgid "Select"
+msgstr "선택"
+
+#. UI.CHATINPUTSCREEN.HELP_OPEN_VIRTUAL_KEYBOARD
+msgctxt "UI.CHATINPUTSCREEN.HELP_OPEN_VIRTUAL_KEYBOARD"
+msgid "Open Keyboard"
+msgstr ""
+
+#. UI.CHATINPUTSCREEN.HELP_SAY
+msgctxt "UI.CHATINPUTSCREEN.HELP_SAY"
+msgid "Say"
+msgstr "말하기"
+
+#. UI.CHATINPUTSCREEN.HELP_WHISPER
+msgctxt "UI.CHATINPUTSCREEN.HELP_WHISPER"
+msgid "Whisper"
+msgstr "속삭이기"
+
+#. UI.CHATINPUTSCREEN.SAY
+msgctxt "UI.CHATINPUTSCREEN.SAY"
+msgid "say:"
+msgstr "말하기:"
+
+#. UI.CHATINPUTSCREEN.STEAMDECK_MSG_PROMPT
+msgctxt "UI.CHATINPUTSCREEN.STEAMDECK_MSG_PROMPT"
+msgid "Message:"
+msgstr ""
+
+#. UI.CHATINPUTSCREEN.WHISPER
+msgctxt "UI.CHATINPUTSCREEN.WHISPER"
+msgid "whisper:"
+msgstr "속삭이기:"
+
+#. UI.CHATINPUTSCREEN.WHISPER_DESIGNATOR
+msgctxt "UI.CHATINPUTSCREEN.WHISPER_DESIGNATOR"
+msgid "[W]"
+msgstr "[W]"
+
+#. UI.CLOUDSERVERCREATIONSCREEN.CREATE
+msgctxt "UI.CLOUDSERVERCREATIONSCREEN.CREATE"
+msgid "Create Match"
+msgstr "매치 생성"
+
+#. UI.CLOUDSERVERCREATIONSCREEN.TITLE
+msgctxt "UI.CLOUDSERVERCREATIONSCREEN.TITLE"
+msgid "Custom Match"
+msgstr "커스텀 매치"
+
+#. UI.COLLECTIONSCREEN.BEARD
+msgctxt "UI.COLLECTIONSCREEN.BEARD"
+msgid "Beards"
+msgstr "수염"
+
+#. UI.COLLECTIONSCREEN.EMOJI
+msgctxt "UI.COLLECTIONSCREEN.EMOJI"
+msgid "Emoticons"
+msgstr "이모티콘"
+
+#. UI.COLLECTIONSCREEN.EMOTE
+msgctxt "UI.COLLECTIONSCREEN.EMOTE"
+msgid "Emotes"
+msgstr "감정 표현"
+
+#. UI.COLLECTIONSCREEN.FAILED_TO_LOAD
+msgctxt "UI.COLLECTIONSCREEN.FAILED_TO_LOAD"
+msgid "Sorry!\nWe've temporarily misplaced your curios.\nPlease try again later."
+msgstr "죄송합니다!\n골동품을 잠시 엉뚱한 곳에 뒀습니다.\n나중에 다시 시도하십시오."
+
+#. UI.COLLECTIONSCREEN.GAMEITEM
+msgctxt "UI.COLLECTIONSCREEN.GAMEITEM"
+msgid "Belongings"
+msgstr "소지품"
+
+#. UI.COLLECTIONSCREEN.LOADERS
+msgctxt "UI.COLLECTIONSCREEN.LOADERS"
+msgid "Vignettes"
+msgstr "삽화"
+
+#. UI.COLLECTIONSCREEN.NEW
+msgctxt "UI.COLLECTIONSCREEN.NEW"
+msgid "New!"
+msgstr "신규!"
+
+#. UI.COLLECTIONSCREEN.PORTRAITBACKGROUNDS
+msgctxt "UI.COLLECTIONSCREEN.PORTRAITBACKGROUNDS"
+msgid "Portrait Frames"
+msgstr "초상화 액자"
+
+#. UI.COLLECTIONSCREEN.PROFILEFLAIR
+msgctxt "UI.COLLECTIONSCREEN.PROFILEFLAIR"
+msgid "Profile Icons"
+msgstr "프로필 아이콘"
+
+#. UI.COLLECTIONSCREEN.SET_INFO
+msgctxt "UI.COLLECTIONSCREEN.SET_INFO"
+msgid "Ensemble"
+msgstr "앙상블"
+
+#. UI.COLLECTIONSCREEN.SKINS
+msgctxt "UI.COLLECTIONSCREEN.SKINS"
+msgid "Wardrobe"
+msgstr "옷장"
+
+#. UI.COLLECTIONSCREEN.TITLE
+msgctxt "UI.COLLECTIONSCREEN.TITLE"
+msgid "Curio Cabinet"
+msgstr "골동품 진열장"
+
+#. UI.COLLECTIONSCREEN.TOOLTIP_BEARD
+msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_BEARD"
+msgid "View your character beards"
+msgstr "캐릭터 수염 보기"
+
+#. UI.COLLECTIONSCREEN.TOOLTIP_EMOJI
+msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_EMOJI"
+msgid "View your available chat icons"
+msgstr "사용 가능한 채팅 아이콘 보기"
+
+#. UI.COLLECTIONSCREEN.TOOLTIP_EMOTE
+msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_EMOTE"
+msgid "View your character emotes"
+msgstr "캐릭터 감정 표현 보기"
+
+#. UI.COLLECTIONSCREEN.TOOLTIP_GAMEITEM
+msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_GAMEITEM"
+msgid "View your skins for craftable in-game items"
+msgstr "제작 가능한 게임 아이템 스킨 보기"
+
+#. UI.COLLECTIONSCREEN.TOOLTIP_LOADERS
+msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_LOADERS"
+msgid "Select loading screens to display between games"
+msgstr "게임 사이에 표시할 로딩 화면 선택"
+
+#. UI.COLLECTIONSCREEN.TOOLTIP_PORTRAITBACKGROUNDS
+msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_PORTRAITBACKGROUNDS"
+msgid "Equip new backgrounds to your characters' portraits"
+msgstr "캐릭터의 초상화에 새로운 배경 장착하기"
+
+#. UI.COLLECTIONSCREEN.TOOLTIP_PROFILEFLAIR
+msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_PROFILEFLAIR"
+msgid "Select an icon for your profile"
+msgstr "프로필 아이콘 선택"
+
+#. UI.COLLECTIONSCREEN.TOOLTIP_SKINS
+msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_SKINS"
+msgid "View and equip your character skins"
+msgstr "캐릭터 스킨 보기 및 장착하기"
+
+#. UI.COLLECTIONSCREEN.VIEW_MARKET
+msgctxt "UI.COLLECTIONSCREEN.VIEW_MARKET"
+msgid "Steam"
+msgstr "Steam"
+
+#. UI.COLOUR.Black
+msgctxt "UI.COLOUR.Black"
+msgid "Black"
+msgstr "검은색"
+
+#. UI.COLOUR.Blue
+msgctxt "UI.COLOUR.Blue"
+msgid "Blue"
+msgstr "파란색"
+
+#. UI.COLOUR.Brown
+msgctxt "UI.COLOUR.Brown"
+msgid "Brown"
+msgstr "갈색"
+
+#. UI.COLOUR.Green
+msgctxt "UI.COLOUR.Green"
+msgid "Green"
+msgstr "녹색"
+
+#. UI.COLOUR.Grey
+msgctxt "UI.COLOUR.Grey"
+msgid "Gray"
+msgstr "회색"
+
+#. UI.COLOUR.Navy
+msgctxt "UI.COLOUR.Navy"
+msgid "Navy"
+msgstr "남색"
+
+#. UI.COLOUR.Orange
+msgctxt "UI.COLOUR.Orange"
+msgid "Orange"
+msgstr "주황색"
+
+#. UI.COLOUR.Pink
+msgctxt "UI.COLOUR.Pink"
+msgid "Pink"
+msgstr "분홍색"
+
+#. UI.COLOUR.Purple
+msgctxt "UI.COLOUR.Purple"
+msgid "Purple"
+msgstr "보라색"
+
+#. UI.COLOUR.Red
+msgctxt "UI.COLOUR.Red"
+msgid "Red"
+msgstr "빨간색"
+
+#. UI.COLOUR.Tan
+msgctxt "UI.COLOUR.Tan"
+msgid "Tan"
+msgstr "황갈색"
+
+#. UI.COLOUR.Teal
+msgctxt "UI.COLOUR.Teal"
+msgid "Teal"
+msgstr "청록색"
+
+#. UI.COLOUR.White
+msgctxt "UI.COLOUR.White"
+msgid "White"
+msgstr "흰색"
+
+#. UI.COLOUR.Yellow
+msgctxt "UI.COLOUR.Yellow"
+msgid "Yellow"
+msgstr "노란색"
+
+#. UI.COMMANDSSCREEN.CANCEL
+msgctxt "UI.COMMANDSSCREEN.CANCEL"
+msgid "Cancel"
+msgstr "취소"
+
+#. UI.COMMANDSSCREEN.CONFIRMBODY
+msgctxt "UI.COMMANDSSCREEN.CONFIRMBODY"
+msgid "Are you sure?"
+msgstr "정말 이대로 진행하시겠습니까?"
+
+#. UI.COMMANDSSCREEN.CONFIRMTITLE
+msgctxt "UI.COMMANDSSCREEN.CONFIRMTITLE"
+msgid "Really %s?"
+msgstr "정말로 %s하시겠습니까?"
+
+#. UI.COMMANDSSCREEN.CONFIRMTITLE_TARGET
+msgctxt "UI.COMMANDSSCREEN.CONFIRMTITLE_TARGET"
+msgid "Really %s %s?"
+msgstr "정말로 %s(대상: %s)하시겠습니까?"
+
+#. UI.COMMANDSSCREEN.HIDE_SERVERNAME
+msgctxt "UI.COMMANDSSCREEN.HIDE_SERVERNAME"
+msgid "Hide Server Name"
+msgstr "서버 이름 숨기기"
+
+#. UI.COMMANDSSCREEN.SERVERSUBTITLE
+msgctxt "UI.COMMANDSSCREEN.SERVERSUBTITLE"
+msgid "Actions for"
+msgstr "행동:"
+
+#. UI.COMMANDSSCREEN.SERVERTITLE
+msgctxt "UI.COMMANDSSCREEN.SERVERTITLE"
+msgid "The Server"
+msgstr "서버"
+
+#. UI.COMMANDSSCREEN.SHOW_SERVERNAME
+msgctxt "UI.COMMANDSSCREEN.SHOW_SERVERNAME"
+msgid "Show Server Name"
+msgstr "서버 이름 표시"
+
+#. UI.COMMANDSSCREEN.USERSUBTITLE
+msgctxt "UI.COMMANDSSCREEN.USERSUBTITLE"
+msgid "User Actions for"
+msgstr "사용자 행동:"
+
+#. UI.COMMANDSSCREEN.VOTEFMT
+msgctxt "UI.COMMANDSSCREEN.VOTEFMT"
+msgid "%s (vote)"
+msgstr "%s (투표)"
+
+#. UI.COMMANDWHEEL.EMOTES
+msgctxt "UI.COMMANDWHEEL.EMOTES"
+msgid "Emotes"
+msgstr "감정"
+
+#. UI.COMMANDWHEEL.INVITE
+msgctxt "UI.COMMANDWHEEL.INVITE"
+msgid "Send Invitation"
+msgstr "초대하기"
+
+#. UI.COMMANDWHEEL.PLAYERLIST
+msgctxt "UI.COMMANDWHEEL.PLAYERLIST"
+msgid "Player Listing"
+msgstr "플레이어 목록"
+
+#. UI.COMMANDWHEEL.SAY
+msgctxt "UI.COMMANDWHEEL.SAY"
+msgid "Say"
+msgstr "말하기"
+
+#. UI.COMMANDWHEEL.USERCOMMANDS
+msgctxt "UI.COMMANDWHEEL.USERCOMMANDS"
+msgid "Miscellaneous"
+msgstr "기타"
+
+#. UI.COMMANDWHEEL.WHISPER
+msgctxt "UI.COMMANDWHEEL.WHISPER"
+msgid "Whisper"
+msgstr "속삭이기"
+
+#. UI.COMPENDIUM.CAUSEOFDEATH_OTHER
+msgctxt "UI.COMPENDIUM.CAUSEOFDEATH_OTHER"
+msgid "Other"
+msgstr "기타"
+
+#. UI.COMPENDIUM.CHARACTERDETAILS
+msgctxt "UI.COMPENDIUM.CHARACTERDETAILS"
+msgid "Survivors"
+msgstr "생존자"
+
+#. UI.COMPENDIUM.CINEMATICS
+msgctxt "UI.COMPENDIUM.CINEMATICS"
+msgid "Cinematics"
+msgstr "시네마틱"
+
+#. UI.COMPENDIUM.COOKBOOKPANEL
+msgctxt "UI.COMPENDIUM.COOKBOOKPANEL"
+msgid "Cookbook"
+msgstr "요리책"
+
+#. UI.COMPENDIUM.ENCOUNTERS
+msgctxt "UI.COMPENDIUM.ENCOUNTERS"
+msgid "Encounters"
+msgstr "인카운터"
+
+#. UI.COMPENDIUM.HISTORYOFTRAVELS
+msgctxt "UI.COMPENDIUM.HISTORYOFTRAVELS"
+msgid "History of Travels"
+msgstr "이동 기록"
+
+#. UI.COMPENDIUM.OBITUARIES
+msgctxt "UI.COMPENDIUM.OBITUARIES"
+msgid "Obituaries"
+msgstr "부고"
+
+#. UI.COMPENDIUM.PLANTREGISTRYPANEL
+msgctxt "UI.COMPENDIUM.PLANTREGISTRYPANEL"
+msgid "Plant Registry"
+msgstr "식물 등록"
+
+#. UI.COMPENDIUM.TOOLTIP_CHARACTERDETAILS
+msgctxt "UI.COMPENDIUM.TOOLTIP_CHARACTERDETAILS"
+msgid "The survivors of the Constant"
+msgstr "콘스탄트의 생존자"
+
+#. UI.COMPENDIUM.TOOLTIP_CINEMATICS
+msgctxt "UI.COMPENDIUM.TOOLTIP_CINEMATICS"
+msgid "Pretty movies!"
+msgstr "예쁜 영상!"
+
+#. UI.COMPENDIUM.TOOLTIP_COOKBOOKPANEL
+msgctxt "UI.COMPENDIUM.TOOLTIP_COOKBOOKPANEL"
+msgid "The Constant's guide to cookery"
+msgstr "콘스탄트 요리 가이드"
+
+#. UI.COMPENDIUM.TOOLTIP_ENCOUNTERS
+msgctxt "UI.COMPENDIUM.TOOLTIP_ENCOUNTERS"
+msgid "A history of those you've crossed paths with"
+msgstr "마주친 이들의 기록"
+
+#. UI.COMPENDIUM.TOOLTIP_HISTORYOFTRAVELS
+msgctxt "UI.COMPENDIUM.TOOLTIP_HISTORYOFTRAVELS"
+msgid "A summary of your adventures"
+msgstr "모험 요약"
+
+#. UI.COMPENDIUM.TOOLTIP_OBITUARIES
+msgctxt "UI.COMPENDIUM.TOOLTIP_OBITUARIES"
+msgid "Reminisce over past mistakes"
+msgstr "과거의 실수 곱씹기"
+
+#. UI.COMPENDIUM.TOOLTIP_PLANTREGISTRY
+msgctxt "UI.COMPENDIUM.TOOLTIP_PLANTREGISTRY"
+msgid "The Constant gardener's almanac"
+msgstr "콘스탄트 원예의 연감"
+
+#. UI.CONSOLESCREEN.LOCALEXECUTE
+msgctxt "UI.CONSOLESCREEN.LOCALEXECUTE"
+msgid "Local:"
+msgstr "로컬:"
+
+#. UI.CONSOLESCREEN.REMOTEEXECUTE
+msgctxt "UI.CONSOLESCREEN.REMOTEEXECUTE"
+msgid "Remote:"
+msgstr "원격:"
+
+#. UI.DATACOLLECTION_LOGIN.BODY
+msgctxt "UI.DATACOLLECTION_LOGIN.BODY"
+msgid "We require the collection of user data to provide online services. Players who disable data collection will only have access to play in offline mode.\n\nSurvivors and worlds from online games will be unavailable.\n\nData Collection settings can be modified in the Options menu."
+msgstr "본 게임에서 온라인 서비스를 제공하려면 사용자 데이터 수집이 필요합니다. 데이터 수집을 허용하지 않은 플레이어는 오프라인 모드로만 게임을 이용할 수 있습니다.\n\n온라인 게임의 생존자와 세계는 사용할 수 없게 됩니다.\n\n데이터 수집 설정은 옵션 메뉴에서 변경할 수 있습니다."
+
+#. UI.DATACOLLECTION_LOGIN.CONTINUE
+msgctxt "UI.DATACOLLECTION_LOGIN.CONTINUE"
+msgid "Continue"
+msgstr "계속"
+
+#. UI.DATACOLLECTION_LOGIN.TITLE
+msgctxt "UI.DATACOLLECTION_LOGIN.TITLE"
+msgid "Offline Mode"
+msgstr "오프라인 모드"
+
+#. UI.DATACOLLECTION_POPUP.BODY
+msgctxt "UI.DATACOLLECTION_POPUP.BODY"
+msgid "We require the collection of user data to provide online services. Players who disable data collection will only have access to play in offline mode.\n\nFor more details on our privacy policy and how we use the data we collect, please see our official privacy policy."
+msgstr "본 게임에서 온라인 서비스를 제공하려면 사용자 데이터 수집이 필요합니다. 데이터 수집을 허용하지 않은 플레이어는 오프라인 모드로만 게임을 이용할 수 있습니다.\n\n개인정보처리방침 및 수집된 데이터 사용 방법에 대한 자세한 내용은 당사의 공식 개인정보처리방침을 참조하세요."
+
+#. UI.DATACOLLECTION_POPUP.CANCEL
+msgctxt "UI.DATACOLLECTION_POPUP.CANCEL"
+msgid "Cancel"
+msgstr "취소"
+
+#. UI.DATACOLLECTION_POPUP.OPT_IN.CONTINUE
+msgctxt "UI.DATACOLLECTION_POPUP.OPT_IN.CONTINUE"
+msgid "Enable"
+msgstr "사용"
+
+#. UI.DATACOLLECTION_POPUP.OPT_OUT.CONTINUE
+msgctxt "UI.DATACOLLECTION_POPUP.OPT_OUT.CONTINUE"
+msgid "Disable"
+msgstr "끄기"
+
+#. UI.DATACOLLECTION_POPUP.PRIVACY_PORTAL
+msgctxt "UI.DATACOLLECTION_POPUP.PRIVACY_PORTAL"
+msgid "View Privacy Policy"
+msgstr "개인정보처리방침 보기"
+
+#. UI.DATACOLLECTION_POPUP.TITLE
+msgctxt "UI.DATACOLLECTION_POPUP.TITLE"
+msgid "Data Collection"
+msgstr "데이터 수집"
+
+#. UI.DATE.MONTH_ABBR.1
+msgctxt "UI.DATE.MONTH_ABBR.1"
+msgid "Jan"
+msgstr "1월"
+
+#. UI.DATE.MONTH_ABBR.10
+msgctxt "UI.DATE.MONTH_ABBR.10"
+msgid "Oct"
+msgstr "10월"
+
+#. UI.DATE.MONTH_ABBR.11
+msgctxt "UI.DATE.MONTH_ABBR.11"
+msgid "Nov"
+msgstr "11월"
+
+#. UI.DATE.MONTH_ABBR.12
+msgctxt "UI.DATE.MONTH_ABBR.12"
+msgid "Dec"
+msgstr "12월"
+
+#. UI.DATE.MONTH_ABBR.2
+msgctxt "UI.DATE.MONTH_ABBR.2"
+msgid "Feb"
+msgstr "2월"
+
+#. UI.DATE.MONTH_ABBR.3
+msgctxt "UI.DATE.MONTH_ABBR.3"
+msgid "Mar"
+msgstr "3월"
+
+#. UI.DATE.MONTH_ABBR.4
+msgctxt "UI.DATE.MONTH_ABBR.4"
+msgid "Apr"
+msgstr "4월"
+
+#. UI.DATE.MONTH_ABBR.5
+msgctxt "UI.DATE.MONTH_ABBR.5"
+msgid "May"
+msgstr "5월"
+
+#. UI.DATE.MONTH_ABBR.6
+msgctxt "UI.DATE.MONTH_ABBR.6"
+msgid "Jun"
+msgstr "6월"
+
+#. UI.DATE.MONTH_ABBR.7
+msgctxt "UI.DATE.MONTH_ABBR.7"
+msgid "Jul"
+msgstr "7월"
+
+#. UI.DATE.MONTH_ABBR.8
+msgctxt "UI.DATE.MONTH_ABBR.8"
+msgid "Aug"
+msgstr "8월"
+
+#. UI.DATE.MONTH_ABBR.9
+msgctxt "UI.DATE.MONTH_ABBR.9"
+msgid "Sep"
+msgstr "9월"
+
+#. UI.DATE_FORMAT.MDY
+msgctxt "UI.DATE_FORMAT.MDY"
+msgid "{month} {day}, {year}"
+msgstr "{year}년 {month}월 {day}일"
+
+#. UI.DAYS_FORMAT.DHM
+msgctxt "UI.DAYS_FORMAT.DHM"
+msgid "{days}d {hours}h {minutes}m"
+msgstr "{days}일 {hours}시간 {minutes}분"
+
+#. UI.DAYS_FORMAT.HM
+msgctxt "UI.DAYS_FORMAT.HM"
+msgid "{hours}h {minutes}m"
+msgstr "{hours}시간 {minutes}분"
+
+#. UI.DAYS_FORMAT.M
+msgctxt "UI.DAYS_FORMAT.M"
+msgid "{minutes}m"
+msgstr "{minutes}분"
+
+#. UI.DEMOOVERDIALOG.BODY_FREEWEEKEND
+msgctxt "UI.DEMOOVERDIALOG.BODY_FREEWEEKEND"
+msgid "Buy now to get the special price!"
+msgstr "지금 특가에 구매하세요!"
+
+#. UI.DEMOOVERDIALOG.QUIT
+msgctxt "UI.DEMOOVERDIALOG.QUIT"
+msgid "Quit"
+msgstr "종료"
+
+#. UI.DEMOOVERDIALOG.TITLE_FREEWEEKEND
+msgctxt "UI.DEMOOVERDIALOG.TITLE_FREEWEEKEND"
+msgid "Thank you for playing the free demo!"
+msgstr "무료 데모를 즐겨 주셔서 감사합니다!"
+
+#. UI.DRESSUP_AVATAR.DRESSED_BY_FMT
+msgctxt "UI.DRESSUP_AVATAR.DRESSED_BY_FMT"
+msgid "Dressed by {name}"
+msgstr "의상 착용: {name}"
+
+#. UI.DRESSUP_AVATAR.UNDRESSED_BY_FMT
+msgctxt "UI.DRESSUP_AVATAR.UNDRESSED_BY_FMT"
+msgid "Undressed by {name}"
+msgstr "의상 해제: {name}"
+
+#. UI.EULADIALOG.ACCEPT
+msgctxt "UI.EULADIALOG.ACCEPT"
+msgid "Accept"
+msgstr "수락"
+
+#. UI.EULADIALOG.AGREEMENT_UPDATED
+msgctxt "UI.EULADIALOG.AGREEMENT_UPDATED"
+msgid "The EULA has been updated and needs your review."
+msgstr "EULA가 업데이트되어 귀하의 검토가 필요합니다."
+
+#. UI.EULADIALOG.DECLINE
+msgctxt "UI.EULADIALOG.DECLINE"
+msgid "Decline"
+msgstr "거부"
+
+#. UI.EULADIALOG.DECLINE_CONFIRMATION_BODY
+msgctxt "UI.EULADIALOG.DECLINE_CONFIRMATION_BODY"
+msgid "You will not be able to play online. Are you sure?"
+msgstr "온라인으로 플레이할 수 없게 됩니다. 정말 이대로 진행하시겠습니까?"
+
+#. UI.EULADIALOG.DECLINE_CONFIRMATION_TITLE
+msgctxt "UI.EULADIALOG.DECLINE_CONFIRMATION_TITLE"
+msgid "Decline the EULA?"
+msgstr "최종 사용자 라이선스 계약을 거부하시겠습니까?"
+
+#. UI.EULADIALOG.TITLE
+msgctxt "UI.EULADIALOG.TITLE"
+msgid "End User License Agreement"
+msgstr "최종 사용자 라이선스 계약"
+
+#. UI.EVENT_QUICKJOINSCREEN.BODY
+msgctxt "UI.EVENT_QUICKJOINSCREEN.BODY"
+msgid "Searching for available matches"
+msgstr "사용 가능한 매치 검색 중"
+
+#. UI.EVENT_QUICKJOINSCREEN.CONNECTING_TO_SERVER
+msgctxt "UI.EVENT_QUICKJOINSCREEN.CONNECTING_TO_SERVER"
+msgid "Connecting to Server: {server}"
+msgstr "{server} 서버에 연결 중"
+
+#. UI.EVENT_QUICKJOINSCREEN.JOIN_BTN
+msgctxt "UI.EVENT_QUICKJOINSCREEN.JOIN_BTN"
+msgid "Join"
+msgstr "참가"
+
+#. UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_BROWSE
+msgctxt "UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_BROWSE"
+msgid "Browse"
+msgstr "찾아보기"
+
+#. UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_CLOSE
+msgctxt "UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_CLOSE"
+msgid "Close"
+msgstr "닫기"
+
+#. UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_HOST
+msgctxt "UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_HOST"
+msgid "Custom Match"
+msgstr "커스텀 매치"
+
+#. UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_MSG
+msgctxt "UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_MSG"
+msgid "No servers could be found matching the quick match criteria."
+msgstr "빠른 매치 조건에 일치하는 서버를 찾을 수 없습니다."
+
+#. UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_TITLE
+msgctxt "UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_TITLE"
+msgid "Quick Match Failed"
+msgstr "빠른 매치 실패"
+
+#. UI.EVENT_QUICKJOINSCREEN.TITLE
+msgctxt "UI.EVENT_QUICKJOINSCREEN.TITLE"
+msgid "Quick Match"
+msgstr "빠른 매치"
+
+#. UI.FOOD_TYPES.BERRY
+msgctxt "UI.FOOD_TYPES.BERRY"
+msgid "Berry"
+msgstr "베리"
+
+#. UI.FOOD_TYPES.BURNT
+msgctxt "UI.FOOD_TYPES.BURNT"
+msgid "Burnt"
+msgstr "불에 탄"
+
+#. UI.FOOD_TYPES.ELEMENTAL
+msgctxt "UI.FOOD_TYPES.ELEMENTAL"
+msgid "Elemental"
+msgstr "소박함"
+
+#. UI.FOOD_TYPES.GEARS
+msgctxt "UI.FOOD_TYPES.GEARS"
+msgid "Gears"
+msgstr "톱니바퀴"
+
+#. UI.FOOD_TYPES.GENERIC
+msgctxt "UI.FOOD_TYPES.GENERIC"
+msgid "Edible"
+msgstr "먹을 수 있음"
+
+#. UI.FOOD_TYPES.GOODIES
+msgctxt "UI.FOOD_TYPES.GOODIES"
+msgid "Goodies"
+msgstr "맛이 좋음"
+
+#. UI.FOOD_TYPES.HORRIBLE
+msgctxt "UI.FOOD_TYPES.HORRIBLE"
+msgid "Horrible"
+msgstr "끔찍한"
+
+#. UI.FOOD_TYPES.INSECT
+msgctxt "UI.FOOD_TYPES.INSECT"
+msgid "Insect"
+msgstr "곤충"
+
+#. UI.FOOD_TYPES.MEAT
+msgctxt "UI.FOOD_TYPES.MEAT"
+msgid "Meat"
+msgstr "고기"
+
+#. UI.FOOD_TYPES.MONSTER
+msgctxt "UI.FOOD_TYPES.MONSTER"
+msgid "Monstrous"
+msgstr "괴물"
+
+#. UI.FOOD_TYPES.RAW
+msgctxt "UI.FOOD_TYPES.RAW"
+msgid "Raw"
+msgstr "날것"
+
+#. UI.FOOD_TYPES.ROUGHAGE
+msgctxt "UI.FOOD_TYPES.ROUGHAGE"
+msgid "Roughage"
+msgstr "조악함"
+
+#. UI.FOOD_TYPES.SEEDS
+msgctxt "UI.FOOD_TYPES.SEEDS"
+msgid "Seed"
+msgstr "씨앗"
+
+#. UI.FOOD_TYPES.VEGGIE
+msgctxt "UI.FOOD_TYPES.VEGGIE"
+msgid "Veggie"
+msgstr "채소"
+
+#. UI.FOOD_TYPES.WOOD
+msgctxt "UI.FOOD_TYPES.WOOD"
+msgid "Wood"
+msgstr "나무야"
+
+#. UI.GAMEMODES.CUSTOM
+msgctxt "UI.GAMEMODES.CUSTOM"
+msgid "Custom Game"
+msgstr "커스텀 게임"
+
+#. UI.GAMEMODES.ENDLESS
+msgctxt "UI.GAMEMODES.ENDLESS"
+msgid "Endless"
+msgstr "엔드리스"
+
+#. UI.GAMEMODES.ENDLESS_DESCRIPTION
+msgctxt "UI.GAMEMODES.ENDLESS_DESCRIPTION"
+msgid "A neverending Don't Starve sandbox.\n\n* Enter the world through the Florid Postern.\n* Become a ghost when you die (no sanity drain).\n* Resurrection is always available via the Florid Postern."
+msgstr "끝나지 않는 Don't Starve 샌드박스.\n\n* 화려한 포털을 통해 세계로 들어갑니다.\n* 죽으면 유령이 됩니다(정신력 감소 없음).\n* 언제나 화려한 포털을 통해 부활할 수 있습니다."
+
+#. UI.GAMEMODES.LAVAARENA
+msgctxt "UI.GAMEMODES.LAVAARENA"
+msgid "The Forge"
+msgstr "The Forge"
+
+#. UI.GAMEMODES.LAVAARENA_DESCRIPTION
+msgctxt "UI.GAMEMODES.LAVAARENA_DESCRIPTION"
+msgid "Prove yourself to Battlemaster Pugna in this Gate Realm.\n* Enter the world through the Molten Gateway.\n* No hunger or sanity.\n* Use what you can find. No outside weapons in the Pit!"
+msgstr "관문의 영역에서 전장의 주인 퍼그나를 상대로 실력을 증명합니다.\n* 용암 관문을 통해 세계로 들어갑니다.\n* 허기와 정신력이 없습니다.\n* 무엇이든 찾아서 사용하세요. 투기장에서 외부 무기는 사용할 수 없습니다!"
+
+#. UI.GAMEMODES.QUAGMIRE
+msgctxt "UI.GAMEMODES.QUAGMIRE"
+msgid "The Gorge"
+msgstr "The Gorge"
+
+#. UI.GAMEMODES.QUAGMIRE_DESCRIPTION
+msgctxt "UI.GAMEMODES.QUAGMIRE_DESCRIPTION"
+msgid "Cook delicious dishes to appease the Eternal Gnaw in this Gate Realm.\n* Enter the world through the Mossy Gateway.\n* No nighttime.\n* Use what you can find to cook offerings for the altar!"
+msgstr "이 관문 영역에서는 맛있는 요리를 만들어 불멸의 물뜯이를 달래야 합니다.\n* 이끼 낀 관문을 통해 세계로 들어갑니다.\n* 밤이 따로 없습니다.\n* 무엇이든 찾아서 제단에 바칠 제물을 요리하세요!"
+
+#. UI.GAMEMODES.SURVIVAL
+msgctxt "UI.GAMEMODES.SURVIVAL"
+msgid "Survival"
+msgstr "생존"
+
+#. UI.GAMEMODES.SURVIVAL_DESCRIPTION
+msgctxt "UI.GAMEMODES.SURVIVAL_DESCRIPTION"
+msgid "We survive together, we die together!\n\n* Enter the world through the Florid Postern.\n* Become a ghost when you die.\n* Ghost players cause a sanity drain for living players."
+msgstr "함께 생존하고, 함께 죽습니다!\n\n* 화려한 포털을 통해 세계로 들어갑니다.\n* 죽으면 유령이 됩니다.\n* 유령 플레이어는 살아있는 플레이어의 정신력을 감소합니다."
+
+#. UI.GAMEMODES.UNKNOWN
+msgctxt "UI.GAMEMODES.UNKNOWN"
+msgid "Game Mode Unknown"
+msgstr "게임 모드 알 수 없음"
+
+#. UI.GAMEMODES.UNKNOWN_DESCRIPTION
+msgctxt "UI.GAMEMODES.UNKNOWN_DESCRIPTION"
+msgid "We could not retrieve the details of this game mode."
+msgstr "이 게임 모드의 세부 사항을 불러오는 데 실패했습니다."
+
+#. UI.GAMEMODES.WILDERNESS
+msgctxt "UI.GAMEMODES.WILDERNESS"
+msgid "Wilderness"
+msgstr "야생"
+
+#. UI.GAMEMODES.WILDERNESS_DESCRIPTION
+msgctxt "UI.GAMEMODES.WILDERNESS_DESCRIPTION"
+msgid "It's wild and dangerous out there!\n\n* Enter at a random location in the world.\n* No safety net. If you die: try, try again.\n* Those you encounter may or may not be friendly."
+msgstr "위험하고 사나운 곳이에요!\n\n* 세계의 아무 위치에 무작위로 들어갑니다.\n* 안전 장치가 없습니다. 죽으면 다시 시작합니다.\n* 다른 플레이어들은 우호적일 수도 있고, 아닐 수도 있습니다."
+
+#. UI.GENDERSTRINGS.DEFAULT.ONE
+msgctxt "UI.GENDERSTRINGS.DEFAULT.ONE"
+msgid "they"
+msgstr "그들"
+
+#. UI.GENDERSTRINGS.DEFAULT.TWO
+msgctxt "UI.GENDERSTRINGS.DEFAULT.TWO"
+msgid "their"
+msgstr "그의"
+
+#. UI.GENDERSTRINGS.FEMALE.ONE
+msgctxt "UI.GENDERSTRINGS.FEMALE.ONE"
+msgid "she"
+msgstr "그녀"
+
+#. UI.GENDERSTRINGS.FEMALE.TWO
+msgctxt "UI.GENDERSTRINGS.FEMALE.TWO"
+msgid "her"
+msgstr "그녀의"
+
+#. UI.GENDERSTRINGS.MALE.ONE
+msgctxt "UI.GENDERSTRINGS.MALE.ONE"
+msgid "he"
+msgstr "그"
+
+#. UI.GENDERSTRINGS.MALE.TWO
+msgctxt "UI.GENDERSTRINGS.MALE.TWO"
+msgid "his"
+msgstr "그의"
+
+#. UI.GENDERSTRINGS.ROBOT.ONE
+msgctxt "UI.GENDERSTRINGS.ROBOT.ONE"
+msgid "they"
+msgstr "그들"
+
+#. UI.GENDERSTRINGS.ROBOT.TWO
+msgctxt "UI.GENDERSTRINGS.ROBOT.TWO"
+msgid "their"
+msgstr "그들의"
+
+#. UI.INTENTION.ANY
+msgctxt "UI.INTENTION.ANY"
+msgid "Any"
+msgstr "아무"
+
+#. UI.INTENTION.COMPETITIVE
+msgctxt "UI.INTENTION.COMPETITIVE"
+msgid "Competitive"
+msgstr "경쟁적"
+
+#. UI.INTENTION.COOPERATIVE
+msgctxt "UI.INTENTION.COOPERATIVE"
+msgid "Cooperative"
+msgstr "협조적"
+
+#. UI.INTENTION.MADNESS
+msgctxt "UI.INTENTION.MADNESS"
+msgid "Madness"
+msgstr "광기"
+
+#. UI.INTENTION.SOCIAL
+msgctxt "UI.INTENTION.SOCIAL"
+msgid "Social"
+msgstr "사교적"
+
+#. UI.ITEM_SCREEN.BACK
+msgctxt "UI.ITEM_SCREEN.BACK"
+msgid "Back"
+msgstr "뒤로"
+
+#. UI.ITEM_SCREEN.DISABLED_TOAST_TOOLTIP
+msgctxt "UI.ITEM_SCREEN.DISABLED_TOAST_TOOLTIP"
+msgid "This requires more science!"
+msgstr "과학이 더 필요하다!"
+
+#. UI.ITEM_SCREEN.DISABLED_YOTB_TOOLTIP
+msgctxt "UI.ITEM_SCREEN.DISABLED_YOTB_TOOLTIP"
+msgid "New beefalo grooming option!"
+msgstr "새로운 비팔로 단장 옵션!"
+
+#. UI.ITEM_SCREEN.ENABLED_TOAST_TOOLTIP
+msgctxt "UI.ITEM_SCREEN.ENABLED_TOAST_TOOLTIP"
+msgid "Open"
+msgstr "열기"
+
+#. UI.ITEM_SCREEN.NEW_SKIN
+msgctxt "UI.ITEM_SCREEN.NEW_SKIN"
+msgid "You got a skin for %s!"
+msgstr "%s 스킨 획득!"
+
+#. UI.ITEM_SCREEN.NEXT_ITEM
+msgctxt "UI.ITEM_SCREEN.NEXT_ITEM"
+msgid "Put it Away"
+msgstr "보관하기"
+
+#. UI.ITEM_SCREEN.NORMAL_POPUP_TITLE
+msgctxt "UI.ITEM_SCREEN.NORMAL_POPUP_TITLE"
+msgid "received..."
+msgstr "획득..."
+
+#. UI.ITEM_SCREEN.OK_BUTTON
+msgctxt "UI.ITEM_SCREEN.OK_BUTTON"
+msgid "Close"
+msgstr "닫기"
+
+#. UI.ITEM_SCREEN.OPENING
+msgctxt "UI.ITEM_SCREEN.OPENING"
+msgid "Opening"
+msgstr "열기"
+
+#. UI.ITEM_SCREEN.OPEN_BUTTON
+msgctxt "UI.ITEM_SCREEN.OPEN_BUTTON"
+msgid "Open Now!"
+msgstr "지금 열기!"
+
+#. UI.ITEM_SCREEN.OPEN_NEXT
+msgctxt "UI.ITEM_SCREEN.OPEN_NEXT"
+msgid "Proceed"
+msgstr "진행하기"
+
+#. UI.ITEM_SCREEN.RECEIVED
+msgctxt "UI.ITEM_SCREEN.RECEIVED"
+msgid "You Received"
+msgstr "획득:"
+
+#. UI.ITEM_SCREEN.USE_LATER
+msgctxt "UI.ITEM_SCREEN.USE_LATER"
+msgid "Use Later"
+msgstr "나중에 사용하기"
+
+#. UI.ITEM_SCREEN.USE_NOW
+msgctxt "UI.ITEM_SCREEN.USE_NOW"
+msgid "Use Now"
+msgstr "지금 사용하기"
+
+#. UI.ITEM_SERVER.CONNECT
+msgctxt "UI.ITEM_SERVER.CONNECT"
+msgid "Contacting Klei Servers"
+msgstr "Klei 서버에 연결 중"
+
+#. UI.ITEM_SERVER.FAILED_DEFAULT
+msgctxt "UI.ITEM_SERVER.FAILED_DEFAULT"
+msgid "Sorry!\nFailed to contact Klei Servers. Please try again."
+msgstr "죄송합니다!\nKlei 서버 접속에 실패했습니다. 다시 시도하십시오."
+
+#. UI.ITEM_SERVER.FAILED_EVENT_TITLE
+msgctxt "UI.ITEM_SERVER.FAILED_EVENT_TITLE"
+msgid "Achievements Failure"
+msgstr "도전 과제 실패"
+
+#. UI.ITEM_SERVER.FAILED_IAP_RATE_LIMITED
+msgctxt "UI.ITEM_SERVER.FAILED_IAP_RATE_LIMITED"
+msgid "Unable to start a new transaction due to being rate limited. Please slow down and try again later."
+msgstr "거래 속도 제한 때문에 새로운 거래를 시작할 수 없습니다. 잠시 후에 다시 시도하십시오."
+
+#. UI.ITEM_SERVER.FAILED_MULTIPLE_PENDING_PURCHASES
+msgctxt "UI.ITEM_SERVER.FAILED_MULTIPLE_PENDING_PURCHASES"
+msgid "Unable to start a new transaction due to having an outstanding purchase active. Please close all other purchases, and try again later."
+msgstr "아직 완료되지 않은 구매가 있어서 새로운 거래를 시작할 수 없습니다. 다른 모든 구매를 닫은 뒤 잠시 후에 다시 시도하십시오."
+
+#. UI.ITEM_SERVER.FAILED_TITLE
+msgctxt "UI.ITEM_SERVER.FAILED_TITLE"
+msgid "Purchase Failure"
+msgstr "구매 실패"
+
+#. UI.ITEM_SKIN_DEFAULTS.TITLE
+msgctxt "UI.ITEM_SKIN_DEFAULTS.TITLE"
+msgid "Curios for Starting Items"
+msgstr "시작 아이템 수집품"
+
+#. UI.LAVAARENA_QUESTS_HISTORY_PANEL.TAB_TITLE
+msgctxt "UI.LAVAARENA_QUESTS_HISTORY_PANEL.TAB_TITLE"
+msgid "Completed Quests"
+msgstr "완료환 퀘스트"
+
+#. UI.LAVAARENA_SUMMARY_PANEL.LAQ_DAILYMATCH
+msgctxt "UI.LAVAARENA_SUMMARY_PANEL.LAQ_DAILYMATCH"
+msgid "Daily Match Bonus"
+msgstr "일일 매치 보너스"
+
+#. UI.LAVAARENA_SUMMARY_PANEL.LAQ_DAILYWIN
+msgctxt "UI.LAVAARENA_SUMMARY_PANEL.LAQ_DAILYWIN"
+msgid "Daily Victory Bonus"
+msgstr "일일 승리 보너스"
+
+#. UI.LAVAARENA_SUMMARY_PANEL.TAB_TITLE
+msgctxt "UI.LAVAARENA_SUMMARY_PANEL.TAB_TITLE"
+msgid "The Forge"
+msgstr "The Forge"
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS.TIP_DICEVOTE
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS.TIP_DICEVOTE"
+msgid "Access the Server Commands menu from the Pause Screen to start votes or roll a dice."
+msgstr "일시 중지 화면에서 서버 명령 메뉴에 액세스하여 투표를 시작하거나 주사위를 굴립니다."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS.TIP_DISABLE_TIPS
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS.TIP_DISABLE_TIPS"
+msgid "Is your mind already bursting with secret knowledge? You can turn off Loading Tips anytime in the Options menu."
+msgstr "당신의 마음에 이미 비밀 지식이 가득한가요? 옵션 메뉴에서 언제든지 로딩 팁을 끌 수 있습니다."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS.TIP_ENDLESS_MODE
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS.TIP_ENDLESS_MODE"
+msgid "When creating a new world, switch the Game Mode to Endless to allow you and your friends to revive themselves at the Florid Postern."
+msgstr "새로운 세계를 만들 때 게임 모드를 엔드리스로 전환하여 당신과 당신의 친구들이 화려한 포털에서 자신을 되살릴 수 있게 해주세요."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS.TIP_HOLD_ACTION
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS.TIP_HOLD_ACTION"
+msgid "Hold {action} to automatically pick up nearby items and perform actions. Just make sure you're holding the right tool for the job!"
+msgstr "{action} 버튼을 길게 눌러 자동으로 주변 물건을 집어들고 행동을 수행합니다. 작업에 적합한 도구를 들고 있는지 확인하세요!"
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS.TIP_HOLD_INSPECT
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS.TIP_HOLD_INSPECT"
+msgid "Hold {inspect} to inspect the world around you."
+msgstr "{inspect} 버튼을 길게 눌러 주변의 세계를 조사하세요."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS.TIP_ROLLBACK
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS.TIP_ROLLBACK"
+msgid "Server hosts can roll back one day or regenerate the world by accessing the Server Commands menu in the Pause Screen."
+msgstr "서버 호스트가 일시 중지 화면의 서버 명령 메뉴에 액세스하여 하루를 롤백하거나 세계를 재생성할 수 있습니다."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS.TIP_ROTATE_CAMERA
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS.TIP_ROTATE_CAMERA"
+msgid "Press {rotateleft} & {rotateright} to rotate your view of the world."
+msgstr "{rotateleft} & {rotateright} 버튼을 눌러 세계관을 회전시키세요."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS.TIP_SHOW_MAP
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS.TIP_SHOW_MAP"
+msgid "Press {map} to take a quick glance at your map."
+msgstr "{map} 버튼을 눌러 지도를 빠르게 살펴보세요."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS.TIP_VIGNETTES
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS.TIP_VIGNETTES"
+msgid "Customize your loading screens in the Vignette section of the Curio Cabinet if you're looking for a little change of scenery."
+msgstr "약간의 변화를 원하는 경우 골동품 진열장의 비네트 섹션에서 로딩 화면을 맞춤 설정하세요."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS.TIP_WORLDGEN
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS.TIP_WORLDGEN"
+msgid "Meddle with World Gen settings in the Options menu to shape a world to your liking."
+msgstr "옵션 메뉴에서 세계 생성 설정에 참여하여 원하는 대로 세계를 만드세요."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_ATTACK
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_ATTACK"
+msgid "Hold {attack} to attack enemies."
+msgstr "{attack} 버튼을 길게 누르면 적을 공격합니다."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_BIND_CONTROLS
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_BIND_CONTROLS"
+msgid "Play with Controls Settings in the Options Menu to fit your control needs."
+msgstr "조작법 요구 사항에 맞게 옵션 메뉴에서 컨트롤 설정을 사용하세요."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_CHAT
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_CHAT"
+msgid "Press {chat} to talk to other players. If you wish to speak privately, press {whisper} to whisper to someone."
+msgstr "{chat} 버튼을 길게 누르면 다른 플레이어와 대화할 수 있습니다. 개인적으로 대화하려면 {whisper} 버튼을 눌러 누군가에게 귓속말을 하세요."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_DROP_ITEMS
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_DROP_ITEMS"
+msgid "Hold {modifier} and {secondary} to quick drop items from your inventory."
+msgstr "{modifier} 버튼과 {secondary} 버튼을 길게 누르면 인벤토리에서 아이템을 빠르게 드롭합니다."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_FORCE_ATTACK
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_FORCE_ATTACK"
+msgid "Hold {modifier} + {attack} to attack anything that looks at you sideways, even friends."
+msgstr "{modifier} + {attack} 버튼을 길게 누르면 당신을 옆에서 바라보는 것은 무엇이든, 심지어 친구까지 공격합니다."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_HALF_STACK
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_HALF_STACK"
+msgid "Hold {modifier} and {primary} on stacks of items in your inventory to quickly grab half the stack."
+msgstr "{modifier} 버튼과 {primary} 버튼을 길게 누르면 인벤토리에 있는 항목 스택에서 스택의 절반을 빠르게 가져옵니다."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_HOLD_MOUSE
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_HOLD_MOUSE"
+msgid "Hold down {primary} to automatically harvest nearby items or attack, whatever suits your fancy!"
+msgstr "{primary} 버튼을 누른 채 내려 자동으로 주변 아이템을 수확하거나 원하는 대로 공격하세요!"
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_INSPECT_SELF
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_INSPECT_SELF"
+msgid "Press {inspectself} to take a look at which item and character skins you are using."
+msgstr "{inspectself} 버튼을 눌러 어떤 아이템과 캐릭터 스킨을 사용하고 있는지 확인합니다."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_INVENTORY_SLOTS
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_INVENTORY_SLOTS"
+msgid "Press {inv_0}-{inv_9} to quickly use items carried in your main inventory."
+msgstr "{inv_0}-{inv_9} 버튼을 누르면 메인 인벤토리에 있는 아이템을 빠르게 사용할 수 있습니다."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_PLAYER_STATUS
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_PLAYER_STATUS"
+msgid "Keep tabs on your fellow Survivors by pressing the {playerstatus} key."
+msgstr "동료 생존자를 확인하려면 {playerstatus} 키를 누르세요."
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_DARKNESS_CHARLIE
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_DARKNESS_CHARLIE"
+msgid "In the Constant, the darkness has a name. Have you met Charlie yet?"
+msgstr "콘스탄트에서는 어둠에 이름이 있습니다. 아직 찰리를 만나지 못하셨나요?"
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_MAXWELL_PAST
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_MAXWELL_PAST"
+msgid "Maxwell (né William Carter) was once nothing more than a humble stage magician, until the discovery of a mysterious tome changed the course of his life forever."
+msgstr "맥스웰(원래는 윌리엄 카터 였던)은 겸손한 무대 마술사였지만 신비한 책을 발견하면서 삶의 방향이 영원히 바뀌어 버렸습니다."
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_MAXWELL_SURVIVORS
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_MAXWELL_SURVIVORS"
+msgid "Once the King of the Nightmare Throne, Maxwell now finds himself surviving alongside the very people he once tormented. Needless to say, it makes for a bit of an... awkward atmosphere."
+msgstr "한때 악몽 옥좌의 왕이었던 맥스웰은 이제 한때 자신이 괴롭혔던 바로 그 사람들과 함께 살아남은 자신을 발견합니다. 말할 필요도 없이, 분위기가 약간... 어색해집니다."
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_PORTALS
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_PORTALS"
+msgid "\"It seems that every time we discover a doorway out of this terrible place, it just leads to more strange worlds with new horrors to endure. Still, I can't give up hope that one day we'll find a doorway that will take us home...\" -W"
+msgstr "\"이 끔찍한 곳에서 나가는 출입구를 발견할 때마다 새로운 공포를 견뎌야 하는 더 이상한 세계로 이끌려 가는 것 같아. 그래도 언젠가는 집으로 데려가주는 문을 찾을 수 있다는 희망을 버릴 수 없지...\" -W"
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_THEM
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_THEM"
+msgid "\"You can't run from Them forever. Take it from me, pal.\" -M"
+msgstr "\"그들에게서 영원히 도망칠 수 없어. 나한테서 가져가, 친구.\" -M"
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_TIME
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_TIME"
+msgid "Time moves differently in the Constant. Instead of a monotonous forward march, seconds and eternities seem to throw caution to the wind and do-si-do backwards and forwards as they please."
+msgstr "콘스탄트에서는 시간이 다르게 흐릅니다. 앞으로만 가는 단조로운 행진 대신 초와 영원은 바람에 주의를 기울이고 마음껏 앞뒤로 댄스 스텝을 밟는 것 같습니다."
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_WALTER
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_WALTER"
+msgid "Walter's time in the Pinetree Pioneers has made him more prepared than most for surviving in the wilderness. Unfortunately, this is undermined somewhat by his blind fascination with monsters."
+msgstr "소나무 개척단에서 시간을 보냈던 월터는 광야에서 살아남기 위해 누구보다 준비가 잘 되어 있습니다. 불행히도 이것은 괴물에 맹목적으로 매혹되는 바람에 다소 약화되었습니다."
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_WARNING
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_WARNING"
+msgid "\"Nothing here is what it seems. If you're reading this, keep an eye on the rabbits, don't trust the statues, and don't mistake that thing hanging in the night sky for the moon...\" -W"
+msgstr "\"여기서는 아무것도 보이지 않아요. 누군가 이 글을 읽고 계시다면 토끼를 잘 봐주시고, 조각상도 믿지 마시고, 밤하늘에 매달린 저걸 달로 착각하지 마세요...\" -W"
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_WEBBER
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_WEBBER"
+msgid "Once upon a time, a little boy was swallowed up whole by a big hungry spider. Now they share everything; a body, a mind, and the name Webber."
+msgstr "옛날 옛적에, 배고픈 큰 거미가 어린 소년을 집어 삼켰습니다. 이제 그들은 모든 것을 공유합니다. 몸, 마음, 그리고 이름인 웨버까지."
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_WENDY
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_WENDY"
+msgid "Nothing could ever come between Wendy and her twin sister Abigail. Some bonds transcend even death."
+msgstr "웬디와 그녀의 쌍둥이 자매 아비게일 사이에는 아무것도 끼어들 수 없었습니다. 어떤 유대는 죽음까지도 초월합니다."
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_WICKERBOTTOM
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_WICKERBOTTOM"
+msgid "Wickerbottom is of the firm belief that the pen is mightier than the sword. Words hold great power when used correctly."
+msgstr "위커바텀은 펜이 칼보다 강하다는 확고한 신념을 가지고 있습니다. 말은 올바르게 사용할 때 큰 힘이 됩니다."
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_WILLOW
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_WILLOW"
+msgid "Nothing brings Willow more comfort than snuggling her faithful teddy bear Bernie, and committing a playful bit of arson."
+msgstr "충실한 테디베어 버니를 안고 장난스럽게 방화를 저지르는 것만큼 윌로우에게 위안을 주는 일은 없습니다."
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_WILSON_UNI
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_WILSON_UNI"
+msgid "Wilson chose the path of an independent Gentleman Scientist after finding the university environment to be too stifling for a man of his ambitions. (The enormous bill the university sent him to pay for repairs to the chemistry lab had absolutely nothing to do with this.)"
+msgstr "윌슨은 야망을 가진 사람에게는 대학 환경이 너무 숨막힌다는 것을 발견하고 나서 독립적인 신사 과학자의 길을 선택했습니다. (대학에서 화학 연구실 수리 비용을 지불하기 위해 보낸 막대한 청구서는 이일과 전혀 관련이 없습니다.)"
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_WINONA_CHARLIE
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_WINONA_CHARLIE"
+msgid "Growing up, Winona always looked out for her younger sister. Even now, she can't help but feel that one day she'll be able to reach out into the darkness and pull Charlie back."
+msgstr "위노나는 자라면서 항상 여동생을 돌보았습니다. 지금도 그녀는 언젠가 어둠 속으로 손을 뻗어 찰리를 끌어낼 수 있을 것이라고 생각하지 않을 수 없습니다."
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_WOODIE
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_WOODIE"
+msgid "Even with all the steps Woodie has taken to control his were-curse, there's little that can be done on nights when the moon is at its fullest."
+msgstr "우디가 저주를 제어하기 위해 취한 모든 조치에도 불구하고 만월이 뜨는 밤에는 할 수 있는 일이 거의 없습니다."
+
+#. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.LOCAL_PLAYER_READY_CANCEL_HELPTEXT
+msgctxt "UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.LOCAL_PLAYER_READY_CANCEL_HELPTEXT"
+msgid "Wait, I'm not ready!"
+msgstr "잠깐, 아직 준비 안 됐어!"
+
+#. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.LOCAL_PLAYER_READY_TO_START
+msgctxt "UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.LOCAL_PLAYER_READY_TO_START"
+msgid "Ready to start"
+msgstr "시작할 준비 완료"
+
+#. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.LOCAL_PLAYER_VOTE_TO_START
+msgctxt "UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.LOCAL_PLAYER_VOTE_TO_START"
+msgid "Vote to start with {num}/{max} players"
+msgstr "투표하여 플레이어 {num}/{max} 명으로 시작하기"
+
+#. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.PLAYER_READY_TO_START
+msgctxt "UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.PLAYER_READY_TO_START"
+msgid "Ready"
+msgstr "준비 완료"
+
+#. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.PLAYER_VOTED_TO_FORCE_START
+msgctxt "UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.PLAYER_VOTED_TO_FORCE_START"
+msgid "Voted To Start"
+msgstr "시작에 투표함"
+
+#. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.SPAWN_DELAY
+msgctxt "UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.SPAWN_DELAY"
+msgid "Match starts in {time}"
+msgstr "시작까지 남은 시간: {time}"
+
+#. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.VOTE_POPUP_BODY
+msgctxt "UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.VOTE_POPUP_BODY"
+msgid "You are voting to start the match without a full server.\nThe difficulty does not scale based on the number of players.\nThis will be a more challenging experience."
+msgstr "서버 인원이 다 차지 않은 상태에서 매치를 시작하는 쪽에 투표합니다.\n난이도는 플레이어 수에 따라 달라지지 않습니다.\n따라서, 게임이 더 어려워질 수 있습니다."
+
+#. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.VOTE_POPUP_CANCEL
+msgctxt "UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.VOTE_POPUP_CANCEL"
+msgid "Cancel"
+msgstr "취소"
+
+#. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.VOTE_POPUP_CONTINUE
+msgctxt "UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.VOTE_POPUP_CONTINUE"
+msgid "Vote"
+msgstr "투표"
+
+#. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.VOTE_POPUP_TITLE
+msgctxt "UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.VOTE_POPUP_TITLE"
+msgid "Voting to Start"
+msgstr "시작에 투표"
+
+#. UI.MYSTERYBOXSCREEN.BOXES
+msgctxt "UI.MYSTERYBOXSCREEN.BOXES"
+msgid "My Chests"
+msgstr "나의 상자"
+
+#. UI.MYSTERYBOXSCREEN.OK
+msgctxt "UI.MYSTERYBOXSCREEN.OK"
+msgid "OK"
+msgstr "확인"
+
+#. UI.MYSTERYBOXSCREEN.OPEN_BOX
+msgctxt "UI.MYSTERYBOXSCREEN.OPEN_BOX"
+msgid "Open Chest"
+msgstr "상자 열기"
+
+#. UI.MYSTERYBOXSCREEN.OUT_OF_BOXES_BODY
+msgctxt "UI.MYSTERYBOXSCREEN.OUT_OF_BOXES_BODY"
+msgid "You have no chests in your treasury.\nStart playing to earn some!"
+msgstr "보물 창고에 상자가 없습니다.\n게임을 플레이하여 상자를 획득하세요!"
+
+#. UI.MYSTERYBOXSCREEN.OUT_OF_BOXES_BODY_NO_EVENT
+msgctxt "UI.MYSTERYBOXSCREEN.OUT_OF_BOXES_BODY_NO_EVENT"
+msgid "You have no chests in your treasury."
+msgstr "보물 창고에 상자가 없습니다."
+
+#. UI.MYSTERYBOXSCREEN.TITLE
+msgctxt "UI.MYSTERYBOXSCREEN.TITLE"
+msgid "The Treasury"
+msgstr "보물 창고"
+
+#. UI.MYSTERYBOXSCREEN.TOOLTIP_BOXES
+msgctxt "UI.MYSTERYBOXSCREEN.TOOLTIP_BOXES"
+msgid "View the chests in your inventory"
+msgstr "인벤토리의 상자 보기"
+
+#. UI.PLAYER_AVATAR.AGE_DAY
+msgctxt "UI.PLAYER_AVATAR.AGE_DAY"
+msgid "Day"
+msgstr "일"
+
+#. UI.PLAYER_AVATAR.AGE_DAYS
+msgctxt "UI.PLAYER_AVATAR.AGE_DAYS"
+msgid "Days"
+msgstr "일"
+
+#. UI.PLAYER_AVATAR.AGE_SURVIVED
+msgctxt "UI.PLAYER_AVATAR.AGE_SURVIVED"
+msgid "Survived"
+msgstr "생존"
+
+#. UI.PLAYER_AVATAR.CHOOSING
+msgctxt "UI.PLAYER_AVATAR.CHOOSING"
+msgid "is choosing their survivor"
+msgstr "생존자를 선택하고 있습니다"
+
+#. UI.PLAYER_AVATAR.CLOSE
+msgctxt "UI.PLAYER_AVATAR.CLOSE"
+msgid "Close"
+msgstr "닫기"
+
+#. UI.PLAYER_AVATAR.STEAM
+msgctxt "UI.PLAYER_AVATAR.STEAM"
+msgid "View Profile"
+msgstr "프로필 보기"
+
+#. UI.POPUPDIALOG.BODY.DEFAULT
+msgctxt "UI.POPUPDIALOG.BODY.DEFAULT"
+msgid "You have received an alert. Don't let this happen again."
+msgstr "경고를 받았습니다. 다시는 이런 일이 없도록 하세요."
+
+#. UI.POPUPDIALOG.BODY.DIRECT_JOIN_FAILED
+msgctxt "UI.POPUPDIALOG.BODY.DIRECT_JOIN_FAILED"
+msgid "Something went wrong while trying to direct join a server."
+msgstr "서버에 직접 참가하는 도중에 무언가가 잘못되었습니다."
+
+#. UI.POPUPDIALOG.BODY.SERVER_ERROR_BANNED_GAME
+msgctxt "UI.POPUPDIALOG.BODY.SERVER_ERROR_BANNED_GAME"
+msgid "Your server will not be joinable until the name or description has been changed. Repeated violations will result in a permanent ban."
+msgstr "이름 또는 설명을 변경하기 전에는 아무도 귀하의 서버에 참가할 수 없습니다. 위반이 반복되면 영구적으로 차단됩니다."
+
+#. UI.POPUPDIALOG.BODY.SERVER_ERROR_BANNED_GAME_DESC
+msgctxt "UI.POPUPDIALOG.BODY.SERVER_ERROR_BANNED_GAME_DESC"
+msgid "Your server will not be joinable until the description has been changed. Repeated violations will result in a permanent ban."
+msgstr "설명을 변경하기 전에는 아무도 귀하의 서버에 참가할 수 없습니다. 위반이 반복되면 영구적으로 차단됩니다."
+
+#. UI.POPUPDIALOG.BODY.SERVER_ERROR_BANNED_GAME_NAME
+msgctxt "UI.POPUPDIALOG.BODY.SERVER_ERROR_BANNED_GAME_NAME"
+msgid "Your server will not be joinable until the name has been changed. Repeated violations will result in a permanent ban."
+msgstr "이름을 변경하기 전에는 아무도 귀하의 서버에 참가할 수 없습니다. 위반이 반복되면 영구적으로 차단됩니다."
+
+#. UI.POPUPDIALOG.OK
+msgctxt "UI.POPUPDIALOG.OK"
+msgid "OK"
+msgstr "확인"
+
+#. UI.POPUPDIALOG.TITLE.DEFAULT
+msgctxt "UI.POPUPDIALOG.TITLE.DEFAULT"
+msgid "Alert!"
+msgstr "경고!"
+
+#. UI.POPUPDIALOG.TITLE.DIRECT_JOIN_FAILED
+msgctxt "UI.POPUPDIALOG.TITLE.DIRECT_JOIN_FAILED"
+msgid "Failed to Direct Join Game"
+msgstr "게임 직접 참가 실패"
+
+#. UI.POPUPDIALOG.TITLE.SERVER_ERROR_BANNED_GAME
+msgctxt "UI.POPUPDIALOG.TITLE.SERVER_ERROR_BANNED_GAME"
+msgid "Terms of Service Violation"
+msgstr "서비스 약관 위반"
+
+#. UI.POPUPDIALOG.TITLE.SERVER_ERROR_BANNED_GAME_DESC
+msgctxt "UI.POPUPDIALOG.TITLE.SERVER_ERROR_BANNED_GAME_DESC"
+msgid "Terms of Service Violation - Description"
+msgstr "서비스 약관 위반 - 설명"
+
+#. UI.POPUPDIALOG.TITLE.SERVER_ERROR_BANNED_GAME_NAME
+msgctxt "UI.POPUPDIALOG.TITLE.SERVER_ERROR_BANNED_GAME_NAME"
+msgid "Terms of Service Violation - Name"
+msgstr "서비스 약관 위반 - 이름"
+
+#. UI.PORTRAIT.DIFFICULTY
+msgctxt "UI.PORTRAIT.DIFFICULTY"
+msgid "Difficulty"
+msgstr "난이도"
+
+#. UI.PORTRAIT.HP
+msgctxt "UI.PORTRAIT.HP"
+msgid "HP"
+msgstr "HP"
+
+#. UI.PORTRAIT.ITEMS
+msgctxt "UI.PORTRAIT.ITEMS"
+msgid "Items"
+msgstr "아이템"
+
+#. UI.PRESENCE.INVITATION
+msgctxt "UI.PRESENCE.INVITATION"
+msgid "Let's play Don't Starve Together.... together!"
+msgstr "Don't Starve Together를.... 함께 해요!"
+
+#. UI.PRESENCE.PLAY_TOGETHER_BODY
+msgctxt "UI.PRESENCE.PLAY_TOGETHER_BODY"
+msgid "You can join a server or host your own. Invitations will be sent to the rest of your party once you are in the game."
+msgstr "서버에 참가하거나 직접 호스트할 수 있습니다. 게임에 입장하면 나머지 파티원에게 초대를 전송하게 됩니다."
+
+#. UI.PRESENCE.PLAY_TOGETHER_TITLE
+msgctxt "UI.PRESENCE.PLAY_TOGETHER_TITLE"
+msgid "Play Together"
+msgstr "함께 게임 하기"
+
+#. UI.PRESENCE.SESSION_NOT_FOUND_BODY
+msgctxt "UI.PRESENCE.SESSION_NOT_FOUND_BODY"
+msgid "The session you are trying to join is no longer available"
+msgstr "참가하려는 세션을 더 이상 이용할 수 없습니다."
+
+#. UI.PRESENCE.SESSION_NOT_FOUND_TITLE
+msgctxt "UI.PRESENCE.SESSION_NOT_FOUND_TITLE"
+msgid "Session Not Found"
+msgstr "세션 찾을 수 없음"
+
+#. UI.QUICKJOINSCREEN.BODY
+msgctxt "UI.QUICKJOINSCREEN.BODY"
+msgid "Searching for servers"
+msgstr "서버 찾는 중"
+
+#. UI.QUICKJOINSCREEN.CONNECTING_TO_SERVER
+msgctxt "UI.QUICKJOINSCREEN.CONNECTING_TO_SERVER"
+msgid "Connecting to Server: {server}"
+msgstr "{server} 서버에 연결 중"
+
+#. UI.QUICKJOINSCREEN.JOIN_BTN
+msgctxt "UI.QUICKJOINSCREEN.JOIN_BTN"
+msgid "Join"
+msgstr "참가"
+
+#. UI.QUICKJOINSCREEN.NO_SERVERS_BROWSE
+msgctxt "UI.QUICKJOINSCREEN.NO_SERVERS_BROWSE"
+msgid "Browse Games"
+msgstr "게임 찾아보기"
+
+#. UI.QUICKJOINSCREEN.NO_SERVERS_CLOSE
+msgctxt "UI.QUICKJOINSCREEN.NO_SERVERS_CLOSE"
+msgid "Close"
+msgstr "닫기"
+
+#. UI.QUICKJOINSCREEN.NO_SERVERS_HOST
+msgctxt "UI.QUICKJOINSCREEN.NO_SERVERS_HOST"
+msgid "Host Game"
+msgstr "게임 호스트하기"
+
+#. UI.QUICKJOINSCREEN.NO_SERVERS_MSG
+msgctxt "UI.QUICKJOINSCREEN.NO_SERVERS_MSG"
+msgid "No servers could be found matching the quick join criteria."
+msgstr "빨리 참가 기준에 맞는 서버를 찾지 못했습니다."
+
+#. UI.QUICKJOINSCREEN.NO_SERVERS_TITLE
+msgctxt "UI.QUICKJOINSCREEN.NO_SERVERS_TITLE"
+msgid "Quick Join Failed"
+msgstr "빨리 참가 실패"
+
+#. UI.QUICKJOINSCREEN.TITLE
+msgctxt "UI.QUICKJOINSCREEN.TITLE"
+msgid "Quick Join"
+msgstr "빨리 참가"
+
+#. UI.QUITTING
+msgctxt "UI.QUITTING"
+msgid "Packing up the science."
+msgstr "과학을 포기한다."
+
+#. UI.QUITTINGTITLE
+msgctxt "UI.QUITTINGTITLE"
+msgid "Quitting!"
+msgstr "그만 하죠!"
+
+#. UI.RARITY.Character
+msgctxt "UI.RARITY.Character"
+msgid "Character"
+msgstr "캐릭터"
+
+#. UI.RARITY.CharacterModifier
+msgctxt "UI.RARITY.CharacterModifier"
+msgid ""
+msgstr ""
+
+#. UI.RARITY.Classy
+msgctxt "UI.RARITY.Classy"
+msgid "Classy"
+msgstr "고상한"
+
+#. UI.RARITY.Common
+msgctxt "UI.RARITY.Common"
+msgid "Common"
+msgstr "보통"
+
+#. UI.RARITY.Complimentary
+msgctxt "UI.RARITY.Complimentary"
+msgid "Complimentary"
+msgstr "무료"
+
+#. UI.RARITY.Distinguished
+msgctxt "UI.RARITY.Distinguished"
+msgid "Distinguished"
+msgstr "뛰어난"
+
+#. UI.RARITY.Elegant
+msgctxt "UI.RARITY.Elegant"
+msgid "Elegant"
+msgstr "우아한"
+
+#. UI.RARITY.Event
+msgctxt "UI.RARITY.Event"
+msgid "Event (Limited-Time Use)"
+msgstr "이벤트(한정 기간 사용)"
+
+#. UI.RARITY.HeirloomClassy
+msgctxt "UI.RARITY.HeirloomClassy"
+msgid "Heirloom Classy"
+msgstr "고상한 가보"
+
+#. UI.RARITY.HeirloomDistinguished
+msgctxt "UI.RARITY.HeirloomDistinguished"
+msgid "Heirloom Distinguished"
+msgstr "뛰어난 가보"
+
+#. UI.RARITY.HeirloomElegant
+msgctxt "UI.RARITY.HeirloomElegant"
+msgid "Heirloom Elegant"
+msgstr "우아한 가보"
+
+#. UI.RARITY.HeirloomSpiffy
+msgctxt "UI.RARITY.HeirloomSpiffy"
+msgid "Heirloom Spiffy"
+msgstr "세련된 가보"
+
+#. UI.RARITY.Inspired
+msgctxt "UI.RARITY.Inspired"
+msgid "Inspired - "
+msgstr "영감을 얻은 곳 - "
+
+#. UI.RARITY.Loyal
+msgctxt "UI.RARITY.Loyal"
+msgid "Loyal"
+msgstr "충실한"
+
+#. UI.RARITY.ProofOfPurchase
+msgctxt "UI.RARITY.ProofOfPurchase"
+msgid "Proof Of Purchase"
+msgstr "구매 증서"
+
+#. UI.RARITY.Reward
+msgctxt "UI.RARITY.Reward"
+msgid "Reward"
+msgstr "보상"
+
+#. UI.RARITY.Spiffy
+msgctxt "UI.RARITY.Spiffy"
+msgid "Spiffy"
+msgstr "세련된"
+
+#. UI.RARITY.Timeless
+msgctxt "UI.RARITY.Timeless"
+msgid "Timeless"
+msgstr "유행 타지 않는"
+
+#. UI.RARITY.Woven
+msgctxt "UI.RARITY.Woven"
+msgid "Woven - "
+msgstr "직조 - "
+
+#. UI.REDEEMDIALOG.ACCEPTED
+msgctxt "UI.REDEEMDIALOG.ACCEPTED"
+msgid "Success: Code Accepted!"
+msgstr "성공: 코드 수락!"
+
+#. UI.REDEEMDIALOG.ALREADY_REDEEMED
+msgctxt "UI.REDEEMDIALOG.ALREADY_REDEEMED"
+msgid "This code has already been redeemed. Maybe by you?"
+msgstr "이미 사용된 코드입니다. 당신이 사용한 것일까요?"
+
+#. UI.REDEEMDIALOG.CANCEL
+msgctxt "UI.REDEEMDIALOG.CANCEL"
+msgid "Cancel"
+msgstr "취소"
+
+#. UI.REDEEMDIALOG.CURRENCY_FMT
+msgctxt "UI.REDEEMDIALOG.CURRENCY_FMT"
+msgid "{currency_amt} {currency}!"
+msgstr "{currency_amt} {currency}!"
+
+#. UI.REDEEMDIALOG.FAILED_TO_CONTACT
+msgctxt "UI.REDEEMDIALOG.FAILED_TO_CONTACT"
+msgid "Sorry, it looks like the server's not answering right now. Please try again later."
+msgstr "죄송합니다, 서버가 현재 응답하고 있지 않습니다. 나중에 다시 시도하십시오."
+
+#. UI.REDEEMDIALOG.INVALID_CODE
+msgctxt "UI.REDEEMDIALOG.INVALID_CODE"
+msgid "That code wasn't quite right. Please try again."
+msgstr "입력한 코드가 올바르지 않았습니다. 다시 시도하세요."
+
+#. UI.REDEEMDIALOG.LEGALESE
+msgctxt "UI.REDEEMDIALOG.LEGALESE"
+msgid "Delivery time may vary due to temporal portal anomalies. Wilson is not responsible for emotional injuries caused by waiting. Gifts may result in bragging, unexpected delight, and/or enhanced gameplay experiences."
+msgstr "배달 시간은 포털의 시간 이상 현상에 따라 다를 수 있습니다. 윌슨은 기다림으로 인한 정신적 피해에 대한 책임을 지지 않습니다. 선물은 자랑, 예상치 못한 기쁨, 및/또는 향상된 게임플레이 경험을 일으킬 수 있습니다."
+
+#. UI.REDEEMDIALOG.MENU_BUTTON_DESC
+msgctxt "UI.REDEEMDIALOG.MENU_BUTTON_DESC"
+msgid "Transmute some codes into something useful."
+msgstr "코드를 사용하여 뭔가 쓸 만한 것을 얻으세요."
+
+#. UI.REDEEMDIALOG.MENU_BUTTON_TITLE
+msgctxt "UI.REDEEMDIALOG.MENU_BUTTON_TITLE"
+msgid "Redeem Codes"
+msgstr "코드 사용"
+
+#. UI.REDEEMDIALOG.SUBMIT
+msgctxt "UI.REDEEMDIALOG.SUBMIT"
+msgid "Submit"
+msgstr "제출"
+
+#. UI.REDEEMDIALOG.TITLE
+msgctxt "UI.REDEEMDIALOG.TITLE"
+msgid "Enter Your Code"
+msgstr "코드를 입력하세요"
+
+#. UI.SAVELOAD.CANCEL
+msgctxt "UI.SAVELOAD.CANCEL"
+msgid "Cancel"
+msgstr "취소"
+
+#. UI.SAVELOAD.DATA_DAMAGED
+msgctxt "UI.SAVELOAD.DATA_DAMAGED"
+msgid "Oh no! Your save data has become corrupt and cannot be used."
+msgstr "저장 데이터가 손상되어서 사용할 수 없습니다."
+
+#. UI.SAVELOAD.DATA_DAMAGED_BODY
+msgctxt "UI.SAVELOAD.DATA_DAMAGED_BODY"
+msgid "Your save data is damaged and cannot be used."
+msgstr "저장 데이터가 손상되어서 사용할 수 없습니다."
+
+#. UI.SAVELOAD.DATA_DAMAGED_PS4
+msgctxt "UI.SAVELOAD.DATA_DAMAGED_PS4"
+msgid "Damaged save data"
+msgstr "저장 데이터 손상"
+
+#. UI.SAVELOAD.DELETE_FAILED
+msgctxt "UI.SAVELOAD.DELETE_FAILED"
+msgid "An error occurred while deleting your data."
+msgstr "데이터 삭제 도중에 오류가 있었습니다."
+
+#. UI.SAVELOAD.DISABLE
+msgctxt "UI.SAVELOAD.DISABLE"
+msgid "Disable Save"
+msgstr "저장 사용 안 함"
+
+#. UI.SAVELOAD.DISABLE_AUTOSAVE
+msgctxt "UI.SAVELOAD.DISABLE_AUTOSAVE"
+msgid "Are you sure you want to\ndisable the auto-save feature?"
+msgstr "정말 자동 저장\n기능을 끄시겠습니까?"
+
+#. UI.SAVELOAD.DISABLE_AUTOSAVE_PS4
+msgctxt "UI.SAVELOAD.DISABLE_AUTOSAVE_PS4"
+msgid "Are you sure you want to\ndisable the save feature?"
+msgstr "정말 저장 기능을\n끄시겠습니까?"
+
+#. UI.SAVELOAD.LOAD_FAILED
+msgctxt "UI.SAVELOAD.LOAD_FAILED"
+msgid "An error occurred while loading your data."
+msgstr "데이터를 불러오는 도중에 오류가 있었습니다."
+
+#. UI.SAVELOAD.NO
+msgctxt "UI.SAVELOAD.NO"
+msgid "No"
+msgstr "아니오"
+
+#. UI.SAVELOAD.OVERWRITE
+msgctxt "UI.SAVELOAD.OVERWRITE"
+msgid "Overwrite"
+msgstr "덮어쓰기"
+
+#. UI.SAVELOAD.OVERWRITE_SAVEDATA_BODY
+msgctxt "UI.SAVELOAD.OVERWRITE_SAVEDATA_BODY"
+msgid "Are you sure you want to overwrite your save data? Your settings and worlds will be lost. This process can not be undone."
+msgstr "정말 저장 데이터를 덮어쓰시겠습니까? 설정과 세계를 잃게 됩니다. 이 작업은 되돌릴 수 없습니다."
+
+#. UI.SAVELOAD.OVERWRITE_SAVEDATA_TITLE
+msgctxt "UI.SAVELOAD.OVERWRITE_SAVEDATA_TITLE"
+msgid "Overwrite save data"
+msgstr "저장 데이터 덮어쓰기"
+
+#. UI.SAVELOAD.RESTOREBACKUP_FAILED
+msgctxt "UI.SAVELOAD.RESTOREBACKUP_FAILED"
+msgid "An error occurred while\nrestoring your data."
+msgstr "데이터 복원 도중\n오류가 발생했습니다."
+
+#. UI.SAVELOAD.RESTORE_BACKUP
+msgctxt "UI.SAVELOAD.RESTORE_BACKUP"
+msgid "Restore Backup"
+msgstr "백업 복원"
+
+#. UI.SAVELOAD.RESTORE_BACKUP_BODY
+msgctxt "UI.SAVELOAD.RESTORE_BACKUP_BODY"
+msgid "Are you sure you want to restore from the last available backup? This process can not be undone."
+msgstr "마지막으로 사용 가능한 백업에서 복원 하시겠습니까? 이 작업은 실행하고 나면 취소할 수 없습니다."
+
+#. UI.SAVELOAD.RETRY
+msgctxt "UI.SAVELOAD.RETRY"
+msgid "Retry"
+msgstr "다시 시도"
+
+#. UI.SAVELOAD.SAVE_FAILED
+msgctxt "UI.SAVELOAD.SAVE_FAILED"
+msgid "An error occurred while saving your data."
+msgstr "데이터 저장 도중에 오류가 있었습니다."
+
+#. UI.SAVELOAD.YES
+msgctxt "UI.SAVELOAD.YES"
+msgid "Yes"
+msgstr "예"
+
+#. UI.SETPOPUP.NEXT_SET
+msgctxt "UI.SETPOPUP.NEXT_SET"
+msgid "Next Set"
+msgstr "다음 세트"
+
+#. UI.SETPOPUP.OK
+msgctxt "UI.SETPOPUP.OK"
+msgid "OK"
+msgstr "확인"
+
+#. UI.SETPOPUP.PREV_SET
+msgctxt "UI.SETPOPUP.PREV_SET"
+msgid "Previous Set"
+msgstr "이전 세트"
+
+#. UI.SETPOPUP.REWARD
+msgctxt "UI.SETPOPUP.REWARD"
+msgid "Reward:"
+msgstr "보상:"
+
+#. UI.SKIN_PRESETS.TITLE
+msgctxt "UI.SKIN_PRESETS.TITLE"
+msgid "Clothing Presets"
+msgstr "의류 프리셋"
+
+#. UI.SPECIAL_EVENT_NAMES.CROW_CARNIVAL
+msgctxt "UI.SPECIAL_EVENT_NAMES.CROW_CARNIVAL"
+msgid "Midsummer Cawnival"
+msgstr "한여름의 까아악제"
+
+#. UI.SPECIAL_EVENT_NAMES.HALLOWED_NIGHTS
+msgctxt "UI.SPECIAL_EVENT_NAMES.HALLOWED_NIGHTS"
+msgid "Hallowed Nights"
+msgstr "Hallowed Nights"
+
+#. UI.SPECIAL_EVENT_NAMES.MULTIPLE_EVENTS
+msgctxt "UI.SPECIAL_EVENT_NAMES.MULTIPLE_EVENTS"
+msgid "Special Events"
+msgstr "특별 이벤트"
+
+#. UI.SPECIAL_EVENT_NAMES.WINTERS_FEAST
+msgctxt "UI.SPECIAL_EVENT_NAMES.WINTERS_FEAST"
+msgid "Winter's Feast"
+msgstr "겨울 축제"
+
+#. UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_BEEFALO
+msgctxt "UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_BEEFALO"
+msgid "Year of the Beefalo"
+msgstr "비팔로의 해"
+
+#. UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_CARRAT
+msgctxt "UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_CARRAT"
+msgid "Year of the Carrat"
+msgstr "당근이쥐의 해"
+
+#. UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_CATCOON
+msgctxt "UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_CATCOON"
+msgid "Year of the Catcoon"
+msgstr "냥냥쿤의 해"
+
+#. UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_GOBBLER
+msgctxt "UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_GOBBLER"
+msgid "Year of the Gobbler"
+msgstr "칠면조의 해"
+
+#. UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_PIG
+msgctxt "UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_PIG"
+msgid "Year of the Pig King"
+msgstr "돼지 왕의 해"
+
+#. UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_VARG
+msgctxt "UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_VARG"
+msgid "Year of the Varg"
+msgstr "바르그의 해"
+
+#. UI.SPLITSCREEN_REGISTRATION.KICK_PLAYER_POSTFIX
+msgctxt "UI.SPLITSCREEN_REGISTRATION.KICK_PLAYER_POSTFIX"
+msgid " from split screen"
+msgstr " 분할 화면에서"
+
+#. UI.SPLITSCREEN_REGISTRATION.KICK_PLAYER_PREFIX
+msgctxt "UI.SPLITSCREEN_REGISTRATION.KICK_PLAYER_PREFIX"
+msgid "Kick "
+msgstr "퇴장시키기 "
+
+#. UI.SPLITSCREEN_REGISTRATION.PLAYER_2_PRESS_START_POSTFIX
+msgctxt "UI.SPLITSCREEN_REGISTRATION.PLAYER_2_PRESS_START_POSTFIX"
+msgid "TO JOIN"
+msgstr "참가"
+
+#. UI.SPLITSCREEN_REGISTRATION.PLAYER_2_PRESS_START_PREFIX
+msgctxt "UI.SPLITSCREEN_REGISTRATION.PLAYER_2_PRESS_START_PREFIX"
+msgid "PRESS"
+msgstr "누르세요:"
+
+#. UI.SPLITSCREEN_REGISTRATION.STATUS_OFFLINE
+msgctxt "UI.SPLITSCREEN_REGISTRATION.STATUS_OFFLINE"
+msgid "Offline"
+msgstr "오프라인"
+
+#. UI.SPLITSCREEN_REGISTRATION.STATUS_ONLINE
+msgctxt "UI.SPLITSCREEN_REGISTRATION.STATUS_ONLINE"
+msgid "Signed In"
+msgstr "로그인 상태"
+
+#. UI.SPLITSCREEN_REGISTRATION.TITLE_PLAYER_1
+msgctxt "UI.SPLITSCREEN_REGISTRATION.TITLE_PLAYER_1"
+msgid "Player 1"
+msgstr "플레이어1"
+
+#. UI.SPLITSCREEN_REGISTRATION.TITLE_PLAYER_2
+msgctxt "UI.SPLITSCREEN_REGISTRATION.TITLE_PLAYER_2"
+msgid "Player 2"
+msgstr "플레이어2"
+
+#. UI.STARTADVENTURE.BODY
+msgctxt "UI.STARTADVENTURE.BODY"
+msgid "You are about to embark on a long, arduous expedition to locate Maxwell. You will need to survive five randomly generated worlds, each presenting you with a unique challenge.\n\nShould you die you will be transported safely back to this portal, but lose all your progress on the adventure."
+msgstr "이제 당신은 맥스웰을 찾기 위한 길고 고된 모험을 떠나게 됩니다. 각각 무작위로 생성되는 5개의 세계에서 차례대로 고유한 난관을 만나며 생존해야 합니다.\n\n죽으면 이 포털로 안전하게 돌아오며, 모험의 진행 상황을 모두 잃게 됩니다."
+
+#. UI.STARTADVENTURE.BODY_TEST
+msgctxt "UI.STARTADVENTURE.BODY_TEST"
+msgid "If you die during adventure mode, you will return back to this portal where you may restart the adventure.\n\nYou are about to embark on a long, arduous expedition to locate Maxwell. You will need to survive five randomly generated worlds, each presenting you with a unique challenge."
+msgstr "모험 모드에서 죽으면 이 포털로 돌아와서 모험을 다시 시작할 수 있습니다.\n\n이제 맥스웰을 찾기 위한 길고 고된 모험을 시작할 것입니다. 무작위로 생성된 5개의 세계에서 차례대로 고유한 난관을 만나며 생존해야 합니다."
+
+#. UI.STARTADVENTURE.NO
+msgctxt "UI.STARTADVENTURE.NO"
+msgid "Not Yet"
+msgstr "아직 아니요"
+
+#. UI.STARTADVENTURE.TITLE
+msgctxt "UI.STARTADVENTURE.TITLE"
+msgid "Doorway to Adventure!"
+msgstr "모험으로 향하는 문!"
+
+#. UI.STARTADVENTURE.YES
+msgctxt "UI.STARTADVENTURE.YES"
+msgid "Let's Go!"
+msgstr "시작해요!"
+
+#. UI.STATSPANEL.MOTD_BODY
+msgctxt "UI.STATSPANEL.MOTD_BODY"
+msgid "Character and item skin sets now available for purchase!"
+msgstr "이제 캐릭터 및 아이템 스킨 세트를 구매할 수 있습니다!"
+
+#. UI.STATSPANEL.MOTD_TITLE
+msgctxt "UI.STATSPANEL.MOTD_TITLE"
+msgid "Now Available!"
+msgstr "지금 이용 가능!"
+
+#. UI.TELEPORTBODY_ADVENTURE
+msgctxt "UI.TELEPORTBODY_ADVENTURE"
+msgid "This will REMOVE ALL YOUR ITEMS and destroy your current world. Only items placed in the machine will appear in the next world."
+msgstr "이대로 진행하면 모든 아이템이 제거되고 현재 세계가 파괴됩니다. 기계에 넣은 아이템만 다음 세계에서 나타나게 됩니다."
+
+#. UI.TELEPORTBODY_SURVIVAL
+msgctxt "UI.TELEPORTBODY_SURVIVAL"
+msgid "This will destroy your current world, but you will retain your inventory contents."
+msgstr "이대로 진행하면 현재 세계를 파괴하지만, 인벤토리에 있는 소지품은 보존합니다."
+
+#. UI.TELEPORTNO
+msgctxt "UI.TELEPORTNO"
+msgid "Stay here."
+msgstr "여기에 머무른다."
+
+#. UI.TELEPORTTITLE
+msgctxt "UI.TELEPORTTITLE"
+msgid "Journey onwards?"
+msgstr "계속 진행하시겠습니까?"
+
+#. UI.TELEPORTYES
+msgctxt "UI.TELEPORTYES"
+msgid "Let's Go!"
+msgstr "시작!"
+
+#. UI.TIME_FORMAT.HHMMSS
+msgctxt "UI.TIME_FORMAT.HHMMSS"
+msgid "{hours}:{minutes}:{seconds}"
+msgstr "{hours}:{minutes}:{seconds}"
+
+#. UI.TIME_FORMAT.MMSS
+msgctxt "UI.TIME_FORMAT.MMSS"
+msgid "{minutes}:{seconds}"
+msgstr "{minutes}:{seconds}"
+
+#. UI.UNLOCKMAXWELL.BODY1
+msgctxt "UI.UNLOCKMAXWELL.BODY1"
+msgid "The key looks like it will fit. You can free "
+msgstr "열쇠가 맞을 것 같군. 이제 "
+
+#. UI.UNLOCKMAXWELL.BODY2
+msgctxt "UI.UNLOCKMAXWELL.BODY2"
+msgid ", but I doubt %s captors will be pleased..."
+msgstr "을(를) 풀어줄 수는 있겠지만, 애초에 %s 자유를 박탈한 자들이 과연 어떻게 나올까..."
+
+#. UI.UNLOCKMAXWELL.NO
+msgctxt "UI.UNLOCKMAXWELL.NO"
+msgid "No"
+msgstr "아니오"
+
+#. UI.UNLOCKMAXWELL.TITLE
+msgctxt "UI.UNLOCKMAXWELL.TITLE"
+msgid "Take pity?"
+msgstr "동정하는 건가?"
+
+#. UI.UNLOCKMAXWELL.YES
+msgctxt "UI.UNLOCKMAXWELL.YES"
+msgid "Yes"
+msgstr "예"
+
+#. UI.USERCOMMANDS.BADTARGETFMT
+msgctxt "UI.USERCOMMANDS.BADTARGETFMT"
+msgid "You can't run '%s' on %s."
+msgstr "'%s'을(를) %s에서 실행할 수 없습니다."
+
+#. UI.USERCOMMANDS.BADUSERFMT
+msgctxt "UI.USERCOMMANDS.BADUSERFMT"
+msgid "There is no one on the server by the name of '%s'. Open the scoreboard to view all current players."
+msgstr "서버에 이름이 '%s'인 플레이어가 없습니다. 현재 플레이 중인 모든 플레이어를 보려면 스코어보드를 여십시오."
+
+#. UI.USERCOMMANDS.DISABLEDFMT
+msgctxt "UI.USERCOMMANDS.DISABLEDFMT"
+msgid "You can't run '%s' right now."
+msgstr "지금은 '%s'을(를) 실행할 수 없습니다."
+
+#. UI.USERCOMMANDS.FAILEDFMT
+msgctxt "UI.USERCOMMANDS.FAILEDFMT"
+msgid "You can't run '%s' right now."
+msgstr "지금은 '%s'을(를) 실행할 수 없습니다."
+
+#. UI.USERCOMMANDS.MISSINGPARAMSFMT
+msgctxt "UI.USERCOMMANDS.MISSINGPARAMSFMT"
+msgid "Missing parameters! Type /help %s for more info."
+msgstr "매개변수가 없습니다! /help %s을(를) 입력하여 자세한 정보를 확인하세요."
+
+#. UI.USERCOMMANDS.NOTALLOWEDFMT
+msgctxt "UI.USERCOMMANDS.NOTALLOWEDFMT"
+msgid "You don't have permission to run '%s'."
+msgstr "'%s'을(를) 실행할 권한이 없습니다."
+
+#. UI.USERCOMMANDS.SQUELCHEDFMT
+msgctxt "UI.USERCOMMANDS.SQUELCHEDFMT"
+msgid "You aren't allowed to start a '%s' vote right now."
+msgstr "지금 '%s' 투표를 시작할 권한이 없습니다."
+
+#. UI.VOTEDIALOG.CANCEL
+msgctxt "UI.VOTEDIALOG.CANCEL"
+msgid "Cancel"
+msgstr "취소"
+
+#. UI.VOTEDIALOG.NO
+msgctxt "UI.VOTEDIALOG.NO"
+msgid "No"
+msgstr "아니요"
+
+#. UI.VOTEDIALOG.TIME_REMAINING
+msgctxt "UI.VOTEDIALOG.TIME_REMAINING"
+msgid "Time Remaining: %d"
+msgstr "남은 시간: %d"
+
+#. UI.VOTEDIALOG.VOTE
+msgctxt "UI.VOTEDIALOG.VOTE"
+msgid "Vote"
+msgstr "투표"
+
+#. UI.VOTEDIALOG.YES
+msgctxt "UI.VOTEDIALOG.YES"
+msgid "Yes"
+msgstr "예"
+
+#. UI.WARDROBESCREEN.ACCEPT
+msgctxt "UI.WARDROBESCREEN.ACCEPT"
+msgid "Accept Outfit"
+msgstr "의상 수락"
+
+#. UI.WARDROBESCREEN.BASE
+msgctxt "UI.WARDROBESCREEN.BASE"
+msgid "Head"
+msgstr "머리"
+
+#. UI.WARDROBESCREEN.BODY
+msgctxt "UI.WARDROBESCREEN.BODY"
+msgid "Body"
+msgstr "몸통"
+
+#. UI.WARDROBESCREEN.CYCLE_VIEW
+msgctxt "UI.WARDROBESCREEN.CYCLE_VIEW"
+msgid "Cycle View"
+msgstr "순환 보기"
+
+#. UI.WARDROBESCREEN.FEET
+msgctxt "UI.WARDROBESCREEN.FEET"
+msgid "Feet"
+msgstr "발"
+
+#. UI.WARDROBESCREEN.FILTER_OFF
+msgctxt "UI.WARDROBESCREEN.FILTER_OFF"
+msgid "Off"
+msgstr "꺼짐"
+
+#. UI.WARDROBESCREEN.FILTER_ON
+msgctxt "UI.WARDROBESCREEN.FILTER_ON"
+msgid "On"
+msgstr "켜짐"
+
+#. UI.WARDROBESCREEN.HAND
+msgctxt "UI.WARDROBESCREEN.HAND"
+msgid "Hands"
+msgstr "손"
+
+#. UI.WARDROBESCREEN.LEGS
+msgctxt "UI.WARDROBESCREEN.LEGS"
+msgid "Legs"
+msgstr "다리"
+
+#. UI.WARDROBESCREEN.OWNED_FILTER_FMT
+msgctxt "UI.WARDROBESCREEN.OWNED_FILTER_FMT"
+msgid "Owned Filter: {mode}"
+msgstr "보유 필터: {mode}"
+
+#. UI.WARDROBESCREEN.RESET
+msgctxt "UI.WARDROBESCREEN.RESET"
+msgid "Undo Changes"
+msgstr "변경 취소"
+
+#. UI.WARDROBESCREEN.SEARCH
+msgctxt "UI.WARDROBESCREEN.SEARCH"
+msgid "Search"
+msgstr "검색"
+
+#. UI.WARDROBESCREEN.SORT_COUNT
+msgctxt "UI.WARDROBESCREEN.SORT_COUNT"
+msgid "Owned Count"
+msgstr "보유량"
+
+#. UI.WARDROBESCREEN.SORT_MODE_FMT
+msgctxt "UI.WARDROBESCREEN.SORT_MODE_FMT"
+msgid "Sort Mode: {mode}"
+msgstr "정렬 모드: {mode}"
+
+#. UI.WARDROBESCREEN.SORT_NAME
+msgctxt "UI.WARDROBESCREEN.SORT_NAME"
+msgid "Name"
+msgstr "이름"
+
+#. UI.WARDROBESCREEN.SORT_RARITY
+msgctxt "UI.WARDROBESCREEN.SORT_RARITY"
+msgid "Rarity"
+msgstr "희귀도"
+
+#. UI.WARDROBESCREEN.SORT_RELEASE
+msgctxt "UI.WARDROBESCREEN.SORT_RELEASE"
+msgid "Release Date"
+msgstr "출시일"
+
+#. UI.WARDROBESCREEN.SURVIVOR_FILTER_FMT
+msgctxt "UI.WARDROBESCREEN.SURVIVOR_FILTER_FMT"
+msgid "Survivor Filter: {mode}"
+msgstr "생존자 필터: {mode}"
+
+#. UI.WARDROBESCREEN.TITLE
+msgctxt "UI.WARDROBESCREEN.TITLE"
+msgid "Wardrobe"
+msgstr "옷장"
+
+#. UI.WARDROBESCREEN.TOOLTIP_BASE
+msgctxt "UI.WARDROBESCREEN.TOOLTIP_BASE"
+msgid "Equip a head item"
+msgstr "머리 아이템 장착"
+
+#. UI.WARDROBESCREEN.TOOLTIP_BODY
+msgctxt "UI.WARDROBESCREEN.TOOLTIP_BODY"
+msgid "Equip a body item"
+msgstr "몸통 아이템 장착"
+
+#. UI.WARDROBESCREEN.TOOLTIP_FEET
+msgctxt "UI.WARDROBESCREEN.TOOLTIP_FEET"
+msgid "Equip a foot item"
+msgstr "발 아이템 장착"
+
+#. UI.WARDROBESCREEN.TOOLTIP_HAND
+msgctxt "UI.WARDROBESCREEN.TOOLTIP_HAND"
+msgid "Equip a hand item"
+msgstr "손 아이템 장착"
+
+#. UI.WARDROBESCREEN.TOOLTIP_LEGS
+msgctxt "UI.WARDROBESCREEN.TOOLTIP_LEGS"
+msgid "Equip a leg item"
+msgstr "다리 아이템 장착"
+
+#. UI.WARDROBESCREEN.WEAVEABLE_FILTER_FMT
+msgctxt "UI.WARDROBESCREEN.WEAVEABLE_FILTER_FMT"
+msgid "Weaveable Filter: {mode}"
+msgstr "직조 가능 필터: {mode}"
+
+#. UI.WARDROBE_POPUP.CANCEL
+msgctxt "UI.WARDROBE_POPUP.CANCEL"
+msgid "Cancel"
+msgstr "취소"
+
+#. UI.WARDROBE_POPUP.RESET
+msgctxt "UI.WARDROBE_POPUP.RESET"
+msgid "Reset Outfit"
+msgstr "의상 초기화"
+
+#. UI.WARDROBE_POPUP.SET
+msgctxt "UI.WARDROBE_POPUP.SET"
+msgid "Confirm Outfit"
+msgstr "의상 확인"
+
+#. UI.WORDPREDICTIONWIDET.DISMISS
+msgctxt "UI.WORDPREDICTIONWIDET.DISMISS"
+msgid "Dismiss"
+msgstr "무시"
+
+#. UI.WORLDRESETDIALOG.BUTTONPROMPT1
+msgctxt "UI.WORLDRESETDIALOG.BUTTONPROMPT1"
+msgid "Hold "
+msgstr "길게 누르기 "
+
+#. UI.WORLDRESETDIALOG.BUTTONPROMPT2
+msgctxt "UI.WORLDRESETDIALOG.BUTTONPROMPT2"
+msgid "to Reset Now"
+msgstr "- 지금 초기화"
+
+#. UI.WORLDRESETDIALOG.RESET_BUTTON
+msgctxt "UI.WORLDRESETDIALOG.RESET_BUTTON"
+msgid "Reset Now"
+msgstr "지금 초기화"
+
+#. UI.WORLDRESETDIALOG.RESET_MSG
+msgctxt "UI.WORLDRESETDIALOG.RESET_MSG"
+msgid "World will reset in: %d"
+msgstr "세계 초기화: %d"
+
+#. UI.WORLDRESETDIALOG.SURVIVED_MSG
+msgctxt "UI.WORLDRESETDIALOG.SURVIVED_MSG"
+msgid "Survived %d Days"
+msgstr "%d일 생존"
+
+#. UI.WORLDRESETDIALOG.SURVIVED_MSG_1_DAY
+msgctxt "UI.WORLDRESETDIALOG.SURVIVED_MSG_1_DAY"
+msgid "Survived %d Day"
+msgstr "%d일 생존"
+
+#. UI.WORLDRESETDIALOG.TITLE
+msgctxt "UI.WORLDRESETDIALOG.TITLE"
+msgid "Day %d: Everyone is dead"
+msgstr "제%d일: 전원 사망"
+
+#. UI.WORLDRESETDIALOG.TITLE_LATEJOIN
+msgctxt "UI.WORLDRESETDIALOG.TITLE_LATEJOIN"
+msgid "Day %d: Everyone else is dead. Save them!"
+msgstr "제%d일: 당신 빼고 전원 사망했습니다. 구해주세요!"
+
+#. UI.XB1_USER_DIALOG.CONTROLLER_2_DISCONNECTED
+msgctxt "UI.XB1_USER_DIALOG.CONTROLLER_2_DISCONNECTED"
+msgid "Player 2's controller disconnected"
+msgstr "플레이어 2 컨트롤러의 연결이 끊어졌습니다."
+
+#. UI.XB1_USER_DIALOG.MAIN_CONTROLLER_DISCONNECTED
+msgctxt "UI.XB1_USER_DIALOG.MAIN_CONTROLLER_DISCONNECTED"
+msgid "Main controller disconnected."
+msgstr "기본 컨트롤러의 연결이 끊어졌습니다."
+
+#. UI.XB1_USER_DIALOG.PRESS_A_ON_NEW
+msgctxt "UI.XB1_USER_DIALOG.PRESS_A_ON_NEW"
+msgid "Press A on a new one to continue."
+msgstr "새롭게 선택하고 A를 눌러서 진행합니다."
+
+#. UI.XB1_USER_DIALOG.PRESS_A_TO_SWAP_USER
+msgctxt "UI.XB1_USER_DIALOG.PRESS_A_TO_SWAP_USER"
+msgid "Press A to connect as the main user."
+msgstr "A를 눌러서 기본 사용자로 연결합니다."
+
+#. UI.XB1_USER_DIALOG.SIGN_IN
+msgctxt "UI.XB1_USER_DIALOG.SIGN_IN"
+msgid "Sign In"
+msgstr "로그인"
+
+#. UI.XB1_USER_DIALOG.SIGN_IN_TO_CONTINUE
+msgctxt "UI.XB1_USER_DIALOG.SIGN_IN_TO_CONTINUE"
+msgid "You must sign in again to continue."
+msgstr "다시 로그인해야 계속할 수 있습니다."
+
+#. UI.XB1_USER_DIALOG.USER_1_CHANGED
+msgctxt "UI.XB1_USER_DIALOG.USER_1_CHANGED"
+msgid "Main profile changed"
+msgstr "기본 프로필 변경됨"
+
+#. UI.XB1_USER_DIALOG.USER_2_CHANGED
+msgctxt "UI.XB1_USER_DIALOG.USER_2_CHANGED"
+msgid "Player 2's profile changed"
+msgstr "플레이어 2 프로필 변경됨"
+
+#. UI.XB1_USER_DIALOG.USER_2_HAS_TO_REJOIN
+msgctxt "UI.XB1_USER_DIALOG.USER_2_HAS_TO_REJOIN"
+msgid "Player 2 will need to join the game again."
+msgstr "플레이어 2가 다시 게임에 참여해야 합니다."
+
+#. UI.XB1_USER_DIALOG.USER_2_MUST_BE_DIFFERENT
+msgctxt "UI.XB1_USER_DIALOG.USER_2_MUST_BE_DIFFERENT"
+msgid "Player 2's profile must be\ndifferent from Player 1's."
+msgstr "플레이어 2의 프로필은\n플레이어 1과 달라야 합니다."
+
+#. UI.XPUTILS.XPPROGRESS
+msgctxt "UI.XPUTILS.XPPROGRESS"
+msgid "{num}/{max}"
+msgstr "{num}/{max}"
+

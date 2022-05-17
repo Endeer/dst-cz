@@ -1,0 +1,825 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.OPTIONS.ACCEPT
+msgctxt "UI.OPTIONS.ACCEPT"
+msgid "Accept"
+msgstr "接受"
+
+#. UI.OPTIONS.ACCEPTBODY
+msgctxt "UI.OPTIONS.ACCEPTBODY"
+msgid "Do you wish to accept these changes?"
+msgstr "要接受这些更改吗？"
+
+#. UI.OPTIONS.ACCEPTGRAPHICSBODY
+msgctxt "UI.OPTIONS.ACCEPTGRAPHICSBODY"
+msgid "Do you wish to accept these changes?"
+msgstr "要接受这些更改吗？"
+
+#. UI.OPTIONS.ACCEPTGRAPHICSTITLE
+msgctxt "UI.OPTIONS.ACCEPTGRAPHICSTITLE"
+msgid "Accept Changes"
+msgstr "接受更改"
+
+#. UI.OPTIONS.ACCEPTTITLE
+msgctxt "UI.OPTIONS.ACCEPTTITLE"
+msgid "Accept Changes"
+msgstr "接受更改"
+
+#. UI.OPTIONS.ACTION
+msgctxt "UI.OPTIONS.ACTION"
+msgid "Action"
+msgstr "行动"
+
+#. UI.OPTIONS.ADVANCED
+msgctxt "UI.OPTIONS.ADVANCED"
+msgid "Advanced"
+msgstr "高级"
+
+#. UI.OPTIONS.AMBIENT
+msgctxt "UI.OPTIONS.AMBIENT"
+msgid "Ambient Volume:"
+msgstr "环境音量："
+
+#. UI.OPTIONS.ANIMATED_HEADS
+msgctxt "UI.OPTIONS.ANIMATED_HEADS"
+msgid "Moving Head Icons:"
+msgstr "动态头像："
+
+#. UI.OPTIONS.APPLY
+msgctxt "UI.OPTIONS.APPLY"
+msgid "Apply"
+msgstr "应用"
+
+#. UI.OPTIONS.AUTOLOGIN
+msgctxt "UI.OPTIONS.AUTOLOGIN"
+msgid "Auto-Login:"
+msgstr "自动登录："
+
+#. UI.OPTIONS.AUTOMODS
+msgctxt "UI.OPTIONS.AUTOMODS"
+msgid "Auto-Subscribe Mods:"
+msgstr "自动订阅模组："
+
+#. UI.OPTIONS.AUTOPAUSE
+msgctxt "UI.OPTIONS.AUTOPAUSE"
+msgid "Auto-Pause:"
+msgstr "自动暂停："
+
+#. UI.OPTIONS.AUTOSAVE
+msgctxt "UI.OPTIONS.AUTOSAVE"
+msgid "Auto-save"
+msgstr "自动存档"
+
+#. UI.OPTIONS.BACK
+msgctxt "UI.OPTIONS.BACK"
+msgid "Back"
+msgstr "返回"
+
+#. UI.OPTIONS.BACKBODY
+msgctxt "UI.OPTIONS.BACKBODY"
+msgid "Do you want to throw out your changes?"
+msgstr "要放弃更改吗？"
+
+#. UI.OPTIONS.BACKBODY_PS4
+msgctxt "UI.OPTIONS.BACKBODY_PS4"
+msgid "You've made changes. How you want to proceed?"
+msgstr "您已经做了更改。您想要如何继续呢？"
+
+#. UI.OPTIONS.BACKPACKMODE
+msgctxt "UI.OPTIONS.BACKPACKMODE"
+msgid "Backpack Layout:"
+msgstr "背包布局："
+
+#. UI.OPTIONS.BACKTITLE
+msgctxt "UI.OPTIONS.BACKTITLE"
+msgid "Lose Changes?"
+msgstr "放弃更改？"
+
+#. UI.OPTIONS.BACKTITLE_PS4
+msgctxt "UI.OPTIONS.BACKTITLE_PS4"
+msgid "Wait!"
+msgstr "稍等！"
+
+#. UI.OPTIONS.BLOOM
+msgctxt "UI.OPTIONS.BLOOM"
+msgid "Bloom:"
+msgstr "泛光："
+
+#. UI.OPTIONS.BOATCAMERA
+msgctxt "UI.OPTIONS.BOATCAMERA"
+msgid "Seafaring Camera:"
+msgstr "航海视角："
+
+#. UI.OPTIONS.BUGREPORT
+msgctxt "UI.OPTIONS.BUGREPORT"
+msgid "Submit a Bug Report"
+msgstr "提交错误报告"
+
+#. UI.OPTIONS.CANCEL
+msgctxt "UI.OPTIONS.CANCEL"
+msgid "Cancel"
+msgstr "取消"
+
+#. UI.OPTIONS.CINEMATICS
+msgctxt "UI.OPTIONS.CINEMATICS"
+msgid "Cinematics"
+msgstr "过场动画"
+
+#. UI.OPTIONS.CLOSE
+msgctxt "UI.OPTIONS.CLOSE"
+msgid "Close"
+msgstr "关闭"
+
+#. UI.OPTIONS.CONSOLEAUTOPAUSE
+msgctxt "UI.OPTIONS.CONSOLEAUTOPAUSE"
+msgid "Console Auto-Pause:"
+msgstr "主机自动暂停："
+
+#. UI.OPTIONS.CONTROLS
+msgctxt "UI.OPTIONS.CONTROLS"
+msgid "Controls"
+msgstr "控制"
+
+#. UI.OPTIONS.CRAFTINGAUTOPAUSE
+msgctxt "UI.OPTIONS.CRAFTINGAUTOPAUSE"
+msgid "Crafting Auto-Pause:"
+msgstr "制作自动暂停："
+
+#. UI.OPTIONS.CRAFTINGHINTALLRECIPES
+msgctxt "UI.OPTIONS.CRAFTINGHINTALLRECIPES"
+msgid "Crafting Preview:"
+msgstr "制作预览："
+
+#. UI.OPTIONS.CRAFTINGMENUBUFFEREDBUILDAUTOCLOSE
+msgctxt "UI.OPTIONS.CRAFTINGMENUBUFFEREDBUILDAUTOCLOSE"
+msgid "Crafting Auto-Close:"
+msgstr "自动关闭制作："
+
+#. UI.OPTIONS.CRAFTINGMENUNUMPINPAGES
+msgctxt "UI.OPTIONS.CRAFTINGMENUNUMPINPAGES"
+msgid "Crafting Pin Pages:"
+msgstr "固定的制作配方："
+
+#. UI.OPTIONS.CRAFTINGMENUSENSITIVITY
+msgctxt "UI.OPTIONS.CRAFTINGMENUSENSITIVITY"
+msgid "Crafting Sensitivity:"
+msgstr "制作灵敏度："
+
+#. UI.OPTIONS.CRAFTINGMENUSIZE
+msgctxt "UI.OPTIONS.CRAFTINGMENUSIZE"
+msgid "Crafting Menu Size:"
+msgstr "制作目录大小："
+
+#. UI.OPTIONS.CRAFTING_HINTALL_ENABLED
+msgctxt "UI.OPTIONS.CRAFTING_HINTALL_ENABLED"
+msgid "All Recipes"
+msgstr "所有配方"
+
+#. UI.OPTIONS.CREDITS
+msgctxt "UI.OPTIONS.CREDITS"
+msgid "Credits"
+msgstr "主创人员"
+
+#. UI.OPTIONS.DATACOLLECTION
+msgctxt "UI.OPTIONS.DATACOLLECTION"
+msgid "Data Collection:"
+msgstr "数据收集："
+
+#. UI.OPTIONS.DEFAULT
+msgctxt "UI.OPTIONS.DEFAULT"
+msgid "Default"
+msgstr "默认"
+
+#. UI.OPTIONS.DEFAULTCLOUDSAVES
+msgctxt "UI.OPTIONS.DEFAULTCLOUDSAVES"
+msgid "Default Save Type:"
+msgstr "默认存档类型："
+
+#. UI.OPTIONS.DIM
+msgctxt "UI.OPTIONS.DIM"
+msgid "Dim"
+msgstr "暗"
+
+#. UI.OPTIONS.DIMMEST
+msgctxt "UI.OPTIONS.DIMMEST"
+msgid "Dimmest"
+msgstr "最暗"
+
+#. UI.OPTIONS.DISABLED
+msgctxt "UI.OPTIONS.DISABLED"
+msgid "Disabled"
+msgstr "禁用"
+
+#. UI.OPTIONS.DISPLAY
+msgctxt "UI.OPTIONS.DISPLAY"
+msgid "Display:"
+msgstr "显示："
+
+#. UI.OPTIONS.DISPLAY_AREA_BUTTON
+msgctxt "UI.OPTIONS.DISPLAY_AREA_BUTTON"
+msgid "Adjust"
+msgstr "调整"
+
+#. UI.OPTIONS.DISPLAY_AREA_LABEL
+msgctxt "UI.OPTIONS.DISPLAY_AREA_LABEL"
+msgid "Display Area:"
+msgstr "显示区域："
+
+#. UI.OPTIONS.DISTORTION
+msgctxt "UI.OPTIONS.DISTORTION"
+msgid "Distortion:"
+msgstr "失真："
+
+#. UI.OPTIONS.DYNAMICCONTENT_ENABLE
+msgctxt "UI.OPTIONS.DYNAMICCONTENT_ENABLE"
+msgid "Re-enable Dynamic Content"
+msgstr "重新启用动态内容"
+
+#. UI.OPTIONS.DYNAMIC_TREE_SHADOWS
+msgctxt "UI.OPTIONS.DYNAMIC_TREE_SHADOWS"
+msgid "Canopy Shadows:"
+msgstr "树荫："
+
+#. UI.OPTIONS.ENABLED
+msgctxt "UI.OPTIONS.ENABLED"
+msgid "Enabled"
+msgstr "启用"
+
+#. UI.OPTIONS.EULA
+msgctxt "UI.OPTIONS.EULA"
+msgid "Review the EULA"
+msgstr "查看最终用户许可协议"
+
+#. UI.OPTIONS.EULA_RESPONSE_CHANGED_BODY
+msgctxt "UI.OPTIONS.EULA_RESPONSE_CHANGED_BODY"
+msgid "Your settings have changed and you must log in again to continue."
+msgstr "你的设置已经改变，必须重新登录才能继续。"
+
+#. UI.OPTIONS.EULA_RESPONSE_CHANGED_TITLE
+msgctxt "UI.OPTIONS.EULA_RESPONSE_CHANGED_TITLE"
+msgid "Login Required"
+msgstr "需要登录"
+
+#. UI.OPTIONS.FULLSCREEN
+msgctxt "UI.OPTIONS.FULLSCREEN"
+msgid "Fullscreen:"
+msgstr "全屏："
+
+#. UI.OPTIONS.FX
+msgctxt "UI.OPTIONS.FX"
+msgid "Sound FX Volume:"
+msgstr "音效音量："
+
+#. UI.OPTIONS.GRAPHICS
+msgctxt "UI.OPTIONS.GRAPHICS"
+msgid "Graphics"
+msgstr "图像"
+
+#. UI.OPTIONS.HUDSIZE
+msgctxt "UI.OPTIONS.HUDSIZE"
+msgid "HUD Size:"
+msgstr "HUD大小："
+
+#. UI.OPTIONS.INPUT
+msgctxt "UI.OPTIONS.INPUT"
+msgid "Input Device:"
+msgstr "输入装置："
+
+#. UI.OPTIONS.INTEGRATEDBACKPACK_DISABLED
+msgctxt "UI.OPTIONS.INTEGRATEDBACKPACK_DISABLED"
+msgid "Separated"
+msgstr "分开"
+
+#. UI.OPTIONS.INTEGRATEDBACKPACK_ENABLED
+msgctxt "UI.OPTIONS.INTEGRATEDBACKPACK_ENABLED"
+msgid "Integrated"
+msgstr "融合"
+
+#. UI.OPTIONS.INTRO_MOVIE
+msgctxt "UI.OPTIONS.INTRO_MOVIE"
+msgid "Intro Movie"
+msgstr "介绍影片"
+
+#. UI.OPTIONS.INVENTORYSENSITIVITY
+msgctxt "UI.OPTIONS.INVENTORYSENSITIVITY"
+msgid "Inventory Sensitivity:"
+msgstr "物品栏灵敏度："
+
+#. UI.OPTIONS.INVERT
+msgctxt "UI.OPTIONS.INVERT"
+msgid "Inverted"
+msgstr "反转"
+
+#. UI.OPTIONS.INVERTCAMERAROTATION
+msgctxt "UI.OPTIONS.INVERTCAMERAROTATION"
+msgid "Camera Rotation"
+msgstr "镜头旋转"
+
+#. UI.OPTIONS.KLEI_ID_PREFIX
+msgctxt "UI.OPTIONS.KLEI_ID_PREFIX"
+msgid "Klei ID: "
+msgstr "科雷ID："
+
+#. UI.OPTIONS.LANGUAGES
+msgctxt "UI.OPTIONS.LANGUAGES"
+msgid "Languages"
+msgstr "语言"
+
+#. UI.OPTIONS.LANG_BODY_STEAM
+msgctxt "UI.OPTIONS.LANG_BODY_STEAM"
+msgid "Your Steam interface is set to a language other than English, would you like to view language options?"
+msgstr "你的Steam界面不是英语，你想要查看其它的语言选项吗？"
+
+#. UI.OPTIONS.LANG_TITLE
+msgctxt "UI.OPTIONS.LANG_TITLE"
+msgid "Language Options"
+msgstr "语言选项"
+
+#. UI.OPTIONS.LOADING_TIPS
+msgctxt "UI.OPTIONS.LOADING_TIPS"
+msgid "Loading Tips"
+msgstr "加载提示"
+
+#. UI.OPTIONS.LOADING_TIPS_LORE_ONLY
+msgctxt "UI.OPTIONS.LOADING_TIPS_LORE_ONLY"
+msgid "Lore Only"
+msgstr "仅背景故事"
+
+#. UI.OPTIONS.LOADING_TIPS_SHOW_ALL
+msgctxt "UI.OPTIONS.LOADING_TIPS_SHOW_ALL"
+msgid "All"
+msgstr "全部"
+
+#. UI.OPTIONS.LOADING_TIPS_SHOW_NONE
+msgctxt "UI.OPTIONS.LOADING_TIPS_SHOW_NONE"
+msgid "None"
+msgstr "无"
+
+#. UI.OPTIONS.LOADING_TIPS_TIPS_ONLY
+msgctxt "UI.OPTIONS.LOADING_TIPS_TIPS_ONLY"
+msgid "Tips Only"
+msgstr "仅游戏提示"
+
+#. UI.OPTIONS.LOCAL_SAVES
+msgctxt "UI.OPTIONS.LOCAL_SAVES"
+msgid "Local Files"
+msgstr "本地文件"
+
+#. UI.OPTIONS.MOD_LANGUAGES_TITLE
+msgctxt "UI.OPTIONS.MOD_LANGUAGES_TITLE"
+msgid "Steam Workshop Collections"
+msgstr "Steam创意工坊系列"
+
+#. UI.OPTIONS.MORE
+msgctxt "UI.OPTIONS.MORE"
+msgid "More"
+msgstr "较多"
+
+#. UI.OPTIONS.MOVEMENTPREDICTION
+msgctxt "UI.OPTIONS.MOVEMENTPREDICTION"
+msgid "Lag Compensation:"
+msgstr "延迟补偿："
+
+#. UI.OPTIONS.MOVEMENTPREDICTION_DISABLED
+msgctxt "UI.OPTIONS.MOVEMENTPREDICTION_DISABLED"
+msgid "None"
+msgstr "无"
+
+#. UI.OPTIONS.MOVEMENTPREDICTION_ENABLED
+msgctxt "UI.OPTIONS.MOVEMENTPREDICTION_ENABLED"
+msgid "Predictive"
+msgstr "预测"
+
+#. UI.OPTIONS.MUSIC
+msgctxt "UI.OPTIONS.MUSIC"
+msgid "Music Volume:"
+msgstr "音乐音量："
+
+#. UI.OPTIONS.NETBOOKMODE
+msgctxt "UI.OPTIONS.NETBOOKMODE"
+msgid "Netbook Mode:"
+msgstr "上网本模式："
+
+#. UI.OPTIONS.NO
+msgctxt "UI.OPTIONS.NO"
+msgid "No"
+msgstr "否"
+
+#. UI.OPTIONS.OFFLINE_MODE_BODY
+msgctxt "UI.OPTIONS.OFFLINE_MODE_BODY"
+msgid "Your selection is not available in offline mode. Please log in and try again."
+msgstr "离线模式下您的选择是不可用的。请登录并再次尝试。"
+
+#. UI.OPTIONS.OFFLINE_MODE_TITLE
+msgctxt "UI.OPTIONS.OFFLINE_MODE_TITLE"
+msgid "Offline Mode"
+msgstr "线下模式"
+
+#. UI.OPTIONS.OK
+msgctxt "UI.OPTIONS.OK"
+msgid "Okay"
+msgstr "确定"
+
+#. UI.OPTIONS.OPTIONS
+msgctxt "UI.OPTIONS.OPTIONS"
+msgid "Options"
+msgstr "选项"
+
+#. UI.OPTIONS.REDEEM
+msgctxt "UI.OPTIONS.REDEEM"
+msgid "Redeem a Code"
+msgstr "使用兑换码"
+
+#. UI.OPTIONS.REFRESHRATE
+msgctxt "UI.OPTIONS.REFRESHRATE"
+msgid "Refresh Rate:"
+msgstr "刷新率："
+
+#. UI.OPTIONS.RESOLUTION
+msgctxt "UI.OPTIONS.RESOLUTION"
+msgid "Resolution:"
+msgstr "分辨率："
+
+#. UI.OPTIONS.RESTART_TEXTURE_STREAMING_BODY
+msgctxt "UI.OPTIONS.RESTART_TEXTURE_STREAMING_BODY"
+msgid "For Texture Streaming changes to take effect, you will have to exit and restart the game."
+msgstr "需要退出当前游戏、重新启动游戏后，动态加载贴图才能生效。"
+
+#. UI.OPTIONS.RESTART_TEXTURE_STREAMING_TITLE
+msgctxt "UI.OPTIONS.RESTART_TEXTURE_STREAMING_TITLE"
+msgid "Restart Required"
+msgstr "需要重启游戏"
+
+#. UI.OPTIONS.RESTART_THREADED_RENDER_BODY
+msgctxt "UI.OPTIONS.RESTART_THREADED_RENDER_BODY"
+msgid "For Threaded Render changes to take effect, you will have to exit and restart the game."
+msgstr "需要退出当前游戏并重新启动游戏后，多线程渲染才能生效。"
+
+#. UI.OPTIONS.RESTART_THREADED_RENDER_TITLE
+msgctxt "UI.OPTIONS.RESTART_THREADED_RENDER_TITLE"
+msgid "Restart Required"
+msgstr "需要重启游戏"
+
+#. UI.OPTIONS.REVERT
+msgctxt "UI.OPTIONS.REVERT"
+msgid "Revert Changes"
+msgstr "还原更改"
+
+#. UI.OPTIONS.SCREENSHAKE
+msgctxt "UI.OPTIONS.SCREENSHAKE"
+msgid "Screen Shake:"
+msgstr "屏幕摇晃："
+
+#. UI.OPTIONS.SCREEN_FLASH_INTENSITY
+msgctxt "UI.OPTIONS.SCREEN_FLASH_INTENSITY"
+msgid "Screen Flashes:"
+msgstr "屏幕闪烁："
+
+#. UI.OPTIONS.SERVER_NAME_PROFANITY_CHAT_FILTER
+msgctxt "UI.OPTIONS.SERVER_NAME_PROFANITY_CHAT_FILTER"
+msgid "Steam Chat Filtering:"
+msgstr "Steam聊天过滤："
+
+#. UI.OPTIONS.SERVER_NAME_PROFANITY_FILTER
+msgctxt "UI.OPTIONS.SERVER_NAME_PROFANITY_FILTER"
+msgid "Filter Server Names:"
+msgstr "过滤服务器名称:"
+
+#. UI.OPTIONS.SETTINGS
+msgctxt "UI.OPTIONS.SETTINGS"
+msgid "Settings"
+msgstr "设置"
+
+#. UI.OPTIONS.SHOWPASSWORD
+msgctxt "UI.OPTIONS.SHOWPASSWORD"
+msgid "Show Passwords:"
+msgstr "显示密码："
+
+#. UI.OPTIONS.SMALLTEXTURES
+msgctxt "UI.OPTIONS.SMALLTEXTURES"
+msgid "Small Textures:"
+msgstr "小纹理："
+
+#. UI.OPTIONS.SNAPSHOTS
+msgctxt "UI.OPTIONS.SNAPSHOTS"
+msgid "Server Snapshots"
+msgstr "服务器截图"
+
+#. UI.OPTIONS.STEAM_CLOUD_SAVES
+msgctxt "UI.OPTIONS.STEAM_CLOUD_SAVES"
+msgid "Steam Cloud"
+msgstr "Steam云存档"
+
+#. UI.OPTIONS.TARGETLOCKING
+msgctxt "UI.OPTIONS.TARGETLOCKING"
+msgid "Target Locking:"
+msgstr "目标锁定："
+
+#. UI.OPTIONS.TEXTURESTREAMING
+msgctxt "UI.OPTIONS.TEXTURESTREAMING"
+msgid "Texture Streaming:"
+msgstr "动态加载贴图"
+
+#. UI.OPTIONS.THREADEDRENDER
+msgctxt "UI.OPTIONS.THREADEDRENDER"
+msgid "Threaded Render:"
+msgstr "多线程渲染："
+
+#. UI.OPTIONS.TITLE
+msgctxt "UI.OPTIONS.TITLE"
+msgid "Game Options"
+msgstr "游戏选项"
+
+#. UI.OPTIONS.TOOLTIPS.ADVANCED
+msgctxt "UI.OPTIONS.TOOLTIPS.ADVANCED"
+msgid "Modify advanced features of the game and user interface"
+msgstr "修改游戏的高级功能和用户界面"
+
+#. UI.OPTIONS.TOOLTIPS.AMBIENT
+msgctxt "UI.OPTIONS.TOOLTIPS.AMBIENT"
+msgid "The environment makes noise too, luckily you can control how loudly it does."
+msgstr "环境有它自己的声音，幸运的是你可以控制它的响度。"
+
+#. UI.OPTIONS.TOOLTIPS.ANIMATED_HEADS
+msgctxt "UI.OPTIONS.TOOLTIPS.ANIMATED_HEADS"
+msgid "Animates the survivor's heads in the menus."
+msgstr "调整菜单中的冒险家头像动画。"
+
+#. UI.OPTIONS.TOOLTIPS.AUTOLOGIN
+msgctxt "UI.OPTIONS.TOOLTIPS.AUTOLOGIN"
+msgid "Log into your Klei account automatically when booting up Don't Starve Together."
+msgstr "启动《饥荒联机版》时自动登录科雷账户。"
+
+#. UI.OPTIONS.TOOLTIPS.AUTOMODS
+msgctxt "UI.OPTIONS.TOOLTIPS.AUTOMODS"
+msgid "Keep up to date with the mods of all the servers you join."
+msgstr "获得所加入的服务器中的最新模组。"
+
+#. UI.OPTIONS.TOOLTIPS.AUTOPAUSE
+msgctxt "UI.OPTIONS.TOOLTIPS.AUTOPAUSE"
+msgid "When you are the only player in the world, this will pause the game while you are in the ingame menus, crafting, or viewing the cookbook or plant registry. If there are other players in the world, only the server admin will have permissions to pause the game."
+msgstr "如果你是唯一的玩家，当你在游戏菜单、制作、或查看食谱或植物登记表时，可以选择暂停游戏。如果还有其他玩家，只有服务器管理员才有权限暂停游戏。"
+
+#. UI.OPTIONS.TOOLTIPS.BACKPACKMODE
+msgctxt "UI.OPTIONS.TOOLTIPS.BACKPACKMODE"
+msgid "Change how the contents of the backpack are displayed. Integrated with the inventory bar or separated at the side of the screen."
+msgstr "改变背包内容的显示方式。可以与物品栏整合，或在屏幕边上分开。"
+
+#. UI.OPTIONS.TOOLTIPS.BLOOM
+msgctxt "UI.OPTIONS.TOOLTIPS.BLOOM"
+msgid "Increases the visual intensity of lights."
+msgstr "增加灯光的视觉强度。"
+
+#. UI.OPTIONS.TOOLTIPS.BOATCAMERA
+msgctxt "UI.OPTIONS.TOOLTIPS.BOATCAMERA"
+msgid "Allows the camera to focus on your boat while sailing."
+msgstr "允许视角在航行时对准你的船。"
+
+#. UI.OPTIONS.TOOLTIPS.CINEMATICS
+msgctxt "UI.OPTIONS.TOOLTIPS.CINEMATICS"
+msgid "Sit back and watch a video"
+msgstr "坐下观看一段视频"
+
+#. UI.OPTIONS.TOOLTIPS.CONSOLEAUTOPAUSE
+msgctxt "UI.OPTIONS.TOOLTIPS.CONSOLEAUTOPAUSE"
+msgid "Allows the server to auto-pause while the console screen is open."
+msgstr "允许服务器在控制台界面打开时自动暂停。"
+
+#. UI.OPTIONS.TOOLTIPS.CONTROLS
+msgctxt "UI.OPTIONS.TOOLTIPS.CONTROLS"
+msgid "Rebind which input does which in-game action"
+msgstr "重新绑定具体输入对应的游戏操作"
+
+#. UI.OPTIONS.TOOLTIPS.CONTROLS_CONSOLE
+msgctxt "UI.OPTIONS.TOOLTIPS.CONTROLS_CONSOLE"
+msgid "Check which control does which in-game action"
+msgstr "查看游戏中操作"
+
+#. UI.OPTIONS.TOOLTIPS.CRAFTINGAUTOPAUSE
+msgctxt "UI.OPTIONS.TOOLTIPS.CRAFTINGAUTOPAUSE"
+msgid "When you are the only player in the world, this will pause the game while the crafting menu is open."
+msgstr "如果你是唯一的玩家，可以选择在打开制作目录时暂停游戏。"
+
+#. UI.OPTIONS.TOOLTIPS.CRAFTINGHINTALLRECIPES
+msgctxt "UI.OPTIONS.TOOLTIPS.CRAFTINGHINTALLRECIPES"
+msgid "Preview the next available research tier or show all locked recipes."
+msgstr "预览下个可用的研究层级或显示所有锁定的配方。"
+
+#. UI.OPTIONS.TOOLTIPS.CRAFTINGMENUBUFFEREDBUILDAUTOCLOSE
+msgctxt "UI.OPTIONS.TOOLTIPS.CRAFTINGMENUBUFFEREDBUILDAUTOCLOSE"
+msgid "Closes the crafting menu when building a structure that is placed in the world."
+msgstr "在建造已经放置的建筑时，关闭制作目录。"
+
+#. UI.OPTIONS.TOOLTIPS.CRAFTINGMENUNUMPINPAGES
+msgctxt "UI.OPTIONS.TOOLTIPS.CRAFTINGMENUNUMPINPAGES"
+msgid "Set how many pages of pinned recipes you would like to cycle through."
+msgstr "设置你想切换几页固定的配方。"
+
+#. UI.OPTIONS.TOOLTIPS.CRAFTINGMENUSENSITIVITY
+msgctxt "UI.OPTIONS.TOOLTIPS.CRAFTINGMENUSENSITIVITY"
+msgid "Adjust the input sensitivity while navigating through the crafting menu."
+msgstr "调整浏览制作目录时的灵敏度。"
+
+#. UI.OPTIONS.TOOLTIPS.CRAFTINGMENUSIZE
+msgctxt "UI.OPTIONS.TOOLTIPS.CRAFTINGMENUSIZE"
+msgid "Customize the size of the crafting menu."
+msgstr "自定义制作目录的大小。"
+
+#. UI.OPTIONS.TOOLTIPS.DATACOLLECTION
+msgctxt "UI.OPTIONS.TOOLTIPS.DATACOLLECTION"
+msgid "We collect metrics and telemetry on Don't Starve Together, including how long and how often you play. This information helps us troubleshoot the game, provide rewards, and improve your experience. Refer to https://www.klei.com/privacy-policy for more information."
+msgstr "我们会收集《饥荒联机版》的一些游戏数据，包括你玩多长时间和多久玩一次。这些信息能帮助我们解决游戏的问题，提供游戏奖励，并改善游戏体验。 想了解更多信息，请查看 https://www.klei.com/privacy-policy。"
+
+#. UI.OPTIONS.TOOLTIPS.DEFAULTCLOUDSAVES
+msgctxt "UI.OPTIONS.TOOLTIPS.DEFAULTCLOUDSAVES"
+msgid "Chooses whether new saves will be stored in the cloud or not by default."
+msgstr "选择是否将新存档的默认存档方式设置为云存储。"
+
+#. UI.OPTIONS.TOOLTIPS.DISPLAY
+msgctxt "UI.OPTIONS.TOOLTIPS.DISPLAY"
+msgid "Got multiple screens? We've got you covered, choose where the game window goes when playing the game. (Fullscreen only)"
+msgstr "使用多个显示器吗？我们替你想好了，你可以选择游戏时用哪个显示器显示游戏窗口。(仅适用于全屏模式)"
+
+#. UI.OPTIONS.TOOLTIPS.DISPLAYAREA
+msgctxt "UI.OPTIONS.TOOLTIPS.DISPLAYAREA"
+msgid "Maximize the screen size on your display."
+msgstr "在显示器上最大化游戏屏幕。"
+
+#. UI.OPTIONS.TOOLTIPS.DISTORTION
+msgctxt "UI.OPTIONS.TOOLTIPS.DISTORTION"
+msgid "Allows you to turn off screen distortions in the game, especially notable during moments of insanity."
+msgstr "允许你关闭游戏中的屏幕失真，尤其适用于精神错乱的时刻。"
+
+#. UI.OPTIONS.TOOLTIPS.DYNAMIC_TREE_SHADOWS
+msgctxt "UI.OPTIONS.TOOLTIPS.DYNAMIC_TREE_SHADOWS"
+msgid "Renders the ground shadow while under a canopy."
+msgstr "渲染树冠在地面的影子。"
+
+#. UI.OPTIONS.TOOLTIPS.FULLSCREEN
+msgctxt "UI.OPTIONS.TOOLTIPS.FULLSCREEN"
+msgid "Fill your screen with Don't Starve Together."
+msgstr "用《饥荒联机版》填满你的显示屏。"
+
+#. UI.OPTIONS.TOOLTIPS.FX
+msgctxt "UI.OPTIONS.TOOLTIPS.FX"
+msgid "Change how loud things are in the world."
+msgstr "改变游戏世界的响度。"
+
+#. UI.OPTIONS.TOOLTIPS.GRAPHICS
+msgctxt "UI.OPTIONS.TOOLTIPS.GRAPHICS"
+msgid "Modify the graphics settings"
+msgstr "修改图像设置"
+
+#. UI.OPTIONS.TOOLTIPS.HUDSIZE
+msgctxt "UI.OPTIONS.TOOLTIPS.HUDSIZE"
+msgid "Customize the size of your Heads Up Display."
+msgstr "自定义抬头显示的大小。"
+
+#. UI.OPTIONS.TOOLTIPS.INPUT
+msgctxt "UI.OPTIONS.TOOLTIPS.INPUT"
+msgid "Controller or Keyboard? Play Don't Starve Together your way."
+msgstr "手柄还是键盘？怎么玩《饥荒联机版》由你定。"
+
+#. UI.OPTIONS.TOOLTIPS.INVENTORYSENSITIVITY
+msgctxt "UI.OPTIONS.TOOLTIPS.INVENTORYSENSITIVITY"
+msgid "Adjust the input sensitivity while navigating through the inventory."
+msgstr "调整浏览物品栏时的灵敏度。"
+
+#. UI.OPTIONS.TOOLTIPS.INVERTCAMERAROTATION
+msgctxt "UI.OPTIONS.TOOLTIPS.INVERTCAMERAROTATION"
+msgid "Flips the camera rotation direction."
+msgstr "调整镜头旋转方向。"
+
+#. UI.OPTIONS.TOOLTIPS.LANGUAGES
+msgctxt "UI.OPTIONS.TOOLTIPS.LANGUAGES"
+msgid "Select display language"
+msgstr "选择显示语言"
+
+#. UI.OPTIONS.TOOLTIPS.LOADING_TIPS
+msgctxt "UI.OPTIONS.TOOLTIPS.LOADING_TIPS"
+msgid "Learn more about the lore and the gameplay of Don't Starve while your world loads."
+msgstr "在加载世界时候了解更多《饥荒联机版》的背景故事和玩法。"
+
+#. UI.OPTIONS.TOOLTIPS.MORE
+msgctxt "UI.OPTIONS.TOOLTIPS.MORE"
+msgid "View additional options"
+msgstr "查看其他选项"
+
+#. UI.OPTIONS.TOOLTIPS.MOVEMENTPREDICTION
+msgctxt "UI.OPTIONS.TOOLTIPS.MOVEMENTPREDICTION"
+msgid "Allows the game to predict your movements to compensate for any possible lag."
+msgstr "允许游戏预测你的移动，并补偿因网络延迟引起的卡顿。"
+
+#. UI.OPTIONS.TOOLTIPS.MUSIC
+msgctxt "UI.OPTIONS.TOOLTIPS.MUSIC"
+msgid "Tone up or down the musical fanfare in your adventures."
+msgstr "调高或调低冒险中的背景音乐。"
+
+#. UI.OPTIONS.TOOLTIPS.NETBOOKMODE
+msgctxt "UI.OPTIONS.TOOLTIPS.NETBOOKMODE"
+msgid "Reduces the game's update frequency. (Only recommended for min-spec computers)"
+msgstr "降低游戏的更新频率。（仅推荐低配置电脑使用）"
+
+#. UI.OPTIONS.TOOLTIPS.REFRESHRATE
+msgctxt "UI.OPTIONS.TOOLTIPS.REFRESHRATE"
+msgid "Customize how many times per second the game screen refreshes. (Fullscreen only)"
+msgstr "自定义游戏屏幕每秒的刷新率。(仅全屏模式)"
+
+#. UI.OPTIONS.TOOLTIPS.RESOLUTION
+msgctxt "UI.OPTIONS.TOOLTIPS.RESOLUTION"
+msgid "Change the game screen resolution. (Fullscreen only)"
+msgstr "更改游戏屏幕的分辨率。(仅全屏模式)"
+
+#. UI.OPTIONS.TOOLTIPS.SCREENSHAKE
+msgctxt "UI.OPTIONS.TOOLTIPS.SCREENSHAKE"
+msgid "Keep your camera static or allow it to shake freely in moments of high intensity."
+msgstr "让视角保持静态，或允许在高强度时刻摇动视角。"
+
+#. UI.OPTIONS.TOOLTIPS.SCREEN_FLASH_INTENSITY
+msgctxt "UI.OPTIONS.TOOLTIPS.SCREEN_FLASH_INTENSITY"
+msgid "Control the intensity of screen flashes during explosions and lightning strikes."
+msgstr "控制爆炸和闪电发生时的游戏屏幕闪光的强度。"
+
+#. UI.OPTIONS.TOOLTIPS.SERVER_NAME_PROFANITY_CHAT_FILTER
+msgctxt "UI.OPTIONS.TOOLTIPS.SERVER_NAME_PROFANITY_CHAT_FILTER"
+msgid "Use Steam's chat filters. This can be configured in Steam's setting in the section In-Game under Chat Filtering."
+msgstr "使用Steam的聊天过滤功能。可以在游戏中的Steam设置选项中进行配置，选择聊天过滤。"
+
+#. UI.OPTIONS.TOOLTIPS.SERVER_NAME_PROFANITY_FILTER
+msgctxt "UI.OPTIONS.TOOLTIPS.SERVER_NAME_PROFANITY_FILTER"
+msgid "Filter out the profanity when browsing the server list. Filtered servers will have their names displayed as \"This server name has been filtered\" and can still be joined."
+msgstr "在浏览服务器列表时过滤名称中有脏话的服务器。被过滤的服务器会显示为“服务器名称已过滤”，你仍然可以加入服务器。"
+
+#. UI.OPTIONS.TOOLTIPS.SETTINGS
+msgctxt "UI.OPTIONS.TOOLTIPS.SETTINGS"
+msgid "Modify features of the game and user interface"
+msgstr "修改游戏功能和用户界面"
+
+#. UI.OPTIONS.TOOLTIPS.SHOWPASSWORD
+msgctxt "UI.OPTIONS.TOOLTIPS.SHOWPASSWORD"
+msgid "Show or hide your passwords."
+msgstr "显示或隐藏你的密码。"
+
+#. UI.OPTIONS.TOOLTIPS.SMALLTEXTURES
+msgctxt "UI.OPTIONS.TOOLTIPS.SMALLTEXTURES"
+msgid "Reduces texture quality for better performance. (Only recommended for min-spec computers)"
+msgstr "降低贴图质量，提高游戏性能。（仅推荐低配置电脑使用）"
+
+#. UI.OPTIONS.TOOLTIPS.TARGETLOCKING
+msgctxt "UI.OPTIONS.TOOLTIPS.TARGETLOCKING"
+msgid "Focus on one target at a time."
+msgstr "每次聚焦一个目标。"
+
+#. UI.OPTIONS.TOOLTIPS.TEXTURESTREAMING
+msgctxt "UI.OPTIONS.TOOLTIPS.TEXTURESTREAMING"
+msgid "Reduces the memory overhead for textures. Enabling this should improve performance."
+msgstr "减少贴图的内存开销。启用这个功能应该可以提高性能。"
+
+#. UI.OPTIONS.TOOLTIPS.THREADEDRENDER
+msgctxt "UI.OPTIONS.TOOLTIPS.THREADEDRENDER"
+msgid "Renders the game on a different core. Enabling this should improve performance."
+msgstr "在一个不同的核心上渲染游戏。启用这个功能应该可以提高性能。"
+
+#. UI.OPTIONS.TOOLTIPS.VIBRATION
+msgctxt "UI.OPTIONS.TOOLTIPS.VIBRATION"
+msgid "Make your controller rumble at key gameplay moments."
+msgstr "让你的手柄在游戏的关键时刻震动。"
+
+#. UI.OPTIONS.TOOLTIPS.WALTERCAMERA
+msgctxt "UI.OPTIONS.TOOLTIPS.WALTERCAMERA"
+msgid "Allows the camera to focus on Walter while he tells campfire stories."
+msgstr "在沃尔特讲篝火故事时，允许视角对准他。"
+
+#. UI.OPTIONS.TOOLTIPS.WATHGRITHRFONT
+msgctxt "UI.OPTIONS.TOOLTIPS.WATHGRITHRFONT"
+msgid "Replaces Wigfrid's o's with ö's when she speaks."
+msgstr "薇格弗德讲话时用ö代替英语中的o。"
+
+#. UI.OPTIONS.VIBRATION
+msgctxt "UI.OPTIONS.VIBRATION"
+msgid "Vibration:"
+msgstr "震动："
+
+#. UI.OPTIONS.VIDEO_CHANNEL
+msgctxt "UI.OPTIONS.VIDEO_CHANNEL"
+msgid "More Klei Videos"
+msgstr "更多科雷视频"
+
+#. UI.OPTIONS.WALTERCAMERA
+msgctxt "UI.OPTIONS.WALTERCAMERA"
+msgid "Campfire Camera:"
+msgstr "营火视角："
+
+#. UI.OPTIONS.WATHGRITHRFONT
+msgctxt "UI.OPTIONS.WATHGRITHRFONT"
+msgid "Wigfrid's Umlauts:"
+msgstr "薇格弗德字符："
+
+#. UI.OPTIONS.YES
+msgctxt "UI.OPTIONS.YES"
+msgid "Yes"
+msgstr "是"
+

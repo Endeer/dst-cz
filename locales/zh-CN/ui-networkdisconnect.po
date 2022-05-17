@@ -1,0 +1,650 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.NETWORKDISCONNECT.ACCOUNTS
+msgctxt "UI.NETWORKDISCONNECT.ACCOUNTS"
+msgid "Account Page"
+msgstr "科雷账户页面"
+
+#. UI.NETWORKDISCONNECT.BODY.APP_OWNERSHIP_CHECK_FAILED
+msgctxt "UI.NETWORKDISCONNECT.BODY.APP_OWNERSHIP_CHECK_FAILED"
+msgid "The server says you don't own the game. But you do... right?"
+msgstr "服务器判定你没有游戏的所属权。有没有搞错？"
+
+#. UI.NETWORKDISCONNECT.BODY.DEFAULT
+msgctxt "UI.NETWORKDISCONNECT.BODY.DEFAULT"
+msgid "You have been disconnected. We're not sure why... Sorry!"
+msgstr "你已经断开连接。我们不确定为什么……抱歉！"
+
+#. UI.NETWORKDISCONNECT.BODY.E_BANNED
+msgctxt "UI.NETWORKDISCONNECT.BODY.E_BANNED"
+msgid "Your account has been banned for violating the terms of use. Please visit accounts.klei.com to review this issue."
+msgstr "由于违反使用条款，你的账户已经被禁止。请访问 accounts.klei.com查看详情。"
+
+#. UI.NETWORKDISCONNECT.BODY.E_DELETED
+msgctxt "UI.NETWORKDISCONNECT.BODY.E_DELETED"
+msgid "Your account has been marked for deletion and cannot be used anymore."
+msgstr "你的账号已登记删除，将不能再使用。"
+
+#. UI.NETWORKDISCONNECT.BODY.E_UPGRADE
+msgctxt "UI.NETWORKDISCONNECT.BODY.E_UPGRADE"
+msgid "A new version is available.\nPlease update Don't Starve Together."
+msgstr "新版本可用。\n请更新《饥荒：联机版》。"
+
+#. UI.NETWORKDISCONNECT.BODY.FAILED_TO_AUTOJOIN_LAN
+msgctxt "UI.NETWORKDISCONNECT.BODY.FAILED_TO_AUTOJOIN_LAN"
+msgid "Unable to join a LAN server.\nAre you sure it exists?"
+msgstr "无法加入局域网服务器。\n 你确定它存在吗？"
+
+#. UI.NETWORKDISCONNECT.BODY.FORCE_DISCONNECTION
+msgctxt "UI.NETWORKDISCONNECT.BODY.FORCE_DISCONNECTION"
+msgid "The connection has been forcibly closed by the engine."
+msgstr "引擎已经强制关闭连接。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_ALREADY_CONNECTED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_ALREADY_CONNECTED"
+msgid "You are already connected to this server."
+msgstr "你已经连接到这个服务器。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_CONNECTION_ATTEMPT_FAILED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_CONNECTION_ATTEMPT_FAILED"
+msgid "The server is not responding. Please try again."
+msgstr "你的服务器无应答。请再次尝试。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_CONNECTION_BANNED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_CONNECTION_BANNED"
+msgid "You have been banned from this server."
+msgstr "你已经被这个服务器禁止。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_CONNECTION_LOST
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_CONNECTION_LOST"
+msgid "You have lost connection to the server."
+msgstr "你已经失去与服务器的连接。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DISCONNECTION_NOTIFICATION
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DISCONNECTION_NOTIFICATION"
+msgid "You have been disconnected from the server."
+msgstr "你已经断开与服务器的连接。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_DEDICATED_SERVER_STARTUP_FAILED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_DEDICATED_SERVER_STARTUP_FAILED"
+msgid "There was some sort of trouble starting the server. Please try again."
+msgstr "启动服务器有点问题。请再次尝试。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_DESTINATION_CONNECTION_ATTEMPT_FAILED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_DESTINATION_CONNECTION_ATTEMPT_FAILED"
+msgid "The destination server is not responding. Please try again."
+msgstr "目标地服务器无响应。请再次尝试。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_DESTINATION_SERVER_NOT_AVAILABLE
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_DESTINATION_SERVER_NOT_AVAILABLE"
+msgid "The server you were playing on is unavailable. Please try again later."
+msgstr "你正在使用的服务器不可用。请稍后再次尝试。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_FRIENDS_ONLY_SERVER
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_FRIENDS_ONLY_SERVER"
+msgid "Attempted to join a \"friends only\" server, but you're not friends with the host."
+msgstr "尝试加入\"仅好友\"服务器但是你不是主机的好友。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_GAME_SESSION_AUTH_FAILED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_GAME_SESSION_AUTH_FAILED"
+msgid "Authentication failed. Please try again."
+msgstr "授权失败。请再次尝试。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_IDLE_TIMEOUT
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_IDLE_TIMEOUT"
+msgid "You have lost connection to the server."
+msgstr "你已经失去与服务器的连接。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_INCOMING_CONNECTIONS_DISABLED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_INCOMING_CONNECTIONS_DISABLED"
+msgid "The server is not accepting new connections temporarily. Please wait a moment and try again."
+msgstr "服务器暂时不接受新的连接。请稍等一会儿再次尝试。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_INCOMPATIBLE_PROTOCOL_VERSION
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_INCOMPATIBLE_PROTOCOL_VERSION"
+msgid "The server has a different version than you do. Please check that your game version is up-to-date."
+msgstr "这个服务器的版本和你的不一样。请检查你的游戏版本是否是最新的。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_INITIALIZATION_FAILED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_INITIALIZATION_FAILED"
+msgid "Networking did not initialize properly. Please try again."
+msgstr "联网初始化不当。请再次尝试。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_LOGGED_IN_SOMEWHERE_ELSE
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_LOGGED_IN_SOMEWHERE_ELSE"
+msgid "This account has been logged in from another location."
+msgstr "这个账户已经从另一个地方登录。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_NETWORK_CONNECTION_LOST
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_NETWORK_CONNECTION_LOST"
+msgid "Check your connection and try again."
+msgstr "检查您的连接并再次尝试。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_NOT_ACCEPTING_NEW_PLAYERS
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_NOT_ACCEPTING_NEW_PLAYERS"
+msgid "The server is not accepting new players."
+msgstr "服务器现在不接受新玩家。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_NO_FREE_PLAYER_SLOTS
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_NO_FREE_PLAYER_SLOTS"
+msgid "The server is full."
+msgstr "服务器已满。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_SAVE_FILE_DAMAGED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_SAVE_FILE_DAMAGED"
+msgid "Your world is damaged and cannot be loaded."
+msgstr "你的世界遭到破坏，无法加载。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_SERVER_IS_CLAN_ONLY
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_SERVER_IS_CLAN_ONLY"
+msgid "You must be a member of this server's Steam Group to connect."
+msgstr "你必须是这个服务器的\"Steam 小组\"成员才能连接。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_SERVER_IS_LAN_ONLY
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_SERVER_IS_LAN_ONLY"
+msgid "This server only allows players from their same local network."
+msgstr "这个服务器仅允许在相同局域网的玩家连接。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_SLOT_RESERVATION
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_SLOT_RESERVATION"
+msgid "Attempt to join server failed because remaining player slots are reserved. Please try again once a slot frees up."
+msgstr "尝试加入服务器失败，因为其余玩家存档栏已被保留。当存档栏空出来之后，请再次尝试。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_STEAM_NET_CONNECTION_TIMEOUT
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_STEAM_NET_CONNECTION_TIMEOUT"
+msgid "You have lost connection to the server."
+msgstr "你已经失去与服务器的连接。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_USER_BANNED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_USER_BANNED"
+msgid "You have been banned from this server."
+msgstr "你已经被这个服务器禁止。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_USER_CONNECTION_FAILED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_USER_CONNECTION_FAILED"
+msgid "Something went awry while connecting. Please try again."
+msgstr "连接出错。请再次尝试。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_USER_KICKED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_USER_KICKED"
+msgid "You have been kicked from this server."
+msgstr "你被踢出了这个服务器。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_INCOMPATIBLE_PROTOCOL_VERSION
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_INCOMPATIBLE_PROTOCOL_VERSION"
+msgid "The server has a different version than you do. Please check that your game version is up-to-date."
+msgstr "这个服务器的版本和你的不一样。请检查你的游戏版本是否是最新的。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_INVALID_PASSWORD
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_INVALID_PASSWORD"
+msgid "Whoops! The password you entered was incorrect."
+msgstr "哎呀！你输入的密码有误。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_NAT_CONNECTION_TO_TARGET_LOST
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_NAT_CONNECTION_TO_TARGET_LOST"
+msgid "Unable to connect to the server."
+msgstr "无法连接服务器。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_NAT_PUNCHTHROUGH_FAILED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_NAT_PUNCHTHROUGH_FAILED"
+msgid "Unable to connect to the server."
+msgstr "无法连接服务器。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_NAT_TARGET_NOT_CONNECTED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_NAT_TARGET_NOT_CONNECTED"
+msgid "Unable to connect to the server."
+msgstr "无法连接服务器。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_NAT_TARGET_UNRESPONSIVE
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_NAT_TARGET_UNRESPONSIVE"
+msgid "Unable to connect to the server."
+msgstr "无法连接服务器。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_NO_FREE_INCOMING_CONNECTIONS
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_NO_FREE_INCOMING_CONNECTIONS"
+msgid "The server is full."
+msgstr "服务器已满。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_INGAME_PLAYER1_SIGNED_OUT_OF_PSN
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_INGAME_PLAYER1_SIGNED_OUT_OF_PSN"
+msgid "Player 1 has signed out of PlayStation™Network in the middle of a game!"
+msgstr "玩家1在游戏中途离开了 PlayStation™ Network！"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_INGAME_PLAYER2_SIGNED_OUT_OF_PS4
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_INGAME_PLAYER2_SIGNED_OUT_OF_PS4"
+msgid "Your split-screen partner logged out in the middle of a game!"
+msgstr "您的分区屏幕伙伴在游戏中退出了！"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_INGAME_PLAYER2_SIGNED_OUT_OF_PSN
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_INGAME_PLAYER2_SIGNED_OUT_OF_PSN"
+msgid "Player 2 has signed out of PlayStation™Network in the middle of a game!"
+msgstr "玩家2在游戏中途离开了 PlayStation™ Network！"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_UI_PLAYER1_SIGNED_OUT_OF_PSN
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_UI_PLAYER1_SIGNED_OUT_OF_PSN"
+msgid "You have signed out of PlayStation™Network. Now we have to set everything back up again..."
+msgstr "你离开了 PlayStation™ Network。现在我们不得不重新进行各种设置..."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_UI_PLAYER2_SIGNED_OUT_OF_PS4
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_UI_PLAYER2_SIGNED_OUT_OF_PS4"
+msgid "Your split-screen partner logged out. Return to the main menu to find another."
+msgstr "您的分区屏幕伙伴已经退出。返回主菜单寻找新的伙伴。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_UI_PLAYER2_SIGNED_OUT_OF_PSN
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_UI_PLAYER2_SIGNED_OUT_OF_PSN"
+msgid "Your split-screen partner signed out. Return to the main menu to find another."
+msgstr "您的分区伙伴已经离开。返回主菜单寻找新的伙伴。"
+
+#. UI.NETWORKDISCONNECT.BODY.INVALID_CLIENT_TOKEN
+msgctxt "UI.NETWORKDISCONNECT.BODY.INVALID_CLIENT_TOKEN"
+msgid "A token error occurred. Please try again."
+msgstr "发生令牌错误。请再次尝试。"
+
+#. UI.NETWORKDISCONNECT.BODY.INVALID_GAME_SESSION_TOKEN
+msgctxt "UI.NETWORKDISCONNECT.BODY.INVALID_GAME_SESSION_TOKEN"
+msgid "Unable to reach the Klei server. Please try again."
+msgstr "无法到达 科雷服务器。请再次尝试。"
+
+#. UI.NETWORKDISCONNECT.BODY.PLATFORM_MISMATCH
+msgctxt "UI.NETWORKDISCONNECT.BODY.PLATFORM_MISMATCH"
+msgid "This server is incompatible with your version. Please try another server."
+msgstr "此服务器与您的版本不兼容。请尝试另一台服务器。"
+
+#. UI.NETWORKDISCONNECT.BODY.SERVER_MODS_NOT_ON_WORKSHOP
+msgctxt "UI.NETWORKDISCONNECT.BODY.SERVER_MODS_NOT_ON_WORKSHOP"
+msgid "This server requires mods that are not available on the Steam Workshop. You will need to manually download the missing mods."
+msgstr "这个服务器需要Steam 创意工坊不可用的模组。你需要手动下载缺失的模组。"
+
+#. UI.NETWORKDISCONNECT.BODY.SERVER_MODS_NOT_ON_WORKSHOP_RAIL
+msgctxt "UI.NETWORKDISCONNECT.BODY.SERVER_MODS_NOT_ON_WORKSHOP_RAIL"
+msgid "This server requires mods that are not available. You will need to manually download the missing mods."
+msgstr "这个服务器需要的模组并不在WeGame创客空间中，你必须手动下载缺失的模组。"
+
+#. UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_ACCESS_DENIED
+msgctxt "UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_ACCESS_DENIED"
+msgid "Download of the required mods from the Steam Workshop failed because one or more mods is not visible to you."
+msgstr "从Steam 创意工坊下载所需模组失败，因为有一个或多个模组对你不可见。"
+
+#. UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_ACCESS_DENIED_RAIL
+msgctxt "UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_ACCESS_DENIED_RAIL"
+msgid "Download of the required mods failed because one or more mods is not visible to you."
+msgstr "因单个或复数的模组在你的游戏中不可视而造成下载失败。"
+
+#. UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_FAILURE
+msgctxt "UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_FAILURE"
+msgid "Download of the required mods from the Steam Workshop failed. Please try again."
+msgstr "从Steam 创意工坊下载所需模组失败。请再次尝试。"
+
+#. UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_FAILURE_RAIL
+msgctxt "UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_FAILURE_RAIL"
+msgid "Download of the required mods failed. Please try again."
+msgstr "必要模组下载失败。请重新尝试。"
+
+#. UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_VERSION_MISMATCH
+msgctxt "UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_VERSION_MISMATCH"
+msgid "The server is running mods with an old version. The server owner must update the mods for new players to join."
+msgstr "服务器正在运行旧版本模组。服务器所有者必须更新模组，才能让新的玩家加入。"
+
+#. UI.NETWORKDISCONNECT.BODY.VERSION_HANDSHAKE_FAILED
+msgctxt "UI.NETWORKDISCONNECT.BODY.VERSION_HANDSHAKE_FAILED"
+msgid "The server is on a different version than you. Please check that your game version is up-to-date."
+msgstr "服务器的版本与你的不同。请检查你的游戏版本是否是最新的。"
+
+#. UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_ARNBETA
+msgctxt "UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_ARNBETA"
+msgid "The server is running the A New Reign Beta version. You'll need to opt into the beta to play on this server."
+msgstr "服务器正在运行《新王朝》测试版。\n您将需要选择测试版才能在此服务器上运行游戏。"
+
+#. UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_OLD_CLIENT
+msgctxt "UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_OLD_CLIENT"
+msgid "This server is on a newer version than you. Please download the latest update to connect."
+msgstr "这个服务器的版本比你的更新。请下载最新更新进行连接。"
+
+#. UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_OLD_SERVER
+msgctxt "UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_OLD_SERVER"
+msgid "This server is on an older version than you."
+msgstr "这个服务器使用了旧版本的游戏。"
+
+#. UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_PUBLIC_BETA
+msgctxt "UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_PUBLIC_BETA"
+msgid "The server is running a public beta world. You'll need to opt into the beta to play on this server."
+msgstr "服务器正在运行一个公测版本的世界。您将需要选择测试版才能在此服务器上运行游戏。"
+
+#. UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_ROTBETA
+msgctxt "UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_ROTBETA"
+msgid "The server is running the Return of Them Beta version. You'll need to opt into the beta to play on this server."
+msgstr "服务器正在运行《旧神归来》测试版。\n您将需要选择测试版才能在此服务器上运行游戏。"
+
+#. UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_UPDATEBETA
+msgctxt "UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_UPDATEBETA"
+msgid "The server is running the Beta Branch version. You'll need to opt into the beta to play on this server."
+msgstr "该服务器正在运行测试分支版本。你需要选择进入测试版才能在这个服务器上玩。"
+
+#. UI.NETWORKDISCONNECT.OK
+msgctxt "UI.NETWORKDISCONNECT.OK"
+msgid "OK"
+msgstr "好的"
+
+#. UI.NETWORKDISCONNECT.TITLE.APP_OWNERSHIP_CHECK_FAILED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.APP_OWNERSHIP_CHECK_FAILED"
+msgid "Game Ownership Check Failed"
+msgstr "游戏的所有权检查失败"
+
+#. UI.NETWORKDISCONNECT.TITLE.DEFAULT
+msgctxt "UI.NETWORKDISCONNECT.TITLE.DEFAULT"
+msgid "Disconnected"
+msgstr "已断开连接"
+
+#. UI.NETWORKDISCONNECT.TITLE.E_BANNED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.E_BANNED"
+msgid "Account Banned"
+msgstr "账号被禁用"
+
+#. UI.NETWORKDISCONNECT.TITLE.E_DELETED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.E_DELETED"
+msgid "Account Deleted"
+msgstr "账号已删除"
+
+#. UI.NETWORKDISCONNECT.TITLE.E_UPGRADE
+msgctxt "UI.NETWORKDISCONNECT.TITLE.E_UPGRADE"
+msgid "Version Out of Date"
+msgstr "版本过期"
+
+#. UI.NETWORKDISCONNECT.TITLE.FAILED_TO_AUTOJOIN_LAN
+msgctxt "UI.NETWORKDISCONNECT.TITLE.FAILED_TO_AUTOJOIN_LAN"
+msgid "LAN Join Failed"
+msgstr "无法加入局域网"
+
+#. UI.NETWORKDISCONNECT.TITLE.FORCE_DISCONNECTION
+msgctxt "UI.NETWORKDISCONNECT.TITLE.FORCE_DISCONNECTION"
+msgid "Force Disconnection"
+msgstr "强制断开连接"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_ALREADY_CONNECTED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_ALREADY_CONNECTED"
+msgid "Duplicate Connection"
+msgstr "重复连接"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_CONNECTION_ATTEMPT_FAILED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_CONNECTION_ATTEMPT_FAILED"
+msgid "Server Not Responding"
+msgstr "服务器未响应"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_CONNECTION_BANNED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_CONNECTION_BANNED"
+msgid "Banned"
+msgstr "被禁止"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_CONNECTION_LOST
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_CONNECTION_LOST"
+msgid "Disconnected"
+msgstr "已断开连接"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DISCONNECTION_NOTIFICATION
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DISCONNECTION_NOTIFICATION"
+msgid "Disconnected"
+msgstr "已断开连接"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_DEDICATED_SERVER_STARTUP_FAILED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_DEDICATED_SERVER_STARTUP_FAILED"
+msgid "Dedicated Server Failed To Start"
+msgstr "专用服务器无法启动"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_DESTINATION_CONNECTION_ATTEMPT_FAILED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_DESTINATION_CONNECTION_ATTEMPT_FAILED"
+msgid "Destination Not Responding"
+msgstr "目标无响应"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_DESTINATION_SERVER_NOT_AVAILABLE
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_DESTINATION_SERVER_NOT_AVAILABLE"
+msgid "Server not available"
+msgstr "服务器不可用"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_FRIENDS_ONLY_SERVER
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_FRIENDS_ONLY_SERVER"
+msgid "Friends Only"
+msgstr "仅限朋友"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_GAME_SESSION_AUTH_FAILED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_GAME_SESSION_AUTH_FAILED"
+msgid "Authentication Failed"
+msgstr "验证失败"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_IDLE_TIMEOUT
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_IDLE_TIMEOUT"
+msgid "Disconnected"
+msgstr "已断开连接"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_INCOMING_CONNECTIONS_DISABLED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_INCOMING_CONNECTIONS_DISABLED"
+msgid "Failed To Connect"
+msgstr "无法连接"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_INCOMPATIBLE_PROTOCOL_VERSION
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_INCOMPATIBLE_PROTOCOL_VERSION"
+msgid "Version Mismatch"
+msgstr "版本不匹配"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_INITIALIZATION_FAILED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_INITIALIZATION_FAILED"
+msgid "Networking Failed To Start"
+msgstr "网络无法启动"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_LOGGED_IN_SOMEWHERE_ELSE
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_LOGGED_IN_SOMEWHERE_ELSE"
+msgid "Duplicate Login"
+msgstr "重复登录"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_NETWORK_CONNECTION_LOST
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_NETWORK_CONNECTION_LOST"
+msgid "Network Connection Lost"
+msgstr "失去网络连接"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_NOT_ACCEPTING_NEW_PLAYERS
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_NOT_ACCEPTING_NEW_PLAYERS"
+msgid "Disconnected"
+msgstr "已断开连接"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_NO_FREE_PLAYER_SLOTS
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_NO_FREE_PLAYER_SLOTS"
+msgid "Server Full"
+msgstr "服务器已满"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_SAVE_FILE_DAMAGED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_SAVE_FILE_DAMAGED"
+msgid "Load failed"
+msgstr "加载失败"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_SERVER_IS_CLAN_ONLY
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_SERVER_IS_CLAN_ONLY"
+msgid "Not a member of the server's clan"
+msgstr "不是服务器群组的成员。"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_SERVER_IS_LAN_ONLY
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_SERVER_IS_LAN_ONLY"
+msgid "Local Connection Server Only"
+msgstr "仅适用本地连接服务器"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_SERVER_STARTUP_FAILED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_SERVER_STARTUP_FAILED"
+msgid "Server Failed To Start"
+msgstr "服务器无法启动"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_SLOT_RESERVATION
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_SLOT_RESERVATION"
+msgid "Slot Reserved"
+msgstr "保留存档栏"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_STEAM_NET_CONNECTION_TIMEOUT
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_STEAM_NET_CONNECTION_TIMEOUT"
+msgid "Disconnected"
+msgstr "已断开连接"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_USER_BANNED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_USER_BANNED"
+msgid "Banned"
+msgstr "被禁止"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_USER_CONNECTION_FAILED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_USER_CONNECTION_FAILED"
+msgid "Connection Failed"
+msgstr "连接失败"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_USER_KICKED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_USER_KICKED"
+msgid "Kicked"
+msgstr "被踢出"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_INCOMPATIBLE_PROTOCOL_VERSION
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_INCOMPATIBLE_PROTOCOL_VERSION"
+msgid "Version Mismatch"
+msgstr "版本不匹配"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_INVALID_PASSWORD
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_INVALID_PASSWORD"
+msgid "Bad Password"
+msgstr "密码错误"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_NAT_CONNECTION_TO_TARGET_LOST
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_NAT_CONNECTION_TO_TARGET_LOST"
+msgid "Could Not Connect"
+msgstr "无法连接"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_NAT_PUNCHTHROUGH_FAILED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_NAT_PUNCHTHROUGH_FAILED"
+msgid "Could Not Connect"
+msgstr "无法连接"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_NAT_TARGET_NOT_CONNECTED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_NAT_TARGET_NOT_CONNECTED"
+msgid "Could Not Connect"
+msgstr "无法连接"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_NAT_TARGET_UNRESPONSIVE
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_NAT_TARGET_UNRESPONSIVE"
+msgid "Could Not Connect"
+msgstr "无法连接"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_NO_FREE_INCOMING_CONNECTIONS
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_NO_FREE_INCOMING_CONNECTIONS"
+msgid "Server Full"
+msgstr "服务器已满"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_INGAME_PLAYER1_SIGNED_OUT_OF_PSN
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_INGAME_PLAYER1_SIGNED_OUT_OF_PSN"
+msgid "Player 1 Signed Out"
+msgstr "玩家 1 离开"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_INGAME_PLAYER2_SIGNED_OUT_OF_PS4
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_INGAME_PLAYER2_SIGNED_OUT_OF_PS4"
+msgid "Player 2 Logged Out"
+msgstr "玩家 2 退出"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_INGAME_PLAYER2_SIGNED_OUT_OF_PSN
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_INGAME_PLAYER2_SIGNED_OUT_OF_PSN"
+msgid "Player 2 Signed Out"
+msgstr "玩家 2 离开"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_UI_PLAYER1_SIGNED_OUT_OF_PSN
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_UI_PLAYER1_SIGNED_OUT_OF_PSN"
+msgid "Player 1 Signed Out"
+msgstr "玩家 1 离开"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_UI_PLAYER2_SIGNED_OUT_OF_PS4
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_UI_PLAYER2_SIGNED_OUT_OF_PS4"
+msgid "Player 2 Logged Out"
+msgstr "玩家 2 退出"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_UI_PLAYER2_SIGNED_OUT_OF_PSN
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_UI_PLAYER2_SIGNED_OUT_OF_PSN"
+msgid "Player 2 Signed Out"
+msgstr "玩家 2 离开"
+
+#. UI.NETWORKDISCONNECT.TITLE.INVALID_CLIENT_TOKEN
+msgctxt "UI.NETWORKDISCONNECT.TITLE.INVALID_CLIENT_TOKEN"
+msgid "Invalid Client Token"
+msgstr "无效的客户令牌"
+
+#. UI.NETWORKDISCONNECT.TITLE.INVALID_GAME_SESSION_TOKEN
+msgctxt "UI.NETWORKDISCONNECT.TITLE.INVALID_GAME_SESSION_TOKEN"
+msgid "Could Not Connect"
+msgstr "无法连接"
+
+#. UI.NETWORKDISCONNECT.TITLE.PLATFORM_MISMATCH
+msgctxt "UI.NETWORKDISCONNECT.TITLE.PLATFORM_MISMATCH"
+msgid "Version Mismatch"
+msgstr "版本不匹配"
+
+#. UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_NOT_ON_WORKSHOP
+msgctxt "UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_NOT_ON_WORKSHOP"
+msgid "Disconnected Due To Missing Mods"
+msgstr "因模组丢失断开连接"
+
+#. UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_NOT_ON_WORKSHOP_RAIL
+msgctxt "UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_NOT_ON_WORKSHOP_RAIL"
+msgid "Disconnected Due To Missing Mods"
+msgstr "因模组丢失断开连接"
+
+#. UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_ACCESS_DENIED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_ACCESS_DENIED"
+msgid "Disconnected Due To Missing Mods"
+msgstr "因模组丢失断开连接"
+
+#. UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_ACCESS_DENIED_RAIL
+msgctxt "UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_ACCESS_DENIED_RAIL"
+msgid "Disconnected Due To Missing Mods"
+msgstr "因模组丢失断开连接"
+
+#. UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_FAILURE
+msgctxt "UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_FAILURE"
+msgid "Disconnected Due To Missing Mods"
+msgstr "因模组丢失断开连接"
+
+#. UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_FAILURE_RAIL
+msgctxt "UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_FAILURE_RAIL"
+msgid "Disconnected Due To Missing Mods"
+msgstr "因模组丢失断开连接"
+
+#. UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_VERSION_MISMATCH
+msgctxt "UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_VERSION_MISMATCH"
+msgid "Disconnected Due To Missing Mods"
+msgstr "因模组丢失断开连接"
+
+#. UI.NETWORKDISCONNECT.TITLE.VERSION_HANDSHAKE_FAILED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.VERSION_HANDSHAKE_FAILED"
+msgid "Version Mismatch"
+msgstr "版本不匹配"
+
+#. UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_ARNBETA
+msgctxt "UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_ARNBETA"
+msgid "A New Reign Beta"
+msgstr "《新王朝》测试版"
+
+#. UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_OLD_CLIENT
+msgctxt "UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_OLD_CLIENT"
+msgid "Version Mismatch"
+msgstr "版本不匹配"
+
+#. UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_OLD_SERVER
+msgctxt "UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_OLD_SERVER"
+msgid "Version Mismatch"
+msgstr "版本不匹配"
+
+#. UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_PUBLIC_BETA
+msgctxt "UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_PUBLIC_BETA"
+msgid "Public Beta Server"
+msgstr "公测版服务器"
+
+#. UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_ROTBETA
+msgctxt "UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_ROTBETA"
+msgid "Return of Them Beta"
+msgstr "《旧神归来》测试版"
+
+#. UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_UPDATEBETA
+msgctxt "UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_UPDATEBETA"
+msgid "Beta Branch"
+msgstr "测试分支"
+

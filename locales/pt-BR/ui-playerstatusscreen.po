@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.PLAYERSTATUSSCREEN.ADMIN
+msgctxt "UI.PLAYERSTATUSSCREEN.ADMIN"
+msgid "Admin"
+msgstr "Administrador"
+
+#. UI.PLAYERSTATUSSCREEN.AFK
+msgctxt "UI.PLAYERSTATUSSCREEN.AFK"
+msgid "Away"
+msgstr "Ausente"
+
+#. UI.PLAYERSTATUSSCREEN.AGE_DAY
+msgctxt "UI.PLAYERSTATUSSCREEN.AGE_DAY"
+msgid " Day"
+msgstr " Dia"
+
+#. UI.PLAYERSTATUSSCREEN.AGE_DAYS
+msgctxt "UI.PLAYERSTATUSSCREEN.AGE_DAYS"
+msgid " Days"
+msgstr " Dias"
+
+#. UI.PLAYERSTATUSSCREEN.AGE_PREFIX
+msgctxt "UI.PLAYERSTATUSSCREEN.AGE_PREFIX"
+msgid "Day "
+msgstr "Dia "
+
+#. UI.PLAYERSTATUSSCREEN.BAN
+msgctxt "UI.PLAYERSTATUSSCREEN.BAN"
+msgid "Ban"
+msgstr "Banir"
+
+#. UI.PLAYERSTATUSSCREEN.BANCONFIRM_BODY
+msgctxt "UI.PLAYERSTATUSSCREEN.BANCONFIRM_BODY"
+msgid "Are you sure you want to ban and kick"
+msgstr "Tem certeza que deseja expulsar e banir?"
+
+#. UI.PLAYERSTATUSSCREEN.BANCONFIRM_TITLE
+msgctxt "UI.PLAYERSTATUSSCREEN.BANCONFIRM_TITLE"
+msgid "Ban"
+msgstr "Banir"
+
+#. UI.PLAYERSTATUSSCREEN.CANCEL
+msgctxt "UI.PLAYERSTATUSSCREEN.CANCEL"
+msgid "Cancel"
+msgstr "Cancelar"
+
+#. UI.PLAYERSTATUSSCREEN.CLEAR
+msgctxt "UI.PLAYERSTATUSSCREEN.CLEAR"
+msgid "Remove Player"
+msgstr "Remover jogador"
+
+#. UI.PLAYERSTATUSSCREEN.COMMANDCANNOTSTART.COOLDOWN
+msgctxt "UI.PLAYERSTATUSSCREEN.COMMANDCANNOTSTART.COOLDOWN"
+msgid "You cannot use this command again yet."
+msgstr "Você não pode usar esse comando novamente ainda."
+
+#. UI.PLAYERSTATUSSCREEN.EMPTY_SERVER
+msgctxt "UI.PLAYERSTATUSSCREEN.EMPTY_SERVER"
+msgid "The server is empty."
+msgstr "O servidor está vazio."
+
+#. UI.PLAYERSTATUSSCREEN.ENDLESS
+msgctxt "UI.PLAYERSTATUSSCREEN.ENDLESS"
+msgid "Endless"
+msgstr "Infinito"
+
+#. UI.PLAYERSTATUSSCREEN.KICK
+msgctxt "UI.PLAYERSTATUSSCREEN.KICK"
+msgid "Kick"
+msgstr "Expulsar"
+
+#. UI.PLAYERSTATUSSCREEN.KICKCONFIRM_BODY
+msgctxt "UI.PLAYERSTATUSSCREEN.KICKCONFIRM_BODY"
+msgid "Are you sure you want to kick"
+msgstr "Tem certeza que deseja expulsar"
+
+#. UI.PLAYERSTATUSSCREEN.KICKCONFIRM_TITLE
+msgctxt "UI.PLAYERSTATUSSCREEN.KICKCONFIRM_TITLE"
+msgid "Kick"
+msgstr "Expulsar"
+
+#. UI.PLAYERSTATUSSCREEN.LAVAARENA_SERVER_MODE
+msgctxt "UI.PLAYERSTATUSSCREEN.LAVAARENA_SERVER_MODE"
+msgid "{mode} - Round {num}"
+msgstr "{mode} - Round {num}"
+
+#. UI.PLAYERSTATUSSCREEN.LOBBY_PERF_LEVELS.1
+msgctxt "UI.PLAYERSTATUSSCREEN.LOBBY_PERF_LEVELS.1"
+msgid "Connection: Good"
+msgstr "Conexão: Boa"
+
+#. UI.PLAYERSTATUSSCREEN.LOBBY_PERF_LEVELS.2
+msgctxt "UI.PLAYERSTATUSSCREEN.LOBBY_PERF_LEVELS.2"
+msgid "Connection: Okay"
+msgstr "Conexão: OK"
+
+#. UI.PLAYERSTATUSSCREEN.LOBBY_PERF_LEVELS.3
+msgctxt "UI.PLAYERSTATUSSCREEN.LOBBY_PERF_LEVELS.3"
+msgid "Connection: Bad"
+msgstr "Conexão: Ruim"
+
+#. UI.PLAYERSTATUSSCREEN.MODSLISTPRE
+msgctxt "UI.PLAYERSTATUSSCREEN.MODSLISTPRE"
+msgid "Mods:"
+msgstr "Mods:"
+
+#. UI.PLAYERSTATUSSCREEN.MUTE
+msgctxt "UI.PLAYERSTATUSSCREEN.MUTE"
+msgid "Mute"
+msgstr "Mudo"
+
+#. UI.PLAYERSTATUSSCREEN.OK
+msgctxt "UI.PLAYERSTATUSSCREEN.OK"
+msgid "Do it!"
+msgstr "Partiu!"
+
+#. UI.PLAYERSTATUSSCREEN.PERF_CLIENT_LEVELS.1
+msgctxt "UI.PLAYERSTATUSSCREEN.PERF_CLIENT_LEVELS.1"
+msgid "Client Performance: Good"
+msgstr "Desempenho do cliente: Bom"
+
+#. UI.PLAYERSTATUSSCREEN.PERF_CLIENT_LEVELS.2
+msgctxt "UI.PLAYERSTATUSSCREEN.PERF_CLIENT_LEVELS.2"
+msgid "Client Performance: Okay"
+msgstr "Desempenho do cliente: Aceitável"
+
+#. UI.PLAYERSTATUSSCREEN.PERF_CLIENT_LEVELS.3
+msgctxt "UI.PLAYERSTATUSSCREEN.PERF_CLIENT_LEVELS.3"
+msgid "Client Performance: Bad"
+msgstr "Desempenho do cliente: Ruim"
+
+#. UI.PLAYERSTATUSSCREEN.PERF_CLIENT_LEVEL_UNKNOWN
+msgctxt "UI.PLAYERSTATUSSCREEN.PERF_CLIENT_LEVEL_UNKNOWN"
+msgid "Client Performance: Unknown"
+msgstr "Desempenho do cliente: Desconhecido"
+
+#. UI.PLAYERSTATUSSCREEN.PERF_HOST_LEVELS.1
+msgctxt "UI.PLAYERSTATUSSCREEN.PERF_HOST_LEVELS.1"
+msgid "Host Performance: Good"
+msgstr "Desempenho do host: Bom"
+
+#. UI.PLAYERSTATUSSCREEN.PERF_HOST_LEVELS.2
+msgctxt "UI.PLAYERSTATUSSCREEN.PERF_HOST_LEVELS.2"
+msgid "Host Performance: Okay"
+msgstr "Desempenho do host: Aceitável"
+
+#. UI.PLAYERSTATUSSCREEN.PERF_HOST_LEVELS.3
+msgctxt "UI.PLAYERSTATUSSCREEN.PERF_HOST_LEVELS.3"
+msgid "Host Performance: Bad"
+msgstr "Desempenho do host: Ruim"
+
+#. UI.PLAYERSTATUSSCREEN.SURVIVAL
+msgctxt "UI.PLAYERSTATUSSCREEN.SURVIVAL"
+msgid "Survival"
+msgstr "Sobrevivência"
+
+#. UI.PLAYERSTATUSSCREEN.UNMUTE
+msgctxt "UI.PLAYERSTATUSSCREEN.UNMUTE"
+msgid "Unmute"
+msgstr "Cancelar mudo"
+
+#. UI.PLAYERSTATUSSCREEN.USERACTIONS
+msgctxt "UI.PLAYERSTATUSSCREEN.USERACTIONS"
+msgid "More Actions..."
+msgstr "Mais ações..."
+
+#. UI.PLAYERSTATUSSCREEN.VIEWGAMERCARD
+msgctxt "UI.PLAYERSTATUSSCREEN.VIEWGAMERCARD"
+msgid "Show Gamercard"
+msgstr "Mostrar Gamercard"
+
+#. UI.PLAYERSTATUSSCREEN.VIEWPROFILE
+msgctxt "UI.PLAYERSTATUSSCREEN.VIEWPROFILE"
+msgid "View Player"
+msgstr "Exibir jogador"
+
+#. UI.PLAYERSTATUSSCREEN.VOTEACTIVEHOVER
+msgctxt "UI.PLAYERSTATUSSCREEN.VOTEACTIVEHOVER"
+msgid "Vote In Progress"
+msgstr "Votação em andamento"
+
+#. UI.PLAYERSTATUSSCREEN.VOTECANNOTSTART.MINPLAYERS
+msgctxt "UI.PLAYERSTATUSSCREEN.VOTECANNOTSTART.MINPLAYERS"
+msgid "Not enough players to start a vote."
+msgstr "Não há jogadores suficientes para iniciar uma votação."
+
+#. UI.PLAYERSTATUSSCREEN.VOTECANNOTSTART.MINSTARTAGE
+msgctxt "UI.PLAYERSTATUSSCREEN.VOTECANNOTSTART.MINSTARTAGE"
+msgid "You have not played long enough to start a vote."
+msgstr "Você não jogou tempo suficiente para começar uma votação."
+
+#. UI.PLAYERSTATUSSCREEN.VOTEHOVERFMT
+msgctxt "UI.PLAYERSTATUSSCREEN.VOTEHOVERFMT"
+msgid "Vote to %s"
+msgstr "Votar por %s"
+
+#. UI.PLAYERSTATUSSCREEN.VOTESQUELCHEDHOVER
+msgctxt "UI.PLAYERSTATUSSCREEN.VOTESQUELCHEDHOVER"
+msgid "You are currently on timeout for failed votes."
+msgstr "No momento você está em espera por falta de votos."
+
+#. UI.PLAYERSTATUSSCREEN.WILDERNESS
+msgctxt "UI.PLAYERSTATUSSCREEN.WILDERNESS"
+msgid "Wilderness"
+msgstr "Selva"
+

@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.SKINSSCREEN.ALL
+msgctxt "UI.SKINSSCREEN.ALL"
+msgid "All"
+msgstr "全部"
+
+#. UI.SKINSSCREEN.BACK
+msgctxt "UI.SKINSSCREEN.BACK"
+msgid "Back"
+msgstr "返回"
+
+#. UI.SKINSSCREEN.BASE
+msgctxt "UI.SKINSSCREEN.BASE"
+msgid "BASE"
+msgstr "基地"
+
+#. UI.SKINSSCREEN.BODY
+msgctxt "UI.SKINSSCREEN.BODY"
+msgid "BODY"
+msgstr "身体"
+
+#. UI.SKINSSCREEN.BONUS
+msgctxt "UI.SKINSSCREEN.BONUS"
+msgid "Reward"
+msgstr "奖励"
+
+#. UI.SKINSSCREEN.CLEAR
+msgctxt "UI.SKINSSCREEN.CLEAR"
+msgid "Reset to Default"
+msgstr "重设为默认值"
+
+#. UI.SKINSSCREEN.CLOTHING
+msgctxt "UI.SKINSSCREEN.CLOTHING"
+msgid "Clothing"
+msgstr "服装"
+
+#. UI.SKINSSCREEN.FEET
+msgctxt "UI.SKINSSCREEN.FEET"
+msgid "FEET"
+msgstr "脚"
+
+#. UI.SKINSSCREEN.FILTERS
+msgctxt "UI.SKINSSCREEN.FILTERS"
+msgid "Filters"
+msgstr "过滤器"
+
+#. UI.SKINSSCREEN.HAND
+msgctxt "UI.SKINSSCREEN.HAND"
+msgid "HANDS"
+msgstr "手"
+
+#. UI.SKINSSCREEN.ITEM
+msgctxt "UI.SKINSSCREEN.ITEM"
+msgid "Craftables"
+msgstr "工艺品"
+
+#. UI.SKINSSCREEN.ITEMS
+msgctxt "UI.SKINSSCREEN.ITEMS"
+msgid "Items"
+msgstr "物品"
+
+#. UI.SKINSSCREEN.LEGS
+msgctxt "UI.SKINSSCREEN.LEGS"
+msgid "LEGS"
+msgstr "腿"
+
+#. UI.SKINSSCREEN.LOADOUT
+msgctxt "UI.SKINSSCREEN.LOADOUT"
+msgid "Loadout"
+msgstr "装备"
+
+#. UI.SKINSSCREEN.NEW
+msgctxt "UI.SKINSSCREEN.NEW"
+msgid "NEW"
+msgstr "新"
+
+#. UI.SKINSSCREEN.NONE
+msgctxt "UI.SKINSSCREEN.NONE"
+msgid "NONE"
+msgstr "无"
+
+#. UI.SKINSSCREEN.NOW_OFFLINE_BODY
+msgctxt "UI.SKINSSCREEN.NOW_OFFLINE_BODY"
+msgid "You are now in offline mode.\nYour item collection is not available in offline mode.\nPlease check your connection and log in again."
+msgstr "您现在处于离线模式。\n离线模式状态下您收集的道具不可用。\n请检查连接并再次登录。"
+
+#. UI.SKINSSCREEN.NOW_OFFLINE_TITLE
+msgctxt "UI.SKINSSCREEN.NOW_OFFLINE_TITLE"
+msgid "Network Connection Lost"
+msgstr "失去网络连接"
+
+#. UI.SKINSSCREEN.NO_ITEMS
+msgctxt "UI.SKINSSCREEN.NO_ITEMS"
+msgid "Start playing to earn items!"
+msgstr "开始游戏，赢得物品！"
+
+#. UI.SKINSSCREEN.NO_ITEMS_TITLE
+msgctxt "UI.SKINSSCREEN.NO_ITEMS_TITLE"
+msgid "Nothing to see here"
+msgstr "这儿什么也没有"
+
+#. UI.SKINSSCREEN.OFFLINE
+msgctxt "UI.SKINSSCREEN.OFFLINE"
+msgid "Your curio cabinet is not available in offline mode."
+msgstr "你的珍宝柜在离线模式下不可用。"
+
+#. UI.SKINSSCREEN.OK
+msgctxt "UI.SKINSSCREEN.OK"
+msgid "OK"
+msgstr "好的"
+
+#. UI.SKINSSCREEN.PICK
+msgctxt "UI.SKINSSCREEN.PICK"
+msgid "Pick A Character"
+msgstr "选择一个人物"
+
+#. UI.SKINSSCREEN.RESET
+msgctxt "UI.SKINSSCREEN.RESET"
+msgid "Last Outfit"
+msgstr "最后的装备"
+
+#. UI.SKINSSCREEN.SAVE
+msgctxt "UI.SKINSSCREEN.SAVE"
+msgid "Save Outfit"
+msgstr "保存装备"
+
+#. UI.SKINSSCREEN.SELECT
+msgctxt "UI.SKINSSCREEN.SELECT"
+msgid "Select"
+msgstr "选择"
+
+#. UI.SKINSSCREEN.SET_INFO
+msgctxt "UI.SKINSSCREEN.SET_INFO"
+msgid "Ensemble Info"
+msgstr "套装信息"
+
+#. UI.SKINSSCREEN.SET_PROGRESS
+msgctxt "UI.SKINSSCREEN.SET_PROGRESS"
+msgid "Piece"
+msgstr "组件"
+
+#. UI.SKINSSCREEN.SORRY
+msgctxt "UI.SKINSSCREEN.SORRY"
+msgid "Sorry"
+msgstr "抱歉"
+
+#. UI.SKINSSCREEN.TITLE
+msgctxt "UI.SKINSSCREEN.TITLE"
+msgid "{name}'s Collection"
+msgstr "{name}的收藏"
+
+#. UI.SKINSSCREEN.TRADE
+msgctxt "UI.SKINSSCREEN.TRADE"
+msgid "Trade Inn"
+msgstr "交易小店"
+
+#. UI.SKINSSCREEN.TRADE_TOOLTIP
+msgctxt "UI.SKINSSCREEN.TRADE_TOOLTIP"
+msgid "Trade your old items in for something new!"
+msgstr "用你的旧物品换些新玩意！"
+
+#. UI.SKINSSCREEN.USABLE_INFO
+msgctxt "UI.SKINSSCREEN.USABLE_INFO"
+msgid "Reskin Info"
+msgstr "换肤信息"
+
+#. UI.SKINSSCREEN.USABLE_INFO_TITLE
+msgctxt "UI.SKINSSCREEN.USABLE_INFO_TITLE"
+msgid "Reskins"
+msgstr "外观改变"
+
+#. UI.SKINSSCREEN.USABLE_ON
+msgctxt "UI.SKINSSCREEN.USABLE_ON"
+msgid "Reskins {item}"
+msgstr "{item} 会获得新外观"
+
+#. UI.SKINSSCREEN.USABLE_ON_MULTIPLE
+msgctxt "UI.SKINSSCREEN.USABLE_ON_MULTIPLE"
+msgid "Reskins {item1} and {item2}"
+msgstr "{item1} 和 {item2} 会获得新外观"
+
+#. UI.SKINSSCREEN.USABLE_ON_MULTIPLE_3
+msgctxt "UI.SKINSSCREEN.USABLE_ON_MULTIPLE_3"
+msgid "Reskins {item1}, {item2} and {item3}"
+msgstr " {item1}、{item2} 和 {item3} 会获得新外观"
+
+#. UI.SKINSSCREEN.USABLE_ON_MULTIPLE_3_POPUP
+msgctxt "UI.SKINSSCREEN.USABLE_ON_MULTIPLE_3_POPUP"
+msgid "{skin} will change the appearance of {item1}, {item2} and {item3}."
+msgstr "{skin} 会改变 {item1}、{item2} 和 {item3} 的外观。"
+
+#. UI.SKINSSCREEN.USABLE_ON_MULTIPLE_POPUP
+msgctxt "UI.SKINSSCREEN.USABLE_ON_MULTIPLE_POPUP"
+msgid "{skin} will change the appearance of {item1} and {item2}."
+msgstr "{skin} 会改变 {item1} 和 {item2} 的外观。"
+
+#. UI.SKINSSCREEN.USABLE_ON_POPUP
+msgctxt "UI.SKINSSCREEN.USABLE_ON_POPUP"
+msgid "{skin} will change the appearance of {item}."
+msgstr "{skin} 会改变{item}的外观。"
+

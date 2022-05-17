@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.RECIPE_BOOK.CRAVINGS.BREAD
+msgctxt "UI.RECIPE_BOOK.CRAVINGS.BREAD"
+msgid "Bread"
+msgstr "Pan"
+
+#. UI.RECIPE_BOOK.CRAVINGS.CHEESE
+msgctxt "UI.RECIPE_BOOK.CRAVINGS.CHEESE"
+msgid "Cheese"
+msgstr "Queso"
+
+#. UI.RECIPE_BOOK.CRAVINGS.FISH
+msgctxt "UI.RECIPE_BOOK.CRAVINGS.FISH"
+msgid "Fish"
+msgstr "Pescar"
+
+#. UI.RECIPE_BOOK.CRAVINGS.MEAT
+msgctxt "UI.RECIPE_BOOK.CRAVINGS.MEAT"
+msgid "Meat"
+msgstr "Carne"
+
+#. UI.RECIPE_BOOK.CRAVINGS.PASTA
+msgctxt "UI.RECIPE_BOOK.CRAVINGS.PASTA"
+msgid "Pasta"
+msgstr "Pasta"
+
+#. UI.RECIPE_BOOK.CRAVINGS.SNACK
+msgctxt "UI.RECIPE_BOOK.CRAVINGS.SNACK"
+msgid "Snack"
+msgstr "Botana"
+
+#. UI.RECIPE_BOOK.CRAVINGS.SOUP
+msgctxt "UI.RECIPE_BOOK.CRAVINGS.SOUP"
+msgid "Soup"
+msgstr "Sopa"
+
+#. UI.RECIPE_BOOK.CRAVINGS.SWEET
+msgctxt "UI.RECIPE_BOOK.CRAVINGS.SWEET"
+msgid "Dessert"
+msgstr "Postre"
+
+#. UI.RECIPE_BOOK.CRAVINGS.VEGGIE
+msgctxt "UI.RECIPE_BOOK.CRAVINGS.VEGGIE"
+msgid "Veggie"
+msgstr "Verdura"
+
+#. UI.RECIPE_BOOK.DETAILS_LABEL_CRAVING
+msgctxt "UI.RECIPE_BOOK.DETAILS_LABEL_CRAVING"
+msgid "Satisfies Craving"
+msgstr "Satisface antojo"
+
+#. UI.RECIPE_BOOK.DETAILS_LABEL_CRAVINGS
+msgctxt "UI.RECIPE_BOOK.DETAILS_LABEL_CRAVINGS"
+msgid "Satisfies Cravings"
+msgstr "Satisface antojos"
+
+#. UI.RECIPE_BOOK.DETAILS_LABEL_RECIPES
+msgctxt "UI.RECIPE_BOOK.DETAILS_LABEL_RECIPES"
+msgid "Recent Recipes"
+msgstr "Recetas recientes"
+
+#. UI.RECIPE_BOOK.DETAILS_LABEL_STATION
+msgctxt "UI.RECIPE_BOOK.DETAILS_LABEL_STATION"
+msgid "Cooking Station"
+msgstr "Estación de cocina"
+
+#. UI.RECIPE_BOOK.DETAILS_LABEL_STATIONS
+msgctxt "UI.RECIPE_BOOK.DETAILS_LABEL_STATIONS"
+msgid "Cooking Stations"
+msgstr "Estaciones de cocina"
+
+#. UI.RECIPE_BOOK.DETAILS_LABEL_TRIBUTE
+msgctxt "UI.RECIPE_BOOK.DETAILS_LABEL_TRIBUTE"
+msgid "Offering"
+msgstr "Ofrenda"
+
+#. UI.RECIPE_BOOK.DETAILS_LABEL_TRIBUTE_SILVER
+msgctxt "UI.RECIPE_BOOK.DETAILS_LABEL_TRIBUTE_SILVER"
+msgid "{dish} Offering"
+msgstr "Ofrenda de {dish}"
+
+#. UI.RECIPE_BOOK.DETAILS_LABEL_TRIBUTE_SILVER_UNKNOWN
+msgctxt "UI.RECIPE_BOOK.DETAILS_LABEL_TRIBUTE_SILVER_UNKNOWN"
+msgid "Silver Dish Offering"
+msgstr "Ofrenda de plato de plata"
+
+#. UI.RECIPE_BOOK.DETAILS_SPINNER_CRAVING
+msgctxt "UI.RECIPE_BOOK.DETAILS_SPINNER_CRAVING"
+msgid "Craving"
+msgstr "Antojo"
+
+#. UI.RECIPE_BOOK.DETAILS_SPINNER_STATION
+msgctxt "UI.RECIPE_BOOK.DETAILS_SPINNER_STATION"
+msgid "Station"
+msgstr "Estación"
+
+#. UI.RECIPE_BOOK.DISCOVERED_RECIPES
+msgctxt "UI.RECIPE_BOOK.DISCOVERED_RECIPES"
+msgid "Discovered Recipes"
+msgstr "Recetas descubiertas"
+
+#. UI.RECIPE_BOOK.FILTER_ANY
+msgctxt "UI.RECIPE_BOOK.FILTER_ANY"
+msgid "Any"
+msgstr "Cualquiera"
+
+#. UI.RECIPE_BOOK.NO_CRAVING
+msgctxt "UI.RECIPE_BOOK.NO_CRAVING"
+msgid "None"
+msgstr "Ninguna"
+
+#. UI.RECIPE_BOOK.NO_TRIBUTE_VALUE
+msgctxt "UI.RECIPE_BOOK.NO_TRIBUTE_VALUE"
+msgid "None"
+msgstr "Ninguna"
+
+#. UI.RECIPE_BOOK.STATIONS.GRILL
+msgctxt "UI.RECIPE_BOOK.STATIONS.GRILL"
+msgid "Grill"
+msgstr "Parrilla"
+
+#. UI.RECIPE_BOOK.STATIONS.OVEN
+msgctxt "UI.RECIPE_BOOK.STATIONS.OVEN"
+msgid "Oven"
+msgstr "Horno"
+
+#. UI.RECIPE_BOOK.STATIONS.POT
+msgctxt "UI.RECIPE_BOOK.STATIONS.POT"
+msgid "Cookpot"
+msgstr "Olla"
+
+#. UI.RECIPE_BOOK.SYRUP_RECIPE_ID
+msgctxt "UI.RECIPE_BOOK.SYRUP_RECIPE_ID"
+msgid "**"
+msgstr "**"
+
+#. UI.RECIPE_BOOK.TITLE
+msgctxt "UI.RECIPE_BOOK.TITLE"
+msgid "Recipe Book"
+msgstr "Libro de recetas"
+
+#. UI.RECIPE_BOOK.TRIBUTE_UNKNOWN
+msgctxt "UI.RECIPE_BOOK.TRIBUTE_UNKNOWN"
+msgid "Unknown"
+msgstr "Desconocido"
+
+#. UI.RECIPE_BOOK.UNKNOWN_DATA
+msgctxt "UI.RECIPE_BOOK.UNKNOWN_DATA"
+msgid "???"
+msgstr "???"
+
+#. UI.RECIPE_BOOK.UNKNOWN_RECIPE
+msgctxt "UI.RECIPE_BOOK.UNKNOWN_RECIPE"
+msgid "Unknown"
+msgstr "Desconocido"
+

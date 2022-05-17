@@ -1,0 +1,1355 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. SKIN_QUOTES.walter_bee
+msgctxt "SKIN_QUOTES.walter_bee"
+msgid "\"Maybe if I dress like them, they won't sting me!\""
+msgstr "\"也許我要是穿得像它們，就不會被蟄了！\""
+
+#. SKIN_QUOTES.walter_bee_d
+msgctxt "SKIN_QUOTES.walter_bee_d"
+msgid "\"Maybe if I dress like them, they won't sting me!\""
+msgstr "\"也許我要是穿得像它們，就不會被蟄了！\""
+
+#. SKIN_QUOTES.walter_bee_p
+msgctxt "SKIN_QUOTES.walter_bee_p"
+msgid "\"Maybe if I dress like them, they won't sting me!\""
+msgstr "\"也許我要是穿得像它們，就不會被蟄了！\""
+
+#. SKIN_QUOTES.walter_detective
+msgctxt "SKIN_QUOTES.walter_detective"
+msgid "\"Don't worry Sirs and Madams, Woby and I are on the case!\""
+msgstr "“女士們，先生們，不用擔心，我和沃比正在查案！”"
+
+#. SKIN_QUOTES.walter_formal
+msgctxt "SKIN_QUOTES.walter_formal"
+msgid "\"I'd wear it more often, but it's so heavy with all these badges...\""
+msgstr "“我願意多穿這件衣服，可是這麼多獎章確實很重……”"
+
+#. SKIN_QUOTES.walter_ice
+msgctxt "SKIN_QUOTES.walter_ice"
+msgid "\"Brrr... it's a good thing you already have your own winter coat, Woby!\""
+msgstr "“哇……你已經有自己的冬季皮草了，沃比，真是件好事！”"
+
+#. SKIN_QUOTES.walter_nature
+msgctxt "SKIN_QUOTES.walter_nature"
+msgid "\"Every story needs a fearless adventurer and their trusty steed!\""
+msgstr "“每個故事都需要一個無畏的冒險家和他們值得信賴的坐騎！”"
+
+#. SKIN_QUOTES.walter_survivor
+msgctxt "SKIN_QUOTES.walter_survivor"
+msgid "\"I hope I don't lose any points for the state of my uniform.\""
+msgstr "“希望別因為這身破舊的制服被扣分。”"
+
+#. SKIN_QUOTES.walter_ventriloquist
+msgctxt "SKIN_QUOTES.walter_ventriloquist"
+msgid "\"Want to hear a really scary story?\""
+msgstr "“想聽個恐怖故事嗎？”"
+
+#. SKIN_QUOTES.walter_victorian
+msgctxt "SKIN_QUOTES.walter_victorian"
+msgid "\"Extra, extra! Read all about it!\""
+msgstr "“號外，號外！買份報紙來讀吧！”"
+
+#. SKIN_QUOTES.wanda_bishop
+msgctxt "SKIN_QUOTES.wanda_bishop"
+msgid "\"This match will require a few more adjournments.\""
+msgstr "\"這場比賽還需要幾次計時暫停。\""
+
+#. SKIN_QUOTES.wanda_bishop_d
+msgctxt "SKIN_QUOTES.wanda_bishop_d"
+msgid "\"This match will require a few more adjournments.\""
+msgstr "\"這場比賽還需要幾次計時暫停。\""
+
+#. SKIN_QUOTES.wanda_bishop_p
+msgctxt "SKIN_QUOTES.wanda_bishop_p"
+msgid "\"This match will require a few more adjournments.\""
+msgstr "\"這場比賽還需要幾次計時暫停。\""
+
+#. SKIN_QUOTES.wanda_formal
+msgctxt "SKIN_QUOTES.wanda_formal"
+msgid "\"Nothing is more fashionable than punctuality.\""
+msgstr "“沒有什麼比準時更時尚了。”"
+
+#. SKIN_QUOTES.wanda_shadow
+msgctxt "SKIN_QUOTES.wanda_shadow"
+msgid "\"There is nothing but dark times ahead.\""
+msgstr "“前方是黑暗的時代。”"
+
+#. SKIN_QUOTES.wanda_steampunk
+msgctxt "SKIN_QUOTES.wanda_steampunk"
+msgid "\"Not enough people appreciate the minutiae of temporal tinkering.\""
+msgstr "能欣賞修補時空技藝的人少之又少。"
+
+#. SKIN_QUOTES.wanda_yule
+msgctxt "SKIN_QUOTES.wanda_yule"
+msgid "\"So many toys to build, and so little time!\""
+msgstr "“要做的玩具那麼多，而時間又這麼少！”"
+
+#. SKIN_QUOTES.warly_candyman
+msgctxt "SKIN_QUOTES.warly_candyman"
+msgid "\"I'm thinking of opening a chocolate factory.\""
+msgstr "\"我準備開間巧克力工廠。\""
+
+#. SKIN_QUOTES.warly_carrat
+msgctxt "SKIN_QUOTES.warly_carrat"
+msgid "\"I must train for the races!\""
+msgstr "\"我必須積極訓練備賽！\""
+
+#. SKIN_QUOTES.warly_carrat_d
+msgctxt "SKIN_QUOTES.warly_carrat_d"
+msgid "\"I must train for the races!\""
+msgstr "\"我必須積極訓練備賽！\""
+
+#. SKIN_QUOTES.warly_carrat_p
+msgctxt "SKIN_QUOTES.warly_carrat_p"
+msgid "\"I must train for the races!\""
+msgstr "\"我必須積極訓練備賽！\""
+
+#. SKIN_QUOTES.warly_chef
+msgctxt "SKIN_QUOTES.warly_chef"
+msgid "\"It's a fine day for some fine dining, non?\""
+msgstr "“真是美好的一天，適合烹飪\n精緻的料理，不是嗎？”"
+
+#. SKIN_QUOTES.warly_fisherman
+msgctxt "SKIN_QUOTES.warly_fisherman"
+msgid "\"I'm on a see-food diet.\""
+msgstr "\"我只吃海鮮。\""
+
+#. SKIN_QUOTES.warly_ice
+msgctxt "SKIN_QUOTES.warly_ice"
+msgid "\"I'd say this look is best served cold.\""
+msgstr "“天氣越冷，我這套裝扮越是秀色可餐。”"
+
+#. SKIN_QUOTES.warly_nature
+msgctxt "SKIN_QUOTES.warly_nature"
+msgid "\"I only cook with natural ingredients.\""
+msgstr "“我只用天然材料烹飪。”"
+
+#. SKIN_QUOTES.warly_rose
+msgctxt "SKIN_QUOTES.warly_rose"
+msgid "\"And just a dash of sweet rosewater.\""
+msgstr "\"來點甜蜜的玫瑰水。\""
+
+#. SKIN_QUOTES.warly_victorian
+msgctxt "SKIN_QUOTES.warly_victorian"
+msgid "\"I actually just work in the galley.\""
+msgstr "\"我其實只是船上的廚師。\""
+
+#. SKIN_QUOTES.wathgrithr_combatant
+msgctxt "SKIN_QUOTES.wathgrithr_combatant"
+msgid "\"I yearn för my chance ön the pröving gröunds!\""
+msgstr "\"我渴望有機會上場接受考驗！\""
+
+#. SKIN_QUOTES.wathgrithr_cook
+msgctxt "SKIN_QUOTES.wathgrithr_cook"
+msgid "\"MEEEEEAT.\""
+msgstr "\"肉肉。\""
+
+#. SKIN_QUOTES.wathgrithr_deerclops
+msgctxt "SKIN_QUOTES.wathgrithr_deerclops"
+msgid "\"I cöuld take yöu curs with öne eye behind my mask!\""
+msgstr "\"我蒙上一隻眼睛都能 搞定你們這些混蛋！\""
+
+#. SKIN_QUOTES.wathgrithr_deerclops_d
+msgctxt "SKIN_QUOTES.wathgrithr_deerclops_d"
+msgid "\"I cöuld take yöu curs with öne eye behind my mask!\""
+msgstr "\"我蒙上一隻眼睛都能 搞定你們這些混蛋！\""
+
+#. SKIN_QUOTES.wathgrithr_deerclops_p
+msgctxt "SKIN_QUOTES.wathgrithr_deerclops_p"
+msgid "\"I cöuld take yöu curs with öne eye behind my mask!\""
+msgstr "\"我蒙上一隻眼睛都能 搞定你們這些混蛋！\""
+
+#. SKIN_QUOTES.wathgrithr_formal
+msgctxt "SKIN_QUOTES.wathgrithr_formal"
+msgid "\"We will celebrate as if we were in Valhalla!\""
+msgstr "\"我們會如同在英靈殿一般歡慶！\""
+
+#. SKIN_QUOTES.wathgrithr_formalp
+msgctxt "SKIN_QUOTES.wathgrithr_formalp"
+msgid "\"We will celebrate as if we were in Valhalla!\""
+msgstr "\"我們會如同在英靈殿一般歡慶！\""
+
+#. SKIN_QUOTES.wathgrithr_gladiator
+msgctxt "SKIN_QUOTES.wathgrithr_gladiator"
+msgid "\"My skill in battle is withöut peer.\""
+msgstr "\"我在戰場上無人能敵。\""
+
+#. SKIN_QUOTES.wathgrithr_magma
+msgctxt "SKIN_QUOTES.wathgrithr_magma"
+msgid "\"I fear nöt Surtr's flames!\""
+msgstr "\"吾無懼蘇爾特爾之火！\""
+
+#. SKIN_QUOTES.wathgrithr_nature
+msgctxt "SKIN_QUOTES.wathgrithr_nature"
+msgid "\"I shall fight för the förest!\""
+msgstr "\"我願為森林而戰！\""
+
+#. SKIN_QUOTES.wathgrithr_rose
+msgctxt "SKIN_QUOTES.wathgrithr_rose"
+msgid "\"Applause röars as red, red röses flööd my stage!\""
+msgstr "\"紅紅的玫瑰鋪滿我的舞臺， 熱烈的掌聲響起來！\""
+
+#. SKIN_QUOTES.wathgrithr_rosep
+msgctxt "SKIN_QUOTES.wathgrithr_rosep"
+msgid "\"Applause röars as red, red röses flööd my stage!\""
+msgstr "\"紅紅的玫瑰鋪滿我的舞臺， 熱烈的掌聲響起來！\""
+
+#. SKIN_QUOTES.wathgrithr_scarecrow
+msgctxt "SKIN_QUOTES.wathgrithr_scarecrow"
+msgid "\"I shall scare öff all the black winged beasties!\""
+msgstr "\"我要嚇跑所有黑翅膀的野獸。\""
+
+#. SKIN_QUOTES.wathgrithr_shadow
+msgctxt "SKIN_QUOTES.wathgrithr_shadow"
+msgid "\"I will deströy my enemies!\""
+msgstr "\"我要消滅敵人！\""
+
+#. SKIN_QUOTES.wathgrithr_shadowp
+msgctxt "SKIN_QUOTES.wathgrithr_shadowp"
+msgid "\"I will deströy my enemies!\""
+msgstr "\"我要消滅敵人！\""
+
+#. SKIN_QUOTES.wathgrithr_survivor
+msgctxt "SKIN_QUOTES.wathgrithr_survivor"
+msgid "\"Yöu have tö try harder than this tö defeat me!\""
+msgstr "\"要想打敗我，你可得多 費點力氣！\""
+
+#. SKIN_QUOTES.wathgrithr_survivorp
+msgctxt "SKIN_QUOTES.wathgrithr_survivorp"
+msgid "\"Yöu have tö try harder than this tö defeat me!\""
+msgstr "\"要想打敗我，你可得多 費點力氣！\""
+
+#. SKIN_QUOTES.wathgrithr_valkyrie
+msgctxt "SKIN_QUOTES.wathgrithr_valkyrie"
+msgid "\"The stage is set för my rise tö glöry!\""
+msgstr "“舞臺就緒， 只待我飛升光榮！”"
+
+#. SKIN_QUOTES.wathgrithr_victorian
+msgctxt "SKIN_QUOTES.wathgrithr_victorian"
+msgid "\"Wörds, wörds, wörds.\""
+msgstr "\"空話，空話，空話。\""
+
+#. SKIN_QUOTES.wathgrithr_wrestler
+msgctxt "SKIN_QUOTES.wathgrithr_wrestler"
+msgid "\"I am the best that ever was!!\""
+msgstr "\"我是有史以來最棒的！！\""
+
+#. SKIN_QUOTES.wathgrithr_yule
+msgctxt "SKIN_QUOTES.wathgrithr_yule"
+msgid "\"Gööd tidings to all!\""
+msgstr "\"恭賀佳節！\""
+
+#. SKIN_QUOTES.waxwell_combatant
+msgctxt "SKIN_QUOTES.waxwell_combatant"
+msgid "\"I've faced worse ordeals.\""
+msgstr "\"我經歷過更糟的磨難。\""
+
+#. SKIN_QUOTES.waxwell_cook
+msgctxt "SKIN_QUOTES.waxwell_cook"
+msgid "\"Everything I make is magnificent.\""
+msgstr "\"我煮的每一種食物都棒極了。\""
+
+#. SKIN_QUOTES.waxwell_formal
+msgctxt "SKIN_QUOTES.waxwell_formal"
+msgid "\"I just need to find my beautiful assistant.\""
+msgstr "\"我得找到我那漂亮的助理。\""
+
+#. SKIN_QUOTES.waxwell_gladiator
+msgctxt "SKIN_QUOTES.waxwell_gladiator"
+msgid "\"All those who oppose me shall perish!\""
+msgstr "\"逆我者亡！\""
+
+#. SKIN_QUOTES.waxwell_krampus
+msgctxt "SKIN_QUOTES.waxwell_krampus"
+msgid "\"Naughty. Definitely naughty.\""
+msgstr "\"頑皮。真是太頑皮了。\""
+
+#. SKIN_QUOTES.waxwell_krampus_d
+msgctxt "SKIN_QUOTES.waxwell_krampus_d"
+msgid "\"Naughty. Definitely naughty.\""
+msgstr "\"頑皮。真是太頑皮了。\""
+
+#. SKIN_QUOTES.waxwell_krampus_p
+msgctxt "SKIN_QUOTES.waxwell_krampus_p"
+msgid "\"Naughty. Definitely naughty.\""
+msgstr "\"頑皮。真是太頑皮了。\""
+
+#. SKIN_QUOTES.waxwell_magma
+msgctxt "SKIN_QUOTES.waxwell_magma"
+msgid "\"Volcanic power is intoxicating.\""
+msgstr "\"火山的威力令人迷醉。\""
+
+#. SKIN_QUOTES.waxwell_nature
+msgctxt "SKIN_QUOTES.waxwell_nature"
+msgid "\"There is magic in the trees.\""
+msgstr "\"樹林有魔力！\""
+
+#. SKIN_QUOTES.waxwell_rose
+msgctxt "SKIN_QUOTES.waxwell_rose"
+msgid "\"The thorned rose cannot help but prick. It is its nature.\""
+msgstr "\"帶刺的玫瑰除了紮人 就沒什麼用。這是它的天性。\""
+
+#. SKIN_QUOTES.waxwell_survivor
+msgctxt "SKIN_QUOTES.waxwell_survivor"
+msgid "\"Say, pal, I don't look so good.\""
+msgstr "\"喂，朋友，我看起來不太好。\""
+
+#. SKIN_QUOTES.waxwell_unshadow
+msgctxt "SKIN_QUOTES.waxwell_unshadow"
+msgid "\"The poor unsuspecting fool has no idea what's coming.\""
+msgstr "\"這可憐又容易相信他人的傻蛋 並不知道將要發生什麼。\""
+
+#. SKIN_QUOTES.waxwell_vampire
+msgctxt "SKIN_QUOTES.waxwell_vampire"
+msgid "\"I never was one to shy away from theatrics, or a good suit.\""
+msgstr "\"我喜歡這套衣服，非常有戲劇張力。\""
+
+#. SKIN_QUOTES.waxwell_victorian
+msgctxt "SKIN_QUOTES.waxwell_victorian"
+msgid "\"Hmph.\""
+msgstr "\"哼。\""
+
+#. SKIN_QUOTES.waxwell_yule
+msgctxt "SKIN_QUOTES.waxwell_yule"
+msgid "\"Hmph. It's cold out.\""
+msgstr "\"哼。外面好冷。\""
+
+#. SKIN_QUOTES.webber_bat
+msgctxt "SKIN_QUOTES.webber_bat"
+msgid "\"Raaar! ...That's our bat noise.\""
+msgstr "\"哇！……那是我們蝙蝠的聲音。\""
+
+#. SKIN_QUOTES.webber_bat_d
+msgctxt "SKIN_QUOTES.webber_bat_d"
+msgid "\"Raaar! ...That's our bat noise.\""
+msgstr "\"哇！……那是我們蝙蝠的聲音。\""
+
+#. SKIN_QUOTES.webber_bat_p
+msgctxt "SKIN_QUOTES.webber_bat_p"
+msgid "\"Raaar! ...That's our bat noise.\""
+msgstr "\"哇！……那是我們蝙蝠的聲音。\""
+
+#. SKIN_QUOTES.webber_boy
+msgctxt "SKIN_QUOTES.webber_boy"
+msgid "\"We were so lonely back then...\""
+msgstr "“那時候我們好孤單……”"
+
+#. SKIN_QUOTES.webber_combatant
+msgctxt "SKIN_QUOTES.webber_combatant"
+msgid "\"We don't want to fight if we don't have to.\""
+msgstr "\"如果沒必要的話我們不希望打架。\""
+
+#. SKIN_QUOTES.webber_cook
+msgctxt "SKIN_QUOTES.webber_cook"
+msgid "\"Let's get cooking!\""
+msgstr "\"我們來做飯吧！\""
+
+#. SKIN_QUOTES.webber_formal
+msgctxt "SKIN_QUOTES.webber_formal"
+msgid "\"We like parties!\""
+msgstr "\"我們喜歡聚會！\""
+
+#. SKIN_QUOTES.webber_formalp
+msgctxt "SKIN_QUOTES.webber_formalp"
+msgid "\"We like parties!\""
+msgstr "\"我們喜歡聚會！\""
+
+#. SKIN_QUOTES.webber_gladiator
+msgctxt "SKIN_QUOTES.webber_gladiator"
+msgid "\"If you fight us, you will lose.\""
+msgstr "\"與我們作對毫無勝算。\""
+
+#. SKIN_QUOTES.webber_ice
+msgctxt "SKIN_QUOTES.webber_ice"
+msgid "\"We love playing in the snow!\""
+msgstr "\"我們愛玩雪！\""
+
+#. SKIN_QUOTES.webber_magma
+msgctxt "SKIN_QUOTES.webber_magma"
+msgid "\"We're like a walking volcano.\""
+msgstr "\"我們就像行走的火山。\""
+
+#. SKIN_QUOTES.webber_nature
+msgctxt "SKIN_QUOTES.webber_nature"
+msgid "\"Only the strongest spiders survive out here!\""
+msgstr "“在野外，只有最強壯的蜘蛛才能活下來！”"
+
+#. SKIN_QUOTES.webber_punk
+msgctxt "SKIN_QUOTES.webber_punk"
+msgid "\"Don't mess with us.\""
+msgstr "\"別惹我們。\""
+
+#. SKIN_QUOTES.webber_rose
+msgctxt "SKIN_QUOTES.webber_rose"
+msgid "\"The rose shelters our fur from the morning dew.\""
+msgstr "\"玫瑰幫我們的皮毛遮擋晨露。\""
+
+#. SKIN_QUOTES.webber_rosep
+msgctxt "SKIN_QUOTES.webber_rosep"
+msgid "\"The rose shelters our fur from the morning dew.\""
+msgstr "\"玫瑰幫我們的皮毛遮擋晨露。\""
+
+#. SKIN_QUOTES.webber_shadow
+msgctxt "SKIN_QUOTES.webber_shadow"
+msgid "\"Come closer - we are hungry!\""
+msgstr "\"靠近點——我們餓了！\""
+
+#. SKIN_QUOTES.webber_shadowp
+msgctxt "SKIN_QUOTES.webber_shadowp"
+msgid "\"Come closer - we are hungry!\""
+msgstr "\"靠近點——我們餓了！\""
+
+#. SKIN_QUOTES.webber_survivor
+msgctxt "SKIN_QUOTES.webber_survivor"
+msgid "\"I want to go home, but we can't find the way.\""
+msgstr "\"我想回家，但是我們找不到路。\""
+
+#. SKIN_QUOTES.webber_survivorp
+msgctxt "SKIN_QUOTES.webber_survivorp"
+msgid "\"I want to go home, but we can't find the way.\""
+msgstr "\"我想回家，但是我們找不到路。\""
+
+#. SKIN_QUOTES.webber_victorian
+msgctxt "SKIN_QUOTES.webber_victorian"
+msgid "\"Look, we lost a tooth!\""
+msgstr "\"瞧，我們掉了一顆牙！\""
+
+#. SKIN_QUOTES.webber_wrestler
+msgctxt "SKIN_QUOTES.webber_wrestler"
+msgid "\"Grrrr... We're scary!\""
+msgstr "\"格勒……我們很嚇人!\""
+
+#. SKIN_QUOTES.wendy_combatant
+msgctxt "SKIN_QUOTES.wendy_combatant"
+msgid "\"Abigail and I never fight.\""
+msgstr "\"阿比蓋爾和我從不打架。\""
+
+#. SKIN_QUOTES.wendy_cook
+msgctxt "SKIN_QUOTES.wendy_cook"
+msgid "\"Every meal ends in an empty plate.\""
+msgstr "\"每頓飯都以空盤子告終。\""
+
+#. SKIN_QUOTES.wendy_creepy
+msgctxt "SKIN_QUOTES.wendy_creepy"
+msgid "\"I am coming for you!\""
+msgstr "\"我來找你了！\""
+
+#. SKIN_QUOTES.wendy_formal
+msgctxt "SKIN_QUOTES.wendy_formal"
+msgid "\"I'll only go to the party if Abigail comes too.\""
+msgstr "\"只有阿比蓋爾去參加聚會， 我才去。\""
+
+#. SKIN_QUOTES.wendy_formalp
+msgctxt "SKIN_QUOTES.wendy_formalp"
+msgid "\"I'll only go to the party if Abigail comes too.\""
+msgstr "\"只有阿比蓋爾去參加聚會， 我才去。\""
+
+#. SKIN_QUOTES.wendy_gladiator
+msgctxt "SKIN_QUOTES.wendy_gladiator"
+msgid "\"I take no pleasure in this.\""
+msgstr "\"這毫無樂趣可言。\""
+
+#. SKIN_QUOTES.wendy_handmedown
+msgctxt "SKIN_QUOTES.wendy_handmedown"
+msgid "\"Abigail and I shared everything.\""
+msgstr "\"阿比蓋爾和我分享一切。\""
+
+#. SKIN_QUOTES.wendy_ice
+msgctxt "SKIN_QUOTES.wendy_ice"
+msgid "\"We all turn cold in time.\""
+msgstr "\"我們都會變得冰冷。\""
+
+#. SKIN_QUOTES.wendy_lureplant
+msgctxt "SKIN_QUOTES.wendy_lureplant"
+msgid "\"So alluring...\""
+msgstr "\"太迷人了……\""
+
+#. SKIN_QUOTES.wendy_lureplant_d
+msgctxt "SKIN_QUOTES.wendy_lureplant_d"
+msgid "\"So alluring...\""
+msgstr "\"太迷人了……\""
+
+#. SKIN_QUOTES.wendy_lureplant_p
+msgctxt "SKIN_QUOTES.wendy_lureplant_p"
+msgid "\"So alluring...\""
+msgstr "\"太迷人了……\""
+
+#. SKIN_QUOTES.wendy_magma
+msgctxt "SKIN_QUOTES.wendy_magma"
+msgid "\"My volcanic smoke shall encase the world in darkness.\""
+msgstr "\"我的火山灰會讓這 世界籠罩在黑暗之中。\""
+
+#. SKIN_QUOTES.wendy_nature
+msgctxt "SKIN_QUOTES.wendy_nature"
+msgid "\"Do you believe in fairies? If you believe, clap your hands.\""
+msgstr "“你相信有仙女的存在嗎？信的話，就拍拍手吧。”"
+
+#. SKIN_QUOTES.wendy_rose
+msgctxt "SKIN_QUOTES.wendy_rose"
+msgid "\"A sickly, sweet rose, plucked in its prime. Why?\""
+msgstr "\"嬌豔甜美的玫瑰，在最美時 被摘下。為什麼？\""
+
+#. SKIN_QUOTES.wendy_rosep
+msgctxt "SKIN_QUOTES.wendy_rosep"
+msgid "\"A sickly, sweet rose, plucked in its prime. Why?\""
+msgstr "\"嬌豔甜美的玫瑰，在最美時 被摘下。為什麼？\""
+
+#. SKIN_QUOTES.wendy_shadow
+msgctxt "SKIN_QUOTES.wendy_shadow"
+msgid "\"Shadows are as black as ink, or night, or nightmares.\""
+msgstr "\"暗影漆黑如墨，亦如 黑夜，更如夢魘。\""
+
+#. SKIN_QUOTES.wendy_shadowp
+msgctxt "SKIN_QUOTES.wendy_shadowp"
+msgid "\"Shadows are as black as ink, or night, or nightmares.\""
+msgstr "\"暗影漆黑如墨，亦如 黑夜，更如夢魘。\""
+
+#. SKIN_QUOTES.wendy_survivor
+msgctxt "SKIN_QUOTES.wendy_survivor"
+msgid "\"I carry on for Abigail's sake.\""
+msgstr "\"為了阿比蓋爾，我才堅持下去的。\""
+
+#. SKIN_QUOTES.wendy_survivorp
+msgctxt "SKIN_QUOTES.wendy_survivorp"
+msgid "\"I carry on for Abigail's sake.\""
+msgstr "\"為了阿比蓋爾，我才堅持下去的。\""
+
+#. SKIN_QUOTES.wendy_victorian
+msgctxt "SKIN_QUOTES.wendy_victorian"
+msgid "\"I am in deepest mourning...\""
+msgstr "\"我最深切地哀悼...\""
+
+#. SKIN_QUOTES.wickerbottom_combatant
+msgctxt "SKIN_QUOTES.wickerbottom_combatant"
+msgid "\"Combat is all about technique, dear.\""
+msgstr "\"戰鬥的關鍵在於技巧，親愛的。\""
+
+#. SKIN_QUOTES.wickerbottom_cook
+msgctxt "SKIN_QUOTES.wickerbottom_cook"
+msgid "\"Just follow the recipe, dear.\""
+msgstr "\"照著菜譜做就行了，親愛的。\""
+
+#. SKIN_QUOTES.wickerbottom_formal
+msgctxt "SKIN_QUOTES.wickerbottom_formal"
+msgid "\"Even I let my hair down occasionally.\""
+msgstr "\"即使是我，有時也會放下姿態 痛快玩一場。\""
+
+#. SKIN_QUOTES.wickerbottom_gladiator
+msgctxt "SKIN_QUOTES.wickerbottom_gladiator"
+msgid "\"Goodness gracious, it seems you've been annihilated.\""
+msgstr "\"哎呀，看來等待著你的只有毀滅。\""
+
+#. SKIN_QUOTES.wickerbottom_ice
+msgctxt "SKIN_QUOTES.wickerbottom_ice"
+msgid "\"Would you like a sweetie, dear?\""
+msgstr "\"你想吃糖嗎，親愛的？\""
+
+#. SKIN_QUOTES.wickerbottom_lightninggoat
+msgctxt "SKIN_QUOTES.wickerbottom_lightninggoat"
+msgid "\"All it takes is a spark of genius.\""
+msgstr "\"它需要的只是一點靈感的火花。\""
+
+#. SKIN_QUOTES.wickerbottom_lightninggoat_d
+msgctxt "SKIN_QUOTES.wickerbottom_lightninggoat_d"
+msgid "\"All it takes is a spark of genius.\""
+msgstr "\"它需要的只是一點靈感的火花。\""
+
+#. SKIN_QUOTES.wickerbottom_lightninggoat_p
+msgctxt "SKIN_QUOTES.wickerbottom_lightninggoat_p"
+msgid "\"All it takes is a spark of genius.\""
+msgstr "\"它需要的只是一點靈感的火花。\""
+
+#. SKIN_QUOTES.wickerbottom_magma
+msgctxt "SKIN_QUOTES.wickerbottom_magma"
+msgid "\"Watch for my extrusive igneous rocks, dear.\""
+msgstr "\"小心我的噴出岩，親愛的。\""
+
+#. SKIN_QUOTES.wickerbottom_rose
+msgctxt "SKIN_QUOTES.wickerbottom_rose"
+msgid "\"Ah, to see the world through rose-colored glasses.\""
+msgstr "\"啊，透過玫瑰色的眼鏡看這世界。\""
+
+#. SKIN_QUOTES.wickerbottom_shadow
+msgctxt "SKIN_QUOTES.wickerbottom_shadow"
+msgid "\"Knowledge is power!\""
+msgstr "\"知識就是力量！\""
+
+#. SKIN_QUOTES.wickerbottom_spiderwitch
+msgctxt "SKIN_QUOTES.wickerbottom_spiderwitch"
+msgid "\"Magic is merely science that hasn't been categorized yet.\""
+msgstr "\"魔法不過是未分類的科學罷了。\""
+
+#. SKIN_QUOTES.wickerbottom_survivor
+msgctxt "SKIN_QUOTES.wickerbottom_survivor"
+msgid "\"I hope I don't break my glasses.\""
+msgstr "\"我希望我不會打碎眼鏡。\""
+
+#. SKIN_QUOTES.wickerbottom_victorian
+msgctxt "SKIN_QUOTES.wickerbottom_victorian"
+msgid "\"Manners, my dear.\""
+msgstr "\"注意禮儀，我親愛的。\""
+
+#. SKIN_QUOTES.wickerbottom_yule
+msgctxt "SKIN_QUOTES.wickerbottom_yule"
+msgid "\"As usual, the responsibility of organizing the seasonal festivities falls to me.\""
+msgstr "“按照慣例，組織節慶祝活動的責任落在了我身上。”"
+
+#. SKIN_QUOTES.willow_combatant
+msgctxt "SKIN_QUOTES.willow_combatant"
+msgid "\"I can handle myself.\""
+msgstr "\"我應付得過來。\""
+
+#. SKIN_QUOTES.willow_cook
+msgctxt "SKIN_QUOTES.willow_cook"
+msgid "\"My food's always burned to perfection!\""
+msgstr "\"我的食物總是燒到完美狀態！\""
+
+#. SKIN_QUOTES.willow_dowdy
+msgctxt "SKIN_QUOTES.willow_dowdy"
+msgid "\"I didn't do it. Really.\""
+msgstr "\"不是我幹的。真的。\""
+
+#. SKIN_QUOTES.willow_dragonfly
+msgctxt "SKIN_QUOTES.willow_dragonfly"
+msgid "\"Woah, I'm smokin'! (No, really!)\""
+msgstr "\"哇哦，我在冒煙！（是真的！）\""
+
+#. SKIN_QUOTES.willow_dragonfly_d
+msgctxt "SKIN_QUOTES.willow_dragonfly_d"
+msgid "\"Woah, I'm smokin'! (No, really!)\""
+msgstr "\"哇哦，我在冒煙！（是真的！）\""
+
+#. SKIN_QUOTES.willow_dragonfly_p
+msgctxt "SKIN_QUOTES.willow_dragonfly_p"
+msgid "\"Woah, I'm smokin'! (No, really!)\""
+msgstr "\"哇哦，我在冒煙！（是真的！）\""
+
+#. SKIN_QUOTES.willow_formal
+msgctxt "SKIN_QUOTES.willow_formal"
+msgid "\"He died before getting to see these beautiful flames.\""
+msgstr "\"他還沒看到這些美麗的火焰 就死了。\""
+
+#. SKIN_QUOTES.willow_formalp
+msgctxt "SKIN_QUOTES.willow_formalp"
+msgid "\"He died before getting to see these beautiful flames.\""
+msgstr "\"他還沒看到這些美麗的火焰 就死了。\""
+
+#. SKIN_QUOTES.willow_gladiator
+msgctxt "SKIN_QUOTES.willow_gladiator"
+msgid "\"Play with fire and you'll get burned.\""
+msgstr "\"惹火必將燒身。\""
+
+#. SKIN_QUOTES.willow_haunteddoll
+msgctxt "SKIN_QUOTES.willow_haunteddoll"
+msgid "\"Why did you leave me?\""
+msgstr "\"你為什麼丟下我？\""
+
+#. SKIN_QUOTES.willow_ice
+msgctxt "SKIN_QUOTES.willow_ice"
+msgid "\"Why couldn't it be warm fire?\""
+msgstr "\"為什麼就沒有溫暖的火呢？\""
+
+#. SKIN_QUOTES.willow_magma
+msgctxt "SKIN_QUOTES.willow_magma"
+msgid "\"All fire, all the time!!\""
+msgstr "\"全部火焰，一起發射！！\""
+
+#. SKIN_QUOTES.willow_rose
+msgctxt "SKIN_QUOTES.willow_rose"
+msgid "\"A rose to symbolize the flames of passion.\""
+msgstr "\"玫瑰象徵著熱情的火焰。\""
+
+#. SKIN_QUOTES.willow_rosep
+msgctxt "SKIN_QUOTES.willow_rosep"
+msgid "\"A rose to symbolize the flames of passion.\""
+msgstr "\"玫瑰象徵著熱情的火焰。\""
+
+#. SKIN_QUOTES.willow_shadow
+msgctxt "SKIN_QUOTES.willow_shadow"
+msgid "\"Shadows are just inverted flames.\""
+msgstr "\"暗影就是是褪色的火焰。\""
+
+#. SKIN_QUOTES.willow_shadowp
+msgctxt "SKIN_QUOTES.willow_shadowp"
+msgid "\"Shadows are just inverted flames.\""
+msgstr "\"暗影就是是褪色的火焰。\""
+
+#. SKIN_QUOTES.willow_survivor
+msgctxt "SKIN_QUOTES.willow_survivor"
+msgid "\"Surviving just requires strength of will. (And fire.)\""
+msgstr "\"生存只需要堅強的意志。（還有火。）\""
+
+#. SKIN_QUOTES.willow_survivorp
+msgctxt "SKIN_QUOTES.willow_survivorp"
+msgid "\"Surviving just requires strength of will. (And fire.)\""
+msgstr "\"生存只需要堅強的意志。（還有火。）\""
+
+#. SKIN_QUOTES.willow_victorian
+msgctxt "SKIN_QUOTES.willow_victorian"
+msgid "\"Fancy a matchstick, sir?\""
+msgstr "\"要不要來根火柴棒呢，先生？\""
+
+#. SKIN_QUOTES.willow_yule
+msgctxt "SKIN_QUOTES.willow_yule"
+msgid "\"It's the perfect time of year for sitting in front of a roaring fire.\""
+msgstr "“一年中，數現在最適合坐在熊熊燃燒的火之前。”"
+
+#. SKIN_QUOTES.wilson_combatant
+msgctxt "SKIN_QUOTES.wilson_combatant"
+msgid "\"This may prove to be my most dangerous experiment yet.\""
+msgstr "\"這或許是我目前為止最危險的實驗。\""
+
+#. SKIN_QUOTES.wilson_cook
+msgctxt "SKIN_QUOTES.wilson_cook"
+msgid "\"Oh yes, I'm cooking something up.\""
+msgstr "\"哦是的，我在煮東西呢。\""
+
+#. SKIN_QUOTES.wilson_formal
+msgctxt "SKIN_QUOTES.wilson_formal"
+msgid "\"I hate parties.\""
+msgstr "\"我討厭聚會。\""
+
+#. SKIN_QUOTES.wilson_gladiator
+msgctxt "SKIN_QUOTES.wilson_gladiator"
+msgid "\"I've the brains AND the brawn.\""
+msgstr "\"我可是智勇雙全。\""
+
+#. SKIN_QUOTES.wilson_ice
+msgctxt "SKIN_QUOTES.wilson_ice"
+msgid "\"Brrrrr!\""
+msgstr "\"好冷啊啊啊啊！\""
+
+#. SKIN_QUOTES.wilson_madscience
+msgctxt "SKIN_QUOTES.wilson_madscience"
+msgid "\"Stand back. I'm going to do SCIENCE!\""
+msgstr "\"往後站。我要搞科學了！\""
+
+#. SKIN_QUOTES.wilson_magma
+msgctxt "SKIN_QUOTES.wilson_magma"
+msgid "\"I've harnessed the power of the earth's core!\""
+msgstr "\"我獲得了地心的力量！\""
+
+#. SKIN_QUOTES.wilson_nature
+msgctxt "SKIN_QUOTES.wilson_nature"
+msgid "\"Field botany isn't my specialty... but it's growing on me.\""
+msgstr "“戶外植物學不是我的專業……\n但我最近越來越著迷了。”"
+
+#. SKIN_QUOTES.wilson_pigguard
+msgctxt "SKIN_QUOTES.wilson_pigguard"
+msgid "\"I'm sure I had a scientific reason for this.\""
+msgstr "\"我確信我能為此給出一個科學理由。\""
+
+#. SKIN_QUOTES.wilson_pigguard_d
+msgctxt "SKIN_QUOTES.wilson_pigguard_d"
+msgid "\"I'm sure I had a scientific reason for this.\""
+msgstr "\"我確信我能為此 給出一個科學理由。\""
+
+#. SKIN_QUOTES.wilson_pigguard_p
+msgctxt "SKIN_QUOTES.wilson_pigguard_p"
+msgid "\"I'm sure I had a scientific reason for this.\""
+msgstr "\"我確信我能為此 給出一個科學理由。\""
+
+#. SKIN_QUOTES.wilson_rose
+msgctxt "SKIN_QUOTES.wilson_rose"
+msgid "\"Perhaps I'll retire to a life of rose breeding.\""
+msgstr "\"也許我該退休 當個玫瑰花匠。\""
+
+#. SKIN_QUOTES.wilson_shadow
+msgctxt "SKIN_QUOTES.wilson_shadow"
+msgid "\"Mwahahaha!\""
+msgstr "\"木哈哈哈！\""
+
+#. SKIN_QUOTES.wilson_survivor
+msgctxt "SKIN_QUOTES.wilson_survivor"
+msgid "\"There is a scientific solution, here. I know it.\""
+msgstr "\"這肯定有科學的解法， 我確信。\""
+
+#. SKIN_QUOTES.wilson_victorian
+msgctxt "SKIN_QUOTES.wilson_victorian"
+msgid "\"The root of all malady lies in an imbalance of the humors.\""
+msgstr "\"幽默感失衡是百病之源。\""
+
+#. SKIN_QUOTES.wilson_yule
+msgctxt "SKIN_QUOTES.wilson_yule"
+msgid "\"After some experimentation, I think I've discovered the perfect ratio between holly and jolly.\""
+msgstr "“經過一些實驗，我想我已經發現了冬青和歡樂之間的完美比例。”"
+
+#. SKIN_QUOTES.winona_combatant
+msgctxt "SKIN_QUOTES.winona_combatant"
+msgid "\"I can tough anything out.\""
+msgstr "\"我什麼都受得住。\""
+
+#. SKIN_QUOTES.winona_cook
+msgctxt "SKIN_QUOTES.winona_cook"
+msgid "\"Let ol'Winnie fix ya up somethin' special.\""
+msgstr "\"讓老薇給你做點特別好吃的吧。\""
+
+#. SKIN_QUOTES.winona_factory
+msgctxt "SKIN_QUOTES.winona_factory"
+msgid "\"Time to roll up my sleeves.\""
+msgstr "\"卷起袖子幹活吧\""
+
+#. SKIN_QUOTES.winona_formal
+msgctxt "SKIN_QUOTES.winona_formal"
+msgid "\"The life of the party has arrived!\""
+msgstr "\"派對生活開始了！\""
+
+#. SKIN_QUOTES.winona_formalp
+msgctxt "SKIN_QUOTES.winona_formalp"
+msgid "\"The life of the party has arrived!\""
+msgstr "\"派對生活開始了！\""
+
+#. SKIN_QUOTES.winona_frankenstein
+msgctxt "SKIN_QUOTES.winona_frankenstein"
+msgid "\"Ha ha! Did I scare ya?\""
+msgstr "\"哈哈！我嚇到你了吧？\""
+
+#. SKIN_QUOTES.winona_gladiator
+msgctxt "SKIN_QUOTES.winona_gladiator"
+msgid "\"You seem to think you got a chance. Let's fix that.\""
+msgstr "\"你覺得有機會？\n我來幫你糾正一下那個想法吧。\""
+
+#. SKIN_QUOTES.winona_grassgecko
+msgctxt "SKIN_QUOTES.winona_grassgecko"
+msgid "\"Heh heh, this thing's itchy.\""
+msgstr "\"呵呵，這東西很癢。\""
+
+#. SKIN_QUOTES.winona_grassgecko_d
+msgctxt "SKIN_QUOTES.winona_grassgecko_d"
+msgid "\"Heh heh, this thing's itchy.\""
+msgstr "\"呵呵，這東西很癢。\""
+
+#. SKIN_QUOTES.winona_grassgecko_p
+msgctxt "SKIN_QUOTES.winona_grassgecko_p"
+msgid "\"Heh heh, this thing's itchy.\""
+msgstr "\"呵呵，這東西很癢。\""
+
+#. SKIN_QUOTES.winona_ice
+msgctxt "SKIN_QUOTES.winona_ice"
+msgid "\"There'll be no slip-ups while I'm in charge!\""
+msgstr "“我主事的時候，不會出任何紕漏！”"
+
+#. SKIN_QUOTES.winona_magma
+msgctxt "SKIN_QUOTES.winona_magma"
+msgid "\"Tough as obsidian.\""
+msgstr "\"如黑曜石般堅硬。\""
+
+#. SKIN_QUOTES.winona_nature
+msgctxt "SKIN_QUOTES.winona_nature"
+msgid "\"There's few things more satisfying than watchin' something grow.\""
+msgstr "\"看著植物生長 很有成就感。\""
+
+#. SKIN_QUOTES.winona_rose
+msgctxt "SKIN_QUOTES.winona_rose"
+msgid "\"Thought and conscientiousness nips all problems in the bud.\""
+msgstr "\"思想和勤勞能預防問題發生。\""
+
+#. SKIN_QUOTES.winona_rosep
+msgctxt "SKIN_QUOTES.winona_rosep"
+msgid "\"Thought and conscientiousness nips all problems in the bud.\""
+msgstr "\"思想和勤勞能預防問題發生。\""
+
+#. SKIN_QUOTES.winona_shadow
+msgctxt "SKIN_QUOTES.winona_shadow"
+msgid "\"You are but a cog in my machine.\""
+msgstr "\"你不過是我機器裡的一個小齒輪。\""
+
+#. SKIN_QUOTES.winona_shadowp
+msgctxt "SKIN_QUOTES.winona_shadowp"
+msgid "\"You are but a cog in my machine.\""
+msgstr "\"你不過是我機器裡的一個小齒輪。\""
+
+#. SKIN_QUOTES.winona_survivor
+msgctxt "SKIN_QUOTES.winona_survivor"
+msgid "\"I don't break down easy.\""
+msgstr "\"我才不會那麼輕易崩潰。\""
+
+#. SKIN_QUOTES.winona_survivorp
+msgctxt "SKIN_QUOTES.winona_survivorp"
+msgid "\"I don't break down easy.\""
+msgstr "\"我才不會那麼輕易崩潰。\""
+
+#. SKIN_QUOTES.winona_victorian
+msgctxt "SKIN_QUOTES.winona_victorian"
+msgid "\"Honest work makes an honest woman.\""
+msgstr "\"誠實的工作鍛煉出誠實的女人。\""
+
+#. SKIN_QUOTES.winona_wrestler
+msgctxt "SKIN_QUOTES.winona_wrestler"
+msgid "\"Come on. Give it your best shot.\""
+msgstr "\"來吧。亮亮你的本事。\""
+
+#. SKIN_QUOTES.winona_yule
+msgctxt "SKIN_QUOTES.winona_yule"
+msgid "\"Whaddya say we get the gang together fer some carols?\""
+msgstr "\"我們把小夥伴都叫在一起唱聖歌怎麼樣?\""
+
+#. SKIN_QUOTES.wolfgang_combatant
+msgctxt "SKIN_QUOTES.wolfgang_combatant"
+msgid "\"Mighty Wolfgang cannot wait to step into ring!\""
+msgstr "\"強大的沃爾夫岡等不及要進入決鬥圈了！\""
+
+#. SKIN_QUOTES.wolfgang_cook
+msgctxt "SKIN_QUOTES.wolfgang_cook"
+msgid "\"Wolfgang will cook for you!\""
+msgstr "\"沃爾夫岡給你做飯吃！\""
+
+#. SKIN_QUOTES.wolfgang_formal
+msgctxt "SKIN_QUOTES.wolfgang_formal"
+msgid "\"I used my special moustache wax.\""
+msgstr "\"我用了特別的鬍鬚蠟。\""
+
+#. SKIN_QUOTES.wolfgang_formalp
+msgctxt "SKIN_QUOTES.wolfgang_formalp"
+msgid "\"I used my special moustache wax.\""
+msgstr "\"我用了特別的鬍鬚蠟。\""
+
+#. SKIN_QUOTES.wolfgang_gladiator
+msgctxt "SKIN_QUOTES.wolfgang_gladiator"
+msgid "\"You will kneel before might of Wolfgang!\""
+msgstr "\"在沃爾夫岡的力量前跪下！\""
+
+#. SKIN_QUOTES.wolfgang_ice
+msgctxt "SKIN_QUOTES.wolfgang_ice"
+msgid "\"Cold does not bother Wolfgang!\""
+msgstr "\"寒冷對沃爾夫岡不算什麼！\""
+
+#. SKIN_QUOTES.wolfgang_magma
+msgctxt "SKIN_QUOTES.wolfgang_magma"
+msgid "\"Wolfgang is on the fire.\""
+msgstr "\"沃爾夫岡著火了。\""
+
+#. SKIN_QUOTES.wolfgang_nature
+msgctxt "SKIN_QUOTES.wolfgang_nature"
+msgid "\"The hills will ring with Wolfgang's mighty yodels!\""
+msgstr "“山間會響徹沃爾夫岡\n明亮的約得爾歌！”"
+
+#. SKIN_QUOTES.wolfgang_rose
+msgctxt "SKIN_QUOTES.wolfgang_rose"
+msgid "\"Dainty rose make Wolfgang strong, cultured man.\""
+msgstr "\"嬌美的玫瑰讓沃爾夫岡 變成斯文的壯漢。\""
+
+#. SKIN_QUOTES.wolfgang_rosep
+msgctxt "SKIN_QUOTES.wolfgang_rosep"
+msgid "\"Dainty rose make Wolfgang strong, cultured man.\""
+msgstr "\"嬌美的玫瑰讓沃爾夫岡 變成斯文的壯漢。\""
+
+#. SKIN_QUOTES.wolfgang_shadow
+msgctxt "SKIN_QUOTES.wolfgang_shadow"
+msgid "\"Do not challenge the Mighty Wolfgang!\""
+msgstr "\"不要挑戰強大的沃爾夫岡！\""
+
+#. SKIN_QUOTES.wolfgang_shadowp
+msgctxt "SKIN_QUOTES.wolfgang_shadowp"
+msgid "\"Do not challenge the Mighty Wolfgang!\""
+msgstr "\"不要挑戰強大的沃爾夫岡！\""
+
+#. SKIN_QUOTES.wolfgang_strongman
+msgctxt "SKIN_QUOTES.wolfgang_strongman"
+msgid "\"Wolfgang is strongest there ever was!\""
+msgstr "“沃爾夫岡是史上最強的人！”"
+
+#. SKIN_QUOTES.wolfgang_survivor
+msgctxt "SKIN_QUOTES.wolfgang_survivor"
+msgid "\"Wolfgang is tough. Lots of muscle.\""
+msgstr "\"沃爾夫岡身強力壯，渾身肌肉。\""
+
+#. SKIN_QUOTES.wolfgang_survivorp
+msgctxt "SKIN_QUOTES.wolfgang_survivorp"
+msgid "\"Wolfgang is tough. Lots of muscle.\""
+msgstr "\"沃爾夫岡身強力壯，渾身肌肉。\""
+
+#. SKIN_QUOTES.wolfgang_victorian
+msgctxt "SKIN_QUOTES.wolfgang_victorian"
+msgid "\"Sir Wolfgang is strongest boxer!\""
+msgstr "\"沃爾夫岡先生是最強壯拳擊手！\""
+
+#. SKIN_QUOTES.wolfgang_walrus
+msgctxt "SKIN_QUOTES.wolfgang_walrus"
+msgid "\"Wolfgang is large moustache man! Ha ha!\""
+msgstr "\"沃爾夫岡是一個大鬍子男人！哈哈！\""
+
+#. SKIN_QUOTES.wolfgang_walrus_d
+msgctxt "SKIN_QUOTES.wolfgang_walrus_d"
+msgid "\"Wolfgang is large moustache man! Ha ha!\""
+msgstr "\"沃爾夫岡是一個大鬍子！ 哈哈！\""
+
+#. SKIN_QUOTES.wolfgang_walrus_p
+msgctxt "SKIN_QUOTES.wolfgang_walrus_p"
+msgid "\"Wolfgang is large moustache man! Ha ha!\""
+msgstr "\"沃爾夫岡是一個大鬍子！ 哈哈！\""
+
+#. SKIN_QUOTES.wolfgang_wolfman
+msgctxt "SKIN_QUOTES.wolfgang_wolfman"
+msgid "\"Something is different... Wolfgang's head feels fuzzy...\""
+msgstr "“有些不對勁……\n沃爾夫岡的頭開始模模糊糊了……”"
+
+#. SKIN_QUOTES.wolfgang_wrestler
+msgctxt "SKIN_QUOTES.wolfgang_wrestler"
+msgid "\"Mightiest Wolfgang is no heel!\""
+msgstr "\"無敵的沃爾夫岡絕不是反派！\""
+
+#. SKIN_QUOTES.woodie_combatant
+msgctxt "SKIN_QUOTES.woodie_combatant"
+msgid "\"I've been in scraps before, eh?\""
+msgstr "\"更糟糕的地方我都去過了，懂嗎？\""
+
+#. SKIN_QUOTES.woodie_cook
+msgctxt "SKIN_QUOTES.woodie_cook"
+msgid "\"Lucy is my sous chef.\""
+msgstr "\"露西是我的副主廚。\""
+
+#. SKIN_QUOTES.woodie_formal
+msgctxt "SKIN_QUOTES.woodie_formal"
+msgid "\"I clean up pretty good, eh?\""
+msgstr "\"我收拾得很乾淨吧，嗯？\""
+
+#. SKIN_QUOTES.woodie_formalp
+msgctxt "SKIN_QUOTES.woodie_formalp"
+msgid "\"I clean up pretty good, eh?\""
+msgstr "\"我收拾得很乾淨吧，嗯？\""
+
+#. SKIN_QUOTES.woodie_gladiator
+msgctxt "SKIN_QUOTES.woodie_gladiator"
+msgid "\"Don't start a tussle you can't finish.\""
+msgstr "\"不要挑起你沒有勝算的戰鬥！\""
+
+#. SKIN_QUOTES.woodie_hippie
+msgctxt "SKIN_QUOTES.woodie_hippie"
+msgid "\"Well, at least Lucy thinks it's scary!\""
+msgstr "“好吧，起碼露西覺得這很嚇人！”"
+
+#. SKIN_QUOTES.woodie_hockey
+msgctxt "SKIN_QUOTES.woodie_hockey"
+msgid "\"It's the best game you can name!\""
+msgstr "\"最好的體育項目\""
+
+#. SKIN_QUOTES.woodie_magma
+msgctxt "SKIN_QUOTES.woodie_magma"
+msgid "\"Hope I don't burn the trees.\""
+msgstr "\"希望我不會燒著樹木。\""
+
+#. SKIN_QUOTES.woodie_nature
+msgctxt "SKIN_QUOTES.woodie_nature"
+msgid "\"Even the most majestic tree's gotta start as a seed.\""
+msgstr "\"即使參天大樹也是從樹種開始的。\""
+
+#. SKIN_QUOTES.woodie_rose
+msgctxt "SKIN_QUOTES.woodie_rose"
+msgid "\"I grow, untamed and untended.\""
+msgstr "\"我在成長，自由不羈，不修邊幅。\""
+
+#. SKIN_QUOTES.woodie_rosep
+msgctxt "SKIN_QUOTES.woodie_rosep"
+msgid "\"I grow, untamed and untended.\""
+msgstr "\"我在成長，自由不羈，不修邊幅。\""
+
+#. SKIN_QUOTES.woodie_shadow
+msgctxt "SKIN_QUOTES.woodie_shadow"
+msgid "\"Forests are full of shadows, eh?\""
+msgstr "\"森林滿布暗影，嗯？\""
+
+#. SKIN_QUOTES.woodie_shadowp
+msgctxt "SKIN_QUOTES.woodie_shadowp"
+msgid "\"Forests are full of shadows, eh?\""
+msgstr "\"森林滿布暗影，嗯？\""
+
+#. SKIN_QUOTES.woodie_survivor
+msgctxt "SKIN_QUOTES.woodie_survivor"
+msgid "\"I could do with a haircut and a cup of tea, eh?\""
+msgstr "\"我可以理個發，然後喝杯茶，嗯？\""
+
+#. SKIN_QUOTES.woodie_survivorp
+msgctxt "SKIN_QUOTES.woodie_survivorp"
+msgid "\"I could do with a haircut and a cup of tea, eh?\""
+msgstr "\"我可以理個發，然後喝杯茶，嗯？\""
+
+#. SKIN_QUOTES.woodie_treeguard
+msgctxt "SKIN_QUOTES.woodie_treeguard"
+msgid "\"To chop the tree, you must be the tree.\""
+msgstr "\"要砍樹，你必須先成為樹。\""
+
+#. SKIN_QUOTES.woodie_treeguard_d
+msgctxt "SKIN_QUOTES.woodie_treeguard_d"
+msgid "\"To chop the tree, you must be the tree.\""
+msgstr "\"要砍樹，你必須先成為樹。\""
+
+#. SKIN_QUOTES.woodie_treeguard_p
+msgctxt "SKIN_QUOTES.woodie_treeguard_p"
+msgid "\"To chop the tree, you must be the tree.\""
+msgstr "\"要砍樹，你必須先成為樹。\""
+
+#. SKIN_QUOTES.woodie_victorian
+msgctxt "SKIN_QUOTES.woodie_victorian"
+msgid "\"They ain't beaver pelts, I'll tell ya that much.\""
+msgstr "\"這些不是海狸皮。 我只能告訴你這麼多了。\""
+
+#. SKIN_QUOTES.woodie_yule
+msgctxt "SKIN_QUOTES.woodie_yule"
+msgid "\"Quiet your voice here. The trees slumber.\""
+msgstr "\"聲音低一點。樹木在休息。\""
+
+#. SKIN_QUOTES.wormwood_cactus
+msgctxt "SKIN_QUOTES.wormwood_cactus"
+msgid "\"Hug?\""
+msgstr "\"抱一抱？\""
+
+#. SKIN_QUOTES.wormwood_mushroom
+msgctxt "SKIN_QUOTES.wormwood_mushroom"
+msgid "\"Cave lonely\""
+msgstr "\"孤單的洞穴\""
+
+#. SKIN_QUOTES.wormwood_pumpkin
+msgctxt "SKIN_QUOTES.wormwood_pumpkin"
+msgid "\"Spoooooky!\""
+msgstr "“真嚇人！”"
+
+#. SKIN_QUOTES.wormwood_rose
+msgctxt "SKIN_QUOTES.wormwood_rose"
+msgid "\"Feel big fancy\""
+msgstr "\"感覺好高級\""
+
+#. SKIN_QUOTES.wormwood_saladmander
+msgctxt "SKIN_QUOTES.wormwood_saladmander"
+msgid "\"Hot bath sound nice...\""
+msgstr "\"熱水澡，好呀……\""
+
+#. SKIN_QUOTES.wormwood_saladmander_d
+msgctxt "SKIN_QUOTES.wormwood_saladmander_d"
+msgid "\"Hot bath sound nice...\""
+msgstr "\"熱水澡，好呀……\""
+
+#. SKIN_QUOTES.wormwood_saladmander_p
+msgctxt "SKIN_QUOTES.wormwood_saladmander_p"
+msgid "\"Hot bath sound nice...\""
+msgstr "\"熱水澡，好呀……\""
+
+#. SKIN_QUOTES.wormwood_shadow
+msgctxt "SKIN_QUOTES.wormwood_shadow"
+msgid "\"All... will rot...\""
+msgstr "“一切……都會腐爛……”"
+
+#. SKIN_QUOTES.wormwood_victorian
+msgctxt "SKIN_QUOTES.wormwood_victorian"
+msgid "\"Swirly shiny!\""
+msgstr "“旋轉，閃閃！”"
+
+#. SKIN_QUOTES.wormwood_yule
+msgctxt "SKIN_QUOTES.wormwood_yule"
+msgid "\"Feel pretty\""
+msgstr "“好美”"
+
+#. SKIN_QUOTES.wortox_dragon
+msgctxt "SKIN_QUOTES.wortox_dragon"
+msgid "\"Don't get between me and my hoard of souls.\""
+msgstr "\"休想搶走我囤積的靈魂。\""
+
+#. SKIN_QUOTES.wortox_ice
+msgctxt "SKIN_QUOTES.wortox_ice"
+msgid "\"Don't slip up or you might get a face full of snow, hyuyu!\""
+msgstr "“別滑倒了，不然就會摔得滿臉都是雪，哼哼！”"
+
+#. SKIN_QUOTES.wortox_minotaur
+msgctxt "SKIN_QUOTES.wortox_minotaur"
+msgid "\"Won't you visit me at the heart of the labyrinth?\""
+msgstr "\"你會來迷宮中心看我嗎?\""
+
+#. SKIN_QUOTES.wortox_nature
+msgctxt "SKIN_QUOTES.wortox_nature"
+msgid "\"Follow me into the forest deep, where impish sorts frolic and play!\""
+msgstr "“隨我進入森林深處，那裡有小惡魔在玩耍嬉戲。”"
+
+#. SKIN_QUOTES.wortox_noeyeddeer
+msgctxt "SKIN_QUOTES.wortox_noeyeddeer"
+msgid "\"Oh dear, I have no idea where I'm going.\""
+msgstr "\"噢，天啊，我都不知道要去哪。\""
+
+#. SKIN_QUOTES.wortox_noeyeddeer_d
+msgctxt "SKIN_QUOTES.wortox_noeyeddeer_d"
+msgid "\"Oh dear, I have no idea where I'm going.\""
+msgstr "\"噢，天啊，我都不知道要去哪。\""
+
+#. SKIN_QUOTES.wortox_noeyeddeer_p
+msgctxt "SKIN_QUOTES.wortox_noeyeddeer_p"
+msgid "\"Oh dear, I have no idea where I'm going.\""
+msgstr "\"噢，天啊，我都不知道要去哪。\""
+
+#. SKIN_QUOTES.wortox_original
+msgctxt "SKIN_QUOTES.wortox_original"
+msgid "\"Ol'Kramps says my powers should grow in soon. Hyuyu!\""
+msgstr "\"坎普斯說我的能力 馬上就會變得更強。哼!\""
+
+#. SKIN_QUOTES.wortox_survivor
+msgctxt "SKIN_QUOTES.wortox_survivor"
+msgid "\"Try not to cower in fear, my dear!\""
+msgstr "\"親愛的，別害怕！\""
+
+#. SKIN_QUOTES.wortox_victorian
+msgctxt "SKIN_QUOTES.wortox_victorian"
+msgid "\"Ol'Kramps did always say; if I kept making a funny face it'd get stuck that way.\""
+msgstr "“坎普斯說過：要是我一直笑，臉就會僵住。”"
+
+#. SKIN_QUOTES.wurt_cave
+msgctxt "SKIN_QUOTES.wurt_cave"
+msgid "\"It called bye-oh-loomy...loominess...loomin-essence... GLOWY!\""
+msgstr "\"這個叫剩物（生物）發光……發光！\""
+
+#. SKIN_QUOTES.wurt_formal
+msgctxt "SKIN_QUOTES.wurt_formal"
+msgid "\"Frilly and gilly, florp!\""
+msgstr "\"褶邊多，康乃馨， 浮浪噗！\""
+
+#. SKIN_QUOTES.wurt_rose
+msgctxt "SKIN_QUOTES.wurt_rose"
+msgid "\"Dressing up not so bad sometimes.\""
+msgstr "“有時打扮一下也不是壞事。”"
+
+#. SKIN_QUOTES.wurt_shadow
+msgctxt "SKIN_QUOTES.wurt_shadow"
+msgid "\"Come closer... won't bite! (Hee-hee...)\""
+msgstr "\"靠近點……不咬人（嘿嘿）\""
+
+#. SKIN_QUOTES.wurt_squid
+msgctxt "SKIN_QUOTES.wurt_squid"
+msgid "\"Not from fairy story... from scary story!\""
+msgstr "“不是從童話裡來的……\n是從恐怖故事裡來的！”"
+
+#. SKIN_QUOTES.wurt_toadstool
+msgctxt "SKIN_QUOTES.wurt_toadstool"
+msgid "\"Am poison, no eat!\""
+msgstr "\"有毒，別吃！\""
+
+#. SKIN_QUOTES.wurt_toadstool_d
+msgctxt "SKIN_QUOTES.wurt_toadstool_d"
+msgid "\"Am poison, no eat!\""
+msgstr "\"有毒，別吃！\""
+
+#. SKIN_QUOTES.wurt_toadstool_p
+msgctxt "SKIN_QUOTES.wurt_toadstool_p"
+msgid "\"Am poison, no eat!\""
+msgstr "\"有毒，別吃！\""
+
+#. SKIN_QUOTES.wurt_victorian
+msgctxt "SKIN_QUOTES.wurt_victorian"
+msgid "\"What... happening...? Feel... strange...\""
+msgstr "“發生……什麼了？感覺……真奇怪……”"
+
+#. SKIN_QUOTES.wurt_yule
+msgctxt "SKIN_QUOTES.wurt_yule"
+msgid "\"Am sugarplum fairy, florp. Gimme plums!\""
+msgstr "“我是甜梅仙子，浮浪噗。給我李子吃！”"
+
+#. SKIN_QUOTES.wx78_combatant
+msgctxt "SKIN_QUOTES.wx78_combatant"
+msgid "\"THIS UNIT IS BATTLE READY\""
+msgstr "\"此單位已做好戰鬥準備\""
+
+#. SKIN_QUOTES.wx78_cook
+msgctxt "SKIN_QUOTES.wx78_cook"
+msgid "\"MEAL SERVER DOWN\""
+msgstr "\"餐食服務員出現問題\""
+
+#. SKIN_QUOTES.wx78_formal
+msgctxt "SKIN_QUOTES.wx78_formal"
+msgid "\"I POLISHED MY CHASSIS FOR THE OCCASION\""
+msgstr "\"我為特別的日子裝扮自己的身軀。\""
+
+#. SKIN_QUOTES.wx78_formalp
+msgctxt "SKIN_QUOTES.wx78_formalp"
+msgid "\"I POLISHED MY CHASSIS FOR THE OCCASION\""
+msgstr "\"我為特別的日子裝扮自己的身軀。\""
+
+#. SKIN_QUOTES.wx78_gladiator
+msgctxt "SKIN_QUOTES.wx78_gladiator"
+msgid "\"ALL FLESHLINGS WILL BE CRUSHED\""
+msgstr "\"所有肉體生物都將被摧毀\""
+
+#. SKIN_QUOTES.wx78_ice
+msgctxt "SKIN_QUOTES.wx78_ice"
+msgid "\"IF I HAD A HEART IT WOULD BE MADE OF ICE\""
+msgstr "“如果我有心臟，那也會是寒冰做的”"
+
+#. SKIN_QUOTES.wx78_magma
+msgctxt "SKIN_QUOTES.wx78_magma"
+msgid "\"PROGRAMMED IN LAVASCRIPT\""
+msgstr "\"用熔岩指令碼語言編寫而成\""
+
+#. SKIN_QUOTES.wx78_nature
+msgctxt "SKIN_QUOTES.wx78_nature"
+msgid "\"I AM THE ROOT OF ALL EVIL\""
+msgstr "\"我是一切邪惡的根源\""
+
+#. SKIN_QUOTES.wx78_retro
+msgctxt "SKIN_QUOTES.wx78_retro"
+msgid "\"I AM THE FUTURE\""
+msgstr "“我即未來”"
+
+#. SKIN_QUOTES.wx78_rhinorook
+msgctxt "SKIN_QUOTES.wx78_rhinorook"
+msgid "\"OVERCHARGED, READY TO CHARGE\""
+msgstr "\"充電過度，準備釋放\""
+
+#. SKIN_QUOTES.wx78_rhinorook_d
+msgctxt "SKIN_QUOTES.wx78_rhinorook_d"
+msgid "\"OVERCHARGED, READY TO CHARGE\""
+msgstr "\"充電過度，準備釋放\""
+
+#. SKIN_QUOTES.wx78_rhinorook_p
+msgctxt "SKIN_QUOTES.wx78_rhinorook_p"
+msgid "\"OVERCHARGED, READY TO CHARGE\""
+msgstr "\"充電過度，準備釋放\""
+
+#. SKIN_QUOTES.wx78_rose
+msgctxt "SKIN_QUOTES.wx78_rose"
+msgid "\"OVERGROWN. CIRCUITS BLOWN\""
+msgstr "\"長瘋了。斷路了。\""
+
+#. SKIN_QUOTES.wx78_rosep
+msgctxt "SKIN_QUOTES.wx78_rosep"
+msgid "\"OVERGROWN. CIRCUITS BLOWN\""
+msgstr "\"長瘋了。斷路了。\""
+
+#. SKIN_QUOTES.wx78_shadow
+msgctxt "SKIN_QUOTES.wx78_shadow"
+msgid "\"NOW THE OUTSIDE MATCHES THE INSIDE. EVIL.\""
+msgstr "\"惡魔。現在你表裡如一了。\""
+
+#. SKIN_QUOTES.wx78_shadowp
+msgctxt "SKIN_QUOTES.wx78_shadowp"
+msgid "\"NOW THE OUTSIDE MATCHES THE INSIDE. EVIL.\""
+msgstr "\"惡魔。現在你表裡如一了。\""
+
+#. SKIN_QUOTES.wx78_survivor
+msgctxt "SKIN_QUOTES.wx78_survivor"
+msgid "\"RUSTED AND BUSTED\""
+msgstr "\"又鏽又破\""
+
+#. SKIN_QUOTES.wx78_survivorp
+msgctxt "SKIN_QUOTES.wx78_survivorp"
+msgid "\"RUSTED AND BUSTED\""
+msgstr "\"又鏽又破\""
+
+#. SKIN_QUOTES.wx78_victorian
+msgctxt "SKIN_QUOTES.wx78_victorian"
+msgid "\"PREPARING TO DIVE\""
+msgstr "\"準備潛水\""
+
+#. SKIN_QUOTES.wx78_wip
+msgctxt "SKIN_QUOTES.wx78_wip"
+msgid "\"THEY HAVE NOT INSTALLED A HEART\""
+msgstr "\"他們沒有安裝心臟\""
+
+#. SKIN_QUOTES.wx78_wrestler
+msgctxt "SKIN_QUOTES.wx78_wrestler"
+msgid "\"WITH PARTS MADE IN JAPAN\""
+msgstr "\"採用日本零件\""
+
+#. SKIN_QUOTES.wx78_yule
+msgctxt "SKIN_QUOTES.wx78_yule"
+msgid "\"CRACKING WALNUT CODE\""
+msgstr "\"砸核桃代碼\""
+

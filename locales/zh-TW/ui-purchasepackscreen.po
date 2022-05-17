@@ -1,0 +1,300 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.PURCHASEPACKSCREEN.CURRENCY_NEEDED
+msgctxt "UI.PURCHASEPACKSCREEN.CURRENCY_NEEDED"
+msgid "You require {currency_needed} Bolts for the {chest_name}"
+msgstr "需要 {currency_needed} 布卷才能兌換{chest_name}"
+
+#. UI.PURCHASEPACKSCREEN.CURRENCY_OK
+msgctxt "UI.PURCHASEPACKSCREEN.CURRENCY_OK"
+msgid "You have the required Bolts for the {chest_name}"
+msgstr "有足夠的布卷兌換{chest_name}"
+
+#. UI.PURCHASEPACKSCREEN.CURRENCY_SHORT_DESC
+msgctxt "UI.PURCHASEPACKSCREEN.CURRENCY_SHORT_DESC"
+msgid "Includes {currency} Bolts of Cloth!"
+msgstr "包含了 {currency} 布卷!"
+
+#. UI.PURCHASEPACKSCREEN.DISCOUNT_FILTER
+msgctxt "UI.PURCHASEPACKSCREEN.DISCOUNT_FILTER"
+msgid "Discount:"
+msgstr "折扣："
+
+#. UI.PURCHASEPACKSCREEN.EMPTY_AFTER_FILTER
+msgctxt "UI.PURCHASEPACKSCREEN.EMPTY_AFTER_FILTER"
+msgid "There are currently no chests for sale that match your filter criteria."
+msgstr "按照你設定的條件，當前沒有箱子滿足。"
+
+#. UI.PURCHASEPACKSCREEN.EXPIRE_DAYS_TXT
+msgctxt "UI.PURCHASEPACKSCREEN.EXPIRE_DAYS_TXT"
+msgid "Offer expires in {days} days!"
+msgstr "促銷{days}天后結束!"
+
+#. UI.PURCHASEPACKSCREEN.EXPIRE_DAY_TXT
+msgctxt "UI.PURCHASEPACKSCREEN.EXPIRE_DAY_TXT"
+msgid "Offer expires in 1 day!"
+msgstr "促銷1天后結束!"
+
+#. UI.PURCHASEPACKSCREEN.EXPIRE_HOURS_TXT
+msgctxt "UI.PURCHASEPACKSCREEN.EXPIRE_HOURS_TXT"
+msgid "Offer expires in {hours} hours!"
+msgstr "促銷{hours}小時後結束!"
+
+#. UI.PURCHASEPACKSCREEN.EXPIRE_HOUR_TXT
+msgctxt "UI.PURCHASEPACKSCREEN.EXPIRE_HOUR_TXT"
+msgid "Offer expires in 1 hour!"
+msgstr "促銷1小時後結束!"
+
+#. UI.PURCHASEPACKSCREEN.EXPIRE_SOON_TXT
+msgctxt "UI.PURCHASEPACKSCREEN.EXPIRE_SOON_TXT"
+msgid "Offer expires soon!"
+msgstr "促銷馬上結束！"
+
+#. UI.PURCHASEPACKSCREEN.FAILED_TO_LOAD
+msgctxt "UI.PURCHASEPACKSCREEN.FAILED_TO_LOAD"
+msgid "Sorry!\nThe Klei store is closed right now.\nPlease try again later."
+msgstr "抱歉！\n科雷商店現在關閉了。\n請稍後再次嘗試。"
+
+#. UI.PURCHASEPACKSCREEN.FILTERS
+msgctxt "UI.PURCHASEPACKSCREEN.FILTERS"
+msgid "Filters"
+msgstr "篩檢程式"
+
+#. UI.PURCHASEPACKSCREEN.FILTER_ALL
+msgctxt "UI.PURCHASEPACKSCREEN.FILTER_ALL"
+msgid "All"
+msgstr "全部"
+
+#. UI.PURCHASEPACKSCREEN.FILTER_BUNDLE
+msgctxt "UI.PURCHASEPACKSCREEN.FILTER_BUNDLE"
+msgid "Bundles"
+msgstr "禮包"
+
+#. UI.PURCHASEPACKSCREEN.FILTER_ITEMS
+msgctxt "UI.PURCHASEPACKSCREEN.FILTER_ITEMS"
+msgid "Belongings"
+msgstr "財物"
+
+#. UI.PURCHASEPACKSCREEN.FILTER_NEW
+msgctxt "UI.PURCHASEPACKSCREEN.FILTER_NEW"
+msgid "New"
+msgstr "新的"
+
+#. UI.PURCHASEPACKSCREEN.FILTER_SALE
+msgctxt "UI.PURCHASEPACKSCREEN.FILTER_SALE"
+msgid "Sales"
+msgstr "促銷"
+
+#. UI.PURCHASEPACKSCREEN.FILTER_UNOWNED
+msgctxt "UI.PURCHASEPACKSCREEN.FILTER_UNOWNED"
+msgid "Unowned"
+msgstr "未擁有"
+
+#. UI.PURCHASEPACKSCREEN.GIFT_RECEIVED_BODY
+msgctxt "UI.PURCHASEPACKSCREEN.GIFT_RECEIVED_BODY"
+msgid "Open it to receive your curios."
+msgstr "打開它，接收珍寶。"
+
+#. UI.PURCHASEPACKSCREEN.GIFT_RECEIVED_TITLE
+msgctxt "UI.PURCHASEPACKSCREEN.GIFT_RECEIVED_TITLE"
+msgid "You got a chest!"
+msgstr "你得到了一個箱子！"
+
+#. UI.PURCHASEPACKSCREEN.GO_TO_SALES
+msgctxt "UI.PURCHASEPACKSCREEN.GO_TO_SALES"
+msgid "View Sales!"
+msgstr "查看促銷！"
+
+#. UI.PURCHASEPACKSCREEN.INFO_BTN
+msgctxt "UI.PURCHASEPACKSCREEN.INFO_BTN"
+msgid "?"
+msgstr "?"
+
+#. UI.PURCHASEPACKSCREEN.MEGAPACK_SHORT_DESC
+msgctxt "UI.PURCHASEPACKSCREEN.MEGAPACK_SHORT_DESC"
+msgid "Includes {total_sets} skin sets! {total_items} total skins!"
+msgstr "含有{total_sets}個皮膚套裝！總共 {total_items}件皮膚物品！"
+
+#. UI.PURCHASEPACKSCREEN.NOT_ENOUGH_BODY
+msgctxt "UI.PURCHASEPACKSCREEN.NOT_ENOUGH_BODY"
+msgid "Unfortunately you don't have the required Bolts of Cloth to purchase the {chest_name}. You still require {currency_needed} Bolts. Would you like to look at Bolt chests?"
+msgstr "很抱歉，你有的布卷不夠購買{chest_name}。還需要{currency_needed} 布卷. 你要不要看一下布卷箱子?"
+
+#. UI.PURCHASEPACKSCREEN.NOT_ENOUGH_TITLE
+msgctxt "UI.PURCHASEPACKSCREEN.NOT_ENOUGH_TITLE"
+msgid "Lacking Bolts of Cloth"
+msgstr "缺少布卷"
+
+#. UI.PURCHASEPACKSCREEN.OK
+msgctxt "UI.PURCHASEPACKSCREEN.OK"
+msgid "OK"
+msgstr "好的"
+
+#. UI.PURCHASEPACKSCREEN.OWNED_FILTER
+msgctxt "UI.PURCHASEPACKSCREEN.OWNED_FILTER"
+msgid "Owned:"
+msgstr "已有："
+
+#. UI.PURCHASEPACKSCREEN.PACK_SAVINGS
+msgctxt "UI.PURCHASEPACKSCREEN.PACK_SAVINGS"
+msgid "-{savings}%"
+msgstr "-{savings}%"
+
+#. UI.PURCHASEPACKSCREEN.PACK_SHORT_DESC
+msgctxt "UI.PURCHASEPACKSCREEN.PACK_SHORT_DESC"
+msgid "Includes {total_items} skins!"
+msgstr "含有{total_items}件皮膚物品!"
+
+#. UI.PURCHASEPACKSCREEN.PACK_SHORT_DESC_CHAR
+msgctxt "UI.PURCHASEPACKSCREEN.PACK_SHORT_DESC_CHAR"
+msgid "Includes {total_items} Wardrobe skins!"
+msgstr "含有{total_items}件衣櫃皮膚！"
+
+#. UI.PURCHASEPACKSCREEN.PACK_SHORT_DESC_ITEMS
+msgctxt "UI.PURCHASEPACKSCREEN.PACK_SHORT_DESC_ITEMS"
+msgid "Includes {total_items} Belongings skins!"
+msgstr "含有{total_items}件財物皮膚！"
+
+#. UI.PURCHASEPACKSCREEN.PURCHASE_BTN
+msgctxt "UI.PURCHASEPACKSCREEN.PURCHASE_BTN"
+msgid "Buy Now"
+msgstr "立即購買"
+
+#. UI.PURCHASEPACKSCREEN.PURCHASE_CLOSE
+msgctxt "UI.PURCHASEPACKSCREEN.PURCHASE_CLOSE"
+msgid "Close"
+msgstr "關閉"
+
+#. UI.PURCHASEPACKSCREEN.PURCHASE_GIFT
+msgctxt "UI.PURCHASEPACKSCREEN.PURCHASE_GIFT"
+msgid "Gift to a Friend"
+msgstr "贈送給朋友"
+
+#. UI.PURCHASEPACKSCREEN.PURCHASE_GIFT_INFO_BODY
+msgctxt "UI.PURCHASEPACKSCREEN.PURCHASE_GIFT_INFO_BODY"
+msgid "To purchase the {pack_name} as a gift for your friend, click on \"Add to Cart\", then \"Purchase as a gift\"."
+msgstr "要購買 {pack_name} 贈送給朋友，請點擊\"添加到購物車\"，然後點擊\"購買後贈送\"。"
+
+#. UI.PURCHASEPACKSCREEN.PURCHASE_GIFT_INFO_TITLE
+msgctxt "UI.PURCHASEPACKSCREEN.PURCHASE_GIFT_INFO_TITLE"
+msgid "Purchase Gift"
+msgstr "購買禮物"
+
+#. UI.PURCHASEPACKSCREEN.PURCHASE_OVERLAY_REQUIRED_BODY
+msgctxt "UI.PURCHASEPACKSCREEN.PURCHASE_OVERLAY_REQUIRED_BODY"
+msgid "Please enable the Steam Overlay to purchase clothing sets."
+msgstr "請啟用 Steam 概覽，以便購買服裝。"
+
+#. UI.PURCHASEPACKSCREEN.PURCHASE_OVERLAY_REQUIRED_BODY_RAIL
+msgctxt "UI.PURCHASEPACKSCREEN.PURCHASE_OVERLAY_REQUIRED_BODY_RAIL"
+msgid "Please enable your browser to purchase clothing sets."
+msgstr "請打開流覽器購買衣物套裝。"
+
+#. UI.PURCHASEPACKSCREEN.PURCHASE_OVERLAY_REQUIRED_HELP
+msgctxt "UI.PURCHASEPACKSCREEN.PURCHASE_OVERLAY_REQUIRED_HELP"
+msgid "Help"
+msgstr "幫助"
+
+#. UI.PURCHASEPACKSCREEN.PURCHASE_OVERLAY_REQUIRED_TITLE
+msgctxt "UI.PURCHASEPACKSCREEN.PURCHASE_OVERLAY_REQUIRED_TITLE"
+msgid "Steam Overlay Required"
+msgstr "需要 Steam 概覽"
+
+#. UI.PURCHASEPACKSCREEN.PURCHASE_OVERLAY_REQUIRED_TITLE_RAIL
+msgctxt "UI.PURCHASEPACKSCREEN.PURCHASE_OVERLAY_REQUIRED_TITLE_RAIL"
+msgid "Browser Required"
+msgstr "需要流覽器"
+
+#. UI.PURCHASEPACKSCREEN.PURCHASE_VIEW_CONTENTS
+msgctxt "UI.PURCHASEPACKSCREEN.PURCHASE_VIEW_CONTENTS"
+msgid "View Contents"
+msgstr "查看內容"
+
+#. UI.PURCHASEPACKSCREEN.PURCHASE_WARNING_CANCEL
+msgctxt "UI.PURCHASEPACKSCREEN.PURCHASE_WARNING_CANCEL"
+msgid "Never mind!"
+msgstr "還是算了！"
+
+#. UI.PURCHASEPACKSCREEN.PURCHASE_WARNING_DESC
+msgctxt "UI.PURCHASEPACKSCREEN.PURCHASE_WARNING_DESC"
+msgid "You already own all the items in this chest. Would you like to purchase it anyway?"
+msgstr "你已經擁有了這個箱子裡的所有物品。是否照樣想要購買？"
+
+#. UI.PURCHASEPACKSCREEN.PURCHASE_WARNING_OK
+msgctxt "UI.PURCHASEPACKSCREEN.PURCHASE_WARNING_OK"
+msgid "Continue Purchase"
+msgstr "繼續購買"
+
+#. UI.PURCHASEPACKSCREEN.PURCHASE_WARNING_TITLE
+msgctxt "UI.PURCHASEPACKSCREEN.PURCHASE_WARNING_TITLE"
+msgid "No New Items in Chest"
+msgstr "箱子裡沒有新物品"
+
+#. UI.PURCHASEPACKSCREEN.SALE_TXT
+msgctxt "UI.PURCHASEPACKSCREEN.SALE_TXT"
+msgid "-{sale_percent}%\nSale!"
+msgstr "-{sale_percent}%\n促銷！"
+
+#. UI.PURCHASEPACKSCREEN.SHOP_EPOCH_WRONG_BODY
+msgctxt "UI.PURCHASEPACKSCREEN.SHOP_EPOCH_WRONG_BODY"
+msgid "It looks like your date and time is incorrect. Perhaps you've been time travelling in another game?\n\nPlease verify your system date and time before purchasing."
+msgstr "看起來你的日期和時間不正確。也許你在其他遊戲中進行了時間旅行？\n\n請在購買前核實您的系統日期和時間。"
+
+#. UI.PURCHASEPACKSCREEN.SHOP_EPOCH_WRONG_TITLE
+msgctxt "UI.PURCHASEPACKSCREEN.SHOP_EPOCH_WRONG_TITLE"
+msgid "Incorrect System Time"
+msgstr "系統時間錯誤"
+
+#. UI.PURCHASEPACKSCREEN.TITLE
+msgctxt "UI.PURCHASEPACKSCREEN.TITLE"
+msgid "Shop"
+msgstr "購物"
+
+#. UI.PURCHASEPACKSCREEN.TYPE_FILTER
+msgctxt "UI.PURCHASEPACKSCREEN.TYPE_FILTER"
+msgid "Type:"
+msgstr "輸入："
+
+#. UI.PURCHASEPACKSCREEN.UNOWNED_CHARACTER_BODY
+msgctxt "UI.PURCHASEPACKSCREEN.UNOWNED_CHARACTER_BODY"
+msgid "You do not currently own {character}.\nThis chest contains skins for {character}, which will be unusable without owning them."
+msgstr "你尚未擁有 {character}。\n這個箱子包含{character}的皮膚，未擁有角色，將無法使用皮膚。"
+
+#. UI.PURCHASEPACKSCREEN.VIEW_CURRENCY
+msgctxt "UI.PURCHASEPACKSCREEN.VIEW_CURRENCY"
+msgid "View Bolt Chests"
+msgstr "查看布卷箱子"
+
+#. UI.PURCHASEPACKSCREEN.VIEW_REGULAR
+msgctxt "UI.PURCHASEPACKSCREEN.VIEW_REGULAR"
+msgid "View Chests"
+msgstr "查看箱子"
+
+#. UI.PURCHASEPACKSCREEN.VIEW_REQUIRED
+msgctxt "UI.PURCHASEPACKSCREEN.VIEW_REQUIRED"
+msgid "View {character} Chests"
+msgstr "查看{character} 箱子"
+
+#. UI.PURCHASEPACKSCREEN.VIRTUAL_CURRENCY
+msgctxt "UI.PURCHASEPACKSCREEN.VIRTUAL_CURRENCY"
+msgid "Bolts of Cloth"
+msgstr "布卷"
+
+#. UI.PURCHASEPACKSCREEN.VIRTUAL_CURRENCY_SHORT
+msgctxt "UI.PURCHASEPACKSCREEN.VIRTUAL_CURRENCY_SHORT"
+msgid "Bolts"
+msgstr "布卷"
+
+#. UI.PURCHASEPACKSCREEN.VIRTUAL_IAP_CONFIRM_BODY
+msgctxt "UI.PURCHASEPACKSCREEN.VIRTUAL_IAP_CONFIRM_BODY"
+msgid "Are you sure you would like to spend {cost} Bolts on the {chest_name}?"
+msgstr "確定使用{cost}布卷購買{chest_name}?"
+
+#. UI.PURCHASEPACKSCREEN.VIRTUAL_IAP_CONFIRM_TITLE
+msgctxt "UI.PURCHASEPACKSCREEN.VIRTUAL_IAP_CONFIRM_TITLE"
+msgid "Confirm Purchase"
+msgstr "確認購買"
+

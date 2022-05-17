@@ -1,0 +1,465 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.MODSSCREEN.ALL_FILTER
+msgctxt "UI.MODSSCREEN.ALL_FILTER"
+msgid "All"
+msgstr "すべて"
+
+#. UI.MODSSCREEN.APPLY
+msgctxt "UI.MODSSCREEN.APPLY"
+msgid "Apply"
+msgstr "適用"
+
+#. UI.MODSSCREEN.AUTHORBY
+msgctxt "UI.MODSSCREEN.AUTHORBY"
+msgid "by %s"
+msgstr "%sによる"
+
+#. UI.MODSSCREEN.BACK
+msgctxt "UI.MODSSCREEN.BACK"
+msgid "Back"
+msgstr "戻る"
+
+#. UI.MODSSCREEN.BACKBODY
+msgctxt "UI.MODSSCREEN.BACKBODY"
+msgid "Do you want to discard the changes you made to this mod's options?"
+msgstr "あなたの世界のMODオプションに加えた変更を取り消しますか？"
+
+#. UI.MODSSCREEN.BACKTITLE
+msgctxt "UI.MODSSCREEN.BACKTITLE"
+msgid "Discard Changes"
+msgstr "変更を取り消す"
+
+#. UI.MODSSCREEN.CANCEL
+msgctxt "UI.MODSSCREEN.CANCEL"
+msgid "Cancel"
+msgstr "キャンセル"
+
+#. UI.MODSSCREEN.CANCEL_BODY
+msgctxt "UI.MODSSCREEN.CANCEL_BODY"
+msgid "Do you want to abandon your changes?"
+msgstr "変更を破棄しますか？"
+
+#. UI.MODSSCREEN.CANCEL_TITLE
+msgctxt "UI.MODSSCREEN.CANCEL_TITLE"
+msgid "Lose Changes?"
+msgstr "変更をリセット？"
+
+#. UI.MODSSCREEN.CLEANALL
+msgctxt "UI.MODSSCREEN.CLEANALL"
+msgid "Clean All"
+msgstr "すべてクリア"
+
+#. UI.MODSSCREEN.CLEANALL_BODY
+msgctxt "UI.MODSSCREEN.CLEANALL_BODY"
+msgid "Are you sure you want to clean your local Workshop data?\nThis will result in a full download of all your subscribed mods, and your mod configuration settings being reset."
+msgstr "ローカルに保存されているワークショップのデータをすべて削除します。\nサブスクライブしたMODを再度使用する際にはすべて再ダウンロードする必要があり、MODの設定もリセットされます。よろしいですか？"
+
+#. UI.MODSSCREEN.CLEANALL_TITLE
+msgctxt "UI.MODSSCREEN.CLEANALL_TITLE"
+msgid "Clean All Mod Workshop Data"
+msgstr "MODワークショップのデータをすべてクリア"
+
+#. UI.MODSSCREEN.CLIENTMODS
+msgctxt "UI.MODSSCREEN.CLIENTMODS"
+msgid "Client Mods"
+msgstr "クライアントMOD"
+
+#. UI.MODSSCREEN.COMPATIBILITY_ALL
+msgctxt "UI.MODSSCREEN.COMPATIBILITY_ALL"
+msgid "Compatible with everything."
+msgstr "全てと互換性がある。"
+
+#. UI.MODSSCREEN.COMPATIBILITY_DST
+msgctxt "UI.MODSSCREEN.COMPATIBILITY_DST"
+msgid "Compatible with Don't Starve Together."
+msgstr "「Don't Starve Together」に対応"
+
+#. UI.MODSSCREEN.COMPATIBILITY_DS_ONLY
+msgctxt "UI.MODSSCREEN.COMPATIBILITY_DS_ONLY"
+msgid "Compatible with Don't Starve only."
+msgstr "Don’t Starve とのみ互換性がある。"
+
+#. UI.MODSSCREEN.COMPATIBILITY_NONE
+msgctxt "UI.MODSSCREEN.COMPATIBILITY_NONE"
+msgid "This mod has no compatibility with Don't Starve."
+msgstr "このMODは「Don't Starve」に対応していません。"
+
+#. UI.MODSSCREEN.COMPATIBILITY_ROG_ONLY
+msgctxt "UI.MODSSCREEN.COMPATIBILITY_ROG_ONLY"
+msgid "Compatible with Reign of Giants only."
+msgstr "Reign of Giantsとのみ互換性がある。"
+
+#. UI.MODSSCREEN.COMPATIBILITY_UNKNOWN
+msgctxt "UI.MODSSCREEN.COMPATIBILITY_UNKNOWN"
+msgid "Compatibility unknown."
+msgstr "互換性 不明"
+
+#. UI.MODSSCREEN.CONFIGSCREENTITLESUFFIX
+msgctxt "UI.MODSSCREEN.CONFIGSCREENTITLESUFFIX"
+msgid "Configuration"
+msgstr "設定"
+
+#. UI.MODSSCREEN.CONFIGUREMOD
+msgctxt "UI.MODSSCREEN.CONFIGUREMOD"
+msgid "Configure Mod"
+msgstr "MOD設定"
+
+#. UI.MODSSCREEN.DISABLE
+msgctxt "UI.MODSSCREEN.DISABLE"
+msgid "Disable"
+msgstr "無効化する"
+
+#. UI.MODSSCREEN.DISABLED_ERROR
+msgctxt "UI.MODSSCREEN.DISABLED_ERROR"
+msgid "Crashed! Disabled."
+msgstr "クラッシュしたため無効化"
+
+#. UI.MODSSCREEN.DISABLED_FILTER
+msgctxt "UI.MODSSCREEN.DISABLED_FILTER"
+msgid "Disabled"
+msgstr "オフ"
+
+#. UI.MODSSCREEN.DISABLED_MANUAL
+msgctxt "UI.MODSSCREEN.DISABLED_MANUAL"
+msgid "This mod is disabled."
+msgstr "このMODは無効化されています。"
+
+#. UI.MODSSCREEN.DISABLE_ALL
+msgctxt "UI.MODSSCREEN.DISABLE_ALL"
+msgid "Disable All"
+msgstr "全て無効化"
+
+#. UI.MODSSCREEN.DOWNLOADINGMOD
+msgctxt "UI.MODSSCREEN.DOWNLOADINGMOD"
+msgid "Downloading:\n{name}"
+msgstr "ダウンロード中：\n{name}"
+
+#. UI.MODSSCREEN.DOWNLOADING_MODS
+msgctxt "UI.MODSSCREEN.DOWNLOADING_MODS"
+msgid "Downloading Mods..."
+msgstr "MODをダウンロード中…"
+
+#. UI.MODSSCREEN.DST_COMPAT_WARNING
+msgctxt "UI.MODSSCREEN.DST_COMPAT_WARNING"
+msgid "This mod hasn't been tagged as compatible with Don't Starve Together. It may cause issues with your game."
+msgstr "このMODは「Don't Starve Togetherに対応」とタグづけされていません。使用中に問題が発生する可能性があります。"
+
+#. UI.MODSSCREEN.ENABLE
+msgctxt "UI.MODSSCREEN.ENABLE"
+msgid "Enable"
+msgstr "有効化する"
+
+#. UI.MODSSCREEN.ENABLEDDISABLED_FILTER
+msgctxt "UI.MODSSCREEN.ENABLEDDISABLED_FILTER"
+msgid "Both"
+msgstr "両方"
+
+#. UI.MODSSCREEN.ENABLED_FILTER
+msgctxt "UI.MODSSCREEN.ENABLED_FILTER"
+msgid "Enabled"
+msgstr "オン"
+
+#. UI.MODSSCREEN.LOADING
+msgctxt "UI.MODSSCREEN.LOADING"
+msgid "Loading"
+msgstr "ロード中"
+
+#. UI.MODSSCREEN.LOCAL_FILTER
+msgctxt "UI.MODSSCREEN.LOCAL_FILTER"
+msgid "Local"
+msgstr "ローカル"
+
+#. UI.MODSSCREEN.MODLINK
+msgctxt "UI.MODSSCREEN.MODLINK"
+msgid "Mod Page"
+msgstr "MODページ"
+
+#. UI.MODSSCREEN.MODLINKGENERIC
+msgctxt "UI.MODSSCREEN.MODLINKGENERIC"
+msgid "Mod Forums"
+msgstr "MODフォーラム"
+
+#. UI.MODSSCREEN.MODLINK_MOREINFO
+msgctxt "UI.MODSSCREEN.MODLINK_MOREINFO"
+msgid "More Info"
+msgstr "詳細"
+
+#. UI.MODSSCREEN.MODPAGE
+msgctxt "UI.MODSSCREEN.MODPAGE"
+msgid "Mod Page"
+msgstr "MODページ"
+
+#. UI.MODSSCREEN.MODTITLE
+msgctxt "UI.MODSSCREEN.MODTITLE"
+msgid "Mods"
+msgstr "MOD"
+
+#. UI.MODSSCREEN.MOD_DEPENDENCIES_TITLE
+msgctxt "UI.MODSSCREEN.MOD_DEPENDENCIES_TITLE"
+msgid "Dependencies Required"
+msgstr "依存要件"
+
+#. UI.MODSSCREEN.MOD_DEPENDENTS_TITLE
+msgctxt "UI.MODSSCREEN.MOD_DEPENDENTS_TITLE"
+msgid "Required By Other Mods"
+msgstr "他のMODが必要"
+
+#. UI.MODSSCREEN.MOD_HAS_DEPENDENCIES_FMT
+msgctxt "UI.MODSSCREEN.MOD_HAS_DEPENDENCIES_FMT"
+msgid "{mod} requires other mods to run, it will subscribe and enable these if you enable this mod:"
+msgstr "{mod}を実行するには他のMODが必要です。このMODを有効にすると、該当する他のMODを取得して有効化します："
+
+#. UI.MODSSCREEN.MOD_HAS_DEPENDENTS_FMT
+msgctxt "UI.MODSSCREEN.MOD_HAS_DEPENDENTS_FMT"
+msgid "{mod} is required for other mods to run, if you disable this mod these mods will be disabled:"
+msgstr "{mod}の実行に必要なMODが他にもあります。このMODを無効にすると、該当する他のMODも無効化します："
+
+#. UI.MODSSCREEN.MOD_WARNING
+msgctxt "UI.MODSSCREEN.MOD_WARNING"
+msgid "This is not a Steam Workshop mod. Players will need to download it manually if you host a server."
+msgstr "こちらはSteam WorkshopのMODではありません。プレイヤーがサーバーをホストしている場合は、手動でMODをダウンロードしてください。"
+
+#. UI.MODSSCREEN.MOD_WARNING_RAIL
+msgctxt "UI.MODSSCREEN.MOD_WARNING_RAIL"
+msgid "This is not a WeGame mod. Players will need to download it manually if you host a server."
+msgstr "こちらはWeGameのMODではありません。プレイヤーがサーバーをホストしている場合は、手動でMODをダウンロードしてください。"
+
+#. UI.MODSSCREEN.MOD_WARNING_TITLE
+msgctxt "UI.MODSSCREEN.MOD_WARNING_TITLE"
+msgid "Mod Warning"
+msgstr "MODに関する注意"
+
+#. UI.MODSSCREEN.MOREMODS
+msgctxt "UI.MODSSCREEN.MOREMODS"
+msgid "More Mods"
+msgstr "もっとたくさんのMOD"
+
+#. UI.MODSSCREEN.NO
+msgctxt "UI.MODSSCREEN.NO"
+msgid "No"
+msgstr "いいえ"
+
+#. UI.MODSSCREEN.NOCONFIG
+msgctxt "UI.MODSSCREEN.NOCONFIG"
+msgid "No Configurations"
+msgstr "設定なし"
+
+#. UI.MODSSCREEN.NO_MODS
+msgctxt "UI.MODSSCREEN.NO_MODS"
+msgid "You have no mods installed. Mods can be downloaded from the Steam Workshop."
+msgstr "MODをインストールしていません。MODはSteam Workshopからダウンロードできます。"
+
+#. UI.MODSSCREEN.NO_MODS_CLIENT_TGP
+msgctxt "UI.MODSSCREEN.NO_MODS_CLIENT_TGP"
+msgid "You don't have any client mods installed. You can download some from the WeGame client."
+msgstr "クライアントのMODをインストールしていません。MODはWeGameのクライアントからダウンロードできます。"
+
+#. UI.MODSSCREEN.NO_MODS_LINK
+msgctxt "UI.MODSSCREEN.NO_MODS_LINK"
+msgid "Take me to the mods!"
+msgstr "MODへ行く！"
+
+#. UI.MODSSCREEN.NO_MODS_OK
+msgctxt "UI.MODSSCREEN.NO_MODS_OK"
+msgid "Show Me!"
+msgstr "MODページへ"
+
+#. UI.MODSSCREEN.NO_MODS_PLAIN_OK
+msgctxt "UI.MODSSCREEN.NO_MODS_PLAIN_OK"
+msgid "Ok"
+msgstr "OK"
+
+#. UI.MODSSCREEN.NO_MODS_SERVER_TGP
+msgctxt "UI.MODSSCREEN.NO_MODS_SERVER_TGP"
+msgid "You don't have any server mods installed. You can download some from the WeGame client."
+msgstr "サーバーのMODをインストールしていません。MODはWeGameのサーバーからダウンロードできます。"
+
+#. UI.MODSSCREEN.NO_MODS_TITLE
+msgctxt "UI.MODSSCREEN.NO_MODS_TITLE"
+msgid "No Mods Installed"
+msgstr "MODがインストールされていません"
+
+#. UI.MODSSCREEN.NO_MODS_TYPE
+msgctxt "UI.MODSSCREEN.NO_MODS_TYPE"
+msgid "You have no %s mods installed. Mods can be downloaded from the Steam Workshop."
+msgstr "%sのMODをインストールしていません。MODはSteam Workshopからダウンロードできます。"
+
+#. UI.MODSSCREEN.OK
+msgctxt "UI.MODSSCREEN.OK"
+msgid "OK"
+msgstr "OK"
+
+#. UI.MODSSCREEN.OUT_OF_DATE
+msgctxt "UI.MODSSCREEN.OUT_OF_DATE"
+msgid "Mods Out of Date:"
+msgstr "旧バージョンのMOD："
+
+#. UI.MODSSCREEN.REQUIRED_MODS_DOWNLOADING
+msgctxt "UI.MODSSCREEN.REQUIRED_MODS_DOWNLOADING"
+msgid "The game has not finished downloading required mods.\nEither wait until the mods have finished downloading, or disable mods which have dependencies."
+msgstr "ゲームは必要なMODのダウンロードを完了していません。\nMODのダウンロード完了を待つか、依存しているMODを無効にしてください。"
+
+#. UI.MODSSCREEN.REQUIRED_MODS_DOWNLOADING_TITLE
+msgctxt "UI.MODSSCREEN.REQUIRED_MODS_DOWNLOADING_TITLE"
+msgid "Required Mods Are Downloading"
+msgstr "必要なMODをダウンロード中"
+
+#. UI.MODSSCREEN.RESETDEFAULT
+msgctxt "UI.MODSSCREEN.RESETDEFAULT"
+msgid "Reset"
+msgstr "リセット"
+
+#. UI.MODSSCREEN.RESTART
+msgctxt "UI.MODSSCREEN.RESTART"
+msgid "Exit Now"
+msgstr "いますぐ終了"
+
+#. UI.MODSSCREEN.RESTART_REQUIRED
+msgctxt "UI.MODSSCREEN.RESTART_REQUIRED"
+msgid "To enable or disable this mod, you will have to exit and restart the game."
+msgstr "このMODを有効または無効にするためには、ゲームを終了して再起動してください。"
+
+#. UI.MODSSCREEN.RESTART_TITLE
+msgctxt "UI.MODSSCREEN.RESTART_TITLE"
+msgid "Restart Required"
+msgstr "再起動が必要です"
+
+#. UI.MODSSCREEN.SEARCH
+msgctxt "UI.MODSSCREEN.SEARCH"
+msgid "Search"
+msgstr "検索"
+
+#. UI.MODSSCREEN.SERVERMODS
+msgctxt "UI.MODSSCREEN.SERVERMODS"
+msgid "Server Mods"
+msgstr "サーバーMOD"
+
+#. UI.MODSSCREEN.SERVERMODS_TITLE_READONLY
+msgctxt "UI.MODSSCREEN.SERVERMODS_TITLE_READONLY"
+msgid "Configure Server Mods"
+msgstr "サーバーMODの設定"
+
+#. UI.MODSSCREEN.SHOWCASEMODS
+msgctxt "UI.MODSSCREEN.SHOWCASEMODS"
+msgid "Get Mods"
+msgstr "MODの入手"
+
+#. UI.MODSSCREEN.STATUS.DISABLED_ERROR
+msgctxt "UI.MODSSCREEN.STATUS.DISABLED_ERROR"
+msgid "Crashed!"
+msgstr "クラッシュしました！"
+
+#. UI.MODSSCREEN.STATUS.DISABLED_MANUAL
+msgctxt "UI.MODSSCREEN.STATUS.DISABLED_MANUAL"
+msgid "Disabled"
+msgstr "オフ"
+
+#. UI.MODSSCREEN.STATUS.WORKING_NORMALLY
+msgctxt "UI.MODSSCREEN.STATUS.WORKING_NORMALLY"
+msgid "Enabled"
+msgstr "オン"
+
+#. UI.MODSSCREEN.STATUS_FILTER_FMT
+msgctxt "UI.MODSSCREEN.STATUS_FILTER_FMT"
+msgid "Mod Status Filter: {mode}"
+msgstr "MODステータスフィルター：{mode}"
+
+#. UI.MODSSCREEN.TOOLTIP_CLIENTMODS
+msgctxt "UI.MODSSCREEN.TOOLTIP_CLIENTMODS"
+msgid "Cosmetic mods that run on your machine"
+msgstr "お使いのマシン上で動作するコスメティックMODです"
+
+#. UI.MODSSCREEN.TOOLTIP_SERVERMODS
+msgctxt "UI.MODSSCREEN.TOOLTIP_SERVERMODS"
+msgid "Gameplay-affecting mods that run on the game server"
+msgstr "ゲームサーバー上で動作するゲームプレイに影響を与えるMODです"
+
+#. UI.MODSSCREEN.TOOLTIP_SHOWCASEMODS
+msgctxt "UI.MODSSCREEN.TOOLTIP_SHOWCASEMODS"
+msgid "See popular and featured mods"
+msgstr "人気のあるMODや特徴的なMODを見ます"
+
+#. UI.MODSSCREEN.TOPMODS
+msgctxt "UI.MODSSCREEN.TOPMODS"
+msgid "Top Mods"
+msgstr "トップMOD"
+
+#. UI.MODSSCREEN.UNKNOWN_MOD_CONFIG_SETTING
+msgctxt "UI.MODSSCREEN.UNKNOWN_MOD_CONFIG_SETTING"
+msgid "[NAME UNDEFINED]"
+msgstr "MOD詳細設定"
+
+#. UI.MODSSCREEN.UPDATEALL
+msgctxt "UI.MODSSCREEN.UPDATEALL"
+msgid "Update All"
+msgstr "すべてアップデート"
+
+#. UI.MODSSCREEN.UPDATEALL_BODY
+msgctxt "UI.MODSSCREEN.UPDATEALL_BODY"
+msgid "Are you sure you want to update all your subscribed mods?"
+msgstr "サブスクライブ済みのMODをすべてアップデートしますか？"
+
+#. UI.MODSSCREEN.UPDATEALL_TITLE
+msgctxt "UI.MODSSCREEN.UPDATEALL_TITLE"
+msgid "Update All Mod Workshop Data"
+msgstr "MODワークショップのデータをすべてアップデート"
+
+#. UI.MODSSCREEN.UPDATEMOD
+msgctxt "UI.MODSSCREEN.UPDATEMOD"
+msgid "Update Mod"
+msgstr "MODをアップデート"
+
+#. UI.MODSSCREEN.UPDATINGMOD
+msgctxt "UI.MODSSCREEN.UPDATINGMOD"
+msgid "Updating..."
+msgstr "アップデート中…"
+
+#. UI.MODSSCREEN.UPTODATE
+msgctxt "UI.MODSSCREEN.UPTODATE"
+msgid "Up To Date"
+msgstr "最新版"
+
+#. UI.MODSSCREEN.UPTODATEALL
+msgctxt "UI.MODSSCREEN.UPTODATEALL"
+msgid "All Up To Date"
+msgstr "すべて最新版です"
+
+#. UI.MODSSCREEN.VERSION
+msgctxt "UI.MODSSCREEN.VERSION"
+msgid "version %s"
+msgstr "バージョン %s"
+
+#. UI.MODSSCREEN.VIEW_AND_CONFIGURE
+msgctxt "UI.MODSSCREEN.VIEW_AND_CONFIGURE"
+msgid "Mod can be viewed and configured."
+msgstr "MODの確認と設定ができます。"
+
+#. UI.MODSSCREEN.WORKING_NORMALLY
+msgctxt "UI.MODSSCREEN.WORKING_NORMALLY"
+msgid "This mod is enabled."
+msgstr "このMODは有効になっています。"
+
+#. UI.MODSSCREEN.WORKSHOP_FILTER
+msgctxt "UI.MODSSCREEN.WORKSHOP_FILTER"
+msgid "Workshop"
+msgstr "ワークショップ"
+
+#. UI.MODSSCREEN.WORKSHOP_FILTER_FMT
+msgctxt "UI.MODSSCREEN.WORKSHOP_FILTER_FMT"
+msgid "Mod Type Filter: {mode}"
+msgstr "MOD種類フィルター：{mode}"
+
+#. UI.MODSSCREEN.WORKSHOP_FILTER_RAIL
+msgctxt "UI.MODSSCREEN.WORKSHOP_FILTER_RAIL"
+msgid "Warehouse"
+msgstr "保管所"
+
+#. UI.MODSSCREEN.YES
+msgctxt "UI.MODSSCREEN.YES"
+msgid "Yes"
+msgstr "はい"
+

@@ -1,0 +1,1380 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. ANTIADDICTION.EXIT_SOON
+msgctxt "ANTIADDICTION.EXIT_SOON"
+msgid "Your time for today is up. Please exit."
+msgstr "Hai esaurito il tempo a disposizione per oggi. Esci."
+
+#. ANTIADDICTION.HOUR_1
+msgctxt "ANTIADDICTION.HOUR_1"
+msgid "You've played for one hour."
+msgstr "Hai giocato un'ora."
+
+#. ANTIADDICTION.HOUR_2
+msgctxt "ANTIADDICTION.HOUR_2"
+msgid "You've played for two hours."
+msgstr "Hai giocato due ore."
+
+#. ANTIADDICTION.HOUR_3
+msgctxt "ANTIADDICTION.HOUR_3"
+msgid "You've played for three hours."
+msgstr "Hai giocato tre ore."
+
+#. ANTIADDICTION.HOUR_4
+msgctxt "ANTIADDICTION.HOUR_4"
+msgid "You've played for four hours."
+msgstr "Hai giocato quattro ore."
+
+#. ANTIADDICTION.HOUR_5
+msgctxt "ANTIADDICTION.HOUR_5"
+msgid "You've played for five hours."
+msgstr "Hai giocato cinque ore."
+
+#. ANTIADDICTION.HOUR_X
+msgctxt "ANTIADDICTION.HOUR_X"
+msgid "You've played for several hours."
+msgstr "Hai giocato parecchie ore."
+
+#. CROWNAMES.1
+msgctxt "CROWNAMES.1"
+msgid "Apollo"
+msgstr "Apollo"
+
+#. CROWNAMES.10
+msgctxt "CROWNAMES.10"
+msgid "Symone"
+msgstr "Simone"
+
+#. CROWNAMES.11
+msgctxt "CROWNAMES.11"
+msgid "Baxter"
+msgstr "Battista"
+
+#. CROWNAMES.12
+msgctxt "CROWNAMES.12"
+msgid "Robyn"
+msgstr "Roberta"
+
+#. CROWNAMES.13
+msgctxt "CROWNAMES.13"
+msgid "Helena"
+msgstr "Elena"
+
+#. CROWNAMES.14
+msgctxt "CROWNAMES.14"
+msgid "Quincy"
+msgstr "Ottavio"
+
+#. CROWNAMES.15
+msgctxt "CROWNAMES.15"
+msgid "Nick"
+msgstr "Niccolò"
+
+#. CROWNAMES.16
+msgctxt "CROWNAMES.16"
+msgid "Francis"
+msgstr "Francesco"
+
+#. CROWNAMES.17
+msgctxt "CROWNAMES.17"
+msgid "Tom"
+msgstr "Thomas"
+
+#. CROWNAMES.18
+msgctxt "CROWNAMES.18"
+msgid "Lysander"
+msgstr "Lisandro"
+
+#. CROWNAMES.19
+msgctxt "CROWNAMES.19"
+msgid "Demetrius"
+msgstr "Demetrio"
+
+#. CROWNAMES.2
+msgctxt "CROWNAMES.2"
+msgid "Russel"
+msgstr "Raffaello"
+
+#. CROWNAMES.20
+msgctxt "CROWNAMES.20"
+msgid "Hermia"
+msgstr "Ermia"
+
+#. CROWNAMES.21
+msgctxt "CROWNAMES.21"
+msgid "Becca"
+msgstr "Rebecca"
+
+#. CROWNAMES.3
+msgctxt "CROWNAMES.3"
+msgid "Jet"
+msgstr "Gioacchino"
+
+#. CROWNAMES.4
+msgctxt "CROWNAMES.4"
+msgid "Bram"
+msgstr "Bruno"
+
+#. CROWNAMES.5
+msgctxt "CROWNAMES.5"
+msgid "Corbett"
+msgstr "Corrado"
+
+#. CROWNAMES.6
+msgctxt "CROWNAMES.6"
+msgid "Korbin"
+msgstr "Cristina"
+
+#. CROWNAMES.7
+msgctxt "CROWNAMES.7"
+msgid "Ava"
+msgstr "Ada"
+
+#. CROWNAMES.8
+msgctxt "CROWNAMES.8"
+msgid "Merle"
+msgstr "Melissa"
+
+#. CROWNAMES.9
+msgctxt "CROWNAMES.9"
+msgid "Swift"
+msgstr "Stella"
+
+#. DESCRIBE_NULL
+msgctxt "DESCRIBE_NULL"
+msgid "MISSING DESCRIPTION STRING"
+msgstr "STRINGA DI DESCRIZIONE MANCANTE"
+
+#. DIRECTIONS.E
+msgctxt "DIRECTIONS.E"
+msgid "East"
+msgstr "Est"
+
+#. DIRECTIONS.N
+msgctxt "DIRECTIONS.N"
+msgid "North"
+msgstr "Nord"
+
+#. DIRECTIONS.NE
+msgctxt "DIRECTIONS.NE"
+msgid "Northeast"
+msgstr "Nord-est"
+
+#. DIRECTIONS.NW
+msgctxt "DIRECTIONS.NW"
+msgid "Northwest"
+msgstr "Nord-ovest"
+
+#. DIRECTIONS.S
+msgctxt "DIRECTIONS.S"
+msgid "South"
+msgstr "Sud"
+
+#. DIRECTIONS.SE
+msgctxt "DIRECTIONS.SE"
+msgid "Southeast"
+msgstr "Sud-est"
+
+#. DIRECTIONS.SW
+msgctxt "DIRECTIONS.SW"
+msgid "Southwest"
+msgstr "Sud-ovest"
+
+#. DIRECTIONS.W
+msgctxt "DIRECTIONS.W"
+msgid "West"
+msgstr "Ovest"
+
+#. DISEASEDITEM
+msgctxt "DISEASEDITEM"
+msgid "Diseased"
+msgstr "Malato"
+
+#. DROPALL
+msgctxt "DROPALL"
+msgid "Drop All"
+msgstr "Rimuovi tutto"
+
+#. EYEOFTERROR_CANCEL
+msgctxt "EYEOFTERROR_CANCEL"
+msgid "The evil presence has subsided."
+msgstr "Non senti più quella presenza malvagia."
+
+#. EYEOFTERROR_COMING
+msgctxt "EYEOFTERROR_COMING"
+msgid "You feel an evil presence watching you..."
+msgstr "Senti che una presenza malvagia ti sta osservando..."
+
+#. EYEOFTERROR_TARGET
+msgctxt "EYEOFTERROR_TARGET"
+msgid "The Eye of Terror turns its gaze toward {player_name}"
+msgstr "L'Occhio del terrore rivolge il suo sguardo verso {player_name}"
+
+#. GOATKID_TALK_CLOSED.1
+msgctxt "GOATKID_TALK_CLOSED.1"
+msgid "I'll only talk to you if Mumsy says it's okay."
+msgstr "Ti parlo solo se mammina dice che va bene."
+
+#. GOATKID_TALK_CLOSED.2
+msgctxt "GOATKID_TALK_CLOSED.2"
+msgid "Go talk to my mum. Baa."
+msgstr "Vai a parlare con la mia mamma. Bee."
+
+#. GOATKID_TALK_CLOSED.3
+msgctxt "GOATKID_TALK_CLOSED.3"
+msgid "Can you ask my mum before we play?"
+msgstr "Puoi chiedere alla mia mamma prima che giochiamo?"
+
+#. GOATKID_TALK_CLOSED.4
+msgctxt "GOATKID_TALK_CLOSED.4"
+msgid "Go ask Mumsy if we can play. Baa."
+msgstr "Vai a chiedere a mammina se possiamo giocare. Bee."
+
+#. GOATKID_TALK_GREETING.1
+msgctxt "GOATKID_TALK_GREETING.1"
+msgid "Pipton lets me have sweets, when Mumsy says it's okay."
+msgstr "Pipton mi dà un dolcetto, quando mammina dice che va bene."
+
+#. GOATKID_TALK_GREETING.2
+msgctxt "GOATKID_TALK_GREETING.2"
+msgid "I like playing with the pebble crabs."
+msgstr "Mi piace giocare con i granchi pietra."
+
+#. GOATKID_TALK_GREETING.3
+msgctxt "GOATKID_TALK_GREETING.3"
+msgid "Our house used to be around here, baa."
+msgstr "La nostra casa era da queste parti, bee."
+
+#. GOATKID_TALK_GREETING.4
+msgctxt "GOATKID_TALK_GREETING.4"
+msgid "Mumsy says my friends can't come out to play."
+msgstr "Mammina dice che i miei amici non possono uscire a giocare."
+
+#. GOATKID_TALK_GREETING.5
+msgctxt "GOATKID_TALK_GREETING.5"
+msgid "I wish my bike still worked, baa."
+msgstr "Vorrei che la mia bici non fosse rotta, bee."
+
+#. GOATKID_TALK_GREETING.6
+msgctxt "GOATKID_TALK_GREETING.6"
+msgid "Sammy was a goat before, like mum and I."
+msgstr "Sammy era una capra, come mamma e io."
+
+#. GOATKID_TALK_GREETING.7
+msgctxt "GOATKID_TALK_GREETING.7"
+msgid "Mumsy tells me not to look at the sky."
+msgstr "Mammina mi dice di non guardare al cielo."
+
+#. GOATKID_TALK_TRADE.1
+msgctxt "GOATKID_TALK_TRADE.1"
+msgid "Baaaa! My favorite!"
+msgstr "Beeee! Il mio preferito!"
+
+#. GOATKID_TALK_TRADE.2
+msgctxt "GOATKID_TALK_TRADE.2"
+msgid "Oh, thanks!"
+msgstr "Oh, grazie!"
+
+#. GOATKID_TALK_TRADE.3
+msgctxt "GOATKID_TALK_TRADE.3"
+msgid "We're friends now, right?"
+msgstr "Siamo amici adesso, giusto?"
+
+#. GOATKID_TALK_TRADE.4
+msgctxt "GOATKID_TALK_TRADE.4"
+msgid "Baa!"
+msgstr "Bee!"
+
+#. GOATKID_TALK_TRADE.5
+msgctxt "GOATKID_TALK_TRADE.5"
+msgid "Mumsy says always to say \"thank-you\"."
+msgstr "Mammina dice sempre di dire \"grazie\"."
+
+#. GOATKID_TALK_TRADE.6
+msgctxt "GOATKID_TALK_TRADE.6"
+msgid "Tradesies are fun."
+msgstr "Gli scambi sono divertenti."
+
+#. GOATKID_TALK_TRADE.7
+msgctxt "GOATKID_TALK_TRADE.7"
+msgid "Baa, thanks!"
+msgstr "Bee, grazie!"
+
+#. GREENAMULET_TOOLTIP
+msgctxt "GREENAMULET_TOOLTIP"
+msgid "Reduced Material Cost"
+msgstr "Costo del materiale ridotto"
+
+#. INSPECTMOD
+msgctxt "INSPECTMOD"
+msgid "Inspect"
+msgstr "Ispeziona"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.random
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.random"
+msgid "\nSelect a random survivor"
+msgstr "\nSeleziona un sopravvissuto casuale"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.walter
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.walter"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "*PLACEHOLDER\n\n\n\nSpecialità:\nPLACEHOLDER"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wanda
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wanda"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "*PLACEHOLDER\n\n\n\nSpecialità:\nPLACEHOLDER"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.warly
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.warly"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "*PLACEHOLDER\n\n\n\nSpecialità:\nPLACEHOLDER"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wathgrithr
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wathgrithr"
+msgid "*Battle cries increase nearby allies' next attack damage by 25%\n*Gains less aggro when attacking\n\nExpertise:\nMelee, Darts"
+msgstr "Le grida di battaglia aumentano il danno dell'attacco successivo degli alleati del 25%\n*Ottiene meno aggressività quando attacca\n\n*Specialità:\nAttacchi ravvicinati, dardi"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.waxwell
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.waxwell"
+msgid "*Summons Shadow Duelists after focusing attacks on a single target\n\n\nExpertise:\nBooks, Staves"
+msgstr "*Evoca i Duellanti d'ombra dopo aver concentrato gli attacchi su un solo obiettivo\n\n\nSpecialità:\nLibri, bastoni"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.webber
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.webber"
+msgid "*Accompanied by itsy bitsy spiders\n\n\n\nExpertise:\nDarts"
+msgstr "*Accompagnato da ragni minuscoli\n\n\n\nSpecialità:\nDardi"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wendy
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wendy"
+msgid "*Protected by her twin sister, Abigail\n\n\n\nExpertise:\nDarts, Staves"
+msgstr "*Protetta dalla sorella gemella, Abigail\n\n\n\nSpecialità:\nDardi, bastoni"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wes
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wes"
+msgid "*Can be revived twice as quickly\n*Gains minimal aggro when attacking\n*Less likely to lose aggro once drawn\n\nExpertise:\nMelee, Darts, Staves"
+msgstr "*Può essere rianimato in metà del tempo\n*Ottiene un'aggressività minima quando attacca\n*È meno probabile che perda aggressività una volta lanciato\n\nSpecialità:\nAttacchi ravvicinati, dardi, bastoni"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wickerbottom
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wickerbottom"
+msgid "*Gains a buff after dealing sufficient damage, amplifying her next spell\n\n\nExpertise:\nBooks, Staves"
+msgstr "*Ottiene un potenziamento dopo aver inflitto abbastanza danni, amplificando la sua magia successiva\n\n\nSpecialità:\nLibri, bastoni"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.willow
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.willow"
+msgid "*Protected by Bernie the Bear\n*Fire and Explosive attack damage increased by 10%\n\nExpertise:\nDarts, Staves"
+msgstr "*Protetta dall'orsacchiotto Bernie\n*Danno degli attacchi di fuoco e degli esplosivi aumentato del 10%\n\nSpecialità:\nDardi, bastoni"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wilson
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wilson"
+msgid "*Revives allies twice as quickly\n*Restores three times more health when reviving allies\n\nExpertise:\nMelee, Darts, Staves"
+msgstr "*Resuscita gli alleati al doppio della velocità\n*Ripristina tre volte più salute quando resuscita gli alleati\n\nSpecialità:\nAttacchi ravvicinati, dardi, bastoni"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.winona
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.winona"
+msgid "*All ability cooldowns are 10% faster\n\n\n\nExpertise:\nMelee, Darts, Staves"
+msgstr "*Il recupero di tutte le abilità è aumentato del 10%\n\n\n\nEsperienza:\nattacchi ravvicinati, dardi, bastoni"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wolfgang
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wolfgang"
+msgid "*Becomes Mighty when health is low, increasing attack power, defense, and movement speed for 10 seconds\n\nExpertise:\nMelee"
+msgstr "*Diventa possente quando la salute è bassa, aumentando il potere di attacco, di difesa e la velocità di movimento per 10 secondi\n\nSpecialità:\nAttacchi ravvicinati"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.woodie
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.woodie"
+msgid "*Lucy returns to Woodie when thrown\n*Attack speed increased when wielding Lucy\n\nExpertise:\nMelee"
+msgstr "*Lucy torna da Woodie quando viene lanciata\n*La velocità di attacco aumenta impugnando Lucy\n\nSpecialità:\nAttacchi ravvicinati"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.woodie_canada
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.woodie_canada"
+msgid "*Lucy returns to Woodie when thrown\n*Attack speed increased when wielding Lucy\n\nExpertise:\nMelee"
+msgstr "*Lucy torna da Woodie quando viene lanciata\n*La velocità di attacco aumenta impugnando Lucy\n\nSpecialità:\nAttacchi ravvicinati"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.woodie_us
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.woodie_us"
+msgid "*Lucy returns to Woodie when thrown\n*Attack speed increased when wielding Lucy\n\nExpertise:\nMelee"
+msgstr "*Lucy torna da Woodie quando viene lanciata\n*La velocità di attacco aumenta impugnando Lucy\n\nSpecialità:\nAttacchi ravvicinati"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wormwood
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wormwood"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "*PLACEHOLDER\n\n\n\nSpecialità:\nPLACEHOLDER"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wortox
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wortox"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "*PLACEHOLDER\n\n\n\nSpecialità:\nPLACEHOLDER"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wurt
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wurt"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "*PLACEHOLDER\n\n\n\nSpecialità:\nPLACEHOLDER"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wx78
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wx78"
+msgid "*Shocks enemies when attacked\n*Electric attack damage increased by 50%\n\nExpertise:\nMelee"
+msgstr "*Folgora i nemici quando è attaccato\n*Danno dell'attacco elettrico aumentato del 50%\n\nSpecialità:\nAattacchi ravvicinati"
+
+#. MAPRECORDER.LOCATION.CAVE
+msgctxt "MAPRECORDER.LOCATION.CAVE"
+msgid " in the caves"
+msgstr " nelle grotte"
+
+#. MAPRECORDER.LOCATION.DEFAULT
+msgctxt "MAPRECORDER.LOCATION.DEFAULT"
+msgid ""
+msgstr ""
+
+#. MAPRECORDER.MAPDESC
+msgctxt "MAPRECORDER.MAPDESC"
+msgid "Mapped{location} by {author} on day {day}."
+msgstr "Mappatura {location} a cura di {author} in data {day}."
+
+#. MAPRECORDER.UNKNOWN_AUTHOR
+msgctxt "MAPRECORDER.UNKNOWN_AUTHOR"
+msgid "an explorer"
+msgstr "un esploratore"
+
+#. MAPRECORDER.UNKNOWN_DAY
+msgctxt "MAPRECORDER.UNKNOWN_DAY"
+msgid "???"
+msgstr "???"
+
+#. MESSAGEBOTTLE_NOTES.1
+msgctxt "MESSAGEBOTTLE_NOTES.1"
+msgid "\"I know you're still out there, my dear. I won't ever give up.\""
+msgstr "\"So che, da qualche parte, respiri ancora, tesoro. Non mi arrenderò mai.\""
+
+#. MESSAGEBOTTLE_NOTES.2
+msgctxt "MESSAGEBOTTLE_NOTES.2"
+msgid "\"I'm waiting for you. At the spot where we first met. I've been waiting so long...\""
+msgstr "\"Ti aspetto. Nel posto in cui ci siamo incontrati la prima volta. Aspetto da così tanto...\""
+
+#. MESSAGEBOTTLE_NOTES.3
+msgctxt "MESSAGEBOTTLE_NOTES.3"
+msgid "\"Please come home. I miss you so much.\""
+msgstr "\"Ti prego, torna a casa. Mi manchi da morire.\""
+
+#. MESSAGEBOTTLE_NOTES.4
+msgctxt "MESSAGEBOTTLE_NOTES.4"
+msgid "\"I still have the last gift you gave me. \"A pearl for Pearl\"... remember?\""
+msgstr "\"Conservo ancora l'ultimo regalo che mi hai fatto. 'Una perla per Perla'... Ricordi?\""
+
+#. MESSAGEBOTTLE_NOTES.5
+msgctxt "MESSAGEBOTTLE_NOTES.5"
+msgid "\"I'll keep sending messages, until one reaches you...\""
+msgstr "\"Continuerò a mandare messaggi finché uno non arriverà a te...\""
+
+#. MESSAGEBOTTLE_NOTES.6
+msgctxt "MESSAGEBOTTLE_NOTES.6"
+msgid "\"Have you found your treasure yet? When you do, will you come home?\""
+msgstr "\"Hai trovato il tuo tesoro? Quando lo troverai, tornerai a casa?\""
+
+#. MODS.VERSIONING.OUT_OF_DATE
+msgctxt "MODS.VERSIONING.OUT_OF_DATE"
+msgid "Mod \"%s\" is out of date. The server needs to get the latest version from the Steam Workshop so other users can join."
+msgstr "Il mod \"%s\" è scaduto. Il server richiede la versione più recente dal Workshop di Steam per permettere agli altri utenti di unirsi."
+
+#. MODS.VERSIONING.OUT_OF_DATE_RAIL
+msgctxt "MODS.VERSIONING.OUT_OF_DATE_RAIL"
+msgid "Mod \"%s\" is out of date. The server needs to get the latest version so other users can join."
+msgstr "Il mod \"%s\" è scaduto. Il server richiede la versione più recente per permettere agli altri utenti di unirsi."
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMOREXTRAHEAVY
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMOREXTRAHEAVY"
+msgid "90% Protection\n-15% Move Speed\nKnockback Resistance"
+msgstr "90% protezione\n-15% velocità di movimento\nResistenza all'abbattimento"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMORHEAVY
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMORHEAVY"
+msgid "85% Protection"
+msgstr "85% protezione"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMORLIGHT
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMORLIGHT"
+msgid "50% Protection\n+5% Faster Cooldown"
+msgstr "50% protezione\n+5% velocità di recupero"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMORLIGHTSPEED
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMORLIGHTSPEED"
+msgid "60% Protection\n+10% Move Speed"
+msgstr "60% protezione\n+10% velocità di movimento"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMORMEDIUM
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMORMEDIUM"
+msgid "75% Protection"
+msgstr "75% protezione"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMORMEDIUMDAMAGER
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMORMEDIUMDAMAGER"
+msgid "75% Protection\n+10% Physical Damage"
+msgstr "75% protezione\n+10% danno fisico"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMORMEDIUMRECHARGER
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMORMEDIUMRECHARGER"
+msgid "75% Protection\n+10% Faster Cooldown"
+msgstr "75% protezione\n+10% velocità di recupero"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPDAMAGER
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPDAMAGER"
+msgid "80% Protection\n+50 Max Health\n+20% Physical Damage"
+msgstr "80% protezione\n+50 salute max\n+20% danno fisico"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPEXTRAHEAVY
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPEXTRAHEAVY"
+msgid "90% Protection\n+100 Max Health\nKnockback Resistance"
+msgstr "90% protezione\n+100 salute max\nResistenza all'abbattimento"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPPETMASTERY
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPPETMASTERY"
+msgid "80% Protection\n+75 Max Health\nCompanion Buff"
+msgstr "80% protezione\n+75 salute max\nBonus compagno"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPRECHARGER
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPRECHARGER"
+msgid "80% Protection\n+50 Max Health\n+15% Faster Cooldown"
+msgstr "80% protezione\n+50 salute max\n+15% velocità di recupero"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_CROWNDAMAGERHAT
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_CROWNDAMAGERHAT"
+msgid "+15% Physical Damage\n+10% Faster Cooldown\n+10% Move Speed"
+msgstr "+15% danno fisico\n+10% velocità recupero\n+10% velocità di movimento"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_EYECIRCLETHAT
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_EYECIRCLETHAT"
+msgid "+25% Magic Damage\n+10% Faster Cooldown\n+10% Move Speed"
+msgstr "+25% danno magico\n+10% velocità di recupero\n+10% velocità di movimento"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_FEATHERCROWNHAT
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_FEATHERCROWNHAT"
+msgid "+20% Move Speed"
+msgstr "+20% velocità di movimento"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_HEALINGFLOWERHAT
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_HEALINGFLOWERHAT"
+msgid "+25% Healing Received"
+msgstr "+25% cure ricevute"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_HEALINGGARLANDHAT
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_HEALINGGARLANDHAT"
+msgid "+2 HP/s (80% HP Max)\n+10% Faster Cooldown\n+10% Move Speed"
+msgstr "+2 PV/s (80% PV max)\n+10% velocità di recupero\n+10% velocità di movimento"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_LIGHTDAMAGERHAT
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_LIGHTDAMAGERHAT"
+msgid "+10% Physical Damage"
+msgstr "+10% danno fisico"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_RECHARGERHAT
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_RECHARGERHAT"
+msgid "+10% Faster Cooldown"
+msgstr "+10% velocità di recupero"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_STRONGDAMAGERHAT
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_STRONGDAMAGERHAT"
+msgid "+15% Physical Damage"
+msgstr "+15% danno fisico"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_TIARAFLOWERPETALSHAT
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_TIARAFLOWERPETALSHAT"
+msgid "+20% Healing Dealt"
+msgstr "+20% cure distribuite"
+
+#. PIG_ELITE_FIGHTER_INTRO.1
+msgctxt "PIG_ELITE_FIGHTER_INTRO.1"
+msgid "I HELP!"
+msgstr "IO AIUTO!"
+
+#. PIG_ELITE_FIGHTER_INTRO.2
+msgctxt "PIG_ELITE_FIGHTER_INTRO.2"
+msgid "SMASHY! SMASHY!"
+msgstr "ROMPI! ROMPI!"
+
+#. PIG_ELITE_FIGHTER_INTRO.3
+msgctxt "PIG_ELITE_FIGHTER_INTRO.3"
+msgid "PUNCH TIME!"
+msgstr "ORA DI PUGNI!"
+
+#. PIG_ELITE_FIGHTER_INTRO.4
+msgctxt "PIG_ELITE_FIGHTER_INTRO.4"
+msgid "WHERE I SMASH?"
+msgstr "DOVE ROMPO?"
+
+#. PIG_ELITE_FIGHTER_OUTRO.1
+msgctxt "PIG_ELITE_FIGHTER_OUTRO.1"
+msgid "PIGGY, AWAY!"
+msgstr "MAIALINO, VIA!"
+
+#. PIG_ELITE_FIGHTER_OUTRO.2
+msgctxt "PIG_ELITE_FIGHTER_OUTRO.2"
+msgid "I PUNCHED!"
+msgstr "IO PUGNO!"
+
+#. PIG_ELITE_FIGHTER_OUTRO.3
+msgctxt "PIG_ELITE_FIGHTER_OUTRO.3"
+msgid "I GO NOW!"
+msgstr "IO VADO ADESSO!"
+
+#. PIG_ELITE_FIGHTER_OUTRO.4
+msgctxt "PIG_ELITE_FIGHTER_OUTRO.4"
+msgid "SEE YA!"
+msgstr "CI VEDIAMO!"
+
+#. PIG_ELITE_GOLD.1
+msgctxt "PIG_ELITE_GOLD.1"
+msgid "MINE!"
+msgstr "MIO!"
+
+#. PIG_ELITE_GOLD.2
+msgctxt "PIG_ELITE_GOLD.2"
+msgid "MY GOLD!"
+msgstr "ORO MIO!"
+
+#. PIG_ELITE_GOLD.3
+msgctxt "PIG_ELITE_GOLD.3"
+msgid "I TAKE GOLD!"
+msgstr "PRENDO ORO!"
+
+#. PIG_ELITE_INTRO.1
+msgctxt "PIG_ELITE_INTRO.1"
+msgid "FOR KING!"
+msgstr "PER RE!"
+
+#. PIG_ELITE_INTRO.2
+msgctxt "PIG_ELITE_INTRO.2"
+msgid "GET GOLD!"
+msgstr "PRENDI L'ORO!"
+
+#. PIG_ELITE_POST_MATCH.1
+msgctxt "PIG_ELITE_POST_MATCH.1"
+msgid "YOU BAD AT THIS. GET BETTER"
+msgstr "NON BRAVO A QUESTO. MIGLIORA"
+
+#. PIG_ELITE_POST_MATCH.2
+msgctxt "PIG_ELITE_POST_MATCH.2"
+msgid "TRY AGAIN SOMETIME?"
+msgstr "RIPROVA ALTRA VOLTA?"
+
+#. PIG_ELITE_POST_MATCH.3
+msgctxt "PIG_ELITE_POST_MATCH.3"
+msgid "YOU WORTHY OPPONENT"
+msgstr "TU DEGNO AVVERSARIO"
+
+#. PIG_ELITE_POST_MATCH.4
+msgctxt "PIG_ELITE_POST_MATCH.4"
+msgid "YOU HUMBLE US"
+msgstr "TU CI UMILI"
+
+#. PIG_ELITE_POST_MATCH.5
+msgctxt "PIG_ELITE_POST_MATCH.5"
+msgid "GOOD MATCH. WE GO BED NOW"
+msgstr "BUONA PARTITA. A LETTO ORA"
+
+#. PIG_ELITE_POST_MATCH.6
+msgctxt "PIG_ELITE_POST_MATCH.6"
+msgid "YOU CHEATER. WE NO LIKE CHEATERS"
+msgstr "TU IMBROGLIONE. NON PIACE IMBROGLIONI"
+
+#. PIG_ELITE_SALTY.1
+msgctxt "PIG_ELITE_SALTY.1"
+msgid "CHEATER!"
+msgstr "IMBROGLIONE!"
+
+#. PIG_ELITE_SALTY.2
+msgctxt "PIG_ELITE_SALTY.2"
+msgid "NO FAIR"
+msgstr "NON GIUSTO"
+
+#. PIG_ELITE_SALTY.3
+msgctxt "PIG_ELITE_SALTY.3"
+msgid "NOT ALLOWED DO THAT!"
+msgstr "NON PERMESSO FARLO!"
+
+#. PIG_ELITE_SMACK.1
+msgctxt "PIG_ELITE_SMACK.1"
+msgid "YOU GO SMASH!"
+msgstr "TU VAI FRACASSARE!"
+
+#. PIG_ELITE_SMACK.2
+msgctxt "PIG_ELITE_SMACK.2"
+msgid "I BASH YOU!"
+msgstr "TI PICCHIO!"
+
+#. PIG_ELITE_SMACK.3
+msgctxt "PIG_ELITE_SMACK.3"
+msgid "STAY AWAY!"
+msgstr "STAI ALLA LARGA!"
+
+#. PIG_ELITE_SMACK.4
+msgctxt "PIG_ELITE_SMACK.4"
+msgid "FUN!"
+msgstr "DIVERTENTE!"
+
+#. PIG_GUARD_TALK_FIGHT.1
+msgctxt "PIG_GUARD_TALK_FIGHT.1"
+msgid "FOR KING!"
+msgstr "PER RE!"
+
+#. PIG_GUARD_TALK_FIGHT.2
+msgctxt "PIG_GUARD_TALK_FIGHT.2"
+msgid "DEFEND!"
+msgstr "DIFENDO!"
+
+#. PIG_GUARD_TALK_FIGHT.3
+msgctxt "PIG_GUARD_TALK_FIGHT.3"
+msgid "SAVE KING!"
+msgstr "SALVA RE!"
+
+#. PIG_GUARD_TALK_GOHOME.1
+msgctxt "PIG_GUARD_TALK_GOHOME.1"
+msgid "MUST DEFEND!"
+msgstr "DOVERE DIFENDERE!"
+
+#. PIG_GUARD_TALK_GOHOME.2
+msgctxt "PIG_GUARD_TALK_GOHOME.2"
+msgid "I PROTECT"
+msgstr "IO PROTEGGO"
+
+#. PIG_GUARD_TALK_GOHOME.3
+msgctxt "PIG_GUARD_TALK_GOHOME.3"
+msgid "KING! KING!"
+msgstr "RE! RE!"
+
+#. PIG_GUARD_TALK_LOOKATWILSON.1
+msgctxt "PIG_GUARD_TALK_LOOKATWILSON.1"
+msgid "YOU LEAVE NOW"
+msgstr "TU VAI ADESSO"
+
+#. PIG_GUARD_TALK_LOOKATWILSON.2
+msgctxt "PIG_GUARD_TALK_LOOKATWILSON.2"
+msgid "YOU GO AWAY"
+msgstr "TU VAI VIA"
+
+#. PIG_GUARD_TALK_LOOKATWILSON.3
+msgctxt "PIG_GUARD_TALK_LOOKATWILSON.3"
+msgid "YOU NO STAY"
+msgstr "TU NO RIMANI"
+
+#. PIG_GUARD_TALK_TORCH.1
+msgctxt "PIG_GUARD_TALK_TORCH.1"
+msgid "TORCH GET LOW"
+msgstr "TORCIA È BASSA"
+
+#. PIG_GUARD_TALK_TORCH.2
+msgctxt "PIG_GUARD_TALK_TORCH.2"
+msgid "MAKE TORCH BRIGHT"
+msgstr "FAI FARE LA TORCIA LUMINOSA"
+
+#. PIG_GUARD_TALK_TORCH.3
+msgctxt "PIG_GUARD_TALK_TORCH.3"
+msgid "MORE BURNING"
+msgstr "ANCORA BRUCIARE"
+
+#. PSN
+msgctxt "PSN"
+msgid "PlayStation™Network"
+msgstr "PlayStation™Network"
+
+#. SELECT
+msgctxt "SELECT"
+msgid "Select"
+msgstr "Seleziona"
+
+#. SET_DESCRIPTIONS.body_ugly_winterhat_black_davys
+msgctxt "SET_DESCRIPTIONS.body_ugly_winterhat_black_davys"
+msgid "You might as well get one in every color."
+msgstr "Tanto vale prenderne uno per ogni colore."
+
+#. SET_DESCRIPTIONS.body_ugly_winterhat_pink_hibiscus
+msgctxt "SET_DESCRIPTIONS.body_ugly_winterhat_pink_hibiscus"
+msgid "As a matter of fact, having a matching hat and sweater is VERY fashionable."
+msgstr "Di fatto, avere un copricapo e un maglione dello stesso colore è MOLTO di moda."
+
+#. SET_DESCRIPTIONS.emote_carol
+msgctxt "SET_DESCRIPTIONS.emote_carol"
+msgid "The spirit of Winter's Feast will keep you warm when you go a-caroling tonight!"
+msgstr "Lo spirito delle festività invernali ti terrà al calduccio quando andrai a cantare le canzoni stanotte!"
+
+#. SET_DESCRIPTIONS.emote_fistshake
+msgctxt "SET_DESCRIPTIONS.emote_fistshake"
+msgid "Why, you!"
+msgstr "Ehi, tu!"
+
+#. SET_DESCRIPTIONS.emote_sleepy
+msgctxt "SET_DESCRIPTIONS.emote_sleepy"
+msgid "You look cozy from top to bottom. Sweet dreams, sleepy survivor!"
+msgstr "Sembri a tuo agio da cima a fondo. Sogni d'oro, sopravvissuto assonnato!"
+
+#. SET_DESCRIPTIONS.emote_yawn
+msgctxt "SET_DESCRIPTIONS.emote_yawn"
+msgid "You are so ready for a nap. You've never been more ready for anything in your entire life."
+msgstr "Sei davvero pronto a fare un pisolino. Non sei mai stato più pronto di così."
+
+#. SET_NAMES.body_ugly_winterhat_black_davys
+msgctxt "SET_NAMES.body_ugly_winterhat_black_davys"
+msgid "Black Winter Hat Ensemble"
+msgstr "Completo con cappello invernale nero"
+
+#. SET_NAMES.body_ugly_winterhat_pink_hibiscus
+msgctxt "SET_NAMES.body_ugly_winterhat_pink_hibiscus"
+msgid "Pink Winter Hat Ensemble"
+msgstr "Completo con cappello invernale rosa"
+
+#. SET_NAMES.emote_carol
+msgctxt "SET_NAMES.emote_carol"
+msgid "Caroler's Ensemble"
+msgstr "Completo del cantore"
+
+#. SET_NAMES.emote_fistshake
+msgctxt "SET_NAMES.emote_fistshake"
+msgid "Forge Set Ensemble"
+msgstr "Completo della Forgia"
+
+#. SET_NAMES.emote_sleepy
+msgctxt "SET_NAMES.emote_sleepy"
+msgid "Sleepytime Ensemble"
+msgstr "Gruppo buonanotte"
+
+#. SET_NAMES.emote_yawn
+msgctxt "SET_NAMES.emote_yawn"
+msgid "Yawny Jammies Ensemble"
+msgstr "Completo Pigiamini da sonno"
+
+#. SHARD.MIGRATION_FAILED.DST_SHARD_DESTINATION_FULL
+msgctxt "SHARD.MIGRATION_FAILED.DST_SHARD_DESTINATION_FULL"
+msgid "[WIP] Destination is full!"
+msgstr "[WIP] Destination is full!"
+
+#. SHARD.MIGRATION_FAILED.DST_SHARD_MIGRATION_CANCELLED
+msgctxt "SHARD.MIGRATION_FAILED.DST_SHARD_MIGRATION_CANCELLED"
+msgid "[WIP] Migration canceled"
+msgstr "[WIP] Migration canceled"
+
+#. SHARD.MIGRATION_FAILED.DST_SHARD_MIGRATION_DESTINATION_NOT_READY
+msgctxt "SHARD.MIGRATION_FAILED.DST_SHARD_MIGRATION_DESTINATION_NOT_READY"
+msgid "[WIP] Destination is not ready!"
+msgstr "[WIP] Destination is not ready!"
+
+#. SMALLGHOST_TALK.1
+msgctxt "SMALLGHOST_TALK.1"
+msgid "ooOOoo"
+msgstr "uuUUuu"
+
+#. SMALLGHOST_TALK.2
+msgctxt "SMALLGHOST_TALK.2"
+msgid "OOoo"
+msgstr "UUuu"
+
+#. SMALLGHOST_TALK.3
+msgctxt "SMALLGHOST_TALK.3"
+msgid "OoOoOoO"
+msgstr "UuUuUuU"
+
+#. SMOLDERINGITEM
+msgctxt "SMOLDERINGITEM"
+msgid "Smoldering"
+msgstr "Combustione lenta"
+
+#. SONGS.WALTER_GLOMMER_GUTS.lines.1.duration
+msgctxt "SONGS.WALTER_GLOMMER_GUTS.lines.1.duration"
+msgid "4.3"
+msgstr "4.3"
+
+#. SONGS.WALTER_GLOMMER_GUTS.lines.1.message
+msgctxt "SONGS.WALTER_GLOMMER_GUTS.lines.1.message"
+msgid "Great pink gobs of greasy grimy Glommer guts,"
+msgstr "Budella di glommo rosa e caccolose,"
+
+#. SONGS.WALTER_GLOMMER_GUTS.lines.2.duration
+msgctxt "SONGS.WALTER_GLOMMER_GUTS.lines.2.duration"
+msgid "1.9"
+msgstr "1.9"
+
+#. SONGS.WALTER_GLOMMER_GUTS.lines.2.message
+msgctxt "SONGS.WALTER_GLOMMER_GUTS.lines.2.message"
+msgid "Icky sticky spider legs,"
+msgstr "Zampe di ragno appiccicose,"
+
+#. SONGS.WALTER_GLOMMER_GUTS.lines.3.duration
+msgctxt "SONGS.WALTER_GLOMMER_GUTS.lines.3.duration"
+msgid "2.1"
+msgstr "2.1"
+
+#. SONGS.WALTER_GLOMMER_GUTS.lines.3.message
+msgctxt "SONGS.WALTER_GLOMMER_GUTS.lines.3.message"
+msgid "Scrambled rotten Tallbird eggs,"
+msgstr "Uova marce di pennutalto troppo schifose,"
+
+#. SONGS.WALTER_GLOMMER_GUTS.lines.4.duration
+msgctxt "SONGS.WALTER_GLOMMER_GUTS.lines.4.duration"
+msgid "4"
+msgstr "4"
+
+#. SONGS.WALTER_GLOMMER_GUTS.lines.4.message
+msgctxt "SONGS.WALTER_GLOMMER_GUTS.lines.4.message"
+msgid "French fried eyeplant floating in a pool of mud,"
+msgstr "Piante occhiute fritte e condite con sugo di letamaio,"
+
+#. SONGS.WALTER_GLOMMER_GUTS.lines.5.duration
+msgctxt "SONGS.WALTER_GLOMMER_GUTS.lines.5.duration"
+msgid "3.3"
+msgstr "3.3"
+
+#. SONGS.WALTER_GLOMMER_GUTS.lines.5.message
+msgctxt "SONGS.WALTER_GLOMMER_GUTS.lines.5.message"
+msgid "And me without my spoon."
+msgstr "E io sono senza cucchiaio."
+
+#. STACKMOD
+msgctxt "STACKMOD"
+msgid "Stack"
+msgstr "Accatasta"
+
+#. STALKER_BATTLECRY.1
+msgctxt "STALKER_BATTLECRY.1"
+msgid "Huurgh..."
+msgstr "Urgh..."
+
+#. STALKER_BATTLECRY.2
+msgctxt "STALKER_BATTLECRY.2"
+msgid "...(growl)..."
+msgstr "(growl)"
+
+#. STALKER_BATTLECRY.3
+msgctxt "STALKER_BATTLECRY.3"
+msgid "...gruuuugh..."
+msgstr "Gruuuug..."
+
+#. STALKER_BATTLECRY.4
+msgctxt "STALKER_BATTLECRY.4"
+msgid "Hrrgh..."
+msgstr "Rrgh..."
+
+#. STALKER_BATTLECRY.5
+msgctxt "STALKER_BATTLECRY.5"
+msgid "...grraaugh..."
+msgstr "Grraau..."
+
+#. STALKER_BATTLECRY.6
+msgctxt "STALKER_BATTLECRY.6"
+msgid "...(rumble)..."
+msgstr "(uff)"
+
+#. STALKER_BATTLECRY.7
+msgctxt "STALKER_BATTLECRY.7"
+msgid "...gruh..."
+msgstr "Gruu..."
+
+#. STALKER_PLAYER_BATTLECRY.1
+msgctxt "STALKER_PLAYER_BATTLECRY.1"
+msgid "Huurgh..."
+msgstr "Urgh..."
+
+#. STALKER_PLAYER_BATTLECRY.2
+msgctxt "STALKER_PLAYER_BATTLECRY.2"
+msgid "...gruuuugh..."
+msgstr "...gruuuug..."
+
+#. STALKER_PLAYER_BATTLECRY.3
+msgctxt "STALKER_PLAYER_BATTLECRY.3"
+msgid "...grraaugh..."
+msgstr "...grraau..."
+
+#. STALKER_PLAYER_BATTLECRY.4
+msgctxt "STALKER_PLAYER_BATTLECRY.4"
+msgid "...(gurgle)..."
+msgstr "(uff)"
+
+#. STALKER_PLAYER_BATTLECRY.5
+msgctxt "STALKER_PLAYER_BATTLECRY.5"
+msgid "...(crunch)..."
+msgstr "(cranc)"
+
+#. STALKER_PLAYER_BATTLECRY.6
+msgctxt "STALKER_PLAYER_BATTLECRY.6"
+msgid "...Y-yy..."
+msgstr "I-ii..."
+
+#. STALKER_PLAYER_BATTLECRY.7
+msgctxt "STALKER_PLAYER_BATTLECRY.7"
+msgid "...W-wwh..."
+msgstr "V-vv..."
+
+#. SWAMPIGNAMES.1
+msgctxt "SWAMPIGNAMES.1"
+msgid "Titus"
+msgstr "Tito"
+
+#. SWAMPIGNAMES.10
+msgctxt "SWAMPIGNAMES.10"
+msgid "Pertinax"
+msgstr "Pertinace"
+
+#. SWAMPIGNAMES.11
+msgctxt "SWAMPIGNAMES.11"
+msgid "Didius"
+msgstr "Didio"
+
+#. SWAMPIGNAMES.12
+msgctxt "SWAMPIGNAMES.12"
+msgid "Septmius"
+msgstr "Settimio"
+
+#. SWAMPIGNAMES.13
+msgctxt "SWAMPIGNAMES.13"
+msgid "Caracalla"
+msgstr "Caracalla"
+
+#. SWAMPIGNAMES.14
+msgctxt "SWAMPIGNAMES.14"
+msgid "Geta"
+msgstr "Geta"
+
+#. SWAMPIGNAMES.15
+msgctxt "SWAMPIGNAMES.15"
+msgid "Marcrinus"
+msgstr "Macrino"
+
+#. SWAMPIGNAMES.16
+msgctxt "SWAMPIGNAMES.16"
+msgid "Elagabalus"
+msgstr "Eliogabalo"
+
+#. SWAMPIGNAMES.17
+msgctxt "SWAMPIGNAMES.17"
+msgid "Severus"
+msgstr "Severo"
+
+#. SWAMPIGNAMES.18
+msgctxt "SWAMPIGNAMES.18"
+msgid "Maximinus"
+msgstr "Massimino"
+
+#. SWAMPIGNAMES.19
+msgctxt "SWAMPIGNAMES.19"
+msgid "Gordian"
+msgstr "Gordiano"
+
+#. SWAMPIGNAMES.2
+msgctxt "SWAMPIGNAMES.2"
+msgid "Domitian"
+msgstr "Domiziano"
+
+#. SWAMPIGNAMES.20
+msgctxt "SWAMPIGNAMES.20"
+msgid "Pupienus"
+msgstr "Pupieno"
+
+#. SWAMPIGNAMES.21
+msgctxt "SWAMPIGNAMES.21"
+msgid "Balbinus"
+msgstr "Balbino"
+
+#. SWAMPIGNAMES.3
+msgctxt "SWAMPIGNAMES.3"
+msgid "Nerva"
+msgstr "Nerva"
+
+#. SWAMPIGNAMES.4
+msgctxt "SWAMPIGNAMES.4"
+msgid "Trajan"
+msgstr "Traiano"
+
+#. SWAMPIGNAMES.5
+msgctxt "SWAMPIGNAMES.5"
+msgid "Hadrian"
+msgstr "Adriano"
+
+#. SWAMPIGNAMES.6
+msgctxt "SWAMPIGNAMES.6"
+msgid "Antonius"
+msgstr "Antonino"
+
+#. SWAMPIGNAMES.7
+msgctxt "SWAMPIGNAMES.7"
+msgid "Lucius"
+msgstr "Lucio Vero"
+
+#. SWAMPIGNAMES.8
+msgctxt "SWAMPIGNAMES.8"
+msgid "Marcus"
+msgstr "Marco Aurelio"
+
+#. SWAMPIGNAMES.9
+msgctxt "SWAMPIGNAMES.9"
+msgid "Commodus"
+msgstr "Commodo"
+
+#. SWAMPIG_TALK_TO_WILSON.1
+msgctxt "SWAMPIG_TALK_TO_WILSON.1"
+msgid "KIND ELDER SICK. NEED REST"
+msgstr "GENTILE VECCHIETTO AMMALATO. HA BISOGNO DI RIPOSO"
+
+#. SWAMPIG_TALK_TO_WILSON.2
+msgctxt "SWAMPIG_TALK_TO_WILSON.2"
+msgid "YOU DIFFERENT"
+msgstr "SEI DIVERSO"
+
+#. SWAMPIG_TALK_TO_WILSON.3
+msgctxt "SWAMPIG_TALK_TO_WILSON.3"
+msgid "HELLO"
+msgstr "SALVE"
+
+#. SWAMPIG_TALK_TO_WILSON.4
+msgctxt "SWAMPIG_TALK_TO_WILSON.4"
+msgid "YOU HELP PIGS?"
+msgstr "AIUTI I SUINI?"
+
+#. SWAMPIG_TALK_TO_WILSON.5
+msgctxt "SWAMPIG_TALK_TO_WILSON.5"
+msgid "YOU WEIRD GOAT"
+msgstr "SEI UNA STRANA CAPRA"
+
+#. SWAMPIG_TALK_TO_WILSON.6
+msgctxt "SWAMPIG_TALK_TO_WILSON.6"
+msgid "YOU FEED GNAW?"
+msgstr "ALIMENTI IL MASTICATORE?"
+
+#. SWAMPIG_TALK_TO_WILSON.7
+msgctxt "SWAMPIG_TALK_TO_WILSON.7"
+msgid "(SNIFF SNIFF) (SNORT)"
+msgstr "(SNIFF SNIFF) (SNORT)"
+
+#. SWAP
+msgctxt "SWAP"
+msgid "Swap"
+msgstr "Scambia"
+
+#. TAGS.CLAN
+msgctxt "TAGS.CLAN"
+msgid "group"
+msgstr "group"
+
+#. TAGS.FRIENDSONLY
+msgctxt "TAGS.FRIENDSONLY"
+msgid "friendsonly"
+msgstr "friendsonly"
+
+#. TAGS.GAMEMODE.LAVAARENA
+msgctxt "TAGS.GAMEMODE.LAVAARENA"
+msgid "the_forge"
+msgstr "the_forge"
+
+#. TAGS.GAMEMODE.QUAGMIRE
+msgctxt "TAGS.GAMEMODE.QUAGMIRE"
+msgid "the_gorge"
+msgstr "the_gorge"
+
+#. TAGS.LOCAL
+msgctxt "TAGS.LOCAL"
+msgid "localonly"
+msgstr "localonly"
+
+#. TAGS.LOCATION.CAVE
+msgctxt "TAGS.LOCATION.CAVE"
+msgid "caves"
+msgstr "caves"
+
+#. TAGS.MULTISERVER
+msgctxt "TAGS.MULTISERVER"
+msgid "multilevel"
+msgstr "multilevel"
+
+#. TAGS.PVP
+msgctxt "TAGS.PVP"
+msgid "pvp"
+msgstr "pvp"
+
+#. TAGS.VOTE
+msgctxt "TAGS.VOTE"
+msgid "vote"
+msgstr "vote"
+
+#. THANKS_POPUP.ANRARG
+msgctxt "THANKS_POPUP.ANRARG"
+msgid "Metheus has taken heed"
+msgstr "Metheus ha prestato attenzione"
+
+#. THANKS_POPUP.ARG
+msgctxt "THANKS_POPUP.ARG"
+msgid "Pulvis et umbra sumus"
+msgstr "Pulvis et umbra sumus"
+
+#. THANKS_POPUP.CUPID
+msgctxt "THANKS_POPUP.CUPID"
+msgid "Happy Valentine's Day\nfrom your friends at Klei"
+msgstr "Buon San Valentino\ndai tuoi amici di Klei"
+
+#. THANKS_POPUP.DAILY_GIFT
+msgctxt "THANKS_POPUP.DAILY_GIFT"
+msgid "Welcome back!\nPlease enjoy this daily gift."
+msgstr "Bentornato!\nGoditi il regalo del giorno."
+
+#. THANKS_POPUP.DEFAULT
+msgctxt "THANKS_POPUP.DEFAULT"
+msgid "Thanks for playing"
+msgstr "Grazie per aver giocato"
+
+#. THANKS_POPUP.GORGE
+msgctxt "THANKS_POPUP.GORGE"
+msgid "Thanks for playing during the\nGorge event"
+msgstr "Grazie per aver giocato durante\nl'evento Forra"
+
+#. THANKS_POPUP.GORGE_TOURNAMENT
+msgctxt "THANKS_POPUP.GORGE_TOURNAMENT"
+msgid "Thanks for participating in the\nGorge Tournament"
+msgstr "Grazie per aver partecipato al\ntorneo Forra"
+
+#. THANKS_POPUP.HAMLET
+msgctxt "THANKS_POPUP.HAMLET"
+msgid "Thanks for playing"
+msgstr "Grazie per aver giocato"
+
+#. THANKS_POPUP.HOTLAVA
+msgctxt "THANKS_POPUP.HOTLAVA"
+msgid "That's hot!"
+msgstr "Bollente!"
+
+#. THANKS_POPUP.LUNAR
+msgctxt "THANKS_POPUP.LUNAR"
+msgid "Thanks for playing during the\nYear of the Gobbler event"
+msgstr "Grazie per aver giocato durante\nl'evento Anno del tacchino"
+
+#. THANKS_POPUP.ONI
+msgctxt "THANKS_POPUP.ONI"
+msgid "Thanks for playing"
+msgstr "Grazie per aver giocato"
+
+#. THANKS_POPUP.ROG
+msgctxt "THANKS_POPUP.ROG"
+msgid "Thanks for playing"
+msgstr "Grazie per aver giocato"
+
+#. THANKS_POPUP.ROGR
+msgctxt "THANKS_POPUP.ROGR"
+msgid "Thank you for buying the Reign of Giants DLC"
+msgstr "Grazie per aver acquistato Regno dei giganti DLC"
+
+#. THANKS_POPUP.ROT2
+msgctxt "THANKS_POPUP.ROT2"
+msgid "Sending well wishes\nand shell fishes!"
+msgstr "Ti faccio gli auguri più cari\ne tanti pesci spettacolari!"
+
+#. THANKS_POPUP.STORE
+msgctxt "THANKS_POPUP.STORE"
+msgid "Enjoy your gift"
+msgstr "Goditi il tuo regalo"
+
+#. THANKS_POPUP.SW
+msgctxt "THANKS_POPUP.SW"
+msgid "Thanks for playing"
+msgstr "Grazie per aver giocato"
+
+#. THANKS_POPUP.SWR
+msgctxt "THANKS_POPUP.SWR"
+msgid "Thank you for buying the ShipWrecked DLC"
+msgstr "Grazie per aver acquistato Naufragio DLC"
+
+#. THANKS_POPUP.TOT
+msgctxt "THANKS_POPUP.TOT"
+msgid "Wishing you fair winds and following seas\non the Turn of Tides!"
+msgstr "Ti auguro venti favorevoli e acque calme\nin Turn of Tides!"
+
+#. THANKS_POPUP.TWITCH
+msgctxt "THANKS_POPUP.TWITCH"
+msgid "Thanks for watching game streams"
+msgstr "Grazie per aver guardato gli streaming di gioco."
+
+#. THANKS_POPUP.TWITCH_DROP
+msgctxt "THANKS_POPUP.TWITCH_DROP"
+msgid "Thanks for watching game streams"
+msgstr "Grazie per aver guardato gli streaming di gioco."
+
+#. THANKS_POPUP.VARG
+msgctxt "THANKS_POPUP.VARG"
+msgid "Thanks for playing during the\nYear of the Varg event"
+msgstr "Grazie per aver giocato durante\nl'evento Anno del lupo"
+
+#. THANKS_POPUP.WINTER
+msgctxt "THANKS_POPUP.WINTER"
+msgid "Happy Winter's Feast\nfrom your friends at Klei"
+msgstr "Felici festività invernali\ndai tuoi amici di Klei"
+
+#. THANKS_POPUP.YOTB
+msgctxt "THANKS_POPUP.YOTB"
+msgid "Thanks for playing during the\nYear of the Beefalo event"
+msgstr "Grazie per aver giocato durante\nl'evento Anno del Mufalo"
+
+#. THANKS_POPUP.YOTP
+msgctxt "THANKS_POPUP.YOTP"
+msgid "Thanks for playing during the\nYear of the Pig King event"
+msgstr "Grazie per aver giocato durante\nl'evento Anno del re maiale"
+
+#. TRADEMOD
+msgctxt "TRADEMOD"
+msgid "Move"
+msgstr "Muovi"
+
+#. TWINS_COMING
+msgctxt "TWINS_COMING"
+msgid "This is going to be a terrible night..."
+msgstr "Sarà una notte orribile..."
+
+#. TWINS_TARGET
+msgctxt "TWINS_TARGET"
+msgid "The Twins turn their gaze toward {player_name}"
+msgstr "I Gemelli rivolgono il loro sguardo verso {player_name}"
+
+#. WET_PREFIX.CLOTHING
+msgctxt "WET_PREFIX.CLOTHING"
+msgid "Soaked"
+msgstr "(Inzuppato)"
+
+#. WET_PREFIX.FOOD
+msgctxt "WET_PREFIX.FOOD"
+msgid "Soggy"
+msgstr "(Fradicio)"
+
+#. WET_PREFIX.FUEL
+msgctxt "WET_PREFIX.FUEL"
+msgid "Water-Logged"
+msgstr "(Intriso)"
+
+#. WET_PREFIX.GENERIC
+msgctxt "WET_PREFIX.GENERIC"
+msgid "Wet"
+msgstr "(Bagnato)"
+
+#. WET_PREFIX.NONE
+msgctxt "WET_PREFIX.NONE"
+msgid ""
+msgstr ""
+
+#. WET_PREFIX.POUCH
+msgctxt "WET_PREFIX.POUCH"
+msgid "Soggy"
+msgstr "(Fradicio)"
+
+#. WET_PREFIX.RABBITHOLE
+msgctxt "WET_PREFIX.RABBITHOLE"
+msgid "Collapsed"
+msgstr "(Crollata)"
+
+#. WET_PREFIX.TOOL
+msgctxt "WET_PREFIX.TOOL"
+msgid "Slippery"
+msgstr "(Scivoloso)"
+
+#. WET_PREFIX.WETGOOP
+msgctxt "WET_PREFIX.WETGOOP"
+msgid "Very"
+msgstr "(Molto)"
+
+#. WITHEREDITEM
+msgctxt "WITHEREDITEM"
+msgid "Withered"
+msgstr "(Sfiorito)"
+

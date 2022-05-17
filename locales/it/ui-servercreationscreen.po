@@ -1,0 +1,630 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.SERVERCREATIONSCREEN.ADMIN
+msgctxt "UI.SERVERCREATIONSCREEN.ADMIN"
+msgid "Manage Server"
+msgstr "Gestisci server"
+
+#. UI.SERVERCREATIONSCREEN.BACK
+msgctxt "UI.SERVERCREATIONSCREEN.BACK"
+msgid "Back"
+msgstr "Indietro"
+
+#. UI.SERVERCREATIONSCREEN.BANS
+msgctxt "UI.SERVERCREATIONSCREEN.BANS"
+msgid "Bans"
+msgstr "Sospensioni"
+
+#. UI.SERVERCREATIONSCREEN.CANCEL
+msgctxt "UI.SERVERCREATIONSCREEN.CANCEL"
+msgid "Cancel"
+msgstr "Annulla"
+
+#. UI.SERVERCREATIONSCREEN.CANCEL_BODY
+msgctxt "UI.SERVERCREATIONSCREEN.CANCEL_BODY"
+msgid "Do you want to save your changes?"
+msgstr "Vuoi salvare le modifiche?"
+
+#. UI.SERVERCREATIONSCREEN.CANCEL_TITLE
+msgctxt "UI.SERVERCREATIONSCREEN.CANCEL_TITLE"
+msgid "Save Changes?"
+msgstr "Vuoi perdere le modifiche?"
+
+#. UI.SERVERCREATIONSCREEN.CAVEWORLD
+msgctxt "UI.SERVERCREATIONSCREEN.CAVEWORLD"
+msgid "Cave World"
+msgstr "Il mondo della grotta"
+
+#. UI.SERVERCREATIONSCREEN.CLANADMIN
+msgctxt "UI.SERVERCREATIONSCREEN.CLANADMIN"
+msgid "Auto Group Admins:"
+msgstr "Raggruppamento automatico amministratori:"
+
+#. UI.SERVERCREATIONSCREEN.CLANID
+msgctxt "UI.SERVERCREATIONSCREEN.CLANID"
+msgid "Group ID:"
+msgstr "ID gruppo:"
+
+#. UI.SERVERCREATIONSCREEN.CLANONLY
+msgctxt "UI.SERVERCREATIONSCREEN.CLANONLY"
+msgid "Members Only:"
+msgstr "Solo membri:"
+
+#. UI.SERVERCREATIONSCREEN.CLAN_CLOSED
+msgctxt "UI.SERVERCREATIONSCREEN.CLAN_CLOSED"
+msgid "Members Only"
+msgstr "Solo membri"
+
+#. UI.SERVERCREATIONSCREEN.CLAN_OPEN
+msgctxt "UI.SERVERCREATIONSCREEN.CLAN_OPEN"
+msgid "Open"
+msgstr "Apri"
+
+#. UI.SERVERCREATIONSCREEN.CLONE
+msgctxt "UI.SERVERCREATIONSCREEN.CLONE"
+msgid "Duplicate World"
+msgstr "Duplica il mondo"
+
+#. UI.SERVERCREATIONSCREEN.CLUSTERSLOT
+msgctxt "UI.SERVERCREATIONSCREEN.CLUSTERSLOT"
+msgid "Save Folder"
+msgstr "Salva la cartella"
+
+#. UI.SERVERCREATIONSCREEN.CONTINUE
+msgctxt "UI.SERVERCREATIONSCREEN.CONTINUE"
+msgid "Continue"
+msgstr "Continua"
+
+#. UI.SERVERCREATIONSCREEN.CONVERTCLOUDTOLOCAL
+msgctxt "UI.SERVERCREATIONSCREEN.CONVERTCLOUDTOLOCAL"
+msgid "Convert To Local Save"
+msgstr "Converti in salvataggio locale"
+
+#. UI.SERVERCREATIONSCREEN.CONVERTLOCALTOCLOUD
+msgctxt "UI.SERVERCREATIONSCREEN.CONVERTLOCALTOCLOUD"
+msgid "Convert To Cloud Save"
+msgstr "Converti in salvataggio su cloud"
+
+#. UI.SERVERCREATIONSCREEN.CONVERT_CLOUD
+msgctxt "UI.SERVERCREATIONSCREEN.CONVERT_CLOUD"
+msgid "cloud"
+msgstr "cloud"
+
+#. UI.SERVERCREATIONSCREEN.CONVERT_LOCAL
+msgctxt "UI.SERVERCREATIONSCREEN.CONVERT_LOCAL"
+msgid "local"
+msgstr "locale"
+
+#. UI.SERVERCREATIONSCREEN.COPY_OF_SLOT_NAME
+msgctxt "UI.SERVERCREATIONSCREEN.COPY_OF_SLOT_NAME"
+msgid "Copy of {worldname}"
+msgstr "Copia di {worldname}"
+
+#. UI.SERVERCREATIONSCREEN.CREATE
+msgctxt "UI.SERVERCREATIONSCREEN.CREATE"
+msgid "Generate World"
+msgstr "Genera mondo"
+
+#. UI.SERVERCREATIONSCREEN.CREATENEWGAME
+msgctxt "UI.SERVERCREATIONSCREEN.CREATENEWGAME"
+msgid "Create New World"
+msgstr "Crea un nuovo mondo"
+
+#. UI.SERVERCREATIONSCREEN.DELETE
+msgctxt "UI.SERVERCREATIONSCREEN.DELETE"
+msgid "Delete"
+msgstr "Canc"
+
+#. UI.SERVERCREATIONSCREEN.DELETE_SLOT
+msgctxt "UI.SERVERCREATIONSCREEN.DELETE_SLOT"
+msgid "Delete World"
+msgstr "Elimina mondo"
+
+#. UI.SERVERCREATIONSCREEN.DISCARDCHANGES
+msgctxt "UI.SERVERCREATIONSCREEN.DISCARDCHANGES"
+msgid "Discard Changes"
+msgstr "Rimuovi modifiche"
+
+#. UI.SERVERCREATIONSCREEN.EVENT
+msgctxt "UI.SERVERCREATIONSCREEN.EVENT"
+msgid "Event:"
+msgstr "Evento:"
+
+#. UI.SERVERCREATIONSCREEN.FAILED_CONVERT_DIALOG_FMT
+msgctxt "UI.SERVERCREATIONSCREEN.FAILED_CONVERT_DIALOG_FMT"
+msgid "Failed to convert world to {type} save, please try again later."
+msgstr "Non è stato possibile convertire il mondo alla tipologia di salvataggio {type}, riprova più tardi."
+
+#. UI.SERVERCREATIONSCREEN.FAILED_COPYORCONVERT_TITLE
+msgctxt "UI.SERVERCREATIONSCREEN.FAILED_COPYORCONVERT_TITLE"
+msgid "Error"
+msgstr "Errore"
+
+#. UI.SERVERCREATIONSCREEN.FAILED_COPY_DIALOG
+msgctxt "UI.SERVERCREATIONSCREEN.FAILED_COPY_DIALOG"
+msgid "Failed to duplicate world, please try again later."
+msgstr "Non è stato possibile duplicare il mondo, riprova più tardi."
+
+#. UI.SERVERCREATIONSCREEN.FORESTANDCAVES
+msgctxt "UI.SERVERCREATIONSCREEN.FORESTANDCAVES"
+msgid "Forest And Caves"
+msgstr "Foresta e grotte"
+
+#. UI.SERVERCREATIONSCREEN.FORESTONLY
+msgctxt "UI.SERVERCREATIONSCREEN.FORESTONLY"
+msgid "Forest Only"
+msgstr "Solo foresta"
+
+#. UI.SERVERCREATIONSCREEN.FORESTWORLD
+msgctxt "UI.SERVERCREATIONSCREEN.FORESTWORLD"
+msgid "Forest World"
+msgstr "Il mondo della foresta"
+
+#. UI.SERVERCREATIONSCREEN.FULLSLOTSBODY
+msgctxt "UI.SERVERCREATIONSCREEN.FULLSLOTSBODY"
+msgid "All of your server slots are currently full. You must either select a slot to load from, or delete a slot and start a new world."
+msgstr "Tutti i tuoi slot server sono attualmente pieni. Devi selezionare uno slot da cui caricare oppure eliminare uno slot e iniziare un nuovo mondo."
+
+#. UI.SERVERCREATIONSCREEN.FULLSLOTSTITLE
+msgctxt "UI.SERVERCREATIONSCREEN.FULLSLOTSTITLE"
+msgid "No Slots Available"
+msgstr "Nessuno slot disponibile"
+
+#. UI.SERVERCREATIONSCREEN.GAMEMODE
+msgctxt "UI.SERVERCREATIONSCREEN.GAMEMODE"
+msgid "Game Mode:"
+msgstr "Modalità di gioco:"
+
+#. UI.SERVERCREATIONSCREEN.HOST_GAME
+msgctxt "UI.SERVERCREATIONSCREEN.HOST_GAME"
+msgid "Host Game"
+msgstr "Ospita partita"
+
+#. UI.SERVERCREATIONSCREEN.INTENTION_BUTTON
+msgctxt "UI.SERVERCREATIONSCREEN.INTENTION_BUTTON"
+msgid "Set Intention"
+msgstr "Imposta intento"
+
+#. UI.SERVERCREATIONSCREEN.INTENTION_DESC.COMPETITIVE
+msgctxt "UI.SERVERCREATIONSCREEN.INTENTION_DESC.COMPETITIVE"
+msgid "This server is the perfect arena for a fair fight. Everyone needs a place to prove who's the best at surviving, fighting, building, or... whatever."
+msgstr "Questo server è l'arena perfetta per un combattimento onesto. Tutti hanno bisogno di un luogo in cui dimostrare chi primeggia nella sopravvivenza, nel combattimento, nella costruzione e... tutto il resto."
+
+#. UI.SERVERCREATIONSCREEN.INTENTION_DESC.COOPERATIVE
+msgctxt "UI.SERVERCREATIONSCREEN.INTENTION_DESC.COOPERATIVE"
+msgid "Surviving's more fun when you do it as a team. On this server we want to work together and do our best to tame the hostile world."
+msgstr "Sopravvivere è più divertente se lo si fa come squadra. Su questo server vogliamo collaborare e fare del nostro meglio per addomesticare il mondo avverso."
+
+#. UI.SERVERCREATIONSCREEN.INTENTION_DESC.MADNESS
+msgctxt "UI.SERVERCREATIONSCREEN.INTENTION_DESC.MADNESS"
+msgid "Anything goes on this server! Forests will be burned, food will be nommed, and backs will be unceremoniously stabbed. Be prepared!"
+msgstr "Può succedere di tutto su questo server! Le foreste saranno bruciate, il cibo sarà sgraffignato e le schiene verranno pugnalate. Sii pronto!"
+
+#. UI.SERVERCREATIONSCREEN.INTENTION_DESC.SOCIAL
+msgctxt "UI.SERVERCREATIONSCREEN.INTENTION_DESC.SOCIAL"
+msgid "This server is a place for friendly chatter, a relaxed playstyle, and getting to know people. Everyone's welcome here!"
+msgstr "Questo server è un luogo per instaurare chat amichevoli, seguire uno stile di gioco rilassato e conoscere nuove persone. Tutti sono benvenuti qui!"
+
+#. UI.SERVERCREATIONSCREEN.INTENTION_LABEL
+msgctxt "UI.SERVERCREATIONSCREEN.INTENTION_LABEL"
+msgid "Server Playstyle:"
+msgstr "Stile di gioco del server:"
+
+#. UI.SERVERCREATIONSCREEN.INTENTION_TITLE
+msgctxt "UI.SERVERCREATIONSCREEN.INTENTION_TITLE"
+msgid "What's your server's playstyle?"
+msgstr "Qual è il tuo stile di gioco sul server?"
+
+#. UI.SERVERCREATIONSCREEN.INVALIDCLANSETTINGS_BODY
+msgctxt "UI.SERVERCREATIONSCREEN.INVALIDCLANSETTINGS_BODY"
+msgid "You have to specify the Steam Group you belong to! Please verify the group number."
+msgstr "Devi indicare il gruppo Steam a cui appartieni! Verifica il numero del gruppo."
+
+#. UI.SERVERCREATIONSCREEN.INVALIDCLANSETTINGS_TITLE
+msgctxt "UI.SERVERCREATIONSCREEN.INVALIDCLANSETTINGS_TITLE"
+msgid "Bad Group ID"
+msgstr "ID gruppo errato"
+
+#. UI.SERVERCREATIONSCREEN.INVALIDINTENTIONSETTINGS_BODY
+msgctxt "UI.SERVERCREATIONSCREEN.INVALIDINTENTIONSETTINGS_BODY"
+msgid "You forgot to choose a playstyle for your server!"
+msgstr "Hai dimenticato di scegliere uno stile di gioco per il tuo server!"
+
+#. UI.SERVERCREATIONSCREEN.INVALIDINTENTIONSETTINGS_TITLE
+msgctxt "UI.SERVERCREATIONSCREEN.INVALIDINTENTIONSETTINGS_TITLE"
+msgid "Missing Server Intention"
+msgstr "Intento server assente"
+
+#. UI.SERVERCREATIONSCREEN.INVALIDNEWHOST_BODY
+msgctxt "UI.SERVERCREATIONSCREEN.INVALIDNEWHOST_BODY"
+msgid "We recommend trying the game alone in a private world while you learn the ropes and get the hang of not starving. But it's totally up to you!"
+msgstr "Ti consigliamo di provare il gioco da solo in un mondo privato mentre apprendi i fondamenti e capisci come non morire di fame. Ma la decisione spetta a te!"
+
+#. UI.SERVERCREATIONSCREEN.INVALIDNEWHOST_TITLE
+msgctxt "UI.SERVERCREATIONSCREEN.INVALIDNEWHOST_TITLE"
+msgid "Creating your first world?"
+msgstr "Stai creando il tuo primo mondo?"
+
+#. UI.SERVERCREATIONSCREEN.INVALIDPASSWORD_BODY
+msgctxt "UI.SERVERCREATIONSCREEN.INVALIDPASSWORD_BODY"
+msgid "Password cannot have spaces at the beginning or at the end!"
+msgstr "La password non può iniziare né terminare con spazi!"
+
+#. UI.SERVERCREATIONSCREEN.INVALIDPASSWORD_TITLE
+msgctxt "UI.SERVERCREATIONSCREEN.INVALIDPASSWORD_TITLE"
+msgid "Bad Password"
+msgstr "Password errata"
+
+#. UI.SERVERCREATIONSCREEN.INVALIDSERVERNAME_BODY
+msgctxt "UI.SERVERCREATIONSCREEN.INVALIDSERVERNAME_BODY"
+msgid "No one will be able to find you if you don't have a name!"
+msgstr "Nessuno potrà trovarti se non hai un nome!"
+
+#. UI.SERVERCREATIONSCREEN.INVALIDSERVERNAME_TITLE
+msgctxt "UI.SERVERCREATIONSCREEN.INVALIDSERVERNAME_TITLE"
+msgid "Missing Server Name"
+msgstr "Nome server assente"
+
+#. UI.SERVERCREATIONSCREEN.MANAGE_ACCOUNT
+msgctxt "UI.SERVERCREATIONSCREEN.MANAGE_ACCOUNT"
+msgid "Account"
+msgstr "Account"
+
+#. UI.SERVERCREATIONSCREEN.MANAGE_SLOT
+msgctxt "UI.SERVERCREATIONSCREEN.MANAGE_SLOT"
+msgid "Manage World"
+msgstr "Gestisci mondo"
+
+#. UI.SERVERCREATIONSCREEN.MANAGE_TEXT
+msgctxt "UI.SERVERCREATIONSCREEN.MANAGE_TEXT"
+msgid "Local world files are available at:\nSAVEDATA:/{folder}/"
+msgstr "Puoi trovare i file locali del mondo nella cartella:\nSAVEDATA:/{folder}/"
+
+#. UI.SERVERCREATIONSCREEN.MAXPLAYERS
+msgctxt "UI.SERVERCREATIONSCREEN.MAXPLAYERS"
+msgid "Players:"
+msgstr "Giocatori:"
+
+#. UI.SERVERCREATIONSCREEN.MODSDISABLEDWARNINGBODY
+msgctxt "UI.SERVERCREATIONSCREEN.MODSDISABLEDWARNINGBODY"
+msgid "Some mods used on this save are disabled, which could cause issues. Continue?"
+msgstr "Alcuni mod usati in questo salvataggio sono disattivati: ciò potrebbe causare dei problemi. Vuoi continuare?"
+
+#. UI.SERVERCREATIONSCREEN.MODSDISABLEDWARNINGTITLE
+msgctxt "UI.SERVERCREATIONSCREEN.MODSDISABLEDWARNINGTITLE"
+msgid "WARNING - Mods Disabled"
+msgstr "ATTENZIONE: mod disattivati"
+
+#. UI.SERVERCREATIONSCREEN.MODSOUTOFDATEWARNINGBODY
+msgctxt "UI.SERVERCREATIONSCREEN.MODSOUTOFDATEWARNINGBODY"
+msgid "Some enabled mods are out of date, which could cause issues. Continue?"
+msgstr "Alcuni mod attivati non sono aggiornati: ciò potrebbe causare dei problemi. Vuoi continuare?"
+
+#. UI.SERVERCREATIONSCREEN.MODSOUTOFDATEWARNINGTITLE
+msgctxt "UI.SERVERCREATIONSCREEN.MODSOUTOFDATEWARNINGTITLE"
+msgid "WARNING - Mods Out of Date"
+msgstr "ATTENZIONE: mod non aggiornati"
+
+#. UI.SERVERCREATIONSCREEN.NAME_DUPLICATE_SLOT
+msgctxt "UI.SERVERCREATIONSCREEN.NAME_DUPLICATE_SLOT"
+msgid "Duplicate World Name:"
+msgstr "Nome del mondo duplicato:"
+
+#. UI.SERVERCREATIONSCREEN.NEWGAME
+msgctxt "UI.SERVERCREATIONSCREEN.NEWGAME"
+msgid "New World"
+msgstr "Nuovo mondo"
+
+#. UI.SERVERCREATIONSCREEN.NEWGAME_FMT
+msgctxt "UI.SERVERCREATIONSCREEN.NEWGAME_FMT"
+msgid "{name}'s World"
+msgstr "Mondo di {name}"
+
+#. UI.SERVERCREATIONSCREEN.NEWGAME_SUFFIX
+msgctxt "UI.SERVERCREATIONSCREEN.NEWGAME_SUFFIX"
+msgid "'s World"
+msgstr " : Mondo"
+
+#. UI.SERVERCREATIONSCREEN.NEWHOST_DESC.ALONE
+msgctxt "UI.SERVERCREATIONSCREEN.NEWHOST_DESC.ALONE"
+msgid "Play alone in a private world where you can collect your bearings and get the hang of not starving. This is recommended for your first time playing."
+msgstr "Gioca da solo in un mondo privato in cui ambientarti e capire come non morire di fame. Consigliato per chi gioca per la prima volta."
+
+#. UI.SERVERCREATIONSCREEN.NEWHOST_DESC.TOGETHER
+msgctxt "UI.SERVERCREATIONSCREEN.NEWHOST_DESC.TOGETHER"
+msgid "Start an online world where other players can join in your adventures. It's up to you whether your world is open to everyone, or just your friends."
+msgstr "Avvia un mondo online in cui altri giocatori possono partecipare alle tue avventure. Sei tu a decidere se aprirlo a tutti o soltanto ai tuoi amici."
+
+#. UI.SERVERCREATIONSCREEN.NEWHOST_TITLE
+msgctxt "UI.SERVERCREATIONSCREEN.NEWHOST_TITLE"
+msgid "Creating your first world?"
+msgstr "Stai creando il tuo primo mondo?"
+
+#. UI.SERVERCREATIONSCREEN.NEWHOST_TYPE.ALONE
+msgctxt "UI.SERVERCREATIONSCREEN.NEWHOST_TYPE.ALONE"
+msgid "Alone"
+msgstr "Da solo"
+
+#. UI.SERVERCREATIONSCREEN.NEWHOST_TYPE.TOGETHER
+msgctxt "UI.SERVERCREATIONSCREEN.NEWHOST_TYPE.TOGETHER"
+msgid "Together"
+msgstr "Together"
+
+#. UI.SERVERCREATIONSCREEN.NO
+msgctxt "UI.SERVERCREATIONSCREEN.NO"
+msgid "No"
+msgstr "No"
+
+#. UI.SERVERCREATIONSCREEN.NONAMEGAME
+msgctxt "UI.SERVERCREATIONSCREEN.NONAMEGAME"
+msgid "[No Name]"
+msgstr "[Nessun nome]"
+
+#. UI.SERVERCREATIONSCREEN.NO_MATCHING_SERVERS
+msgctxt "UI.SERVERCREATIONSCREEN.NO_MATCHING_SERVERS"
+msgid "No save games match your search."
+msgstr "Nessun salvataggio soddisfa le condizioni della tua ricerca."
+
+#. UI.SERVERCREATIONSCREEN.OFF
+msgctxt "UI.SERVERCREATIONSCREEN.OFF"
+msgid "Off"
+msgstr "Disattivo"
+
+#. UI.SERVERCREATIONSCREEN.OFFLINEMODEBODYCREATE
+msgctxt "UI.SERVERCREATIONSCREEN.OFFLINEMODEBODYCREATE"
+msgid "Are you sure you want to create an offline world? This is a limited mode where only players on your Local Area Network can join. Players will not be able to receive or use Collection Items in this world."
+msgstr "Sei sicuro di voler creare un mondo offline? Questa è una modalità limitata a cui possono accedere solo i giocatori nella tua rete locale. I giocatori non potranno ricevere o usare oggetti da collezione in questo mondo."
+
+#. UI.SERVERCREATIONSCREEN.OFFLINEMODEBODYRESUME
+msgctxt "UI.SERVERCREATIONSCREEN.OFFLINEMODEBODYRESUME"
+msgid "You are resuming an offline world. Only users on your Local Area Network will be able to join this world. Players will not be able to receive or use Collection Items in this world."
+msgstr "Hai attivato la ripresa di un mondo offline. Solo gli utenti della tua rete locale saranno in grado di accedervi. I giocatori non potranno ricevere o usare oggetti da collezione in questo mondo."
+
+#. UI.SERVERCREATIONSCREEN.OFFLINEMODETITLE
+msgctxt "UI.SERVERCREATIONSCREEN.OFFLINEMODETITLE"
+msgid "Offline Mode"
+msgstr "Modalità offline"
+
+#. UI.SERVERCREATIONSCREEN.OFFLINE_WORLD
+msgctxt "UI.SERVERCREATIONSCREEN.OFFLINE_WORLD"
+msgid "Offline"
+msgstr "Offline"
+
+#. UI.SERVERCREATIONSCREEN.OK
+msgctxt "UI.SERVERCREATIONSCREEN.OK"
+msgid "OK"
+msgstr "OK"
+
+#. UI.SERVERCREATIONSCREEN.ON
+msgctxt "UI.SERVERCREATIONSCREEN.ON"
+msgid "On"
+msgstr "Sì"
+
+#. UI.SERVERCREATIONSCREEN.ONLINEONLYBODY
+msgctxt "UI.SERVERCREATIONSCREEN.ONLINEONLYBODY"
+msgid "You can only resume an online world when you have a connection to Steam and Klei. Please log in and try again."
+msgstr "Puoi attivare la ripresa di un mondo online solo quando hai una connessione a Steam e Klei. Effettua l'accesso e riprova."
+
+#. UI.SERVERCREATIONSCREEN.ONLINEONLYBODY_PS4
+msgctxt "UI.SERVERCREATIONSCREEN.ONLINEONLYBODY_PS4"
+msgid "You are currently in offline mode and cannot resume an online world. Please log in and try again."
+msgstr "Al momento sei nella modalità offline e non puoi riprendere in un mondo online. Accedi e riprova di nuovo."
+
+#. UI.SERVERCREATIONSCREEN.ONLINEONLYBODY_RAIL
+msgctxt "UI.SERVERCREATIONSCREEN.ONLINEONLYBODY_RAIL"
+msgid "You can only resume an online world when you have a connection to the game servers. Please log in and try again."
+msgstr "Puoi riprendere un mondo online solo quando sei connesso ai server di gioco. Effettua l'accesso e riprova."
+
+#. UI.SERVERCREATIONSCREEN.ONLINEONLYBODY_SPLITSCREEN
+msgctxt "UI.SERVERCREATIONSCREEN.ONLINEONLYBODY_SPLITSCREEN"
+msgid "You are currently in offline mode and cannot resume an online world. Please log in and try again."
+msgstr "Al momento sei nella modalità offline e non puoi riprendere in un mondo online. Accedi e riprova di nuovo."
+
+#. UI.SERVERCREATIONSCREEN.ONLINEONYTITLE
+msgctxt "UI.SERVERCREATIONSCREEN.ONLINEONYTITLE"
+msgid "Online World"
+msgstr "Mondo online"
+
+#. UI.SERVERCREATIONSCREEN.ONLINE_MODE
+msgctxt "UI.SERVERCREATIONSCREEN.ONLINE_MODE"
+msgid "Server Mode:"
+msgstr "Modalità del server:"
+
+#. UI.SERVERCREATIONSCREEN.OPENSAVEFOLDER
+msgctxt "UI.SERVERCREATIONSCREEN.OPENSAVEFOLDER"
+msgid "Open World Folder"
+msgstr "Apri la cartella dei mondi"
+
+#. UI.SERVERCREATIONSCREEN.PRIVACY.CLAN
+msgctxt "UI.SERVERCREATIONSCREEN.PRIVACY.CLAN"
+msgid "Steam Group"
+msgstr "Gruppo Steam"
+
+#. UI.SERVERCREATIONSCREEN.PRIVACY.FRIENDS
+msgctxt "UI.SERVERCREATIONSCREEN.PRIVACY.FRIENDS"
+msgid "Friends Only"
+msgstr "Solo amici"
+
+#. UI.SERVERCREATIONSCREEN.PRIVACY.LOCAL
+msgctxt "UI.SERVERCREATIONSCREEN.PRIVACY.LOCAL"
+msgid "Local Only"
+msgstr "Solo locale"
+
+#. UI.SERVERCREATIONSCREEN.PRIVACY.PUBLIC
+msgctxt "UI.SERVERCREATIONSCREEN.PRIVACY.PUBLIC"
+msgid "Public"
+msgstr "Pubblico"
+
+#. UI.SERVERCREATIONSCREEN.PRIVACY_LABEL
+msgctxt "UI.SERVERCREATIONSCREEN.PRIVACY_LABEL"
+msgid "Privacy:"
+msgstr "Privacy:"
+
+#. UI.SERVERCREATIONSCREEN.PVP
+msgctxt "UI.SERVERCREATIONSCREEN.PVP"
+msgid "PvP:"
+msgstr "PvP:"
+
+#. UI.SERVERCREATIONSCREEN.RESUME
+msgctxt "UI.SERVERCREATIONSCREEN.RESUME"
+msgid "Resume World"
+msgstr "Riprendi mondo"
+
+#. UI.SERVERCREATIONSCREEN.SAVECHANGES
+msgctxt "UI.SERVERCREATIONSCREEN.SAVECHANGES"
+msgid "Save Changes"
+msgstr "Salva le modifiche"
+
+#. UI.SERVERCREATIONSCREEN.SAVE_TYPE
+msgctxt "UI.SERVERCREATIONSCREEN.SAVE_TYPE"
+msgid "Save Type:"
+msgstr "Tipo di salvataggio:"
+
+#. UI.SERVERCREATIONSCREEN.SAVE_TYPE_CLOUD
+msgctxt "UI.SERVERCREATIONSCREEN.SAVE_TYPE_CLOUD"
+msgid "Steam Cloud Save"
+msgstr "Salvataggio di Steam Cloud"
+
+#. UI.SERVERCREATIONSCREEN.SAVE_TYPE_LOCAL
+msgctxt "UI.SERVERCREATIONSCREEN.SAVE_TYPE_LOCAL"
+msgid "Local Save"
+msgstr "Salvataggio locale"
+
+#. UI.SERVERCREATIONSCREEN.SEARCH
+msgctxt "UI.SERVERCREATIONSCREEN.SEARCH"
+msgid "Search"
+msgstr "Ricerca"
+
+#. UI.SERVERCREATIONSCREEN.SELECT_SLOT
+msgctxt "UI.SERVERCREATIONSCREEN.SELECT_SLOT"
+msgid "Select Slot"
+msgstr "Seleziona slot"
+
+#. UI.SERVERCREATIONSCREEN.SERVERDAY
+msgctxt "UI.SERVERCREATIONSCREEN.SERVERDAY"
+msgid "Day"
+msgstr "Giorno"
+
+#. UI.SERVERCREATIONSCREEN.SERVERDAY_NEW
+msgctxt "UI.SERVERCREATIONSCREEN.SERVERDAY_NEW"
+msgid "A Whole New World"
+msgstr "Un mondo completamente nuovo"
+
+#. UI.SERVERCREATIONSCREEN.SERVERDAY_SEASON_V2
+msgctxt "UI.SERVERCREATIONSCREEN.SERVERDAY_SEASON_V2"
+msgid "{season} Day {day_count}"
+msgstr "{season} giorno {day_count}"
+
+#. UI.SERVERCREATIONSCREEN.SERVERDAY_V2
+msgctxt "UI.SERVERCREATIONSCREEN.SERVERDAY_V2"
+msgid "Day {day_count}"
+msgstr "Giorno {day_count}"
+
+#. UI.SERVERCREATIONSCREEN.SERVERDESC
+msgctxt "UI.SERVERCREATIONSCREEN.SERVERDESC"
+msgid "Description:"
+msgstr "Descrizione:"
+
+#. UI.SERVERCREATIONSCREEN.SERVERNAME
+msgctxt "UI.SERVERCREATIONSCREEN.SERVERNAME"
+msgid "Name:"
+msgstr "Nome:"
+
+#. UI.SERVERCREATIONSCREEN.SERVERPASSWORD
+msgctxt "UI.SERVERCREATIONSCREEN.SERVERPASSWORD"
+msgid "Password:"
+msgstr "Password:"
+
+#. UI.SERVERCREATIONSCREEN.SERVERSETTINGS
+msgctxt "UI.SERVERCREATIONSCREEN.SERVERSETTINGS"
+msgid "Settings"
+msgstr "Impostazioni"
+
+#. UI.SERVERCREATIONSCREEN.SERVERSETTINGS_LONG
+msgctxt "UI.SERVERCREATIONSCREEN.SERVERSETTINGS_LONG"
+msgid "Server Settings"
+msgstr "Impostazioni server"
+
+#. UI.SERVERCREATIONSCREEN.SLOT
+msgctxt "UI.SERVERCREATIONSCREEN.SLOT"
+msgid "Server Slot"
+msgstr "Slot server"
+
+#. UI.SERVERCREATIONSCREEN.SNAPSHOTS
+msgctxt "UI.SERVERCREATIONSCREEN.SNAPSHOTS"
+msgid "Rollback"
+msgstr "Ripristina"
+
+#. UI.SERVERCREATIONSCREEN.SORT_DATECREATED
+msgctxt "UI.SERVERCREATIONSCREEN.SORT_DATECREATED"
+msgid "Date Created"
+msgstr "Data di creazione"
+
+#. UI.SERVERCREATIONSCREEN.SORT_LASTPLAYED
+msgctxt "UI.SERVERCREATIONSCREEN.SORT_LASTPLAYED"
+msgid "Last Played"
+msgstr "Ultimo avvio"
+
+#. UI.SERVERCREATIONSCREEN.SORT_MODE_FMT
+msgctxt "UI.SERVERCREATIONSCREEN.SORT_MODE_FMT"
+msgid "Sort Mode: {mode}"
+msgstr "Modalità ordine: {mode}"
+
+#. UI.SERVERCREATIONSCREEN.SORT_MOSTDAYS
+msgctxt "UI.SERVERCREATIONSCREEN.SORT_MOSTDAYS"
+msgid "Days Played"
+msgstr "Giorni di gioco"
+
+#. UI.SERVERCREATIONSCREEN.SURE
+msgctxt "UI.SERVERCREATIONSCREEN.SURE"
+msgid "Are you sure?"
+msgstr "Sei sicuro?"
+
+#. UI.SERVERCREATIONSCREEN.TOOLTIP_BANS
+msgctxt "UI.SERVERCREATIONSCREEN.TOOLTIP_BANS"
+msgid "See which players you've blocked from joining your servers"
+msgstr "Scopri quali giocatori hai bloccato nei tuoi server"
+
+#. UI.SERVERCREATIONSCREEN.UGC_BLOCKED_DESCRIPTION_POSTFIX
+msgctxt "UI.SERVERCREATIONSCREEN.UGC_BLOCKED_DESCRIPTION_POSTFIX"
+msgid "'s World\" with a blank description."
+msgstr "con una descrizione vuota."
+
+#. UI.SERVERCREATIONSCREEN.UGC_BLOCKED_DESCRIPTION_PREFIX
+msgctxt "UI.SERVERCREATIONSCREEN.UGC_BLOCKED_DESCRIPTION_PREFIX"
+msgid "Use of user-generated media is not allowed for your account.\nOnline players will see your server name as \""
+msgstr "L'utilizzo di elementi multimediali generati dall'utente non è consentito per il tuo account.\nI giocatori online vedranno il nome del tuo server come \""
+
+#. UI.SERVERCREATIONSCREEN.UGC_BLOCKED_DESCRIPTION_PREFIX_SPLITSCREEN
+msgctxt "UI.SERVERCREATIONSCREEN.UGC_BLOCKED_DESCRIPTION_PREFIX_SPLITSCREEN"
+msgid "Use of user-generated media is not allowed for the signed in accounts.\nOnline players will see your server name as \""
+msgstr "L'utilizzo di elementi multimediali generati dall'utente non è consentito per gli account a cui sei connesso.\nI giocatori online vedranno il nome del tuo server come \""
+
+#. UI.SERVERCREATIONSCREEN.VIEWBANS
+msgctxt "UI.SERVERCREATIONSCREEN.VIEWBANS"
+msgid "View Bans"
+msgstr "Visualizza sospensioni"
+
+#. UI.SERVERCREATIONSCREEN.VIEWWORLD
+msgctxt "UI.SERVERCREATIONSCREEN.VIEWWORLD"
+msgid "View World"
+msgstr "Visualizza mondo"
+
+#. UI.SERVERCREATIONSCREEN.WORLD
+msgctxt "UI.SERVERCREATIONSCREEN.WORLD"
+msgid "World"
+msgstr "Mondo"
+
+#. UI.SERVERCREATIONSCREEN.WORLD_LONG_FMT
+msgctxt "UI.SERVERCREATIONSCREEN.WORLD_LONG_FMT"
+msgid "World: {location}"
+msgstr "Mondo: {location}"
+
+#. UI.SERVERCREATIONSCREEN.YES
+msgctxt "UI.SERVERCREATIONSCREEN.YES"
+msgid "Yes"
+msgstr "Sì"
+

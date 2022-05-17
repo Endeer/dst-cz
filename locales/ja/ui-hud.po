@@ -1,0 +1,425 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.HUD.ACTIVATE_RESURRECTION
+msgctxt "UI.HUD.ACTIVATE_RESURRECTION"
+msgid "Activate Meat Effigy"
+msgstr "身代わり人形を使う"
+
+#. UI.HUD.AFK_BODY
+msgctxt "UI.HUD.AFK_BODY"
+msgid "Make sure to stretch your legs! The deathly wilderness will still be here when you get back."
+msgstr "危険な荒野でのサバイバル生活は、心身に負担をかけます。しっかり休憩を！"
+
+#. UI.HUD.AFK_OK
+msgctxt "UI.HUD.AFK_OK"
+msgid "Return"
+msgstr "戻る"
+
+#. UI.HUD.AFK_TITLE
+msgctxt "UI.HUD.AFK_TITLE"
+msgid "Taking A Breather"
+msgstr "一休み…"
+
+#. UI.HUD.ATTACK
+msgctxt "UI.HUD.ATTACK"
+msgid "Attack"
+msgstr "攻撃する"
+
+#. UI.HUD.BUILD
+msgctxt "UI.HUD.BUILD"
+msgid "Build"
+msgstr "建設する"
+
+#. UI.HUD.BUYNOW
+msgctxt "UI.HUD.BUYNOW"
+msgid "Buy Now"
+msgstr "いますぐ購入"
+
+#. UI.HUD.CANCEL
+msgctxt "UI.HUD.CANCEL"
+msgid "Cancel"
+msgstr "キャンセル"
+
+#. UI.HUD.CLOCKDAY
+msgctxt "UI.HUD.CLOCKDAY"
+msgid "Day"
+msgstr "昼間"
+
+#. UI.HUD.CLOCKDAYS
+msgctxt "UI.HUD.CLOCKDAYS"
+msgid "Days"
+msgstr "日"
+
+#. UI.HUD.CLOCKSURVIVED
+msgctxt "UI.HUD.CLOCKSURVIVED"
+msgid "Survived"
+msgstr "生存日数："
+
+#. UI.HUD.CRITTER_TRAITS.COMBAT
+msgctxt "UI.HUD.CRITTER_TRAITS.COMBAT"
+msgid "Scrappy"
+msgstr "スクラッピー"
+
+#. UI.HUD.CRITTER_TRAITS.CRAFTY
+msgctxt "UI.HUD.CRITTER_TRAITS.CRAFTY"
+msgid "Crafty"
+msgstr "クラフティ"
+
+#. UI.HUD.CRITTER_TRAITS.PLAYFUL
+msgctxt "UI.HUD.CRITTER_TRAITS.PLAYFUL"
+msgid "Peppy"
+msgstr "ペッピー"
+
+#. UI.HUD.CRITTER_TRAITS.WELLFED
+msgctxt "UI.HUD.CRITTER_TRAITS.WELLFED"
+msgid "Plump"
+msgstr "ふっくら"
+
+#. UI.HUD.DEATH_ANNOUNCEMENT_1
+msgctxt "UI.HUD.DEATH_ANNOUNCEMENT_1"
+msgid "was killed by"
+msgstr "が死亡。(死因："
+
+#. UI.HUD.DEATH_ANNOUNCEMENT_2_DEFAULT
+msgctxt "UI.HUD.DEATH_ANNOUNCEMENT_2_DEFAULT"
+msgid ". They became a spooky ghost!"
+msgstr ")倒れた仲間はブキミな幽霊になった！"
+
+#. UI.HUD.DEATH_ANNOUNCEMENT_2_FEMALE
+msgctxt "UI.HUD.DEATH_ANNOUNCEMENT_2_FEMALE"
+msgid ". She became a spooky ghost!"
+msgstr ")倒れた仲間はブキミな幽霊になった！"
+
+#. UI.HUD.DEATH_ANNOUNCEMENT_2_MALE
+msgctxt "UI.HUD.DEATH_ANNOUNCEMENT_2_MALE"
+msgid ". He became a spooky ghost!"
+msgstr ")倒れた仲間はブキミな幽霊になった！"
+
+#. UI.HUD.DEATH_ANNOUNCEMENT_2_ROBOT
+msgctxt "UI.HUD.DEATH_ANNOUNCEMENT_2_ROBOT"
+msgid ". They became a spooky ghost!"
+msgstr ")倒れた仲間はブキミな幽霊になった！"
+
+#. UI.HUD.DEATH_PET_NAME
+msgctxt "UI.HUD.DEATH_PET_NAME"
+msgid "%s's %s"
+msgstr "%sの%s"
+
+#. UI.HUD.DEPLOY
+msgctxt "UI.HUD.DEPLOY"
+msgid "Deploy"
+msgstr "配置する"
+
+#. UI.HUD.DROP
+msgctxt "UI.HUD.DROP"
+msgid "Drop"
+msgstr "落とす"
+
+#. UI.HUD.EQUIP
+msgctxt "UI.HUD.EQUIP"
+msgid "Equip"
+msgstr "装備する"
+
+#. UI.HUD.GETHALF
+msgctxt "UI.HUD.GETHALF"
+msgid "Get Half"
+msgstr "半分獲得"
+
+#. UI.HUD.GHOST_DEATH_ANNOUNCEMENT_DEFAULT
+msgctxt "UI.HUD.GHOST_DEATH_ANNOUNCEMENT_DEFAULT"
+msgid "lost all of their humanity and is gone forever."
+msgstr "は人間だった頃の記憶をなくし、消え去ってしまった。"
+
+#. UI.HUD.GHOST_DEATH_ANNOUNCEMENT_FEMALE
+msgctxt "UI.HUD.GHOST_DEATH_ANNOUNCEMENT_FEMALE"
+msgid "lost all of her humanity and is gone forever."
+msgstr "は人間だった頃の記憶をなくし、消え去ってしまった。"
+
+#. UI.HUD.GHOST_DEATH_ANNOUNCEMENT_MALE
+msgctxt "UI.HUD.GHOST_DEATH_ANNOUNCEMENT_MALE"
+msgid "lost all of his humanity and is gone forever."
+msgstr "は人間だった頃の記憶をなくし、消え去ってしまった。"
+
+#. UI.HUD.GHOST_DEATH_ANNOUNCEMENT_ROBOT
+msgctxt "UI.HUD.GHOST_DEATH_ANNOUNCEMENT_ROBOT"
+msgid "lost all of their humanity and is gone forever."
+msgstr "は生命体だった頃の記憶をなくし、消え去ってしまった。"
+
+#. UI.HUD.HERE
+msgctxt "UI.HUD.HERE"
+msgid "here"
+msgstr "ここ"
+
+#. UI.HUD.HUNGRY
+msgctxt "UI.HUD.HUNGRY"
+msgid "Hungry"
+msgstr "空腹"
+
+#. UI.HUD.INSPECT
+msgctxt "UI.HUD.INSPECT"
+msgid "Inspect"
+msgstr "調べる"
+
+#. UI.HUD.INSPECT_SELF
+msgctxt "UI.HUD.INSPECT_SELF"
+msgid "Inspect Self"
+msgstr "プレイヤー情報"
+
+#. UI.HUD.LAVAARENA_LOSE_BODY
+msgctxt "UI.HUD.LAVAARENA_LOSE_BODY"
+msgid "You have failed Battlemaster Pugna's challenge."
+msgstr "バトルマスター プーニャの挑戦に失敗しました。"
+
+#. UI.HUD.LAVAARENA_LOSE_TITLE
+msgctxt "UI.HUD.LAVAARENA_LOSE_TITLE"
+msgid "Defeat!"
+msgstr "敗北！"
+
+#. UI.HUD.LAVAARENA_WIN_BODY
+msgctxt "UI.HUD.LAVAARENA_WIN_BODY"
+msgid "You have bested Battlemaster Pugna's champions in battle."
+msgstr "あなたはバトルマスター プーニャのチャンピオン達をバトルで倒しました。"
+
+#. UI.HUD.LAVAARENA_WIN_TITLE
+msgctxt "UI.HUD.LAVAARENA_WIN_TITLE"
+msgid "Victory!"
+msgstr "勝利！"
+
+#. UI.HUD.MAP
+msgctxt "UI.HUD.MAP"
+msgid "Show Map\n"
+msgstr "マップを表示"
+
+#. UI.HUD.OPENGIFT
+msgctxt "UI.HUD.OPENGIFT"
+msgid "Activate"
+msgstr "起動"
+
+#. UI.HUD.PAUSE
+msgctxt "UI.HUD.PAUSE"
+msgid "Pause\n"
+msgstr "一時停止\n"
+
+#. UI.HUD.PUT
+msgctxt "UI.HUD.PUT"
+msgid "Put"
+msgstr "置く"
+
+#. UI.HUD.PUTONE
+msgctxt "UI.HUD.PUTONE"
+msgid "Put One"
+msgstr "一つ置く"
+
+#. UI.HUD.QUAGMIRE_NOTFICATIONS.DISCOVERED
+msgctxt "UI.HUD.QUAGMIRE_NOTFICATIONS.DISCOVERED"
+msgid "New Recipe Discovered"
+msgstr "新しいレシピを発見"
+
+#. UI.HUD.QUAGMIRE_NOTFICATIONS.FAILED
+msgctxt "UI.HUD.QUAGMIRE_NOTFICATIONS.FAILED"
+msgid "Recipe Failed"
+msgstr "レシピ失敗"
+
+#. UI.HUD.QUAGMIRE_NOTFICATIONS.INGREDIENT_MADE
+msgctxt "UI.HUD.QUAGMIRE_NOTFICATIONS.INGREDIENT_MADE"
+msgid "Syrup Produced"
+msgstr "シロップ製造"
+
+#. UI.HUD.QUAGMIRE_NOTFICATIONS.MADE
+msgctxt "UI.HUD.QUAGMIRE_NOTFICATIONS.MADE"
+msgid "Meal Cooked"
+msgstr "調理した食事"
+
+#. UI.HUD.QUAGMIRE_NOTFICATIONS.OVERCOOKED
+msgctxt "UI.HUD.QUAGMIRE_NOTFICATIONS.OVERCOOKED"
+msgid "Meal Burnt"
+msgstr "焼けた食事"
+
+#. UI.HUD.QUAGMIRE_NOTFICATIONS.SENT
+msgctxt "UI.HUD.QUAGMIRE_NOTFICATIONS.SENT"
+msgid "Meal Snackrificed"
+msgstr "食事のおやつ"
+
+#. UI.HUD.READY
+msgctxt "UI.HUD.READY"
+msgid "How long will you survive?"
+msgstr "どれだけ長くいきのびられるか？"
+
+#. UI.HUD.READYTITLE
+msgctxt "UI.HUD.READYTITLE"
+msgid "Ready to play!"
+msgstr "プレイ準備万端！"
+
+#. UI.HUD.REPORT_RESULT_ANNOUCEMENT
+msgctxt "UI.HUD.REPORT_RESULT_ANNOUCEMENT"
+msgid "Your presence has been noticed."
+msgstr "ご報告ありがとうございます。"
+
+#. UI.HUD.RETROFITTING_ANNOUNCEMENT
+msgctxt "UI.HUD.RETROFITTING_ANNOUNCEMENT"
+msgid "World will reload in {time} seconds to complete retrofitting."
+msgstr "ワールドは、{time}秒でリロードして後付けを完了させます。"
+
+#. UI.HUD.RETROFITTING_ANNOUNCEMENT_NOW
+msgctxt "UI.HUD.RETROFITTING_ANNOUNCEMENT_NOW"
+msgid "World is reloading to complete retrofitting."
+msgstr "ワールドはリロードして完全な後付けにしています。"
+
+#. UI.HUD.REZ_ANNOUNCEMENT
+msgctxt "UI.HUD.REZ_ANNOUNCEMENT"
+msgid "was resurrected by"
+msgstr "がよみがえった！蘇生者："
+
+#. UI.HUD.ROTLEFT
+msgctxt "UI.HUD.ROTLEFT"
+msgid "Rotate Left\n"
+msgstr "左に回転\n"
+
+#. UI.HUD.ROTRIGHT
+msgctxt "UI.HUD.ROTRIGHT"
+msgid "Rotate Right\n"
+msgstr "右に回転\n"
+
+#. UI.HUD.SAVING
+msgctxt "UI.HUD.SAVING"
+msgid "SAVING..."
+msgstr "セーブ中…"
+
+#. UI.HUD.SELECT
+msgctxt "UI.HUD.SELECT"
+msgid "Select"
+msgstr "選択"
+
+#. UI.HUD.SPOILED
+msgctxt "UI.HUD.SPOILED"
+msgid "Spoiled"
+msgstr "腐ってる"
+
+#. UI.HUD.SPOILED_FROZEN
+msgctxt "UI.HUD.SPOILED_FROZEN"
+msgid "Melted"
+msgstr "解凍終了"
+
+#. UI.HUD.STALE
+msgctxt "UI.HUD.STALE"
+msgid "Stale"
+msgstr "古い"
+
+#. UI.HUD.STALE_FROZEN
+msgctxt "UI.HUD.STALE_FROZEN"
+msgid "Melting"
+msgstr "解凍中"
+
+#. UI.HUD.START
+msgctxt "UI.HUD.START"
+msgid "Start"
+msgstr "スタート"
+
+#. UI.HUD.START_AFK
+msgctxt "UI.HUD.START_AFK"
+msgid "went away for a bit."
+msgstr "が離席中。"
+
+#. UI.HUD.STARVING
+msgctxt "UI.HUD.STARVING"
+msgid "Starving"
+msgstr "飢えている"
+
+#. UI.HUD.STOP_AFK
+msgctxt "UI.HUD.STOP_AFK"
+msgid "has returned from their relaxing time away."
+msgstr "が休憩から復帰。"
+
+#. UI.HUD.SWAP
+msgctxt "UI.HUD.SWAP"
+msgid "Swap"
+msgstr "交換する"
+
+#. UI.HUD.TAKE
+msgctxt "UI.HUD.TAKE"
+msgid "Take"
+msgstr "とる"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.catcoon
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.catcoon"
+msgid "A Catcoon"
+msgstr "キャットクーン"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.crabking
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.crabking"
+msgid "The Crab King"
+msgstr "クラブキング"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.merm
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.merm"
+msgid "A Merm"
+msgstr "マーム"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermguard
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermguard"
+msgid "A Loyal Merm Guard"
+msgstr "プレミアムマーム衛兵"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermhouse
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermhouse"
+msgid "A family of Merms"
+msgstr "マーム一族"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermhouse_crafted
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermhouse_crafted"
+msgid "A well-to-do Merm"
+msgstr "裕福なマーム"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermking
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermking"
+msgid "The King of the Merms"
+msgstr "マームの王様"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermthrone
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermthrone"
+msgid "The King of the Merms"
+msgstr "マームの王様"
+
+#. UI.HUD.TROPHYSCALE_UNKNOWN_OWNER
+msgctxt "UI.HUD.TROPHYSCALE_UNKNOWN_OWNER"
+msgid "An Unnamed Donor"
+msgstr "無名の寄付者"
+
+#. UI.HUD.UNEQUIP
+msgctxt "UI.HUD.UNEQUIP"
+msgid "Unequip"
+msgstr "非装備する"
+
+#. UI.HUD.UNLOCK_TARGET
+msgctxt "UI.HUD.UNLOCK_TARGET"
+msgid "Unlock Target"
+msgstr "ターゲットのロックを解除"
+
+#. UI.HUD.WAXED
+msgctxt "UI.HUD.WAXED"
+msgid "Waxed"
+msgstr "ワックス済み"
+
+#. UI.HUD.WHACK
+msgctxt "UI.HUD.WHACK"
+msgid "Whack"
+msgstr "強打する"
+
+#. UI.HUD.WORLD
+msgctxt "UI.HUD.WORLD"
+msgid "World"
+msgstr "世界"
+
+#. UI.HUD.WORLD_CLOCKDAY
+msgctxt "UI.HUD.WORLD_CLOCKDAY"
+msgid "Day"
+msgstr "日目"
+
+#. UI.HUD.WORLD_CLOCKDAY_V2
+msgctxt "UI.HUD.WORLD_CLOCKDAY_V2"
+msgid "Day {day_count}"
+msgstr "{day_count}日"
+

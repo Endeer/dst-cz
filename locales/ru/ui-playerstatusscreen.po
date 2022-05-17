@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.PLAYERSTATUSSCREEN.ADMIN
+msgctxt "UI.PLAYERSTATUSSCREEN.ADMIN"
+msgid "Admin"
+msgstr "Администратор"
+
+#. UI.PLAYERSTATUSSCREEN.AFK
+msgctxt "UI.PLAYERSTATUSSCREEN.AFK"
+msgid "Away"
+msgstr "Отошел"
+
+#. UI.PLAYERSTATUSSCREEN.AGE_DAY
+msgctxt "UI.PLAYERSTATUSSCREEN.AGE_DAY"
+msgid " Day"
+msgstr " День"
+
+#. UI.PLAYERSTATUSSCREEN.AGE_DAYS
+msgctxt "UI.PLAYERSTATUSSCREEN.AGE_DAYS"
+msgid " Days"
+msgstr " Дни"
+
+#. UI.PLAYERSTATUSSCREEN.AGE_PREFIX
+msgctxt "UI.PLAYERSTATUSSCREEN.AGE_PREFIX"
+msgid "Day "
+msgstr "День "
+
+#. UI.PLAYERSTATUSSCREEN.BAN
+msgctxt "UI.PLAYERSTATUSSCREEN.BAN"
+msgid "Ban"
+msgstr "Заблокировать"
+
+#. UI.PLAYERSTATUSSCREEN.BANCONFIRM_BODY
+msgctxt "UI.PLAYERSTATUSSCREEN.BANCONFIRM_BODY"
+msgid "Are you sure you want to ban and kick"
+msgstr "Вы правда хотите забанить и выбросить игрока с сервера?"
+
+#. UI.PLAYERSTATUSSCREEN.BANCONFIRM_TITLE
+msgctxt "UI.PLAYERSTATUSSCREEN.BANCONFIRM_TITLE"
+msgid "Ban"
+msgstr "Заблокировать"
+
+#. UI.PLAYERSTATUSSCREEN.CANCEL
+msgctxt "UI.PLAYERSTATUSSCREEN.CANCEL"
+msgid "Cancel"
+msgstr "Отменить"
+
+#. UI.PLAYERSTATUSSCREEN.CLEAR
+msgctxt "UI.PLAYERSTATUSSCREEN.CLEAR"
+msgid "Remove Player"
+msgstr "Убрать игрока"
+
+#. UI.PLAYERSTATUSSCREEN.COMMANDCANNOTSTART.COOLDOWN
+msgctxt "UI.PLAYERSTATUSSCREEN.COMMANDCANNOTSTART.COOLDOWN"
+msgid "You cannot use this command again yet."
+msgstr "Вы сейчас не можете использовать эту команду повторно."
+
+#. UI.PLAYERSTATUSSCREEN.EMPTY_SERVER
+msgctxt "UI.PLAYERSTATUSSCREEN.EMPTY_SERVER"
+msgid "The server is empty."
+msgstr "Сервер пуст."
+
+#. UI.PLAYERSTATUSSCREEN.ENDLESS
+msgctxt "UI.PLAYERSTATUSSCREEN.ENDLESS"
+msgid "Endless"
+msgstr "Бесконечный режим"
+
+#. UI.PLAYERSTATUSSCREEN.KICK
+msgctxt "UI.PLAYERSTATUSSCREEN.KICK"
+msgid "Kick"
+msgstr "Выгнать"
+
+#. UI.PLAYERSTATUSSCREEN.KICKCONFIRM_BODY
+msgctxt "UI.PLAYERSTATUSSCREEN.KICKCONFIRM_BODY"
+msgid "Are you sure you want to kick"
+msgstr "Вы уверены, что хотите выгнать игрока?"
+
+#. UI.PLAYERSTATUSSCREEN.KICKCONFIRM_TITLE
+msgctxt "UI.PLAYERSTATUSSCREEN.KICKCONFIRM_TITLE"
+msgid "Kick"
+msgstr "Выгнать"
+
+#. UI.PLAYERSTATUSSCREEN.LAVAARENA_SERVER_MODE
+msgctxt "UI.PLAYERSTATUSSCREEN.LAVAARENA_SERVER_MODE"
+msgid "{mode} - Round {num}"
+msgstr "{mode} — Раунд {num}"
+
+#. UI.PLAYERSTATUSSCREEN.LOBBY_PERF_LEVELS.1
+msgctxt "UI.PLAYERSTATUSSCREEN.LOBBY_PERF_LEVELS.1"
+msgid "Connection: Good"
+msgstr "Связь: хорошо"
+
+#. UI.PLAYERSTATUSSCREEN.LOBBY_PERF_LEVELS.2
+msgctxt "UI.PLAYERSTATUSSCREEN.LOBBY_PERF_LEVELS.2"
+msgid "Connection: Okay"
+msgstr "Связь: удовлетворительно"
+
+#. UI.PLAYERSTATUSSCREEN.LOBBY_PERF_LEVELS.3
+msgctxt "UI.PLAYERSTATUSSCREEN.LOBBY_PERF_LEVELS.3"
+msgid "Connection: Bad"
+msgstr "Связь: плохо"
+
+#. UI.PLAYERSTATUSSCREEN.MODSLISTPRE
+msgctxt "UI.PLAYERSTATUSSCREEN.MODSLISTPRE"
+msgid "Mods:"
+msgstr "Модификации:"
+
+#. UI.PLAYERSTATUSSCREEN.MUTE
+msgctxt "UI.PLAYERSTATUSSCREEN.MUTE"
+msgid "Mute"
+msgstr "Заглушить"
+
+#. UI.PLAYERSTATUSSCREEN.OK
+msgctxt "UI.PLAYERSTATUSSCREEN.OK"
+msgid "Do it!"
+msgstr "Сделай это!"
+
+#. UI.PLAYERSTATUSSCREEN.PERF_CLIENT_LEVELS.1
+msgctxt "UI.PLAYERSTATUSSCREEN.PERF_CLIENT_LEVELS.1"
+msgid "Client Performance: Good"
+msgstr "Производительность Клиента: Хорошая"
+
+#. UI.PLAYERSTATUSSCREEN.PERF_CLIENT_LEVELS.2
+msgctxt "UI.PLAYERSTATUSSCREEN.PERF_CLIENT_LEVELS.2"
+msgid "Client Performance: Okay"
+msgstr "Производительность Клиента: Такая себе"
+
+#. UI.PLAYERSTATUSSCREEN.PERF_CLIENT_LEVELS.3
+msgctxt "UI.PLAYERSTATUSSCREEN.PERF_CLIENT_LEVELS.3"
+msgid "Client Performance: Bad"
+msgstr "Производительность Клиента: Плохая"
+
+#. UI.PLAYERSTATUSSCREEN.PERF_CLIENT_LEVEL_UNKNOWN
+msgctxt "UI.PLAYERSTATUSSCREEN.PERF_CLIENT_LEVEL_UNKNOWN"
+msgid "Client Performance: Unknown"
+msgstr "Производительность Клиента: Неизвестно"
+
+#. UI.PLAYERSTATUSSCREEN.PERF_HOST_LEVELS.1
+msgctxt "UI.PLAYERSTATUSSCREEN.PERF_HOST_LEVELS.1"
+msgid "Host Performance: Good"
+msgstr "Производительность Хоста: Хорошая"
+
+#. UI.PLAYERSTATUSSCREEN.PERF_HOST_LEVELS.2
+msgctxt "UI.PLAYERSTATUSSCREEN.PERF_HOST_LEVELS.2"
+msgid "Host Performance: Okay"
+msgstr "Производительность Хоста: Такая себе"
+
+#. UI.PLAYERSTATUSSCREEN.PERF_HOST_LEVELS.3
+msgctxt "UI.PLAYERSTATUSSCREEN.PERF_HOST_LEVELS.3"
+msgid "Host Performance: Bad"
+msgstr "Производительность Хоста: Плохая"
+
+#. UI.PLAYERSTATUSSCREEN.SURVIVAL
+msgctxt "UI.PLAYERSTATUSSCREEN.SURVIVAL"
+msgid "Survival"
+msgstr "Выживание"
+
+#. UI.PLAYERSTATUSSCREEN.UNMUTE
+msgctxt "UI.PLAYERSTATUSSCREEN.UNMUTE"
+msgid "Unmute"
+msgstr "Вернуть звук"
+
+#. UI.PLAYERSTATUSSCREEN.USERACTIONS
+msgctxt "UI.PLAYERSTATUSSCREEN.USERACTIONS"
+msgid "More Actions..."
+msgstr "Больше действий…"
+
+#. UI.PLAYERSTATUSSCREEN.VIEWGAMERCARD
+msgctxt "UI.PLAYERSTATUSSCREEN.VIEWGAMERCARD"
+msgid "Show Gamercard"
+msgstr "Показать карту игрока"
+
+#. UI.PLAYERSTATUSSCREEN.VIEWPROFILE
+msgctxt "UI.PLAYERSTATUSSCREEN.VIEWPROFILE"
+msgid "View Player"
+msgstr "Посмотреть профиль игрока"
+
+#. UI.PLAYERSTATUSSCREEN.VOTEACTIVEHOVER
+msgctxt "UI.PLAYERSTATUSSCREEN.VOTEACTIVEHOVER"
+msgid "Vote In Progress"
+msgstr "Проводится голосование"
+
+#. UI.PLAYERSTATUSSCREEN.VOTECANNOTSTART.MINPLAYERS
+msgctxt "UI.PLAYERSTATUSSCREEN.VOTECANNOTSTART.MINPLAYERS"
+msgid "Not enough players to start a vote."
+msgstr "Недостаточно игроков для начала голосования"
+
+#. UI.PLAYERSTATUSSCREEN.VOTECANNOTSTART.MINSTARTAGE
+msgctxt "UI.PLAYERSTATUSSCREEN.VOTECANNOTSTART.MINSTARTAGE"
+msgid "You have not played long enough to start a vote."
+msgstr "Вы недостаточно долго играете, чтобы начать голосование."
+
+#. UI.PLAYERSTATUSSCREEN.VOTEHOVERFMT
+msgctxt "UI.PLAYERSTATUSSCREEN.VOTEHOVERFMT"
+msgid "Vote to %s"
+msgstr "Голосовать за %s"
+
+#. UI.PLAYERSTATUSSCREEN.VOTESQUELCHEDHOVER
+msgctxt "UI.PLAYERSTATUSSCREEN.VOTESQUELCHEDHOVER"
+msgid "You are currently on timeout for failed votes."
+msgstr "Время голосования закончилось."
+
+#. UI.PLAYERSTATUSSCREEN.WILDERNESS
+msgctxt "UI.PLAYERSTATUSSCREEN.WILDERNESS"
+msgid "Wilderness"
+msgstr "Дикая природа"
+

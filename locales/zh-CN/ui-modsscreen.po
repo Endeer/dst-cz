@@ -1,0 +1,465 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.MODSSCREEN.ALL_FILTER
+msgctxt "UI.MODSSCREEN.ALL_FILTER"
+msgid "All"
+msgstr "全部"
+
+#. UI.MODSSCREEN.APPLY
+msgctxt "UI.MODSSCREEN.APPLY"
+msgid "Apply"
+msgstr "应用"
+
+#. UI.MODSSCREEN.AUTHORBY
+msgctxt "UI.MODSSCREEN.AUTHORBY"
+msgid "by %s"
+msgstr "作者：%s"
+
+#. UI.MODSSCREEN.BACK
+msgctxt "UI.MODSSCREEN.BACK"
+msgid "Back"
+msgstr "返回"
+
+#. UI.MODSSCREEN.BACKBODY
+msgctxt "UI.MODSSCREEN.BACKBODY"
+msgid "Do you want to discard the changes you made to this mod's options?"
+msgstr "要放弃对此模组选项所做的更改吗？"
+
+#. UI.MODSSCREEN.BACKTITLE
+msgctxt "UI.MODSSCREEN.BACKTITLE"
+msgid "Discard Changes"
+msgstr "放弃更改"
+
+#. UI.MODSSCREEN.CANCEL
+msgctxt "UI.MODSSCREEN.CANCEL"
+msgid "Cancel"
+msgstr "取消"
+
+#. UI.MODSSCREEN.CANCEL_BODY
+msgctxt "UI.MODSSCREEN.CANCEL_BODY"
+msgid "Do you want to abandon your changes?"
+msgstr "要放弃更改吗？"
+
+#. UI.MODSSCREEN.CANCEL_TITLE
+msgctxt "UI.MODSSCREEN.CANCEL_TITLE"
+msgid "Lose Changes?"
+msgstr "放弃更改？"
+
+#. UI.MODSSCREEN.CLEANALL
+msgctxt "UI.MODSSCREEN.CLEANALL"
+msgid "Clean All"
+msgstr "全部清除"
+
+#. UI.MODSSCREEN.CLEANALL_BODY
+msgctxt "UI.MODSSCREEN.CLEANALL_BODY"
+msgid "Are you sure you want to clean your local Workshop data?\nThis will result in a full download of all your subscribed mods, and your mod configuration settings being reset."
+msgstr "你确定想清理你本地创意工坊的数据吗？\n这样将全部下载你订用的所有模组，并且重设下你的模组配置。"
+
+#. UI.MODSSCREEN.CLEANALL_TITLE
+msgctxt "UI.MODSSCREEN.CLEANALL_TITLE"
+msgid "Clean All Mod Workshop Data"
+msgstr "清除所有模组创意工坊的数据"
+
+#. UI.MODSSCREEN.CLIENTMODS
+msgctxt "UI.MODSSCREEN.CLIENTMODS"
+msgid "Client Mods"
+msgstr "本地模组"
+
+#. UI.MODSSCREEN.COMPATIBILITY_ALL
+msgctxt "UI.MODSSCREEN.COMPATIBILITY_ALL"
+msgid "Compatible with everything."
+msgstr "与所有内容均兼容。"
+
+#. UI.MODSSCREEN.COMPATIBILITY_DST
+msgctxt "UI.MODSSCREEN.COMPATIBILITY_DST"
+msgid "Compatible with Don't Starve Together."
+msgstr "与《饥荒：联机版》兼容。"
+
+#. UI.MODSSCREEN.COMPATIBILITY_DS_ONLY
+msgctxt "UI.MODSSCREEN.COMPATIBILITY_DS_ONLY"
+msgid "Compatible with Don't Starve only."
+msgstr "仅与《饥荒》兼容。"
+
+#. UI.MODSSCREEN.COMPATIBILITY_NONE
+msgctxt "UI.MODSSCREEN.COMPATIBILITY_NONE"
+msgid "This mod has no compatibility with Don't Starve."
+msgstr "这个模组与\"饥荒\"不兼容。"
+
+#. UI.MODSSCREEN.COMPATIBILITY_ROG_ONLY
+msgctxt "UI.MODSSCREEN.COMPATIBILITY_ROG_ONLY"
+msgid "Compatible with Reign of Giants only."
+msgstr "仅与《巨人国》兼容。"
+
+#. UI.MODSSCREEN.COMPATIBILITY_UNKNOWN
+msgctxt "UI.MODSSCREEN.COMPATIBILITY_UNKNOWN"
+msgid "Compatibility unknown."
+msgstr "兼容性未知。"
+
+#. UI.MODSSCREEN.CONFIGSCREENTITLESUFFIX
+msgctxt "UI.MODSSCREEN.CONFIGSCREENTITLESUFFIX"
+msgid "Configuration"
+msgstr "配置"
+
+#. UI.MODSSCREEN.CONFIGUREMOD
+msgctxt "UI.MODSSCREEN.CONFIGUREMOD"
+msgid "Configure Mod"
+msgstr "配置模组"
+
+#. UI.MODSSCREEN.DISABLE
+msgctxt "UI.MODSSCREEN.DISABLE"
+msgid "Disable"
+msgstr "禁用"
+
+#. UI.MODSSCREEN.DISABLED_ERROR
+msgctxt "UI.MODSSCREEN.DISABLED_ERROR"
+msgid "Crashed! Disabled."
+msgstr "崩溃！被禁用。"
+
+#. UI.MODSSCREEN.DISABLED_FILTER
+msgctxt "UI.MODSSCREEN.DISABLED_FILTER"
+msgid "Disabled"
+msgstr "禁用"
+
+#. UI.MODSSCREEN.DISABLED_MANUAL
+msgctxt "UI.MODSSCREEN.DISABLED_MANUAL"
+msgid "This mod is disabled."
+msgstr "此模组被禁用。"
+
+#. UI.MODSSCREEN.DISABLE_ALL
+msgctxt "UI.MODSSCREEN.DISABLE_ALL"
+msgid "Disable All"
+msgstr "禁用全部"
+
+#. UI.MODSSCREEN.DOWNLOADINGMOD
+msgctxt "UI.MODSSCREEN.DOWNLOADINGMOD"
+msgid "Downloading:\n{name}"
+msgstr "正在下载：\n {name}"
+
+#. UI.MODSSCREEN.DOWNLOADING_MODS
+msgctxt "UI.MODSSCREEN.DOWNLOADING_MODS"
+msgid "Downloading Mods..."
+msgstr "正在下载模组……"
+
+#. UI.MODSSCREEN.DST_COMPAT_WARNING
+msgctxt "UI.MODSSCREEN.DST_COMPAT_WARNING"
+msgid "This mod hasn't been tagged as compatible with Don't Starve Together. It may cause issues with your game."
+msgstr "这个模组还未标记为与\"饥荒\"兼容。这可能使你的游戏出现问题。"
+
+#. UI.MODSSCREEN.ENABLE
+msgctxt "UI.MODSSCREEN.ENABLE"
+msgid "Enable"
+msgstr "启用"
+
+#. UI.MODSSCREEN.ENABLEDDISABLED_FILTER
+msgctxt "UI.MODSSCREEN.ENABLEDDISABLED_FILTER"
+msgid "Both"
+msgstr "两者全选"
+
+#. UI.MODSSCREEN.ENABLED_FILTER
+msgctxt "UI.MODSSCREEN.ENABLED_FILTER"
+msgid "Enabled"
+msgstr "启用"
+
+#. UI.MODSSCREEN.LOADING
+msgctxt "UI.MODSSCREEN.LOADING"
+msgid "Loading"
+msgstr "正在加载"
+
+#. UI.MODSSCREEN.LOCAL_FILTER
+msgctxt "UI.MODSSCREEN.LOCAL_FILTER"
+msgid "Local"
+msgstr "本地"
+
+#. UI.MODSSCREEN.MODLINK
+msgctxt "UI.MODSSCREEN.MODLINK"
+msgid "Mod Page"
+msgstr "模组页面"
+
+#. UI.MODSSCREEN.MODLINKGENERIC
+msgctxt "UI.MODSSCREEN.MODLINKGENERIC"
+msgid "Mod Forums"
+msgstr "模组论坛"
+
+#. UI.MODSSCREEN.MODLINK_MOREINFO
+msgctxt "UI.MODSSCREEN.MODLINK_MOREINFO"
+msgid "More Info"
+msgstr "更多信息"
+
+#. UI.MODSSCREEN.MODPAGE
+msgctxt "UI.MODSSCREEN.MODPAGE"
+msgid "Mod Page"
+msgstr "模组页面"
+
+#. UI.MODSSCREEN.MODTITLE
+msgctxt "UI.MODSSCREEN.MODTITLE"
+msgid "Mods"
+msgstr "模组"
+
+#. UI.MODSSCREEN.MOD_DEPENDENCIES_TITLE
+msgctxt "UI.MODSSCREEN.MOD_DEPENDENCIES_TITLE"
+msgid "Dependencies Required"
+msgstr "依赖其他模组"
+
+#. UI.MODSSCREEN.MOD_DEPENDENTS_TITLE
+msgctxt "UI.MODSSCREEN.MOD_DEPENDENTS_TITLE"
+msgid "Required By Other Mods"
+msgstr "被其他模组需要"
+
+#. UI.MODSSCREEN.MOD_HAS_DEPENDENCIES_FMT
+msgctxt "UI.MODSSCREEN.MOD_HAS_DEPENDENCIES_FMT"
+msgid "{mod} requires other mods to run, it will subscribe and enable these if you enable this mod:"
+msgstr "{mod}需要其他模组才能运行，如果你启用这个模组，它就会订阅和启用这些模组："
+
+#. UI.MODSSCREEN.MOD_HAS_DEPENDENTS_FMT
+msgctxt "UI.MODSSCREEN.MOD_HAS_DEPENDENTS_FMT"
+msgid "{mod} is required for other mods to run, if you disable this mod these mods will be disabled:"
+msgstr "其他模组需要{mod}才能运行，如果你禁用这个模组，这些模组将会被禁用："
+
+#. UI.MODSSCREEN.MOD_WARNING
+msgctxt "UI.MODSSCREEN.MOD_WARNING"
+msgid "This is not a Steam Workshop mod. Players will need to download it manually if you host a server."
+msgstr "这不是Steam 创意工坊的模组。如果你是主服务器，玩家必须手动下载。"
+
+#. UI.MODSSCREEN.MOD_WARNING_RAIL
+msgctxt "UI.MODSSCREEN.MOD_WARNING_RAIL"
+msgid "This is not a WeGame mod. Players will need to download it manually if you host a server."
+msgstr "这不是WeGame的模组。如果你是主服务器，玩家必须手动下载。"
+
+#. UI.MODSSCREEN.MOD_WARNING_TITLE
+msgctxt "UI.MODSSCREEN.MOD_WARNING_TITLE"
+msgid "Mod Warning"
+msgstr "模组警告"
+
+#. UI.MODSSCREEN.MOREMODS
+msgctxt "UI.MODSSCREEN.MOREMODS"
+msgid "More Mods"
+msgstr "更多模组"
+
+#. UI.MODSSCREEN.NO
+msgctxt "UI.MODSSCREEN.NO"
+msgid "No"
+msgstr "否"
+
+#. UI.MODSSCREEN.NOCONFIG
+msgctxt "UI.MODSSCREEN.NOCONFIG"
+msgid "No Configurations"
+msgstr "无配置"
+
+#. UI.MODSSCREEN.NO_MODS
+msgctxt "UI.MODSSCREEN.NO_MODS"
+msgid "You have no mods installed. Mods can be downloaded from the Steam Workshop."
+msgstr "你没有安装模组。可以从Steam 创意工坊下载模组。"
+
+#. UI.MODSSCREEN.NO_MODS_CLIENT_TGP
+msgctxt "UI.MODSSCREEN.NO_MODS_CLIENT_TGP"
+msgid "You don't have any client mods installed. You can download some from the WeGame client."
+msgstr "你没有安装任何客户端模组。你可以通过WeGame客户端下载模组。"
+
+#. UI.MODSSCREEN.NO_MODS_LINK
+msgctxt "UI.MODSSCREEN.NO_MODS_LINK"
+msgid "Take me to the mods!"
+msgstr "前往这些模组！"
+
+#. UI.MODSSCREEN.NO_MODS_OK
+msgctxt "UI.MODSSCREEN.NO_MODS_OK"
+msgid "Show Me!"
+msgstr "指引我！"
+
+#. UI.MODSSCREEN.NO_MODS_PLAIN_OK
+msgctxt "UI.MODSSCREEN.NO_MODS_PLAIN_OK"
+msgid "Ok"
+msgstr "确定"
+
+#. UI.MODSSCREEN.NO_MODS_SERVER_TGP
+msgctxt "UI.MODSSCREEN.NO_MODS_SERVER_TGP"
+msgid "You don't have any server mods installed. You can download some from the WeGame client."
+msgstr "你没有安装任何服务器模组。你可以通过WeGame客户端下载模组。"
+
+#. UI.MODSSCREEN.NO_MODS_TITLE
+msgctxt "UI.MODSSCREEN.NO_MODS_TITLE"
+msgid "No Mods Installed"
+msgstr "未安装模组"
+
+#. UI.MODSSCREEN.NO_MODS_TYPE
+msgctxt "UI.MODSSCREEN.NO_MODS_TYPE"
+msgid "You have no %s mods installed. Mods can be downloaded from the Steam Workshop."
+msgstr "你没有安装%s 模组。可以从Steam 创意工坊下载模组。"
+
+#. UI.MODSSCREEN.OK
+msgctxt "UI.MODSSCREEN.OK"
+msgid "OK"
+msgstr "好的"
+
+#. UI.MODSSCREEN.OUT_OF_DATE
+msgctxt "UI.MODSSCREEN.OUT_OF_DATE"
+msgid "Mods Out of Date:"
+msgstr "模组过期："
+
+#. UI.MODSSCREEN.REQUIRED_MODS_DOWNLOADING
+msgctxt "UI.MODSSCREEN.REQUIRED_MODS_DOWNLOADING"
+msgid "The game has not finished downloading required mods.\nEither wait until the mods have finished downloading, or disable mods which have dependencies."
+msgstr "游戏还没有下载完所需的模组。\n你可以等待下载完成，或者禁用有依赖关系的模组。"
+
+#. UI.MODSSCREEN.REQUIRED_MODS_DOWNLOADING_TITLE
+msgctxt "UI.MODSSCREEN.REQUIRED_MODS_DOWNLOADING_TITLE"
+msgid "Required Mods Are Downloading"
+msgstr "正在下载所需模组"
+
+#. UI.MODSSCREEN.RESETDEFAULT
+msgctxt "UI.MODSSCREEN.RESETDEFAULT"
+msgid "Reset"
+msgstr "重置"
+
+#. UI.MODSSCREEN.RESTART
+msgctxt "UI.MODSSCREEN.RESTART"
+msgid "Exit Now"
+msgstr "立即退出"
+
+#. UI.MODSSCREEN.RESTART_REQUIRED
+msgctxt "UI.MODSSCREEN.RESTART_REQUIRED"
+msgid "To enable or disable this mod, you will have to exit and restart the game."
+msgstr "要启用或禁用此模组，你将需要退出并重启游戏。"
+
+#. UI.MODSSCREEN.RESTART_TITLE
+msgctxt "UI.MODSSCREEN.RESTART_TITLE"
+msgid "Restart Required"
+msgstr "需要重启游戏"
+
+#. UI.MODSSCREEN.SEARCH
+msgctxt "UI.MODSSCREEN.SEARCH"
+msgid "Search"
+msgstr "搜索"
+
+#. UI.MODSSCREEN.SERVERMODS
+msgctxt "UI.MODSSCREEN.SERVERMODS"
+msgid "Server Mods"
+msgstr "服务器模组"
+
+#. UI.MODSSCREEN.SERVERMODS_TITLE_READONLY
+msgctxt "UI.MODSSCREEN.SERVERMODS_TITLE_READONLY"
+msgid "Configure Server Mods"
+msgstr "配置服务器模组"
+
+#. UI.MODSSCREEN.SHOWCASEMODS
+msgctxt "UI.MODSSCREEN.SHOWCASEMODS"
+msgid "Get Mods"
+msgstr "获取模组"
+
+#. UI.MODSSCREEN.STATUS.DISABLED_ERROR
+msgctxt "UI.MODSSCREEN.STATUS.DISABLED_ERROR"
+msgid "Crashed!"
+msgstr "崩溃！"
+
+#. UI.MODSSCREEN.STATUS.DISABLED_MANUAL
+msgctxt "UI.MODSSCREEN.STATUS.DISABLED_MANUAL"
+msgid "Disabled"
+msgstr "禁用"
+
+#. UI.MODSSCREEN.STATUS.WORKING_NORMALLY
+msgctxt "UI.MODSSCREEN.STATUS.WORKING_NORMALLY"
+msgid "Enabled"
+msgstr "启用"
+
+#. UI.MODSSCREEN.STATUS_FILTER_FMT
+msgctxt "UI.MODSSCREEN.STATUS_FILTER_FMT"
+msgid "Mod Status Filter: {mode}"
+msgstr "模组状态筛选：{mode}"
+
+#. UI.MODSSCREEN.TOOLTIP_CLIENTMODS
+msgctxt "UI.MODSSCREEN.TOOLTIP_CLIENTMODS"
+msgid "Cosmetic mods that run on your machine"
+msgstr "在你的机器上运行的美化模组"
+
+#. UI.MODSSCREEN.TOOLTIP_SERVERMODS
+msgctxt "UI.MODSSCREEN.TOOLTIP_SERVERMODS"
+msgid "Gameplay-affecting mods that run on the game server"
+msgstr "在游戏服务器上运行的能影响游戏玩法的模组"
+
+#. UI.MODSSCREEN.TOOLTIP_SHOWCASEMODS
+msgctxt "UI.MODSSCREEN.TOOLTIP_SHOWCASEMODS"
+msgid "See popular and featured mods"
+msgstr "查看热门和精选模组"
+
+#. UI.MODSSCREEN.TOPMODS
+msgctxt "UI.MODSSCREEN.TOPMODS"
+msgid "Top Mods"
+msgstr "最热门模组"
+
+#. UI.MODSSCREEN.UNKNOWN_MOD_CONFIG_SETTING
+msgctxt "UI.MODSSCREEN.UNKNOWN_MOD_CONFIG_SETTING"
+msgid "[NAME UNDEFINED]"
+msgstr "[名称未定义]"
+
+#. UI.MODSSCREEN.UPDATEALL
+msgctxt "UI.MODSSCREEN.UPDATEALL"
+msgid "Update All"
+msgstr "全部更新"
+
+#. UI.MODSSCREEN.UPDATEALL_BODY
+msgctxt "UI.MODSSCREEN.UPDATEALL_BODY"
+msgid "Are you sure you want to update all your subscribed mods?"
+msgstr "你确定想更新你订用的所有模组吗？"
+
+#. UI.MODSSCREEN.UPDATEALL_TITLE
+msgctxt "UI.MODSSCREEN.UPDATEALL_TITLE"
+msgid "Update All Mod Workshop Data"
+msgstr "更新所有模组创意工坊的数据"
+
+#. UI.MODSSCREEN.UPDATEMOD
+msgctxt "UI.MODSSCREEN.UPDATEMOD"
+msgid "Update Mod"
+msgstr "更新模组"
+
+#. UI.MODSSCREEN.UPDATINGMOD
+msgctxt "UI.MODSSCREEN.UPDATINGMOD"
+msgid "Updating..."
+msgstr "更新中…"
+
+#. UI.MODSSCREEN.UPTODATE
+msgctxt "UI.MODSSCREEN.UPTODATE"
+msgid "Up To Date"
+msgstr "最新"
+
+#. UI.MODSSCREEN.UPTODATEALL
+msgctxt "UI.MODSSCREEN.UPTODATEALL"
+msgid "All Up To Date"
+msgstr "所有都是最新的"
+
+#. UI.MODSSCREEN.VERSION
+msgctxt "UI.MODSSCREEN.VERSION"
+msgid "version %s"
+msgstr "版本：%s"
+
+#. UI.MODSSCREEN.VIEW_AND_CONFIGURE
+msgctxt "UI.MODSSCREEN.VIEW_AND_CONFIGURE"
+msgid "Mod can be viewed and configured."
+msgstr "模组可被查看并配置。"
+
+#. UI.MODSSCREEN.WORKING_NORMALLY
+msgctxt "UI.MODSSCREEN.WORKING_NORMALLY"
+msgid "This mod is enabled."
+msgstr "这个模组被启用。"
+
+#. UI.MODSSCREEN.WORKSHOP_FILTER
+msgctxt "UI.MODSSCREEN.WORKSHOP_FILTER"
+msgid "Workshop"
+msgstr "创意工坊"
+
+#. UI.MODSSCREEN.WORKSHOP_FILTER_FMT
+msgctxt "UI.MODSSCREEN.WORKSHOP_FILTER_FMT"
+msgid "Mod Type Filter: {mode}"
+msgstr "模组类型筛选：{mode}"
+
+#. UI.MODSSCREEN.WORKSHOP_FILTER_RAIL
+msgctxt "UI.MODSSCREEN.WORKSHOP_FILTER_RAIL"
+msgid "Warehouse"
+msgstr "模组仓库"
+
+#. UI.MODSSCREEN.YES
+msgctxt "UI.MODSSCREEN.YES"
+msgid "Yes"
+msgstr "是"
+

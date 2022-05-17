@@ -1,0 +1,225 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.LOBBYSCREEN.APPLY
+msgctxt "UI.LOBBYSCREEN.APPLY"
+msgid "Apply"
+msgstr "適用"
+
+#. UI.LOBBYSCREEN.BACK
+msgctxt "UI.LOBBYSCREEN.BACK"
+msgid "Back"
+msgstr "戻る"
+
+#. UI.LOBBYSCREEN.CANCEL
+msgctxt "UI.LOBBYSCREEN.CANCEL"
+msgid "Cancel"
+msgstr "キャンセル"
+
+#. UI.LOBBYSCREEN.CHAT
+msgctxt "UI.LOBBYSCREEN.CHAT"
+msgid "Chat"
+msgstr "チャット"
+
+#. UI.LOBBYSCREEN.CLIENTQUITBODY
+msgctxt "UI.LOBBYSCREEN.CLIENTQUITBODY"
+msgid "Are you sure you want to leave this server?"
+msgstr "このサーバーから退出しますか？"
+
+#. UI.LOBBYSCREEN.CLIENTQUITTITLE
+msgctxt "UI.LOBBYSCREEN.CLIENTQUITTITLE"
+msgid "Leave Server"
+msgstr "サーバーから退出"
+
+#. UI.LOBBYSCREEN.COMING
+msgctxt "UI.LOBBYSCREEN.COMING"
+msgid "Coming Soon!"
+msgstr "COMING SOON!"
+
+#. UI.LOBBYSCREEN.CUSTOMIZE
+msgctxt "UI.LOBBYSCREEN.CUSTOMIZE"
+msgid "Customize Your Character"
+msgstr "キャラクターをカスタマイズ"
+
+#. UI.LOBBYSCREEN.CUSTOMIZE_SCARECROW
+msgctxt "UI.LOBBYSCREEN.CUSTOMIZE_SCARECROW"
+msgid "Customize Your Scarecrow"
+msgstr "かかしのカスタマイズ"
+
+#. UI.LOBBYSCREEN.DISCONNECT
+msgctxt "UI.LOBBYSCREEN.DISCONNECT"
+msgid "Disconnect"
+msgstr "切断"
+
+#. UI.LOBBYSCREEN.EMPTY_SLOT
+msgctxt "UI.LOBBYSCREEN.EMPTY_SLOT"
+msgid "Available Slot"
+msgstr "利用可能なスロット"
+
+#. UI.LOBBYSCREEN.HOSTQUITBODY
+msgctxt "UI.LOBBYSCREEN.HOSTQUITBODY"
+msgid "Are you sure you want to shut down this server? If you do, all players will be disconnected."
+msgstr "このサーバーをシャットダウンすると、全プレイヤーが強制的に退出となります。よろしいですか？"
+
+#. UI.LOBBYSCREEN.HOSTQUITTITLE
+msgctxt "UI.LOBBYSCREEN.HOSTQUITTITLE"
+msgid "Shut Down Server"
+msgstr "サーバーをシャットダウン"
+
+#. UI.LOBBYSCREEN.INVITE
+msgctxt "UI.LOBBYSCREEN.INVITE"
+msgid "Invite"
+msgstr "招待"
+
+#. UI.LOBBYSCREEN.INVITE_FRIEND
+msgctxt "UI.LOBBYSCREEN.INVITE_FRIEND"
+msgid "Invite Friend"
+msgstr "フレンドを招待"
+
+#. UI.LOBBYSCREEN.LOADOUT_TITLE
+msgctxt "UI.LOBBYSCREEN.LOADOUT_TITLE"
+msgid "{name}'s Loadout"
+msgstr "{name}のコーディネート"
+
+#. UI.LOBBYSCREEN.NEXT
+msgctxt "UI.LOBBYSCREEN.NEXT"
+msgid "Next"
+msgstr "次へ"
+
+#. UI.LOBBYSCREEN.NO
+msgctxt "UI.LOBBYSCREEN.NO"
+msgid "Maybe not..."
+msgstr "やめときます…"
+
+#. UI.LOBBYSCREEN.NUM_PLAYERS_FMT
+msgctxt "UI.LOBBYSCREEN.NUM_PLAYERS_FMT"
+msgid "{num}/{max}"
+msgstr "{num}/{max}"
+
+#. UI.LOBBYSCREEN.OFFLINE
+msgctxt "UI.LOBBYSCREEN.OFFLINE"
+msgid "Not Available Offline"
+msgstr "オフラインでは使用不可"
+
+#. UI.LOBBYSCREEN.PLAYER
+msgctxt "UI.LOBBYSCREEN.PLAYER"
+msgid "Player"
+msgstr "プレイヤー"
+
+#. UI.LOBBYSCREEN.PLAYERLIST
+msgctxt "UI.LOBBYSCREEN.PLAYERLIST"
+msgid "Players"
+msgstr "プレイヤー"
+
+#. UI.LOBBYSCREEN.RANDOMCHAR
+msgctxt "UI.LOBBYSCREEN.RANDOMCHAR"
+msgid "Random"
+msgstr "ランダム"
+
+#. UI.LOBBYSCREEN.RANDOMCHAR_BUTTONHINT
+msgctxt "UI.LOBBYSCREEN.RANDOMCHAR_BUTTONHINT"
+msgid "Random Survivor"
+msgstr "ランダム生存者"
+
+#. UI.LOBBYSCREEN.READY
+msgctxt "UI.LOBBYSCREEN.READY"
+msgid "Ready!"
+msgstr "よーい！"
+
+#. UI.LOBBYSCREEN.SELECT
+msgctxt "UI.LOBBYSCREEN.SELECT"
+msgid "Select"
+msgstr "選択"
+
+#. UI.LOBBYSCREEN.SELECTION_TITLE
+msgctxt "UI.LOBBYSCREEN.SELECTION_TITLE"
+msgid "Survivor Select"
+msgstr "生存者選択"
+
+#. UI.LOBBYSCREEN.SERVER_SHUTDOWN_BODY
+msgctxt "UI.LOBBYSCREEN.SERVER_SHUTDOWN_BODY"
+msgid "This server is about to shut down."
+msgstr "このサーバーがシャットダウンします。"
+
+#. UI.LOBBYSCREEN.SERVER_SHUTDOWN_TITLE
+msgctxt "UI.LOBBYSCREEN.SERVER_SHUTDOWN_TITLE"
+msgid "Server is Shutting Down"
+msgstr "サーバーのシャットダウン"
+
+#. UI.LOBBYSCREEN.SKINS
+msgctxt "UI.LOBBYSCREEN.SKINS"
+msgid "Skins"
+msgstr "スキン"
+
+#. UI.LOBBYSCREEN.SKINS_BASE
+msgctxt "UI.LOBBYSCREEN.SKINS_BASE"
+msgid "HEAD"
+msgstr "頭"
+
+#. UI.LOBBYSCREEN.SKINS_BODY
+msgctxt "UI.LOBBYSCREEN.SKINS_BODY"
+msgid "BODY"
+msgstr "胴"
+
+#. UI.LOBBYSCREEN.SKINS_FEET
+msgctxt "UI.LOBBYSCREEN.SKINS_FEET"
+msgid "FEET"
+msgstr "足"
+
+#. UI.LOBBYSCREEN.SKINS_HANDS
+msgctxt "UI.LOBBYSCREEN.SKINS_HANDS"
+msgid "HANDS"
+msgstr "手"
+
+#. UI.LOBBYSCREEN.SKINS_LEGS
+msgctxt "UI.LOBBYSCREEN.SKINS_LEGS"
+msgid "LEGS"
+msgstr "脚"
+
+#. UI.LOBBYSCREEN.SKINS_PREVIOUS
+msgctxt "UI.LOBBYSCREEN.SKINS_PREVIOUS"
+msgid "Previously Worn Item"
+msgstr "前に使用した装備"
+
+#. UI.LOBBYSCREEN.SKINS_RANDOM
+msgctxt "UI.LOBBYSCREEN.SKINS_RANDOM"
+msgid "Random Item"
+msgstr "ランダム"
+
+#. UI.LOBBYSCREEN.START
+msgctxt "UI.LOBBYSCREEN.START"
+msgid "Go!"
+msgstr "GO!"
+
+#. UI.LOBBYSCREEN.TOGGLE_PORTRAIT
+msgctxt "UI.LOBBYSCREEN.TOGGLE_PORTRAIT"
+msgid "Toggle Portrait"
+msgstr "トグルポートレート"
+
+#. UI.LOBBYSCREEN.UNOWNED_CHARACTER_BODY
+msgctxt "UI.LOBBYSCREEN.UNOWNED_CHARACTER_BODY"
+msgid "You have not yet unlocked {character}.\nTo play this character, you must either weave them using Spools, or purchase them from the Shop."
+msgstr "{character}をまだアンロックしていません。\nこのキャラクターをプレイするには、スプールを使って織るか、ショップで購入する必要があります。"
+
+#. UI.LOBBYSCREEN.UNOWNED_CHARACTER_TITLE
+msgctxt "UI.LOBBYSCREEN.UNOWNED_CHARACTER_TITLE"
+msgid "Character Not Owned"
+msgstr "所有していないキャラクター"
+
+#. UI.LOBBYSCREEN.VISIT_SHOP
+msgctxt "UI.LOBBYSCREEN.VISIT_SHOP"
+msgid "Visit Shop"
+msgstr "ショップ訪問"
+
+#. UI.LOBBYSCREEN.WAITING_FOR_PLAYERS_TITLE
+msgctxt "UI.LOBBYSCREEN.WAITING_FOR_PLAYERS_TITLE"
+msgid "Waiting For Other Players"
+msgstr "他の選手を待っています"
+
+#. UI.LOBBYSCREEN.YES
+msgctxt "UI.LOBBYSCREEN.YES"
+msgid "Do it!"
+msgstr "よろしいです！"
+

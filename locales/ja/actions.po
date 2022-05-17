@@ -1,0 +1,1680 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. ACTIONS.ABANDON
+msgctxt "ACTIONS.ABANDON"
+msgid "Abandon"
+msgstr "諦める"
+
+#. ACTIONS.ABANDON_QUEST
+msgctxt "ACTIONS.ABANDON_QUEST"
+msgid "Abandon"
+msgstr "諦める"
+
+#. ACTIONS.ABANDON_SHIP
+msgctxt "ACTIONS.ABANDON_SHIP"
+msgid "Abandon Ship"
+msgstr "船を見捨てる"
+
+#. ACTIONS.ACTIVATE.ACCOMPLISH
+msgctxt "ACTIONS.ACTIVATE.ACCOMPLISH"
+msgid "Wind"
+msgstr "巻く"
+
+#. ACTIONS.ACTIVATE.CLIMB
+msgctxt "ACTIONS.ACTIVATE.CLIMB"
+msgid "Climb"
+msgstr "登る"
+
+#. ACTIONS.ACTIVATE.CLOSE
+msgctxt "ACTIONS.ACTIVATE.CLOSE"
+msgid "Close"
+msgstr "閉める"
+
+#. ACTIONS.ACTIVATE.DEACTIVATE
+msgctxt "ACTIONS.ACTIVATE.DEACTIVATE"
+msgid "Deactivate"
+msgstr "停止する"
+
+#. ACTIONS.ACTIVATE.GENERIC
+msgctxt "ACTIONS.ACTIVATE.GENERIC"
+msgid "Activate"
+msgstr "稼動させる"
+
+#. ACTIONS.ACTIVATE.HIDEANDSEEK
+msgctxt "ACTIONS.ACTIVATE.HIDEANDSEEK"
+msgid "Play Hide and Seek"
+msgstr "かくれんぼで遊ぶ"
+
+#. ACTIONS.ACTIVATE.INVESTIGATE
+msgctxt "ACTIONS.ACTIVATE.INVESTIGATE"
+msgid "Investigate"
+msgstr "調査する"
+
+#. ACTIONS.ACTIVATE.OPEN
+msgctxt "ACTIONS.ACTIVATE.OPEN"
+msgid "Open"
+msgstr "開ける"
+
+#. ACTIONS.ACTIVATE.PICK
+msgctxt "ACTIONS.ACTIVATE.PICK"
+msgid "Choose"
+msgstr "選ぶ"
+
+#. ACTIONS.ACTIVATE.RANSACK
+msgctxt "ACTIONS.ACTIVATE.RANSACK"
+msgid "Ransack"
+msgstr "さがす"
+
+#. ACTIONS.ACTIVATE.SPELUNK
+msgctxt "ACTIONS.ACTIVATE.SPELUNK"
+msgid "Spelunk"
+msgstr "洞くつ探検"
+
+#. ACTIONS.ACTIVATE.SUMMONHOST
+msgctxt "ACTIONS.ACTIVATE.SUMMONHOST"
+msgid "Ring"
+msgstr "鳴らす"
+
+#. ACTIONS.ACTIVATE.TOUCH
+msgctxt "ACTIONS.ACTIVATE.TOUCH"
+msgid "Touch"
+msgstr "触れる"
+
+#. ACTIONS.ACTIVATE.TURN
+msgctxt "ACTIONS.ACTIVATE.TURN"
+msgid "Turn"
+msgstr "逆さにする"
+
+#. ACTIONS.ADDCOMPOSTABLE
+msgctxt "ACTIONS.ADDCOMPOSTABLE"
+msgid "Give"
+msgstr "渡す"
+
+#. ACTIONS.ADDFUEL
+msgctxt "ACTIONS.ADDFUEL"
+msgid "Add Fuel"
+msgstr "燃料補給する"
+
+#. ACTIONS.ADDWETFUEL
+msgctxt "ACTIONS.ADDWETFUEL"
+msgid "Add Wet Fuel"
+msgstr "液体燃料を加える"
+
+#. ACTIONS.ADVANCE_TREE_GROWTH
+msgctxt "ACTIONS.ADVANCE_TREE_GROWTH"
+msgid "Apply"
+msgstr "適用"
+
+#. ACTIONS.APPLYCONSTRUCTION
+msgctxt "ACTIONS.APPLYCONSTRUCTION"
+msgid "Build"
+msgstr "建設する"
+
+#. ACTIONS.APPLYMODULE
+msgctxt "ACTIONS.APPLYMODULE"
+msgid "Plug In"
+msgstr "差し込む"
+
+#. ACTIONS.APPLYPRESERVATIVE.GENERIC
+msgctxt "ACTIONS.APPLYPRESERVATIVE.GENERIC"
+msgid "Preserve"
+msgstr "保存する"
+
+#. ACTIONS.APPLYPRESERVATIVE.SALT
+msgctxt "ACTIONS.APPLYPRESERVATIVE.SALT"
+msgid "Preserve"
+msgstr "保存する"
+
+#. ACTIONS.APPRAISE
+msgctxt "ACTIONS.APPRAISE"
+msgid "Appraise"
+msgstr "評価する"
+
+#. ACTIONS.ASSESSPLANTHAPPINESS.GENERIC
+msgctxt "ACTIONS.ASSESSPLANTHAPPINESS.GENERIC"
+msgid "Assess Happiness"
+msgstr "幸せを評価する"
+
+#. ACTIONS.ASSESSPLANTHAPPINESS.GENERIC_FMT
+msgctxt "ACTIONS.ASSESSPLANTHAPPINESS.GENERIC_FMT"
+msgid "Assess {plant}'s Happiness"
+msgstr "{plant}の幸せを評価する"
+
+#. ACTIONS.ATTACK.GENERIC
+msgctxt "ACTIONS.ATTACK.GENERIC"
+msgid "Attack"
+msgstr "攻撃する"
+
+#. ACTIONS.ATTACK.PROP
+msgctxt "ACTIONS.ATTACK.PROP"
+msgid "Smack"
+msgstr "叩く"
+
+#. ACTIONS.ATTACK.RANGEDLIGHT
+msgctxt "ACTIONS.ATTACK.RANGEDLIGHT"
+msgid "Light"
+msgstr "火をつける"
+
+#. ACTIONS.ATTACK.RANGEDSMOTHER
+msgctxt "ACTIONS.ATTACK.RANGEDSMOTHER"
+msgid "Extinguish"
+msgstr "消火"
+
+#. ACTIONS.ATTACK.SMASHABLE
+msgctxt "ACTIONS.ATTACK.SMASHABLE"
+msgid "Smash"
+msgstr "強打する"
+
+#. ACTIONS.ATTACK.WHACK
+msgctxt "ACTIONS.ATTACK.WHACK"
+msgid "Whack"
+msgstr "殴る"
+
+#. ACTIONS.ATTUNE
+msgctxt "ACTIONS.ATTUNE"
+msgid "Attune"
+msgstr "血を捧げる"
+
+#. ACTIONS.BAIT
+msgctxt "ACTIONS.BAIT"
+msgid "Bait"
+msgstr "餌をつける"
+
+#. ACTIONS.BATHBOMB
+msgctxt "ACTIONS.BATHBOMB"
+msgid "Toss In"
+msgstr "放り込む"
+
+#. ACTIONS.BEDAZZLE
+msgctxt "ACTIONS.BEDAZZLE"
+msgid "Decorate"
+msgstr "装飾する"
+
+#. ACTIONS.BEGIN_QUEST
+msgctxt "ACTIONS.BEGIN_QUEST"
+msgid "Assist"
+msgstr "アシスト"
+
+#. ACTIONS.BLINK.GENERIC
+msgctxt "ACTIONS.BLINK.GENERIC"
+msgid "Telepoof"
+msgstr "テレプーフ"
+
+#. ACTIONS.BLINK.SOUL
+msgctxt "ACTIONS.BLINK.SOUL"
+msgid "Soul Hop"
+msgstr "ソウル・ホップ"
+
+#. ACTIONS.BRUSH
+msgctxt "ACTIONS.BRUSH"
+msgid "Brush"
+msgstr "ブラシをかける"
+
+#. ACTIONS.BUILD
+msgctxt "ACTIONS.BUILD"
+msgid "Build"
+msgstr "建設する"
+
+#. ACTIONS.BUNDLE
+msgctxt "ACTIONS.BUNDLE"
+msgid "Use"
+msgstr "使う"
+
+#. ACTIONS.BUNDLESTORE.CONSTRUCT
+msgctxt "ACTIONS.BUNDLESTORE.CONSTRUCT"
+msgid "Add Material"
+msgstr "素材を追加する"
+
+#. ACTIONS.BUNDLESTORE.GENERIC
+msgctxt "ACTIONS.BUNDLESTORE.GENERIC"
+msgid "Store"
+msgstr "貯蔵する"
+
+#. ACTIONS.BURY
+msgctxt "ACTIONS.BURY"
+msgid "Bury"
+msgstr "埋める"
+
+#. ACTIONS.CARNIVALGAME_FEED
+msgctxt "ACTIONS.CARNIVALGAME_FEED"
+msgid "Feed"
+msgstr "エサをやる"
+
+#. ACTIONS.CASTAOE.BLOWDART_LAVA
+msgctxt "ACTIONS.CASTAOE.BLOWDART_LAVA"
+msgid "Barrage"
+msgstr "集中砲火"
+
+#. ACTIONS.CASTAOE.BLOWDART_LAVA2
+msgctxt "ACTIONS.CASTAOE.BLOWDART_LAVA2"
+msgid "Molten Bolt"
+msgstr "灼熱の矢"
+
+#. ACTIONS.CASTAOE.BOOK_ELEMENTAL
+msgctxt "ACTIONS.CASTAOE.BOOK_ELEMENTAL"
+msgid "Summon Magma Golem"
+msgstr "マグマゴーレムを召喚する"
+
+#. ACTIONS.CASTAOE.BOOK_FOSSIL
+msgctxt "ACTIONS.CASTAOE.BOOK_FOSSIL"
+msgid "Petrify"
+msgstr "石化"
+
+#. ACTIONS.CASTAOE.FIREBALLSTAFF
+msgctxt "ACTIONS.CASTAOE.FIREBALLSTAFF"
+msgid "Call Cataclysm"
+msgstr "天変地異を引き起こす"
+
+#. ACTIONS.CASTAOE.GENERIC
+msgctxt "ACTIONS.CASTAOE.GENERIC"
+msgid "Cast Spell"
+msgstr "呪文をかける"
+
+#. ACTIONS.CASTAOE.HAMMER_MJOLNIR
+msgctxt "ACTIONS.CASTAOE.HAMMER_MJOLNIR"
+msgid "Anvil Strike"
+msgstr "鉄槌の一撃"
+
+#. ACTIONS.CASTAOE.HEALINGSTAFF
+msgctxt "ACTIONS.CASTAOE.HEALINGSTAFF"
+msgid "Cast Life Blossom"
+msgstr "命の花の呪文をかける"
+
+#. ACTIONS.CASTAOE.LAVAARENA_FIREBOMB
+msgctxt "ACTIONS.CASTAOE.LAVAARENA_FIREBOMB"
+msgid "Hearthsfire Bomb"
+msgstr "ハースファイア・ボム"
+
+#. ACTIONS.CASTAOE.LAVAARENA_HEAVYBLADE
+msgctxt "ACTIONS.CASTAOE.LAVAARENA_HEAVYBLADE"
+msgid "Parry"
+msgstr "パリー"
+
+#. ACTIONS.CASTAOE.LAVAARENA_LUCY
+msgctxt "ACTIONS.CASTAOE.LAVAARENA_LUCY"
+msgid "Chuck Lucy"
+msgstr "チャック・ルーシー"
+
+#. ACTIONS.CASTAOE.SPEAR_GUNGNIR
+msgctxt "ACTIONS.CASTAOE.SPEAR_GUNGNIR"
+msgid "Pyre Poker"
+msgstr "パイル・ポーカー"
+
+#. ACTIONS.CASTAOE.SPEAR_LANCE
+msgctxt "ACTIONS.CASTAOE.SPEAR_LANCE"
+msgid "Sky Lunge"
+msgstr "スカイ・ランジ"
+
+#. ACTIONS.CASTSPELL.GENERIC
+msgctxt "ACTIONS.CASTSPELL.GENERIC"
+msgid "Cast Spell"
+msgstr "魔法をかける"
+
+#. ACTIONS.CASTSPELL.MUSIC
+msgctxt "ACTIONS.CASTSPELL.MUSIC"
+msgid "Play"
+msgstr "再生する"
+
+#. ACTIONS.CASTSPELL.RESKIN
+msgctxt "ACTIONS.CASTSPELL.RESKIN"
+msgid "Sweep"
+msgstr "掃く"
+
+#. ACTIONS.CASTSPELL.SCIENCE
+msgctxt "ACTIONS.CASTSPELL.SCIENCE"
+msgid "Use Gadget"
+msgstr "珍道具を使う"
+
+#. ACTIONS.CASTSUMMON
+msgctxt "ACTIONS.CASTSUMMON"
+msgid "Summon"
+msgstr "召喚する"
+
+#. ACTIONS.CASTUNSUMMON
+msgctxt "ACTIONS.CASTUNSUMMON"
+msgid "Return"
+msgstr "戻る"
+
+#. ACTIONS.CAST_NET
+msgctxt "ACTIONS.CAST_NET"
+msgid "Cast Net"
+msgstr "網を投げる"
+
+#. ACTIONS.CAST_POCKETWATCH.GENERIC
+msgctxt "ACTIONS.CAST_POCKETWATCH.GENERIC"
+msgid "Activate"
+msgstr "起動する"
+
+#. ACTIONS.CAST_POCKETWATCH.RECALL_MARK
+msgctxt "ACTIONS.CAST_POCKETWATCH.RECALL_MARK"
+msgid "Set Time In Space"
+msgstr "この場所で時間を設定する"
+
+#. ACTIONS.CAST_POCKETWATCH.REVIVER
+msgctxt "ACTIONS.CAST_POCKETWATCH.REVIVER"
+msgid "Revive"
+msgstr "蘇生する"
+
+#. ACTIONS.CATCH
+msgctxt "ACTIONS.CATCH"
+msgid "Catch"
+msgstr "捕獲する"
+
+#. ACTIONS.CHANGEIN.DRESSUP
+msgctxt "ACTIONS.CHANGEIN.DRESSUP"
+msgid "Dress Up"
+msgstr "ドレスアップ"
+
+#. ACTIONS.CHANGEIN.GENERIC
+msgctxt "ACTIONS.CHANGEIN.GENERIC"
+msgid "Use"
+msgstr "使う"
+
+#. ACTIONS.CHANGE_TACKLE.AMMO
+msgctxt "ACTIONS.CHANGE_TACKLE.AMMO"
+msgid "Set Ammo"
+msgstr "弾を込める"
+
+#. ACTIONS.CHANGE_TACKLE.GENERIC
+msgctxt "ACTIONS.CHANGE_TACKLE.GENERIC"
+msgid "Attach Tackle"
+msgstr "索具をつける"
+
+#. ACTIONS.CHANGE_TACKLE.REMOVE
+msgctxt "ACTIONS.CHANGE_TACKLE.REMOVE"
+msgid "Remove"
+msgstr "外す"
+
+#. ACTIONS.CHARGE_FROM
+msgctxt "ACTIONS.CHARGE_FROM"
+msgid "Charge At"
+msgstr "充電する"
+
+#. ACTIONS.CHECKTRAP
+msgctxt "ACTIONS.CHECKTRAP"
+msgid "Check"
+msgstr "チェック"
+
+#. ACTIONS.CHOP
+msgctxt "ACTIONS.CHOP"
+msgid "Chop"
+msgstr "切る"
+
+#. ACTIONS.COMBINESTACK
+msgctxt "ACTIONS.COMBINESTACK"
+msgid "Combine Stack"
+msgstr "スタックをまとめる"
+
+#. ACTIONS.COMMUNEWITHSUMMONED.MAKE_AGGRESSIVE
+msgctxt "ACTIONS.COMMUNEWITHSUMMONED.MAKE_AGGRESSIVE"
+msgid "Rile Up"
+msgstr "挑発する"
+
+#. ACTIONS.COMMUNEWITHSUMMONED.MAKE_DEFENSIVE
+msgctxt "ACTIONS.COMMUNEWITHSUMMONED.MAKE_DEFENSIVE"
+msgid "Soothe"
+msgstr "落ち着かせる"
+
+#. ACTIONS.COMPARE_WEIGHABLE
+msgctxt "ACTIONS.COMPARE_WEIGHABLE"
+msgid "Give"
+msgstr "渡す"
+
+#. ACTIONS.CONSTRUCT.GENERIC
+msgctxt "ACTIONS.CONSTRUCT.GENERIC"
+msgid "Build"
+msgstr "建設する"
+
+#. ACTIONS.CONSTRUCT.GENERIC_FMT
+msgctxt "ACTIONS.CONSTRUCT.GENERIC_FMT"
+msgid "Build {name}"
+msgstr "{name}を作る"
+
+#. ACTIONS.CONSTRUCT.STORE
+msgctxt "ACTIONS.CONSTRUCT.STORE"
+msgid "Add Material"
+msgstr "素材を追加する"
+
+#. ACTIONS.COOK
+msgctxt "ACTIONS.COOK"
+msgid "Cook"
+msgstr "料理する"
+
+#. ACTIONS.CRAFT
+msgctxt "ACTIONS.CRAFT"
+msgid "Craft"
+msgstr "クラフトする"
+
+#. ACTIONS.CYCLE.GENERIC
+msgctxt "ACTIONS.CYCLE.GENERIC"
+msgid "Cycle"
+msgstr "次を表示する"
+
+#. ACTIONS.CYCLE.TUNE
+msgctxt "ACTIONS.CYCLE.TUNE"
+msgid "Hit"
+msgstr "鳴らす"
+
+#. ACTIONS.DANCE
+msgctxt "ACTIONS.DANCE"
+msgid "Dance"
+msgstr "踊る"
+
+#. ACTIONS.DECORATEVASE
+msgctxt "ACTIONS.DECORATEVASE"
+msgid "Decorate"
+msgstr "装飾する"
+
+#. ACTIONS.DEPLOY.DEPLOY
+msgctxt "ACTIONS.DEPLOY.DEPLOY"
+msgid "Deploy"
+msgstr "配置する"
+
+#. ACTIONS.DEPLOY.FENCE
+msgctxt "ACTIONS.DEPLOY.FENCE"
+msgid "Build Fence"
+msgstr "フェンスを作る"
+
+#. ACTIONS.DEPLOY.FERTILIZE_GROUND
+msgctxt "ACTIONS.DEPLOY.FERTILIZE_GROUND"
+msgid "Fertilize Plot"
+msgstr "区画に肥料をやる"
+
+#. ACTIONS.DEPLOY.GATE
+msgctxt "ACTIONS.DEPLOY.GATE"
+msgid "Build Gate"
+msgstr "門を作る"
+
+#. ACTIONS.DEPLOY.GENERIC
+msgctxt "ACTIONS.DEPLOY.GENERIC"
+msgid "Plant"
+msgstr "植える"
+
+#. ACTIONS.DEPLOY.GROUNDTILE
+msgctxt "ACTIONS.DEPLOY.GROUNDTILE"
+msgid "Place Ground"
+msgstr "地面を置く"
+
+#. ACTIONS.DEPLOY.PORTABLE
+msgctxt "ACTIONS.DEPLOY.PORTABLE"
+msgid "Place"
+msgstr "置く"
+
+#. ACTIONS.DEPLOY.TURRET
+msgctxt "ACTIONS.DEPLOY.TURRET"
+msgid "Place"
+msgstr "置く"
+
+#. ACTIONS.DEPLOY.WALL
+msgctxt "ACTIONS.DEPLOY.WALL"
+msgid "Build Wall"
+msgstr "塀を作る"
+
+#. ACTIONS.DEPLOY.WATER
+msgctxt "ACTIONS.DEPLOY.WATER"
+msgid "Launch"
+msgstr "浮かべる"
+
+#. ACTIONS.DIG
+msgctxt "ACTIONS.DIG"
+msgid "Dig"
+msgstr "掘る"
+
+#. ACTIONS.DISMANTLE
+msgctxt "ACTIONS.DISMANTLE"
+msgid "Dismantle"
+msgstr "分解する"
+
+#. ACTIONS.DISMANTLE_POCKETWATCH
+msgctxt "ACTIONS.DISMANTLE_POCKETWATCH"
+msgid "Take Apart"
+msgstr "ばらばらにする"
+
+#. ACTIONS.DISMOUNT
+msgctxt "ACTIONS.DISMOUNT"
+msgid "Dismount"
+msgstr "降りる"
+
+#. ACTIONS.DISMOUNT_PLANK
+msgctxt "ACTIONS.DISMOUNT_PLANK"
+msgid "Dismount"
+msgstr "降りる"
+
+#. ACTIONS.DRAW
+msgctxt "ACTIONS.DRAW"
+msgid "Draw On"
+msgstr "履く"
+
+#. ACTIONS.DRAWITEM
+msgctxt "ACTIONS.DRAWITEM"
+msgid "Draw {item}"
+msgstr "{item}を引っ張る"
+
+#. ACTIONS.DROP.FREESOUL
+msgctxt "ACTIONS.DROP.FREESOUL"
+msgid "Release Soul"
+msgstr "ソウルを開放する"
+
+#. ACTIONS.DROP.GENERIC
+msgctxt "ACTIONS.DROP.GENERIC"
+msgid "Drop"
+msgstr "落とす"
+
+#. ACTIONS.DROP.PLACELANTERN
+msgctxt "ACTIONS.DROP.PLACELANTERN"
+msgid "Place"
+msgstr "置く"
+
+#. ACTIONS.DROP.SETMINE
+msgctxt "ACTIONS.DROP.SETMINE"
+msgid "Set Mine"
+msgstr "地雷をセット"
+
+#. ACTIONS.DROP.SETTRAP
+msgctxt "ACTIONS.DROP.SETTRAP"
+msgid "Set Trap"
+msgstr "わなを仕掛ける"
+
+#. ACTIONS.DROP.YOTC_ENTERRACE
+msgctxt "ACTIONS.DROP.YOTC_ENTERRACE"
+msgid "Enter Race"
+msgstr "レースにエントリーする"
+
+#. ACTIONS.DRY
+msgctxt "ACTIONS.DRY"
+msgid "Dry"
+msgstr "乾いてる"
+
+#. ACTIONS.EAT
+msgctxt "ACTIONS.EAT"
+msgid "Eat"
+msgstr "食べる"
+
+#. ACTIONS.ENTER_GYM
+msgctxt "ACTIONS.ENTER_GYM"
+msgid "Enter"
+msgstr "入る"
+
+#. ACTIONS.EQUIP
+msgctxt "ACTIONS.EQUIP"
+msgid "Equip"
+msgstr "装備する"
+
+#. ACTIONS.EXTEND_PLANK
+msgctxt "ACTIONS.EXTEND_PLANK"
+msgid "Extend"
+msgstr "伸ばす"
+
+#. ACTIONS.EXTINGUISH
+msgctxt "ACTIONS.EXTINGUISH"
+msgid "Extinguish"
+msgstr "消火する"
+
+#. ACTIONS.FAN
+msgctxt "ACTIONS.FAN"
+msgid "Fan"
+msgstr "あおぐ"
+
+#. ACTIONS.FEED
+msgctxt "ACTIONS.FEED"
+msgid "Feed"
+msgstr "エサをやる"
+
+#. ACTIONS.FEEDPLAYER
+msgctxt "ACTIONS.FEEDPLAYER"
+msgid "Feed"
+msgstr "食べさせる"
+
+#. ACTIONS.FERTILIZE
+msgctxt "ACTIONS.FERTILIZE"
+msgid "Fertilize"
+msgstr "肥料をやる"
+
+#. ACTIONS.FILL
+msgctxt "ACTIONS.FILL"
+msgid "Fill"
+msgstr "水を入れる"
+
+#. ACTIONS.FISH
+msgctxt "ACTIONS.FISH"
+msgid "Fish"
+msgstr "釣る"
+
+#. ACTIONS.FISH_OCEAN
+msgctxt "ACTIONS.FISH_OCEAN"
+msgid "Fish"
+msgstr "釣る"
+
+#. ACTIONS.GIVE.APPLY
+msgctxt "ACTIONS.GIVE.APPLY"
+msgid "Apply {item}"
+msgstr "{item}を使う"
+
+#. ACTIONS.GIVE.CELESTIAL
+msgctxt "ACTIONS.GIVE.CELESTIAL"
+msgid "Offer"
+msgstr "捧げる"
+
+#. ACTIONS.GIVE.GENERIC
+msgctxt "ACTIONS.GIVE.GENERIC"
+msgid "Give"
+msgstr "与える"
+
+#. ACTIONS.GIVE.NOTREADY
+msgctxt "ACTIONS.GIVE.NOTREADY"
+msgid "Place"
+msgstr "置く"
+
+#. ACTIONS.GIVE.PLACE_ITEM
+msgctxt "ACTIONS.GIVE.PLACE_ITEM"
+msgid "Place {item}"
+msgstr "{item}を置く"
+
+#. ACTIONS.GIVE.QUAGMIRE_ALTAR.BOWL
+msgctxt "ACTIONS.GIVE.QUAGMIRE_ALTAR.BOWL"
+msgid "Snackrifice Bowl of {food}"
+msgstr "{food}の奉納ボウル"
+
+#. ACTIONS.GIVE.QUAGMIRE_ALTAR.GENERIC
+msgctxt "ACTIONS.GIVE.QUAGMIRE_ALTAR.GENERIC"
+msgid "Snackrifice {food}"
+msgstr "{food}を捧げる"
+
+#. ACTIONS.GIVE.QUAGMIRE_ALTAR.PLATE
+msgctxt "ACTIONS.GIVE.QUAGMIRE_ALTAR.PLATE"
+msgid "Snackrifice Plate of {food}"
+msgstr "{food}の奉納皿"
+
+#. ACTIONS.GIVE.QUAGMIRE_OVEN
+msgctxt "ACTIONS.GIVE.QUAGMIRE_OVEN"
+msgid "Place {item}"
+msgstr "{item}を置く"
+
+#. ACTIONS.GIVE.QUAGMIRE_POT_HANGER
+msgctxt "ACTIONS.GIVE.QUAGMIRE_POT_HANGER"
+msgid "Hang {item}"
+msgstr "{item}を吊る"
+
+#. ACTIONS.GIVE.READY
+msgctxt "ACTIONS.GIVE.READY"
+msgid "Sacrifice"
+msgstr "犠牲にする"
+
+#. ACTIONS.GIVE.SOCKET
+msgctxt "ACTIONS.GIVE.SOCKET"
+msgid "Socket"
+msgstr "ソケット"
+
+#. ACTIONS.GIVEALLTOPLAYER
+msgctxt "ACTIONS.GIVEALLTOPLAYER"
+msgid "Give All"
+msgstr "全部渡す"
+
+#. ACTIONS.GIVETOPLAYER
+msgctxt "ACTIONS.GIVETOPLAYER"
+msgid "Give"
+msgstr "渡す"
+
+#. ACTIONS.GIVE_TACKLESKETCH
+msgctxt "ACTIONS.GIVE_TACKLESKETCH"
+msgid "Give"
+msgstr "渡す"
+
+#. ACTIONS.GNAW
+msgctxt "ACTIONS.GNAW"
+msgid "Gnaw"
+msgstr "ガリガリかじる"
+
+#. ACTIONS.GOHOME
+msgctxt "ACTIONS.GOHOME"
+msgid "Go Home"
+msgstr "家に帰る"
+
+#. ACTIONS.HALLOWEENMOONMUTATE
+msgctxt "ACTIONS.HALLOWEENMOONMUTATE"
+msgid "Mutate"
+msgstr "突然変異"
+
+#. ACTIONS.HAMMER
+msgctxt "ACTIONS.HAMMER"
+msgid "Hammer"
+msgstr "ハンマー"
+
+#. ACTIONS.HARVEST
+msgctxt "ACTIONS.HARVEST"
+msgid "Harvest"
+msgstr "収穫する"
+
+#. ACTIONS.HARVEST_TREE
+msgctxt "ACTIONS.HARVEST_TREE"
+msgid "Harvest"
+msgstr "収穫する"
+
+#. ACTIONS.HAUNT
+msgctxt "ACTIONS.HAUNT"
+msgid "Haunt"
+msgstr "取り憑く"
+
+#. ACTIONS.HEAL.GENERIC
+msgctxt "ACTIONS.HEAL.GENERIC"
+msgid "Heal"
+msgstr "癒やす"
+
+#. ACTIONS.HEAL.SELF
+msgctxt "ACTIONS.HEAL.SELF"
+msgid "Heal Self"
+msgstr "自己回復"
+
+#. ACTIONS.HERD_FOLLOWERS
+msgctxt "ACTIONS.HERD_FOLLOWERS"
+msgid "Herd Spiders"
+msgstr "群衆クモ"
+
+#. ACTIONS.HIDEANSEEK_FIND
+msgctxt "ACTIONS.HIDEANSEEK_FIND"
+msgid "Investigate"
+msgstr "調査する"
+
+#. ACTIONS.HITCHUP
+msgctxt "ACTIONS.HITCHUP"
+msgid "Hitch to"
+msgstr "つなぐ"
+
+#. ACTIONS.INSTALL
+msgctxt "ACTIONS.INSTALL"
+msgid "Install"
+msgstr "インストール"
+
+#. ACTIONS.INTERACT_WITH.FARM_PLANT
+msgctxt "ACTIONS.INTERACT_WITH.FARM_PLANT"
+msgid "Talk To"
+msgstr "話しかける"
+
+#. ACTIONS.INTERACT_WITH.GENERIC
+msgctxt "ACTIONS.INTERACT_WITH.GENERIC"
+msgid "Use"
+msgstr "使う"
+
+#. ACTIONS.JUMPIN.GENERIC
+msgctxt "ACTIONS.JUMPIN.GENERIC"
+msgid "Jump In"
+msgstr "飛び込む"
+
+#. ACTIONS.JUMPIN.HAUNT
+msgctxt "ACTIONS.JUMPIN.HAUNT"
+msgid "Haunt"
+msgstr "取り憑く"
+
+#. ACTIONS.LEAVE_GYM
+msgctxt "ACTIONS.LEAVE_GYM"
+msgid "Stop"
+msgstr "やめる"
+
+#. ACTIONS.LIFT_DUMBBELL
+msgctxt "ACTIONS.LIFT_DUMBBELL"
+msgid "Lift"
+msgstr "持ち上げる"
+
+#. ACTIONS.LIFT_GYM
+msgctxt "ACTIONS.LIFT_GYM"
+msgid "Lift"
+msgstr "持ち上げる"
+
+#. ACTIONS.LIFT_GYM_FAIL
+msgctxt "ACTIONS.LIFT_GYM_FAIL"
+msgid "Lift"
+msgstr "持ち上げる"
+
+#. ACTIONS.LIFT_GYM_SUCCEED
+msgctxt "ACTIONS.LIFT_GYM_SUCCEED"
+msgid "Lift"
+msgstr "持ち上げる"
+
+#. ACTIONS.LIFT_GYM_SUCCEED_PERFECT
+msgctxt "ACTIONS.LIFT_GYM_SUCCEED_PERFECT"
+msgid "Lift"
+msgstr "持ち上げる"
+
+#. ACTIONS.LIGHT
+msgctxt "ACTIONS.LIGHT"
+msgid "Light"
+msgstr "明かりをつける"
+
+#. ACTIONS.LOOKAT
+msgctxt "ACTIONS.LOOKAT"
+msgid "Examine"
+msgstr "調べる"
+
+#. ACTIONS.LOWER_ANCHOR
+msgctxt "ACTIONS.LOWER_ANCHOR"
+msgid "Lower"
+msgstr "降ろす"
+
+#. ACTIONS.LOWER_SAIL
+msgctxt "ACTIONS.LOWER_SAIL"
+msgid "Hoist Sail"
+msgstr "帆を張る"
+
+#. ACTIONS.LOWER_SAIL_BOOST.1
+msgctxt "ACTIONS.LOWER_SAIL_BOOST.1"
+msgid "Heave!"
+msgstr "錨を上げろ！"
+
+#. ACTIONS.LOWER_SAIL_BOOST.2
+msgctxt "ACTIONS.LOWER_SAIL_BOOST.2"
+msgid "Ho!"
+msgstr "よっと！"
+
+#. ACTIONS.MAKEBALLOON
+msgctxt "ACTIONS.MAKEBALLOON"
+msgid "Inflate"
+msgstr "ふくらます"
+
+#. ACTIONS.MANUALEXTINGUISH
+msgctxt "ACTIONS.MANUALEXTINGUISH"
+msgid "Extinguish"
+msgstr "火を消す"
+
+#. ACTIONS.MARK.GENERIC
+msgctxt "ACTIONS.MARK.GENERIC"
+msgid "Choose This Beefalo"
+msgstr "このビーファロを選ぶ"
+
+#. ACTIONS.MARK.UNMARK
+msgctxt "ACTIONS.MARK.UNMARK"
+msgid "Take Back"
+msgstr "取り消す"
+
+#. ACTIONS.MIGRATE
+msgctxt "ACTIONS.MIGRATE"
+msgid "Travel via"
+msgstr "から移動"
+
+#. ACTIONS.MINE
+msgctxt "ACTIONS.MINE"
+msgid "Mine"
+msgstr "掘り出す"
+
+#. ACTIONS.MIX
+msgctxt "ACTIONS.MIX"
+msgid "Mix"
+msgstr "混ぜる"
+
+#. ACTIONS.MOUNT
+msgctxt "ACTIONS.MOUNT"
+msgid "Mount"
+msgstr "乗る"
+
+#. ACTIONS.MOUNT_PLANK
+msgctxt "ACTIONS.MOUNT_PLANK"
+msgid "Mount"
+msgstr "乗る"
+
+#. ACTIONS.MURDER
+msgctxt "ACTIONS.MURDER"
+msgid "Murder"
+msgstr "殺害する"
+
+#. ACTIONS.MUTATE_SPIDER
+msgctxt "ACTIONS.MUTATE_SPIDER"
+msgid "Feed"
+msgstr "エサをやる"
+
+#. ACTIONS.NET
+msgctxt "ACTIONS.NET"
+msgid "Catch"
+msgstr "捕獲する"
+
+#. ACTIONS.OCEAN_FISHING_CAST
+msgctxt "ACTIONS.OCEAN_FISHING_CAST"
+msgid "Cast"
+msgstr "投げ込む"
+
+#. ACTIONS.OCEAN_FISHING_CATCH
+msgctxt "ACTIONS.OCEAN_FISHING_CATCH"
+msgid "Catch"
+msgstr "捕獲する"
+
+#. ACTIONS.OCEAN_FISHING_POND
+msgctxt "ACTIONS.OCEAN_FISHING_POND"
+msgid "Cast"
+msgstr "投げ込む"
+
+#. ACTIONS.OCEAN_FISHING_REEL.GENERIC
+msgctxt "ACTIONS.OCEAN_FISHING_REEL.GENERIC"
+msgid "Reel"
+msgstr "リールを巻く"
+
+#. ACTIONS.OCEAN_FISHING_REEL.SETHOOK
+msgctxt "ACTIONS.OCEAN_FISHING_REEL.SETHOOK"
+msgid "Set Hook"
+msgstr "釣り針をつける"
+
+#. ACTIONS.OCEAN_FISHING_STOP
+msgctxt "ACTIONS.OCEAN_FISHING_STOP"
+msgid "Stop"
+msgstr "やめる"
+
+#. ACTIONS.OCEAN_TOSS
+msgctxt "ACTIONS.OCEAN_TOSS"
+msgid "Toss"
+msgstr "投げる"
+
+#. ACTIONS.OPEN_CRAFTING.CARTOGRAPHY
+msgctxt "ACTIONS.OPEN_CRAFTING.CARTOGRAPHY"
+msgid "Draw at"
+msgstr "描く"
+
+#. ACTIONS.OPEN_CRAFTING.COOKING
+msgctxt "ACTIONS.OPEN_CRAFTING.COOKING"
+msgid "Cook with"
+msgstr "料理する"
+
+#. ACTIONS.OPEN_CRAFTING.CRITTERS
+msgctxt "ACTIONS.OPEN_CRAFTING.CRITTERS"
+msgid "Look in"
+msgstr "のぞく"
+
+#. ACTIONS.OPEN_CRAFTING.EXPERIEMENT
+msgctxt "ACTIONS.OPEN_CRAFTING.EXPERIEMENT"
+msgid "Brew with"
+msgstr "調合する"
+
+#. ACTIONS.OPEN_CRAFTING.GENERIC
+msgctxt "ACTIONS.OPEN_CRAFTING.GENERIC"
+msgid "Research at"
+msgstr "リサーチする"
+
+#. ACTIONS.OPEN_CRAFTING.OFFERING
+msgctxt "ACTIONS.OPEN_CRAFTING.OFFERING"
+msgid "Make offering at"
+msgstr "捧げものをする"
+
+#. ACTIONS.OPEN_CRAFTING.READ
+msgctxt "ACTIONS.OPEN_CRAFTING.READ"
+msgid "Read"
+msgstr "読む"
+
+#. ACTIONS.OPEN_CRAFTING.SCULPTING
+msgctxt "ACTIONS.OPEN_CRAFTING.SCULPTING"
+msgid "Sculpt at"
+msgstr "彫る"
+
+#. ACTIONS.OPEN_CRAFTING.TRADE
+msgctxt "ACTIONS.OPEN_CRAFTING.TRADE"
+msgid "Trade with"
+msgstr "交換する"
+
+#. ACTIONS.OPEN_CRAFTING.USE
+msgctxt "ACTIONS.OPEN_CRAFTING.USE"
+msgid "Use"
+msgstr "使う"
+
+#. ACTIONS.PET
+msgctxt "ACTIONS.PET"
+msgid "Pet"
+msgstr "なでる"
+
+#. ACTIONS.PICK.GENERIC
+msgctxt "ACTIONS.PICK.GENERIC"
+msgid "Pick"
+msgstr "取る"
+
+#. ACTIONS.PICK.HARVEST
+msgctxt "ACTIONS.PICK.HARVEST"
+msgid "Harvest"
+msgstr "収穫する"
+
+#. ACTIONS.PICKUP.GENERIC
+msgctxt "ACTIONS.PICKUP.GENERIC"
+msgid "Pick up"
+msgstr "拾う"
+
+#. ACTIONS.PICKUP.HEAVY
+msgctxt "ACTIONS.PICKUP.HEAVY"
+msgid "Carry"
+msgstr "運ぶ"
+
+#. ACTIONS.PLANT.GENERIC
+msgctxt "ACTIONS.PLANT.GENERIC"
+msgid "Plant"
+msgstr "植える"
+
+#. ACTIONS.PLANT.PLANTER
+msgctxt "ACTIONS.PLANT.PLANTER"
+msgid "Put"
+msgstr "置く"
+
+#. ACTIONS.PLANTREGISTRY_RESEARCH
+msgctxt "ACTIONS.PLANTREGISTRY_RESEARCH"
+msgid "Research"
+msgstr "リサーチする"
+
+#. ACTIONS.PLANTREGISTRY_RESEARCH_FAIL
+msgctxt "ACTIONS.PLANTREGISTRY_RESEARCH_FAIL"
+msgid "Research"
+msgstr "リサーチする"
+
+#. ACTIONS.PLANTSOIL
+msgctxt "ACTIONS.PLANTSOIL"
+msgid "Plant"
+msgstr "植える"
+
+#. ACTIONS.PLAY
+msgctxt "ACTIONS.PLAY"
+msgid "Play"
+msgstr "遊ぶ"
+
+#. ACTIONS.POLLINATE
+msgctxt "ACTIONS.POLLINATE"
+msgid "Pollinate"
+msgstr "授粉する"
+
+#. ACTIONS.POUR_WATER.EXTINGUISH
+msgctxt "ACTIONS.POUR_WATER.EXTINGUISH"
+msgid "Extinguish"
+msgstr "消火する"
+
+#. ACTIONS.POUR_WATER.GENERIC
+msgctxt "ACTIONS.POUR_WATER.GENERIC"
+msgid "Water"
+msgstr "水をやる"
+
+#. ACTIONS.QUOTE
+msgctxt "ACTIONS.QUOTE"
+msgid "Recite"
+msgstr "朗読する"
+
+#. ACTIONS.RAISE_ANCHOR
+msgctxt "ACTIONS.RAISE_ANCHOR"
+msgid "Raise"
+msgstr "上げる"
+
+#. ACTIONS.RAISE_SAIL
+msgctxt "ACTIONS.RAISE_SAIL"
+msgid "Release Sail"
+msgstr "帆を下ろす"
+
+#. ACTIONS.READ
+msgctxt "ACTIONS.READ"
+msgid "Read"
+msgstr "読む"
+
+#. ACTIONS.REEL.CANCEL
+msgctxt "ACTIONS.REEL.CANCEL"
+msgid "Stop Fishing"
+msgstr "魚釣りをやめる"
+
+#. ACTIONS.REEL.GENERIC
+msgctxt "ACTIONS.REEL.GENERIC"
+msgid "Hook"
+msgstr "フック"
+
+#. ACTIONS.REEL.REEL
+msgctxt "ACTIONS.REEL.REEL"
+msgid "Reel In"
+msgstr "リールを巻く"
+
+#. ACTIONS.REMOTERESURRECT
+msgctxt "ACTIONS.REMOTERESURRECT"
+msgid "Resurrect"
+msgstr "復活させる"
+
+#. ACTIONS.REMOVEMODULES
+msgctxt "ACTIONS.REMOVEMODULES"
+msgid "Unplug"
+msgstr "抜く"
+
+#. ACTIONS.REPAIR.GENERIC
+msgctxt "ACTIONS.REPAIR.GENERIC"
+msgid "Repair"
+msgstr "修理する"
+
+#. ACTIONS.REPAIR.SOCKET
+msgctxt "ACTIONS.REPAIR.SOCKET"
+msgid "Socket"
+msgstr "ソケット"
+
+#. ACTIONS.REPAIR_LEAK
+msgctxt "ACTIONS.REPAIR_LEAK"
+msgid "Repair Leak"
+msgstr "水漏れを修理する"
+
+#. ACTIONS.REPEL
+msgctxt "ACTIONS.REPEL"
+msgid "Shoo Spiders"
+msgstr "クモを追い払う"
+
+#. ACTIONS.REPLATE.FMT
+msgctxt "ACTIONS.REPLATE.FMT"
+msgid "Change {dish}"
+msgstr "{dish}を変える"
+
+#. ACTIONS.REPLATE.GENERIC
+msgctxt "ACTIONS.REPLATE.GENERIC"
+msgid "Change Plating"
+msgstr "プレートを変える"
+
+#. ACTIONS.RESEARCH
+msgctxt "ACTIONS.RESEARCH"
+msgid "Research"
+msgstr "調査する"
+
+#. ACTIONS.RESETMINE
+msgctxt "ACTIONS.RESETMINE"
+msgid "Reset"
+msgstr "リセット"
+
+#. ACTIONS.RETRACT_PLANK
+msgctxt "ACTIONS.RETRACT_PLANK"
+msgid "Retract"
+msgstr "しまう"
+
+#. ACTIONS.RETURN_FOLLOWER
+msgctxt "ACTIONS.RETURN_FOLLOWER"
+msgid "Send Home"
+msgstr "家に送る"
+
+#. ACTIONS.REVIVE_CORPSE
+msgctxt "ACTIONS.REVIVE_CORPSE"
+msgid "Revive"
+msgstr "蘇生する"
+
+#. ACTIONS.ROW
+msgctxt "ACTIONS.ROW"
+msgid "Row"
+msgstr "漕ぐ"
+
+#. ACTIONS.ROW_CONTROLLER
+msgctxt "ACTIONS.ROW_CONTROLLER"
+msgid "Row"
+msgstr "漕ぐ"
+
+#. ACTIONS.ROW_FAIL
+msgctxt "ACTIONS.ROW_FAIL"
+msgid "Row"
+msgstr "漕ぐ"
+
+#. ACTIONS.RUMMAGE.CLOSE
+msgctxt "ACTIONS.RUMMAGE.CLOSE"
+msgid "Close"
+msgstr "閉める"
+
+#. ACTIONS.RUMMAGE.DECORATE
+msgctxt "ACTIONS.RUMMAGE.DECORATE"
+msgid "Decorate"
+msgstr "装飾する"
+
+#. ACTIONS.RUMMAGE.GENERIC
+msgctxt "ACTIONS.RUMMAGE.GENERIC"
+msgid "Open"
+msgstr "開ける"
+
+#. ACTIONS.SADDLE
+msgctxt "ACTIONS.SADDLE"
+msgid "Saddle"
+msgstr "くらをつける"
+
+#. ACTIONS.SET_HEADING
+msgctxt "ACTIONS.SET_HEADING"
+msgid "Set Heading"
+msgstr "方向を決定する"
+
+#. ACTIONS.SEW.GENERIC
+msgctxt "ACTIONS.SEW.GENERIC"
+msgid "Sew"
+msgstr "縫う"
+
+#. ACTIONS.SEW.PATCH
+msgctxt "ACTIONS.SEW.PATCH"
+msgid "Patch"
+msgstr "地"
+
+#. ACTIONS.SHAVE.GENERIC
+msgctxt "ACTIONS.SHAVE.GENERIC"
+msgid "Shave"
+msgstr "ひげを剃る"
+
+#. ACTIONS.SHAVE.SELF
+msgctxt "ACTIONS.SHAVE.SELF"
+msgid "Shave Self"
+msgstr "自分の毛を剃る"
+
+#. ACTIONS.SING
+msgctxt "ACTIONS.SING"
+msgid "Sing"
+msgstr "歌う"
+
+#. ACTIONS.SLAUGHTER.BUTCHER
+msgctxt "ACTIONS.SLAUGHTER.BUTCHER"
+msgid "Politely Butcher"
+msgstr "礼儀正しく叩き殺す"
+
+#. ACTIONS.SLAUGHTER.DISEMBOWEL
+msgctxt "ACTIONS.SLAUGHTER.DISEMBOWEL"
+msgid "Gently Disembowel"
+msgstr "上品に内臓を引きずり出す"
+
+#. ACTIONS.SLAUGHTER.EVISCERATE
+msgctxt "ACTIONS.SLAUGHTER.EVISCERATE"
+msgid "Softly Eviscerate"
+msgstr "優しく腸を摘出する"
+
+#. ACTIONS.SLAUGHTER.KILL
+msgctxt "ACTIONS.SLAUGHTER.KILL"
+msgid "Delicately Kill"
+msgstr "そっと殺す"
+
+#. ACTIONS.SLAUGHTER.MURDER
+msgctxt "ACTIONS.SLAUGHTER.MURDER"
+msgid "Tastefully Murder"
+msgstr "趣味良く殺害する"
+
+#. ACTIONS.SLAUGHTER.SLAUGHTER
+msgctxt "ACTIONS.SLAUGHTER.SLAUGHTER"
+msgid "Gingerly Slaughter"
+msgstr "慎重に虐殺する"
+
+#. ACTIONS.SLEEPIN
+msgctxt "ACTIONS.SLEEPIN"
+msgid "Sleep"
+msgstr "眠る"
+
+#. ACTIONS.SMOTHER
+msgctxt "ACTIONS.SMOTHER"
+msgid "Extinguish"
+msgstr "消火する"
+
+#. ACTIONS.SPICE
+msgctxt "ACTIONS.SPICE"
+msgid "Season"
+msgstr "味をつける"
+
+#. ACTIONS.STARTCHANNELING.GENERIC
+msgctxt "ACTIONS.STARTCHANNELING.GENERIC"
+msgid "Touch"
+msgstr "触れる"
+
+#. ACTIONS.STARTCHANNELING.PUMP
+msgctxt "ACTIONS.STARTCHANNELING.PUMP"
+msgid "Pump"
+msgstr "ポンプを使う"
+
+#. ACTIONS.START_CARRAT_RACE
+msgctxt "ACTIONS.START_CARRAT_RACE"
+msgid "Start the Carrat Race"
+msgstr "キャラットレースを開始する"
+
+#. ACTIONS.STEER_BOAT
+msgctxt "ACTIONS.STEER_BOAT"
+msgid "Steer"
+msgstr "操縦する"
+
+#. ACTIONS.STOPCHANNELING
+msgctxt "ACTIONS.STOPCHANNELING"
+msgid "Stop Channeling"
+msgstr "チャネリング停止"
+
+#. ACTIONS.STOPCONSTRUCTION.GENERIC
+msgctxt "ACTIONS.STOPCONSTRUCTION.GENERIC"
+msgid "Stop Building"
+msgstr "建設を中止する"
+
+#. ACTIONS.STOPCONSTRUCTION.GENERIC_FMT
+msgctxt "ACTIONS.STOPCONSTRUCTION.GENERIC_FMT"
+msgid "Stop Building {name}"
+msgstr "{name}の建設を中止する"
+
+#. ACTIONS.STOPUSINGITEM.BEEF_BELL
+msgctxt "ACTIONS.STOPUSINGITEM.BEEF_BELL"
+msgid "Break Bond"
+msgstr "絆を壊す"
+
+#. ACTIONS.STOPUSINGITEM.GENERIC
+msgctxt "ACTIONS.STOPUSINGITEM.GENERIC"
+msgid "Stop"
+msgstr "やめる"
+
+#. ACTIONS.STOP_LIFT_DUMBBELL
+msgctxt "ACTIONS.STOP_LIFT_DUMBBELL"
+msgid "Stop Lifting"
+msgstr "下ろす"
+
+#. ACTIONS.STOP_STEERING_BOAT
+msgctxt "ACTIONS.STOP_STEERING_BOAT"
+msgid "Stop Steering"
+msgstr "操縦を中止する"
+
+#. ACTIONS.STORE.COOK
+msgctxt "ACTIONS.STORE.COOK"
+msgid "Cook"
+msgstr "料理する"
+
+#. ACTIONS.STORE.DECORATE
+msgctxt "ACTIONS.STORE.DECORATE"
+msgid "Decorate"
+msgstr "装飾する"
+
+#. ACTIONS.STORE.GENERIC
+msgctxt "ACTIONS.STORE.GENERIC"
+msgid "Store"
+msgstr "貯蔵する"
+
+#. ACTIONS.STORE.IMPRISON
+msgctxt "ACTIONS.STORE.IMPRISON"
+msgid "Imprison"
+msgstr "監禁する"
+
+#. ACTIONS.STORE.SPICE
+msgctxt "ACTIONS.STORE.SPICE"
+msgid "Season"
+msgstr "味をつける"
+
+#. ACTIONS.TACKLE
+msgctxt "ACTIONS.TACKLE"
+msgid "Charge"
+msgstr "突進する"
+
+#. ACTIONS.TAKEITEM.BIRDCAGE
+msgctxt "ACTIONS.TAKEITEM.BIRDCAGE"
+msgid "Muck Out"
+msgstr "そうじする"
+
+#. ACTIONS.TAKEITEM.GENERIC
+msgctxt "ACTIONS.TAKEITEM.GENERIC"
+msgid "Take Item"
+msgstr "取る"
+
+#. ACTIONS.TAKEITEM.ITEM
+msgctxt "ACTIONS.TAKEITEM.ITEM"
+msgid "Take {item}"
+msgstr "{item}を取る"
+
+#. ACTIONS.TALKTO
+msgctxt "ACTIONS.TALKTO"
+msgid "Talk to"
+msgstr "話しかける"
+
+#. ACTIONS.TAPTREE.GENERIC
+msgctxt "ACTIONS.TAPTREE.GENERIC"
+msgid "Tap"
+msgstr "タップ"
+
+#. ACTIONS.TAPTREE.UNTAP
+msgctxt "ACTIONS.TAPTREE.UNTAP"
+msgid "Untap"
+msgstr "タップ解除"
+
+#. ACTIONS.TEACH.GENERIC
+msgctxt "ACTIONS.TEACH.GENERIC"
+msgid "Learn"
+msgstr "学ぶ"
+
+#. ACTIONS.TEACH.READ
+msgctxt "ACTIONS.TEACH.READ"
+msgid "Read"
+msgstr "読む"
+
+#. ACTIONS.TELEPORT.GENERIC
+msgctxt "ACTIONS.TELEPORT.GENERIC"
+msgid "Use"
+msgstr "使う"
+
+#. ACTIONS.TELEPORT.TOWNPORTAL
+msgctxt "ACTIONS.TELEPORT.TOWNPORTAL"
+msgid "Touch"
+msgstr "触れる"
+
+#. ACTIONS.TELLSTORY
+msgctxt "ACTIONS.TELLSTORY"
+msgid "Tell Story"
+msgstr "話をする"
+
+#. ACTIONS.TERRAFORM
+msgctxt "ACTIONS.TERRAFORM"
+msgid "Dig"
+msgstr "掘る"
+
+#. ACTIONS.TILL
+msgctxt "ACTIONS.TILL"
+msgid "Till"
+msgstr "耕す"
+
+#. ACTIONS.TOGGLE_DEPLOY_MODE.DEPLOY
+msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.DEPLOY"
+msgid "Deploy"
+msgstr "配置する"
+
+#. ACTIONS.TOGGLE_DEPLOY_MODE.FENCE
+msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.FENCE"
+msgid "Build Fence"
+msgstr "フェンスを作る"
+
+#. ACTIONS.TOGGLE_DEPLOY_MODE.FERTILIZE_GROUND
+msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.FERTILIZE_GROUND"
+msgid "Fertilize Plot"
+msgstr "区画に肥料をやる"
+
+#. ACTIONS.TOGGLE_DEPLOY_MODE.GATE
+msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.GATE"
+msgid "Build Gate"
+msgstr "門を作る"
+
+#. ACTIONS.TOGGLE_DEPLOY_MODE.GENERIC
+msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.GENERIC"
+msgid "Plant"
+msgstr "植える"
+
+#. ACTIONS.TOGGLE_DEPLOY_MODE.GROUNDTILE
+msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.GROUNDTILE"
+msgid "Place Ground"
+msgstr "地面を置く"
+
+#. ACTIONS.TOGGLE_DEPLOY_MODE.PORTABLE
+msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.PORTABLE"
+msgid "Place"
+msgstr "置く"
+
+#. ACTIONS.TOGGLE_DEPLOY_MODE.TURRET
+msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.TURRET"
+msgid "Place"
+msgstr "置く"
+
+#. ACTIONS.TOGGLE_DEPLOY_MODE.WALL
+msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.WALL"
+msgid "Build Wall"
+msgstr "塀を作る"
+
+#. ACTIONS.TOGGLE_DEPLOY_MODE.WATER
+msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.WATER"
+msgid "Launch"
+msgstr "浮かべる"
+
+#. ACTIONS.TOSS
+msgctxt "ACTIONS.TOSS"
+msgid "Toss"
+msgstr "投げる"
+
+#. ACTIONS.TRAVEL
+msgctxt "ACTIONS.TRAVEL"
+msgid "Travel"
+msgstr "移動する"
+
+#. ACTIONS.TURNOFF.EMERGENCY
+msgctxt "ACTIONS.TURNOFF.EMERGENCY"
+msgid "Emergency Mode"
+msgstr "非常事態モード"
+
+#. ACTIONS.TURNOFF.GENERIC
+msgctxt "ACTIONS.TURNOFF.GENERIC"
+msgid "Turn Off"
+msgstr "消す"
+
+#. ACTIONS.TURNON
+msgctxt "ACTIONS.TURNON"
+msgid "Turn On"
+msgstr "つける"
+
+#. ACTIONS.UNEQUIP.GENERIC
+msgctxt "ACTIONS.UNEQUIP.GENERIC"
+msgid "Unequip"
+msgstr "装備を外す"
+
+#. ACTIONS.UNEQUIP.HEAVY
+msgctxt "ACTIONS.UNEQUIP.HEAVY"
+msgid "Drop"
+msgstr "落とす"
+
+#. ACTIONS.UNHITCH
+msgctxt "ACTIONS.UNHITCH"
+msgid "Unhitch from"
+msgstr "解放する"
+
+#. ACTIONS.UNLOAD_GYM
+msgctxt "ACTIONS.UNLOAD_GYM"
+msgid "Unload"
+msgstr "重りを外す"
+
+#. ACTIONS.UNLOAD_WINCH
+msgctxt "ACTIONS.UNLOAD_WINCH"
+msgid "Drop Overboard"
+msgstr "船の外に落とす"
+
+#. ACTIONS.UNLOCK.GENERIC
+msgctxt "ACTIONS.UNLOCK.GENERIC"
+msgid "Unlock"
+msgstr "アンロックする"
+
+#. ACTIONS.UNLOCK.LOCK
+msgctxt "ACTIONS.UNLOCK.LOCK"
+msgid "Lock"
+msgstr "ロックする"
+
+#. ACTIONS.UNPIN
+msgctxt "ACTIONS.UNPIN"
+msgid "Unstick"
+msgstr "解放する"
+
+#. ACTIONS.UNSADDLE
+msgctxt "ACTIONS.UNSADDLE"
+msgid "Unsaddle"
+msgstr "くらを外す"
+
+#. ACTIONS.UNWRAP
+msgctxt "ACTIONS.UNWRAP"
+msgid "Unwrap"
+msgstr "包みを開ける"
+
+#. ACTIONS.UPGRADE.GENERIC
+msgctxt "ACTIONS.UPGRADE.GENERIC"
+msgid "Upgrade"
+msgstr "アップグレード"
+
+#. ACTIONS.UPGRADE.WATERPLANT
+msgctxt "ACTIONS.UPGRADE.WATERPLANT"
+msgid "Plant"
+msgstr "植える"
+
+#. ACTIONS.USEDOOR.CLOSE
+msgctxt "ACTIONS.USEDOOR.CLOSE"
+msgid "Close"
+msgstr "閉める"
+
+#. ACTIONS.USEDOOR.OPEN
+msgctxt "ACTIONS.USEDOOR.OPEN"
+msgid "Open"
+msgstr "開ける"
+
+#. ACTIONS.USEITEM
+msgctxt "ACTIONS.USEITEM"
+msgid "Use"
+msgstr "使う"
+
+#. ACTIONS.USEITEMON.BEEF_BELL
+msgctxt "ACTIONS.USEITEMON.BEEF_BELL"
+msgid "Bond"
+msgstr "仲良くする"
+
+#. ACTIONS.USEITEMON.GENERIC
+msgctxt "ACTIONS.USEITEMON.GENERIC"
+msgid "Use On"
+msgstr "使う"
+
+#. ACTIONS.USEITEMON.KITCOON_NAMETAG
+msgctxt "ACTIONS.USEITEMON.KITCOON_NAMETAG"
+msgid "Name"
+msgstr "名付ける"
+
+#. ACTIONS.USEKLAUSSACKKEY
+msgctxt "ACTIONS.USEKLAUSSACKKEY"
+msgid "Unlock"
+msgstr "アンロックする"
+
+#. ACTIONS.USE_HEAVY_OBSTACLE.GENERIC
+msgctxt "ACTIONS.USE_HEAVY_OBSTACLE.GENERIC"
+msgid "Use"
+msgstr "使う"
+
+#. ACTIONS.USE_HEAVY_OBSTACLE.LOAD_GYM
+msgctxt "ACTIONS.USE_HEAVY_OBSTACLE.LOAD_GYM"
+msgid "Load Gym"
+msgstr "重りを付ける"
+
+#. ACTIONS.USE_HEAVY_OBSTACLE.LOAD_WINCH
+msgctxt "ACTIONS.USE_HEAVY_OBSTACLE.LOAD_WINCH"
+msgid "Load Winch"
+msgstr "ウィンチを載せる"
+
+#. ACTIONS.USE_WINCH
+msgctxt "ACTIONS.USE_WINCH"
+msgid "Drop"
+msgstr "落とす"
+
+#. ACTIONS.WALKTO
+msgctxt "ACTIONS.WALKTO"
+msgid "Walk To"
+msgstr "歩いて向かう"
+
+#. ACTIONS.WAX
+msgctxt "ACTIONS.WAX"
+msgid "Wax"
+msgstr "ワックスをかける"
+
+#. ACTIONS.WEIGH_ITEM
+msgctxt "ACTIONS.WEIGH_ITEM"
+msgid "Weigh"
+msgstr "重さを量る"
+
+#. ACTIONS.WINTERSFEAST_FEAST
+msgctxt "ACTIONS.WINTERSFEAST_FEAST"
+msgid "Feast"
+msgstr "満腹まで食べる"
+
+#. ACTIONS.WRAPBUNDLE
+msgctxt "ACTIONS.WRAPBUNDLE"
+msgid "Wrap"
+msgstr "包む"
+
+#. ACTIONS.WRITE
+msgctxt "ACTIONS.WRITE"
+msgid "Write On"
+msgstr "に書く"
+
+#. ACTIONS.YOTB_SEW
+msgctxt "ACTIONS.YOTB_SEW"
+msgid "Sew"
+msgstr "縫う"
+
+#. ACTIONS.YOTB_STARTCONTEST
+msgctxt "ACTIONS.YOTB_STARTCONTEST"
+msgid "Start the Contest"
+msgstr "コンテストを始める"
+
+#. ACTIONS.YOTB_UNLOCKSKIN
+msgctxt "ACTIONS.YOTB_UNLOCKSKIN"
+msgid "Learn Costume"
+msgstr "コスチュームを学ぶ"
+

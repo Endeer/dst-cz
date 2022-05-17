@@ -1,0 +1,185 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.BUILTINCOMMANDS.BAN.DESC
+msgctxt "UI.BUILTINCOMMANDS.BAN.DESC"
+msgid "Boot someone off the server. 'seconds' param makes the ban temporary."
+msgstr "将某人从服务器踢出。'seconds'参数临时禁止。"
+
+#. UI.BUILTINCOMMANDS.BAN.DESC_CONSOLE
+msgctxt "UI.BUILTINCOMMANDS.BAN.DESC_CONSOLE"
+msgid "Boot someone off the server."
+msgstr "把某人从服务器上踢出去。"
+
+#. UI.BUILTINCOMMANDS.BAN.PRETTYNAME
+msgctxt "UI.BUILTINCOMMANDS.BAN.PRETTYNAME"
+msgid "Ban"
+msgstr "封禁"
+
+#. UI.BUILTINCOMMANDS.BUG.DESC
+msgctxt "UI.BUILTINCOMMANDS.BUG.DESC"
+msgid "Run this to report a problem with the game!"
+msgstr "运行这个，用来报告游戏出现的问题！"
+
+#. UI.BUILTINCOMMANDS.BUG.PRETTYNAME
+msgctxt "UI.BUILTINCOMMANDS.BUG.PRETTYNAME"
+msgid "Report Bug"
+msgstr "报告漏洞"
+
+#. UI.BUILTINCOMMANDS.EMOTE.DESC
+msgctxt "UI.BUILTINCOMMANDS.EMOTE.DESC"
+msgid "Express your feelings!"
+msgstr "表达你的情绪！"
+
+#. UI.BUILTINCOMMANDS.EMOTE.PRETTYNAME
+msgctxt "UI.BUILTINCOMMANDS.EMOTE.PRETTYNAME"
+msgid "Emote"
+msgstr "表情"
+
+#. UI.BUILTINCOMMANDS.EMOTES.DESC
+msgctxt "UI.BUILTINCOMMANDS.EMOTES.DESC"
+msgid "Perform an emote!"
+msgstr "发表情！"
+
+#. UI.BUILTINCOMMANDS.EMOTES.PRETTYNAMEFMT
+msgctxt "UI.BUILTINCOMMANDS.EMOTES.PRETTYNAMEFMT"
+msgid "%s emote"
+msgstr "'%s' 表情"
+
+#. UI.BUILTINCOMMANDS.HELP.AVAILABLE
+msgctxt "UI.BUILTINCOMMANDS.HELP.AVAILABLE"
+msgid "Available commands:"
+msgstr "可用命令："
+
+#. UI.BUILTINCOMMANDS.HELP.DESC
+msgctxt "UI.BUILTINCOMMANDS.HELP.DESC"
+msgid "Get more info on commands."
+msgstr "获得更多命令信息。"
+
+#. UI.BUILTINCOMMANDS.HELP.NOTFOUND
+msgctxt "UI.BUILTINCOMMANDS.HELP.NOTFOUND"
+msgid "Couldn't find a command called '%s'"
+msgstr "无法找到叫做‘%s’的命令"
+
+#. UI.BUILTINCOMMANDS.HELP.OVERVIEW
+msgctxt "UI.BUILTINCOMMANDS.HELP.OVERVIEW"
+msgid "Type '/help commandname' for more info on a command."
+msgstr "输入 '/help commandname' 获得有关命令的更多信息。"
+
+#. UI.BUILTINCOMMANDS.HELP.PRETTYNAME
+msgctxt "UI.BUILTINCOMMANDS.HELP.PRETTYNAME"
+msgid "Command Help"
+msgstr "命令帮助"
+
+#. UI.BUILTINCOMMANDS.KICK.DESC
+msgctxt "UI.BUILTINCOMMANDS.KICK.DESC"
+msgid "Boot someone off the server."
+msgstr "把某人从服务器上踢出去。"
+
+#. UI.BUILTINCOMMANDS.KICK.PRETTYNAME
+msgctxt "UI.BUILTINCOMMANDS.KICK.PRETTYNAME"
+msgid "Kick"
+msgstr "踢"
+
+#. UI.BUILTINCOMMANDS.KICK.VOTENAMEFMT
+msgctxt "UI.BUILTINCOMMANDS.KICK.VOTENAMEFMT"
+msgid "vote to kick %s"
+msgstr "投票踢掉 %s"
+
+#. UI.BUILTINCOMMANDS.KICK.VOTETITLEFMT
+msgctxt "UI.BUILTINCOMMANDS.KICK.VOTETITLEFMT"
+msgid "Should we kick %s?"
+msgstr "我们该踢掉 %s 吗？"
+
+#. UI.BUILTINCOMMANDS.REGENERATE.DESC
+msgctxt "UI.BUILTINCOMMANDS.REGENERATE.DESC"
+msgid "Destroy this world and start with a brand new one!"
+msgstr "毁掉这个世界，然后开启新的世界！"
+
+#. UI.BUILTINCOMMANDS.REGENERATE.PRETTYNAME
+msgctxt "UI.BUILTINCOMMANDS.REGENERATE.PRETTYNAME"
+msgid "Regenerate World"
+msgstr "重新生成世界"
+
+#. UI.BUILTINCOMMANDS.REGENERATE.VOTENAMEFMT
+msgctxt "UI.BUILTINCOMMANDS.REGENERATE.VOTENAMEFMT"
+msgid "vote to regenerate the world"
+msgstr "投票选择重造世界"
+
+#. UI.BUILTINCOMMANDS.REGENERATE.VOTEPASSEDFMT
+msgctxt "UI.BUILTINCOMMANDS.REGENERATE.VOTEPASSEDFMT"
+msgid "Regenerating world in 5 seconds..."
+msgstr "5 秒内重新生成世界…"
+
+#. UI.BUILTINCOMMANDS.REGENERATE.VOTETITLEFMT
+msgctxt "UI.BUILTINCOMMANDS.REGENERATE.VOTETITLEFMT"
+msgid "Should we regenerate the world?"
+msgstr "我们该重造世界吗？"
+
+#. UI.BUILTINCOMMANDS.RESCUE.DESC
+msgctxt "UI.BUILTINCOMMANDS.RESCUE.DESC"
+msgid "If you ever find yourself stuck in the void, this will put you back on land."
+msgstr "要是你发现自己被困在虚空，它会帮助你回陆地。"
+
+#. UI.BUILTINCOMMANDS.RESCUE.PRETTYNAME
+msgctxt "UI.BUILTINCOMMANDS.RESCUE.PRETTYNAME"
+msgid "Rescue Me!"
+msgstr "救我！"
+
+#. UI.BUILTINCOMMANDS.RESET.DESC
+msgctxt "UI.BUILTINCOMMANDS.RESET.DESC"
+msgid "Restart the server from the last save."
+msgstr "从最后保存的重启服务器。"
+
+#. UI.BUILTINCOMMANDS.RESET.PRETTYNAME
+msgctxt "UI.BUILTINCOMMANDS.RESET.PRETTYNAME"
+msgid "Reset"
+msgstr "重置"
+
+#. UI.BUILTINCOMMANDS.ROLL.DESC
+msgctxt "UI.BUILTINCOMMANDS.ROLL.DESC"
+msgid "Random dice roll from 1 to 100."
+msgstr "从1到100随机掷骰子."
+
+#. UI.BUILTINCOMMANDS.ROLL.PRETTYNAME
+msgctxt "UI.BUILTINCOMMANDS.ROLL.PRETTYNAME"
+msgid "Dice Roll"
+msgstr "掷骰子"
+
+#. UI.BUILTINCOMMANDS.ROLLBACK.DESC
+msgctxt "UI.BUILTINCOMMANDS.ROLLBACK.DESC"
+msgid "Rollback the server to a previous save."
+msgstr "将服务器回档到先前的存档。"
+
+#. UI.BUILTINCOMMANDS.ROLLBACK.PRETTYNAME
+msgctxt "UI.BUILTINCOMMANDS.ROLLBACK.PRETTYNAME"
+msgid "Rollback"
+msgstr "回档"
+
+#. UI.BUILTINCOMMANDS.ROLLBACK.VOTENAMEFMT
+msgctxt "UI.BUILTINCOMMANDS.ROLLBACK.VOTENAMEFMT"
+msgid "vote to rollback the server"
+msgstr "投票选择回档服务器"
+
+#. UI.BUILTINCOMMANDS.ROLLBACK.VOTEPASSEDFMT
+msgctxt "UI.BUILTINCOMMANDS.ROLLBACK.VOTEPASSEDFMT"
+msgid "Rolling server back in 5 seconds..."
+msgstr "5秒内回档服务器……"
+
+#. UI.BUILTINCOMMANDS.ROLLBACK.VOTETITLEFMT
+msgctxt "UI.BUILTINCOMMANDS.ROLLBACK.VOTETITLEFMT"
+msgid "Should we rollback this world?"
+msgstr "我们该回档这个世界吗？"
+
+#. UI.BUILTINCOMMANDS.STOPVOTE.DESC
+msgctxt "UI.BUILTINCOMMANDS.STOPVOTE.DESC"
+msgid "Cancel a vote in progress if you don't like it!"
+msgstr "要是你不喜欢，请取消进行中的投票！"
+
+#. UI.BUILTINCOMMANDS.STOPVOTE.PRETTYNAME
+msgctxt "UI.BUILTINCOMMANDS.STOPVOTE.PRETTYNAME"
+msgid "Stop Vote"
+msgstr "停止投票"
+

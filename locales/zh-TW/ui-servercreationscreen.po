@@ -1,0 +1,630 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.SERVERCREATIONSCREEN.ADMIN
+msgctxt "UI.SERVERCREATIONSCREEN.ADMIN"
+msgid "Manage Server"
+msgstr "管理伺服器"
+
+#. UI.SERVERCREATIONSCREEN.BACK
+msgctxt "UI.SERVERCREATIONSCREEN.BACK"
+msgid "Back"
+msgstr "返回"
+
+#. UI.SERVERCREATIONSCREEN.BANS
+msgctxt "UI.SERVERCREATIONSCREEN.BANS"
+msgid "Bans"
+msgstr "封禁"
+
+#. UI.SERVERCREATIONSCREEN.CANCEL
+msgctxt "UI.SERVERCREATIONSCREEN.CANCEL"
+msgid "Cancel"
+msgstr "取消"
+
+#. UI.SERVERCREATIONSCREEN.CANCEL_BODY
+msgctxt "UI.SERVERCREATIONSCREEN.CANCEL_BODY"
+msgid "Do you want to save your changes?"
+msgstr "要放棄更改嗎？"
+
+#. UI.SERVERCREATIONSCREEN.CANCEL_TITLE
+msgctxt "UI.SERVERCREATIONSCREEN.CANCEL_TITLE"
+msgid "Save Changes?"
+msgstr "保存更改？"
+
+#. UI.SERVERCREATIONSCREEN.CAVEWORLD
+msgctxt "UI.SERVERCREATIONSCREEN.CAVEWORLD"
+msgid "Cave World"
+msgstr "洞穴世界"
+
+#. UI.SERVERCREATIONSCREEN.CLANADMIN
+msgctxt "UI.SERVERCREATIONSCREEN.CLANADMIN"
+msgid "Auto Group Admins:"
+msgstr "自動群組管理："
+
+#. UI.SERVERCREATIONSCREEN.CLANID
+msgctxt "UI.SERVERCREATIONSCREEN.CLANID"
+msgid "Group ID:"
+msgstr "群組ID："
+
+#. UI.SERVERCREATIONSCREEN.CLANONLY
+msgctxt "UI.SERVERCREATIONSCREEN.CLANONLY"
+msgid "Members Only:"
+msgstr "僅限會員："
+
+#. UI.SERVERCREATIONSCREEN.CLAN_CLOSED
+msgctxt "UI.SERVERCREATIONSCREEN.CLAN_CLOSED"
+msgid "Members Only"
+msgstr "僅限會員"
+
+#. UI.SERVERCREATIONSCREEN.CLAN_OPEN
+msgctxt "UI.SERVERCREATIONSCREEN.CLAN_OPEN"
+msgid "Open"
+msgstr "打開"
+
+#. UI.SERVERCREATIONSCREEN.CLONE
+msgctxt "UI.SERVERCREATIONSCREEN.CLONE"
+msgid "Duplicate World"
+msgstr "複製世界"
+
+#. UI.SERVERCREATIONSCREEN.CLUSTERSLOT
+msgctxt "UI.SERVERCREATIONSCREEN.CLUSTERSLOT"
+msgid "Save Folder"
+msgstr "保存資料夾"
+
+#. UI.SERVERCREATIONSCREEN.CONTINUE
+msgctxt "UI.SERVERCREATIONSCREEN.CONTINUE"
+msgid "Continue"
+msgstr "繼續"
+
+#. UI.SERVERCREATIONSCREEN.CONVERTCLOUDTOLOCAL
+msgctxt "UI.SERVERCREATIONSCREEN.CONVERTCLOUDTOLOCAL"
+msgid "Convert To Local Save"
+msgstr "切換為本地存檔"
+
+#. UI.SERVERCREATIONSCREEN.CONVERTLOCALTOCLOUD
+msgctxt "UI.SERVERCREATIONSCREEN.CONVERTLOCALTOCLOUD"
+msgid "Convert To Cloud Save"
+msgstr "切換為雲存檔"
+
+#. UI.SERVERCREATIONSCREEN.CONVERT_CLOUD
+msgctxt "UI.SERVERCREATIONSCREEN.CONVERT_CLOUD"
+msgid "cloud"
+msgstr "雲存檔"
+
+#. UI.SERVERCREATIONSCREEN.CONVERT_LOCAL
+msgctxt "UI.SERVERCREATIONSCREEN.CONVERT_LOCAL"
+msgid "local"
+msgstr "本地存檔"
+
+#. UI.SERVERCREATIONSCREEN.COPY_OF_SLOT_NAME
+msgctxt "UI.SERVERCREATIONSCREEN.COPY_OF_SLOT_NAME"
+msgid "Copy of {worldname}"
+msgstr "{worldname}的複製品"
+
+#. UI.SERVERCREATIONSCREEN.CREATE
+msgctxt "UI.SERVERCREATIONSCREEN.CREATE"
+msgid "Generate World"
+msgstr "生成世界"
+
+#. UI.SERVERCREATIONSCREEN.CREATENEWGAME
+msgctxt "UI.SERVERCREATIONSCREEN.CREATENEWGAME"
+msgid "Create New World"
+msgstr "創建新世界"
+
+#. UI.SERVERCREATIONSCREEN.DELETE
+msgctxt "UI.SERVERCREATIONSCREEN.DELETE"
+msgid "Delete"
+msgstr "刪除"
+
+#. UI.SERVERCREATIONSCREEN.DELETE_SLOT
+msgctxt "UI.SERVERCREATIONSCREEN.DELETE_SLOT"
+msgid "Delete World"
+msgstr "刪除世界"
+
+#. UI.SERVERCREATIONSCREEN.DISCARDCHANGES
+msgctxt "UI.SERVERCREATIONSCREEN.DISCARDCHANGES"
+msgid "Discard Changes"
+msgstr "放棄更改"
+
+#. UI.SERVERCREATIONSCREEN.EVENT
+msgctxt "UI.SERVERCREATIONSCREEN.EVENT"
+msgid "Event:"
+msgstr "事件："
+
+#. UI.SERVERCREATIONSCREEN.FAILED_CONVERT_DIALOG_FMT
+msgctxt "UI.SERVERCREATIONSCREEN.FAILED_CONVERT_DIALOG_FMT"
+msgid "Failed to convert world to {type} save, please try again later."
+msgstr "切換{type}存檔失敗，請稍後再試。"
+
+#. UI.SERVERCREATIONSCREEN.FAILED_COPYORCONVERT_TITLE
+msgctxt "UI.SERVERCREATIONSCREEN.FAILED_COPYORCONVERT_TITLE"
+msgid "Error"
+msgstr "錯誤"
+
+#. UI.SERVERCREATIONSCREEN.FAILED_COPY_DIALOG
+msgctxt "UI.SERVERCREATIONSCREEN.FAILED_COPY_DIALOG"
+msgid "Failed to duplicate world, please try again later."
+msgstr "複製世界失敗，請稍後再試。"
+
+#. UI.SERVERCREATIONSCREEN.FORESTANDCAVES
+msgctxt "UI.SERVERCREATIONSCREEN.FORESTANDCAVES"
+msgid "Forest And Caves"
+msgstr "森林和洞穴"
+
+#. UI.SERVERCREATIONSCREEN.FORESTONLY
+msgctxt "UI.SERVERCREATIONSCREEN.FORESTONLY"
+msgid "Forest Only"
+msgstr "僅森林"
+
+#. UI.SERVERCREATIONSCREEN.FORESTWORLD
+msgctxt "UI.SERVERCREATIONSCREEN.FORESTWORLD"
+msgid "Forest World"
+msgstr "森林世界"
+
+#. UI.SERVERCREATIONSCREEN.FULLSLOTSBODY
+msgctxt "UI.SERVERCREATIONSCREEN.FULLSLOTSBODY"
+msgid "All of your server slots are currently full. You must either select a slot to load from, or delete a slot and start a new world."
+msgstr "你所有的伺服器存檔欄現在已滿。你得選擇從中載入的存檔欄，或者刪除一個存檔欄並且開啟新世界。"
+
+#. UI.SERVERCREATIONSCREEN.FULLSLOTSTITLE
+msgctxt "UI.SERVERCREATIONSCREEN.FULLSLOTSTITLE"
+msgid "No Slots Available"
+msgstr "沒有可用的存檔欄"
+
+#. UI.SERVERCREATIONSCREEN.GAMEMODE
+msgctxt "UI.SERVERCREATIONSCREEN.GAMEMODE"
+msgid "Game Mode:"
+msgstr "遊戲模式："
+
+#. UI.SERVERCREATIONSCREEN.HOST_GAME
+msgctxt "UI.SERVERCREATIONSCREEN.HOST_GAME"
+msgid "Host Game"
+msgstr "遊戲"
+
+#. UI.SERVERCREATIONSCREEN.INTENTION_BUTTON
+msgctxt "UI.SERVERCREATIONSCREEN.INTENTION_BUTTON"
+msgid "Set Intention"
+msgstr "設定意圖"
+
+#. UI.SERVERCREATIONSCREEN.INTENTION_DESC.COMPETITIVE
+msgctxt "UI.SERVERCREATIONSCREEN.INTENTION_DESC.COMPETITIVE"
+msgid "This server is the perfect arena for a fair fight. Everyone needs a place to prove who's the best at surviving, fighting, building, or... whatever."
+msgstr "公平競爭的完美場所。 在此證明你的存活、戰鬥、建設能力吧！"
+
+#. UI.SERVERCREATIONSCREEN.INTENTION_DESC.COOPERATIVE
+msgctxt "UI.SERVERCREATIONSCREEN.INTENTION_DESC.COOPERATIVE"
+msgid "Surviving's more fun when you do it as a team. On this server we want to work together and do our best to tame the hostile world."
+msgstr "整個團隊存活下來更好玩。 一起合作，盡最大努力降服這個邪惡的世界。"
+
+#. UI.SERVERCREATIONSCREEN.INTENTION_DESC.MADNESS
+msgctxt "UI.SERVERCREATIONSCREEN.INTENTION_DESC.MADNESS"
+msgid "Anything goes on this server! Forests will be burned, food will be nommed, and backs will be unceremoniously stabbed. Be prepared!"
+msgstr "任何事情都可能發生！ 森林會被燒毀，食物會被吞掉， 隨時會被背後捅刀子。做好準備吧！"
+
+#. UI.SERVERCREATIONSCREEN.INTENTION_DESC.SOCIAL
+msgctxt "UI.SERVERCREATIONSCREEN.INTENTION_DESC.SOCIAL"
+msgid "This server is a place for friendly chatter, a relaxed playstyle, and getting to know people. Everyone's welcome here!"
+msgstr "適合友好聊天，玩法輕鬆 適合交朋友。 歡迎大家加入！"
+
+#. UI.SERVERCREATIONSCREEN.INTENTION_LABEL
+msgctxt "UI.SERVERCREATIONSCREEN.INTENTION_LABEL"
+msgid "Server Playstyle:"
+msgstr "伺服器遊戲風格："
+
+#. UI.SERVERCREATIONSCREEN.INTENTION_TITLE
+msgctxt "UI.SERVERCREATIONSCREEN.INTENTION_TITLE"
+msgid "What's your server's playstyle?"
+msgstr "你伺服器是什麼遊戲風格？"
+
+#. UI.SERVERCREATIONSCREEN.INVALIDCLANSETTINGS_BODY
+msgctxt "UI.SERVERCREATIONSCREEN.INVALIDCLANSETTINGS_BODY"
+msgid "You have to specify the Steam Group you belong to! Please verify the group number."
+msgstr "你必須指明你所屬的\"Steam 小組\"！請核實小組編號。"
+
+#. UI.SERVERCREATIONSCREEN.INVALIDCLANSETTINGS_TITLE
+msgctxt "UI.SERVERCREATIONSCREEN.INVALIDCLANSETTINGS_TITLE"
+msgid "Bad Group ID"
+msgstr "群組ID錯誤"
+
+#. UI.SERVERCREATIONSCREEN.INVALIDINTENTIONSETTINGS_BODY
+msgctxt "UI.SERVERCREATIONSCREEN.INVALIDINTENTIONSETTINGS_BODY"
+msgid "You forgot to choose a playstyle for your server!"
+msgstr "你忘記為伺服器選擇遊戲風格！"
+
+#. UI.SERVERCREATIONSCREEN.INVALIDINTENTIONSETTINGS_TITLE
+msgctxt "UI.SERVERCREATIONSCREEN.INVALIDINTENTIONSETTINGS_TITLE"
+msgid "Missing Server Intention"
+msgstr "伺服器意圖丟失"
+
+#. UI.SERVERCREATIONSCREEN.INVALIDNEWHOST_BODY
+msgctxt "UI.SERVERCREATIONSCREEN.INVALIDNEWHOST_BODY"
+msgid "We recommend trying the game alone in a private world while you learn the ropes and get the hang of not starving. But it's totally up to you!"
+msgstr "我們建議您單獨在私密世界裡試玩下這個遊戲，學習遊戲玩法並掌握生存訣竅。但是這完全由你決定！"
+
+#. UI.SERVERCREATIONSCREEN.INVALIDNEWHOST_TITLE
+msgctxt "UI.SERVERCREATIONSCREEN.INVALIDNEWHOST_TITLE"
+msgid "Creating your first world?"
+msgstr "創建你的第一個世界？"
+
+#. UI.SERVERCREATIONSCREEN.INVALIDPASSWORD_BODY
+msgctxt "UI.SERVERCREATIONSCREEN.INVALIDPASSWORD_BODY"
+msgid "Password cannot have spaces at the beginning or at the end!"
+msgstr "密碼在開頭或結尾不能有空格！"
+
+#. UI.SERVERCREATIONSCREEN.INVALIDPASSWORD_TITLE
+msgctxt "UI.SERVERCREATIONSCREEN.INVALIDPASSWORD_TITLE"
+msgid "Bad Password"
+msgstr "密碼錯誤"
+
+#. UI.SERVERCREATIONSCREEN.INVALIDSERVERNAME_BODY
+msgctxt "UI.SERVERCREATIONSCREEN.INVALIDSERVERNAME_BODY"
+msgid "No one will be able to find you if you don't have a name!"
+msgstr "要是你沒有名字，沒有人會找到你！"
+
+#. UI.SERVERCREATIONSCREEN.INVALIDSERVERNAME_TITLE
+msgctxt "UI.SERVERCREATIONSCREEN.INVALIDSERVERNAME_TITLE"
+msgid "Missing Server Name"
+msgstr "伺服器名稱丟失"
+
+#. UI.SERVERCREATIONSCREEN.MANAGE_ACCOUNT
+msgctxt "UI.SERVERCREATIONSCREEN.MANAGE_ACCOUNT"
+msgid "Account"
+msgstr "帳號"
+
+#. UI.SERVERCREATIONSCREEN.MANAGE_SLOT
+msgctxt "UI.SERVERCREATIONSCREEN.MANAGE_SLOT"
+msgid "Manage World"
+msgstr "管理世界"
+
+#. UI.SERVERCREATIONSCREEN.MANAGE_TEXT
+msgctxt "UI.SERVERCREATIONSCREEN.MANAGE_TEXT"
+msgid "Local world files are available at:\nSAVEDATA:/{folder}/"
+msgstr "世界檔的本地位置在：\nSAVEDATA:/{folder}/"
+
+#. UI.SERVERCREATIONSCREEN.MAXPLAYERS
+msgctxt "UI.SERVERCREATIONSCREEN.MAXPLAYERS"
+msgid "Players:"
+msgstr "玩家："
+
+#. UI.SERVERCREATIONSCREEN.MODSDISABLEDWARNINGBODY
+msgctxt "UI.SERVERCREATIONSCREEN.MODSDISABLEDWARNINGBODY"
+msgid "Some mods used on this save are disabled, which could cause issues. Continue?"
+msgstr "此存檔所用的一些模組已禁用，這可能會導致問題。繼續？"
+
+#. UI.SERVERCREATIONSCREEN.MODSDISABLEDWARNINGTITLE
+msgctxt "UI.SERVERCREATIONSCREEN.MODSDISABLEDWARNINGTITLE"
+msgid "WARNING - Mods Disabled"
+msgstr "警告 - 模組已禁用"
+
+#. UI.SERVERCREATIONSCREEN.MODSOUTOFDATEWARNINGBODY
+msgctxt "UI.SERVERCREATIONSCREEN.MODSOUTOFDATEWARNINGBODY"
+msgid "Some enabled mods are out of date, which could cause issues. Continue?"
+msgstr "一些啟用的模組過期了，這樣會引發問題。要繼續嗎？"
+
+#. UI.SERVERCREATIONSCREEN.MODSOUTOFDATEWARNINGTITLE
+msgctxt "UI.SERVERCREATIONSCREEN.MODSOUTOFDATEWARNINGTITLE"
+msgid "WARNING - Mods Out of Date"
+msgstr "警告——模組過期"
+
+#. UI.SERVERCREATIONSCREEN.NAME_DUPLICATE_SLOT
+msgctxt "UI.SERVERCREATIONSCREEN.NAME_DUPLICATE_SLOT"
+msgid "Duplicate World Name:"
+msgstr "複製世界名："
+
+#. UI.SERVERCREATIONSCREEN.NEWGAME
+msgctxt "UI.SERVERCREATIONSCREEN.NEWGAME"
+msgid "New World"
+msgstr "新世界"
+
+#. UI.SERVERCREATIONSCREEN.NEWGAME_FMT
+msgctxt "UI.SERVERCREATIONSCREEN.NEWGAME_FMT"
+msgid "{name}'s World"
+msgstr "{name}的世界"
+
+#. UI.SERVERCREATIONSCREEN.NEWGAME_SUFFIX
+msgctxt "UI.SERVERCREATIONSCREEN.NEWGAME_SUFFIX"
+msgid "'s World"
+msgstr "的世界"
+
+#. UI.SERVERCREATIONSCREEN.NEWHOST_DESC.ALONE
+msgctxt "UI.SERVERCREATIONSCREEN.NEWHOST_DESC.ALONE"
+msgid "Play alone in a private world where you can collect your bearings and get the hang of not starving. This is recommended for your first time playing."
+msgstr "在一個私密世界裡單獨打鬥，在這裡你可以熟悉遊戲並且掌握存活竅門。推薦給第一次玩的玩家們。"
+
+#. UI.SERVERCREATIONSCREEN.NEWHOST_DESC.TOGETHER
+msgctxt "UI.SERVERCREATIONSCREEN.NEWHOST_DESC.TOGETHER"
+msgid "Start an online world where other players can join in your adventures. It's up to you whether your world is open to everyone, or just your friends."
+msgstr "在其他玩家可以加入你的探險的地方啟動連線世界。你的世界是否向所有人開放，或者僅向你的朋友開放，這取決於你。"
+
+#. UI.SERVERCREATIONSCREEN.NEWHOST_TITLE
+msgctxt "UI.SERVERCREATIONSCREEN.NEWHOST_TITLE"
+msgid "Creating your first world?"
+msgstr "創建你的第一個世界？"
+
+#. UI.SERVERCREATIONSCREEN.NEWHOST_TYPE.ALONE
+msgctxt "UI.SERVERCREATIONSCREEN.NEWHOST_TYPE.ALONE"
+msgid "Alone"
+msgstr "單獨"
+
+#. UI.SERVERCREATIONSCREEN.NEWHOST_TYPE.TOGETHER
+msgctxt "UI.SERVERCREATIONSCREEN.NEWHOST_TYPE.TOGETHER"
+msgid "Together"
+msgstr "連線版"
+
+#. UI.SERVERCREATIONSCREEN.NO
+msgctxt "UI.SERVERCREATIONSCREEN.NO"
+msgid "No"
+msgstr "否"
+
+#. UI.SERVERCREATIONSCREEN.NONAMEGAME
+msgctxt "UI.SERVERCREATIONSCREEN.NONAMEGAME"
+msgid "[No Name]"
+msgstr "【無名字】"
+
+#. UI.SERVERCREATIONSCREEN.NO_MATCHING_SERVERS
+msgctxt "UI.SERVERCREATIONSCREEN.NO_MATCHING_SERVERS"
+msgid "No save games match your search."
+msgstr "你的搜索沒有匹配到遊戲存檔。"
+
+#. UI.SERVERCREATIONSCREEN.OFF
+msgctxt "UI.SERVERCREATIONSCREEN.OFF"
+msgid "Off"
+msgstr "關閉"
+
+#. UI.SERVERCREATIONSCREEN.OFFLINEMODEBODYCREATE
+msgctxt "UI.SERVERCREATIONSCREEN.OFFLINEMODEBODYCREATE"
+msgid "Are you sure you want to create an offline world? This is a limited mode where only players on your Local Area Network can join. Players will not be able to receive or use Collection Items in this world."
+msgstr "你確定想創建一個線下世界？這是有限模式，在這個模式下只有你局域網上的玩家可以加入。玩家無法接收或使用這個世界的收藏物品。"
+
+#. UI.SERVERCREATIONSCREEN.OFFLINEMODEBODYRESUME
+msgctxt "UI.SERVERCREATIONSCREEN.OFFLINEMODEBODYRESUME"
+msgid "You are resuming an offline world. Only users on your Local Area Network will be able to join this world. Players will not be able to receive or use Collection Items in this world."
+msgstr "你現在回到線下世界。只有局域網的使用者能夠加入這個世界。玩家無法接收或使用這個世界的收藏物品。"
+
+#. UI.SERVERCREATIONSCREEN.OFFLINEMODETITLE
+msgctxt "UI.SERVERCREATIONSCREEN.OFFLINEMODETITLE"
+msgid "Offline Mode"
+msgstr "線下模式"
+
+#. UI.SERVERCREATIONSCREEN.OFFLINE_WORLD
+msgctxt "UI.SERVERCREATIONSCREEN.OFFLINE_WORLD"
+msgid "Offline"
+msgstr "線下"
+
+#. UI.SERVERCREATIONSCREEN.OK
+msgctxt "UI.SERVERCREATIONSCREEN.OK"
+msgid "OK"
+msgstr "好的"
+
+#. UI.SERVERCREATIONSCREEN.ON
+msgctxt "UI.SERVERCREATIONSCREEN.ON"
+msgid "On"
+msgstr "開"
+
+#. UI.SERVERCREATIONSCREEN.ONLINEONLYBODY
+msgctxt "UI.SERVERCREATIONSCREEN.ONLINEONLYBODY"
+msgid "You can only resume an online world when you have a connection to Steam and Klei. Please log in and try again."
+msgstr "只有連接到 Steam 和科雷伺服器的時候才能回到連線世界。請登錄並再試一次。"
+
+#. UI.SERVERCREATIONSCREEN.ONLINEONLYBODY_PS4
+msgctxt "UI.SERVERCREATIONSCREEN.ONLINEONLYBODY_PS4"
+msgid "You are currently in offline mode and cannot resume an online world. Please log in and try again."
+msgstr "您當前處於離線模式，無法進入線上世界。請登錄並再次嘗試。"
+
+#. UI.SERVERCREATIONSCREEN.ONLINEONLYBODY_RAIL
+msgctxt "UI.SERVERCREATIONSCREEN.ONLINEONLYBODY_RAIL"
+msgid "You can only resume an online world when you have a connection to the game servers. Please log in and try again."
+msgstr "只有連接到遊戲伺服器時才能恢復這個世界。請你檢查你的網路，然後再試一次。"
+
+#. UI.SERVERCREATIONSCREEN.ONLINEONLYBODY_SPLITSCREEN
+msgctxt "UI.SERVERCREATIONSCREEN.ONLINEONLYBODY_SPLITSCREEN"
+msgid "You are currently in offline mode and cannot resume an online world. Please log in and try again."
+msgstr "您當前處於離線模式，無法進入線上世界。請登錄並再次嘗試。"
+
+#. UI.SERVERCREATIONSCREEN.ONLINEONYTITLE
+msgctxt "UI.SERVERCREATIONSCREEN.ONLINEONYTITLE"
+msgid "Online World"
+msgstr "線上世界"
+
+#. UI.SERVERCREATIONSCREEN.ONLINE_MODE
+msgctxt "UI.SERVERCREATIONSCREEN.ONLINE_MODE"
+msgid "Server Mode:"
+msgstr "伺服器模式："
+
+#. UI.SERVERCREATIONSCREEN.OPENSAVEFOLDER
+msgctxt "UI.SERVERCREATIONSCREEN.OPENSAVEFOLDER"
+msgid "Open World Folder"
+msgstr "打開世界資料夾"
+
+#. UI.SERVERCREATIONSCREEN.PRIVACY.CLAN
+msgctxt "UI.SERVERCREATIONSCREEN.PRIVACY.CLAN"
+msgid "Steam Group"
+msgstr "Steam 群組"
+
+#. UI.SERVERCREATIONSCREEN.PRIVACY.FRIENDS
+msgctxt "UI.SERVERCREATIONSCREEN.PRIVACY.FRIENDS"
+msgid "Friends Only"
+msgstr "僅限朋友"
+
+#. UI.SERVERCREATIONSCREEN.PRIVACY.LOCAL
+msgctxt "UI.SERVERCREATIONSCREEN.PRIVACY.LOCAL"
+msgid "Local Only"
+msgstr "僅限本地"
+
+#. UI.SERVERCREATIONSCREEN.PRIVACY.PUBLIC
+msgctxt "UI.SERVERCREATIONSCREEN.PRIVACY.PUBLIC"
+msgid "Public"
+msgstr "公共"
+
+#. UI.SERVERCREATIONSCREEN.PRIVACY_LABEL
+msgctxt "UI.SERVERCREATIONSCREEN.PRIVACY_LABEL"
+msgid "Privacy:"
+msgstr "隱私："
+
+#. UI.SERVERCREATIONSCREEN.PVP
+msgctxt "UI.SERVERCREATIONSCREEN.PVP"
+msgid "PvP:"
+msgstr "玩家對戰："
+
+#. UI.SERVERCREATIONSCREEN.RESUME
+msgctxt "UI.SERVERCREATIONSCREEN.RESUME"
+msgid "Resume World"
+msgstr "回到世界"
+
+#. UI.SERVERCREATIONSCREEN.SAVECHANGES
+msgctxt "UI.SERVERCREATIONSCREEN.SAVECHANGES"
+msgid "Save Changes"
+msgstr "保存更改"
+
+#. UI.SERVERCREATIONSCREEN.SAVE_TYPE
+msgctxt "UI.SERVERCREATIONSCREEN.SAVE_TYPE"
+msgid "Save Type:"
+msgstr "存檔類型："
+
+#. UI.SERVERCREATIONSCREEN.SAVE_TYPE_CLOUD
+msgctxt "UI.SERVERCREATIONSCREEN.SAVE_TYPE_CLOUD"
+msgid "Steam Cloud Save"
+msgstr "Steam雲存檔"
+
+#. UI.SERVERCREATIONSCREEN.SAVE_TYPE_LOCAL
+msgctxt "UI.SERVERCREATIONSCREEN.SAVE_TYPE_LOCAL"
+msgid "Local Save"
+msgstr "本地存檔"
+
+#. UI.SERVERCREATIONSCREEN.SEARCH
+msgctxt "UI.SERVERCREATIONSCREEN.SEARCH"
+msgid "Search"
+msgstr "搜索"
+
+#. UI.SERVERCREATIONSCREEN.SELECT_SLOT
+msgctxt "UI.SERVERCREATIONSCREEN.SELECT_SLOT"
+msgid "Select Slot"
+msgstr "選擇存檔欄"
+
+#. UI.SERVERCREATIONSCREEN.SERVERDAY
+msgctxt "UI.SERVERCREATIONSCREEN.SERVERDAY"
+msgid "Day"
+msgstr "天"
+
+#. UI.SERVERCREATIONSCREEN.SERVERDAY_NEW
+msgctxt "UI.SERVERCREATIONSCREEN.SERVERDAY_NEW"
+msgid "A Whole New World"
+msgstr "一個全新的世界"
+
+#. UI.SERVERCREATIONSCREEN.SERVERDAY_SEASON_V2
+msgctxt "UI.SERVERCREATIONSCREEN.SERVERDAY_SEASON_V2"
+msgid "{season} Day {day_count}"
+msgstr "{season}第{day_count}天"
+
+#. UI.SERVERCREATIONSCREEN.SERVERDAY_V2
+msgctxt "UI.SERVERCREATIONSCREEN.SERVERDAY_V2"
+msgid "Day {day_count}"
+msgstr "第{day_count}天"
+
+#. UI.SERVERCREATIONSCREEN.SERVERDESC
+msgctxt "UI.SERVERCREATIONSCREEN.SERVERDESC"
+msgid "Description:"
+msgstr "描述："
+
+#. UI.SERVERCREATIONSCREEN.SERVERNAME
+msgctxt "UI.SERVERCREATIONSCREEN.SERVERNAME"
+msgid "Name:"
+msgstr "名稱："
+
+#. UI.SERVERCREATIONSCREEN.SERVERPASSWORD
+msgctxt "UI.SERVERCREATIONSCREEN.SERVERPASSWORD"
+msgid "Password:"
+msgstr "密碼："
+
+#. UI.SERVERCREATIONSCREEN.SERVERSETTINGS
+msgctxt "UI.SERVERCREATIONSCREEN.SERVERSETTINGS"
+msgid "Settings"
+msgstr "設置"
+
+#. UI.SERVERCREATIONSCREEN.SERVERSETTINGS_LONG
+msgctxt "UI.SERVERCREATIONSCREEN.SERVERSETTINGS_LONG"
+msgid "Server Settings"
+msgstr "伺服器設定"
+
+#. UI.SERVERCREATIONSCREEN.SLOT
+msgctxt "UI.SERVERCREATIONSCREEN.SLOT"
+msgid "Server Slot"
+msgstr "伺服器存檔欄"
+
+#. UI.SERVERCREATIONSCREEN.SNAPSHOTS
+msgctxt "UI.SERVERCREATIONSCREEN.SNAPSHOTS"
+msgid "Rollback"
+msgstr "回檔"
+
+#. UI.SERVERCREATIONSCREEN.SORT_DATECREATED
+msgctxt "UI.SERVERCREATIONSCREEN.SORT_DATECREATED"
+msgid "Date Created"
+msgstr "生成日期"
+
+#. UI.SERVERCREATIONSCREEN.SORT_LASTPLAYED
+msgctxt "UI.SERVERCREATIONSCREEN.SORT_LASTPLAYED"
+msgid "Last Played"
+msgstr "最近遊戲"
+
+#. UI.SERVERCREATIONSCREEN.SORT_MODE_FMT
+msgctxt "UI.SERVERCREATIONSCREEN.SORT_MODE_FMT"
+msgid "Sort Mode: {mode}"
+msgstr "排序模式：{mode}"
+
+#. UI.SERVERCREATIONSCREEN.SORT_MOSTDAYS
+msgctxt "UI.SERVERCREATIONSCREEN.SORT_MOSTDAYS"
+msgid "Days Played"
+msgstr "遊戲天數"
+
+#. UI.SERVERCREATIONSCREEN.SURE
+msgctxt "UI.SERVERCREATIONSCREEN.SURE"
+msgid "Are you sure?"
+msgstr "你確定嗎？"
+
+#. UI.SERVERCREATIONSCREEN.TOOLTIP_BANS
+msgctxt "UI.SERVERCREATIONSCREEN.TOOLTIP_BANS"
+msgid "See which players you've blocked from joining your servers"
+msgstr "查看哪些玩家被你禁止加入你的伺服器"
+
+#. UI.SERVERCREATIONSCREEN.UGC_BLOCKED_DESCRIPTION_POSTFIX
+msgctxt "UI.SERVERCREATIONSCREEN.UGC_BLOCKED_DESCRIPTION_POSTFIX"
+msgid "'s World\" with a blank description."
+msgstr "的世界\"無描述"
+
+#. UI.SERVERCREATIONSCREEN.UGC_BLOCKED_DESCRIPTION_PREFIX
+msgctxt "UI.SERVERCREATIONSCREEN.UGC_BLOCKED_DESCRIPTION_PREFIX"
+msgid "Use of user-generated media is not allowed for your account.\nOnline players will see your server name as \""
+msgstr "您的帳戶不允許使用用戶生成的媒體。\n線上玩家將使用的伺服器名稱為"
+
+#. UI.SERVERCREATIONSCREEN.UGC_BLOCKED_DESCRIPTION_PREFIX_SPLITSCREEN
+msgctxt "UI.SERVERCREATIONSCREEN.UGC_BLOCKED_DESCRIPTION_PREFIX_SPLITSCREEN"
+msgid "Use of user-generated media is not allowed for the signed in accounts.\nOnline players will see your server name as \""
+msgstr "登錄的帳戶不允許使用用戶生成的媒體。\n線上玩家將使用的伺服器名稱為"
+
+#. UI.SERVERCREATIONSCREEN.VIEWBANS
+msgctxt "UI.SERVERCREATIONSCREEN.VIEWBANS"
+msgid "View Bans"
+msgstr "查看封禁玩家"
+
+#. UI.SERVERCREATIONSCREEN.VIEWWORLD
+msgctxt "UI.SERVERCREATIONSCREEN.VIEWWORLD"
+msgid "View World"
+msgstr "查看世界"
+
+#. UI.SERVERCREATIONSCREEN.WORLD
+msgctxt "UI.SERVERCREATIONSCREEN.WORLD"
+msgid "World"
+msgstr "世界"
+
+#. UI.SERVERCREATIONSCREEN.WORLD_LONG_FMT
+msgctxt "UI.SERVERCREATIONSCREEN.WORLD_LONG_FMT"
+msgid "World: {location}"
+msgstr "世界：{location}"
+
+#. UI.SERVERCREATIONSCREEN.YES
+msgctxt "UI.SERVERCREATIONSCREEN.YES"
+msgid "Yes"
+msgstr "是"
+

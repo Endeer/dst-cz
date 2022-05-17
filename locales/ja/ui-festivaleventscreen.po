@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.FESTIVALEVENTSCREEN.BROWSE
+msgctxt "UI.FESTIVALEVENTSCREEN.BROWSE"
+msgid "Browse Servers"
+msgstr "サーバーの閲覧"
+
+#. UI.FESTIVALEVENTSCREEN.HOST
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST"
+msgid "Custom Match"
+msgstr "カスタムマッチ"
+
+#. UI.FESTIVALEVENTSCREEN.HOST_CONNECTINGTOSERVER
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_CONNECTINGTOSERVER"
+msgid "Connecting to server"
+msgstr "サーバーに接続する"
+
+#. UI.FESTIVALEVENTSCREEN.HOST_DETERMININGREGION
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_DETERMININGREGION"
+msgid "Determining region"
+msgstr "領域を決定する"
+
+#. UI.FESTIVALEVENTSCREEN.HOST_FAILED
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_FAILED"
+msgid "Network Error"
+msgstr "ネットワークエラー"
+
+#. UI.FESTIVALEVENTSCREEN.HOST_FAILED_BODY
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_FAILED_BODY"
+msgid "Failed to connect to event server."
+msgstr "イベントサーバーへの接続に失敗しました。"
+
+#. UI.FESTIVALEVENTSCREEN.HOST_GETTINGREGIONS
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_GETTINGREGIONS"
+msgid "Getting regions"
+msgstr "地域を取得します"
+
+#. UI.FESTIVALEVENTSCREEN.HOST_NO_SERVERS_BODY
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_NO_SERVERS_BODY"
+msgid "No servers are currently available for your game version. Please update and try again."
+msgstr "現在、あなたのゲームバージョンで利用できるサーバーはありません。アップデートして再度お試しください。"
+
+#. UI.FESTIVALEVENTSCREEN.HOST_PINGS_FAILED_BODY
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_PINGS_FAILED_BODY"
+msgid "Unable to contact Klei servers.\nPlease check your network connection and try again."
+msgstr "クレイのサーバーと連絡が取れません。\nネットワーク接続をご確認の上、再度お試しください。"
+
+#. UI.FESTIVALEVENTSCREEN.HOST_REQUESTINGSERVER
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_REQUESTINGSERVER"
+msgid "Requesting server"
+msgstr "サーバー起動中です"
+
+#. UI.FESTIVALEVENTSCREEN.HOST_WAITINGFORWORLD
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_WAITINGFORWORLD"
+msgid "Waiting for world"
+msgstr "ワールドを待っています"
+
+#. UI.FESTIVALEVENTSCREEN.MODS_POPUP_BODY
+msgctxt "UI.FESTIVALEVENTSCREEN.MODS_POPUP_BODY"
+msgid "Warning!\nClient mods are unsupported in {event}.\nDisabling all mods is recommended."
+msgstr "警告！\nクライアントの改造は{event}ではサポートされていません。\nすべての改造を無効にすることをお勧めします。"
+
+#. UI.FESTIVALEVENTSCREEN.MODS_POPUP_CANCEL
+msgctxt "UI.FESTIVALEVENTSCREEN.MODS_POPUP_CANCEL"
+msgid "Cancel"
+msgstr "キャンセル"
+
+#. UI.FESTIVALEVENTSCREEN.MODS_POPUP_CONTINUE
+msgctxt "UI.FESTIVALEVENTSCREEN.MODS_POPUP_CONTINUE"
+msgid "Continue"
+msgstr "コンティニュー"
+
+#. UI.FESTIVALEVENTSCREEN.MODS_POPUP_DISABLE_MODS
+msgctxt "UI.FESTIVALEVENTSCREEN.MODS_POPUP_DISABLE_MODS"
+msgid "Disable All Mods"
+msgstr "すべての改造を無効にします"
+
+#. UI.FESTIVALEVENTSCREEN.MODS_POPUP_TITLE
+msgctxt "UI.FESTIVALEVENTSCREEN.MODS_POPUP_TITLE"
+msgid "Mods Detected!"
+msgstr "改造が検出されました！"
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BACK
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BACK"
+msgid "Back"
+msgstr "戻る"
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY.lavaarena
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY.lavaarena"
+msgid "You must be logged in to challenge\nBattlemaster Pugna's warriors."
+msgstr "バトルマスター プーニャの戦士たちに挑戦するには\nログインする必要があります。"
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY.quagmire
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY.quagmire"
+msgid "You must be logged in to prepare\nofferings for the Altar of Gnaw."
+msgstr "グノーの祭壇に捧げるものを準備するには\nログインする必要があります。"
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY_CONSOLE.lavaarena
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY_CONSOLE.lavaarena"
+msgid "All players must be online to challenge\nBattlemaster Pugna's warriors."
+msgstr "すべてのプレイヤーがオンラインになっていないと、\nバトルマスタープーニャの戦士たちに挑戦することができません。"
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY_CONSOLE.quagmire
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY_CONSOLE.quagmire"
+msgid "All players must be online to prepare\nofferings for the Altar of Gnaw."
+msgstr "すべてのプレイヤーがオンラインになっていないと、\nグノーの祭壇のために捧げ物を準備することができません。"
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_LOGIN
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_LOGIN"
+msgid "Log In"
+msgstr "ログイン"
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_TITLE
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_TITLE"
+msgid "Offline"
+msgstr "オフライン"
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_TITLE_CONSOLE
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_TITLE_CONSOLE"
+msgid "You are in offline mode"
+msgstr "オフラインモードになっています。"
+
+#. UI.FESTIVALEVENTSCREEN.QUICKMATCH
+msgctxt "UI.FESTIVALEVENTSCREEN.QUICKMATCH"
+msgid "Quick Match"
+msgstr "クイックマッチ"
+
+#. UI.FESTIVALEVENTSCREEN.TITLE.LAVAARENA
+msgctxt "UI.FESTIVALEVENTSCREEN.TITLE.LAVAARENA"
+msgid "The Forge"
+msgstr "鍛冶屋"
+
+#. UI.FESTIVALEVENTSCREEN.TITLE.LAVAARENA2
+msgctxt "UI.FESTIVALEVENTSCREEN.TITLE.LAVAARENA2"
+msgid "The Forge - Season 2"
+msgstr "鍛冶屋　シーズン2"
+
+#. UI.FESTIVALEVENTSCREEN.TITLE.QUAGMIRE
+msgctxt "UI.FESTIVALEVENTSCREEN.TITLE.QUAGMIRE"
+msgid "The Gorge"
+msgstr "峡谷"
+
+#. UI.FESTIVALEVENTSCREEN.TOGGLE_PLAYER
+msgctxt "UI.FESTIVALEVENTSCREEN.TOGGLE_PLAYER"
+msgid "Toggle player"
+msgstr "プレーヤーを切り替えます"
+
+#. UI.FESTIVALEVENTSCREEN.TOOLTIP_BROWSE
+msgctxt "UI.FESTIVALEVENTSCREEN.TOOLTIP_BROWSE"
+msgid "Browse all event servers"
+msgstr "すべてのイベントサーバーを閲覧します"
+
+#. UI.FESTIVALEVENTSCREEN.TOOLTIP_HOST
+msgctxt "UI.FESTIVALEVENTSCREEN.TOOLTIP_HOST"
+msgid "Start your own event server"
+msgstr "独自のイベントサーバーを立ち上げます"
+
+#. UI.FESTIVALEVENTSCREEN.TOOLTIP_QUICKMATCH
+msgctxt "UI.FESTIVALEVENTSCREEN.TOOLTIP_QUICKMATCH"
+msgid "Hop in to the first available match"
+msgstr "最初に利用可能なマッチにホップインします"
+

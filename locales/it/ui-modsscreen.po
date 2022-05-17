@@ -1,0 +1,465 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.MODSSCREEN.ALL_FILTER
+msgctxt "UI.MODSSCREEN.ALL_FILTER"
+msgid "All"
+msgstr "Tutto"
+
+#. UI.MODSSCREEN.APPLY
+msgctxt "UI.MODSSCREEN.APPLY"
+msgid "Apply"
+msgstr "Applica"
+
+#. UI.MODSSCREEN.AUTHORBY
+msgctxt "UI.MODSSCREEN.AUTHORBY"
+msgid "by %s"
+msgstr "di %s"
+
+#. UI.MODSSCREEN.BACK
+msgctxt "UI.MODSSCREEN.BACK"
+msgid "Back"
+msgstr "Indietro"
+
+#. UI.MODSSCREEN.BACKBODY
+msgctxt "UI.MODSSCREEN.BACKBODY"
+msgid "Do you want to discard the changes you made to this mod's options?"
+msgstr "Vuoi annullare le modifiche apportate alle opzioni di questo mod?"
+
+#. UI.MODSSCREEN.BACKTITLE
+msgctxt "UI.MODSSCREEN.BACKTITLE"
+msgid "Discard Changes"
+msgstr "Rimuovi modifiche"
+
+#. UI.MODSSCREEN.CANCEL
+msgctxt "UI.MODSSCREEN.CANCEL"
+msgid "Cancel"
+msgstr "Annulla"
+
+#. UI.MODSSCREEN.CANCEL_BODY
+msgctxt "UI.MODSSCREEN.CANCEL_BODY"
+msgid "Do you want to abandon your changes?"
+msgstr "Vuoi rinunciare alle modifiche?"
+
+#. UI.MODSSCREEN.CANCEL_TITLE
+msgctxt "UI.MODSSCREEN.CANCEL_TITLE"
+msgid "Lose Changes?"
+msgstr "Vuoi perdere le modifiche?"
+
+#. UI.MODSSCREEN.CLEANALL
+msgctxt "UI.MODSSCREEN.CLEANALL"
+msgid "Clean All"
+msgstr "Ripulisci tutto"
+
+#. UI.MODSSCREEN.CLEANALL_BODY
+msgctxt "UI.MODSSCREEN.CLEANALL_BODY"
+msgid "Are you sure you want to clean your local Workshop data?\nThis will result in a full download of all your subscribed mods, and your mod configuration settings being reset."
+msgstr "Sei sicuro di voler ripulire i dati locali del Workshop?\nCiò comporterà lo scaricamento completo di tutti i mod sottoscritti e la reimpostazione delle impostazioni di configurazione dei mod."
+
+#. UI.MODSSCREEN.CLEANALL_TITLE
+msgctxt "UI.MODSSCREEN.CLEANALL_TITLE"
+msgid "Clean All Mod Workshop Data"
+msgstr "Ripulisci tutti i dati dei mod del workshop"
+
+#. UI.MODSSCREEN.CLIENTMODS
+msgctxt "UI.MODSSCREEN.CLIENTMODS"
+msgid "Client Mods"
+msgstr "Mod del client"
+
+#. UI.MODSSCREEN.COMPATIBILITY_ALL
+msgctxt "UI.MODSSCREEN.COMPATIBILITY_ALL"
+msgid "Compatible with everything."
+msgstr "Compatibile con tutto."
+
+#. UI.MODSSCREEN.COMPATIBILITY_DST
+msgctxt "UI.MODSSCREEN.COMPATIBILITY_DST"
+msgid "Compatible with Don't Starve Together."
+msgstr "Compatibile con Don't Starve Together."
+
+#. UI.MODSSCREEN.COMPATIBILITY_DS_ONLY
+msgctxt "UI.MODSSCREEN.COMPATIBILITY_DS_ONLY"
+msgid "Compatible with Don't Starve only."
+msgstr "Compatibile soltanto con Don't Starve."
+
+#. UI.MODSSCREEN.COMPATIBILITY_NONE
+msgctxt "UI.MODSSCREEN.COMPATIBILITY_NONE"
+msgid "This mod has no compatibility with Don't Starve."
+msgstr "Questo mod non è compatibile con Don't Starve."
+
+#. UI.MODSSCREEN.COMPATIBILITY_ROG_ONLY
+msgctxt "UI.MODSSCREEN.COMPATIBILITY_ROG_ONLY"
+msgid "Compatible with Reign of Giants only."
+msgstr "Compatibile soltanto con Regno dei Giganti."
+
+#. UI.MODSSCREEN.COMPATIBILITY_UNKNOWN
+msgctxt "UI.MODSSCREEN.COMPATIBILITY_UNKNOWN"
+msgid "Compatibility unknown."
+msgstr "Compatibilità sconosciuta."
+
+#. UI.MODSSCREEN.CONFIGSCREENTITLESUFFIX
+msgctxt "UI.MODSSCREEN.CONFIGSCREENTITLESUFFIX"
+msgid "Configuration"
+msgstr "Configurazione"
+
+#. UI.MODSSCREEN.CONFIGUREMOD
+msgctxt "UI.MODSSCREEN.CONFIGUREMOD"
+msgid "Configure Mod"
+msgstr "Configura mod"
+
+#. UI.MODSSCREEN.DISABLE
+msgctxt "UI.MODSSCREEN.DISABLE"
+msgid "Disable"
+msgstr "Disattiva"
+
+#. UI.MODSSCREEN.DISABLED_ERROR
+msgctxt "UI.MODSSCREEN.DISABLED_ERROR"
+msgid "Crashed! Disabled."
+msgstr "Bloccato! Disattivato."
+
+#. UI.MODSSCREEN.DISABLED_FILTER
+msgctxt "UI.MODSSCREEN.DISABLED_FILTER"
+msgid "Disabled"
+msgstr "Disattivato"
+
+#. UI.MODSSCREEN.DISABLED_MANUAL
+msgctxt "UI.MODSSCREEN.DISABLED_MANUAL"
+msgid "This mod is disabled."
+msgstr "Questo mod è disattivato."
+
+#. UI.MODSSCREEN.DISABLE_ALL
+msgctxt "UI.MODSSCREEN.DISABLE_ALL"
+msgid "Disable All"
+msgstr "Disattiva tutti"
+
+#. UI.MODSSCREEN.DOWNLOADINGMOD
+msgctxt "UI.MODSSCREEN.DOWNLOADINGMOD"
+msgid "Downloading:\n{name}"
+msgstr "Scaricamento:\n{name}"
+
+#. UI.MODSSCREEN.DOWNLOADING_MODS
+msgctxt "UI.MODSSCREEN.DOWNLOADING_MODS"
+msgid "Downloading Mods..."
+msgstr "Scaricamento dei mod..."
+
+#. UI.MODSSCREEN.DST_COMPAT_WARNING
+msgctxt "UI.MODSSCREEN.DST_COMPAT_WARNING"
+msgid "This mod hasn't been tagged as compatible with Don't Starve Together. It may cause issues with your game."
+msgstr "Questo mod non è stato taggato come compatibile con Don't Starve Together. Potrebbero esserci problemi con il gioco."
+
+#. UI.MODSSCREEN.ENABLE
+msgctxt "UI.MODSSCREEN.ENABLE"
+msgid "Enable"
+msgstr "Attiva"
+
+#. UI.MODSSCREEN.ENABLEDDISABLED_FILTER
+msgctxt "UI.MODSSCREEN.ENABLEDDISABLED_FILTER"
+msgid "Both"
+msgstr "Entrambi"
+
+#. UI.MODSSCREEN.ENABLED_FILTER
+msgctxt "UI.MODSSCREEN.ENABLED_FILTER"
+msgid "Enabled"
+msgstr "Attivato"
+
+#. UI.MODSSCREEN.LOADING
+msgctxt "UI.MODSSCREEN.LOADING"
+msgid "Loading"
+msgstr "Attendi"
+
+#. UI.MODSSCREEN.LOCAL_FILTER
+msgctxt "UI.MODSSCREEN.LOCAL_FILTER"
+msgid "Local"
+msgstr "Locale"
+
+#. UI.MODSSCREEN.MODLINK
+msgctxt "UI.MODSSCREEN.MODLINK"
+msgid "Mod Page"
+msgstr "Pagina dei mod"
+
+#. UI.MODSSCREEN.MODLINKGENERIC
+msgctxt "UI.MODSSCREEN.MODLINKGENERIC"
+msgid "Mod Forums"
+msgstr "Forum dei mod"
+
+#. UI.MODSSCREEN.MODLINK_MOREINFO
+msgctxt "UI.MODSSCREEN.MODLINK_MOREINFO"
+msgid "More Info"
+msgstr "Ulteriori informazioni"
+
+#. UI.MODSSCREEN.MODPAGE
+msgctxt "UI.MODSSCREEN.MODPAGE"
+msgid "Mod Page"
+msgstr "Pagina dei mod"
+
+#. UI.MODSSCREEN.MODTITLE
+msgctxt "UI.MODSSCREEN.MODTITLE"
+msgid "Mods"
+msgstr "Mod"
+
+#. UI.MODSSCREEN.MOD_DEPENDENCIES_TITLE
+msgctxt "UI.MODSSCREEN.MOD_DEPENDENCIES_TITLE"
+msgid "Dependencies Required"
+msgstr "Dipendenze richieste"
+
+#. UI.MODSSCREEN.MOD_DEPENDENTS_TITLE
+msgctxt "UI.MODSSCREEN.MOD_DEPENDENTS_TITLE"
+msgid "Required By Other Mods"
+msgstr "Richiesto da altri mod"
+
+#. UI.MODSSCREEN.MOD_HAS_DEPENDENCIES_FMT
+msgctxt "UI.MODSSCREEN.MOD_HAS_DEPENDENCIES_FMT"
+msgid "{mod} requires other mods to run, it will subscribe and enable these if you enable this mod:"
+msgstr "{mod} richiede altri mod per funzionare, che verranno sottoscritti e abilitati se attivi questo mod:"
+
+#. UI.MODSSCREEN.MOD_HAS_DEPENDENTS_FMT
+msgctxt "UI.MODSSCREEN.MOD_HAS_DEPENDENTS_FMT"
+msgid "{mod} is required for other mods to run, if you disable this mod these mods will be disabled:"
+msgstr "{mod} è necessario per far funzionare altri mod; se lo disattivi, anche questi mod verranno disabilitati:"
+
+#. UI.MODSSCREEN.MOD_WARNING
+msgctxt "UI.MODSSCREEN.MOD_WARNING"
+msgid "This is not a Steam Workshop mod. Players will need to download it manually if you host a server."
+msgstr "Questo non è un mod del Workshop di Steam. I giocatori dovranno scaricarlo manualmente se sei host di un server."
+
+#. UI.MODSSCREEN.MOD_WARNING_RAIL
+msgctxt "UI.MODSSCREEN.MOD_WARNING_RAIL"
+msgid "This is not a WeGame mod. Players will need to download it manually if you host a server."
+msgstr "Questo non è un mod di WeGame. I giocatori dovranno scaricarlo manualmente se sei host di un server."
+
+#. UI.MODSSCREEN.MOD_WARNING_TITLE
+msgctxt "UI.MODSSCREEN.MOD_WARNING_TITLE"
+msgid "Mod Warning"
+msgstr "Avviso del mod"
+
+#. UI.MODSSCREEN.MOREMODS
+msgctxt "UI.MODSSCREEN.MOREMODS"
+msgid "More Mods"
+msgstr "Altri mod"
+
+#. UI.MODSSCREEN.NO
+msgctxt "UI.MODSSCREEN.NO"
+msgid "No"
+msgstr "No"
+
+#. UI.MODSSCREEN.NOCONFIG
+msgctxt "UI.MODSSCREEN.NOCONFIG"
+msgid "No Configurations"
+msgstr "Nessuna configurazione"
+
+#. UI.MODSSCREEN.NO_MODS
+msgctxt "UI.MODSSCREEN.NO_MODS"
+msgid "You have no mods installed. Mods can be downloaded from the Steam Workshop."
+msgstr "Non hai alcun mod installato. I mod possono essere scaricati dal Workshop di Steam."
+
+#. UI.MODSSCREEN.NO_MODS_CLIENT_TGP
+msgctxt "UI.MODSSCREEN.NO_MODS_CLIENT_TGP"
+msgid "You don't have any client mods installed. You can download some from the WeGame client."
+msgstr "Non hai alcun mod client installato. Puoi scaricarne alcuni dal client WeGame."
+
+#. UI.MODSSCREEN.NO_MODS_LINK
+msgctxt "UI.MODSSCREEN.NO_MODS_LINK"
+msgid "Take me to the mods!"
+msgstr "Portami ai mod!"
+
+#. UI.MODSSCREEN.NO_MODS_OK
+msgctxt "UI.MODSSCREEN.NO_MODS_OK"
+msgid "Show Me!"
+msgstr "Fammi vedere!"
+
+#. UI.MODSSCREEN.NO_MODS_PLAIN_OK
+msgctxt "UI.MODSSCREEN.NO_MODS_PLAIN_OK"
+msgid "Ok"
+msgstr "Ok"
+
+#. UI.MODSSCREEN.NO_MODS_SERVER_TGP
+msgctxt "UI.MODSSCREEN.NO_MODS_SERVER_TGP"
+msgid "You don't have any server mods installed. You can download some from the WeGame client."
+msgstr "Non hai alcun mod server installato. Puoi scaricarne alcuni dal client WeGame."
+
+#. UI.MODSSCREEN.NO_MODS_TITLE
+msgctxt "UI.MODSSCREEN.NO_MODS_TITLE"
+msgid "No Mods Installed"
+msgstr "Nessun mod installato"
+
+#. UI.MODSSCREEN.NO_MODS_TYPE
+msgctxt "UI.MODSSCREEN.NO_MODS_TYPE"
+msgid "You have no %s mods installed. Mods can be downloaded from the Steam Workshop."
+msgstr "Non hai alcun mod %s installato. I mod possono essere scaricati dal Workshop di Steam."
+
+#. UI.MODSSCREEN.OK
+msgctxt "UI.MODSSCREEN.OK"
+msgid "OK"
+msgstr "OK"
+
+#. UI.MODSSCREEN.OUT_OF_DATE
+msgctxt "UI.MODSSCREEN.OUT_OF_DATE"
+msgid "Mods Out of Date:"
+msgstr "Mod non aggiornati:"
+
+#. UI.MODSSCREEN.REQUIRED_MODS_DOWNLOADING
+msgctxt "UI.MODSSCREEN.REQUIRED_MODS_DOWNLOADING"
+msgid "The game has not finished downloading required mods.\nEither wait until the mods have finished downloading, or disable mods which have dependencies."
+msgstr "Il gioco non ha terminato di scaricare i mod necessari.\nAttendi finché i mod sono stati interamente scaricati oppure disattiva i mod che hanno dipendenze."
+
+#. UI.MODSSCREEN.REQUIRED_MODS_DOWNLOADING_TITLE
+msgctxt "UI.MODSSCREEN.REQUIRED_MODS_DOWNLOADING_TITLE"
+msgid "Required Mods Are Downloading"
+msgstr "Lo scaricamento dei mod richiesti è in corso"
+
+#. UI.MODSSCREEN.RESETDEFAULT
+msgctxt "UI.MODSSCREEN.RESETDEFAULT"
+msgid "Reset"
+msgstr "Reimposta"
+
+#. UI.MODSSCREEN.RESTART
+msgctxt "UI.MODSSCREEN.RESTART"
+msgid "Exit Now"
+msgstr "Esci adesso"
+
+#. UI.MODSSCREEN.RESTART_REQUIRED
+msgctxt "UI.MODSSCREEN.RESTART_REQUIRED"
+msgid "To enable or disable this mod, you will have to exit and restart the game."
+msgstr "Per attivare o disattivare questo mod, dovrai uscire e riavviare il gioco."
+
+#. UI.MODSSCREEN.RESTART_TITLE
+msgctxt "UI.MODSSCREEN.RESTART_TITLE"
+msgid "Restart Required"
+msgstr "Riavvio necessario"
+
+#. UI.MODSSCREEN.SEARCH
+msgctxt "UI.MODSSCREEN.SEARCH"
+msgid "Search"
+msgstr "Ricerca"
+
+#. UI.MODSSCREEN.SERVERMODS
+msgctxt "UI.MODSSCREEN.SERVERMODS"
+msgid "Server Mods"
+msgstr "Mod del server"
+
+#. UI.MODSSCREEN.SERVERMODS_TITLE_READONLY
+msgctxt "UI.MODSSCREEN.SERVERMODS_TITLE_READONLY"
+msgid "Configure Server Mods"
+msgstr "Configura il server dei mod"
+
+#. UI.MODSSCREEN.SHOWCASEMODS
+msgctxt "UI.MODSSCREEN.SHOWCASEMODS"
+msgid "Get Mods"
+msgstr "Ottieni mod"
+
+#. UI.MODSSCREEN.STATUS.DISABLED_ERROR
+msgctxt "UI.MODSSCREEN.STATUS.DISABLED_ERROR"
+msgid "Crashed!"
+msgstr "Bloccato!"
+
+#. UI.MODSSCREEN.STATUS.DISABLED_MANUAL
+msgctxt "UI.MODSSCREEN.STATUS.DISABLED_MANUAL"
+msgid "Disabled"
+msgstr "Disattivato"
+
+#. UI.MODSSCREEN.STATUS.WORKING_NORMALLY
+msgctxt "UI.MODSSCREEN.STATUS.WORKING_NORMALLY"
+msgid "Enabled"
+msgstr "Attivato"
+
+#. UI.MODSSCREEN.STATUS_FILTER_FMT
+msgctxt "UI.MODSSCREEN.STATUS_FILTER_FMT"
+msgid "Mod Status Filter: {mode}"
+msgstr "Filtro stato mod: {mode}"
+
+#. UI.MODSSCREEN.TOOLTIP_CLIENTMODS
+msgctxt "UI.MODSSCREEN.TOOLTIP_CLIENTMODS"
+msgid "Cosmetic mods that run on your machine"
+msgstr "Mod estetici presenti nella tua macchina"
+
+#. UI.MODSSCREEN.TOOLTIP_SERVERMODS
+msgctxt "UI.MODSSCREEN.TOOLTIP_SERVERMODS"
+msgid "Gameplay-affecting mods that run on the game server"
+msgstr "I mod che riguardano il gioco presenti nel server di gioco"
+
+#. UI.MODSSCREEN.TOOLTIP_SHOWCASEMODS
+msgctxt "UI.MODSSCREEN.TOOLTIP_SHOWCASEMODS"
+msgid "See popular and featured mods"
+msgstr "Visualizza i mod popolari e in evidenza"
+
+#. UI.MODSSCREEN.TOPMODS
+msgctxt "UI.MODSSCREEN.TOPMODS"
+msgid "Top Mods"
+msgstr "Mod migliori"
+
+#. UI.MODSSCREEN.UNKNOWN_MOD_CONFIG_SETTING
+msgctxt "UI.MODSSCREEN.UNKNOWN_MOD_CONFIG_SETTING"
+msgid "[NAME UNDEFINED]"
+msgstr "[NOME NON DEFINITO]"
+
+#. UI.MODSSCREEN.UPDATEALL
+msgctxt "UI.MODSSCREEN.UPDATEALL"
+msgid "Update All"
+msgstr "Aggiorna tutto"
+
+#. UI.MODSSCREEN.UPDATEALL_BODY
+msgctxt "UI.MODSSCREEN.UPDATEALL_BODY"
+msgid "Are you sure you want to update all your subscribed mods?"
+msgstr "Sei sicuro di voler aggiornare tutti i mod sottoscritti?"
+
+#. UI.MODSSCREEN.UPDATEALL_TITLE
+msgctxt "UI.MODSSCREEN.UPDATEALL_TITLE"
+msgid "Update All Mod Workshop Data"
+msgstr "Aggiorna tutti i dati dei mod del Workshop"
+
+#. UI.MODSSCREEN.UPDATEMOD
+msgctxt "UI.MODSSCREEN.UPDATEMOD"
+msgid "Update Mod"
+msgstr "Aggiorna mod"
+
+#. UI.MODSSCREEN.UPDATINGMOD
+msgctxt "UI.MODSSCREEN.UPDATINGMOD"
+msgid "Updating..."
+msgstr "Aggiornamento..."
+
+#. UI.MODSSCREEN.UPTODATE
+msgctxt "UI.MODSSCREEN.UPTODATE"
+msgid "Up To Date"
+msgstr "Aggiornato"
+
+#. UI.MODSSCREEN.UPTODATEALL
+msgctxt "UI.MODSSCREEN.UPTODATEALL"
+msgid "All Up To Date"
+msgstr "Tutti aggiornati"
+
+#. UI.MODSSCREEN.VERSION
+msgctxt "UI.MODSSCREEN.VERSION"
+msgid "version %s"
+msgstr "versione %s"
+
+#. UI.MODSSCREEN.VIEW_AND_CONFIGURE
+msgctxt "UI.MODSSCREEN.VIEW_AND_CONFIGURE"
+msgid "Mod can be viewed and configured."
+msgstr "Il mod può essere visualizzato e configurato."
+
+#. UI.MODSSCREEN.WORKING_NORMALLY
+msgctxt "UI.MODSSCREEN.WORKING_NORMALLY"
+msgid "This mod is enabled."
+msgstr "Questo mod è attivato."
+
+#. UI.MODSSCREEN.WORKSHOP_FILTER
+msgctxt "UI.MODSSCREEN.WORKSHOP_FILTER"
+msgid "Workshop"
+msgstr "Workshop"
+
+#. UI.MODSSCREEN.WORKSHOP_FILTER_FMT
+msgctxt "UI.MODSSCREEN.WORKSHOP_FILTER_FMT"
+msgid "Mod Type Filter: {mode}"
+msgstr "Filtro tipo mod: {mode}"
+
+#. UI.MODSSCREEN.WORKSHOP_FILTER_RAIL
+msgctxt "UI.MODSSCREEN.WORKSHOP_FILTER_RAIL"
+msgid "Warehouse"
+msgstr "Magazzino"
+
+#. UI.MODSSCREEN.YES
+msgctxt "UI.MODSSCREEN.YES"
+msgid "Yes"
+msgstr "Sì"
+

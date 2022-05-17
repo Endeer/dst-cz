@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.PAUSEMENU.AFK
+msgctxt "UI.PAUSEMENU.AFK"
+msgid "Go AFK"
+msgstr "Ausentarse"
+
+#. UI.PAUSEMENU.AUTOPAUSED_DST_TITLE
+msgctxt "UI.PAUSEMENU.AUTOPAUSED_DST_TITLE"
+msgid "Auto-Paused!"
+msgstr "¡Pausa automática!"
+
+#. UI.PAUSEMENU.AUTOPAUSE_TEXT
+msgctxt "UI.PAUSEMENU.AUTOPAUSE_TEXT"
+msgid "The game is auto-paused."
+msgstr "El juego está en pausa automática."
+
+#. UI.PAUSEMENU.CLIENTQUITBODY
+msgctxt "UI.PAUSEMENU.CLIENTQUITBODY"
+msgid "Are you sure you want to leave the server?"
+msgstr "¿Seguro que quieres abandonar el servidor?"
+
+#. UI.PAUSEMENU.CLIENTQUITTITLE
+msgctxt "UI.PAUSEMENU.CLIENTQUITTITLE"
+msgid "Leave Server"
+msgstr "Abandonar servidor"
+
+#. UI.PAUSEMENU.CLOSE
+msgctxt "UI.PAUSEMENU.CLOSE"
+msgid "Close"
+msgstr "Cerrar"
+
+#. UI.PAUSEMENU.CONTINUE
+msgctxt "UI.PAUSEMENU.CONTINUE"
+msgid "Continue"
+msgstr "Continuar"
+
+#. UI.PAUSEMENU.CONTROLS
+msgctxt "UI.PAUSEMENU.CONTROLS"
+msgid "Controls"
+msgstr "Controles"
+
+#. UI.PAUSEMENU.DISCONNECT
+msgctxt "UI.PAUSEMENU.DISCONNECT"
+msgid "Disconnect"
+msgstr "Desconectarse"
+
+#. UI.PAUSEMENU.DST_SUBTITLE
+msgctxt "UI.PAUSEMENU.DST_SUBTITLE"
+msgid "(Seriously! It's not.)"
+msgstr "(¡En serio! No se puede.)"
+
+#. UI.PAUSEMENU.DST_TITLE
+msgctxt "UI.PAUSEMENU.DST_TITLE"
+msgid "Not Paused."
+msgstr "No en pausa."
+
+#. UI.PAUSEMENU.HOSTPAUSED_TEXT
+msgctxt "UI.PAUSEMENU.HOSTPAUSED_TEXT"
+msgid "The server host has paused the game."
+msgstr "El anfitrión del servidor ha pausado el juego."
+
+#. UI.PAUSEMENU.HOSTQUITBODY
+msgctxt "UI.PAUSEMENU.HOSTQUITBODY"
+msgid "Are you sure you want to shut down the server? If you do, all current players will be disconnected."
+msgstr "¿Seguro que quieres cerrar el servidor? Si lo haces, se desconectarán todos los jugadores actuales."
+
+#. UI.PAUSEMENU.HOSTQUITTITLE
+msgctxt "UI.PAUSEMENU.HOSTQUITTITLE"
+msgid "Shut Down Server"
+msgstr "Cerrar servidor"
+
+#. UI.PAUSEMENU.ISSUE
+msgctxt "UI.PAUSEMENU.ISSUE"
+msgid "Report an Issue"
+msgstr "Notificar"
+
+#. UI.PAUSEMENU.NO
+msgctxt "UI.PAUSEMENU.NO"
+msgid "Maybe not..."
+msgstr "Tal vez no..."
+
+#. UI.PAUSEMENU.OPTIONS
+msgctxt "UI.PAUSEMENU.OPTIONS"
+msgid "Settings"
+msgstr "Ajustes"
+
+#. UI.PAUSEMENU.PAUSED_DST_SUBTITLE
+msgctxt "UI.PAUSEMENU.PAUSED_DST_SUBTITLE"
+msgid "Seriously. It is!"
+msgstr "¡Va en serio!"
+
+#. UI.PAUSEMENU.PAUSED_DST_TITLE
+msgctxt "UI.PAUSEMENU.PAUSED_DST_TITLE"
+msgid "Paused!"
+msgstr "¡En pausa!"
+
+#. UI.PAUSEMENU.PAUSE_SERVER
+msgctxt "UI.PAUSEMENU.PAUSE_SERVER"
+msgid "Pause Server"
+msgstr "Pausar servidor"
+
+#. UI.PAUSEMENU.PLAYERPAUSED_TEXT
+msgctxt "UI.PAUSEMENU.PLAYERPAUSED_TEXT"
+msgid "{player} paused the game."
+msgstr "{player} ha pausado la partida."
+
+#. UI.PAUSEMENU.PLAYERSTATUSSCREEN
+msgctxt "UI.PAUSEMENU.PLAYERSTATUSSCREEN"
+msgid "View Players"
+msgstr "Ver jugadores"
+
+#. UI.PAUSEMENU.QUIT
+msgctxt "UI.PAUSEMENU.QUIT"
+msgid "Quit"
+msgstr "Salir"
+
+#. UI.PAUSEMENU.QUITBODY
+msgctxt "UI.PAUSEMENU.QUITBODY"
+msgid "Leaving so soon?"
+msgstr "¿Te vas tan pronto?"
+
+#. UI.PAUSEMENU.QUITNO
+msgctxt "UI.PAUSEMENU.QUITNO"
+msgid "Never mind..."
+msgstr "Da igual..."
+
+#. UI.PAUSEMENU.QUITTITLE
+msgctxt "UI.PAUSEMENU.QUITTITLE"
+msgid "Return to main menu?"
+msgstr "¿Volver al menú principal?"
+
+#. UI.PAUSEMENU.QUITYES
+msgctxt "UI.PAUSEMENU.QUITYES"
+msgid "I said quit!"
+msgstr "¡He dicho salir!"
+
+#. UI.PAUSEMENU.SAVEANDQUIT
+msgctxt "UI.PAUSEMENU.SAVEANDQUIT"
+msgid "Save and Quit"
+msgstr "Guardar y salir"
+
+#. UI.PAUSEMENU.SAVEANDQUITBODY
+msgctxt "UI.PAUSEMENU.SAVEANDQUITBODY"
+msgid "Don't worry. We'll wait here for you."
+msgstr "No te preocupes. Te estaremos esperando."
+
+#. UI.PAUSEMENU.SAVEANDQUITNO
+msgctxt "UI.PAUSEMENU.SAVEANDQUITNO"
+msgid "Never mind..."
+msgstr "Da igual..."
+
+#. UI.PAUSEMENU.SAVEANDQUITTITLE
+msgctxt "UI.PAUSEMENU.SAVEANDQUITTITLE"
+msgid "Save and return to main menu?"
+msgstr "¿Guardar y volver al menú principal?"
+
+#. UI.PAUSEMENU.SAVEANDQUITYES
+msgctxt "UI.PAUSEMENU.SAVEANDQUITYES"
+msgid "I said quit!"
+msgstr "¡He dicho salir!"
+
+#. UI.PAUSEMENU.SELFPAUSED_TEXT
+msgctxt "UI.PAUSEMENU.SELFPAUSED_TEXT"
+msgid "You have paused the game."
+msgstr "Has pausado la partida."
+
+#. UI.PAUSEMENU.SERVERACTIONS
+msgctxt "UI.PAUSEMENU.SERVERACTIONS"
+msgid "Server Commands"
+msgstr "Comandos del servidor"
+
+#. UI.PAUSEMENU.SERVER_ADMIN
+msgctxt "UI.PAUSEMENU.SERVER_ADMIN"
+msgid "Server Admin"
+msgstr "Administrador del servidor"
+
+#. UI.PAUSEMENU.TITLE
+msgctxt "UI.PAUSEMENU.TITLE"
+msgid "Paused"
+msgstr "En pausa"
+
+#. UI.PAUSEMENU.UNPAUSE_SERVER
+msgctxt "UI.PAUSEMENU.UNPAUSE_SERVER"
+msgid "Unpause Server"
+msgstr "Reanudar servidor"
+
+#. UI.PAUSEMENU.YES
+msgctxt "UI.PAUSEMENU.YES"
+msgid "Do it!"
+msgstr "¡Vale!"
+

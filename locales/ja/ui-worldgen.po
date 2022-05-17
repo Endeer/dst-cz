@@ -1,0 +1,330 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.WORLDGEN.CAVETITLE
+msgctxt "UI.WORLDGEN.CAVETITLE"
+msgid "CARVING OUT CAVE"
+msgstr "洞窟を切り開いている"
+
+#. UI.WORLDGEN.NOUNS.1
+msgctxt "UI.WORLDGEN.NOUNS.1"
+msgid "trees..."
+msgstr "木々"
+
+#. UI.WORLDGEN.NOUNS.10
+msgctxt "UI.WORLDGEN.NOUNS.10"
+msgid "Abigail's ectoplasm..."
+msgstr "アビゲイルのエクトプラズム..."
+
+#. UI.WORLDGEN.NOUNS.11
+msgctxt "UI.WORLDGEN.NOUNS.11"
+msgid "Webber's fur..."
+msgstr "ウェバーの毛皮..."
+
+#. UI.WORLDGEN.NOUNS.12
+msgctxt "UI.WORLDGEN.NOUNS.12"
+msgid "Wolfgang's moustache..."
+msgstr "ウルフガングの口ひげ..."
+
+#. UI.WORLDGEN.NOUNS.13
+msgctxt "UI.WORLDGEN.NOUNS.13"
+msgid "Wickerbottom's glasses..."
+msgstr "ウィッカーボトムのめがね..."
+
+#. UI.WORLDGEN.NOUNS.14
+msgctxt "UI.WORLDGEN.NOUNS.14"
+msgid "Wigfrid's umlauts..."
+msgstr "ウィグフリドのウムラウト記号..."
+
+#. UI.WORLDGEN.NOUNS.15
+msgctxt "UI.WORLDGEN.NOUNS.15"
+msgid "Willow's teddy bear..."
+msgstr "ウィローのテディベア..."
+
+#. UI.WORLDGEN.NOUNS.16
+msgctxt "UI.WORLDGEN.NOUNS.16"
+msgid "Woodie's plaid..."
+msgstr "ウッディのネルシャツ..."
+
+#. UI.WORLDGEN.NOUNS.17
+msgctxt "UI.WORLDGEN.NOUNS.17"
+msgid "WX-78's gears..."
+msgstr "WX-78の部品..."
+
+#. UI.WORLDGEN.NOUNS.18
+msgctxt "UI.WORLDGEN.NOUNS.18"
+msgid "Winona's tools..."
+msgstr "ウィノナの道具..."
+
+#. UI.WORLDGEN.NOUNS.19
+msgctxt "UI.WORLDGEN.NOUNS.19"
+msgid "Wortox's hooves..."
+msgstr "ウォートックスのひづめ..."
+
+#. UI.WORLDGEN.NOUNS.2
+msgctxt "UI.WORLDGEN.NOUNS.2"
+msgid "pathos..."
+msgstr "哀愁"
+
+#. UI.WORLDGEN.NOUNS.20
+msgctxt "UI.WORLDGEN.NOUNS.20"
+msgid "Wormwood's leaves..."
+msgstr "ヨモギの葉..."
+
+#. UI.WORLDGEN.NOUNS.21
+msgctxt "UI.WORLDGEN.NOUNS.21"
+msgid "Warly's spices..."
+msgstr "ウォーリーのスパイス..."
+
+#. UI.WORLDGEN.NOUNS.22
+msgctxt "UI.WORLDGEN.NOUNS.22"
+msgid "a monarch's sorrow..."
+msgstr "君主の悲哀を"
+
+#. UI.WORLDGEN.NOUNS.23
+msgctxt "UI.WORLDGEN.NOUNS.23"
+msgid "an inescapable nostalgia..."
+msgstr "逃れられない郷愁を"
+
+#. UI.WORLDGEN.NOUNS.24
+msgctxt "UI.WORLDGEN.NOUNS.24"
+msgid "gold and marble..."
+msgstr "黄金と大理石を"
+
+#. UI.WORLDGEN.NOUNS.25
+msgctxt "UI.WORLDGEN.NOUNS.25"
+msgid "thorns..."
+msgstr "トゲを"
+
+#. UI.WORLDGEN.NOUNS.26
+msgctxt "UI.WORLDGEN.NOUNS.26"
+msgid "unbreakable bonds..."
+msgstr "固い絆を"
+
+#. UI.WORLDGEN.NOUNS.27
+msgctxt "UI.WORLDGEN.NOUNS.27"
+msgid "intense friendship..."
+msgstr "深い友情を"
+
+#. UI.WORLDGEN.NOUNS.28
+msgctxt "UI.WORLDGEN.NOUNS.28"
+msgid "common goals..."
+msgstr "共通の目的を"
+
+#. UI.WORLDGEN.NOUNS.29
+msgctxt "UI.WORLDGEN.NOUNS.29"
+msgid "a comforting togetherness..."
+msgstr "快い連帯感を"
+
+#. UI.WORLDGEN.NOUNS.3
+msgctxt "UI.WORLDGEN.NOUNS.3"
+msgid "pines..."
+msgstr "松の木"
+
+#. UI.WORLDGEN.NOUNS.30
+msgctxt "UI.WORLDGEN.NOUNS.30"
+msgid "buckets and buckets of loot..."
+msgstr "ありあまるほどの宝..."
+
+#. UI.WORLDGEN.NOUNS.31
+msgctxt "UI.WORLDGEN.NOUNS.31"
+msgid "game theory..."
+msgstr "ゲーム理論..."
+
+#. UI.WORLDGEN.NOUNS.32
+msgctxt "UI.WORLDGEN.NOUNS.32"
+msgid "poignant tragedy..."
+msgstr "胸をしめつける悲劇を"
+
+#. UI.WORLDGEN.NOUNS.33
+msgctxt "UI.WORLDGEN.NOUNS.33"
+msgid "a hint of shadow..."
+msgstr "闇の気配を"
+
+#. UI.WORLDGEN.NOUNS.34
+msgctxt "UI.WORLDGEN.NOUNS.34"
+msgid "food..."
+msgstr "食料..."
+
+#. UI.WORLDGEN.NOUNS.35
+msgctxt "UI.WORLDGEN.NOUNS.35"
+msgid "lovely roses..."
+msgstr "かれんなバラを"
+
+#. UI.WORLDGEN.NOUNS.36
+msgctxt "UI.WORLDGEN.NOUNS.36"
+msgid "gems..."
+msgstr "宝石を"
+
+#. UI.WORLDGEN.NOUNS.37
+msgctxt "UI.WORLDGEN.NOUNS.37"
+msgid "souls..."
+msgstr "魂..."
+
+#. UI.WORLDGEN.NOUNS.38
+msgctxt "UI.WORLDGEN.NOUNS.38"
+msgid "unspeakable things..."
+msgstr "口にするのも恐ろしい何かを"
+
+#. UI.WORLDGEN.NOUNS.39
+msgctxt "UI.WORLDGEN.NOUNS.39"
+msgid "primal instincts..."
+msgstr "原始的な本能を"
+
+#. UI.WORLDGEN.NOUNS.4
+msgctxt "UI.WORLDGEN.NOUNS.4"
+msgid "spiders..."
+msgstr "クモ"
+
+#. UI.WORLDGEN.NOUNS.40
+msgctxt "UI.WORLDGEN.NOUNS.40"
+msgid "terrible darkness..."
+msgstr "おぞましい闇を"
+
+#. UI.WORLDGEN.NOUNS.41
+msgctxt "UI.WORLDGEN.NOUNS.41"
+msgid "a touch of magic..."
+msgstr "魔法っぽい要素を"
+
+#. UI.WORLDGEN.NOUNS.5
+msgctxt "UI.WORLDGEN.NOUNS.5"
+msgid "monsters..."
+msgstr "モンスター"
+
+#. UI.WORLDGEN.NOUNS.6
+msgctxt "UI.WORLDGEN.NOUNS.6"
+msgid "a keen sense of despair..."
+msgstr "強い絶望感"
+
+#. UI.WORLDGEN.NOUNS.7
+msgctxt "UI.WORLDGEN.NOUNS.7"
+msgid "Wilson's beard..."
+msgstr "Wilsonのヒゲ"
+
+#. UI.WORLDGEN.NOUNS.8
+msgctxt "UI.WORLDGEN.NOUNS.8"
+msgid "Maxwell's pocket squares..."
+msgstr "マクスウェルのポケットスクエア..."
+
+#. UI.WORLDGEN.NOUNS.9
+msgctxt "UI.WORLDGEN.NOUNS.9"
+msgid "Wendy's pigtails..."
+msgstr "ウェンディの三つ編みを"
+
+#. UI.WORLDGEN.TITLE
+msgctxt "UI.WORLDGEN.TITLE"
+msgid "GENERATING WORLD"
+msgstr "世界構築中"
+
+#. UI.WORLDGEN.VERBS.1
+msgctxt "UI.WORLDGEN.VERBS.1"
+msgid "Wrangling"
+msgstr "口論"
+
+#. UI.WORLDGEN.VERBS.10
+msgctxt "UI.WORLDGEN.VERBS.10"
+msgid "Crafting"
+msgstr "製作中…"
+
+#. UI.WORLDGEN.VERBS.11
+msgctxt "UI.WORLDGEN.VERBS.11"
+msgid "Imbuing"
+msgstr "しみこませ中…"
+
+#. UI.WORLDGEN.VERBS.12
+msgctxt "UI.WORLDGEN.VERBS.12"
+msgid "Randomizing"
+msgstr "無作為に抽出中…"
+
+#. UI.WORLDGEN.VERBS.13
+msgctxt "UI.WORLDGEN.VERBS.13"
+msgid "Redecorating"
+msgstr "改装中…"
+
+#. UI.WORLDGEN.VERBS.14
+msgctxt "UI.WORLDGEN.VERBS.14"
+msgid "Sprucing up"
+msgstr "整頓中…"
+
+#. UI.WORLDGEN.VERBS.15
+msgctxt "UI.WORLDGEN.VERBS.15"
+msgid "Manifesting"
+msgstr "明示中…"
+
+#. UI.WORLDGEN.VERBS.16
+msgctxt "UI.WORLDGEN.VERBS.16"
+msgid "Summoning"
+msgstr "召喚中…"
+
+#. UI.WORLDGEN.VERBS.17
+msgctxt "UI.WORLDGEN.VERBS.17"
+msgid "Compiling"
+msgstr "コンパイル中…"
+
+#. UI.WORLDGEN.VERBS.18
+msgctxt "UI.WORLDGEN.VERBS.18"
+msgid "Building"
+msgstr "建設中…"
+
+#. UI.WORLDGEN.VERBS.19
+msgctxt "UI.WORLDGEN.VERBS.19"
+msgid "Spawning"
+msgstr "生成中…"
+
+#. UI.WORLDGEN.VERBS.2
+msgctxt "UI.WORLDGEN.VERBS.2"
+msgid "Generating"
+msgstr "作成中"
+
+#. UI.WORLDGEN.VERBS.20
+msgctxt "UI.WORLDGEN.VERBS.20"
+msgid "Rendering"
+msgstr "レンダリング中…"
+
+#. UI.WORLDGEN.VERBS.21
+msgctxt "UI.WORLDGEN.VERBS.21"
+msgid "Enchanting"
+msgstr "エンチャント中…"
+
+#. UI.WORLDGEN.VERBS.22
+msgctxt "UI.WORLDGEN.VERBS.22"
+msgid "Solving"
+msgstr "解決中…"
+
+#. UI.WORLDGEN.VERBS.3
+msgctxt "UI.WORLDGEN.VERBS.3"
+msgid "Herding"
+msgstr "群れの世話"
+
+#. UI.WORLDGEN.VERBS.4
+msgctxt "UI.WORLDGEN.VERBS.4"
+msgid "Embiggening"
+msgstr "肥大化中"
+
+#. UI.WORLDGEN.VERBS.5
+msgctxt "UI.WORLDGEN.VERBS.5"
+msgid "Iterating upon"
+msgstr "反復"
+
+#. UI.WORLDGEN.VERBS.6
+msgctxt "UI.WORLDGEN.VERBS.6"
+msgid "Insinuating"
+msgstr "ほのめかす"
+
+#. UI.WORLDGEN.VERBS.7
+msgctxt "UI.WORLDGEN.VERBS.7"
+msgid "Reticulating"
+msgstr "網上進化"
+
+#. UI.WORLDGEN.VERBS.8
+msgctxt "UI.WORLDGEN.VERBS.8"
+msgid "Inserting"
+msgstr "挿入"
+
+#. UI.WORLDGEN.VERBS.9
+msgctxt "UI.WORLDGEN.VERBS.9"
+msgid "Framing"
+msgstr "囲む"
+

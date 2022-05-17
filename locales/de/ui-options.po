@@ -1,0 +1,825 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.OPTIONS.ACCEPT
+msgctxt "UI.OPTIONS.ACCEPT"
+msgid "Accept"
+msgstr "Annehmen"
+
+#. UI.OPTIONS.ACCEPTBODY
+msgctxt "UI.OPTIONS.ACCEPTBODY"
+msgid "Do you wish to accept these changes?"
+msgstr "Sollen diese Änderungen übernommen werden?"
+
+#. UI.OPTIONS.ACCEPTGRAPHICSBODY
+msgctxt "UI.OPTIONS.ACCEPTGRAPHICSBODY"
+msgid "Do you wish to accept these changes?"
+msgstr "Sollen diese Änderungen übernommen werden?"
+
+#. UI.OPTIONS.ACCEPTGRAPHICSTITLE
+msgctxt "UI.OPTIONS.ACCEPTGRAPHICSTITLE"
+msgid "Accept Changes"
+msgstr "Änderungen annehmen"
+
+#. UI.OPTIONS.ACCEPTTITLE
+msgctxt "UI.OPTIONS.ACCEPTTITLE"
+msgid "Accept Changes"
+msgstr "Änderungen annehmen"
+
+#. UI.OPTIONS.ACTION
+msgctxt "UI.OPTIONS.ACTION"
+msgid "Action"
+msgstr "Aktion"
+
+#. UI.OPTIONS.ADVANCED
+msgctxt "UI.OPTIONS.ADVANCED"
+msgid "Advanced"
+msgstr "Erweitert"
+
+#. UI.OPTIONS.AMBIENT
+msgctxt "UI.OPTIONS.AMBIENT"
+msgid "Ambient Volume:"
+msgstr "Hintergrundlautstärke:"
+
+#. UI.OPTIONS.ANIMATED_HEADS
+msgctxt "UI.OPTIONS.ANIMATED_HEADS"
+msgid "Moving Head Icons:"
+msgstr "Animierte Kopf-Icons:"
+
+#. UI.OPTIONS.APPLY
+msgctxt "UI.OPTIONS.APPLY"
+msgid "Apply"
+msgstr "Übernehmen"
+
+#. UI.OPTIONS.AUTOLOGIN
+msgctxt "UI.OPTIONS.AUTOLOGIN"
+msgid "Auto-Login:"
+msgstr "Autom. Anmeldung:"
+
+#. UI.OPTIONS.AUTOMODS
+msgctxt "UI.OPTIONS.AUTOMODS"
+msgid "Auto-Subscribe Mods:"
+msgstr "Autom. aktivierte Mods:"
+
+#. UI.OPTIONS.AUTOPAUSE
+msgctxt "UI.OPTIONS.AUTOPAUSE"
+msgid "Auto-Pause:"
+msgstr "Auto-Pause:"
+
+#. UI.OPTIONS.AUTOSAVE
+msgctxt "UI.OPTIONS.AUTOSAVE"
+msgid "Auto-save"
+msgstr "Auto-Speichern"
+
+#. UI.OPTIONS.BACK
+msgctxt "UI.OPTIONS.BACK"
+msgid "Back"
+msgstr "Zurück"
+
+#. UI.OPTIONS.BACKBODY
+msgctxt "UI.OPTIONS.BACKBODY"
+msgid "Do you want to throw out your changes?"
+msgstr "Sollen deine Änderungen verworfen werden?"
+
+#. UI.OPTIONS.BACKBODY_PS4
+msgctxt "UI.OPTIONS.BACKBODY_PS4"
+msgid "You've made changes. How you want to proceed?"
+msgstr "Du hast Änderungen vorgenommen. Möchtest du fortfahren?"
+
+#. UI.OPTIONS.BACKPACKMODE
+msgctxt "UI.OPTIONS.BACKPACKMODE"
+msgid "Backpack Layout:"
+msgstr "Rucksack-Layout:"
+
+#. UI.OPTIONS.BACKTITLE
+msgctxt "UI.OPTIONS.BACKTITLE"
+msgid "Lose Changes?"
+msgstr "Änderungen verwerfen?"
+
+#. UI.OPTIONS.BACKTITLE_PS4
+msgctxt "UI.OPTIONS.BACKTITLE_PS4"
+msgid "Wait!"
+msgstr "Warte!"
+
+#. UI.OPTIONS.BLOOM
+msgctxt "UI.OPTIONS.BLOOM"
+msgid "Bloom:"
+msgstr "Bloom:"
+
+#. UI.OPTIONS.BOATCAMERA
+msgctxt "UI.OPTIONS.BOATCAMERA"
+msgid "Seafaring Camera:"
+msgstr "Bootskamera:"
+
+#. UI.OPTIONS.BUGREPORT
+msgctxt "UI.OPTIONS.BUGREPORT"
+msgid "Submit a Bug Report"
+msgstr "Fehlerbericht einsenden"
+
+#. UI.OPTIONS.CANCEL
+msgctxt "UI.OPTIONS.CANCEL"
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#. UI.OPTIONS.CINEMATICS
+msgctxt "UI.OPTIONS.CINEMATICS"
+msgid "Cinematics"
+msgstr "Cinematic"
+
+#. UI.OPTIONS.CLOSE
+msgctxt "UI.OPTIONS.CLOSE"
+msgid "Close"
+msgstr "Schließen"
+
+#. UI.OPTIONS.CONSOLEAUTOPAUSE
+msgctxt "UI.OPTIONS.CONSOLEAUTOPAUSE"
+msgid "Console Auto-Pause:"
+msgstr "Auto-Pause, Konsole:"
+
+#. UI.OPTIONS.CONTROLS
+msgctxt "UI.OPTIONS.CONTROLS"
+msgid "Controls"
+msgstr "Steuerung"
+
+#. UI.OPTIONS.CRAFTINGAUTOPAUSE
+msgctxt "UI.OPTIONS.CRAFTINGAUTOPAUSE"
+msgid "Crafting Auto-Pause:"
+msgstr "Auto-Pause wird gefertigt:"
+
+#. UI.OPTIONS.CRAFTINGHINTALLRECIPES
+msgctxt "UI.OPTIONS.CRAFTINGHINTALLRECIPES"
+msgid "Crafting Preview:"
+msgstr "Vorschau wird gefertigt:"
+
+#. UI.OPTIONS.CRAFTINGMENUBUFFEREDBUILDAUTOCLOSE
+msgctxt "UI.OPTIONS.CRAFTINGMENUBUFFEREDBUILDAUTOCLOSE"
+msgid "Crafting Auto-Close:"
+msgstr "Auto-Schließung wird gefertigt:"
+
+#. UI.OPTIONS.CRAFTINGMENUNUMPINPAGES
+msgctxt "UI.OPTIONS.CRAFTINGMENUNUMPINPAGES"
+msgid "Crafting Pin Pages:"
+msgstr "Pin-Seiten werden gefertigt:"
+
+#. UI.OPTIONS.CRAFTINGMENUSENSITIVITY
+msgctxt "UI.OPTIONS.CRAFTINGMENUSENSITIVITY"
+msgid "Crafting Sensitivity:"
+msgstr "Empfindlichkeit wird gefertigt:"
+
+#. UI.OPTIONS.CRAFTINGMENUSIZE
+msgctxt "UI.OPTIONS.CRAFTINGMENUSIZE"
+msgid "Crafting Menu Size:"
+msgstr "Menü-Größe wird gefertigt:"
+
+#. UI.OPTIONS.CRAFTING_HINTALL_ENABLED
+msgctxt "UI.OPTIONS.CRAFTING_HINTALL_ENABLED"
+msgid "All Recipes"
+msgstr "Alle Rezepte"
+
+#. UI.OPTIONS.CREDITS
+msgctxt "UI.OPTIONS.CREDITS"
+msgid "Credits"
+msgstr "Credits"
+
+#. UI.OPTIONS.DATACOLLECTION
+msgctxt "UI.OPTIONS.DATACOLLECTION"
+msgid "Data Collection:"
+msgstr "Datenerfassung:"
+
+#. UI.OPTIONS.DEFAULT
+msgctxt "UI.OPTIONS.DEFAULT"
+msgid "Default"
+msgstr "Standard"
+
+#. UI.OPTIONS.DEFAULTCLOUDSAVES
+msgctxt "UI.OPTIONS.DEFAULTCLOUDSAVES"
+msgid "Default Save Type:"
+msgstr "Standard-Speichertyp:"
+
+#. UI.OPTIONS.DIM
+msgctxt "UI.OPTIONS.DIM"
+msgid "Dim"
+msgstr "Gedimmt"
+
+#. UI.OPTIONS.DIMMEST
+msgctxt "UI.OPTIONS.DIMMEST"
+msgid "Dimmest"
+msgstr "Stark gedimmt"
+
+#. UI.OPTIONS.DISABLED
+msgctxt "UI.OPTIONS.DISABLED"
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+#. UI.OPTIONS.DISPLAY
+msgctxt "UI.OPTIONS.DISPLAY"
+msgid "Display:"
+msgstr "Anzeige:"
+
+#. UI.OPTIONS.DISPLAY_AREA_BUTTON
+msgctxt "UI.OPTIONS.DISPLAY_AREA_BUTTON"
+msgid "Adjust"
+msgstr "Ausrichten"
+
+#. UI.OPTIONS.DISPLAY_AREA_LABEL
+msgctxt "UI.OPTIONS.DISPLAY_AREA_LABEL"
+msgid "Display Area:"
+msgstr "Bildbereich:"
+
+#. UI.OPTIONS.DISTORTION
+msgctxt "UI.OPTIONS.DISTORTION"
+msgid "Distortion:"
+msgstr "Verzerrung:"
+
+#. UI.OPTIONS.DYNAMICCONTENT_ENABLE
+msgctxt "UI.OPTIONS.DYNAMICCONTENT_ENABLE"
+msgid "Re-enable Dynamic Content"
+msgstr "Dynamische Inhalte wieder aktivieren"
+
+#. UI.OPTIONS.DYNAMIC_TREE_SHADOWS
+msgctxt "UI.OPTIONS.DYNAMIC_TREE_SHADOWS"
+msgid "Canopy Shadows:"
+msgstr "Baldachinschatten:"
+
+#. UI.OPTIONS.ENABLED
+msgctxt "UI.OPTIONS.ENABLED"
+msgid "Enabled"
+msgstr "Aktiviert"
+
+#. UI.OPTIONS.EULA
+msgctxt "UI.OPTIONS.EULA"
+msgid "Review the EULA"
+msgstr "EULA ansehen"
+
+#. UI.OPTIONS.EULA_RESPONSE_CHANGED_BODY
+msgctxt "UI.OPTIONS.EULA_RESPONSE_CHANGED_BODY"
+msgid "Your settings have changed and you must log in again to continue."
+msgstr "Deine Einstellungen wurden geändert. Du musst dich neu anmelden, um fortzufahren."
+
+#. UI.OPTIONS.EULA_RESPONSE_CHANGED_TITLE
+msgctxt "UI.OPTIONS.EULA_RESPONSE_CHANGED_TITLE"
+msgid "Login Required"
+msgstr "Anmeldung erforderlich"
+
+#. UI.OPTIONS.FULLSCREEN
+msgctxt "UI.OPTIONS.FULLSCREEN"
+msgid "Fullscreen:"
+msgstr "Vollbild:"
+
+#. UI.OPTIONS.FX
+msgctxt "UI.OPTIONS.FX"
+msgid "Sound FX Volume:"
+msgstr "Effektlautstärke:"
+
+#. UI.OPTIONS.GRAPHICS
+msgctxt "UI.OPTIONS.GRAPHICS"
+msgid "Graphics"
+msgstr "Grafik"
+
+#. UI.OPTIONS.HUDSIZE
+msgctxt "UI.OPTIONS.HUDSIZE"
+msgid "HUD Size:"
+msgstr "HUD-Größe:"
+
+#. UI.OPTIONS.INPUT
+msgctxt "UI.OPTIONS.INPUT"
+msgid "Input Device:"
+msgstr "Eingabegerät:"
+
+#. UI.OPTIONS.INTEGRATEDBACKPACK_DISABLED
+msgctxt "UI.OPTIONS.INTEGRATEDBACKPACK_DISABLED"
+msgid "Separated"
+msgstr "Getrennt"
+
+#. UI.OPTIONS.INTEGRATEDBACKPACK_ENABLED
+msgctxt "UI.OPTIONS.INTEGRATEDBACKPACK_ENABLED"
+msgid "Integrated"
+msgstr "Integriert"
+
+#. UI.OPTIONS.INTRO_MOVIE
+msgctxt "UI.OPTIONS.INTRO_MOVIE"
+msgid "Intro Movie"
+msgstr "Introfilm"
+
+#. UI.OPTIONS.INVENTORYSENSITIVITY
+msgctxt "UI.OPTIONS.INVENTORYSENSITIVITY"
+msgid "Inventory Sensitivity:"
+msgstr "Inventar-Empfindlichkeit:"
+
+#. UI.OPTIONS.INVERT
+msgctxt "UI.OPTIONS.INVERT"
+msgid "Inverted"
+msgstr "Invertiert"
+
+#. UI.OPTIONS.INVERTCAMERAROTATION
+msgctxt "UI.OPTIONS.INVERTCAMERAROTATION"
+msgid "Camera Rotation"
+msgstr "Kamera-Drehung"
+
+#. UI.OPTIONS.KLEI_ID_PREFIX
+msgctxt "UI.OPTIONS.KLEI_ID_PREFIX"
+msgid "Klei ID: "
+msgstr "Klei-ID: "
+
+#. UI.OPTIONS.LANGUAGES
+msgctxt "UI.OPTIONS.LANGUAGES"
+msgid "Languages"
+msgstr "Sprachen"
+
+#. UI.OPTIONS.LANG_BODY_STEAM
+msgctxt "UI.OPTIONS.LANG_BODY_STEAM"
+msgid "Your Steam interface is set to a language other than English, would you like to view language options?"
+msgstr "Deine Steam-Oberfläche ist auf eine andere Sprache als Englisch eingestellt. Möchtest du die Sprachoptionen anzeigen?"
+
+#. UI.OPTIONS.LANG_TITLE
+msgctxt "UI.OPTIONS.LANG_TITLE"
+msgid "Language Options"
+msgstr "Sprachoptionen"
+
+#. UI.OPTIONS.LOADING_TIPS
+msgctxt "UI.OPTIONS.LOADING_TIPS"
+msgid "Loading Tips"
+msgstr "Tipps werden geladen"
+
+#. UI.OPTIONS.LOADING_TIPS_LORE_ONLY
+msgctxt "UI.OPTIONS.LOADING_TIPS_LORE_ONLY"
+msgid "Lore Only"
+msgstr "Nur Hintergrundwissen"
+
+#. UI.OPTIONS.LOADING_TIPS_SHOW_ALL
+msgctxt "UI.OPTIONS.LOADING_TIPS_SHOW_ALL"
+msgid "All"
+msgstr "Alle"
+
+#. UI.OPTIONS.LOADING_TIPS_SHOW_NONE
+msgctxt "UI.OPTIONS.LOADING_TIPS_SHOW_NONE"
+msgid "None"
+msgstr "Keine"
+
+#. UI.OPTIONS.LOADING_TIPS_TIPS_ONLY
+msgctxt "UI.OPTIONS.LOADING_TIPS_TIPS_ONLY"
+msgid "Tips Only"
+msgstr "Nur Tipps"
+
+#. UI.OPTIONS.LOCAL_SAVES
+msgctxt "UI.OPTIONS.LOCAL_SAVES"
+msgid "Local Files"
+msgstr "Lokale Dateien"
+
+#. UI.OPTIONS.MOD_LANGUAGES_TITLE
+msgctxt "UI.OPTIONS.MOD_LANGUAGES_TITLE"
+msgid "Steam Workshop Collections"
+msgstr "Steam Workshop-Sammlungen"
+
+#. UI.OPTIONS.MORE
+msgctxt "UI.OPTIONS.MORE"
+msgid "More"
+msgstr "Mehr"
+
+#. UI.OPTIONS.MOVEMENTPREDICTION
+msgctxt "UI.OPTIONS.MOVEMENTPREDICTION"
+msgid "Lag Compensation:"
+msgstr "Verzög.kompensierung:"
+
+#. UI.OPTIONS.MOVEMENTPREDICTION_DISABLED
+msgctxt "UI.OPTIONS.MOVEMENTPREDICTION_DISABLED"
+msgid "None"
+msgstr "Keine"
+
+#. UI.OPTIONS.MOVEMENTPREDICTION_ENABLED
+msgctxt "UI.OPTIONS.MOVEMENTPREDICTION_ENABLED"
+msgid "Predictive"
+msgstr "Prognose"
+
+#. UI.OPTIONS.MUSIC
+msgctxt "UI.OPTIONS.MUSIC"
+msgid "Music Volume:"
+msgstr "Musiklautstärke:"
+
+#. UI.OPTIONS.NETBOOKMODE
+msgctxt "UI.OPTIONS.NETBOOKMODE"
+msgid "Netbook Mode:"
+msgstr "Netbook-Modus:"
+
+#. UI.OPTIONS.NO
+msgctxt "UI.OPTIONS.NO"
+msgid "No"
+msgstr "Nein"
+
+#. UI.OPTIONS.OFFLINE_MODE_BODY
+msgctxt "UI.OPTIONS.OFFLINE_MODE_BODY"
+msgid "Your selection is not available in offline mode. Please log in and try again."
+msgstr "Deine Auswahl ist im Offline-Modus nicht verfügbar. Melde dich an und versuch es noch einmal."
+
+#. UI.OPTIONS.OFFLINE_MODE_TITLE
+msgctxt "UI.OPTIONS.OFFLINE_MODE_TITLE"
+msgid "Offline Mode"
+msgstr "Offline-Modus"
+
+#. UI.OPTIONS.OK
+msgctxt "UI.OPTIONS.OK"
+msgid "Okay"
+msgstr "OK"
+
+#. UI.OPTIONS.OPTIONS
+msgctxt "UI.OPTIONS.OPTIONS"
+msgid "Options"
+msgstr "Optionen"
+
+#. UI.OPTIONS.REDEEM
+msgctxt "UI.OPTIONS.REDEEM"
+msgid "Redeem a Code"
+msgstr "Einen Code einlösen"
+
+#. UI.OPTIONS.REFRESHRATE
+msgctxt "UI.OPTIONS.REFRESHRATE"
+msgid "Refresh Rate:"
+msgstr "Wiederholrate:"
+
+#. UI.OPTIONS.RESOLUTION
+msgctxt "UI.OPTIONS.RESOLUTION"
+msgid "Resolution:"
+msgstr "Auflösung:"
+
+#. UI.OPTIONS.RESTART_TEXTURE_STREAMING_BODY
+msgctxt "UI.OPTIONS.RESTART_TEXTURE_STREAMING_BODY"
+msgid "For Texture Streaming changes to take effect, you will have to exit and restart the game."
+msgstr "Das Spiel muss beendet und neu gestartet werden, damit Änderungen beim Textur-Streaming wirksam werden."
+
+#. UI.OPTIONS.RESTART_TEXTURE_STREAMING_TITLE
+msgctxt "UI.OPTIONS.RESTART_TEXTURE_STREAMING_TITLE"
+msgid "Restart Required"
+msgstr "Neustart erforderlich"
+
+#. UI.OPTIONS.RESTART_THREADED_RENDER_BODY
+msgctxt "UI.OPTIONS.RESTART_THREADED_RENDER_BODY"
+msgid "For Threaded Render changes to take effect, you will have to exit and restart the game."
+msgstr "Damit die Änderungen am Threaded Rendering wirksam werden, musst du das Spiel beenden und neu starten."
+
+#. UI.OPTIONS.RESTART_THREADED_RENDER_TITLE
+msgctxt "UI.OPTIONS.RESTART_THREADED_RENDER_TITLE"
+msgid "Restart Required"
+msgstr "Neustart erforderlich"
+
+#. UI.OPTIONS.REVERT
+msgctxt "UI.OPTIONS.REVERT"
+msgid "Revert Changes"
+msgstr "Änderungen rückgängig machen"
+
+#. UI.OPTIONS.SCREENSHAKE
+msgctxt "UI.OPTIONS.SCREENSHAKE"
+msgid "Screen Shake:"
+msgstr "Bildwackeln:"
+
+#. UI.OPTIONS.SCREEN_FLASH_INTENSITY
+msgctxt "UI.OPTIONS.SCREEN_FLASH_INTENSITY"
+msgid "Screen Flashes:"
+msgstr "Blitzende Lichter:"
+
+#. UI.OPTIONS.SERVER_NAME_PROFANITY_CHAT_FILTER
+msgctxt "UI.OPTIONS.SERVER_NAME_PROFANITY_CHAT_FILTER"
+msgid "Steam Chat Filtering:"
+msgstr "Steam-Chat-Filter:"
+
+#. UI.OPTIONS.SERVER_NAME_PROFANITY_FILTER
+msgctxt "UI.OPTIONS.SERVER_NAME_PROFANITY_FILTER"
+msgid "Filter Server Names:"
+msgstr "Servernamen filtern:"
+
+#. UI.OPTIONS.SETTINGS
+msgctxt "UI.OPTIONS.SETTINGS"
+msgid "Settings"
+msgstr "Einstellungen"
+
+#. UI.OPTIONS.SHOWPASSWORD
+msgctxt "UI.OPTIONS.SHOWPASSWORD"
+msgid "Show Passwords:"
+msgstr "Passwörter anzeigen:"
+
+#. UI.OPTIONS.SMALLTEXTURES
+msgctxt "UI.OPTIONS.SMALLTEXTURES"
+msgid "Small Textures:"
+msgstr "Kleine Texturen:"
+
+#. UI.OPTIONS.SNAPSHOTS
+msgctxt "UI.OPTIONS.SNAPSHOTS"
+msgid "Server Snapshots"
+msgstr "Server-Snapshots"
+
+#. UI.OPTIONS.STEAM_CLOUD_SAVES
+msgctxt "UI.OPTIONS.STEAM_CLOUD_SAVES"
+msgid "Steam Cloud"
+msgstr "Steam-Cloud"
+
+#. UI.OPTIONS.TARGETLOCKING
+msgctxt "UI.OPTIONS.TARGETLOCKING"
+msgid "Target Locking:"
+msgstr "Zielsperre:"
+
+#. UI.OPTIONS.TEXTURESTREAMING
+msgctxt "UI.OPTIONS.TEXTURESTREAMING"
+msgid "Texture Streaming:"
+msgstr "Textur-Streaming"
+
+#. UI.OPTIONS.THREADEDRENDER
+msgctxt "UI.OPTIONS.THREADEDRENDER"
+msgid "Threaded Render:"
+msgstr "Threaded Render:"
+
+#. UI.OPTIONS.TITLE
+msgctxt "UI.OPTIONS.TITLE"
+msgid "Game Options"
+msgstr "Spieloptionen"
+
+#. UI.OPTIONS.TOOLTIPS.ADVANCED
+msgctxt "UI.OPTIONS.TOOLTIPS.ADVANCED"
+msgid "Modify advanced features of the game and user interface"
+msgstr "Verändere erweiterte Funktionen des Spiels und der Benutzeroberfläche"
+
+#. UI.OPTIONS.TOOLTIPS.AMBIENT
+msgctxt "UI.OPTIONS.TOOLTIPS.AMBIENT"
+msgid "The environment makes noise too, luckily you can control how loudly it does."
+msgstr "Auch die Umgebung macht Lärm, zum Glück kannst du kontrollieren, wie laut er ist."
+
+#. UI.OPTIONS.TOOLTIPS.ANIMATED_HEADS
+msgctxt "UI.OPTIONS.TOOLTIPS.ANIMATED_HEADS"
+msgid "Animates the survivor's heads in the menus."
+msgstr "Animiert die Köpfe der Überlebenden in den Menüs."
+
+#. UI.OPTIONS.TOOLTIPS.AUTOLOGIN
+msgctxt "UI.OPTIONS.TOOLTIPS.AUTOLOGIN"
+msgid "Log into your Klei account automatically when booting up Don't Starve Together."
+msgstr "Melde dich automatisch bei deinem Klei-Konto an, wenn du Don't Starve Together startest."
+
+#. UI.OPTIONS.TOOLTIPS.AUTOMODS
+msgctxt "UI.OPTIONS.TOOLTIPS.AUTOMODS"
+msgid "Keep up to date with the mods of all the servers you join."
+msgstr "Halte dich mit den Mods aller Server, denen du beitrittst, auf dem Laufenden."
+
+#. UI.OPTIONS.TOOLTIPS.AUTOPAUSE
+msgctxt "UI.OPTIONS.TOOLTIPS.AUTOPAUSE"
+msgid "When you are the only player in the world, this will pause the game while you are in the ingame menus, crafting, or viewing the cookbook or plant registry. If there are other players in the world, only the server admin will have permissions to pause the game."
+msgstr "Wenn du der einzige Spieler in der Welt bist, wird das Spiel angehalten, während du dich in den Menüs im Spiel befindest, etwas herstellst oder das Kochbuch oder das Pflanzenregister ansiehst. Wenn andere Spieler in der Welt sind, hat nur der Server-Admin die Berechtigung, das Spiel anzuhalten."
+
+#. UI.OPTIONS.TOOLTIPS.BACKPACKMODE
+msgctxt "UI.OPTIONS.TOOLTIPS.BACKPACKMODE"
+msgid "Change how the contents of the backpack are displayed. Integrated with the inventory bar or separated at the side of the screen."
+msgstr "Ändere, wie der Inhalt des Rucksacks angezeigt wird. Integriert in die Inventarleiste oder separat an der Seite des Bildschirms."
+
+#. UI.OPTIONS.TOOLTIPS.BLOOM
+msgctxt "UI.OPTIONS.TOOLTIPS.BLOOM"
+msgid "Increases the visual intensity of lights."
+msgstr "Erhöht die visuelle Intensität der Beleuchtung."
+
+#. UI.OPTIONS.TOOLTIPS.BOATCAMERA
+msgctxt "UI.OPTIONS.TOOLTIPS.BOATCAMERA"
+msgid "Allows the camera to focus on your boat while sailing."
+msgstr "Damit kann die Kamera beim Fahren auf dein Boot fokussieren."
+
+#. UI.OPTIONS.TOOLTIPS.CINEMATICS
+msgctxt "UI.OPTIONS.TOOLTIPS.CINEMATICS"
+msgid "Sit back and watch a video"
+msgstr "Lehn dich zurück und sieh dir ein Video an."
+
+#. UI.OPTIONS.TOOLTIPS.CONSOLEAUTOPAUSE
+msgctxt "UI.OPTIONS.TOOLTIPS.CONSOLEAUTOPAUSE"
+msgid "Allows the server to auto-pause while the console screen is open."
+msgstr "Ermöglicht es dem Server, automatisch zu pausieren, während der Konsolenbildschirm geöffnet ist."
+
+#. UI.OPTIONS.TOOLTIPS.CONTROLS
+msgctxt "UI.OPTIONS.TOOLTIPS.CONTROLS"
+msgid "Rebind which input does which in-game action"
+msgstr "Stelle ein, welche Aktionen was im Spiel bewirken."
+
+#. UI.OPTIONS.TOOLTIPS.CONTROLS_CONSOLE
+msgctxt "UI.OPTIONS.TOOLTIPS.CONTROLS_CONSOLE"
+msgid "Check which control does which in-game action"
+msgstr "Erhalte einen Überblick über Spielsteuerung und Tastenbelegung."
+
+#. UI.OPTIONS.TOOLTIPS.CRAFTINGAUTOPAUSE
+msgctxt "UI.OPTIONS.TOOLTIPS.CRAFTINGAUTOPAUSE"
+msgid "When you are the only player in the world, this will pause the game while the crafting menu is open."
+msgstr "Wenn du der einzige Spieler in der Welt bist, wird das Spiel angehalten, während das Herstellungsmenü geöffnet ist."
+
+#. UI.OPTIONS.TOOLTIPS.CRAFTINGHINTALLRECIPES
+msgctxt "UI.OPTIONS.TOOLTIPS.CRAFTINGHINTALLRECIPES"
+msgid "Preview the next available research tier or show all locked recipes."
+msgstr "Vorschau der nächsten verfügbaren Forschungsstufe oder aller gesperrten Rezepte."
+
+#. UI.OPTIONS.TOOLTIPS.CRAFTINGMENUBUFFEREDBUILDAUTOCLOSE
+msgctxt "UI.OPTIONS.TOOLTIPS.CRAFTINGMENUBUFFEREDBUILDAUTOCLOSE"
+msgid "Closes the crafting menu when building a structure that is placed in the world."
+msgstr "Schließt das Herstellungsmenü, wenn du eine Struktur baust, die in der Welt aufgestellt wird."
+
+#. UI.OPTIONS.TOOLTIPS.CRAFTINGMENUNUMPINPAGES
+msgctxt "UI.OPTIONS.TOOLTIPS.CRAFTINGMENUNUMPINPAGES"
+msgid "Set how many pages of pinned recipes you would like to cycle through."
+msgstr "Lege fest, wie viele Seiten mit gepinnten Rezepten du durchblättern möchtest."
+
+#. UI.OPTIONS.TOOLTIPS.CRAFTINGMENUSENSITIVITY
+msgctxt "UI.OPTIONS.TOOLTIPS.CRAFTINGMENUSENSITIVITY"
+msgid "Adjust the input sensitivity while navigating through the crafting menu."
+msgstr "Stelle die Eingabeempfindlichkeit ein, während du durch das Herstellungsmenü navigierst."
+
+#. UI.OPTIONS.TOOLTIPS.CRAFTINGMENUSIZE
+msgctxt "UI.OPTIONS.TOOLTIPS.CRAFTINGMENUSIZE"
+msgid "Customize the size of the crafting menu."
+msgstr "Passe die Größe des Herstellungsmenüs an."
+
+#. UI.OPTIONS.TOOLTIPS.DATACOLLECTION
+msgctxt "UI.OPTIONS.TOOLTIPS.DATACOLLECTION"
+msgid "We collect metrics and telemetry on Don't Starve Together, including how long and how often you play. This information helps us troubleshoot the game, provide rewards, and improve your experience. Refer to https://www.klei.com/privacy-policy for more information."
+msgstr "Wir sammeln Metriken und Telemetriedaten zu Don't Starve Together, z. B. wie lange und wie oft du spielst. Diese Informationen helfen uns bei der Fehlerbehebung im Spiel, bei der Bereitstellung von Belohnungen und bei der Verbesserung deines Spielerlebnisses. Weitere Informationen findest du unter https://www.klei.com/privacy-policy."
+
+#. UI.OPTIONS.TOOLTIPS.DEFAULTCLOUDSAVES
+msgctxt "UI.OPTIONS.TOOLTIPS.DEFAULTCLOUDSAVES"
+msgid "Chooses whether new saves will be stored in the cloud or not by default."
+msgstr "Legt fest, ob neue Spielstände standardmäßig in der Cloud gespeichert werden sollen."
+
+#. UI.OPTIONS.TOOLTIPS.DISPLAY
+msgctxt "UI.OPTIONS.TOOLTIPS.DISPLAY"
+msgid "Got multiple screens? We've got you covered, choose where the game window goes when playing the game. (Fullscreen only)"
+msgstr "Hast du mehrere Bildschirme? Wir haben die Lösung für dich: Wähle aus, wo das Spielfenster beim Spielen angezeigt wird. (Nur im Vollbildmodus)"
+
+#. UI.OPTIONS.TOOLTIPS.DISPLAYAREA
+msgctxt "UI.OPTIONS.TOOLTIPS.DISPLAYAREA"
+msgid "Maximize the screen size on your display."
+msgstr "Maximiere die Bildschirmgröße auf deinem Display."
+
+#. UI.OPTIONS.TOOLTIPS.DISTORTION
+msgctxt "UI.OPTIONS.TOOLTIPS.DISTORTION"
+msgid "Allows you to turn off screen distortions in the game, especially notable during moments of insanity."
+msgstr "Ermöglicht es dir, Bildschirmverzerrungen im Spiel auszuschalten, was besonders in Phasen des Wahnsinns wichtig ist."
+
+#. UI.OPTIONS.TOOLTIPS.DYNAMIC_TREE_SHADOWS
+msgctxt "UI.OPTIONS.TOOLTIPS.DYNAMIC_TREE_SHADOWS"
+msgid "Renders the ground shadow while under a canopy."
+msgstr "Stellt den Bodenschatten dar, wenn man sich unter einem Blätterdach befindet."
+
+#. UI.OPTIONS.TOOLTIPS.FULLSCREEN
+msgctxt "UI.OPTIONS.TOOLTIPS.FULLSCREEN"
+msgid "Fill your screen with Don't Starve Together."
+msgstr "Fülle deinen Bildschirm mit Don't Starve Together."
+
+#. UI.OPTIONS.TOOLTIPS.FX
+msgctxt "UI.OPTIONS.TOOLTIPS.FX"
+msgid "Change how loud things are in the world."
+msgstr "Stelle die Lautstärke der Dinge in der Welt ein."
+
+#. UI.OPTIONS.TOOLTIPS.GRAPHICS
+msgctxt "UI.OPTIONS.TOOLTIPS.GRAPHICS"
+msgid "Modify the graphics settings"
+msgstr "Grafikeinstellungen ändern"
+
+#. UI.OPTIONS.TOOLTIPS.HUDSIZE
+msgctxt "UI.OPTIONS.TOOLTIPS.HUDSIZE"
+msgid "Customize the size of your Heads Up Display."
+msgstr "Passe die Größe des HUD an."
+
+#. UI.OPTIONS.TOOLTIPS.INPUT
+msgctxt "UI.OPTIONS.TOOLTIPS.INPUT"
+msgid "Controller or Keyboard? Play Don't Starve Together your way."
+msgstr "Controller oder Tastatur? Spiele Don't Starve Together auf deine eigene Art."
+
+#. UI.OPTIONS.TOOLTIPS.INVENTORYSENSITIVITY
+msgctxt "UI.OPTIONS.TOOLTIPS.INVENTORYSENSITIVITY"
+msgid "Adjust the input sensitivity while navigating through the inventory."
+msgstr "Passe die Eingabeempfindlichkeit an, während du durch das Inventar navigierst."
+
+#. UI.OPTIONS.TOOLTIPS.INVERTCAMERAROTATION
+msgctxt "UI.OPTIONS.TOOLTIPS.INVERTCAMERAROTATION"
+msgid "Flips the camera rotation direction."
+msgstr "Dreht die Rotationsrichtung der Kamera um."
+
+#. UI.OPTIONS.TOOLTIPS.LANGUAGES
+msgctxt "UI.OPTIONS.TOOLTIPS.LANGUAGES"
+msgid "Select display language"
+msgstr "Wähle die Anzeigesprache."
+
+#. UI.OPTIONS.TOOLTIPS.LOADING_TIPS
+msgctxt "UI.OPTIONS.TOOLTIPS.LOADING_TIPS"
+msgid "Learn more about the lore and the gameplay of Don't Starve while your world loads."
+msgstr "Erfahre mehr über die Geschichte und das Gameplay von Don't Starve, während deine Welt geladen wird."
+
+#. UI.OPTIONS.TOOLTIPS.MORE
+msgctxt "UI.OPTIONS.TOOLTIPS.MORE"
+msgid "View additional options"
+msgstr "Weitere Optionen anzeigen"
+
+#. UI.OPTIONS.TOOLTIPS.MOVEMENTPREDICTION
+msgctxt "UI.OPTIONS.TOOLTIPS.MOVEMENTPREDICTION"
+msgid "Allows the game to predict your movements to compensate for any possible lag."
+msgstr "Erlaubt dem Spiel, deine Bewegungen vorherzusagen, um eine mögliche Verzögerung auszugleichen."
+
+#. UI.OPTIONS.TOOLTIPS.MUSIC
+msgctxt "UI.OPTIONS.TOOLTIPS.MUSIC"
+msgid "Tone up or down the musical fanfare in your adventures."
+msgstr "Du kannst die musikalische Fanfare in deinen Abenteuern auf- oder abschwellen lassen."
+
+#. UI.OPTIONS.TOOLTIPS.NETBOOKMODE
+msgctxt "UI.OPTIONS.TOOLTIPS.NETBOOKMODE"
+msgid "Reduces the game's update frequency. (Only recommended for min-spec computers)"
+msgstr "Verringert die Aktualisierungsfrequenz des Spiels. (Nur für Computer mit geringer Leistung empfohlen)"
+
+#. UI.OPTIONS.TOOLTIPS.REFRESHRATE
+msgctxt "UI.OPTIONS.TOOLTIPS.REFRESHRATE"
+msgid "Customize how many times per second the game screen refreshes. (Fullscreen only)"
+msgstr "Lege fest, wie oft pro Sekunde der Spielbildschirm aktualisiert wird. (Nur im Vollbildmodus)"
+
+#. UI.OPTIONS.TOOLTIPS.RESOLUTION
+msgctxt "UI.OPTIONS.TOOLTIPS.RESOLUTION"
+msgid "Change the game screen resolution. (Fullscreen only)"
+msgstr "Ändere die Auflösung des Spielbildschirms. (Nur im Vollbildmodus)"
+
+#. UI.OPTIONS.TOOLTIPS.SCREENSHAKE
+msgctxt "UI.OPTIONS.TOOLTIPS.SCREENSHAKE"
+msgid "Keep your camera static or allow it to shake freely in moments of high intensity."
+msgstr "Halte deine Kamera statisch oder lass sie in Momenten hoher Intensität einfach wackeln."
+
+#. UI.OPTIONS.TOOLTIPS.SCREEN_FLASH_INTENSITY
+msgctxt "UI.OPTIONS.TOOLTIPS.SCREEN_FLASH_INTENSITY"
+msgid "Control the intensity of screen flashes during explosions and lightning strikes."
+msgstr "Kontrolliere die Intensität der Lichtblitze auf dem Bildschirm bei Explosionen und Blitzeinschlägen."
+
+#. UI.OPTIONS.TOOLTIPS.SERVER_NAME_PROFANITY_CHAT_FILTER
+msgctxt "UI.OPTIONS.TOOLTIPS.SERVER_NAME_PROFANITY_CHAT_FILTER"
+msgid "Use Steam's chat filters. This can be configured in Steam's setting in the section In-Game under Chat Filtering."
+msgstr "Verwende die Chat-Filter von Steam. Diese kannst du in den Steam-Einstellungen im Abschnitt Im Spiel unter Chat-Filterung konfigurieren."
+
+#. UI.OPTIONS.TOOLTIPS.SERVER_NAME_PROFANITY_FILTER
+msgctxt "UI.OPTIONS.TOOLTIPS.SERVER_NAME_PROFANITY_FILTER"
+msgid "Filter out the profanity when browsing the server list. Filtered servers will have their names displayed as \"This server name has been filtered\" and can still be joined."
+msgstr "Filtere die Schimpfwörter heraus, wenn du die Serverliste durchsuchst. Die Namen der gefilterten Server werden als \"Dieser Servername wurde gefiltert\" angezeigt und die Server können weiterhin besucht werden."
+
+#. UI.OPTIONS.TOOLTIPS.SETTINGS
+msgctxt "UI.OPTIONS.TOOLTIPS.SETTINGS"
+msgid "Modify features of the game and user interface"
+msgstr "Bearbeite Spielfunktionen und die Benutzeroberfläche."
+
+#. UI.OPTIONS.TOOLTIPS.SHOWPASSWORD
+msgctxt "UI.OPTIONS.TOOLTIPS.SHOWPASSWORD"
+msgid "Show or hide your passwords."
+msgstr "Zeige oder verbirg deine Passwörter."
+
+#. UI.OPTIONS.TOOLTIPS.SMALLTEXTURES
+msgctxt "UI.OPTIONS.TOOLTIPS.SMALLTEXTURES"
+msgid "Reduces texture quality for better performance. (Only recommended for min-spec computers)"
+msgstr "Reduziert die Texturqualität zugunsten einer besseren Leistung. (Nur für Computer mit geringer Leistung empfohlen)"
+
+#. UI.OPTIONS.TOOLTIPS.TARGETLOCKING
+msgctxt "UI.OPTIONS.TOOLTIPS.TARGETLOCKING"
+msgid "Focus on one target at a time."
+msgstr "Konzentriere dich auf ein Ziel zur Zeit."
+
+#. UI.OPTIONS.TOOLTIPS.TEXTURESTREAMING
+msgctxt "UI.OPTIONS.TOOLTIPS.TEXTURESTREAMING"
+msgid "Reduces the memory overhead for textures. Enabling this should improve performance."
+msgstr "Reduziert den Speicherbedarf für Texturen. Die Aktivierung dieser Funktion sollte die Leistung verbessern."
+
+#. UI.OPTIONS.TOOLTIPS.THREADEDRENDER
+msgctxt "UI.OPTIONS.TOOLTIPS.THREADEDRENDER"
+msgid "Renders the game on a different core. Enabling this should improve performance."
+msgstr "Rendert das Spiel auf einem anderen Kern. Die Aktivierung dieser Funktion sollte die Leistung verbessern."
+
+#. UI.OPTIONS.TOOLTIPS.VIBRATION
+msgctxt "UI.OPTIONS.TOOLTIPS.VIBRATION"
+msgid "Make your controller rumble at key gameplay moments."
+msgstr "Lass deinen Controller in den entscheidenden Momenten des Spiels vibrieren."
+
+#. UI.OPTIONS.TOOLTIPS.WALTERCAMERA
+msgctxt "UI.OPTIONS.TOOLTIPS.WALTERCAMERA"
+msgid "Allows the camera to focus on Walter while he tells campfire stories."
+msgstr "Ermöglicht es der Kamera, sich auf Walter zu konzentrieren, während er am Lagerfeuer Geschichten erzählt."
+
+#. UI.OPTIONS.TOOLTIPS.WATHGRITHRFONT
+msgctxt "UI.OPTIONS.TOOLTIPS.WATHGRITHRFONT"
+msgid "Replaces Wigfrid's o's with ö's when she speaks."
+msgstr "Ersetzt die Os von Wigfrid durch Ös, wenn sie spricht."
+
+#. UI.OPTIONS.VIBRATION
+msgctxt "UI.OPTIONS.VIBRATION"
+msgid "Vibration:"
+msgstr "Vibration:"
+
+#. UI.OPTIONS.VIDEO_CHANNEL
+msgctxt "UI.OPTIONS.VIDEO_CHANNEL"
+msgid "More Klei Videos"
+msgstr "Weitere Videos von Klei"
+
+#. UI.OPTIONS.WALTERCAMERA
+msgctxt "UI.OPTIONS.WALTERCAMERA"
+msgid "Campfire Camera:"
+msgstr "Lagerfeuer-Kamera:"
+
+#. UI.OPTIONS.WATHGRITHRFONT
+msgctxt "UI.OPTIONS.WATHGRITHRFONT"
+msgid "Wigfrid's Umlauts:"
+msgstr "Wigfrids Umlaute:"
+
+#. UI.OPTIONS.YES
+msgctxt "UI.OPTIONS.YES"
+msgid "Yes"
+msgstr "Ja"
+

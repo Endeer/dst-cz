@@ -1,0 +1,2460 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.ACCOUNT.CANCEL
+msgctxt "UI.ACCOUNT.CANCEL"
+msgid "Cancel"
+msgstr "取消"
+
+#. UI.ACCOUNT.CDKEY
+msgctxt "UI.ACCOUNT.CDKEY"
+msgid "Don't Starve CD-Key"
+msgstr "《饑荒》CD 金鑰"
+
+#. UI.ACCOUNT.CREATE
+msgctxt "UI.ACCOUNT.CREATE"
+msgid "Create"
+msgstr "創建"
+
+#. UI.ACCOUNT.EMAIL
+msgctxt "UI.ACCOUNT.EMAIL"
+msgid "Email"
+msgstr "電子郵件"
+
+#. UI.ACCOUNT.LAN
+msgctxt "UI.ACCOUNT.LAN"
+msgid "LAN"
+msgstr "LAN"
+
+#. UI.ACCOUNT.LINKSTEAMACCOUNT
+msgctxt "UI.ACCOUNT.LINKSTEAMACCOUNT"
+msgid "Link Steam Account"
+msgstr "連結 Steam 帳號"
+
+#. UI.ACCOUNT.LOGIN
+msgctxt "UI.ACCOUNT.LOGIN"
+msgid "Login"
+msgstr "登錄"
+
+#. UI.ACCOUNT.LOGINWITHSTEAM
+msgctxt "UI.ACCOUNT.LOGINWITHSTEAM"
+msgid "Login With Steam"
+msgstr "使用 Steam 登錄"
+
+#. UI.ACCOUNT.PASSWORD
+msgctxt "UI.ACCOUNT.PASSWORD"
+msgid "Password"
+msgstr "密碼"
+
+#. UI.ACCOUNT.REGISTER
+msgctxt "UI.ACCOUNT.REGISTER"
+msgid "Register"
+msgstr "註冊"
+
+#. UI.ACCOUNT.USERNAME
+msgctxt "UI.ACCOUNT.USERNAME"
+msgid "User Name"
+msgstr "用戶名"
+
+#. UI.BARTERSCREEN.CANCEL
+msgctxt "UI.BARTERSCREEN.CANCEL"
+msgid "Never mind"
+msgstr "還是算了"
+
+#. UI.BARTERSCREEN.COMMERCE_BUY
+msgctxt "UI.BARTERSCREEN.COMMERCE_BUY"
+msgid "Weave"
+msgstr "編織"
+
+#. UI.BARTERSCREEN.COMMERCE_GRIND
+msgctxt "UI.BARTERSCREEN.COMMERCE_GRIND"
+msgid "Unravel"
+msgstr "拆散"
+
+#. UI.BARTERSCREEN.COMMERCE_GRIND_DUPES
+msgctxt "UI.BARTERSCREEN.COMMERCE_GRIND_DUPES"
+msgid "Unravel Duplicates"
+msgstr "拆解重複的物品"
+
+#. UI.BARTERSCREEN.COMMERCE_INFO_BUY
+msgctxt "UI.BARTERSCREEN.COMMERCE_INFO_BUY"
+msgid "Use {doodad_value} Spools to weave this curio."
+msgstr "用 {doodad_value} 個線軸編織這個珍寶。"
+
+#. UI.BARTERSCREEN.COMMERCE_INFO_GRIND
+msgctxt "UI.BARTERSCREEN.COMMERCE_INFO_GRIND"
+msgid "This curio can be unraveled into {doodad_value} Spools."
+msgstr "此珍寶可以拆散成 {doodad_value} 個線軸。"
+
+#. UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_NEVER
+msgctxt "UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_NEVER"
+msgid "This curio is not weaveable."
+msgstr "這個珍寶不能編織。"
+
+#. UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_NOT_ACTIVE
+msgctxt "UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_NOT_ACTIVE"
+msgid "This curio is not currently weaveable."
+msgstr "這個珍寶現在不能編織。"
+
+#. UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_UNOWNED
+msgctxt "UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_UNOWNED"
+msgid "You must have {character} unlocked to weave this item from Spools."
+msgstr "在解鎖{character} 後才能使用線軸編織這個物品。"
+
+#. UI.BARTERSCREEN.COMMERCE_INFO_NOGRIND
+msgctxt "UI.BARTERSCREEN.COMMERCE_INFO_NOGRIND"
+msgid "This curio cannot be unraveled."
+msgstr "此珍寶無法拆散。"
+
+#. UI.BARTERSCREEN.CONFIRM_BUY_FMT
+msgctxt "UI.BARTERSCREEN.CONFIRM_BUY_FMT"
+msgid "Use {doodad_count} Spools to weave item: {item_name}?\n\nYou will be left with {doodad_net} Spools.\nSpools are used to weave \"Woven\" rarity curios."
+msgstr "用 {doodad_count} 個線軸編織此物品：{item_name}？\n\n你將會剩下 {doodad_net} 個線軸。\n線軸可以用來編織珍寶。"
+
+#. UI.BARTERSCREEN.CONFIRM_GRIND_DUPES_FMT
+msgctxt "UI.BARTERSCREEN.CONFIRM_GRIND_DUPES_FMT"
+msgid "Unravel {count} duplicates into {doodad_count} Spools?\n\nYou will have a total of {doodad_net} Spools."
+msgstr "把{count}份重複物品拆解為{doodad_count}線軸嗎？\n\n你將總共獲得{doodad_net}線軸。"
+
+#. UI.BARTERSCREEN.CONFIRM_GRIND_DUPE_FMT
+msgctxt "UI.BARTERSCREEN.CONFIRM_GRIND_DUPE_FMT"
+msgid "Unravel 1 duplicate into {doodad_count} Spools?\n\nYou will have a total of {doodad_net} Spools."
+msgstr "把1份重複物品拆解為{doodad_count}線軸嗎？\n\n你將總共獲得{doodad_net}線軸。"
+
+#. UI.BARTERSCREEN.CONFIRM_GRIND_FMT
+msgctxt "UI.BARTERSCREEN.CONFIRM_GRIND_FMT"
+msgid "Unravel this {item_name} into {doodad_count} Spools?\n\nYou will have a total of {doodad_net} Spools.\nSpools are used to weave \"Woven\" rarity curios."
+msgstr "是否將此 {item_name} 拆散成 {doodad_count} 個線軸？\n\n你會獲得總共 {doodad_net} 個線軸。\n線軸是用來編織“織造”珍寶。"
+
+#. UI.BARTERSCREEN.FAILED_BODY
+msgctxt "UI.BARTERSCREEN.FAILED_BODY"
+msgid "Sorry!\nFailed to contact Klei Servers. Please try again."
+msgstr "抱歉！\n連接Klei伺服器失敗。請重試。"
+
+#. UI.BARTERSCREEN.FAILED_TITLE
+msgctxt "UI.BARTERSCREEN.FAILED_TITLE"
+msgid "Connection failure"
+msgstr "連接失敗"
+
+#. UI.BARTERSCREEN.FAIL_BUY_FMT
+msgctxt "UI.BARTERSCREEN.FAIL_BUY_FMT"
+msgid "{doodad_count} Spools are required to weave item: {item_name}.\n\nYou need {doodad_net} more Spool(s) to weave this item.\nSpools can be obtained by unraveling curios."
+msgstr "需要 {doodad_count} 個線軸編織此物品：{item_name}。\n\n你還需要 {doodad_net} 個線軸來編織此物品。\n可以通過拆散珍寶來獲得線軸。"
+
+#. UI.BARTERSCREEN.NO_MARKET
+msgctxt "UI.BARTERSCREEN.NO_MARKET"
+msgid "This curio cannot be traded or sold."
+msgstr "此珍寶無法交換或出售。"
+
+#. UI.BARTERSCREEN.OK
+msgctxt "UI.BARTERSCREEN.OK"
+msgid "OK"
+msgstr "好的"
+
+#. UI.BARTERSCREEN.TITLE
+msgctxt "UI.BARTERSCREEN.TITLE"
+msgid "The Curio Loom"
+msgstr "珍寶織機"
+
+#. UI.BARTERSCREEN.UNRAVEL_WARNING_BODY
+msgctxt "UI.BARTERSCREEN.UNRAVEL_WARNING_BODY"
+msgid "Unraveling this item will break your {ensemble_name} and cause you to lose access to the Reward item, {reward_name}."
+msgstr "拆散此物品會破開你的 {ensemble_name}，導致你無法獲取獎勵物品：{reward_name}。"
+
+#. UI.BARTERSCREEN.UNRAVEL_WARNING_RESTRICTED_BODY
+msgctxt "UI.BARTERSCREEN.UNRAVEL_WARNING_RESTRICTED_BODY"
+msgid "You will no longer be able to play as {character} if you unravel this item. You'll also lose access to all the items you own that are character-specific to {character}, although you'll be able to unravel them, if you wish."
+msgstr "拆散這個物品後，將不能再使用{character}角色體遊戲。 已有的角色相關物品將不能直接使用， 但是你還是可以拆散它們。"
+
+#. UI.BARTERSCREEN.UNRAVEL_WARNING_TITLE
+msgctxt "UI.BARTERSCREEN.UNRAVEL_WARNING_TITLE"
+msgid "Warning!"
+msgstr "警告！"
+
+#. UI.BEARDSCREEN.BEARD_NAMES.1
+msgctxt "UI.BEARDSCREEN.BEARD_NAMES.1"
+msgid "Trimmed"
+msgstr "修剪過的"
+
+#. UI.BEARDSCREEN.BEARD_NAMES.2
+msgctxt "UI.BEARDSCREEN.BEARD_NAMES.2"
+msgid "Groomed"
+msgstr "造型過的"
+
+#. UI.BEARDSCREEN.BEARD_NAMES.3
+msgctxt "UI.BEARDSCREEN.BEARD_NAMES.3"
+msgid "Magnificent"
+msgstr "華麗的"
+
+#. UI.BOAT.HEALTH
+msgctxt "UI.BOAT.HEALTH"
+msgid "Boat Health: "
+msgstr "船體完整度："
+
+#. UI.BOX_POPUP.OK
+msgctxt "UI.BOX_POPUP.OK"
+msgid "OK"
+msgstr "好的"
+
+#. UI.BOX_POPUP.SERVER_ERROR_BODY
+msgctxt "UI.BOX_POPUP.SERVER_ERROR_BODY"
+msgid "There was an error while opening your Chest. Please log in again to refresh your account inventory."
+msgstr "打開你的箱子時發生了一個錯誤。請重新登錄，刷新您的帳戶庫存。"
+
+#. UI.BOX_POPUP.SERVER_ERROR_TITLE
+msgctxt "UI.BOX_POPUP.SERVER_ERROR_TITLE"
+msgid "Error Opening Chest"
+msgstr "打開箱子時發生錯誤"
+
+#. UI.BOX_POPUP.SERVER_NO_ITEM_BODY
+msgctxt "UI.BOX_POPUP.SERVER_NO_ITEM_BODY"
+msgid "This Chest contained items that are not supported by your current game version. Please exit and update your game."
+msgstr "這個箱子裡包含你當前遊戲版本不支持的物品。請退出並更新你的遊戲。"
+
+#. UI.BOX_POPUP.TITLE
+msgctxt "UI.BOX_POPUP.TITLE"
+msgid "You received..."
+msgstr "你收到了..."
+
+#. UI.BUGREPORTSCREEN.CANCEL_SUBMIT_BODY
+msgctxt "UI.BUGREPORTSCREEN.CANCEL_SUBMIT_BODY"
+msgid "You have not submitted your report.\nAre you sure you want to cancel?"
+msgstr "報告還未提交。\n確定要取消嗎？"
+
+#. UI.BUGREPORTSCREEN.CANCEL_SUBMIT_HEADER
+msgctxt "UI.BUGREPORTSCREEN.CANCEL_SUBMIT_HEADER"
+msgid "Cancel Bug Report?"
+msgstr "取消錯誤報告？"
+
+#. UI.BUGREPORTSCREEN.CHANGE_BUG_DESCRIPTION
+msgctxt "UI.BUGREPORTSCREEN.CHANGE_BUG_DESCRIPTION"
+msgid "Change Bug Description"
+msgstr "更改錯誤描述"
+
+#. UI.BUGREPORTSCREEN.DESCRIPTION_LABEL
+msgctxt "UI.BUGREPORTSCREEN.DESCRIPTION_LABEL"
+msgid "Please describe your issue."
+msgstr "請描述你的問題"
+
+#. UI.BUGREPORTSCREEN.ENTER_BUG_DESCRIPTION
+msgctxt "UI.BUGREPORTSCREEN.ENTER_BUG_DESCRIPTION"
+msgid "Enter Bug Description"
+msgstr "輸入錯誤描述"
+
+#. UI.BUGREPORTSCREEN.NO
+msgctxt "UI.BUGREPORTSCREEN.NO"
+msgid "No"
+msgstr "否"
+
+#. UI.BUGREPORTSCREEN.OK
+msgctxt "UI.BUGREPORTSCREEN.OK"
+msgid "OK"
+msgstr "好的"
+
+#. UI.BUGREPORTSCREEN.SUBMIT
+msgctxt "UI.BUGREPORTSCREEN.SUBMIT"
+msgid "Submit"
+msgstr "提交"
+
+#. UI.BUGREPORTSCREEN.SUBMITTING_TEXT
+msgctxt "UI.BUGREPORTSCREEN.SUBMITTING_TEXT"
+msgid "Submitting files, please wait"
+msgstr "正在提交文件，請等候。"
+
+#. UI.BUGREPORTSCREEN.SUBMIT_DIALOG_BODY
+msgctxt "UI.BUGREPORTSCREEN.SUBMIT_DIALOG_BODY"
+msgid "Submitting a bug report will upload your game information and saved worlds to Klei to help us analyze the issue.\n\nThis may take several minutes."
+msgstr "提交錯誤報告會向科雷公司上傳你的遊戲資訊和存儲的世界，以説明我們分析問題。\n\n整個過程可能需要幾分鐘。"
+
+#. UI.BUGREPORTSCREEN.SUBMIT_DIALOG_HEADER
+msgctxt "UI.BUGREPORTSCREEN.SUBMIT_DIALOG_HEADER"
+msgid "Submit Bug Report?"
+msgstr "提交錯誤報告？"
+
+#. UI.BUGREPORTSCREEN.SUBMIT_FAILURE_TEXT
+msgctxt "UI.BUGREPORTSCREEN.SUBMIT_FAILURE_TEXT"
+msgid "There was a problem uploading your files."
+msgstr "文件上傳出錯。"
+
+#. UI.BUGREPORTSCREEN.SUBMIT_FAILURE_TITLE
+msgctxt "UI.BUGREPORTSCREEN.SUBMIT_FAILURE_TITLE"
+msgid "Error"
+msgstr "錯誤"
+
+#. UI.BUGREPORTSCREEN.SUBMIT_SUCCESS
+msgctxt "UI.BUGREPORTSCREEN.SUBMIT_SUCCESS"
+msgid "Files successfully uploaded. Thanks for the report!"
+msgstr "檔上傳成功。感謝你的幫助。"
+
+#. UI.BUGREPORTSCREEN.SUBMIT_SUCCESS_TITLE
+msgctxt "UI.BUGREPORTSCREEN.SUBMIT_SUCCESS_TITLE"
+msgid "Success"
+msgstr "成功"
+
+#. UI.BUGREPORTSCREEN.SUBMIT_TEXT_PLACEHOLDER
+msgctxt "UI.BUGREPORTSCREEN.SUBMIT_TEXT_PLACEHOLDER"
+msgid "Please enter a description of the bug you are experiencing and any details that you feel may aid us in fixing it."
+msgstr "請輸入問題描述和任何你認為能幫助我們解決問題的細節內容。"
+
+#. UI.BUGREPORTSCREEN.YES
+msgctxt "UI.BUGREPORTSCREEN.YES"
+msgid "Yes"
+msgstr "是"
+
+#. UI.CHARACTERSELECT.APPLY
+msgctxt "UI.CHARACTERSELECT.APPLY"
+msgid "Apply"
+msgstr "應用"
+
+#. UI.CHARACTERSELECT.CANCEL
+msgctxt "UI.CHARACTERSELECT.CANCEL"
+msgid "Cancel"
+msgstr "取消"
+
+#. UI.CHARACTERSELECT.DISCONNECT
+msgctxt "UI.CHARACTERSELECT.DISCONNECT"
+msgid "Disconnect"
+msgstr "斷開聯線"
+
+#. UI.CHARACTERSELECT.SELECT
+msgctxt "UI.CHARACTERSELECT.SELECT"
+msgid "Select"
+msgstr "選擇"
+
+#. UI.CHATINPUTSCREEN.HELP_OPEN_VIRTUAL_KEYBOARD
+msgctxt "UI.CHATINPUTSCREEN.HELP_OPEN_VIRTUAL_KEYBOARD"
+msgid "Open Keyboard"
+msgstr "打開鍵盤"
+
+#. UI.CHATINPUTSCREEN.HELP_SAY
+msgctxt "UI.CHATINPUTSCREEN.HELP_SAY"
+msgid "Say"
+msgstr "公開說"
+
+#. UI.CHATINPUTSCREEN.HELP_WHISPER
+msgctxt "UI.CHATINPUTSCREEN.HELP_WHISPER"
+msgid "Whisper"
+msgstr "私聊"
+
+#. UI.CHATINPUTSCREEN.SAY
+msgctxt "UI.CHATINPUTSCREEN.SAY"
+msgid "say:"
+msgstr "公開說："
+
+#. UI.CHATINPUTSCREEN.STEAMDECK_MSG_PROMPT
+msgctxt "UI.CHATINPUTSCREEN.STEAMDECK_MSG_PROMPT"
+msgid "Message:"
+msgstr "消息："
+
+#. UI.CHATINPUTSCREEN.WHISPER
+msgctxt "UI.CHATINPUTSCREEN.WHISPER"
+msgid "whisper:"
+msgstr "私聊："
+
+#. UI.CHATINPUTSCREEN.WHISPER_DESIGNATOR
+msgctxt "UI.CHATINPUTSCREEN.WHISPER_DESIGNATOR"
+msgid "[W]"
+msgstr "[私聊]"
+
+#. UI.CLOUDSERVERCREATIONSCREEN.CREATE
+msgctxt "UI.CLOUDSERVERCREATIONSCREEN.CREATE"
+msgid "Create Match"
+msgstr "創建比賽"
+
+#. UI.CLOUDSERVERCREATIONSCREEN.TITLE
+msgctxt "UI.CLOUDSERVERCREATIONSCREEN.TITLE"
+msgid "Custom Match"
+msgstr "自訂比賽"
+
+#. UI.COLLECTIONSCREEN.BEARD
+msgctxt "UI.COLLECTIONSCREEN.BEARD"
+msgid "Beards"
+msgstr "鬍鬚"
+
+#. UI.COLLECTIONSCREEN.EMOJI
+msgctxt "UI.COLLECTIONSCREEN.EMOJI"
+msgid "Emoticons"
+msgstr "聊天表情"
+
+#. UI.COLLECTIONSCREEN.EMOTE
+msgctxt "UI.COLLECTIONSCREEN.EMOTE"
+msgid "Emotes"
+msgstr "角色表情"
+
+#. UI.COLLECTIONSCREEN.FAILED_TO_LOAD
+msgctxt "UI.COLLECTIONSCREEN.FAILED_TO_LOAD"
+msgid "Sorry!\nWe've temporarily misplaced your curios.\nPlease try again later."
+msgstr "抱歉！\n我們暫時放錯了你的珍寶。\n請稍後重試。"
+
+#. UI.COLLECTIONSCREEN.GAMEITEM
+msgctxt "UI.COLLECTIONSCREEN.GAMEITEM"
+msgid "Belongings"
+msgstr "財物"
+
+#. UI.COLLECTIONSCREEN.LOADERS
+msgctxt "UI.COLLECTIONSCREEN.LOADERS"
+msgid "Vignettes"
+msgstr "載入螢幕"
+
+#. UI.COLLECTIONSCREEN.NEW
+msgctxt "UI.COLLECTIONSCREEN.NEW"
+msgid "New!"
+msgstr "新的！"
+
+#. UI.COLLECTIONSCREEN.PORTRAITBACKGROUNDS
+msgctxt "UI.COLLECTIONSCREEN.PORTRAITBACKGROUNDS"
+msgid "Portrait Frames"
+msgstr "背景圖像"
+
+#. UI.COLLECTIONSCREEN.PROFILEFLAIR
+msgctxt "UI.COLLECTIONSCREEN.PROFILEFLAIR"
+msgid "Profile Icons"
+msgstr "資料頭像"
+
+#. UI.COLLECTIONSCREEN.SET_INFO
+msgctxt "UI.COLLECTIONSCREEN.SET_INFO"
+msgid "Ensemble"
+msgstr "套裝"
+
+#. UI.COLLECTIONSCREEN.SKINS
+msgctxt "UI.COLLECTIONSCREEN.SKINS"
+msgid "Wardrobe"
+msgstr "衣櫃"
+
+#. UI.COLLECTIONSCREEN.TITLE
+msgctxt "UI.COLLECTIONSCREEN.TITLE"
+msgid "Curio Cabinet"
+msgstr "珍寶櫃"
+
+#. UI.COLLECTIONSCREEN.TOOLTIP_BEARD
+msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_BEARD"
+msgid "View your character beards"
+msgstr "查看人物鬍鬚"
+
+#. UI.COLLECTIONSCREEN.TOOLTIP_EMOJI
+msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_EMOJI"
+msgid "View your available chat icons"
+msgstr "查看你可用的聊天表情圖"
+
+#. UI.COLLECTIONSCREEN.TOOLTIP_EMOTE
+msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_EMOTE"
+msgid "View your character emotes"
+msgstr "查看人物表情"
+
+#. UI.COLLECTIONSCREEN.TOOLTIP_GAMEITEM
+msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_GAMEITEM"
+msgid "View your skins for craftable in-game items"
+msgstr "查看物品皮膚"
+
+#. UI.COLLECTIONSCREEN.TOOLTIP_LOADERS
+msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_LOADERS"
+msgid "Select loading screens to display between games"
+msgstr "選擇載入螢幕，在不同場次的遊戲之間顯示"
+
+#. UI.COLLECTIONSCREEN.TOOLTIP_PORTRAITBACKGROUNDS
+msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_PORTRAITBACKGROUNDS"
+msgid "Equip new backgrounds to your characters' portraits"
+msgstr "為你角色的畫像裝備新背景"
+
+#. UI.COLLECTIONSCREEN.TOOLTIP_PROFILEFLAIR
+msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_PROFILEFLAIR"
+msgid "Select an icon for your profile"
+msgstr "為你的資料選擇一個頭像"
+
+#. UI.COLLECTIONSCREEN.TOOLTIP_SKINS
+msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_SKINS"
+msgid "View and equip your character skins"
+msgstr "查看並裝備你的角色皮膚"
+
+#. UI.COLLECTIONSCREEN.VIEW_MARKET
+msgctxt "UI.COLLECTIONSCREEN.VIEW_MARKET"
+msgid "Steam"
+msgstr "Steam"
+
+#. UI.COLOUR.Black
+msgctxt "UI.COLOUR.Black"
+msgid "Black"
+msgstr "黑色"
+
+#. UI.COLOUR.Blue
+msgctxt "UI.COLOUR.Blue"
+msgid "Blue"
+msgstr "藍色"
+
+#. UI.COLOUR.Brown
+msgctxt "UI.COLOUR.Brown"
+msgid "Brown"
+msgstr "棕色"
+
+#. UI.COLOUR.Green
+msgctxt "UI.COLOUR.Green"
+msgid "Green"
+msgstr "綠色"
+
+#. UI.COLOUR.Grey
+msgctxt "UI.COLOUR.Grey"
+msgid "Gray"
+msgstr "灰色"
+
+#. UI.COLOUR.Navy
+msgctxt "UI.COLOUR.Navy"
+msgid "Navy"
+msgstr "海藍"
+
+#. UI.COLOUR.Orange
+msgctxt "UI.COLOUR.Orange"
+msgid "Orange"
+msgstr "橙色"
+
+#. UI.COLOUR.Pink
+msgctxt "UI.COLOUR.Pink"
+msgid "Pink"
+msgstr "粉色"
+
+#. UI.COLOUR.Purple
+msgctxt "UI.COLOUR.Purple"
+msgid "Purple"
+msgstr "紫色"
+
+#. UI.COLOUR.Red
+msgctxt "UI.COLOUR.Red"
+msgid "Red"
+msgstr "紅色"
+
+#. UI.COLOUR.Tan
+msgctxt "UI.COLOUR.Tan"
+msgid "Tan"
+msgstr "褐色"
+
+#. UI.COLOUR.Teal
+msgctxt "UI.COLOUR.Teal"
+msgid "Teal"
+msgstr "藍綠色"
+
+#. UI.COLOUR.White
+msgctxt "UI.COLOUR.White"
+msgid "White"
+msgstr "白色"
+
+#. UI.COLOUR.Yellow
+msgctxt "UI.COLOUR.Yellow"
+msgid "Yellow"
+msgstr "黃色"
+
+#. UI.COMMANDSSCREEN.CANCEL
+msgctxt "UI.COMMANDSSCREEN.CANCEL"
+msgid "Cancel"
+msgstr "取消"
+
+#. UI.COMMANDSSCREEN.CONFIRMBODY
+msgctxt "UI.COMMANDSSCREEN.CONFIRMBODY"
+msgid "Are you sure?"
+msgstr "你確定嗎？"
+
+#. UI.COMMANDSSCREEN.CONFIRMTITLE
+msgctxt "UI.COMMANDSSCREEN.CONFIRMTITLE"
+msgid "Really %s?"
+msgstr "真的%s？"
+
+#. UI.COMMANDSSCREEN.CONFIRMTITLE_TARGET
+msgctxt "UI.COMMANDSSCREEN.CONFIRMTITLE_TARGET"
+msgid "Really %s %s?"
+msgstr "真的%s%s？"
+
+#. UI.COMMANDSSCREEN.HIDE_SERVERNAME
+msgctxt "UI.COMMANDSSCREEN.HIDE_SERVERNAME"
+msgid "Hide Server Name"
+msgstr "隱藏伺服器名稱"
+
+#. UI.COMMANDSSCREEN.SERVERSUBTITLE
+msgctxt "UI.COMMANDSSCREEN.SERVERSUBTITLE"
+msgid "Actions for"
+msgstr "操作"
+
+#. UI.COMMANDSSCREEN.SERVERTITLE
+msgctxt "UI.COMMANDSSCREEN.SERVERTITLE"
+msgid "The Server"
+msgstr "伺服器"
+
+#. UI.COMMANDSSCREEN.SHOW_SERVERNAME
+msgctxt "UI.COMMANDSSCREEN.SHOW_SERVERNAME"
+msgid "Show Server Name"
+msgstr "顯示伺服器名稱"
+
+#. UI.COMMANDSSCREEN.USERSUBTITLE
+msgctxt "UI.COMMANDSSCREEN.USERSUBTITLE"
+msgid "User Actions for"
+msgstr "用戶動作："
+
+#. UI.COMMANDSSCREEN.VOTEFMT
+msgctxt "UI.COMMANDSSCREEN.VOTEFMT"
+msgid "%s (vote)"
+msgstr "%s（投票）"
+
+#. UI.COMMANDWHEEL.EMOTES
+msgctxt "UI.COMMANDWHEEL.EMOTES"
+msgid "Emotes"
+msgstr "表現表情"
+
+#. UI.COMMANDWHEEL.INVITE
+msgctxt "UI.COMMANDWHEEL.INVITE"
+msgid "Send Invitation"
+msgstr "發送邀請"
+
+#. UI.COMMANDWHEEL.PLAYERLIST
+msgctxt "UI.COMMANDWHEEL.PLAYERLIST"
+msgid "Player Listing"
+msgstr "玩家清單"
+
+#. UI.COMMANDWHEEL.SAY
+msgctxt "UI.COMMANDWHEEL.SAY"
+msgid "Say"
+msgstr "公開說"
+
+#. UI.COMMANDWHEEL.USERCOMMANDS
+msgctxt "UI.COMMANDWHEEL.USERCOMMANDS"
+msgid "Miscellaneous"
+msgstr "其他"
+
+#. UI.COMMANDWHEEL.WHISPER
+msgctxt "UI.COMMANDWHEEL.WHISPER"
+msgid "Whisper"
+msgstr "私聊"
+
+#. UI.COMPENDIUM.CAUSEOFDEATH_OTHER
+msgctxt "UI.COMPENDIUM.CAUSEOFDEATH_OTHER"
+msgid "Other"
+msgstr "其他"
+
+#. UI.COMPENDIUM.CHARACTERDETAILS
+msgctxt "UI.COMPENDIUM.CHARACTERDETAILS"
+msgid "Survivors"
+msgstr "冒險家"
+
+#. UI.COMPENDIUM.CINEMATICS
+msgctxt "UI.COMPENDIUM.CINEMATICS"
+msgid "Cinematics"
+msgstr "過場動畫"
+
+#. UI.COMPENDIUM.COOKBOOKPANEL
+msgctxt "UI.COMPENDIUM.COOKBOOKPANEL"
+msgid "Cookbook"
+msgstr "烹飪指南"
+
+#. UI.COMPENDIUM.ENCOUNTERS
+msgctxt "UI.COMPENDIUM.ENCOUNTERS"
+msgid "Encounters"
+msgstr "遭遇"
+
+#. UI.COMPENDIUM.HISTORYOFTRAVELS
+msgctxt "UI.COMPENDIUM.HISTORYOFTRAVELS"
+msgid "History of Travels"
+msgstr "旅行歷史"
+
+#. UI.COMPENDIUM.OBITUARIES
+msgctxt "UI.COMPENDIUM.OBITUARIES"
+msgid "Obituaries"
+msgstr "訃告"
+
+#. UI.COMPENDIUM.PLANTREGISTRYPANEL
+msgctxt "UI.COMPENDIUM.PLANTREGISTRYPANEL"
+msgid "Plant Registry"
+msgstr "植物登記表"
+
+#. UI.COMPENDIUM.TOOLTIP_CHARACTERDETAILS
+msgctxt "UI.COMPENDIUM.TOOLTIP_CHARACTERDETAILS"
+msgid "The survivors of the Constant"
+msgstr "永恆領域的冒險家們"
+
+#. UI.COMPENDIUM.TOOLTIP_CINEMATICS
+msgctxt "UI.COMPENDIUM.TOOLTIP_CINEMATICS"
+msgid "Pretty movies!"
+msgstr "精彩動畫！"
+
+#. UI.COMPENDIUM.TOOLTIP_COOKBOOKPANEL
+msgctxt "UI.COMPENDIUM.TOOLTIP_COOKBOOKPANEL"
+msgid "The Constant's guide to cookery"
+msgstr "永恆領域的烹飪指南"
+
+#. UI.COMPENDIUM.TOOLTIP_ENCOUNTERS
+msgctxt "UI.COMPENDIUM.TOOLTIP_ENCOUNTERS"
+msgid "A history of those you've crossed paths with"
+msgstr "你遇到過的人們"
+
+#. UI.COMPENDIUM.TOOLTIP_HISTORYOFTRAVELS
+msgctxt "UI.COMPENDIUM.TOOLTIP_HISTORYOFTRAVELS"
+msgid "A summary of your adventures"
+msgstr "冒險摘要"
+
+#. UI.COMPENDIUM.TOOLTIP_OBITUARIES
+msgctxt "UI.COMPENDIUM.TOOLTIP_OBITUARIES"
+msgid "Reminisce over past mistakes"
+msgstr "緬懷過去犯下的錯誤"
+
+#. UI.COMPENDIUM.TOOLTIP_PLANTREGISTRY
+msgctxt "UI.COMPENDIUM.TOOLTIP_PLANTREGISTRY"
+msgid "The Constant gardener's almanac"
+msgstr "永恆領域園丁年鑒"
+
+#. UI.CONSOLESCREEN.LOCALEXECUTE
+msgctxt "UI.CONSOLESCREEN.LOCALEXECUTE"
+msgid "Local:"
+msgstr "本地："
+
+#. UI.CONSOLESCREEN.REMOTEEXECUTE
+msgctxt "UI.CONSOLESCREEN.REMOTEEXECUTE"
+msgid "Remote:"
+msgstr "遠程："
+
+#. UI.DATACOLLECTION_LOGIN.BODY
+msgctxt "UI.DATACOLLECTION_LOGIN.BODY"
+msgid "We require the collection of user data to provide online services. Players who disable data collection will only have access to play in offline mode.\n\nSurvivors and worlds from online games will be unavailable.\n\nData Collection settings can be modified in the Options menu."
+msgstr "我們要求收集使用者資料以提供線上服務。禁用資料收集的玩家只能在離線模式下玩遊戲。\n \n線上遊戲中的冒險家和世界將無法使用。\n \n可以在\"選項\"功能表中修改\"資料收集\"設置。"
+
+#. UI.DATACOLLECTION_LOGIN.CONTINUE
+msgctxt "UI.DATACOLLECTION_LOGIN.CONTINUE"
+msgid "Continue"
+msgstr "繼續"
+
+#. UI.DATACOLLECTION_LOGIN.TITLE
+msgctxt "UI.DATACOLLECTION_LOGIN.TITLE"
+msgid "Offline Mode"
+msgstr "線下模式"
+
+#. UI.DATACOLLECTION_POPUP.BODY
+msgctxt "UI.DATACOLLECTION_POPUP.BODY"
+msgid "We require the collection of user data to provide online services. Players who disable data collection will only have access to play in offline mode.\n\nFor more details on our privacy policy and how we use the data we collect, please see our official privacy policy."
+msgstr "我們要求收集使用者資料以提供線上服務。禁用資料收集的玩家只能在離線模式下玩遊戲。\n \n如需詳細瞭解我們的隱私政策以及我們如何使用所收集的資料，請參閱我們的官方隱私政策。"
+
+#. UI.DATACOLLECTION_POPUP.CANCEL
+msgctxt "UI.DATACOLLECTION_POPUP.CANCEL"
+msgid "Cancel"
+msgstr "取消"
+
+#. UI.DATACOLLECTION_POPUP.OPT_IN.CONTINUE
+msgctxt "UI.DATACOLLECTION_POPUP.OPT_IN.CONTINUE"
+msgid "Enable"
+msgstr "啟用"
+
+#. UI.DATACOLLECTION_POPUP.OPT_OUT.CONTINUE
+msgctxt "UI.DATACOLLECTION_POPUP.OPT_OUT.CONTINUE"
+msgid "Disable"
+msgstr "禁用"
+
+#. UI.DATACOLLECTION_POPUP.PRIVACY_PORTAL
+msgctxt "UI.DATACOLLECTION_POPUP.PRIVACY_PORTAL"
+msgid "View Privacy Policy"
+msgstr "查看隱私政策"
+
+#. UI.DATACOLLECTION_POPUP.TITLE
+msgctxt "UI.DATACOLLECTION_POPUP.TITLE"
+msgid "Data Collection"
+msgstr "資料收集"
+
+#. UI.DATE.MONTH_ABBR.1
+msgctxt "UI.DATE.MONTH_ABBR.1"
+msgid "Jan"
+msgstr "1月"
+
+#. UI.DATE.MONTH_ABBR.10
+msgctxt "UI.DATE.MONTH_ABBR.10"
+msgid "Oct"
+msgstr "10月"
+
+#. UI.DATE.MONTH_ABBR.11
+msgctxt "UI.DATE.MONTH_ABBR.11"
+msgid "Nov"
+msgstr "11月"
+
+#. UI.DATE.MONTH_ABBR.12
+msgctxt "UI.DATE.MONTH_ABBR.12"
+msgid "Dec"
+msgstr "12月"
+
+#. UI.DATE.MONTH_ABBR.2
+msgctxt "UI.DATE.MONTH_ABBR.2"
+msgid "Feb"
+msgstr "2月"
+
+#. UI.DATE.MONTH_ABBR.3
+msgctxt "UI.DATE.MONTH_ABBR.3"
+msgid "Mar"
+msgstr "3月"
+
+#. UI.DATE.MONTH_ABBR.4
+msgctxt "UI.DATE.MONTH_ABBR.4"
+msgid "Apr"
+msgstr "4月"
+
+#. UI.DATE.MONTH_ABBR.5
+msgctxt "UI.DATE.MONTH_ABBR.5"
+msgid "May"
+msgstr "5月"
+
+#. UI.DATE.MONTH_ABBR.6
+msgctxt "UI.DATE.MONTH_ABBR.6"
+msgid "Jun"
+msgstr "6月"
+
+#. UI.DATE.MONTH_ABBR.7
+msgctxt "UI.DATE.MONTH_ABBR.7"
+msgid "Jul"
+msgstr "7月"
+
+#. UI.DATE.MONTH_ABBR.8
+msgctxt "UI.DATE.MONTH_ABBR.8"
+msgid "Aug"
+msgstr "8月"
+
+#. UI.DATE.MONTH_ABBR.9
+msgctxt "UI.DATE.MONTH_ABBR.9"
+msgid "Sep"
+msgstr "9月"
+
+#. UI.DATE_FORMAT.MDY
+msgctxt "UI.DATE_FORMAT.MDY"
+msgid "{month} {day}, {year}"
+msgstr "{month} {day}, {year}"
+
+#. UI.DAYS_FORMAT.DHM
+msgctxt "UI.DAYS_FORMAT.DHM"
+msgid "{days}d {hours}h {minutes}m"
+msgstr "{days} 天 {hours} 小時 {minutes} 分鐘"
+
+#. UI.DAYS_FORMAT.HM
+msgctxt "UI.DAYS_FORMAT.HM"
+msgid "{hours}h {minutes}m"
+msgstr "{hours} 小時 {minutes} 分鐘"
+
+#. UI.DAYS_FORMAT.M
+msgctxt "UI.DAYS_FORMAT.M"
+msgid "{minutes}m"
+msgstr "{minutes} 分鐘"
+
+#. UI.DEMOOVERDIALOG.BODY_FREEWEEKEND
+msgctxt "UI.DEMOOVERDIALOG.BODY_FREEWEEKEND"
+msgid "Buy now to get the special price!"
+msgstr "現在購買，可享特惠價！"
+
+#. UI.DEMOOVERDIALOG.QUIT
+msgctxt "UI.DEMOOVERDIALOG.QUIT"
+msgid "Quit"
+msgstr "退出"
+
+#. UI.DEMOOVERDIALOG.TITLE_FREEWEEKEND
+msgctxt "UI.DEMOOVERDIALOG.TITLE_FREEWEEKEND"
+msgid "Thank you for playing the free demo!"
+msgstr "感謝賞玩免費演示！"
+
+#. UI.DRESSUP_AVATAR.DRESSED_BY_FMT
+msgctxt "UI.DRESSUP_AVATAR.DRESSED_BY_FMT"
+msgid "Dressed by {name}"
+msgstr "由{name}穿上"
+
+#. UI.DRESSUP_AVATAR.UNDRESSED_BY_FMT
+msgctxt "UI.DRESSUP_AVATAR.UNDRESSED_BY_FMT"
+msgid "Undressed by {name}"
+msgstr "由{name}脫下"
+
+#. UI.EULADIALOG.ACCEPT
+msgctxt "UI.EULADIALOG.ACCEPT"
+msgid "Accept"
+msgstr "接受"
+
+#. UI.EULADIALOG.AGREEMENT_UPDATED
+msgctxt "UI.EULADIALOG.AGREEMENT_UPDATED"
+msgid "The EULA has been updated and needs your review."
+msgstr "使用者授權合約已更新，請查閱。"
+
+#. UI.EULADIALOG.DECLINE
+msgctxt "UI.EULADIALOG.DECLINE"
+msgid "Decline"
+msgstr "下降"
+
+#. UI.EULADIALOG.DECLINE_CONFIRMATION_BODY
+msgctxt "UI.EULADIALOG.DECLINE_CONFIRMATION_BODY"
+msgid "You will not be able to play online. Are you sure?"
+msgstr "你將無法線上玩遊戲。確定嗎？"
+
+#. UI.EULADIALOG.DECLINE_CONFIRMATION_TITLE
+msgctxt "UI.EULADIALOG.DECLINE_CONFIRMATION_TITLE"
+msgid "Decline the EULA?"
+msgstr "拒絕使用者授權合約？"
+
+#. UI.EULADIALOG.TITLE
+msgctxt "UI.EULADIALOG.TITLE"
+msgid "End User License Agreement"
+msgstr "使用者授權合約"
+
+#. UI.EVENT_QUICKJOINSCREEN.BODY
+msgctxt "UI.EVENT_QUICKJOINSCREEN.BODY"
+msgid "Searching for available matches"
+msgstr "正在搜索可用的比賽"
+
+#. UI.EVENT_QUICKJOINSCREEN.CONNECTING_TO_SERVER
+msgctxt "UI.EVENT_QUICKJOINSCREEN.CONNECTING_TO_SERVER"
+msgid "Connecting to Server: {server}"
+msgstr "正在連接伺服器： {server}"
+
+#. UI.EVENT_QUICKJOINSCREEN.JOIN_BTN
+msgctxt "UI.EVENT_QUICKJOINSCREEN.JOIN_BTN"
+msgid "Join"
+msgstr "加入"
+
+#. UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_BROWSE
+msgctxt "UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_BROWSE"
+msgid "Browse"
+msgstr "瀏覽"
+
+#. UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_CLOSE
+msgctxt "UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_CLOSE"
+msgid "Close"
+msgstr "關閉"
+
+#. UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_HOST
+msgctxt "UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_HOST"
+msgid "Custom Match"
+msgstr "自訂比賽"
+
+#. UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_MSG
+msgctxt "UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_MSG"
+msgid "No servers could be found matching the quick match criteria."
+msgstr "未找到符合快速參賽條件的伺服器。"
+
+#. UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_TITLE
+msgctxt "UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_TITLE"
+msgid "Quick Match Failed"
+msgstr "快速參賽失敗"
+
+#. UI.EVENT_QUICKJOINSCREEN.TITLE
+msgctxt "UI.EVENT_QUICKJOINSCREEN.TITLE"
+msgid "Quick Match"
+msgstr "快速參賽"
+
+#. UI.FOOD_TYPES.BERRY
+msgctxt "UI.FOOD_TYPES.BERRY"
+msgid "Berry"
+msgstr "漿果"
+
+#. UI.FOOD_TYPES.BURNT
+msgctxt "UI.FOOD_TYPES.BURNT"
+msgid "Burnt"
+msgstr "燒焦的"
+
+#. UI.FOOD_TYPES.ELEMENTAL
+msgctxt "UI.FOOD_TYPES.ELEMENTAL"
+msgid "Elemental"
+msgstr "元素"
+
+#. UI.FOOD_TYPES.GEARS
+msgctxt "UI.FOOD_TYPES.GEARS"
+msgid "Gears"
+msgstr "齒輪"
+
+#. UI.FOOD_TYPES.GENERIC
+msgctxt "UI.FOOD_TYPES.GENERIC"
+msgid "Edible"
+msgstr "可食用"
+
+#. UI.FOOD_TYPES.GOODIES
+msgctxt "UI.FOOD_TYPES.GOODIES"
+msgid "Goodies"
+msgstr "好東西"
+
+#. UI.FOOD_TYPES.HORRIBLE
+msgctxt "UI.FOOD_TYPES.HORRIBLE"
+msgid "Horrible"
+msgstr "可怕"
+
+#. UI.FOOD_TYPES.INSECT
+msgctxt "UI.FOOD_TYPES.INSECT"
+msgid "Insect"
+msgstr "昆蟲"
+
+#. UI.FOOD_TYPES.MEAT
+msgctxt "UI.FOOD_TYPES.MEAT"
+msgid "Meat"
+msgstr "肉"
+
+#. UI.FOOD_TYPES.MONSTER
+msgctxt "UI.FOOD_TYPES.MONSTER"
+msgid "Monstrous"
+msgstr "怪獸"
+
+#. UI.FOOD_TYPES.RAW
+msgctxt "UI.FOOD_TYPES.RAW"
+msgid "Raw"
+msgstr "生的"
+
+#. UI.FOOD_TYPES.ROUGHAGE
+msgctxt "UI.FOOD_TYPES.ROUGHAGE"
+msgid "Roughage"
+msgstr "粗食"
+
+#. UI.FOOD_TYPES.SEEDS
+msgctxt "UI.FOOD_TYPES.SEEDS"
+msgid "Seed"
+msgstr "種子"
+
+#. UI.FOOD_TYPES.VEGGIE
+msgctxt "UI.FOOD_TYPES.VEGGIE"
+msgid "Veggie"
+msgstr "素食"
+
+#. UI.FOOD_TYPES.WOOD
+msgctxt "UI.FOOD_TYPES.WOOD"
+msgid "Wood"
+msgstr "木製品"
+
+#. UI.GAMEMODES.CUSTOM
+msgctxt "UI.GAMEMODES.CUSTOM"
+msgid "Custom Game"
+msgstr "自訂遊戲"
+
+#. UI.GAMEMODES.ENDLESS
+msgctxt "UI.GAMEMODES.ENDLESS"
+msgid "Endless"
+msgstr "無盡"
+
+#. UI.GAMEMODES.ENDLESS_DESCRIPTION
+msgctxt "UI.GAMEMODES.ENDLESS_DESCRIPTION"
+msgid "A neverending Don't Starve sandbox.\n\n* Enter the world through the Florid Postern.\n* Become a ghost when you die (no sanity drain).\n* Resurrection is always available via the Florid Postern."
+msgstr "從不結束的《饑荒》沙箱。\n\n*通過絢麗之門進入世界。\n*你死的時候就變成鬼魂了。\n*通過絢麗之門隨時都可以復活。"
+
+#. UI.GAMEMODES.LAVAARENA
+msgctxt "UI.GAMEMODES.LAVAARENA"
+msgid "The Forge"
+msgstr "熔爐"
+
+#. UI.GAMEMODES.LAVAARENA_DESCRIPTION
+msgctxt "UI.GAMEMODES.LAVAARENA_DESCRIPTION"
+msgid "Prove yourself to Battlemaster Pugna in this Gate Realm.\n* Enter the world through the Molten Gateway.\n* No hunger or sanity.\n* Use what you can find. No outside weapons in the Pit!"
+msgstr "在這個門界裡向戰鬥大師普格納證明你自己。\n* 通過熔火大門進入這個世界。\n* 無饑餓或理智值設定。\n* 使用你能找到的一切。戰坑內不准使用外界武器！"
+
+#. UI.GAMEMODES.QUAGMIRE
+msgctxt "UI.GAMEMODES.QUAGMIRE"
+msgid "The Gorge"
+msgstr "暴食"
+
+#. UI.GAMEMODES.QUAGMIRE_DESCRIPTION
+msgctxt "UI.GAMEMODES.QUAGMIRE_DESCRIPTION"
+msgid "Cook delicious dishes to appease the Eternal Gnaw in this Gate Realm.\n* Enter the world through the Mossy Gateway.\n* No nighttime.\n* Use what you can find to cook offerings for the altar!"
+msgstr "在這個門界中烹飪佳餚安撫不朽的饕餮。\n * 通過苔蘚大門進入這個世界。\n * 沒有夜晚。\n * 用你能找到的東西煮出祭品，供奉到祭壇！"
+
+#. UI.GAMEMODES.SURVIVAL
+msgctxt "UI.GAMEMODES.SURVIVAL"
+msgid "Survival"
+msgstr "生存"
+
+#. UI.GAMEMODES.SURVIVAL_DESCRIPTION
+msgctxt "UI.GAMEMODES.SURVIVAL_DESCRIPTION"
+msgid "We survive together, we die together!\n\n* Enter the world through the Florid Postern.\n* Become a ghost when you die.\n* Ghost players cause a sanity drain for living players."
+msgstr "我們生死與共！\n\n*通過絢麗之門進入世界。\n*你死的時候就變成鬼魂了。\n*鬼魂玩家導致活著的玩家的智力流失."
+
+#. UI.GAMEMODES.UNKNOWN
+msgctxt "UI.GAMEMODES.UNKNOWN"
+msgid "Game Mode Unknown"
+msgstr "遊戲模式未知"
+
+#. UI.GAMEMODES.UNKNOWN_DESCRIPTION
+msgctxt "UI.GAMEMODES.UNKNOWN_DESCRIPTION"
+msgid "We could not retrieve the details of this game mode."
+msgstr "我們無法檢索這個遊戲模式的任何細節。"
+
+#. UI.GAMEMODES.WILDERNESS
+msgctxt "UI.GAMEMODES.WILDERNESS"
+msgid "Wilderness"
+msgstr "荒野"
+
+#. UI.GAMEMODES.WILDERNESS_DESCRIPTION
+msgctxt "UI.GAMEMODES.WILDERNESS_DESCRIPTION"
+msgid "It's wild and dangerous out there!\n\n* Enter at a random location in the world.\n* No safety net. If you die: try, try again.\n* Those you encounter may or may not be friendly."
+msgstr "那裡荒涼又危險！\n\n*隨機進入世界的一個地方。\n*沒有安全網。要是你死了：試一下，再試一下。\n*你遇到的人可能友好或者不友好。"
+
+#. UI.GENDERSTRINGS.DEFAULT.ONE
+msgctxt "UI.GENDERSTRINGS.DEFAULT.ONE"
+msgid "they"
+msgstr "他們"
+
+#. UI.GENDERSTRINGS.DEFAULT.TWO
+msgctxt "UI.GENDERSTRINGS.DEFAULT.TWO"
+msgid "their"
+msgstr "他們的"
+
+#. UI.GENDERSTRINGS.FEMALE.ONE
+msgctxt "UI.GENDERSTRINGS.FEMALE.ONE"
+msgid "she"
+msgstr "她"
+
+#. UI.GENDERSTRINGS.FEMALE.TWO
+msgctxt "UI.GENDERSTRINGS.FEMALE.TWO"
+msgid "her"
+msgstr "她的"
+
+#. UI.GENDERSTRINGS.MALE.ONE
+msgctxt "UI.GENDERSTRINGS.MALE.ONE"
+msgid "he"
+msgstr "他"
+
+#. UI.GENDERSTRINGS.MALE.TWO
+msgctxt "UI.GENDERSTRINGS.MALE.TWO"
+msgid "his"
+msgstr "他的"
+
+#. UI.GENDERSTRINGS.ROBOT.ONE
+msgctxt "UI.GENDERSTRINGS.ROBOT.ONE"
+msgid "they"
+msgstr "它"
+
+#. UI.GENDERSTRINGS.ROBOT.TWO
+msgctxt "UI.GENDERSTRINGS.ROBOT.TWO"
+msgid "their"
+msgstr "他們的"
+
+#. UI.INTENTION.ANY
+msgctxt "UI.INTENTION.ANY"
+msgid "Any"
+msgstr "任意"
+
+#. UI.INTENTION.COMPETITIVE
+msgctxt "UI.INTENTION.COMPETITIVE"
+msgid "Competitive"
+msgstr "競爭"
+
+#. UI.INTENTION.COOPERATIVE
+msgctxt "UI.INTENTION.COOPERATIVE"
+msgid "Cooperative"
+msgstr "合作"
+
+#. UI.INTENTION.MADNESS
+msgctxt "UI.INTENTION.MADNESS"
+msgid "Madness"
+msgstr "瘋狂"
+
+#. UI.INTENTION.SOCIAL
+msgctxt "UI.INTENTION.SOCIAL"
+msgid "Social"
+msgstr "社交"
+
+#. UI.ITEM_SCREEN.BACK
+msgctxt "UI.ITEM_SCREEN.BACK"
+msgid "Back"
+msgstr "返回"
+
+#. UI.ITEM_SCREEN.DISABLED_TOAST_TOOLTIP
+msgctxt "UI.ITEM_SCREEN.DISABLED_TOAST_TOOLTIP"
+msgid "This requires more science!"
+msgstr "這需要更多科學！"
+
+#. UI.ITEM_SCREEN.DISABLED_YOTB_TOOLTIP
+msgctxt "UI.ITEM_SCREEN.DISABLED_YOTB_TOOLTIP"
+msgid "New beefalo grooming option!"
+msgstr "全新的皮弗婁牛裝扮選項！"
+
+#. UI.ITEM_SCREEN.ENABLED_TOAST_TOOLTIP
+msgctxt "UI.ITEM_SCREEN.ENABLED_TOAST_TOOLTIP"
+msgid "Open"
+msgstr "打開"
+
+#. UI.ITEM_SCREEN.NEW_SKIN
+msgctxt "UI.ITEM_SCREEN.NEW_SKIN"
+msgid "You got a skin for %s!"
+msgstr "你為 %s 拿到了皮膚。"
+
+#. UI.ITEM_SCREEN.NEXT_ITEM
+msgctxt "UI.ITEM_SCREEN.NEXT_ITEM"
+msgid "Put it Away"
+msgstr "放到一邊"
+
+#. UI.ITEM_SCREEN.NORMAL_POPUP_TITLE
+msgctxt "UI.ITEM_SCREEN.NORMAL_POPUP_TITLE"
+msgid "received..."
+msgstr "已收到…"
+
+#. UI.ITEM_SCREEN.OK_BUTTON
+msgctxt "UI.ITEM_SCREEN.OK_BUTTON"
+msgid "Close"
+msgstr "關閉"
+
+#. UI.ITEM_SCREEN.OPENING
+msgctxt "UI.ITEM_SCREEN.OPENING"
+msgid "Opening"
+msgstr "打開中"
+
+#. UI.ITEM_SCREEN.OPEN_BUTTON
+msgctxt "UI.ITEM_SCREEN.OPEN_BUTTON"
+msgid "Open Now!"
+msgstr "現在打開！"
+
+#. UI.ITEM_SCREEN.OPEN_NEXT
+msgctxt "UI.ITEM_SCREEN.OPEN_NEXT"
+msgid "Proceed"
+msgstr "繼續"
+
+#. UI.ITEM_SCREEN.RECEIVED
+msgctxt "UI.ITEM_SCREEN.RECEIVED"
+msgid "You Received"
+msgstr "你收到"
+
+#. UI.ITEM_SCREEN.USE_LATER
+msgctxt "UI.ITEM_SCREEN.USE_LATER"
+msgid "Use Later"
+msgstr "稍後使用"
+
+#. UI.ITEM_SCREEN.USE_NOW
+msgctxt "UI.ITEM_SCREEN.USE_NOW"
+msgid "Use Now"
+msgstr "現在使用"
+
+#. UI.ITEM_SERVER.CONNECT
+msgctxt "UI.ITEM_SERVER.CONNECT"
+msgid "Contacting Klei Servers"
+msgstr "正在連接科雷伺服器"
+
+#. UI.ITEM_SERVER.FAILED_DEFAULT
+msgctxt "UI.ITEM_SERVER.FAILED_DEFAULT"
+msgid "Sorry!\nFailed to contact Klei Servers. Please try again."
+msgstr "抱歉！\n連接Klei伺服器失敗。請重試。"
+
+#. UI.ITEM_SERVER.FAILED_EVENT_TITLE
+msgctxt "UI.ITEM_SERVER.FAILED_EVENT_TITLE"
+msgid "Achievements Failure"
+msgstr "成就失敗"
+
+#. UI.ITEM_SERVER.FAILED_IAP_RATE_LIMITED
+msgctxt "UI.ITEM_SERVER.FAILED_IAP_RATE_LIMITED"
+msgid "Unable to start a new transaction due to being rate limited. Please slow down and try again later."
+msgstr "由於受到限制，無法開始新的交易。請放慢速度，稍後再試。"
+
+#. UI.ITEM_SERVER.FAILED_MULTIPLE_PENDING_PURCHASES
+msgctxt "UI.ITEM_SERVER.FAILED_MULTIPLE_PENDING_PURCHASES"
+msgid "Unable to start a new transaction due to having an outstanding purchase active. Please close all other purchases, and try again later."
+msgstr "由於有一筆當前未完成的購買，無法開始新的交易。請關閉所有其他的購買，稍後再試。"
+
+#. UI.ITEM_SERVER.FAILED_TITLE
+msgctxt "UI.ITEM_SERVER.FAILED_TITLE"
+msgid "Purchase Failure"
+msgstr "購買失敗"
+
+#. UI.ITEM_SKIN_DEFAULTS.TITLE
+msgctxt "UI.ITEM_SKIN_DEFAULTS.TITLE"
+msgid "Curios for Starting Items"
+msgstr "起始物品珍寶"
+
+#. UI.LAVAARENA_QUESTS_HISTORY_PANEL.TAB_TITLE
+msgctxt "UI.LAVAARENA_QUESTS_HISTORY_PANEL.TAB_TITLE"
+msgid "Completed Quests"
+msgstr "已完成任務"
+
+#. UI.LAVAARENA_SUMMARY_PANEL.LAQ_DAILYMATCH
+msgctxt "UI.LAVAARENA_SUMMARY_PANEL.LAQ_DAILYMATCH"
+msgid "Daily Match Bonus"
+msgstr "每日比賽獎勵"
+
+#. UI.LAVAARENA_SUMMARY_PANEL.LAQ_DAILYWIN
+msgctxt "UI.LAVAARENA_SUMMARY_PANEL.LAQ_DAILYWIN"
+msgid "Daily Victory Bonus"
+msgstr "每日勝利獎勵"
+
+#. UI.LAVAARENA_SUMMARY_PANEL.TAB_TITLE
+msgctxt "UI.LAVAARENA_SUMMARY_PANEL.TAB_TITLE"
+msgid "The Forge"
+msgstr "熔爐"
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS.TIP_DICEVOTE
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS.TIP_DICEVOTE"
+msgid "Access the Server Commands menu from the Pause Screen to start votes or roll a dice."
+msgstr "從暫停螢幕進入伺服器命令功能表，開始投票或擲骰子。"
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS.TIP_DISABLE_TIPS
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS.TIP_DISABLE_TIPS"
+msgid "Is your mind already bursting with secret knowledge? You can turn off Loading Tips anytime in the Options menu."
+msgstr "你的腦子裡是不是已經裝滿秘密知識了？你可以隨時在選項功能表中關閉提示。"
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS.TIP_ENDLESS_MODE
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS.TIP_ENDLESS_MODE"
+msgid "When creating a new world, switch the Game Mode to Endless to allow you and your friends to revive themselves at the Florid Postern."
+msgstr "創建新世界時，將遊戲模式切換到無盡模式，你和你的朋友們就能在絢麗之門復活自己了。"
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS.TIP_HOLD_ACTION
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS.TIP_HOLD_ACTION"
+msgid "Hold {action} to automatically pick up nearby items and perform actions. Just make sure you're holding the right tool for the job!"
+msgstr "按住{action}就能自動撿起周圍的物品和行動。不過要確保你手裡拿著正確的工具！"
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS.TIP_HOLD_INSPECT
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS.TIP_HOLD_INSPECT"
+msgid "Hold {inspect} to inspect the world around you."
+msgstr "按住{inspect}檢查你周圍的世界。"
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS.TIP_ROLLBACK
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS.TIP_ROLLBACK"
+msgid "Server hosts can roll back one day or regenerate the world by accessing the Server Commands menu in the Pause Screen."
+msgstr "創建伺服器的玩家可以通過暫停螢幕的伺服器指令回檔一天，或是重新生成世界。"
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS.TIP_ROTATE_CAMERA
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS.TIP_ROTATE_CAMERA"
+msgid "Press {rotateleft} & {rotateright} to rotate your view of the world."
+msgstr "按{rotateleft}和{rotateright}來旋轉視角。"
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS.TIP_SHOW_MAP
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS.TIP_SHOW_MAP"
+msgid "Press {map} to take a quick glance at your map."
+msgstr "按{map}快速流覽地圖。"
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS.TIP_VIGNETTES
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS.TIP_VIGNETTES"
+msgid "Customize your loading screens in the Vignette section of the Curio Cabinet if you're looking for a little change of scenery."
+msgstr "如果你想換換風景看，可以在珍寶櫃的載入螢幕選項中自訂你的載入螢幕。"
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS.TIP_WORLDGEN
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS.TIP_WORLDGEN"
+msgid "Meddle with World Gen settings in the Options menu to shape a world to your liking."
+msgstr "在選項功能表中調整創世界的設置，生成一個符合你喜好的世界。"
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_ATTACK
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_ATTACK"
+msgid "Hold {attack} to attack enemies."
+msgstr "按住{attack}攻擊敵人。"
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_BIND_CONTROLS
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_BIND_CONTROLS"
+msgid "Play with Controls Settings in the Options Menu to fit your control needs."
+msgstr "在選項功能表中通過控制設置，調整你的操作輸入。"
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_CHAT
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_CHAT"
+msgid "Press {chat} to talk to other players. If you wish to speak privately, press {whisper} to whisper to someone."
+msgstr "按{chat}跟其他玩家聊天，按{whisper}私聊。"
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_DROP_ITEMS
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_DROP_ITEMS"
+msgid "Hold {modifier} and {secondary} to quick drop items from your inventory."
+msgstr "按住{modifier}和{secondary}快速丟棄你物品欄中的物品。"
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_FORCE_ATTACK
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_FORCE_ATTACK"
+msgid "Hold {modifier} + {attack} to attack anything that looks at you sideways, even friends."
+msgstr "按住{modifier} + {attack}攻擊任何你看不對眼的物件，哪怕是朋友。"
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_HALF_STACK
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_HALF_STACK"
+msgid "Hold {modifier} and {primary} on stacks of items in your inventory to quickly grab half the stack."
+msgstr "在物品欄的物品堆上按住{modifier}和{primary}可以快速抓取一半的該物品。"
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_HOLD_MOUSE
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_HOLD_MOUSE"
+msgid "Hold down {primary} to automatically harvest nearby items or attack, whatever suits your fancy!"
+msgstr "按住{primary}可以自動收穫周圍的物品或進攻，都由你定！"
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_INSPECT_SELF
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_INSPECT_SELF"
+msgid "Press {inspectself} to take a look at which item and character skins you are using."
+msgstr "按{inspectself}可以查看你正在使用的物品和人物皮膚。"
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_INVENTORY_SLOTS
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_INVENTORY_SLOTS"
+msgid "Press {inv_0}-{inv_9} to quickly use items carried in your main inventory."
+msgstr "按{inv_0}-{inv_9}可以快捷使用你主要物品欄中的物品。"
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_PLAYER_STATUS
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_PLAYER_STATUS"
+msgid "Keep tabs on your fellow Survivors by pressing the {playerstatus} key."
+msgstr "按{playerstatus}鍵查看同行倖存者的狀態。"
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_DARKNESS_CHARLIE
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_DARKNESS_CHARLIE"
+msgid "In the Constant, the darkness has a name. Have you met Charlie yet?"
+msgstr "永恆領域的黑暗有一個名字。你碰到過查理沒有？"
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_MAXWELL_PAST
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_MAXWELL_PAST"
+msgid "Maxwell (né William Carter) was once nothing more than a humble stage magician, until the discovery of a mysterious tome changed the course of his life forever."
+msgstr "麥斯威爾（曾用名威廉·卡特）曾經只是一個卑微的舞臺魔術師。在發現一本神秘的舊典籍後，他的生活軌跡發生了永久的改變。"
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_MAXWELL_SURVIVORS
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_MAXWELL_SURVIVORS"
+msgid "Once the King of the Nightmare Throne, Maxwell now finds himself surviving alongside the very people he once tormented. Needless to say, it makes for a bit of an... awkward atmosphere."
+msgstr "昨日還坐在噩夢王座上的國王麥斯威爾，現如今居然淪落到跟他折磨過的人一起求生。不用說，這樣的氣氛確實有點……尷尬。"
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_PORTALS
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_PORTALS"
+msgid "\"It seems that every time we discover a doorway out of this terrible place, it just leads to more strange worlds with new horrors to endure. Still, I can't give up hope that one day we'll find a doorway that will take us home...\" -W"
+msgstr "“似乎我們每發現一扇可能離開這個可怕地方的門，進去之後看到的都是更陌生的世界，然後經歷新的恐怖。儘管如此，我仍不願放棄希望，希望有天我們會找到一扇能帶我們回家的門……”-W"
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_THEM
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_THEM"
+msgid "\"You can't run from Them forever. Take it from me, pal.\" -M"
+msgstr "“聽我的，朋友：你躲得了他們一時，躲不了一世。”-M"
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_TIME
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_TIME"
+msgid "Time moves differently in the Constant. Instead of a monotonous forward march, seconds and eternities seem to throw caution to the wind and do-si-do backwards and forwards as they please."
+msgstr "時間在永恆領域中變得調皮起來：不再只是單調前行；秒和永恆將所有的小心翼翼都扔到了風裡，舞步隨心所欲地向前和向後。"
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_WALTER
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_WALTER"
+msgid "Walter's time in the Pinetree Pioneers has made him more prepared than most for surviving in the wilderness. Unfortunately, this is undermined somewhat by his blind fascination with monsters."
+msgstr "沃爾特松樹先鋒隊的經歷使他比大多數人更擅長野外生存。不幸的是，他對怪物的盲目迷戀在一定程度上削弱了他的求生能力。"
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_WARNING
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_WARNING"
+msgid "\"Nothing here is what it seems. If you're reading this, keep an eye on the rabbits, don't trust the statues, and don't mistake that thing hanging in the night sky for the moon...\" -W"
+msgstr "“這裡沒有什麼是它看起來的那樣。如果你正在讀這些文字，請留意兔子，不要相信雕像，也不要誤以為那輪掛在夜空的東西是月亮……”-W"
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_WEBBER
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_WEBBER"
+msgid "Once upon a time, a little boy was swallowed up whole by a big hungry spider. Now they share everything; a body, a mind, and the name Webber."
+msgstr "很久以前，一個小男孩被一隻饑餓的大蜘蛛整個吞掉了。現在他們共用一切；身體、大腦，還有韋伯這個名字。"
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_WENDY
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_WENDY"
+msgid "Nothing could ever come between Wendy and her twin sister Abigail. Some bonds transcend even death."
+msgstr "溫蒂和她的雙胞胎姐妹阿比蓋爾親密無間。有些紐帶甚至能超越死亡。"
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_WICKERBOTTOM
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_WICKERBOTTOM"
+msgid "Wickerbottom is of the firm belief that the pen is mightier than the sword. Words hold great power when used correctly."
+msgstr "薇克巴頓堅信筆比劍更有力量。只要使用得當，文字就能發揮巨大的力量。"
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_WILLOW
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_WILLOW"
+msgid "Nothing brings Willow more comfort than snuggling her faithful teddy bear Bernie, and committing a playful bit of arson."
+msgstr "薇洛在依偎著她忠實的泰迪熊伯尼時會感到快樂，哦，對了，還有玩火。"
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_WILSON_UNI
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_WILSON_UNI"
+msgid "Wilson chose the path of an independent Gentleman Scientist after finding the university environment to be too stifling for a man of his ambitions. (The enormous bill the university sent him to pay for repairs to the chemistry lab had absolutely nothing to do with this.)"
+msgstr "威爾遜在發現大學環境對他這樣一個有雄心壯志的人來說太過窒息，於是走上了獨立的紳士科學家之路。(與大學寄給他的修理化學實驗室的巨額帳單絕對無關)。"
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_WINONA_CHARLIE
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_WINONA_CHARLIE"
+msgid "Growing up, Winona always looked out for her younger sister. Even now, she can't help but feel that one day she'll be able to reach out into the darkness and pull Charlie back."
+msgstr "在成長過程中，薇諾娜盡到了照顧妹妹的義務。即使是現在，她也常常感覺到有一天她能夠伸手到黑暗中把查理拉回來。"
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_WOODIE
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_WOODIE"
+msgid "Even with all the steps Woodie has taken to control his were-curse, there's little that can be done on nights when the moon is at its fullest."
+msgstr "即使伍迪想盡辦法來控制他的變身詛咒，但在月圓之夜，他還是會被其控制。"
+
+#. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.LOCAL_PLAYER_READY_CANCEL_HELPTEXT
+msgctxt "UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.LOCAL_PLAYER_READY_CANCEL_HELPTEXT"
+msgid "Wait, I'm not ready!"
+msgstr "等一下，我還沒準備好！"
+
+#. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.LOCAL_PLAYER_READY_TO_START
+msgctxt "UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.LOCAL_PLAYER_READY_TO_START"
+msgid "Ready to start"
+msgstr "準備開始"
+
+#. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.LOCAL_PLAYER_VOTE_TO_START
+msgctxt "UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.LOCAL_PLAYER_VOTE_TO_START"
+msgid "Vote to start with {num}/{max} players"
+msgstr "投票與 {num}/{max} 位玩家開始"
+
+#. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.PLAYER_READY_TO_START
+msgctxt "UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.PLAYER_READY_TO_START"
+msgid "Ready"
+msgstr "準備"
+
+#. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.PLAYER_VOTED_TO_FORCE_START
+msgctxt "UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.PLAYER_VOTED_TO_FORCE_START"
+msgid "Voted To Start"
+msgstr "已投票開局"
+
+#. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.SPAWN_DELAY
+msgctxt "UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.SPAWN_DELAY"
+msgid "Match starts in {time}"
+msgstr "{time} 後開始比賽"
+
+#. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.VOTE_POPUP_BODY
+msgctxt "UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.VOTE_POPUP_BODY"
+msgid "You are voting to start the match without a full server.\nThe difficulty does not scale based on the number of players.\nThis will be a more challenging experience."
+msgstr "你正在投票表示要在伺服器未滿的情況下開始比賽。\n難度不會根據玩家人數調整。\n這種遊戲體驗將會更有挑戰性。"
+
+#. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.VOTE_POPUP_CANCEL
+msgctxt "UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.VOTE_POPUP_CANCEL"
+msgid "Cancel"
+msgstr "取消"
+
+#. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.VOTE_POPUP_CONTINUE
+msgctxt "UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.VOTE_POPUP_CONTINUE"
+msgid "Vote"
+msgstr "投票"
+
+#. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.VOTE_POPUP_TITLE
+msgctxt "UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.VOTE_POPUP_TITLE"
+msgid "Voting to Start"
+msgstr "投票開局"
+
+#. UI.MYSTERYBOXSCREEN.BOXES
+msgctxt "UI.MYSTERYBOXSCREEN.BOXES"
+msgid "My Chests"
+msgstr "我的箱子"
+
+#. UI.MYSTERYBOXSCREEN.OK
+msgctxt "UI.MYSTERYBOXSCREEN.OK"
+msgid "OK"
+msgstr "好的"
+
+#. UI.MYSTERYBOXSCREEN.OPEN_BOX
+msgctxt "UI.MYSTERYBOXSCREEN.OPEN_BOX"
+msgid "Open Chest"
+msgstr "打開箱子"
+
+#. UI.MYSTERYBOXSCREEN.OUT_OF_BOXES_BODY
+msgctxt "UI.MYSTERYBOXSCREEN.OUT_OF_BOXES_BODY"
+msgid "You have no chests in your treasury.\nStart playing to earn some!"
+msgstr "你的寶庫裡沒有箱子。\n開始遊戲，贏一些回來！"
+
+#. UI.MYSTERYBOXSCREEN.OUT_OF_BOXES_BODY_NO_EVENT
+msgctxt "UI.MYSTERYBOXSCREEN.OUT_OF_BOXES_BODY_NO_EVENT"
+msgid "You have no chests in your treasury."
+msgstr "你的寶庫裡沒有箱子。"
+
+#. UI.MYSTERYBOXSCREEN.TITLE
+msgctxt "UI.MYSTERYBOXSCREEN.TITLE"
+msgid "The Treasury"
+msgstr "寶庫"
+
+#. UI.MYSTERYBOXSCREEN.TOOLTIP_BOXES
+msgctxt "UI.MYSTERYBOXSCREEN.TOOLTIP_BOXES"
+msgid "View the chests in your inventory"
+msgstr "查看你物品欄裡的箱子"
+
+#. UI.PLAYER_AVATAR.AGE_DAY
+msgctxt "UI.PLAYER_AVATAR.AGE_DAY"
+msgid "Day"
+msgstr "白天"
+
+#. UI.PLAYER_AVATAR.AGE_DAYS
+msgctxt "UI.PLAYER_AVATAR.AGE_DAYS"
+msgid "Days"
+msgstr "天"
+
+#. UI.PLAYER_AVATAR.AGE_SURVIVED
+msgctxt "UI.PLAYER_AVATAR.AGE_SURVIVED"
+msgid "Survived"
+msgstr "生存了"
+
+#. UI.PLAYER_AVATAR.CHOOSING
+msgctxt "UI.PLAYER_AVATAR.CHOOSING"
+msgid "is choosing their survivor"
+msgstr "正在選擇冒險家"
+
+#. UI.PLAYER_AVATAR.CLOSE
+msgctxt "UI.PLAYER_AVATAR.CLOSE"
+msgid "Close"
+msgstr "關閉"
+
+#. UI.PLAYER_AVATAR.STEAM
+msgctxt "UI.PLAYER_AVATAR.STEAM"
+msgid "View Profile"
+msgstr "查看個人資訊"
+
+#. UI.POPUPDIALOG.BODY.DEFAULT
+msgctxt "UI.POPUPDIALOG.BODY.DEFAULT"
+msgid "You have received an alert. Don't let this happen again."
+msgstr "你已經收到警告。不要讓這種情況再次發生了。"
+
+#. UI.POPUPDIALOG.BODY.DIRECT_JOIN_FAILED
+msgctxt "UI.POPUPDIALOG.BODY.DIRECT_JOIN_FAILED"
+msgid "Something went wrong while trying to direct join a server."
+msgstr "試著直接加入伺服器的時候出錯了。"
+
+#. UI.POPUPDIALOG.BODY.SERVER_ERROR_BANNED_GAME
+msgctxt "UI.POPUPDIALOG.BODY.SERVER_ERROR_BANNED_GAME"
+msgid "Your server will not be joinable until the name or description has been changed. Repeated violations will result in a permanent ban."
+msgstr "直到名稱或描述改變後，才可以加入你的伺服器。重複違規會導致永久禁止。"
+
+#. UI.POPUPDIALOG.BODY.SERVER_ERROR_BANNED_GAME_DESC
+msgctxt "UI.POPUPDIALOG.BODY.SERVER_ERROR_BANNED_GAME_DESC"
+msgid "Your server will not be joinable until the description has been changed. Repeated violations will result in a permanent ban."
+msgstr "直到描述改變後，才可以加入你的伺服器。重複違規會導致永久禁止。"
+
+#. UI.POPUPDIALOG.BODY.SERVER_ERROR_BANNED_GAME_NAME
+msgctxt "UI.POPUPDIALOG.BODY.SERVER_ERROR_BANNED_GAME_NAME"
+msgid "Your server will not be joinable until the name has been changed. Repeated violations will result in a permanent ban."
+msgstr "直到名稱改變後，才可以加入你的伺服器。重複違規會導致永遠禁止。"
+
+#. UI.POPUPDIALOG.OK
+msgctxt "UI.POPUPDIALOG.OK"
+msgid "OK"
+msgstr "好的"
+
+#. UI.POPUPDIALOG.TITLE.DEFAULT
+msgctxt "UI.POPUPDIALOG.TITLE.DEFAULT"
+msgid "Alert!"
+msgstr "提醒！"
+
+#. UI.POPUPDIALOG.TITLE.DIRECT_JOIN_FAILED
+msgctxt "UI.POPUPDIALOG.TITLE.DIRECT_JOIN_FAILED"
+msgid "Failed to Direct Join Game"
+msgstr "無法直接加入遊戲"
+
+#. UI.POPUPDIALOG.TITLE.SERVER_ERROR_BANNED_GAME
+msgctxt "UI.POPUPDIALOG.TITLE.SERVER_ERROR_BANNED_GAME"
+msgid "Terms of Service Violation"
+msgstr "服務條款違規"
+
+#. UI.POPUPDIALOG.TITLE.SERVER_ERROR_BANNED_GAME_DESC
+msgctxt "UI.POPUPDIALOG.TITLE.SERVER_ERROR_BANNED_GAME_DESC"
+msgid "Terms of Service Violation - Description"
+msgstr "服務條款違規——描述"
+
+#. UI.POPUPDIALOG.TITLE.SERVER_ERROR_BANNED_GAME_NAME
+msgctxt "UI.POPUPDIALOG.TITLE.SERVER_ERROR_BANNED_GAME_NAME"
+msgid "Terms of Service Violation - Name"
+msgstr "服務條款違規——名稱"
+
+#. UI.PORTRAIT.DIFFICULTY
+msgctxt "UI.PORTRAIT.DIFFICULTY"
+msgid "Difficulty"
+msgstr "難度"
+
+#. UI.PORTRAIT.HP
+msgctxt "UI.PORTRAIT.HP"
+msgid "HP"
+msgstr "HP"
+
+#. UI.PORTRAIT.ITEMS
+msgctxt "UI.PORTRAIT.ITEMS"
+msgid "Items"
+msgstr "物品"
+
+#. UI.PRESENCE.INVITATION
+msgctxt "UI.PRESENCE.INVITATION"
+msgid "Let's play Don't Starve Together.... together!"
+msgstr "我們一起來玩《饑荒連線版》吧……一起玩！"
+
+#. UI.PRESENCE.PLAY_TOGETHER_BODY
+msgctxt "UI.PRESENCE.PLAY_TOGETHER_BODY"
+msgid "You can join a server or host your own. Invitations will be sent to the rest of your party once you are in the game."
+msgstr "您可以加入一個伺服器或者自己創建一個伺服器。一旦您進入遊戲，就會向您的其他夥伴們發出邀請。"
+
+#. UI.PRESENCE.PLAY_TOGETHER_TITLE
+msgctxt "UI.PRESENCE.PLAY_TOGETHER_TITLE"
+msgid "Play Together"
+msgstr "一起玩"
+
+#. UI.PRESENCE.SESSION_NOT_FOUND_BODY
+msgctxt "UI.PRESENCE.SESSION_NOT_FOUND_BODY"
+msgid "The session you are trying to join is no longer available"
+msgstr "你嘗試加入的會話已經不再可用了"
+
+#. UI.PRESENCE.SESSION_NOT_FOUND_TITLE
+msgctxt "UI.PRESENCE.SESSION_NOT_FOUND_TITLE"
+msgid "Session Not Found"
+msgstr "未發現會話"
+
+#. UI.QUICKJOINSCREEN.BODY
+msgctxt "UI.QUICKJOINSCREEN.BODY"
+msgid "Searching for servers"
+msgstr "正在搜索伺服器"
+
+#. UI.QUICKJOINSCREEN.CONNECTING_TO_SERVER
+msgctxt "UI.QUICKJOINSCREEN.CONNECTING_TO_SERVER"
+msgid "Connecting to Server: {server}"
+msgstr "正在連接伺服器： {server}"
+
+#. UI.QUICKJOINSCREEN.JOIN_BTN
+msgctxt "UI.QUICKJOINSCREEN.JOIN_BTN"
+msgid "Join"
+msgstr "加入"
+
+#. UI.QUICKJOINSCREEN.NO_SERVERS_BROWSE
+msgctxt "UI.QUICKJOINSCREEN.NO_SERVERS_BROWSE"
+msgid "Browse Games"
+msgstr "流覽遊戲"
+
+#. UI.QUICKJOINSCREEN.NO_SERVERS_CLOSE
+msgctxt "UI.QUICKJOINSCREEN.NO_SERVERS_CLOSE"
+msgid "Close"
+msgstr "關閉"
+
+#. UI.QUICKJOINSCREEN.NO_SERVERS_HOST
+msgctxt "UI.QUICKJOINSCREEN.NO_SERVERS_HOST"
+msgid "Host Game"
+msgstr "遊戲"
+
+#. UI.QUICKJOINSCREEN.NO_SERVERS_MSG
+msgctxt "UI.QUICKJOINSCREEN.NO_SERVERS_MSG"
+msgid "No servers could be found matching the quick join criteria."
+msgstr "未找到符合快速參賽條件的伺服器。"
+
+#. UI.QUICKJOINSCREEN.NO_SERVERS_TITLE
+msgctxt "UI.QUICKJOINSCREEN.NO_SERVERS_TITLE"
+msgid "Quick Join Failed"
+msgstr "快速加入失敗"
+
+#. UI.QUICKJOINSCREEN.TITLE
+msgctxt "UI.QUICKJOINSCREEN.TITLE"
+msgid "Quick Join"
+msgstr "快速加入"
+
+#. UI.QUITTING
+msgctxt "UI.QUITTING"
+msgid "Packing up the science."
+msgstr "正在打包科學技術。"
+
+#. UI.QUITTINGTITLE
+msgctxt "UI.QUITTINGTITLE"
+msgid "Quitting!"
+msgstr "正在退出！"
+
+#. UI.RARITY.Character
+msgctxt "UI.RARITY.Character"
+msgid "Character"
+msgstr "角色"
+
+#. UI.RARITY.CharacterModifier
+msgctxt "UI.RARITY.CharacterModifier"
+msgid ""
+msgstr ""
+
+#. UI.RARITY.Classy
+msgctxt "UI.RARITY.Classy"
+msgid "Classy"
+msgstr "上等"
+
+#. UI.RARITY.Common
+msgctxt "UI.RARITY.Common"
+msgid "Common"
+msgstr "普通"
+
+#. UI.RARITY.Complimentary
+msgctxt "UI.RARITY.Complimentary"
+msgid "Complimentary"
+msgstr "免費"
+
+#. UI.RARITY.Distinguished
+msgctxt "UI.RARITY.Distinguished"
+msgid "Distinguished"
+msgstr "傑出"
+
+#. UI.RARITY.Elegant
+msgctxt "UI.RARITY.Elegant"
+msgid "Elegant"
+msgstr "優雅"
+
+#. UI.RARITY.Event
+msgctxt "UI.RARITY.Event"
+msgid "Event (Limited-Time Use)"
+msgstr "事件（限時使用）"
+
+#. UI.RARITY.HeirloomClassy
+msgctxt "UI.RARITY.HeirloomClassy"
+msgid "Heirloom Classy"
+msgstr "祖傳上等"
+
+#. UI.RARITY.HeirloomDistinguished
+msgctxt "UI.RARITY.HeirloomDistinguished"
+msgid "Heirloom Distinguished"
+msgstr "祖傳傑出"
+
+#. UI.RARITY.HeirloomElegant
+msgctxt "UI.RARITY.HeirloomElegant"
+msgid "Heirloom Elegant"
+msgstr "祖傳優雅"
+
+#. UI.RARITY.HeirloomSpiffy
+msgctxt "UI.RARITY.HeirloomSpiffy"
+msgid "Heirloom Spiffy"
+msgstr "祖傳酷炫"
+
+#. UI.RARITY.Inspired
+msgctxt "UI.RARITY.Inspired"
+msgid "Inspired - "
+msgstr "啟發-"
+
+#. UI.RARITY.Loyal
+msgctxt "UI.RARITY.Loyal"
+msgid "Loyal"
+msgstr "忠誠"
+
+#. UI.RARITY.ProofOfPurchase
+msgctxt "UI.RARITY.ProofOfPurchase"
+msgid "Proof Of Purchase"
+msgstr "購買憑證"
+
+#. UI.RARITY.Reward
+msgctxt "UI.RARITY.Reward"
+msgid "Reward"
+msgstr "獎勵"
+
+#. UI.RARITY.Spiffy
+msgctxt "UI.RARITY.Spiffy"
+msgid "Spiffy"
+msgstr "炫酷"
+
+#. UI.RARITY.Timeless
+msgctxt "UI.RARITY.Timeless"
+msgid "Timeless"
+msgstr "永恆"
+
+#. UI.RARITY.Woven
+msgctxt "UI.RARITY.Woven"
+msgid "Woven - "
+msgstr "織造-"
+
+#. UI.REDEEMDIALOG.ACCEPTED
+msgctxt "UI.REDEEMDIALOG.ACCEPTED"
+msgid "Success: Code Accepted!"
+msgstr "成功：兌換碼正確！"
+
+#. UI.REDEEMDIALOG.ALREADY_REDEEMED
+msgctxt "UI.REDEEMDIALOG.ALREADY_REDEEMED"
+msgid "This code has already been redeemed. Maybe by you?"
+msgstr "這個兌換碼已經被使用。是你換的嗎？"
+
+#. UI.REDEEMDIALOG.CANCEL
+msgctxt "UI.REDEEMDIALOG.CANCEL"
+msgid "Cancel"
+msgstr "取消"
+
+#. UI.REDEEMDIALOG.CURRENCY_FMT
+msgctxt "UI.REDEEMDIALOG.CURRENCY_FMT"
+msgid "{currency_amt} {currency}!"
+msgstr "{currency_amt} {currency}！"
+
+#. UI.REDEEMDIALOG.FAILED_TO_CONTACT
+msgctxt "UI.REDEEMDIALOG.FAILED_TO_CONTACT"
+msgid "Sorry, it looks like the server's not answering right now. Please try again later."
+msgstr "不好意思，伺服器現在好像沒有回應。請稍後重試。"
+
+#. UI.REDEEMDIALOG.INVALID_CODE
+msgctxt "UI.REDEEMDIALOG.INVALID_CODE"
+msgid "That code wasn't quite right. Please try again."
+msgstr "兌換碼不正確。請再次嘗試。"
+
+#. UI.REDEEMDIALOG.LEGALESE
+msgctxt "UI.REDEEMDIALOG.LEGALESE"
+msgid "Delivery time may vary due to temporal portal anomalies. Wilson is not responsible for emotional injuries caused by waiting. Gifts may result in bragging, unexpected delight, and/or enhanced gameplay experiences."
+msgstr "鑒於傳送門的異常現象，交付時間可能有所異同。\n威爾遜不對等待造成的情緒傷害負責。你獲得的禮物\n可能會很贊、出人意料並/或能改善你的遊戲體驗。"
+
+#. UI.REDEEMDIALOG.MENU_BUTTON_DESC
+msgctxt "UI.REDEEMDIALOG.MENU_BUTTON_DESC"
+msgid "Transmute some codes into something useful."
+msgstr "將兌換碼轉換為有用的東西。"
+
+#. UI.REDEEMDIALOG.MENU_BUTTON_TITLE
+msgctxt "UI.REDEEMDIALOG.MENU_BUTTON_TITLE"
+msgid "Redeem Codes"
+msgstr "使用兌換碼"
+
+#. UI.REDEEMDIALOG.SUBMIT
+msgctxt "UI.REDEEMDIALOG.SUBMIT"
+msgid "Submit"
+msgstr "提交"
+
+#. UI.REDEEMDIALOG.TITLE
+msgctxt "UI.REDEEMDIALOG.TITLE"
+msgid "Enter Your Code"
+msgstr "輸入兌換碼"
+
+#. UI.SAVELOAD.CANCEL
+msgctxt "UI.SAVELOAD.CANCEL"
+msgid "Cancel"
+msgstr "取消"
+
+#. UI.SAVELOAD.DATA_DAMAGED
+msgctxt "UI.SAVELOAD.DATA_DAMAGED"
+msgid "Oh no! Your save data has become corrupt and cannot be used."
+msgstr "噢不！你保存的資料已經毀壞，不能使用了。"
+
+#. UI.SAVELOAD.DATA_DAMAGED_BODY
+msgctxt "UI.SAVELOAD.DATA_DAMAGED_BODY"
+msgid "Your save data is damaged and cannot be used."
+msgstr "您保存的資料已損壞，無法使用。"
+
+#. UI.SAVELOAD.DATA_DAMAGED_PS4
+msgctxt "UI.SAVELOAD.DATA_DAMAGED_PS4"
+msgid "Damaged save data"
+msgstr "保存資料已損壞"
+
+#. UI.SAVELOAD.DELETE_FAILED
+msgctxt "UI.SAVELOAD.DELETE_FAILED"
+msgid "An error occurred while deleting your data."
+msgstr "刪除資料時出錯。"
+
+#. UI.SAVELOAD.DISABLE
+msgctxt "UI.SAVELOAD.DISABLE"
+msgid "Disable Save"
+msgstr "禁止保存"
+
+#. UI.SAVELOAD.DISABLE_AUTOSAVE
+msgctxt "UI.SAVELOAD.DISABLE_AUTOSAVE"
+msgid "Are you sure you want to\ndisable the auto-save feature?"
+msgstr "確定要禁用\n自動保存功能嗎？"
+
+#. UI.SAVELOAD.DISABLE_AUTOSAVE_PS4
+msgctxt "UI.SAVELOAD.DISABLE_AUTOSAVE_PS4"
+msgid "Are you sure you want to\ndisable the save feature?"
+msgstr "確定要\n停用保存功能嗎？"
+
+#. UI.SAVELOAD.LOAD_FAILED
+msgctxt "UI.SAVELOAD.LOAD_FAILED"
+msgid "An error occurred while loading your data."
+msgstr "載入資料時出錯。"
+
+#. UI.SAVELOAD.NO
+msgctxt "UI.SAVELOAD.NO"
+msgid "No"
+msgstr "否"
+
+#. UI.SAVELOAD.OVERWRITE
+msgctxt "UI.SAVELOAD.OVERWRITE"
+msgid "Overwrite"
+msgstr "覆蓋"
+
+#. UI.SAVELOAD.OVERWRITE_SAVEDATA_BODY
+msgctxt "UI.SAVELOAD.OVERWRITE_SAVEDATA_BODY"
+msgid "Are you sure you want to overwrite your save data? Your settings and worlds will be lost. This process can not be undone."
+msgstr "確定要覆蓋存檔嗎？設置和世界都會丟失。確認後將無法挽回。"
+
+#. UI.SAVELOAD.OVERWRITE_SAVEDATA_TITLE
+msgctxt "UI.SAVELOAD.OVERWRITE_SAVEDATA_TITLE"
+msgid "Overwrite save data"
+msgstr "覆蓋存檔"
+
+#. UI.SAVELOAD.RESTOREBACKUP_FAILED
+msgctxt "UI.SAVELOAD.RESTOREBACKUP_FAILED"
+msgid "An error occurred while\nrestoring your data."
+msgstr "恢復資料時\n出錯。"
+
+#. UI.SAVELOAD.RESTORE_BACKUP
+msgctxt "UI.SAVELOAD.RESTORE_BACKUP"
+msgid "Restore Backup"
+msgstr "恢復備份"
+
+#. UI.SAVELOAD.RESTORE_BACKUP_BODY
+msgctxt "UI.SAVELOAD.RESTORE_BACKUP_BODY"
+msgid "Are you sure you want to restore from the last available backup? This process can not be undone."
+msgstr "是否確定從上次可用的備份中恢復？此操作無法撤銷。"
+
+#. UI.SAVELOAD.RETRY
+msgctxt "UI.SAVELOAD.RETRY"
+msgid "Retry"
+msgstr "重試"
+
+#. UI.SAVELOAD.SAVE_FAILED
+msgctxt "UI.SAVELOAD.SAVE_FAILED"
+msgid "An error occurred while saving your data."
+msgstr "保存資料時出錯。"
+
+#. UI.SAVELOAD.YES
+msgctxt "UI.SAVELOAD.YES"
+msgid "Yes"
+msgstr "是"
+
+#. UI.SETPOPUP.NEXT_SET
+msgctxt "UI.SETPOPUP.NEXT_SET"
+msgid "Next Set"
+msgstr "下一組"
+
+#. UI.SETPOPUP.OK
+msgctxt "UI.SETPOPUP.OK"
+msgid "OK"
+msgstr "好的"
+
+#. UI.SETPOPUP.PREV_SET
+msgctxt "UI.SETPOPUP.PREV_SET"
+msgid "Previous Set"
+msgstr "上一組"
+
+#. UI.SETPOPUP.REWARD
+msgctxt "UI.SETPOPUP.REWARD"
+msgid "Reward:"
+msgstr "獎勵："
+
+#. UI.SKIN_PRESETS.TITLE
+msgctxt "UI.SKIN_PRESETS.TITLE"
+msgid "Clothing Presets"
+msgstr "服裝預設"
+
+#. UI.SPECIAL_EVENT_NAMES.CROW_CARNIVAL
+msgctxt "UI.SPECIAL_EVENT_NAMES.CROW_CARNIVAL"
+msgid "Midsummer Cawnival"
+msgstr "盛夏鴉年華"
+
+#. UI.SPECIAL_EVENT_NAMES.HALLOWED_NIGHTS
+msgctxt "UI.SPECIAL_EVENT_NAMES.HALLOWED_NIGHTS"
+msgid "Hallowed Nights"
+msgstr "萬聖夜"
+
+#. UI.SPECIAL_EVENT_NAMES.MULTIPLE_EVENTS
+msgctxt "UI.SPECIAL_EVENT_NAMES.MULTIPLE_EVENTS"
+msgid "Special Events"
+msgstr "特殊事件"
+
+#. UI.SPECIAL_EVENT_NAMES.WINTERS_FEAST
+msgctxt "UI.SPECIAL_EVENT_NAMES.WINTERS_FEAST"
+msgid "Winter's Feast"
+msgstr "冬季盛宴"
+
+#. UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_BEEFALO
+msgctxt "UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_BEEFALO"
+msgid "Year of the Beefalo"
+msgstr "皮弗婁牛之年"
+
+#. UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_CARRAT
+msgctxt "UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_CARRAT"
+msgid "Year of the Carrat"
+msgstr "胡蘿蔔鼠之年"
+
+#. UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_CATCOON
+msgctxt "UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_CATCOON"
+msgid "Year of the Catcoon"
+msgstr "浣貓之年"
+
+#. UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_GOBBLER
+msgctxt "UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_GOBBLER"
+msgid "Year of the Gobbler"
+msgstr "火雞之年"
+
+#. UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_PIG
+msgctxt "UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_PIG"
+msgid "Year of the Pig King"
+msgstr "豬王之年"
+
+#. UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_VARG
+msgctxt "UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_VARG"
+msgid "Year of the Varg"
+msgstr "座狼之年"
+
+#. UI.SPLITSCREEN_REGISTRATION.KICK_PLAYER_POSTFIX
+msgctxt "UI.SPLITSCREEN_REGISTRATION.KICK_PLAYER_POSTFIX"
+msgid " from split screen"
+msgstr "來自分區螢幕"
+
+#. UI.SPLITSCREEN_REGISTRATION.KICK_PLAYER_PREFIX
+msgctxt "UI.SPLITSCREEN_REGISTRATION.KICK_PLAYER_PREFIX"
+msgid "Kick "
+msgstr "踢掉"
+
+#. UI.SPLITSCREEN_REGISTRATION.PLAYER_2_PRESS_START_POSTFIX
+msgctxt "UI.SPLITSCREEN_REGISTRATION.PLAYER_2_PRESS_START_POSTFIX"
+msgid "TO JOIN"
+msgstr "如需加入，請"
+
+#. UI.SPLITSCREEN_REGISTRATION.PLAYER_2_PRESS_START_PREFIX
+msgctxt "UI.SPLITSCREEN_REGISTRATION.PLAYER_2_PRESS_START_PREFIX"
+msgid "PRESS"
+msgstr "按"
+
+#. UI.SPLITSCREEN_REGISTRATION.STATUS_OFFLINE
+msgctxt "UI.SPLITSCREEN_REGISTRATION.STATUS_OFFLINE"
+msgid "Offline"
+msgstr "線下"
+
+#. UI.SPLITSCREEN_REGISTRATION.STATUS_ONLINE
+msgctxt "UI.SPLITSCREEN_REGISTRATION.STATUS_ONLINE"
+msgid "Signed In"
+msgstr "登錄"
+
+#. UI.SPLITSCREEN_REGISTRATION.TITLE_PLAYER_1
+msgctxt "UI.SPLITSCREEN_REGISTRATION.TITLE_PLAYER_1"
+msgid "Player 1"
+msgstr "玩家 1"
+
+#. UI.SPLITSCREEN_REGISTRATION.TITLE_PLAYER_2
+msgctxt "UI.SPLITSCREEN_REGISTRATION.TITLE_PLAYER_2"
+msgid "Player 2"
+msgstr "玩家 2"
+
+#. UI.STARTADVENTURE.BODY
+msgctxt "UI.STARTADVENTURE.BODY"
+msgid "You are about to embark on a long, arduous expedition to locate Maxwell. You will need to survive five randomly generated worlds, each presenting you with a unique challenge.\n\nShould you die you will be transported safely back to this portal, but lose all your progress on the adventure."
+msgstr "你即將步入尋找麥斯威爾的漫長旅程，這條道路充滿了艱險。你需要活著闖過5個隨機生成的世界，每個世界都有一個獨特的挑戰等著你。\n\n如果你死了，你會安全重新回到這扇門，但這段旅程的所有進度均會丟失。"
+
+#. UI.STARTADVENTURE.BODY_TEST
+msgctxt "UI.STARTADVENTURE.BODY_TEST"
+msgid "If you die during adventure mode, you will return back to this portal where you may restart the adventure.\n\nYou are about to embark on a long, arduous expedition to locate Maxwell. You will need to survive five randomly generated worlds, each presenting you with a unique challenge."
+msgstr "如果你在冒險模式中死去，將會返回這扇門，你可以在這裡重新開始冒險之旅。\n\n你即將步入尋找麥斯威爾的漫長旅程，這條道路充滿了艱險。你需要活著闖過5個隨機生成的世界，每個世界都有一個獨特的挑戰等著你。"
+
+#. UI.STARTADVENTURE.NO
+msgctxt "UI.STARTADVENTURE.NO"
+msgid "Not Yet"
+msgstr "還沒準備好"
+
+#. UI.STARTADVENTURE.TITLE
+msgctxt "UI.STARTADVENTURE.TITLE"
+msgid "Doorway to Adventure!"
+msgstr "冒險的大門！"
+
+#. UI.STARTADVENTURE.YES
+msgctxt "UI.STARTADVENTURE.YES"
+msgid "Let's Go!"
+msgstr "出發！"
+
+#. UI.STATSPANEL.MOTD_BODY
+msgctxt "UI.STATSPANEL.MOTD_BODY"
+msgid "Character and item skin sets now available for purchase!"
+msgstr "角色和道具皮膚套裝現在已經可購買！"
+
+#. UI.STATSPANEL.MOTD_TITLE
+msgctxt "UI.STATSPANEL.MOTD_TITLE"
+msgid "Now Available!"
+msgstr "現已發售！"
+
+#. UI.TELEPORTBODY_ADVENTURE
+msgctxt "UI.TELEPORTBODY_ADVENTURE"
+msgid "This will REMOVE ALL YOUR ITEMS and destroy your current world. Only items placed in the machine will appear in the next world."
+msgstr "這將刪除你的所有物品，並摧毀你當前的世界。只有放在機器裡的物品會出現在下一個世界。"
+
+#. UI.TELEPORTBODY_SURVIVAL
+msgctxt "UI.TELEPORTBODY_SURVIVAL"
+msgid "This will destroy your current world, but you will retain your inventory contents."
+msgstr "這會摧毀你當前的世界，但你的物品將會保留。"
+
+#. UI.TELEPORTNO
+msgctxt "UI.TELEPORTNO"
+msgid "Stay here."
+msgstr "待在這裡。"
+
+#. UI.TELEPORTTITLE
+msgctxt "UI.TELEPORTTITLE"
+msgid "Journey onwards?"
+msgstr "繼續旅程？"
+
+#. UI.TELEPORTYES
+msgctxt "UI.TELEPORTYES"
+msgid "Let's Go!"
+msgstr "出發！"
+
+#. UI.TIME_FORMAT.HHMMSS
+msgctxt "UI.TIME_FORMAT.HHMMSS"
+msgid "{hours}:{minutes}:{seconds}"
+msgstr "{hours}:{minutes}:{seconds}"
+
+#. UI.TIME_FORMAT.MMSS
+msgctxt "UI.TIME_FORMAT.MMSS"
+msgid "{minutes}:{seconds}"
+msgstr "{minutes}:{seconds}"
+
+#. UI.UNLOCKMAXWELL.BODY1
+msgctxt "UI.UNLOCKMAXWELL.BODY1"
+msgid "The key looks like it will fit. You can free "
+msgstr "這把鑰匙看上去是對的。你可以給"
+
+#. UI.UNLOCKMAXWELL.BODY2
+msgctxt "UI.UNLOCKMAXWELL.BODY2"
+msgid ", but I doubt %s captors will be pleased..."
+msgstr "自由，但估計俘獲%s的人會不高興..."
+
+#. UI.UNLOCKMAXWELL.NO
+msgctxt "UI.UNLOCKMAXWELL.NO"
+msgid "No"
+msgstr "否"
+
+#. UI.UNLOCKMAXWELL.TITLE
+msgctxt "UI.UNLOCKMAXWELL.TITLE"
+msgid "Take pity?"
+msgstr "同情？"
+
+#. UI.UNLOCKMAXWELL.YES
+msgctxt "UI.UNLOCKMAXWELL.YES"
+msgid "Yes"
+msgstr "是"
+
+#. UI.USERCOMMANDS.BADTARGETFMT
+msgctxt "UI.USERCOMMANDS.BADTARGETFMT"
+msgid "You can't run '%s' on %s."
+msgstr "你無法在 %s 上運行‘%s’。"
+
+#. UI.USERCOMMANDS.BADUSERFMT
+msgctxt "UI.USERCOMMANDS.BADUSERFMT"
+msgid "There is no one on the server by the name of '%s'. Open the scoreboard to view all current players."
+msgstr "伺服器上沒有人名叫 '%s'。打開記分板，查看當前所有玩家。"
+
+#. UI.USERCOMMANDS.DISABLEDFMT
+msgctxt "UI.USERCOMMANDS.DISABLEDFMT"
+msgid "You can't run '%s' right now."
+msgstr "你現在不能運行 %s。"
+
+#. UI.USERCOMMANDS.FAILEDFMT
+msgctxt "UI.USERCOMMANDS.FAILEDFMT"
+msgid "You can't run '%s' right now."
+msgstr "你現在不能運行 %s。"
+
+#. UI.USERCOMMANDS.MISSINGPARAMSFMT
+msgctxt "UI.USERCOMMANDS.MISSINGPARAMSFMT"
+msgid "Missing parameters! Type /help %s for more info."
+msgstr "缺失參數！輸入 /help %s 獲取更多資訊。"
+
+#. UI.USERCOMMANDS.NOTALLOWEDFMT
+msgctxt "UI.USERCOMMANDS.NOTALLOWEDFMT"
+msgid "You don't have permission to run '%s'."
+msgstr "你無權運行‘%s’。"
+
+#. UI.USERCOMMANDS.SQUELCHEDFMT
+msgctxt "UI.USERCOMMANDS.SQUELCHEDFMT"
+msgid "You aren't allowed to start a '%s' vote right now."
+msgstr "你現在不許開%s投票。"
+
+#. UI.VOTEDIALOG.CANCEL
+msgctxt "UI.VOTEDIALOG.CANCEL"
+msgid "Cancel"
+msgstr "取消"
+
+#. UI.VOTEDIALOG.NO
+msgctxt "UI.VOTEDIALOG.NO"
+msgid "No"
+msgstr "否"
+
+#. UI.VOTEDIALOG.TIME_REMAINING
+msgctxt "UI.VOTEDIALOG.TIME_REMAINING"
+msgid "Time Remaining: %d"
+msgstr "剩餘時間：%d"
+
+#. UI.VOTEDIALOG.VOTE
+msgctxt "UI.VOTEDIALOG.VOTE"
+msgid "Vote"
+msgstr "投票"
+
+#. UI.VOTEDIALOG.YES
+msgctxt "UI.VOTEDIALOG.YES"
+msgid "Yes"
+msgstr "是"
+
+#. UI.WARDROBESCREEN.ACCEPT
+msgctxt "UI.WARDROBESCREEN.ACCEPT"
+msgid "Accept Outfit"
+msgstr "接受服飾"
+
+#. UI.WARDROBESCREEN.BASE
+msgctxt "UI.WARDROBESCREEN.BASE"
+msgid "Head"
+msgstr "頭"
+
+#. UI.WARDROBESCREEN.BODY
+msgctxt "UI.WARDROBESCREEN.BODY"
+msgid "Body"
+msgstr "身體"
+
+#. UI.WARDROBESCREEN.CYCLE_VIEW
+msgctxt "UI.WARDROBESCREEN.CYCLE_VIEW"
+msgid "Cycle View"
+msgstr "切換視圖"
+
+#. UI.WARDROBESCREEN.FEET
+msgctxt "UI.WARDROBESCREEN.FEET"
+msgid "Feet"
+msgstr "腳"
+
+#. UI.WARDROBESCREEN.FILTER_OFF
+msgctxt "UI.WARDROBESCREEN.FILTER_OFF"
+msgid "Off"
+msgstr "關閉"
+
+#. UI.WARDROBESCREEN.FILTER_ON
+msgctxt "UI.WARDROBESCREEN.FILTER_ON"
+msgid "On"
+msgstr "開"
+
+#. UI.WARDROBESCREEN.HAND
+msgctxt "UI.WARDROBESCREEN.HAND"
+msgid "Hands"
+msgstr "手"
+
+#. UI.WARDROBESCREEN.LEGS
+msgctxt "UI.WARDROBESCREEN.LEGS"
+msgid "Legs"
+msgstr "腿"
+
+#. UI.WARDROBESCREEN.OWNED_FILTER_FMT
+msgctxt "UI.WARDROBESCREEN.OWNED_FILTER_FMT"
+msgid "Owned Filter: {mode}"
+msgstr "擁有篩選條件：{mode}"
+
+#. UI.WARDROBESCREEN.RESET
+msgctxt "UI.WARDROBESCREEN.RESET"
+msgid "Undo Changes"
+msgstr "撤銷更改"
+
+#. UI.WARDROBESCREEN.SEARCH
+msgctxt "UI.WARDROBESCREEN.SEARCH"
+msgid "Search"
+msgstr "搜索"
+
+#. UI.WARDROBESCREEN.SORT_COUNT
+msgctxt "UI.WARDROBESCREEN.SORT_COUNT"
+msgid "Owned Count"
+msgstr "按數量排序"
+
+#. UI.WARDROBESCREEN.SORT_MODE_FMT
+msgctxt "UI.WARDROBESCREEN.SORT_MODE_FMT"
+msgid "Sort Mode: {mode}"
+msgstr "排序模式：{mode}"
+
+#. UI.WARDROBESCREEN.SORT_NAME
+msgctxt "UI.WARDROBESCREEN.SORT_NAME"
+msgid "Name"
+msgstr "名稱"
+
+#. UI.WARDROBESCREEN.SORT_RARITY
+msgctxt "UI.WARDROBESCREEN.SORT_RARITY"
+msgid "Rarity"
+msgstr "稀有度"
+
+#. UI.WARDROBESCREEN.SORT_RELEASE
+msgctxt "UI.WARDROBESCREEN.SORT_RELEASE"
+msgid "Release Date"
+msgstr "發佈日期"
+
+#. UI.WARDROBESCREEN.SURVIVOR_FILTER_FMT
+msgctxt "UI.WARDROBESCREEN.SURVIVOR_FILTER_FMT"
+msgid "Survivor Filter: {mode}"
+msgstr "冒險家篩選條件：{mode}"
+
+#. UI.WARDROBESCREEN.TITLE
+msgctxt "UI.WARDROBESCREEN.TITLE"
+msgid "Wardrobe"
+msgstr "衣櫃"
+
+#. UI.WARDROBESCREEN.TOOLTIP_BASE
+msgctxt "UI.WARDROBESCREEN.TOOLTIP_BASE"
+msgid "Equip a head item"
+msgstr "裝備頭部物品"
+
+#. UI.WARDROBESCREEN.TOOLTIP_BODY
+msgctxt "UI.WARDROBESCREEN.TOOLTIP_BODY"
+msgid "Equip a body item"
+msgstr "裝備身體物品"
+
+#. UI.WARDROBESCREEN.TOOLTIP_FEET
+msgctxt "UI.WARDROBESCREEN.TOOLTIP_FEET"
+msgid "Equip a foot item"
+msgstr "裝備腳部物品"
+
+#. UI.WARDROBESCREEN.TOOLTIP_HAND
+msgctxt "UI.WARDROBESCREEN.TOOLTIP_HAND"
+msgid "Equip a hand item"
+msgstr "裝備手部物品"
+
+#. UI.WARDROBESCREEN.TOOLTIP_LEGS
+msgctxt "UI.WARDROBESCREEN.TOOLTIP_LEGS"
+msgid "Equip a leg item"
+msgstr "裝備腿部物品"
+
+#. UI.WARDROBESCREEN.WEAVEABLE_FILTER_FMT
+msgctxt "UI.WARDROBESCREEN.WEAVEABLE_FILTER_FMT"
+msgid "Weaveable Filter: {mode}"
+msgstr "可編織篩選條件：{mode}"
+
+#. UI.WARDROBE_POPUP.CANCEL
+msgctxt "UI.WARDROBE_POPUP.CANCEL"
+msgid "Cancel"
+msgstr "取消"
+
+#. UI.WARDROBE_POPUP.RESET
+msgctxt "UI.WARDROBE_POPUP.RESET"
+msgid "Reset Outfit"
+msgstr "重設裝備"
+
+#. UI.WARDROBE_POPUP.SET
+msgctxt "UI.WARDROBE_POPUP.SET"
+msgid "Confirm Outfit"
+msgstr "確認裝備"
+
+#. UI.WORDPREDICTIONWIDET.DISMISS
+msgctxt "UI.WORDPREDICTIONWIDET.DISMISS"
+msgid "Dismiss"
+msgstr "解除"
+
+#. UI.WORLDRESETDIALOG.BUTTONPROMPT1
+msgctxt "UI.WORLDRESETDIALOG.BUTTONPROMPT1"
+msgid "Hold "
+msgstr "保留"
+
+#. UI.WORLDRESETDIALOG.BUTTONPROMPT2
+msgctxt "UI.WORLDRESETDIALOG.BUTTONPROMPT2"
+msgid "to Reset Now"
+msgstr "現在就重設"
+
+#. UI.WORLDRESETDIALOG.RESET_BUTTON
+msgctxt "UI.WORLDRESETDIALOG.RESET_BUTTON"
+msgid "Reset Now"
+msgstr "現在重設"
+
+#. UI.WORLDRESETDIALOG.RESET_MSG
+msgctxt "UI.WORLDRESETDIALOG.RESET_MSG"
+msgid "World will reset in: %d"
+msgstr "世界將會重設於：%d"
+
+#. UI.WORLDRESETDIALOG.SURVIVED_MSG
+msgctxt "UI.WORLDRESETDIALOG.SURVIVED_MSG"
+msgid "Survived %d Days"
+msgstr "倖存了%d 天"
+
+#. UI.WORLDRESETDIALOG.SURVIVED_MSG_1_DAY
+msgctxt "UI.WORLDRESETDIALOG.SURVIVED_MSG_1_DAY"
+msgid "Survived %d Day"
+msgstr "倖存了%d 天"
+
+#. UI.WORLDRESETDIALOG.TITLE
+msgctxt "UI.WORLDRESETDIALOG.TITLE"
+msgid "Day %d: Everyone is dead"
+msgstr "%d 天：每個人都死了"
+
+#. UI.WORLDRESETDIALOG.TITLE_LATEJOIN
+msgctxt "UI.WORLDRESETDIALOG.TITLE_LATEJOIN"
+msgid "Day %d: Everyone else is dead. Save them!"
+msgstr "%d 天：其他每個人都死了。救救他們！"
+
+#. UI.XB1_USER_DIALOG.CONTROLLER_2_DISCONNECTED
+msgctxt "UI.XB1_USER_DIALOG.CONTROLLER_2_DISCONNECTED"
+msgid "Player 2's controller disconnected"
+msgstr "玩家2的控制器已斷開連接"
+
+#. UI.XB1_USER_DIALOG.MAIN_CONTROLLER_DISCONNECTED
+msgctxt "UI.XB1_USER_DIALOG.MAIN_CONTROLLER_DISCONNECTED"
+msgid "Main controller disconnected."
+msgstr "主控制器已斷開連接。"
+
+#. UI.XB1_USER_DIALOG.PRESS_A_ON_NEW
+msgctxt "UI.XB1_USER_DIALOG.PRESS_A_ON_NEW"
+msgid "Press A on a new one to continue."
+msgstr "在一個新的上面按A繼續。"
+
+#. UI.XB1_USER_DIALOG.PRESS_A_TO_SWAP_USER
+msgctxt "UI.XB1_USER_DIALOG.PRESS_A_TO_SWAP_USER"
+msgid "Press A to connect as the main user."
+msgstr "按A作為主用戶進行連接。"
+
+#. UI.XB1_USER_DIALOG.SIGN_IN
+msgctxt "UI.XB1_USER_DIALOG.SIGN_IN"
+msgid "Sign In"
+msgstr "登錄"
+
+#. UI.XB1_USER_DIALOG.SIGN_IN_TO_CONTINUE
+msgctxt "UI.XB1_USER_DIALOG.SIGN_IN_TO_CONTINUE"
+msgid "You must sign in again to continue."
+msgstr "你必須重新登錄才能繼續。"
+
+#. UI.XB1_USER_DIALOG.USER_1_CHANGED
+msgctxt "UI.XB1_USER_DIALOG.USER_1_CHANGED"
+msgid "Main profile changed"
+msgstr "主資料已更改"
+
+#. UI.XB1_USER_DIALOG.USER_2_CHANGED
+msgctxt "UI.XB1_USER_DIALOG.USER_2_CHANGED"
+msgid "Player 2's profile changed"
+msgstr "玩家2的資料已更改"
+
+#. UI.XB1_USER_DIALOG.USER_2_HAS_TO_REJOIN
+msgctxt "UI.XB1_USER_DIALOG.USER_2_HAS_TO_REJOIN"
+msgid "Player 2 will need to join the game again."
+msgstr "玩家2需要重新加入遊戲。"
+
+#. UI.XB1_USER_DIALOG.USER_2_MUST_BE_DIFFERENT
+msgctxt "UI.XB1_USER_DIALOG.USER_2_MUST_BE_DIFFERENT"
+msgid "Player 2's profile must be\ndifferent from Player 1's."
+msgstr "玩家2的資料必須\n與玩家1的不同。"
+
+#. UI.XPUTILS.XPPROGRESS
+msgctxt "UI.XPUTILS.XPPROGRESS"
+msgid "{num}/{max}"
+msgstr "{num}/{max}"
+

@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. TABS.ANCIENT
+msgctxt "TABS.ANCIENT"
+msgid "Ancient"
+msgstr "古代"
+
+#. TABS.BALLOONOMANCY
+msgctxt "TABS.BALLOONOMANCY"
+msgid "Balloonomancy"
+msgstr "風船魔術"
+
+#. TABS.BATTLESONGS
+msgctxt "TABS.BATTLESONGS"
+msgid "Stagecraft"
+msgstr "演劇術"
+
+#. TABS.BOOKS
+msgctxt "TABS.BOOKS"
+msgid "Books"
+msgstr "本"
+
+#. TABS.CARNIVAL_HOSTSHOP
+msgctxt "TABS.CARNIVAL_HOSTSHOP"
+msgid "Cawnival Creation"
+msgstr "カーカーニバルの製作"
+
+#. TABS.CARNIVAL_PRIZESHOP
+msgctxt "TABS.CARNIVAL_PRIZESHOP"
+msgid "Trinket Trove"
+msgstr "小物の宝物庫"
+
+#. TABS.CARTOGRAPHY
+msgctxt "TABS.CARTOGRAPHY"
+msgid "Cartography"
+msgstr "地図作成"
+
+#. TABS.CELESTIAL
+msgctxt "TABS.CELESTIAL"
+msgid "Celestial"
+msgstr "天体"
+
+#. TABS.CLOCKMAKER
+msgctxt "TABS.CLOCKMAKER"
+msgid "Clocksmithy"
+msgstr "時計製作"
+
+#. TABS.DRESS
+msgctxt "TABS.DRESS"
+msgid "Dress"
+msgstr "ドレス"
+
+#. TABS.ELIXIRBREWING
+msgctxt "TABS.ELIXIRBREWING"
+msgid "Ectoherbology"
+msgstr "エクトハーボロジー"
+
+#. TABS.ENGINEERING
+msgctxt "TABS.ENGINEERING"
+msgid "Engineering"
+msgstr "技術"
+
+#. TABS.FARM
+msgctxt "TABS.FARM"
+msgid "Food"
+msgstr "食べ物"
+
+#. TABS.FISHING
+msgctxt "TABS.FISHING"
+msgid "Fishing"
+msgstr "釣り"
+
+#. TABS.FOODPROCESSING
+msgctxt "TABS.FOODPROCESSING"
+msgid "Seasonings"
+msgstr "調味料"
+
+#. TABS.GEMOLOGY
+msgctxt "TABS.GEMOLOGY"
+msgid "Gemology"
+msgstr "ジェムノロジー"
+
+#. TABS.HERMITCRABSHOP
+msgctxt "TABS.HERMITCRABSHOP"
+msgid "Bottle Exchange"
+msgstr "ボトル交換"
+
+#. TABS.LIGHT
+msgctxt "TABS.LIGHT"
+msgid "Light"
+msgstr "明かりをつける"
+
+#. TABS.MADSCIENCE
+msgctxt "TABS.MADSCIENCE"
+msgid "Mad Science"
+msgstr "マッドサイエンス"
+
+#. TABS.MAGIC
+msgctxt "TABS.MAGIC"
+msgid "Magic"
+msgstr "魔法"
+
+#. TABS.MOON_ALTAR
+msgctxt "TABS.MOON_ALTAR"
+msgid "Celestial"
+msgstr "天体"
+
+#. TABS.NATURE
+msgctxt "TABS.NATURE"
+msgid "Green Thumb"
+msgstr "園芸"
+
+#. TABS.ORPHANAGE
+msgctxt "TABS.ORPHANAGE"
+msgid "Critters"
+msgstr "クリッター"
+
+#. TABS.PERDOFFERING
+msgctxt "TABS.PERDOFFERING"
+msgid "Offerings"
+msgstr "提供品"
+
+#. TABS.QUAGMIRE_MEALINGSTONE
+msgctxt "TABS.QUAGMIRE_MEALINGSTONE"
+msgid "Mealing Stone"
+msgstr "ミーリングストーン"
+
+#. TABS.QUAGMIRE_TRADER_ELDER
+msgctxt "TABS.QUAGMIRE_TRADER_ELDER"
+msgid "Swamp Pig Elder"
+msgstr "沼豚の長老"
+
+#. TABS.QUAGMIRE_TRADER_KID
+msgctxt "TABS.QUAGMIRE_TRADER_KID"
+msgid "Billy"
+msgstr "ビリー"
+
+#. TABS.QUAGMIRE_TRADER_MERM1
+msgctxt "TABS.QUAGMIRE_TRADER_MERM1"
+msgid "Sammy"
+msgstr "サミー"
+
+#. TABS.QUAGMIRE_TRADER_MERM2
+msgctxt "TABS.QUAGMIRE_TRADER_MERM2"
+msgid "Pipton"
+msgstr "ピプトン"
+
+#. TABS.QUAGMIRE_TRADER_MUM
+msgctxt "TABS.QUAGMIRE_TRADER_MUM"
+msgid "Mumsy"
+msgstr "マムジー"
+
+#. TABS.REFINE
+msgctxt "TABS.REFINE"
+msgid "Refine"
+msgstr "磨く"
+
+#. TABS.ROBOTMODULECRAFT
+msgctxt "TABS.ROBOTMODULECRAFT"
+msgid "Circuitry"
+msgstr "電子回路"
+
+#. TABS.SCIENCE
+msgctxt "TABS.SCIENCE"
+msgid "Science"
+msgstr "科学"
+
+#. TABS.SCULPTING
+msgctxt "TABS.SCULPTING"
+msgid "Sculptures"
+msgstr "彫刻"
+
+#. TABS.SEAFARING
+msgctxt "TABS.SEAFARING"
+msgid "Seafaring"
+msgstr "航海"
+
+#. TABS.SHADOW
+msgctxt "TABS.SHADOW"
+msgid "Shadow"
+msgstr "影"
+
+#. TABS.SLINGSHOTAMMO
+msgctxt "TABS.SLINGSHOTAMMO"
+msgid "Slingshot Ammo"
+msgstr "パチンコの弾"
+
+#. TABS.SPIDERCRAFT
+msgctxt "TABS.SPIDERCRAFT"
+msgid "Spider Care"
+msgstr "クモのお世話"
+
+#. TABS.STRONGMAN
+msgctxt "TABS.STRONGMAN"
+msgid "Strongman"
+msgstr "凄腕の男"
+
+#. TABS.SURVIVAL
+msgctxt "TABS.SURVIVAL"
+msgid "Survival"
+msgstr "サバイバル！"
+
+#. TABS.TOOLS
+msgctxt "TABS.TOOLS"
+msgid "Tools"
+msgstr "ツール"
+
+#. TABS.TOWN
+msgctxt "TABS.TOWN"
+msgid "Structures"
+msgstr "構造"
+
+#. TABS.TURFCRAFTING
+msgctxt "TABS.TURFCRAFTING"
+msgid "Landscaping"
+msgstr "造園"
+
+#. TABS.WAR
+msgctxt "TABS.WAR"
+msgid "Fight"
+msgstr "戦闘"
+
+#. TABS.WINTERSFEASTCOOKING
+msgctxt "TABS.WINTERSFEASTCOOKING"
+msgid "Feast"
+msgstr "満腹まで食べる"
+

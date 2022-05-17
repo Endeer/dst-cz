@@ -1,0 +1,1380 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. ANTIADDICTION.EXIT_SOON
+msgctxt "ANTIADDICTION.EXIT_SOON"
+msgid "Your time for today is up. Please exit."
+msgstr "今日は時間切れです。退出してください。"
+
+#. ANTIADDICTION.HOUR_1
+msgctxt "ANTIADDICTION.HOUR_1"
+msgid "You've played for one hour."
+msgstr "1時間プレイしました。"
+
+#. ANTIADDICTION.HOUR_2
+msgctxt "ANTIADDICTION.HOUR_2"
+msgid "You've played for two hours."
+msgstr "2時間プレイしました。"
+
+#. ANTIADDICTION.HOUR_3
+msgctxt "ANTIADDICTION.HOUR_3"
+msgid "You've played for three hours."
+msgstr "3時間プレイしました。"
+
+#. ANTIADDICTION.HOUR_4
+msgctxt "ANTIADDICTION.HOUR_4"
+msgid "You've played for four hours."
+msgstr "4時間プレイしました。"
+
+#. ANTIADDICTION.HOUR_5
+msgctxt "ANTIADDICTION.HOUR_5"
+msgid "You've played for five hours."
+msgstr "5時間プレイしました。"
+
+#. ANTIADDICTION.HOUR_X
+msgctxt "ANTIADDICTION.HOUR_X"
+msgid "You've played for several hours."
+msgstr "長時間プレイしました。"
+
+#. CROWNAMES.1
+msgctxt "CROWNAMES.1"
+msgid "Apollo"
+msgstr "アポロ"
+
+#. CROWNAMES.10
+msgctxt "CROWNAMES.10"
+msgid "Symone"
+msgstr "シモーネ"
+
+#. CROWNAMES.11
+msgctxt "CROWNAMES.11"
+msgid "Baxter"
+msgstr "バクスター"
+
+#. CROWNAMES.12
+msgctxt "CROWNAMES.12"
+msgid "Robyn"
+msgstr "ロビン"
+
+#. CROWNAMES.13
+msgctxt "CROWNAMES.13"
+msgid "Helena"
+msgstr "ヘレナ"
+
+#. CROWNAMES.14
+msgctxt "CROWNAMES.14"
+msgid "Quincy"
+msgstr "クインシー"
+
+#. CROWNAMES.15
+msgctxt "CROWNAMES.15"
+msgid "Nick"
+msgstr "ニック"
+
+#. CROWNAMES.16
+msgctxt "CROWNAMES.16"
+msgid "Francis"
+msgstr "フランシス"
+
+#. CROWNAMES.17
+msgctxt "CROWNAMES.17"
+msgid "Tom"
+msgstr "トム"
+
+#. CROWNAMES.18
+msgctxt "CROWNAMES.18"
+msgid "Lysander"
+msgstr "ライサンダー"
+
+#. CROWNAMES.19
+msgctxt "CROWNAMES.19"
+msgid "Demetrius"
+msgstr "デメトリオス"
+
+#. CROWNAMES.2
+msgctxt "CROWNAMES.2"
+msgid "Russel"
+msgstr "ラッセル"
+
+#. CROWNAMES.20
+msgctxt "CROWNAMES.20"
+msgid "Hermia"
+msgstr "ハーミア"
+
+#. CROWNAMES.21
+msgctxt "CROWNAMES.21"
+msgid "Becca"
+msgstr "ベッカ"
+
+#. CROWNAMES.3
+msgctxt "CROWNAMES.3"
+msgid "Jet"
+msgstr "ジェット"
+
+#. CROWNAMES.4
+msgctxt "CROWNAMES.4"
+msgid "Bram"
+msgstr "ブラム"
+
+#. CROWNAMES.5
+msgctxt "CROWNAMES.5"
+msgid "Corbett"
+msgstr "コルベット"
+
+#. CROWNAMES.6
+msgctxt "CROWNAMES.6"
+msgid "Korbin"
+msgstr "コルビン"
+
+#. CROWNAMES.7
+msgctxt "CROWNAMES.7"
+msgid "Ava"
+msgstr "アヴァ"
+
+#. CROWNAMES.8
+msgctxt "CROWNAMES.8"
+msgid "Merle"
+msgstr "メルル"
+
+#. CROWNAMES.9
+msgctxt "CROWNAMES.9"
+msgid "Swift"
+msgstr "スウィフト"
+
+#. DESCRIBE_NULL
+msgctxt "DESCRIBE_NULL"
+msgid "MISSING DESCRIPTION STRING"
+msgstr "一連の説明が見つかりません"
+
+#. DIRECTIONS.E
+msgctxt "DIRECTIONS.E"
+msgid "East"
+msgstr "東"
+
+#. DIRECTIONS.N
+msgctxt "DIRECTIONS.N"
+msgid "North"
+msgstr "北"
+
+#. DIRECTIONS.NE
+msgctxt "DIRECTIONS.NE"
+msgid "Northeast"
+msgstr "北東"
+
+#. DIRECTIONS.NW
+msgctxt "DIRECTIONS.NW"
+msgid "Northwest"
+msgstr "北西"
+
+#. DIRECTIONS.S
+msgctxt "DIRECTIONS.S"
+msgid "South"
+msgstr "南"
+
+#. DIRECTIONS.SE
+msgctxt "DIRECTIONS.SE"
+msgid "Southeast"
+msgstr "南東"
+
+#. DIRECTIONS.SW
+msgctxt "DIRECTIONS.SW"
+msgid "Southwest"
+msgstr "南西"
+
+#. DIRECTIONS.W
+msgctxt "DIRECTIONS.W"
+msgid "West"
+msgstr "西"
+
+#. DISEASEDITEM
+msgctxt "DISEASEDITEM"
+msgid "Diseased"
+msgstr "病気の"
+
+#. DROPALL
+msgctxt "DROPALL"
+msgid "Drop All"
+msgstr "すべてやめる"
+
+#. EYEOFTERROR_CANCEL
+msgctxt "EYEOFTERROR_CANCEL"
+msgid "The evil presence has subsided."
+msgstr "邪悪な気配が消えました。"
+
+#. EYEOFTERROR_COMING
+msgctxt "EYEOFTERROR_COMING"
+msgid "You feel an evil presence watching you..."
+msgstr "邪悪な気配があなたを見ているようです…"
+
+#. EYEOFTERROR_TARGET
+msgctxt "EYEOFTERROR_TARGET"
+msgid "The Eye of Terror turns its gaze toward {player_name}"
+msgstr "恐怖の目が{player_name}を見ています"
+
+#. GOATKID_TALK_CLOSED.1
+msgctxt "GOATKID_TALK_CLOSED.1"
+msgid "I'll only talk to you if Mumsy says it's okay."
+msgstr "マムジーがいいっていったらお話しようね。"
+
+#. GOATKID_TALK_CLOSED.2
+msgctxt "GOATKID_TALK_CLOSED.2"
+msgid "Go talk to my mum. Baa."
+msgstr "ママとお話ししてね　メェメェ。"
+
+#. GOATKID_TALK_CLOSED.3
+msgctxt "GOATKID_TALK_CLOSED.3"
+msgid "Can you ask my mum before we play?"
+msgstr "遊ぶ前にママの所を訪ねてくれる？"
+
+#. GOATKID_TALK_CLOSED.4
+msgctxt "GOATKID_TALK_CLOSED.4"
+msgid "Go ask Mumsy if we can play. Baa."
+msgstr "僕たちと遊びたいなら、まずマムジーの所に行ってね　メェ。"
+
+#. GOATKID_TALK_GREETING.1
+msgctxt "GOATKID_TALK_GREETING.1"
+msgid "Pipton lets me have sweets, when Mumsy says it's okay."
+msgstr "マムジーがいいと言ったら、ピプトンがお菓子を食べさせてくれるんだよ"
+
+#. GOATKID_TALK_GREETING.2
+msgctxt "GOATKID_TALK_GREETING.2"
+msgid "I like playing with the pebble crabs."
+msgstr "ペブルクラブと遊ぶのが好きなんだ。"
+
+#. GOATKID_TALK_GREETING.3
+msgctxt "GOATKID_TALK_GREETING.3"
+msgid "Our house used to be around here, baa."
+msgstr "この辺りに僕たちの家があったんだ、メェメェ"
+
+#. GOATKID_TALK_GREETING.4
+msgctxt "GOATKID_TALK_GREETING.4"
+msgid "Mumsy says my friends can't come out to play."
+msgstr "マムジーが、僕の友達は遊びに出てこれないって言うんだ。"
+
+#. GOATKID_TALK_GREETING.5
+msgctxt "GOATKID_TALK_GREETING.5"
+msgid "I wish my bike still worked, baa."
+msgstr "僕の自転車がまだ使えるといいんだけど、メェ。"
+
+#. GOATKID_TALK_GREETING.6
+msgctxt "GOATKID_TALK_GREETING.6"
+msgid "Sammy was a goat before, like mum and I."
+msgstr "サミーはもともとママや僕みたいなヤギだったんだよ。"
+
+#. GOATKID_TALK_GREETING.7
+msgctxt "GOATKID_TALK_GREETING.7"
+msgid "Mumsy tells me not to look at the sky."
+msgstr "マムジーが空を見てはいけませんって言うんだ。"
+
+#. GOATKID_TALK_TRADE.1
+msgctxt "GOATKID_TALK_TRADE.1"
+msgid "Baaaa! My favorite!"
+msgstr "メエエェェ！気に入ったよ！"
+
+#. GOATKID_TALK_TRADE.2
+msgctxt "GOATKID_TALK_TRADE.2"
+msgid "Oh, thanks!"
+msgstr "わっ、ありがとう！"
+
+#. GOATKID_TALK_TRADE.3
+msgctxt "GOATKID_TALK_TRADE.3"
+msgid "We're friends now, right?"
+msgstr "僕たちもう友達だよねっ？"
+
+#. GOATKID_TALK_TRADE.4
+msgctxt "GOATKID_TALK_TRADE.4"
+msgid "Baa!"
+msgstr "メェメェ！"
+
+#. GOATKID_TALK_TRADE.5
+msgctxt "GOATKID_TALK_TRADE.5"
+msgid "Mumsy says always to say \"thank-you\"."
+msgstr "マムジーがいつも「ありがとう」って言うようにって言ってるよ。"
+
+#. GOATKID_TALK_TRADE.6
+msgctxt "GOATKID_TALK_TRADE.6"
+msgid "Tradesies are fun."
+msgstr "お店屋さんごっこって楽しいね。"
+
+#. GOATKID_TALK_TRADE.7
+msgctxt "GOATKID_TALK_TRADE.7"
+msgid "Baa, thanks!"
+msgstr "メェ、ありがとう！"
+
+#. GREENAMULET_TOOLTIP
+msgctxt "GREENAMULET_TOOLTIP"
+msgid "Reduced Material Cost"
+msgstr "材料費の削減"
+
+#. INSPECTMOD
+msgctxt "INSPECTMOD"
+msgid "Inspect"
+msgstr "調べる"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.random
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.random"
+msgid "\nSelect a random survivor"
+msgstr "\n生存者をランダムに選択"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.walter
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.walter"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "*プレースホルダー\n\n\n\n得意分野：\nプレースホルダー"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wanda
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wanda"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "*プレースホルダー\n\n\n\n得意分野：\nプレースホルダー"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.warly
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.warly"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "*プレースホルダー\n\n\n\n得意分野：\nプレースホルダー"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wathgrithr
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wathgrithr"
+msgid "*Battle cries increase nearby allies' next attack damage by 25%\n*Gains less aggro when attacking\n\nExpertise:\nMelee, Darts"
+msgstr "* バトルクライは近くの味方の次の攻撃ダメージを25％増加させます\n*攻撃時アグロ増加量小\n\n得意分野：\n乱闘、投げ矢"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.waxwell
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.waxwell"
+msgid "*Summons Shadow Duelists after focusing attacks on a single target\n\n\nExpertise:\nBooks, Staves"
+msgstr "*単一のターゲットに攻撃を集中させた後、シャドウデュエリストを召喚します\n\n\n得意分野：\n本、詩"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.webber
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.webber"
+msgid "*Accompanied by itsy bitsy spiders\n\n\n\nExpertise:\nDarts"
+msgstr "*イッチィビッティスパイダーを伴います\n\n\n\n得意分野：\n投げ矢"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wendy
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wendy"
+msgid "*Protected by her twin sister, Abigail\n\n\n\nExpertise:\nDarts, Staves"
+msgstr "*双子の姉妹アビゲイルによって保護されています\n\n\n\n得意分野：\n投げ矢、詩"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wes
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wes"
+msgid "*Can be revived twice as quickly\n*Gains minimal aggro when attacking\n*Less likely to lose aggro once drawn\n\nExpertise:\nMelee, Darts, Staves"
+msgstr "*2倍の速さで復活可能します\n*攻撃時に最小限のアグロを獲得します\n*引きだされるとアグロを失う可能性は低くなります\n\n得意分野：\n乱闘、投げ矢、詩"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wickerbottom
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wickerbottom"
+msgid "*Gains a buff after dealing sufficient damage, amplifying her next spell\n\n\nExpertise:\nBooks, Staves"
+msgstr "*十分なダメージを与えた後にバフを獲得し、次の呪文の効果を増幅します\n\n\n得意分野：\n本、詩"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.willow
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.willow"
+msgid "*Protected by Bernie the Bear\n*Fire and Explosive attack damage increased by 10%\n\nExpertise:\nDarts, Staves"
+msgstr "*バーニーベアーによって守られます\n*火と爆発の攻撃ダメージが10％増加しました\n\n得意分野：\n投げ矢、詩"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wilson
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wilson"
+msgid "*Revives allies twice as quickly\n*Restores three times more health when reviving allies\n\nExpertise:\nMelee, Darts, Staves"
+msgstr "*味方を2倍の速さで復活させる\n*仲間を復活させると体力値が3倍回復します\n\n得意分野：\n乱闘、投げ矢、詩"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.winona
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.winona"
+msgid "*All ability cooldowns are 10% faster\n\n\n\nExpertise:\nMelee, Darts, Staves"
+msgstr "*すべての能力のクールダウンが10％速くなります\n\n\n\n得意分野：\n乱闘、投げ矢、詩"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wolfgang
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wolfgang"
+msgid "*Becomes Mighty when health is low, increasing attack power, defense, and movement speed for 10 seconds\n\nExpertise:\nMelee"
+msgstr "*体力値が低いと強力になり、10秒間攻撃力、防御力、移動速度が上がる\n\n得意分野：\n乱闘"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.woodie
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.woodie"
+msgid "*Lucy returns to Woodie when thrown\n*Attack speed increased when wielding Lucy\n\nExpertise:\nMelee"
+msgstr "*ルーシーは投げた後ウッディーのところへ戻ります\n*ルーシーを使用すると攻撃速度が増加します\n\n得意分野：\n乱闘"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.woodie_canada
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.woodie_canada"
+msgid "*Lucy returns to Woodie when thrown\n*Attack speed increased when wielding Lucy\n\nExpertise:\nMelee"
+msgstr "*ルーシーは投げた後ウッディーのところへ戻ります\n*ルーシーを使用すると攻撃速度が増加します\n\n得意分野：\n乱闘"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.woodie_us
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.woodie_us"
+msgid "*Lucy returns to Woodie when thrown\n*Attack speed increased when wielding Lucy\n\nExpertise:\nMelee"
+msgstr "*ルーシーは投げた後ウッディーのところへ戻ります\n*ルーシーを使用すると攻撃速度が増加します\n\n得意分野：\n乱闘"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wormwood
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wormwood"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "*プレースホルダー\n\n\n\n得意分野：\nプレースホルダー"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wortox
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wortox"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "*プレースホルダー\n\n\n\n得意分野：\nプレースホルダー"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wurt
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wurt"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "*プレースホルダー\n\n\n\n得意分野：\nプレースホルダー"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wx78
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wx78"
+msgid "*Shocks enemies when attacked\n*Electric attack damage increased by 50%\n\nExpertise:\nMelee"
+msgstr "*攻撃時に敵に電気ショックを与えます\n*電気攻撃のダメージが50％増加します\n\n得意分野：\n乱闘"
+
+#. MAPRECORDER.LOCATION.CAVE
+msgctxt "MAPRECORDER.LOCATION.CAVE"
+msgid " in the caves"
+msgstr " 洞穴の中で"
+
+#. MAPRECORDER.LOCATION.DEFAULT
+msgctxt "MAPRECORDER.LOCATION.DEFAULT"
+msgid ""
+msgstr ""
+
+#. MAPRECORDER.MAPDESC
+msgctxt "MAPRECORDER.MAPDESC"
+msgid "Mapped{location} by {author} on day {day}."
+msgstr "{day}日に{author}によって{location}が地図に記録された。"
+
+#. MAPRECORDER.UNKNOWN_AUTHOR
+msgctxt "MAPRECORDER.UNKNOWN_AUTHOR"
+msgid "an explorer"
+msgstr "冒険家"
+
+#. MAPRECORDER.UNKNOWN_DAY
+msgctxt "MAPRECORDER.UNKNOWN_DAY"
+msgid "???"
+msgstr "？？？"
+
+#. MESSAGEBOTTLE_NOTES.1
+msgctxt "MESSAGEBOTTLE_NOTES.1"
+msgid "\"I know you're still out there, my dear. I won't ever give up.\""
+msgstr "「あなたがまだそこにいるのをしっています。あきらめませんわよ」"
+
+#. MESSAGEBOTTLE_NOTES.2
+msgctxt "MESSAGEBOTTLE_NOTES.2"
+msgid "\"I'm waiting for you. At the spot where we first met. I've been waiting so long...\""
+msgstr "「待っていますわ。初めてあなたと出会った場所で。ずっと待っています…」"
+
+#. MESSAGEBOTTLE_NOTES.3
+msgctxt "MESSAGEBOTTLE_NOTES.3"
+msgid "\"Please come home. I miss you so much.\""
+msgstr "「お願いです、帰ってきてくださいな。とても恋しく思っていますわ」"
+
+#. MESSAGEBOTTLE_NOTES.4
+msgctxt "MESSAGEBOTTLE_NOTES.4"
+msgid "\"I still have the last gift you gave me. \"A pearl for Pearl\"... remember?\""
+msgstr "「まだ持っていますよ、あなたが最後にくれたプレゼント。『パールの真珠』…覚えていますか？」"
+
+#. MESSAGEBOTTLE_NOTES.5
+msgctxt "MESSAGEBOTTLE_NOTES.5"
+msgid "\"I'll keep sending messages, until one reaches you...\""
+msgstr "「あなたに届くまで、メッセージを送り続けますわ…」"
+
+#. MESSAGEBOTTLE_NOTES.6
+msgctxt "MESSAGEBOTTLE_NOTES.6"
+msgid "\"Have you found your treasure yet? When you do, will you come home?\""
+msgstr "「お宝は見つかりましたか？見つけたら、帰ってきてくれますか？」"
+
+#. MODS.VERSIONING.OUT_OF_DATE
+msgctxt "MODS.VERSIONING.OUT_OF_DATE"
+msgid "Mod \"%s\" is out of date. The server needs to get the latest version from the Steam Workshop so other users can join."
+msgstr "Mod「%s」のデータが最新ではありません。サーバーがSteamワークショップから最新バージョンを取得すると、他のユーザーも参加できます。"
+
+#. MODS.VERSIONING.OUT_OF_DATE_RAIL
+msgctxt "MODS.VERSIONING.OUT_OF_DATE_RAIL"
+msgid "Mod \"%s\" is out of date. The server needs to get the latest version so other users can join."
+msgstr "Mod「%s」のデータが最新ではありません。サーバーが最新バージョンを取得すると、他のユーザーも参加できます。"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMOREXTRAHEAVY
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMOREXTRAHEAVY"
+msgid "90% Protection\n-15% Move Speed\nKnockback Resistance"
+msgstr "90%保護\n‐15％移動スピード\nノックバック耐性"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMORHEAVY
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMORHEAVY"
+msgid "85% Protection"
+msgstr "85％保護"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMORLIGHT
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMORLIGHT"
+msgid "50% Protection\n+5% Faster Cooldown"
+msgstr "50％保護\n+5%高速冷却"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMORLIGHTSPEED
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMORLIGHTSPEED"
+msgid "60% Protection\n+10% Move Speed"
+msgstr "60％保護\n+10%移動速度"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMORMEDIUM
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMORMEDIUM"
+msgid "75% Protection"
+msgstr "75％保護"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMORMEDIUMDAMAGER
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMORMEDIUMDAMAGER"
+msgid "75% Protection\n+10% Physical Damage"
+msgstr "75％保護\n+10％肉体損傷"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMORMEDIUMRECHARGER
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMORMEDIUMRECHARGER"
+msgid "75% Protection\n+10% Faster Cooldown"
+msgstr "75％保護\n+10%高速冷却"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPDAMAGER
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPDAMAGER"
+msgid "80% Protection\n+50 Max Health\n+20% Physical Damage"
+msgstr "80％保護\n+50最大体力値\n+20%物理ダメージ"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPEXTRAHEAVY
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPEXTRAHEAVY"
+msgid "90% Protection\n+100 Max Health\nKnockback Resistance"
+msgstr "90％保護\n+100最大体力値\nノックバック耐性"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPPETMASTERY
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPPETMASTERY"
+msgid "80% Protection\n+75 Max Health\nCompanion Buff"
+msgstr "80％保護\n+75最大体力値\nコンパニオンバフ"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPRECHARGER
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPRECHARGER"
+msgid "80% Protection\n+50 Max Health\n+15% Faster Cooldown"
+msgstr "80％保護\n+50最大体力値\n+15%高速冷却"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_CROWNDAMAGERHAT
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_CROWNDAMAGERHAT"
+msgid "+15% Physical Damage\n+10% Faster Cooldown\n+10% Move Speed"
+msgstr "+15%物理ダメージ\n+10%高速冷却\n+10%移動速度"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_EYECIRCLETHAT
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_EYECIRCLETHAT"
+msgid "+25% Magic Damage\n+10% Faster Cooldown\n+10% Move Speed"
+msgstr "+25%魔法ダメージ\n+10%高速冷却\n+10%移動速度"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_FEATHERCROWNHAT
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_FEATHERCROWNHAT"
+msgid "+20% Move Speed"
+msgstr "+20%移動速度"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_HEALINGFLOWERHAT
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_HEALINGFLOWERHAT"
+msgid "+25% Healing Received"
+msgstr "+25%回復受容"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_HEALINGGARLANDHAT
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_HEALINGGARLANDHAT"
+msgid "+2 HP/s (80% HP Max)\n+10% Faster Cooldown\n+10% Move Speed"
+msgstr "+2 HP/s (80% HP最大)\n+10%高速回復\n+10%移動速度"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_LIGHTDAMAGERHAT
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_LIGHTDAMAGERHAT"
+msgid "+10% Physical Damage"
+msgstr "+10%物理ダメージ"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_RECHARGERHAT
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_RECHARGERHAT"
+msgid "+10% Faster Cooldown"
+msgstr "+10%高速冷却"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_STRONGDAMAGERHAT
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_STRONGDAMAGERHAT"
+msgid "+15% Physical Damage"
+msgstr "+15%物理ダメージ"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_TIARAFLOWERPETALSHAT
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_TIARAFLOWERPETALSHAT"
+msgid "+20% Healing Dealt"
+msgstr "+20%回復分配"
+
+#. PIG_ELITE_FIGHTER_INTRO.1
+msgctxt "PIG_ELITE_FIGHTER_INTRO.1"
+msgid "I HELP!"
+msgstr "助けるぞ！"
+
+#. PIG_ELITE_FIGHTER_INTRO.2
+msgctxt "PIG_ELITE_FIGHTER_INTRO.2"
+msgid "SMASHY! SMASHY!"
+msgstr "潰せ！潰せ！"
+
+#. PIG_ELITE_FIGHTER_INTRO.3
+msgctxt "PIG_ELITE_FIGHTER_INTRO.3"
+msgid "PUNCH TIME!"
+msgstr "パンチタイムだ！"
+
+#. PIG_ELITE_FIGHTER_INTRO.4
+msgctxt "PIG_ELITE_FIGHTER_INTRO.4"
+msgid "WHERE I SMASH?"
+msgstr "どこをぶったたこうか？"
+
+#. PIG_ELITE_FIGHTER_OUTRO.1
+msgctxt "PIG_ELITE_FIGHTER_OUTRO.1"
+msgid "PIGGY, AWAY!"
+msgstr "去れ、豚！"
+
+#. PIG_ELITE_FIGHTER_OUTRO.2
+msgctxt "PIG_ELITE_FIGHTER_OUTRO.2"
+msgid "I PUNCHED!"
+msgstr "殴ったぞ！"
+
+#. PIG_ELITE_FIGHTER_OUTRO.3
+msgctxt "PIG_ELITE_FIGHTER_OUTRO.3"
+msgid "I GO NOW!"
+msgstr "今行くぞ！"
+
+#. PIG_ELITE_FIGHTER_OUTRO.4
+msgctxt "PIG_ELITE_FIGHTER_OUTRO.4"
+msgid "SEE YA!"
+msgstr "じゃあな！"
+
+#. PIG_ELITE_GOLD.1
+msgctxt "PIG_ELITE_GOLD.1"
+msgid "MINE!"
+msgstr "俺のだ！"
+
+#. PIG_ELITE_GOLD.2
+msgctxt "PIG_ELITE_GOLD.2"
+msgid "MY GOLD!"
+msgstr "俺の金だ！"
+
+#. PIG_ELITE_GOLD.3
+msgctxt "PIG_ELITE_GOLD.3"
+msgid "I TAKE GOLD!"
+msgstr "俺が金をもらう！"
+
+#. PIG_ELITE_INTRO.1
+msgctxt "PIG_ELITE_INTRO.1"
+msgid "FOR KING!"
+msgstr "王様のために！"
+
+#. PIG_ELITE_INTRO.2
+msgctxt "PIG_ELITE_INTRO.2"
+msgid "GET GOLD!"
+msgstr "金を手に入れたぞ！"
+
+#. PIG_ELITE_POST_MATCH.1
+msgctxt "PIG_ELITE_POST_MATCH.1"
+msgid "YOU BAD AT THIS. GET BETTER"
+msgstr "お前へたくそだな。もっとうまくなれよ"
+
+#. PIG_ELITE_POST_MATCH.2
+msgctxt "PIG_ELITE_POST_MATCH.2"
+msgid "TRY AGAIN SOMETIME?"
+msgstr "そのうちまたやってみるか？"
+
+#. PIG_ELITE_POST_MATCH.3
+msgctxt "PIG_ELITE_POST_MATCH.3"
+msgid "YOU WORTHY OPPONENT"
+msgstr "お前戦いがいのありそうな相手だな"
+
+#. PIG_ELITE_POST_MATCH.4
+msgctxt "PIG_ELITE_POST_MATCH.4"
+msgid "YOU HUMBLE US"
+msgstr "お前謙虚だな"
+
+#. PIG_ELITE_POST_MATCH.5
+msgctxt "PIG_ELITE_POST_MATCH.5"
+msgid "GOOD MATCH. WE GO BED NOW"
+msgstr "いい戦いだった。　さあ寝るぞ"
+
+#. PIG_ELITE_POST_MATCH.6
+msgctxt "PIG_ELITE_POST_MATCH.6"
+msgid "YOU CHEATER. WE NO LIKE CHEATERS"
+msgstr "ズルいやつ。ズルは嫌いだ"
+
+#. PIG_ELITE_SALTY.1
+msgctxt "PIG_ELITE_SALTY.1"
+msgid "CHEATER!"
+msgstr "ズルイやつ！"
+
+#. PIG_ELITE_SALTY.2
+msgctxt "PIG_ELITE_SALTY.2"
+msgid "NO FAIR"
+msgstr "公平じゃないぞ"
+
+#. PIG_ELITE_SALTY.3
+msgctxt "PIG_ELITE_SALTY.3"
+msgid "NOT ALLOWED DO THAT!"
+msgstr "そんなことをするな！"
+
+#. PIG_ELITE_SMACK.1
+msgctxt "PIG_ELITE_SMACK.1"
+msgid "YOU GO SMASH!"
+msgstr "ぶったたけ！"
+
+#. PIG_ELITE_SMACK.2
+msgctxt "PIG_ELITE_SMACK.2"
+msgid "I BASH YOU!"
+msgstr "ぶん殴るぞ"
+
+#. PIG_ELITE_SMACK.3
+msgctxt "PIG_ELITE_SMACK.3"
+msgid "STAY AWAY!"
+msgstr "近づくな！"
+
+#. PIG_ELITE_SMACK.4
+msgctxt "PIG_ELITE_SMACK.4"
+msgid "FUN!"
+msgstr "楽しいな！"
+
+#. PIG_GUARD_TALK_FIGHT.1
+msgctxt "PIG_GUARD_TALK_FIGHT.1"
+msgid "FOR KING!"
+msgstr "王様のために！"
+
+#. PIG_GUARD_TALK_FIGHT.2
+msgctxt "PIG_GUARD_TALK_FIGHT.2"
+msgid "DEFEND!"
+msgstr "守れ！"
+
+#. PIG_GUARD_TALK_FIGHT.3
+msgctxt "PIG_GUARD_TALK_FIGHT.3"
+msgid "SAVE KING!"
+msgstr "王を守れ！"
+
+#. PIG_GUARD_TALK_GOHOME.1
+msgctxt "PIG_GUARD_TALK_GOHOME.1"
+msgid "MUST DEFEND!"
+msgstr "死ぬ気で守れ！"
+
+#. PIG_GUARD_TALK_GOHOME.2
+msgctxt "PIG_GUARD_TALK_GOHOME.2"
+msgid "I PROTECT"
+msgstr "私が保護する"
+
+#. PIG_GUARD_TALK_GOHOME.3
+msgctxt "PIG_GUARD_TALK_GOHOME.3"
+msgid "KING! KING!"
+msgstr "王様！王様！"
+
+#. PIG_GUARD_TALK_LOOKATWILSON.1
+msgctxt "PIG_GUARD_TALK_LOOKATWILSON.1"
+msgid "YOU LEAVE NOW"
+msgstr "あなた、バイバイ！"
+
+#. PIG_GUARD_TALK_LOOKATWILSON.2
+msgctxt "PIG_GUARD_TALK_LOOKATWILSON.2"
+msgid "YOU GO AWAY"
+msgstr "どっかイケ！"
+
+#. PIG_GUARD_TALK_LOOKATWILSON.3
+msgctxt "PIG_GUARD_TALK_LOOKATWILSON.3"
+msgid "YOU NO STAY"
+msgstr "ここ いちゃだめ"
+
+#. PIG_GUARD_TALK_TORCH.1
+msgctxt "PIG_GUARD_TALK_TORCH.1"
+msgid "TORCH GET LOW"
+msgstr "たいまつ、暗くなる！"
+
+#. PIG_GUARD_TALK_TORCH.2
+msgctxt "PIG_GUARD_TALK_TORCH.2"
+msgid "MAKE TORCH BRIGHT"
+msgstr "たいまつ、明るくなる！"
+
+#. PIG_GUARD_TALK_TORCH.3
+msgctxt "PIG_GUARD_TALK_TORCH.3"
+msgid "MORE BURNING"
+msgstr "もっと燃え燃え"
+
+#. PSN
+msgctxt "PSN"
+msgid "PlayStation™Network"
+msgstr "PlayStation™Network"
+
+#. SELECT
+msgctxt "SELECT"
+msgid "Select"
+msgstr "選択"
+
+#. SET_DESCRIPTIONS.body_ugly_winterhat_black_davys
+msgctxt "SET_DESCRIPTIONS.body_ugly_winterhat_black_davys"
+msgid "You might as well get one in every color."
+msgstr "各色1つずつ欲しくなっちゃうかも。"
+
+#. SET_DESCRIPTIONS.body_ugly_winterhat_pink_hibiscus
+msgctxt "SET_DESCRIPTIONS.body_ugly_winterhat_pink_hibiscus"
+msgid "As a matter of fact, having a matching hat and sweater is VERY fashionable."
+msgstr "帽子とセーターをお揃いのもので揃えるとと～ってもオシャレ。嘘じゃないよ。"
+
+#. SET_DESCRIPTIONS.emote_carol
+msgctxt "SET_DESCRIPTIONS.emote_carol"
+msgid "The spirit of Winter's Feast will keep you warm when you go a-caroling tonight!"
+msgstr "今晩歌を歌いに行くなら、冬のお祭りの精霊が暖かく守ってくれるよ！"
+
+#. SET_DESCRIPTIONS.emote_fistshake
+msgctxt "SET_DESCRIPTIONS.emote_fistshake"
+msgid "Why, you!"
+msgstr "もう！"
+
+#. SET_DESCRIPTIONS.emote_sleepy
+msgctxt "SET_DESCRIPTIONS.emote_sleepy"
+msgid "You look cozy from top to bottom. Sweet dreams, sleepy survivor!"
+msgstr "とっても寝心地良さそうだね。いい夢を見てね！"
+
+#. SET_DESCRIPTIONS.emote_yawn
+msgctxt "SET_DESCRIPTIONS.emote_yawn"
+msgid "You are so ready for a nap. You've never been more ready for anything in your entire life."
+msgstr "お昼寝が必要そうだね。人生でこれ以上何かを必要としたことがないほどに。"
+
+#. SET_NAMES.body_ugly_winterhat_black_davys
+msgctxt "SET_NAMES.body_ugly_winterhat_black_davys"
+msgid "Black Winter Hat Ensemble"
+msgstr "黒い冬の帽子のアンサンブル"
+
+#. SET_NAMES.body_ugly_winterhat_pink_hibiscus
+msgctxt "SET_NAMES.body_ugly_winterhat_pink_hibiscus"
+msgid "Pink Winter Hat Ensemble"
+msgstr "ピンクの冬の帽子のアンサンブル"
+
+#. SET_NAMES.emote_carol
+msgctxt "SET_NAMES.emote_carol"
+msgid "Caroler's Ensemble"
+msgstr "祝歌うたいのアンサンブル"
+
+#. SET_NAMES.emote_fistshake
+msgctxt "SET_NAMES.emote_fistshake"
+msgid "Forge Set Ensemble"
+msgstr "フォージセットアンサンブル"
+
+#. SET_NAMES.emote_sleepy
+msgctxt "SET_NAMES.emote_sleepy"
+msgid "Sleepytime Ensemble"
+msgstr "おやすみタイムの洋服"
+
+#. SET_NAMES.emote_yawn
+msgctxt "SET_NAMES.emote_yawn"
+msgid "Yawny Jammies Ensemble"
+msgstr "あくびするパジャマのアンサンブル"
+
+#. SHARD.MIGRATION_FAILED.DST_SHARD_DESTINATION_FULL
+msgctxt "SHARD.MIGRATION_FAILED.DST_SHARD_DESTINATION_FULL"
+msgid "[WIP] Destination is full!"
+msgstr "[WIP] 行き先が満員です！"
+
+#. SHARD.MIGRATION_FAILED.DST_SHARD_MIGRATION_CANCELLED
+msgctxt "SHARD.MIGRATION_FAILED.DST_SHARD_MIGRATION_CANCELLED"
+msgid "[WIP] Migration canceled"
+msgstr "[WIP] 移動をキャンセル"
+
+#. SHARD.MIGRATION_FAILED.DST_SHARD_MIGRATION_DESTINATION_NOT_READY
+msgctxt "SHARD.MIGRATION_FAILED.DST_SHARD_MIGRATION_DESTINATION_NOT_READY"
+msgid "[WIP] Destination is not ready!"
+msgstr "[WIP] その行き先には、まだ移動できません！"
+
+#. SMALLGHOST_TALK.1
+msgctxt "SMALLGHOST_TALK.1"
+msgid "ooOOoo"
+msgstr "ぉぉおおぉぉ"
+
+#. SMALLGHOST_TALK.2
+msgctxt "SMALLGHOST_TALK.2"
+msgid "OOoo"
+msgstr "おおぉぉ"
+
+#. SMALLGHOST_TALK.3
+msgctxt "SMALLGHOST_TALK.3"
+msgid "OoOoOoO"
+msgstr "おぉおぉおぉお"
+
+#. SMOLDERINGITEM
+msgctxt "SMOLDERINGITEM"
+msgid "Smoldering"
+msgstr "くすぶる"
+
+#. SONGS.WALTER_GLOMMER_GUTS.lines.1.duration
+msgctxt "SONGS.WALTER_GLOMMER_GUTS.lines.1.duration"
+msgid "4.3"
+msgstr "4.3"
+
+#. SONGS.WALTER_GLOMMER_GUTS.lines.1.message
+msgctxt "SONGS.WALTER_GLOMMER_GUTS.lines.1.message"
+msgid "Great pink gobs of greasy grimy Glommer guts,"
+msgstr "脂まみれグロマーの内臓はピンクでネバネバ"
+
+#. SONGS.WALTER_GLOMMER_GUTS.lines.2.duration
+msgctxt "SONGS.WALTER_GLOMMER_GUTS.lines.2.duration"
+msgid "1.9"
+msgstr "1.9"
+
+#. SONGS.WALTER_GLOMMER_GUTS.lines.2.message
+msgctxt "SONGS.WALTER_GLOMMER_GUTS.lines.2.message"
+msgid "Icky sticky spider legs,"
+msgstr "ネトネトベタベタなクモの足"
+
+#. SONGS.WALTER_GLOMMER_GUTS.lines.3.duration
+msgctxt "SONGS.WALTER_GLOMMER_GUTS.lines.3.duration"
+msgid "2.1"
+msgstr "2.1"
+
+#. SONGS.WALTER_GLOMMER_GUTS.lines.3.message
+msgctxt "SONGS.WALTER_GLOMMER_GUTS.lines.3.message"
+msgid "Scrambled rotten Tallbird eggs,"
+msgstr "腐った背高鳥のスクランブルエッグ"
+
+#. SONGS.WALTER_GLOMMER_GUTS.lines.4.duration
+msgctxt "SONGS.WALTER_GLOMMER_GUTS.lines.4.duration"
+msgid "4"
+msgstr "4"
+
+#. SONGS.WALTER_GLOMMER_GUTS.lines.4.message
+msgctxt "SONGS.WALTER_GLOMMER_GUTS.lines.4.message"
+msgid "French fried eyeplant floating in a pool of mud,"
+msgstr "泥だまりに浮かぶ目玉植物のフライ…"
+
+#. SONGS.WALTER_GLOMMER_GUTS.lines.5.duration
+msgctxt "SONGS.WALTER_GLOMMER_GUTS.lines.5.duration"
+msgid "3.3"
+msgstr "3.3"
+
+#. SONGS.WALTER_GLOMMER_GUTS.lines.5.message
+msgctxt "SONGS.WALTER_GLOMMER_GUTS.lines.5.message"
+msgid "And me without my spoon."
+msgstr "そしてスプーンもなく、僕は佇む。"
+
+#. STACKMOD
+msgctxt "STACKMOD"
+msgid "Stack"
+msgstr "積む"
+
+#. STALKER_BATTLECRY.1
+msgctxt "STALKER_BATTLECRY.1"
+msgid "Huurgh..."
+msgstr "シュー…"
+
+#. STALKER_BATTLECRY.2
+msgctxt "STALKER_BATTLECRY.2"
+msgid "...(growl)..."
+msgstr "…ガルルル…"
+
+#. STALKER_BATTLECRY.3
+msgctxt "STALKER_BATTLECRY.3"
+msgid "...gruuuugh..."
+msgstr "…ウー…"
+
+#. STALKER_BATTLECRY.4
+msgctxt "STALKER_BATTLECRY.4"
+msgid "Hrrgh..."
+msgstr "グルル…"
+
+#. STALKER_BATTLECRY.5
+msgctxt "STALKER_BATTLECRY.5"
+msgid "...grraaugh..."
+msgstr "…ウゥゥゥ…"
+
+#. STALKER_BATTLECRY.6
+msgctxt "STALKER_BATTLECRY.6"
+msgid "...(rumble)..."
+msgstr "...グル…ルルル…..."
+
+#. STALKER_BATTLECRY.7
+msgctxt "STALKER_BATTLECRY.7"
+msgid "...gruh..."
+msgstr "…ガルルルゥ…"
+
+#. STALKER_PLAYER_BATTLECRY.1
+msgctxt "STALKER_PLAYER_BATTLECRY.1"
+msgid "Huurgh..."
+msgstr "シュー…"
+
+#. STALKER_PLAYER_BATTLECRY.2
+msgctxt "STALKER_PLAYER_BATTLECRY.2"
+msgid "...gruuuugh..."
+msgstr "…ウー…"
+
+#. STALKER_PLAYER_BATTLECRY.3
+msgctxt "STALKER_PLAYER_BATTLECRY.3"
+msgid "...grraaugh..."
+msgstr "…ウゥゥゥ…"
+
+#. STALKER_PLAYER_BATTLECRY.4
+msgctxt "STALKER_PLAYER_BATTLECRY.4"
+msgid "...(gurgle)..."
+msgstr "…グルルル…"
+
+#. STALKER_PLAYER_BATTLECRY.5
+msgctxt "STALKER_PLAYER_BATTLECRY.5"
+msgid "...(crunch)..."
+msgstr "…バリバリバリ…"
+
+#. STALKER_PLAYER_BATTLECRY.6
+msgctxt "STALKER_PLAYER_BATTLECRY.6"
+msgid "...Y-yy..."
+msgstr "…キ…キキ…"
+
+#. STALKER_PLAYER_BATTLECRY.7
+msgctxt "STALKER_PLAYER_BATTLECRY.7"
+msgid "...W-wwh..."
+msgstr "…ワ…ワワ…"
+
+#. SWAMPIGNAMES.1
+msgctxt "SWAMPIGNAMES.1"
+msgid "Titus"
+msgstr "タイタス"
+
+#. SWAMPIGNAMES.10
+msgctxt "SWAMPIGNAMES.10"
+msgid "Pertinax"
+msgstr "ペルティナックス"
+
+#. SWAMPIGNAMES.11
+msgctxt "SWAMPIGNAMES.11"
+msgid "Didius"
+msgstr "ダイディウス"
+
+#. SWAMPIGNAMES.12
+msgctxt "SWAMPIGNAMES.12"
+msgid "Septmius"
+msgstr "セプトゥミウス"
+
+#. SWAMPIGNAMES.13
+msgctxt "SWAMPIGNAMES.13"
+msgid "Caracalla"
+msgstr "カラカラ"
+
+#. SWAMPIGNAMES.14
+msgctxt "SWAMPIGNAMES.14"
+msgid "Geta"
+msgstr "ギータ"
+
+#. SWAMPIGNAMES.15
+msgctxt "SWAMPIGNAMES.15"
+msgid "Marcrinus"
+msgstr "マルクリヌス"
+
+#. SWAMPIGNAMES.16
+msgctxt "SWAMPIGNAMES.16"
+msgid "Elagabalus"
+msgstr "エラガバルス"
+
+#. SWAMPIGNAMES.17
+msgctxt "SWAMPIGNAMES.17"
+msgid "Severus"
+msgstr "セヴェルス"
+
+#. SWAMPIGNAMES.18
+msgctxt "SWAMPIGNAMES.18"
+msgid "Maximinus"
+msgstr "マクシミヌス"
+
+#. SWAMPIGNAMES.19
+msgctxt "SWAMPIGNAMES.19"
+msgid "Gordian"
+msgstr "ゴルジアン"
+
+#. SWAMPIGNAMES.2
+msgctxt "SWAMPIGNAMES.2"
+msgid "Domitian"
+msgstr "ドミシアン"
+
+#. SWAMPIGNAMES.20
+msgctxt "SWAMPIGNAMES.20"
+msgid "Pupienus"
+msgstr "プピエヌス"
+
+#. SWAMPIGNAMES.21
+msgctxt "SWAMPIGNAMES.21"
+msgid "Balbinus"
+msgstr "バルビヌス"
+
+#. SWAMPIGNAMES.3
+msgctxt "SWAMPIGNAMES.3"
+msgid "Nerva"
+msgstr "ネルバ"
+
+#. SWAMPIGNAMES.4
+msgctxt "SWAMPIGNAMES.4"
+msgid "Trajan"
+msgstr "トラヤン"
+
+#. SWAMPIGNAMES.5
+msgctxt "SWAMPIGNAMES.5"
+msgid "Hadrian"
+msgstr "ハドリアン"
+
+#. SWAMPIGNAMES.6
+msgctxt "SWAMPIGNAMES.6"
+msgid "Antonius"
+msgstr "アントニウス"
+
+#. SWAMPIGNAMES.7
+msgctxt "SWAMPIGNAMES.7"
+msgid "Lucius"
+msgstr "ルシウス"
+
+#. SWAMPIGNAMES.8
+msgctxt "SWAMPIGNAMES.8"
+msgid "Marcus"
+msgstr "マルカス"
+
+#. SWAMPIGNAMES.9
+msgctxt "SWAMPIGNAMES.9"
+msgid "Commodus"
+msgstr "コモダス"
+
+#. SWAMPIG_TALK_TO_WILSON.1
+msgctxt "SWAMPIG_TALK_TO_WILSON.1"
+msgid "KIND ELDER SICK. NEED REST"
+msgstr "親切な年長者は病気です。休息を必要としています。"
+
+#. SWAMPIG_TALK_TO_WILSON.2
+msgctxt "SWAMPIG_TALK_TO_WILSON.2"
+msgid "YOU DIFFERENT"
+msgstr "あなたは違います"
+
+#. SWAMPIG_TALK_TO_WILSON.3
+msgctxt "SWAMPIG_TALK_TO_WILSON.3"
+msgid "HELLO"
+msgstr "こんにちは"
+
+#. SWAMPIG_TALK_TO_WILSON.4
+msgctxt "SWAMPIG_TALK_TO_WILSON.4"
+msgid "YOU HELP PIGS?"
+msgstr "豚を助けてくれますか？"
+
+#. SWAMPIG_TALK_TO_WILSON.5
+msgctxt "SWAMPIG_TALK_TO_WILSON.5"
+msgid "YOU WEIRD GOAT"
+msgstr "変なヤギです。"
+
+#. SWAMPIG_TALK_TO_WILSON.6
+msgctxt "SWAMPIG_TALK_TO_WILSON.6"
+msgid "YOU FEED GNAW?"
+msgstr "グノーに餌をあげますか？"
+
+#. SWAMPIG_TALK_TO_WILSON.7
+msgctxt "SWAMPIG_TALK_TO_WILSON.7"
+msgid "(SNIFF SNIFF) (SNORT)"
+msgstr "（クンクン）ブフーー！"
+
+#. SWAP
+msgctxt "SWAP"
+msgid "Swap"
+msgstr "交換する"
+
+#. TAGS.CLAN
+msgctxt "TAGS.CLAN"
+msgid "group"
+msgstr "グループ"
+
+#. TAGS.FRIENDSONLY
+msgctxt "TAGS.FRIENDSONLY"
+msgid "friendsonly"
+msgstr "フレンドのみ"
+
+#. TAGS.GAMEMODE.LAVAARENA
+msgctxt "TAGS.GAMEMODE.LAVAARENA"
+msgid "the_forge"
+msgstr "the_forge"
+
+#. TAGS.GAMEMODE.QUAGMIRE
+msgctxt "TAGS.GAMEMODE.QUAGMIRE"
+msgid "the_gorge"
+msgstr "the_gorge"
+
+#. TAGS.LOCAL
+msgctxt "TAGS.LOCAL"
+msgid "localonly"
+msgstr "ローカルのみ"
+
+#. TAGS.LOCATION.CAVE
+msgctxt "TAGS.LOCATION.CAVE"
+msgid "caves"
+msgstr "洞窟"
+
+#. TAGS.MULTISERVER
+msgctxt "TAGS.MULTISERVER"
+msgid "multilevel"
+msgstr "地上と地下"
+
+#. TAGS.PVP
+msgctxt "TAGS.PVP"
+msgid "pvp"
+msgstr "PVP"
+
+#. TAGS.VOTE
+msgctxt "TAGS.VOTE"
+msgid "vote"
+msgstr "投票"
+
+#. THANKS_POPUP.ANRARG
+msgctxt "THANKS_POPUP.ANRARG"
+msgid "Metheus has taken heed"
+msgstr "メシウスに認められた…"
+
+#. THANKS_POPUP.ARG
+msgctxt "THANKS_POPUP.ARG"
+msgid "Pulvis et umbra sumus"
+msgstr "闇、塵、現る…"
+
+#. THANKS_POPUP.CUPID
+msgctxt "THANKS_POPUP.CUPID"
+msgid "Happy Valentine's Day\nfrom your friends at Klei"
+msgstr "Kleiから、バレンタインデーの\nプレゼントです！"
+
+#. THANKS_POPUP.DAILY_GIFT
+msgctxt "THANKS_POPUP.DAILY_GIFT"
+msgid "Welcome back!\nPlease enjoy this daily gift."
+msgstr "おかえりなさい！\n毎日のお楽しみにしてください。"
+
+#. THANKS_POPUP.DEFAULT
+msgctxt "THANKS_POPUP.DEFAULT"
+msgid "Thanks for playing"
+msgstr "Thanks for playing"
+
+#. THANKS_POPUP.GORGE
+msgctxt "THANKS_POPUP.GORGE"
+msgid "Thanks for playing during the\nGorge event"
+msgstr "\nゴルジュイベント期間中のプレイありがとうございました"
+
+#. THANKS_POPUP.GORGE_TOURNAMENT
+msgctxt "THANKS_POPUP.GORGE_TOURNAMENT"
+msgid "Thanks for participating in the\nGorge Tournament"
+msgstr "\nゴルジュイベントへのご参加ありがとうございました"
+
+#. THANKS_POPUP.HAMLET
+msgctxt "THANKS_POPUP.HAMLET"
+msgid "Thanks for playing"
+msgstr "Thanks for playing"
+
+#. THANKS_POPUP.HOTLAVA
+msgctxt "THANKS_POPUP.HOTLAVA"
+msgid "That's hot!"
+msgstr "熱いです！"
+
+#. THANKS_POPUP.LUNAR
+msgctxt "THANKS_POPUP.LUNAR"
+msgid "Thanks for playing during the\nYear of the Gobbler event"
+msgstr "パックンチョウの年イベント期間中の\nプレイありがとうございました"
+
+#. THANKS_POPUP.ONI
+msgctxt "THANKS_POPUP.ONI"
+msgid "Thanks for playing"
+msgstr "Thanks for playing"
+
+#. THANKS_POPUP.ROG
+msgctxt "THANKS_POPUP.ROG"
+msgid "Thanks for playing"
+msgstr "Thanks for playing"
+
+#. THANKS_POPUP.ROGR
+msgctxt "THANKS_POPUP.ROGR"
+msgid "Thank you for buying the Reign of Giants DLC"
+msgstr "Reign of Giants DLCをご購入いただきありがとうございます"
+
+#. THANKS_POPUP.ROT2
+msgctxt "THANKS_POPUP.ROT2"
+msgid "Sending well wishes\nand shell fishes!"
+msgstr "願いを込めて\nと貝類を送りましょう！"
+
+#. THANKS_POPUP.STORE
+msgctxt "THANKS_POPUP.STORE"
+msgid "Enjoy your gift"
+msgstr "プレゼントをお楽しみください"
+
+#. THANKS_POPUP.SW
+msgctxt "THANKS_POPUP.SW"
+msgid "Thanks for playing"
+msgstr "Thanks for playing"
+
+#. THANKS_POPUP.SWR
+msgctxt "THANKS_POPUP.SWR"
+msgid "Thank you for buying the ShipWrecked DLC"
+msgstr "難破船DLCをご購入いただきありがとうございます"
+
+#. THANKS_POPUP.TOT
+msgctxt "THANKS_POPUP.TOT"
+msgid "Wishing you fair winds and following seas\non the Turn of Tides!"
+msgstr "あなたにほどよい風と海をとお祈りしています。\nTurn of Tides！"
+
+#. THANKS_POPUP.TWITCH
+msgctxt "THANKS_POPUP.TWITCH"
+msgid "Thanks for watching game streams"
+msgstr "ゲームストリームを見てくれてありがとうございます"
+
+#. THANKS_POPUP.TWITCH_DROP
+msgctxt "THANKS_POPUP.TWITCH_DROP"
+msgid "Thanks for watching game streams"
+msgstr "ゲームストリームを見てくれてありがとうございます"
+
+#. THANKS_POPUP.VARG
+msgctxt "THANKS_POPUP.VARG"
+msgid "Thanks for playing during the\nYear of the Varg event"
+msgstr "ヴァーグの年イベント\nでのプレイありがとうございました"
+
+#. THANKS_POPUP.WINTER
+msgctxt "THANKS_POPUP.WINTER"
+msgid "Happy Winter's Feast\nfrom your friends at Klei"
+msgstr "クレイから、バレンタインデーの\nプレゼントです"
+
+#. THANKS_POPUP.YOTB
+msgctxt "THANKS_POPUP.YOTB"
+msgid "Thanks for playing during the\nYear of the Beefalo event"
+msgstr "ビーファロの年イベント期間中の\nプレイありがとうございました"
+
+#. THANKS_POPUP.YOTP
+msgctxt "THANKS_POPUP.YOTP"
+msgid "Thanks for playing during the\nYear of the Pig King event"
+msgstr "\n豚王の年イベントでのプレイありがとうございました"
+
+#. TRADEMOD
+msgctxt "TRADEMOD"
+msgid "Move"
+msgstr "移動"
+
+#. TWINS_COMING
+msgctxt "TWINS_COMING"
+msgid "This is going to be a terrible night..."
+msgstr "恐ろしい夜になりそうだ…"
+
+#. TWINS_TARGET
+msgctxt "TWINS_TARGET"
+msgid "The Twins turn their gaze toward {player_name}"
+msgstr "ツインズが{player_name}に視線を向けている"
+
+#. WET_PREFIX.CLOTHING
+msgctxt "WET_PREFIX.CLOTHING"
+msgid "Soaked"
+msgstr "びしょ濡れの"
+
+#. WET_PREFIX.FOOD
+msgctxt "WET_PREFIX.FOOD"
+msgid "Soggy"
+msgstr "水びたしの"
+
+#. WET_PREFIX.FUEL
+msgctxt "WET_PREFIX.FUEL"
+msgid "Water-Logged"
+msgstr "水びたしの"
+
+#. WET_PREFIX.GENERIC
+msgctxt "WET_PREFIX.GENERIC"
+msgid "Wet"
+msgstr "ぬれている"
+
+#. WET_PREFIX.NONE
+msgctxt "WET_PREFIX.NONE"
+msgid ""
+msgstr ""
+
+#. WET_PREFIX.POUCH
+msgctxt "WET_PREFIX.POUCH"
+msgid "Soggy"
+msgstr "水っぽい"
+
+#. WET_PREFIX.RABBITHOLE
+msgctxt "WET_PREFIX.RABBITHOLE"
+msgid "Collapsed"
+msgstr "崩れた"
+
+#. WET_PREFIX.TOOL
+msgctxt "WET_PREFIX.TOOL"
+msgid "Slippery"
+msgstr "ツルツル滑る"
+
+#. WET_PREFIX.WETGOOP
+msgctxt "WET_PREFIX.WETGOOP"
+msgid "Very"
+msgstr "非常に"
+
+#. WITHEREDITEM
+msgctxt "WITHEREDITEM"
+msgid "Withered"
+msgstr "枯れた"
+

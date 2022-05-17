@@ -1,0 +1,425 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.HUD.ACTIVATE_RESURRECTION
+msgctxt "UI.HUD.ACTIVATE_RESURRECTION"
+msgid "Activate Meat Effigy"
+msgstr "Активировать мясное чучело"
+
+#. UI.HUD.AFK_BODY
+msgctxt "UI.HUD.AFK_BODY"
+msgid "Make sure to stretch your legs! The deathly wilderness will still be here when you get back."
+msgstr "Разомнись как следует! Смертельно опасный дикий мир будет ждать твоего возвращения."
+
+#. UI.HUD.AFK_OK
+msgctxt "UI.HUD.AFK_OK"
+msgid "Return"
+msgstr "Вернуться"
+
+#. UI.HUD.AFK_TITLE
+msgctxt "UI.HUD.AFK_TITLE"
+msgid "Taking A Breather"
+msgstr "Перевести дух"
+
+#. UI.HUD.ATTACK
+msgctxt "UI.HUD.ATTACK"
+msgid "Attack"
+msgstr "Напасть"
+
+#. UI.HUD.BUILD
+msgctxt "UI.HUD.BUILD"
+msgid "Build"
+msgstr "Строить"
+
+#. UI.HUD.BUYNOW
+msgctxt "UI.HUD.BUYNOW"
+msgid "Buy Now"
+msgstr "Купить"
+
+#. UI.HUD.CANCEL
+msgctxt "UI.HUD.CANCEL"
+msgid "Cancel"
+msgstr "Отменить"
+
+#. UI.HUD.CLOCKDAY
+msgctxt "UI.HUD.CLOCKDAY"
+msgid "Day"
+msgstr "День"
+
+#. UI.HUD.CLOCKDAYS
+msgctxt "UI.HUD.CLOCKDAYS"
+msgid "Days"
+msgstr "Дни"
+
+#. UI.HUD.CLOCKSURVIVED
+msgctxt "UI.HUD.CLOCKSURVIVED"
+msgid "Survived"
+msgstr "Прожито"
+
+#. UI.HUD.CRITTER_TRAITS.COMBAT
+msgctxt "UI.HUD.CRITTER_TRAITS.COMBAT"
+msgid "Scrappy"
+msgstr "Драчливый"
+
+#. UI.HUD.CRITTER_TRAITS.CRAFTY
+msgctxt "UI.HUD.CRITTER_TRAITS.CRAFTY"
+msgid "Crafty"
+msgstr "Мастеровитый"
+
+#. UI.HUD.CRITTER_TRAITS.PLAYFUL
+msgctxt "UI.HUD.CRITTER_TRAITS.PLAYFUL"
+msgid "Peppy"
+msgstr "Энергичный"
+
+#. UI.HUD.CRITTER_TRAITS.WELLFED
+msgctxt "UI.HUD.CRITTER_TRAITS.WELLFED"
+msgid "Plump"
+msgstr "Пухлый"
+
+#. UI.HUD.DEATH_ANNOUNCEMENT_1
+msgctxt "UI.HUD.DEATH_ANNOUNCEMENT_1"
+msgid "was killed by"
+msgstr "пал от рук"
+
+#. UI.HUD.DEATH_ANNOUNCEMENT_2_DEFAULT
+msgctxt "UI.HUD.DEATH_ANNOUNCEMENT_2_DEFAULT"
+msgid ". They became a spooky ghost!"
+msgstr ". Они стали жуткими призраками!"
+
+#. UI.HUD.DEATH_ANNOUNCEMENT_2_FEMALE
+msgctxt "UI.HUD.DEATH_ANNOUNCEMENT_2_FEMALE"
+msgid ". She became a spooky ghost!"
+msgstr ". Она стала жутким призраком!"
+
+#. UI.HUD.DEATH_ANNOUNCEMENT_2_MALE
+msgctxt "UI.HUD.DEATH_ANNOUNCEMENT_2_MALE"
+msgid ". He became a spooky ghost!"
+msgstr ". Он стал жутким призраком!"
+
+#. UI.HUD.DEATH_ANNOUNCEMENT_2_ROBOT
+msgctxt "UI.HUD.DEATH_ANNOUNCEMENT_2_ROBOT"
+msgid ". They became a spooky ghost!"
+msgstr ". Они стали жуткими призраками!"
+
+#. UI.HUD.DEATH_PET_NAME
+msgctxt "UI.HUD.DEATH_PET_NAME"
+msgid "%s's %s"
+msgstr "%s %s"
+
+#. UI.HUD.DEPLOY
+msgctxt "UI.HUD.DEPLOY"
+msgid "Deploy"
+msgstr "Развернуть"
+
+#. UI.HUD.DROP
+msgctxt "UI.HUD.DROP"
+msgid "Drop"
+msgstr "Выбросить"
+
+#. UI.HUD.EQUIP
+msgctxt "UI.HUD.EQUIP"
+msgid "Equip"
+msgstr "Снаряжать"
+
+#. UI.HUD.GETHALF
+msgctxt "UI.HUD.GETHALF"
+msgid "Get Half"
+msgstr "Взять половину"
+
+#. UI.HUD.GHOST_DEATH_ANNOUNCEMENT_DEFAULT
+msgctxt "UI.HUD.GHOST_DEATH_ANNOUNCEMENT_DEFAULT"
+msgid "lost all of their humanity and is gone forever."
+msgstr "потеряли всю человечность и канули в лету."
+
+#. UI.HUD.GHOST_DEATH_ANNOUNCEMENT_FEMALE
+msgctxt "UI.HUD.GHOST_DEATH_ANNOUNCEMENT_FEMALE"
+msgid "lost all of her humanity and is gone forever."
+msgstr "потеряла всю свою человечность и канула в лету."
+
+#. UI.HUD.GHOST_DEATH_ANNOUNCEMENT_MALE
+msgctxt "UI.HUD.GHOST_DEATH_ANNOUNCEMENT_MALE"
+msgid "lost all of his humanity and is gone forever."
+msgstr "потерял всю свою человечность и канул в лету."
+
+#. UI.HUD.GHOST_DEATH_ANNOUNCEMENT_ROBOT
+msgctxt "UI.HUD.GHOST_DEATH_ANNOUNCEMENT_ROBOT"
+msgid "lost all of their humanity and is gone forever."
+msgstr "потеряли всю человечность и канули в лету."
+
+#. UI.HUD.HERE
+msgctxt "UI.HUD.HERE"
+msgid "here"
+msgstr "здесь"
+
+#. UI.HUD.HUNGRY
+msgctxt "UI.HUD.HUNGRY"
+msgid "Hungry"
+msgstr "Хочет есть"
+
+#. UI.HUD.INSPECT
+msgctxt "UI.HUD.INSPECT"
+msgid "Inspect"
+msgstr "Осмотреться вокруг"
+
+#. UI.HUD.INSPECT_SELF
+msgctxt "UI.HUD.INSPECT_SELF"
+msgid "Inspect Self"
+msgstr "Осмотреть себя"
+
+#. UI.HUD.LAVAARENA_LOSE_BODY
+msgctxt "UI.HUD.LAVAARENA_LOSE_BODY"
+msgid "You have failed Battlemaster Pugna's challenge."
+msgstr "Вы провалили испытание Полководца Пугны."
+
+#. UI.HUD.LAVAARENA_LOSE_TITLE
+msgctxt "UI.HUD.LAVAARENA_LOSE_TITLE"
+msgid "Defeat!"
+msgstr "Поражение!"
+
+#. UI.HUD.LAVAARENA_WIN_BODY
+msgctxt "UI.HUD.LAVAARENA_WIN_BODY"
+msgid "You have bested Battlemaster Pugna's champions in battle."
+msgstr "Вы превзошли чемпионов Полководца Пугны в бою."
+
+#. UI.HUD.LAVAARENA_WIN_TITLE
+msgctxt "UI.HUD.LAVAARENA_WIN_TITLE"
+msgid "Victory!"
+msgstr "Победа!"
+
+#. UI.HUD.MAP
+msgctxt "UI.HUD.MAP"
+msgid "Show Map\n"
+msgstr "Показать карту\n"
+
+#. UI.HUD.OPENGIFT
+msgctxt "UI.HUD.OPENGIFT"
+msgid "Activate"
+msgstr "Активировать"
+
+#. UI.HUD.PAUSE
+msgctxt "UI.HUD.PAUSE"
+msgid "Pause\n"
+msgstr "Пауза\n"
+
+#. UI.HUD.PUT
+msgctxt "UI.HUD.PUT"
+msgid "Put"
+msgstr "Поставить"
+
+#. UI.HUD.PUTONE
+msgctxt "UI.HUD.PUTONE"
+msgid "Put One"
+msgstr "Положить одну штуку"
+
+#. UI.HUD.QUAGMIRE_NOTFICATIONS.DISCOVERED
+msgctxt "UI.HUD.QUAGMIRE_NOTFICATIONS.DISCOVERED"
+msgid "New Recipe Discovered"
+msgstr "Обнаружен новый рецепт"
+
+#. UI.HUD.QUAGMIRE_NOTFICATIONS.FAILED
+msgctxt "UI.HUD.QUAGMIRE_NOTFICATIONS.FAILED"
+msgid "Recipe Failed"
+msgstr "Рецепт не удался"
+
+#. UI.HUD.QUAGMIRE_NOTFICATIONS.INGREDIENT_MADE
+msgctxt "UI.HUD.QUAGMIRE_NOTFICATIONS.INGREDIENT_MADE"
+msgid "Syrup Produced"
+msgstr "Произведен сироп"
+
+#. UI.HUD.QUAGMIRE_NOTFICATIONS.MADE
+msgctxt "UI.HUD.QUAGMIRE_NOTFICATIONS.MADE"
+msgid "Meal Cooked"
+msgstr "Блюдо приготовлено"
+
+#. UI.HUD.QUAGMIRE_NOTFICATIONS.OVERCOOKED
+msgctxt "UI.HUD.QUAGMIRE_NOTFICATIONS.OVERCOOKED"
+msgid "Meal Burnt"
+msgstr "Блюдо сгорело"
+
+#. UI.HUD.QUAGMIRE_NOTFICATIONS.SENT
+msgctxt "UI.HUD.QUAGMIRE_NOTFICATIONS.SENT"
+msgid "Meal Snackrificed"
+msgstr "Блюдо пошло в жратвоприношение"
+
+#. UI.HUD.READY
+msgctxt "UI.HUD.READY"
+msgid "How long will you survive?"
+msgstr "Сколько ты продержишься?"
+
+#. UI.HUD.READYTITLE
+msgctxt "UI.HUD.READYTITLE"
+msgid "Ready to play!"
+msgstr "Игра готова!"
+
+#. UI.HUD.REPORT_RESULT_ANNOUCEMENT
+msgctxt "UI.HUD.REPORT_RESULT_ANNOUCEMENT"
+msgid "Your presence has been noticed."
+msgstr "Твое присутствие обнаружено."
+
+#. UI.HUD.RETROFITTING_ANNOUNCEMENT
+msgctxt "UI.HUD.RETROFITTING_ANNOUNCEMENT"
+msgid "World will reload in {time} seconds to complete retrofitting."
+msgstr "Чтобы все изменения вошли в силу, мир будет перезагружен через {time} сек."
+
+#. UI.HUD.RETROFITTING_ANNOUNCEMENT_NOW
+msgctxt "UI.HUD.RETROFITTING_ANNOUNCEMENT_NOW"
+msgid "World is reloading to complete retrofitting."
+msgstr "Мир перезагружается, чтобы все изменения вошли в силу."
+
+#. UI.HUD.REZ_ANNOUNCEMENT
+msgctxt "UI.HUD.REZ_ANNOUNCEMENT"
+msgid "was resurrected by"
+msgstr "был воскрешен"
+
+#. UI.HUD.ROTLEFT
+msgctxt "UI.HUD.ROTLEFT"
+msgid "Rotate Left\n"
+msgstr "Повернуть влево\n"
+
+#. UI.HUD.ROTRIGHT
+msgctxt "UI.HUD.ROTRIGHT"
+msgid "Rotate Right\n"
+msgstr "Повернуть вправо\n"
+
+#. UI.HUD.SAVING
+msgctxt "UI.HUD.SAVING"
+msgid "SAVING..."
+msgstr "СОХРАНЕНИЕ…"
+
+#. UI.HUD.SELECT
+msgctxt "UI.HUD.SELECT"
+msgid "Select"
+msgstr "Выбрать"
+
+#. UI.HUD.SPOILED
+msgctxt "UI.HUD.SPOILED"
+msgid "Spoiled"
+msgstr "Протухло"
+
+#. UI.HUD.SPOILED_FROZEN
+msgctxt "UI.HUD.SPOILED_FROZEN"
+msgid "Melted"
+msgstr "Растаяло"
+
+#. UI.HUD.STALE
+msgctxt "UI.HUD.STALE"
+msgid "Stale"
+msgstr "Зачерствело"
+
+#. UI.HUD.STALE_FROZEN
+msgctxt "UI.HUD.STALE_FROZEN"
+msgid "Melting"
+msgstr "Тает"
+
+#. UI.HUD.START
+msgctxt "UI.HUD.START"
+msgid "Start"
+msgstr "Начать"
+
+#. UI.HUD.START_AFK
+msgctxt "UI.HUD.START_AFK"
+msgid "went away for a bit."
+msgstr "отошел ненадолго"
+
+#. UI.HUD.STARVING
+msgctxt "UI.HUD.STARVING"
+msgid "Starving"
+msgstr "Умирает с голода"
+
+#. UI.HUD.STOP_AFK
+msgctxt "UI.HUD.STOP_AFK"
+msgid "has returned from their relaxing time away."
+msgstr "вернулись с перекура."
+
+#. UI.HUD.SWAP
+msgctxt "UI.HUD.SWAP"
+msgid "Swap"
+msgstr "Обмен"
+
+#. UI.HUD.TAKE
+msgctxt "UI.HUD.TAKE"
+msgid "Take"
+msgstr "Взять"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.catcoon
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.catcoon"
+msgid "A Catcoon"
+msgstr "Енотокот"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.crabking
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.crabking"
+msgid "The Crab King"
+msgstr "Король крабов"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.merm
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.merm"
+msgid "A Merm"
+msgstr "Тритон"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermguard
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermguard"
+msgid "A Loyal Merm Guard"
+msgstr "Преданный стражник-тритон"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermhouse
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermhouse"
+msgid "A family of Merms"
+msgstr "Семейство тритонов"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermhouse_crafted
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermhouse_crafted"
+msgid "A well-to-do Merm"
+msgstr "Состоятельный тритон"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermking
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermking"
+msgid "The King of the Merms"
+msgstr "Король тритонов"
+
+#. UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermthrone
+msgctxt "UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.mermthrone"
+msgid "The King of the Merms"
+msgstr "Король тритонов"
+
+#. UI.HUD.TROPHYSCALE_UNKNOWN_OWNER
+msgctxt "UI.HUD.TROPHYSCALE_UNKNOWN_OWNER"
+msgid "An Unnamed Donor"
+msgstr "Безымянный даритель"
+
+#. UI.HUD.UNEQUIP
+msgctxt "UI.HUD.UNEQUIP"
+msgid "Unequip"
+msgstr "Снять"
+
+#. UI.HUD.UNLOCK_TARGET
+msgctxt "UI.HUD.UNLOCK_TARGET"
+msgid "Unlock Target"
+msgstr "Разблокировать цель"
+
+#. UI.HUD.WAXED
+msgctxt "UI.HUD.WAXED"
+msgid "Waxed"
+msgstr "Вощен."
+
+#. UI.HUD.WHACK
+msgctxt "UI.HUD.WHACK"
+msgid "Whack"
+msgstr "Ударить"
+
+#. UI.HUD.WORLD
+msgctxt "UI.HUD.WORLD"
+msgid "World"
+msgstr "Мир"
+
+#. UI.HUD.WORLD_CLOCKDAY
+msgctxt "UI.HUD.WORLD_CLOCKDAY"
+msgid "Day"
+msgstr "День"
+
+#. UI.HUD.WORLD_CLOCKDAY_V2
+msgctxt "UI.HUD.WORLD_CLOCKDAY_V2"
+msgid "Day {day_count}"
+msgstr "День {day_count}"
+

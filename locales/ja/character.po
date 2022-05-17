@@ -1,0 +1,1170 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. CHARACTER_ABOUTME.walter
+msgctxt "CHARACTER_ABOUTME.walter"
+msgid "Walter is an odd but cheerful boy, whose ability to assess danger leaves something to be desired."
+msgstr "ウォルターは少し変わった元気な男の子。危険予知能力はちょっと頼りない部分あり。"
+
+#. CHARACTER_ABOUTME.wanda
+msgctxt "CHARACTER_ABOUTME.wanda"
+msgid "Wanda is a skilled clockmaker who will stop at nothing to outrun her future."
+msgstr "ワンダは自身の未来から逃げ切ろうと懸命にあがく、熟練の時計職人です。"
+
+#. CHARACTER_ABOUTME.warly
+msgctxt "CHARACTER_ABOUTME.warly"
+msgid "To Warly, cooking is a language through which to express love and gratitude to those he holds dear."
+msgstr "ワーリーにとって、料理は愛する人たちに愛と感謝を表現するための言語です。"
+
+#. CHARACTER_ABOUTME.wathgrithr
+msgctxt "CHARACTER_ABOUTME.wathgrithr"
+msgid "Whoever Wigfrid was before her titular role has been lost to time, and the power of method acting."
+msgstr "彼女の役作りと演技力によってウィグフリッドは本来の自分ではなく、役になりきっています。"
+
+#. CHARACTER_ABOUTME.waxwell
+msgctxt "CHARACTER_ABOUTME.waxwell"
+msgid "Formerly the Shadow King, lately Maxwell finds himself reacquainted with life among the commonfolk."
+msgstr "かつてはシャドウキングであったマクスウェルは一般人との生活に溶け込んでいます。"
+
+#. CHARACTER_ABOUTME.webber
+msgctxt "CHARACTER_ABOUTME.webber"
+msgid "Webber is a polite young monster who cares deeply for all his friends, human or otherwise."
+msgstr "ウェバーは礼儀正しい若いモンスターで、人間であろうとなかろうと、すべての友人を深く気遣っています。"
+
+#. CHARACTER_ABOUTME.wendy
+msgctxt "CHARACTER_ABOUTME.wendy"
+msgid "Wendy is a morose young lady with a sisterly bond so powerful, it transcends death itself."
+msgstr "ウェンディは気難しい若い女性だが、、姉妹の絆は死を超越するほど強固です。"
+
+#. CHARACTER_ABOUTME.wes
+msgctxt "CHARACTER_ABOUTME.wes"
+msgid "Wes is a mime of many thoughts, but few words."
+msgstr "ウェスは身振り手振りで考えを示すが、言葉はほとんど話しません。"
+
+#. CHARACTER_ABOUTME.wickerbottom
+msgctxt "CHARACTER_ABOUTME.wickerbottom"
+msgid "A woman of curious mind and stern air, Wickerbottom thrives on the lifelong pursuit of knowledge."
+msgstr "好奇心旺盛かつ厳格な女性であるウィッカーボトムは生涯にわたる知識の探求を生きがいにしています。"
+
+#. CHARACTER_ABOUTME.willow
+msgctxt "CHARACTER_ABOUTME.willow"
+msgid "Willow is a candid woman whose penchant for fire often gets her into more than a little trouble."
+msgstr "ウィローは無遠慮な女性で、火への偏好が大きなトラブルに発展することもしばしばです。"
+
+#. CHARACTER_ABOUTME.wilson
+msgctxt "CHARACTER_ABOUTME.wilson"
+msgid "At heart Wilson is truly a man of science. It's not in his nature to resist the call of the unknown."
+msgstr "ウィルソンは根っからの科学者で、未知の存在への探求心を抑えることはできません。"
+
+#. CHARACTER_ABOUTME.winona
+msgctxt "CHARACTER_ABOUTME.winona"
+msgid "Winona is a former assembly line worker with a boisterous attitude and love of all things mechanical."
+msgstr "ウィノナは陽気な元ライン工で機械関係のものが大好きです。"
+
+#. CHARACTER_ABOUTME.wolfgang
+msgctxt "CHARACTER_ABOUTME.wolfgang"
+msgid "Wolfgang is an affable, musclebound giant with a heart plagued by a myriad of phobias."
+msgstr "ウルフガングは無数の恐怖症に心を悩ませている、愛想の良いいかつい体の巨人です。"
+
+#. CHARACTER_ABOUTME.woodie
+msgctxt "CHARACTER_ABOUTME.woodie"
+msgid "A gruff, bearded woodsman, Woodie has a soft spot for nature, plaid, and his trusty axe, Lucy."
+msgstr "荒々しいひげを生やした木こり、ウッディは、自然、格子柄、そして彼の信頼できる斧ルーシーにぞっこんです。"
+
+#. CHARACTER_ABOUTME.wormwood
+msgctxt "CHARACTER_ABOUTME.wormwood"
+msgid "An amalgam of vines given sentience by lunar magic, Wormwood searches for friends so he can finally belong."
+msgstr "月の魔法によって知性を与えられたブドウの木の合成物であるワームウッドはふさわしい友人を探しています。"
+
+#. CHARACTER_ABOUTME.wortox
+msgctxt "CHARACTER_ABOUTME.wortox"
+msgid "Wortox is a mischievous imp whose levity masks a deep well of guilt. He has taken many souls in his time."
+msgstr "ウォルトックスはお気楽さで隠しているが、多くの魂を奪ってきたいたずら好きの子悪魔です。"
+
+#. CHARACTER_ABOUTME.wurt
+msgctxt "CHARACTER_ABOUTME.wurt"
+msgid "Wurt is a curious young Merm trying to expand her horizons... as long as those horizons don't extend into Pig territory."
+msgstr "ワートは視野を広げようとする好奇心旺盛な若いマームですが、豚の領域ではそうもいかないようです。"
+
+#. CHARACTER_ABOUTME.wx78
+msgctxt "CHARACTER_ABOUTME.wx78"
+msgid "One might assume WX's callous nature hides a sensitive inner soul. One would assume incorrectly."
+msgstr "ある人はWXの冷淡さは繊細な内面隠すためだとわかってくるかもしれないが。またある人彼女を完全に誤解するかもしれない。"
+
+#. CHARACTER_BIOS.walter.1.desc
+msgctxt "CHARACTER_BIOS.walter.1.desc"
+msgid "March 31"
+msgstr "3月31日"
+
+#. CHARACTER_BIOS.walter.1.title
+msgctxt "CHARACTER_BIOS.walter.1.title"
+msgid "Birthday"
+msgstr "誕生日"
+
+#. CHARACTER_BIOS.walter.2.desc
+msgctxt "CHARACTER_BIOS.walter.2.desc"
+msgid "Trail Mix"
+msgstr "トレイルミックス"
+
+#. CHARACTER_BIOS.walter.2.title
+msgctxt "CHARACTER_BIOS.walter.2.title"
+msgid "Favorite Food"
+msgstr "好きな食べ物"
+
+#. CHARACTER_BIOS.walter.3.desc
+msgctxt "CHARACTER_BIOS.walter.3.desc"
+msgid "The only thing that could ever rival Walter's love for the great outdoors was his fascination with monsters and mystery. Nothing captured his interest more than a spooky story heard over the radio or a local legend about an elusive cryptid.\nIt was that pursuit of the unknown that eventually led him to the Constant. While searching for a man who Walter believed would have answers to his questions about a mysterious creature rumored to live in the woods, he instead came upon an abandoned cabin. The owner seemed to have left hastily, leaving all their belongings behind... including an odd radio that miraculously still seemed to be working. With curiosity getting the better of him he investigated the radio further, springing a trap that had lain dormant for years...\nNow finding himself trapped in the Constant, Walter has befriended another lost soul - a scruffy dog named Woby. Though much about her remains a mystery, Walter has vowed to one day return her to her rightful home (after all, returning lost dogs is the Pinetree Pioneer thing to do)."
+msgstr "ウォルターのアウトドアに対する愛に対抗できるものといえば、モンスターとミステリーに対する愛だろう。ラジオから流れる怪談話や、謎の未確認動物に関する都市伝説にいつも興味津々だ。\nウォルターをコンスタントへ導いたのは、謎を追求する心だった。森に住む未確認生物の噂の答えを知る人物を探しているときに、ひっそり佇むキャビンを見つける。キャビンの主は荷物を全て置いて急いで出て行ったようだ…まだ動いている不思議なラジオもその場にあった。好奇心がムクムクと湧いて、ウォルターはラジオを詳しく調べ始める。その結果、何年も眠っていたトラップが発動することになる…\n気付くとコンスタントに閉じ込められていたウォルターは、そこにいたもう1つの迷える魂と友達になる…ウォービーという少し汚れた犬だ。この犬に関する謎はいくつか残るが、ウォービーはいつかこの子を自分の世界に戻してやるのだと誓うのだった（迷子の犬の家を探すのは、マツワケ隊の仕事なのだ）。"
+
+#. CHARACTER_BIOS.walter.3.title
+msgctxt "CHARACTER_BIOS.walter.3.title"
+msgid "Constant Companion"
+msgstr "コンスタントの仲間"
+
+#. CHARACTER_BIOS.wanda.1.desc
+msgctxt "CHARACTER_BIOS.wanda.1.desc"
+msgid "August 8"
+msgstr "8月8日"
+
+#. CHARACTER_BIOS.wanda.1.title
+msgctxt "CHARACTER_BIOS.wanda.1.title"
+msgid "Birthday"
+msgstr "誕生日"
+
+#. CHARACTER_BIOS.wanda.2.desc
+msgctxt "CHARACTER_BIOS.wanda.2.desc"
+msgid "Taffy"
+msgstr "タフィー"
+
+#. CHARACTER_BIOS.wanda.2.title
+msgctxt "CHARACTER_BIOS.wanda.2.title"
+msgid "Favorite Food"
+msgstr "好きな食べ物"
+
+#. CHARACTER_BIOS.wanda.3.desc
+msgctxt "CHARACTER_BIOS.wanda.3.desc"
+msgid "An enigmatic woman of... well, fluctuating age, Wanda was torn from the world she knew after accidentally creating a fracture in time and space, pulling her from her own timeline into the land of the Constant. Though she avoids divulging many details of her past with the other Survivors, she seems to have an odd familiarity with them, as though she's run into them before... or perhaps, later?"
+msgstr "この謎めいて年齢が一定しない女性、ワンダは誤って時空の裂け目を作り出してしまい、かつて見知っていた世界から切り離され、自身がいた時間線からコンスタントへと投げ出された。彼女は自分の過去について、あまり詳しくほかの生存者たちに打ち明けようとはしないが、奇妙な親近感を感じている様子だ。以前会ったことがあるのか…もしくは、未来で会ったことでもあるかのように…"
+
+#. CHARACTER_BIOS.wanda.3.title
+msgctxt "CHARACTER_BIOS.wanda.3.title"
+msgid "Long Shadows"
+msgstr "長い影法師"
+
+#. CHARACTER_BIOS.warly.1.desc
+msgctxt "CHARACTER_BIOS.warly.1.desc"
+msgid "July 25"
+msgstr "7月25日"
+
+#. CHARACTER_BIOS.warly.1.title
+msgctxt "CHARACTER_BIOS.warly.1.title"
+msgid "Birthday"
+msgstr "誕生日"
+
+#. CHARACTER_BIOS.warly.2.desc
+msgctxt "CHARACTER_BIOS.warly.2.desc"
+msgid "Warly could never pick a favorite, a connoisseur of great food must always be expanding his palate."
+msgstr "ワーリーは好物を決めない。料理愛好家の彼は、常に味覚の幅を広げているのだ。"
+
+#. CHARACTER_BIOS.warly.2.title
+msgctxt "CHARACTER_BIOS.warly.2.title"
+msgid "Favorite Food"
+msgstr "好きな食べ物"
+
+#. CHARACTER_BIOS.warly.3.desc
+msgctxt "CHARACTER_BIOS.warly.3.desc"
+msgid "Warly left a promising career as a sous chef in Paris to return home and care for his aging mother Angeline, whose memory had begun to deteriorate. His world soon revolved around telling her stories about her life, playing her favorite music, cooking the recipes she had taught him when he was young... all in the hopes of catching that spark of recognition in her eyes. As time went on and Angeline's moments of clarity became fewer and farther in-between, Warly became more desperate, willing to try anything to bring back his beloved Maman...\nThat was when he first started hearing the voice on the radio."
+msgstr "ワーリーはパリのスーシェフという有望なキャリアを捨てて、記憶力が薄れ始めた高齢の母アンジェリンの面倒をみるために故郷へ戻った。故郷では母中心の生活に様変わり。母が生きてきた人生を語りかけ、母の好きな音楽を演奏し、小さい頃に母に教えてもらったレシピを再現する…全ては母の目に想いでの輝きが宿ることを願ってのことだった。時が経つにつれてアンジェリンの記憶がハッキリしている時間も減り、ワーリーは何が何でも愛するママンを取り戻したいという気持ちが強くなる…\nラジオの声が聞こえたのはそんなときだった。"
+
+#. CHARACTER_BIOS.warly.3.title
+msgctxt "CHARACTER_BIOS.warly.3.title"
+msgid "Taste of Home"
+msgstr "家族の味"
+
+#. CHARACTER_BIOS.wathgrithr.1.desc
+msgctxt "CHARACTER_BIOS.wathgrithr.1.desc"
+msgid "July 23"
+msgstr "7月23日"
+
+#. CHARACTER_BIOS.wathgrithr.1.title
+msgctxt "CHARACTER_BIOS.wathgrithr.1.title"
+msgid "Birthday"
+msgstr "誕生日"
+
+#. CHARACTER_BIOS.wathgrithr.2.desc
+msgctxt "CHARACTER_BIOS.wathgrithr.2.desc"
+msgid "Turkey Dinner"
+msgstr "七面鳥ディナー"
+
+#. CHARACTER_BIOS.wathgrithr.2.title
+msgctxt "CHARACTER_BIOS.wathgrithr.2.title"
+msgid "Favorite Food"
+msgstr "好きな食べ物"
+
+#. CHARACTER_BIOS.wathgrithr.3.desc
+msgctxt "CHARACTER_BIOS.wathgrithr.3.desc"
+msgid "Wigfrid always knew she was meant for the stage. Her debut performance was an instant sensation, launching her from obscurity to overnight stardom. Fans delighted in her portrayal of a noble and fearsome Valkyrie warrior, and she in turn took great pains to fully embody the role. She was perfect for it... perhaps too perfect. Every part she played afterward seemed to fall flat, never again achieving that magical quality that had once drawn audiences to her performances like bees to honey. As Wigfrid's stardom slowly began to fade, she retreated to the memories of her glory days, losing herself in her fantasies...\nUntil one day, she was lost entirely."
+msgstr "ウィグフリドは生粋の女優であることを、生まれながらにして確信していた。デビュー公演は即座に話題沸騰となり、たった一夜でその知名度を地から天へと昇り詰めた。貴族や恐れ知らずの戦乙女の戦士になりきり、その代償として多大な苦痛を背負う彼女の姿を、ファンたちは光悦の表情で見つめていた。ウィグフリドの演技はまさに完璧だった…むしろ、完璧すぎたのかもしれない。彼女が1つの役を演じ終えるたびに、客受けが悪くなっていった。蜂蜜がミツバチを惹きつけるように、観客たちを惹きつけていた、あの魔法のような芝居が世に放たれることは二度となかった。自身の名が徐々に忘れ去られていくにしたがって、ウィグフリドは過ぎ去った栄光に逃避し、空想の世界に没頭するようになった…\nそれも、彼女の姿が跡形もなく消え去り、すべてが一変するまでの話だが。"
+
+#. CHARACTER_BIOS.wathgrithr.3.title
+msgctxt "CHARACTER_BIOS.wathgrithr.3.title"
+msgid "The Curtain Calls"
+msgstr "カーテンコール"
+
+#. CHARACTER_BIOS.waxwell.1.desc
+msgctxt "CHARACTER_BIOS.waxwell.1.desc"
+msgid "October 22"
+msgstr "10月22日"
+
+#. CHARACTER_BIOS.waxwell.1.title
+msgctxt "CHARACTER_BIOS.waxwell.1.title"
+msgid "Birthday"
+msgstr "誕生日"
+
+#. CHARACTER_BIOS.waxwell.2.desc
+msgctxt "CHARACTER_BIOS.waxwell.2.desc"
+msgid "Lobster Dinner"
+msgstr "ウォブスタープレート"
+
+#. CHARACTER_BIOS.waxwell.2.title
+msgctxt "CHARACTER_BIOS.waxwell.2.title"
+msgid "Favorite Food"
+msgstr "好きな食べ物"
+
+#. CHARACTER_BIOS.waxwell.3.desc
+msgctxt "CHARACTER_BIOS.waxwell.3.desc"
+msgid "The former king of the Nightmare Throne and an egomaniac to boot, Maxwell (who earned his name from his former stage persona \"The Amazing Maxwell\") was once the naive and unimposing \"William Carter\", a penniless man from London who dreamt of being a world-renowned magician. When fate put William in possession of the Codex Umbra, he felt true power for the first time in his life. Casting off his old, meek ways and fully embracing his new persona as a charismatic master of dark magic, Maxwell achieved fame and success, but still found himself hungering for more. As he delved deeper and deeper into his magical tome, immersing himself in its secrets, the dark knowledge within addled his mind and clouded his heart. In his final performance, Maxwell lost control of the shadow magic he'd used so brazenly and both he and his stage assistant Charlie were pulled into the Constant. There he would remain for what seemed like an eternity, tethered to the Nightmare Throne and compelled to ensnare more victims in the Constant's trap.\nHe is still baffled by the thought that someone he tricked into the Constant could find it in their heart to set him free... well, baffled and annoyed really. He never liked owing a favor."
+msgstr "かつては悪夢の王座に君臨した男、そしてひどい自惚れ屋。マクスウェル（前回のステージのペルソナ「偉大なマクスウェル」から名前を獲得）は、かつては素朴で地味な「ウィリアム・カーター」という男で、世界クラスの手品師になることを夢見たロンドン出身の一文無しだった。運命的に古写本の影を手に入れたとき、ウィリアムは生まれて初めて真の力を感じる。昔の大人しい自分は脱ぎ捨てて、闇の魔法のカリスマという新しい自分を受け入れたマクスウェルは、名声と成功を手に入れた。それでも彼の欲望が尽きることはない。古写本の影を深く読み込むと、その中に眠る秘密にずぶずぶと蝕まれて、闇の知識に頭と心まで侵されてしまった。最後のショーで闇の魔法をコントロールできなくなり、ステージアシスタントのチャーリーと共にコンスタントへ引きずり込まれる。もう逃げられないような状況で、マクスウェルは悪夢の王座に拘束され、やむを得ずコンスタントへ新たな犠牲者を引きずり込むこととなる。\nコンスタントに引き込んだ誰かがこの状況から解放してくれるかもしれない…その思いにどうしていいか分からなくなっていた。…正確にはイラ立ちもしていた。他人に借りを作ることは大嫌いなのだ。"
+
+#. CHARACTER_BIOS.waxwell.3.title
+msgctxt "CHARACTER_BIOS.waxwell.3.title"
+msgid "The Nightmare King"
+msgstr "悪夢の王様"
+
+#. CHARACTER_BIOS.webber.1.desc
+msgctxt "CHARACTER_BIOS.webber.1.desc"
+msgid "April 30"
+msgstr "4月30日"
+
+#. CHARACTER_BIOS.webber.1.title
+msgctxt "CHARACTER_BIOS.webber.1.title"
+msgid "Birthday"
+msgstr "誕生日"
+
+#. CHARACTER_BIOS.webber.2.desc
+msgctxt "CHARACTER_BIOS.webber.2.desc"
+msgid "Ice Cream"
+msgstr "アイスクリーム"
+
+#. CHARACTER_BIOS.webber.2.title
+msgctxt "CHARACTER_BIOS.webber.2.title"
+msgid "Favorite Food"
+msgstr "好きな食べ物"
+
+#. CHARACTER_BIOS.webber.3.desc
+msgctxt "CHARACTER_BIOS.webber.3.desc"
+msgid "Once upon a time, there was a young boy who lived with his family on a small farmstead. Though they lived humbly, the boy's home was filled with love, and he grew up happy and kind. The boy might have lived contentedly for the rest of his days if not for the sudden arrival of an old aquaintance, who came to the house beseeching the boy's father for his expertise on a strange and secretive project..."
+msgstr "むかしむかし、小さな農場に家族と暮らす少年がいた。つつましい生活だったが、家庭は愛に満ちており、少年は幸せに優しく育っていました。きっと少年は死ぬまで幸せに暮らせただろう…しかし、そんな日常は、家に旧友が訪ねてきたことから一変する。その人物の狙いは、少年の父が行っていた奇妙な秘密実験だったのだ…"
+
+#. CHARACTER_BIOS.webber.3.title
+msgctxt "CHARACTER_BIOS.webber.3.title"
+msgid "Along Came a Spider"
+msgstr "スパイダー"
+
+#. CHARACTER_BIOS.wendy.1.desc
+msgctxt "CHARACTER_BIOS.wendy.1.desc"
+msgid "November 11"
+msgstr "11月11日"
+
+#. CHARACTER_BIOS.wendy.1.title
+msgctxt "CHARACTER_BIOS.wendy.1.title"
+msgid "Birthday"
+msgstr "誕生日"
+
+#. CHARACTER_BIOS.wendy.2.desc
+msgctxt "CHARACTER_BIOS.wendy.2.desc"
+msgid "Banana Pop"
+msgstr "冷凍バナナ"
+
+#. CHARACTER_BIOS.wendy.2.title
+msgctxt "CHARACTER_BIOS.wendy.2.title"
+msgid "Favorite Food"
+msgstr "好きな食べ物"
+
+#. CHARACTER_BIOS.wendy.3.desc
+msgctxt "CHARACTER_BIOS.wendy.3.desc"
+msgid "Wendy's tale of woe began with the untimely loss of her dear sister Abigail. Unable to accept the thought of life without her twin, Wendy began turning to the occult in the hopes of finding some way to communicate with the other side. After much trial and error, seance candles burned down to nubs and spirit boards thrown away in frustration, Wendy was nearly ready to give up and fall into despair... until finally, there was a sign. A ragtime tune might seem like a strange message to send from the great beyond, but Wendy was desperate to grab hold of anything that might bring her closer to her sister. And sure enough, a voice would soon tell her exactly what she needed to do..."
+msgstr "ウェンディの悲しい物語は、愛する姉妹アビゲイルとの早すぎる別れから始まる。双子の姉妹がいない人生を受け入れることが出来ず、向こうの世界と対話する方法を探しオカルトに目覚めたウェンディ。試行錯誤は何度もした…降霊術のろうそくを小さくなるまで燃やし、霊と対話できるボードを怒りで投げ捨てたこともある。もう諦めて絶望に身を任せようとしたその時…サインが現れたのだ。聞こえたきたラグタイムの音は、普通の人にはあの世からの不思議なメッセージに思えるだろう…ウェンディは少しでもアビゲイルに近づきたいとなりふり構っていられなかった。そしてすぐに、その声はこれからどうすればいいか語りかけてくるのだった…"
+
+#. CHARACTER_BIOS.wendy.3.title
+msgctxt "CHARACTER_BIOS.wendy.3.title"
+msgid "Wish You Were Here"
+msgstr "側にいたなら"
+
+#. CHARACTER_BIOS.wes.1.desc
+msgctxt "CHARACTER_BIOS.wes.1.desc"
+msgid "April 16"
+msgstr "4月16日"
+
+#. CHARACTER_BIOS.wes.1.title
+msgctxt "CHARACTER_BIOS.wes.1.title"
+msgid "Birthday"
+msgstr "誕生日"
+
+#. CHARACTER_BIOS.wes.2.desc
+msgctxt "CHARACTER_BIOS.wes.2.desc"
+msgid "Fresh Fruit Crepes"
+msgstr "フレッシュフルーツクレープ"
+
+#. CHARACTER_BIOS.wes.2.title
+msgctxt "CHARACTER_BIOS.wes.2.title"
+msgid "Favorite Food"
+msgstr "好きな食べ物"
+
+#. CHARACTER_BIOS.wes.3.desc
+msgctxt "CHARACTER_BIOS.wes.3.desc"
+msgid "Despite a life plagued by terrible luck, Wes has never been one to utter so much as a word of complaint. Rather than dwell on his own troubles, he has instead dedicated his life to making others smile... even if it's at his own expense.\nHis journey to the Constant itself was nothing if not a tragic comedy of errors. After a series of snowballing missteps, Wes found himself accidentally taking the place of a stranger caught in the grip of a shadowy portal bound for the Constant. His unexpected arrival infuriated the Nightmare King, who quickly exacted his vengeance on the poor mime for interfering with his plans. Wes was banished to his own private prison, far from sight, where he would remain until he was rescued by the Constant's other Survivors (being the kind soul that he is, Wes holds no grudge against Maxwell... though he does continue to give him the silent treatment.)\nHad Wes known what fate awaited him on his last day on Earth, he likely wouldn't have done anything differently. In truth, there is a part of him that is happy to be in the Constant with the other Survivors - for who could be in greater need of cheering up than those poor souls?"
+msgstr "不幸に満ち満ちていた人生を歩んでいるにも関わらず、ウェスは今まで苦言を呈したことがない。悲しみにくれたりはせず、むしろ他人を笑顔にするために生活を捧げてきた…たとえ自分が損する羽目になっても。\nウェスがコンスタントにやってきたのも、まるで喜劇のような不幸な事故が原因だ。次から次へと失敗を重ねていった結果、見ず知らずの他人がポータルから伸びる影の手に掴まれ、コンスタントへと引き込まれようとしている光景を目の当たりにしてしまったのだ。ウェスがその場に現れるのは、完全に悪夢の王様の予想外であった。計画を台無しにされた王は、腹立ち紛れに、哀れなウェスに対して即座に罰を下した。ウェスは遠い遠い独房へと追いやられてしまい、コンスタントのほかの生存者たちの手で救出されるまで、ずっとそこに収容されていたのだった。（心優しいウェスは、マクスウェルに対して一切の遺恨を抱いていない…のだが、マクスウェルに対して無視を決め込んでいる）。\nもしウェスが地球で過ごした最後の一日に、自分を待ち受ける運命を知っていたとしても、きっと特段変わった過ごし方はしなかっただろう。むしろ、ウェスはコンスタントでほかの生存者たちと生活することを楽しんでいる節がある。コンスタントにいる生存者たちは、他の誰よりも笑いを必要としている…ウェスはそう考えているのだ。"
+
+#. CHARACTER_BIOS.wes.3.title
+msgctxt "CHARACTER_BIOS.wes.3.title"
+msgid "C'est La Vie"
+msgstr "セ・ラ・ヴィ"
+
+#. CHARACTER_BIOS.wickerbottom.1.desc
+msgctxt "CHARACTER_BIOS.wickerbottom.1.desc"
+msgid "December 6"
+msgstr "12月6日"
+
+#. CHARACTER_BIOS.wickerbottom.1.title
+msgctxt "CHARACTER_BIOS.wickerbottom.1.title"
+msgid "Birthday"
+msgstr "誕生日"
+
+#. CHARACTER_BIOS.wickerbottom.2.desc
+msgctxt "CHARACTER_BIOS.wickerbottom.2.desc"
+msgid "Surf 'n' Turf"
+msgstr "ステーキ＆ロブスタープレート"
+
+#. CHARACTER_BIOS.wickerbottom.2.title
+msgctxt "CHARACTER_BIOS.wickerbottom.2.title"
+msgid "Favorite Food"
+msgstr "好きな食べ物"
+
+#. CHARACTER_BIOS.wickerbottom.3.desc
+msgctxt "CHARACTER_BIOS.wickerbottom.3.desc"
+msgid "Is yet to be revealed."
+msgstr "まだ分からない。"
+
+#. CHARACTER_BIOS.wickerbottom.3.title
+msgctxt "CHARACTER_BIOS.wickerbottom.3.title"
+msgid "Her Past..."
+msgstr "過去"
+
+#. CHARACTER_BIOS.willow.1.desc
+msgctxt "CHARACTER_BIOS.willow.1.desc"
+msgid "May 7"
+msgstr "5月7日"
+
+#. CHARACTER_BIOS.willow.1.title
+msgctxt "CHARACTER_BIOS.willow.1.title"
+msgid "Birthday"
+msgstr "誕生日"
+
+#. CHARACTER_BIOS.willow.2.desc
+msgctxt "CHARACTER_BIOS.willow.2.desc"
+msgid "Spicy Chili"
+msgstr "スパイシーチリ"
+
+#. CHARACTER_BIOS.willow.2.title
+msgctxt "CHARACTER_BIOS.willow.2.title"
+msgid "Favorite Food"
+msgstr "好きな食べ物"
+
+#. CHARACTER_BIOS.willow.3.desc
+msgctxt "CHARACTER_BIOS.willow.3.desc"
+msgid "Willow always regarded being brought to The Constant as a new beginning. It allowed her to leave everything behind, after all. Orphaned at a young age and forced to live in a children's home with cruel caregivers, she found her nights plagued by shadowy visions of terrible creatures... creatures that could only be held at bay by her faithful teddy bear Bernie. But when Bernie was taken away as punishment for what her caregivers saw as unfit behavior, Willow was left to fend for herself when the shadows came for her. That's when she learned that nothing holds back the darkness like a roaring flame. Nothing is more comforting than watching your troubles light up and crumble to ash...\nIt wouldn't be the last time Willow burned it all down to start anew."
+msgstr "ウィローはコンスタントに連れていかれることは新たなスタートと考えている。コンスタントに来ると全てを置いていけるのだ。幼い頃に孤児となると、止む無くいじわるな大人がいる孤児院で暮らすことになり、夜な夜な恐ろしい生物の影に悩まされ始めた…忠実なテディベアのバーニーだけが、その生物から彼女を守ってくれるであった。しかし良くないとされる行動をとった罰で、大人にバーニーを取り上げられてしまい、ウィローは影がやってきても1人で何とかしなくてはならなくなった。そのような状況で彼女は、影を撃退できるのが燃え盛る炎だけであるということを知った。苦しみが燃え上がり、灰になるまで燃え尽きるのを見るのが、何よりの安らぎとなった…\nウィローが全てを燃やし尽くして新しく始めるのは、これが最後ではないだろう。"
+
+#. CHARACTER_BIOS.willow.3.title
+msgctxt "CHARACTER_BIOS.willow.3.title"
+msgid "From the Ashes"
+msgstr "灰の中から"
+
+#. CHARACTER_BIOS.wilson.1.desc
+msgctxt "CHARACTER_BIOS.wilson.1.desc"
+msgid "April 23"
+msgstr "4月23日"
+
+#. CHARACTER_BIOS.wilson.1.title
+msgctxt "CHARACTER_BIOS.wilson.1.title"
+msgid "Birthday"
+msgstr "誕生日"
+
+#. CHARACTER_BIOS.wilson.2.desc
+msgctxt "CHARACTER_BIOS.wilson.2.desc"
+msgid "Bacon and Eggs"
+msgstr "ベーコンエッグ"
+
+#. CHARACTER_BIOS.wilson.2.title
+msgctxt "CHARACTER_BIOS.wilson.2.title"
+msgid "Favorite Food"
+msgstr "好きな食べ物"
+
+#. CHARACTER_BIOS.wilson.3.desc
+msgctxt "CHARACTER_BIOS.wilson.3.desc"
+msgid "While toiling away in his home laboratory late one night, Wilson was startled to hear a voice on the radio speaking directly to him. At first he feared he'd gone mad from too many late nights of experiments and accidentally-inhaled chemical fumes, but the voice assured him that it was no mere figment of the imagination. In fact, the voice had a proposition for him: if Wilson would build a machine according to their specifications, then he would be rewarded with secret knowledge, the likes of which no one had ever seen. Casting aside his better judgement (after all, what harm could come from making a vague bargain with a mysterious disembodied voice?) Wilson threw himself into constructing the machine. When at long last it was finally completed, the gentleman scientist had a moment of hesitation... a moment that might have saved him from his impending fate, had he been just a bit stronger of will. But at the voice's insistence, Wilson flipped the switch and activated his creation... and was never seen again.\nWell, at least not in this world."
+msgstr "自宅の実験室で深夜まで作業に没頭していたウィルソンは、ラジオから直接語りかけてくる声に心底驚いた。初めは度重なる深夜までの実験とふいに吸い込んだ薬品等の煙で、自分の頭がイカレてしまったかとビクビクしたが、その声はこれが単なる想像の産物ではないと断言する。事実、その声はウィルソンにある提案をするのだった。もし声の希望に従ってマシンを製造できれば、誰も知らない秘密の知識を授けるという。まともな判断を捨てて（そもそも、肉体のない謎の声とふわふわした取引をしたところで、どんな被害があるというのか？）、ウィルソンはマシンの製造に取り掛かった。長時間の作業が終わったとき、ふとウィルソンにためらいが生まれる…そのためらう気持ちがもう少し強ければ、これから起こる運命から逃れられたかもしれない。しかし声に急かされて、ウィルソンはマシンのスイッチを起動してしまった…それから彼を見た者はいない。\n見ていないと言っても、少なくともこの世界での話だが。"
+
+#. CHARACTER_BIOS.wilson.3.title
+msgctxt "CHARACTER_BIOS.wilson.3.title"
+msgid "Secret Knowledge"
+msgstr "秘密の知識"
+
+#. CHARACTER_BIOS.winona.1.desc
+msgctxt "CHARACTER_BIOS.winona.1.desc"
+msgid "September 13"
+msgstr "9月13日"
+
+#. CHARACTER_BIOS.winona.1.title
+msgctxt "CHARACTER_BIOS.winona.1.title"
+msgid "Birthday"
+msgstr "誕生日"
+
+#. CHARACTER_BIOS.winona.2.desc
+msgctxt "CHARACTER_BIOS.winona.2.desc"
+msgid "Vegetable Stinger"
+msgstr "野菜の刺毛"
+
+#. CHARACTER_BIOS.winona.2.title
+msgctxt "CHARACTER_BIOS.winona.2.title"
+msgid "Favorite Food"
+msgstr "好きな食べ物"
+
+#. CHARACTER_BIOS.winona.3.desc
+msgctxt "CHARACTER_BIOS.winona.3.desc"
+msgid "There is nothing Winona wouldn't do for her family. When her younger sister Charlie disappeared under mysterious circumstances, Winona refused to let the case grow cold and dedicated herself to finding her. For over a decade she tracked down every clue, followed every lead, poked, prodded, and questioned anyone who might have a connection to the case, until all the loose strings started to come together. There was a radio factory, founded by a peculiar old man whose genius was only matched by his secretiveness, that might hold the answers she had sought for so long. Shortly after securing employment at the factory, the building was destroyed in an accident caused by a malfunctioning portal. Having caught sight of someone getting caught in the portal and vanishing, Winona hastily repaired it in the hopes of rescuing them, only to come face to face with her missing sister. Unfortunately, Charlie seemed to be held under the sway of a shadowy influence, and she dragged Winona into the Constant."
+msgstr "ウィノナは家族のためなら何だってする。妹のチャーリーが不自然な状況で姿を消してから、ウィノナは事件が忘れられるのを拒み妹探しに奔走した。10年を費やして集めた手がかりをたどり、事件に関わりのありそうな人に連絡して話を聞き、バラバラだったヒントは徐々にまとまりはじめる。そしてとあるラジオ工場に辿り着いた…何やら秘密がある風変わりなおじさんが運営しているらしい。ここに長年求めてきた答えがあるかもしれない。工場で働き始めてしばらくすると、ポータルの故障で建物の破壊事故が起きる。ポータルに飲まれて消えていく人を目撃したウィノナは、被害者を救おうと急いで修理に向かうが、対面したのはなんと行方不明の妹だった。しかし影の影響で心ここにあらずのチャーリーは、ウィノナをコンスタントへと引き込んだ。"
+
+#. CHARACTER_BIOS.winona.3.title
+msgctxt "CHARACTER_BIOS.winona.3.title"
+msgid "Next of Kin"
+msgstr "一番近い親戚"
+
+#. CHARACTER_BIOS.wolfgang.1.desc
+msgctxt "CHARACTER_BIOS.wolfgang.1.desc"
+msgid "October 2"
+msgstr "10月2日"
+
+#. CHARACTER_BIOS.wolfgang.1.title
+msgctxt "CHARACTER_BIOS.wolfgang.1.title"
+msgid "Birthday"
+msgstr "誕生日"
+
+#. CHARACTER_BIOS.wolfgang.2.desc
+msgctxt "CHARACTER_BIOS.wolfgang.2.desc"
+msgid "Roasted Potato"
+msgstr "ローストポテト"
+
+#. CHARACTER_BIOS.wolfgang.2.title
+msgctxt "CHARACTER_BIOS.wolfgang.2.title"
+msgid "Favorite Food"
+msgstr "好きな食べ物"
+
+#. CHARACTER_BIOS.wolfgang.3.desc
+msgctxt "CHARACTER_BIOS.wolfgang.3.desc"
+msgid "Prior to his time in the Constant, Wolfgang's life revolved around the single-minded pursuit of one goal: to become the strongest man there ever was. His quest would lead him across Europe and eventually even across the Atlantic to America, where his feats of muscular prowess caught the attention of Misters Abernethy & Parker, who invited him to headline in their newly-formed traveling circus. Wolfgang quickly found himself caught up in the pageantry of circus life, and his attention began to shift to finding ways to make his show more spectacular. Fearing his own strength wouldn't be enough to keep impressing the crowds, he started employing a bit of stage trickery, with each new act becoming more unbelievable than the last. As his act grew more outlandish, the risk of being exposed as a fraud grew, and as he suffered one embarrassing mistake after another his once unshakable confidence in his abilities was slowly chipped away.\nUntil one day, a chance encounter gave him a taste of the ultimate strength he had craved for so long..."
+msgstr "コンスタントにやってくる以前、ウルフガングの人生は1つの目標をひたすら追い求めることを中心に回っていた。その目標とは、史上最強の男になることである。彼は探求心に導かれるままにヨーロッパ中を回り、ついには大西洋を渡ってアメリカにまで行きついた。そこで彼の優れた筋力に目を付けたのはミスターズ・アバネーシ＆パーカーだった。二人は自分たちが新設した移動サーカスの顔役として彼を招き入れた。ウルフガングは瞬く間にサーカス生活の虜となった。そして、彼の意識は自分のショーを素晴らしいものにすることへと移り変わり始めた。自分の筋力では観衆の心をとらえ続けられないのではないかと恐れた彼は、ステージに偽装工作をするようになった。しかし、そのおかげで新しい演目はどれも前のものよりも信じられないほど素晴らしいものとなった。演目が突飛なものになるほど、嘘がバレる危険性も高まっていった。そして、次から次へと恥ずかしい失敗を重ねるごとに、かつて彼の中にあった自分の能力に対する揺るぎのない自信は、少しずつ失われていった。\nある日、ウルフガングは偶然にも長いこと求めていた究極の強さを経験することとなる…"
+
+#. CHARACTER_BIOS.wolfgang.3.title
+msgctxt "CHARACTER_BIOS.wolfgang.3.title"
+msgid "The Incredible Strongman"
+msgstr "超凄腕の男"
+
+#. CHARACTER_BIOS.woodie.1.desc
+msgctxt "CHARACTER_BIOS.woodie.1.desc"
+msgid "September 12"
+msgstr "9月12日"
+
+#. CHARACTER_BIOS.woodie.1.title
+msgctxt "CHARACTER_BIOS.woodie.1.title"
+msgid "Birthday"
+msgstr "誕生日"
+
+#. CHARACTER_BIOS.woodie.2.desc
+msgctxt "CHARACTER_BIOS.woodie.2.desc"
+msgid "Honey Nuggets"
+msgstr "ハニーナゲット"
+
+#. CHARACTER_BIOS.woodie.2.title
+msgctxt "CHARACTER_BIOS.woodie.2.title"
+msgid "Favorite Food"
+msgstr "好きな食べ物"
+
+#. CHARACTER_BIOS.woodie.3.desc
+msgctxt "CHARACTER_BIOS.woodie.3.desc"
+msgid "Hailing from the pine-covered mountains of the great white north, Woodie is an unassuming yet strangely mysterious man who keeps his past close to the vest (or in his case, the flannel). He is never seen without his signature bushy beard or trusty axe Lucy, who herself is a bit of an enigma. The other Survivors are not quite sure whether Woodie is simply mad, or if there might be something else to the seemingly inanimate object. Sometimes they swear they can hear a jovial female voice speaking to Woodie when no one else is around..."
+msgstr "木々に覆われた北の山から来たウッディは、気取らず不思議とミステリアスで過去を明かさない男だ。いつもアイデンティティのモジャモジャのヒゲを蓄えて、片手には少し不思議だが頼りになる斧ルーシーを携えている。他の生存者はウッディが怒っているのか、それとも無表情なだけなのか分かりかねている。たまに誰もいないのに、ウッディと話す明るい女性の声が聞こえるとか…"
+
+#. CHARACTER_BIOS.woodie.3.title
+msgctxt "CHARACTER_BIOS.woodie.3.title"
+msgid "A Mysterious Past"
+msgstr "謎に包まれた過去"
+
+#. CHARACTER_BIOS.woodie.4.desc
+msgctxt "CHARACTER_BIOS.woodie.4.desc"
+msgid "As the power of the moon has grown, so too have the effects of Woodie's curse. Woodie soon found that his form would shift into not only the Werebeaver, but a Weremoose and Weregoose as well. As his changing forms became more unpredictable, Woodie resolved to find a way to have more control over his curse. Using every bit of knowledge he'd gained from his time in the Constant (and some additional tips from Ms. Wickerbottom) he soon discovered that his transformations could in fact be controlled. By fashioning representations of each of the three beasts and consuming them only when he wanted to invoke that form, Woodie now feels more comfortable in his own skin than he has in quite a while."
+msgstr "月の力が満ちてくると、ウッディの呪いにも影響が出る。この呪いはビーバー男だけではなく、ムース男やガチョウ男になる変身能力だった。呪いはどんどん予測が難しくなり、ウッディは呪いを制御する方法を見つけることを心に決める。コンスタントで過ごした知識（プラスしてウィッカーボトムさんの知恵）を集約すると、すぐにこの呪いの制御方法が見つかった。3体の野獣の肖像を作り出し、なりたい姿を呼び出したいときだけ対象の肖像を食べる。そうすることで、今までより安心して過ごせるようになった。"
+
+#. CHARACTER_BIOS.woodie.4.title
+msgctxt "CHARACTER_BIOS.woodie.4.title"
+msgid "Tree's a Crowd"
+msgstr "木は群衆"
+
+#. CHARACTER_BIOS.wormwood.1.desc
+msgctxt "CHARACTER_BIOS.wormwood.1.desc"
+msgid "June 6"
+msgstr "6月6日"
+
+#. CHARACTER_BIOS.wormwood.1.title
+msgctxt "CHARACTER_BIOS.wormwood.1.title"
+msgid "Birthday"
+msgstr "誕生日"
+
+#. CHARACTER_BIOS.wormwood.2.desc
+msgctxt "CHARACTER_BIOS.wormwood.2.desc"
+msgid "Cooked Banana"
+msgstr "調理したバナナ"
+
+#. CHARACTER_BIOS.wormwood.2.title
+msgctxt "CHARACTER_BIOS.wormwood.2.title"
+msgid "Favorite Food"
+msgstr "好きな食べ物"
+
+#. CHARACTER_BIOS.wormwood.3.desc
+msgctxt "CHARACTER_BIOS.wormwood.3.desc"
+msgid "Though the circumstances of his creation were unusual at best, Wormwood came into this world full of optimism and curiosity, ready to make new friends and see all that life had to offer. But as time wore on and he experienced the cold sting of rejection, he came to learn what the moon above had always known: Wormwood the Lonesome does not belong here."
+msgstr "生まれた環境は普通ではなかったものの、ワームウッド自身はなんとかなる精神と好奇心にあふれ、新しい友達作りと人生で訪れる全てのモノを見たい気持ちが膨れ上がっていた。しかし時間が経つにつれて、冷たい拒否反応を目の当たりにし、頭上のお月さまがずっと悟っていたことを知る。1人ぼっちのワームウッドはここに居場所がないのだと。"
+
+#. CHARACTER_BIOS.wormwood.3.title
+msgctxt "CHARACTER_BIOS.wormwood.3.title"
+msgid "Lunar Roots"
+msgstr "月の根っこ"
+
+#. CHARACTER_BIOS.wortox.1.desc
+msgctxt "CHARACTER_BIOS.wortox.1.desc"
+msgid "March 28"
+msgstr "3月28日"
+
+#. CHARACTER_BIOS.wortox.1.title
+msgctxt "CHARACTER_BIOS.wortox.1.title"
+msgid "Birthday"
+msgstr "誕生日"
+
+#. CHARACTER_BIOS.wortox.2.desc
+msgctxt "CHARACTER_BIOS.wortox.2.desc"
+msgid "Wortox is not particularly interested in mortal food, but he does enjoy a Pomegranate now and then."
+msgstr "ウォルトックスはあまり生き物の食べ物に興味を示さないが、最近はザクロがお気に入りの様子だ。"
+
+#. CHARACTER_BIOS.wortox.2.title
+msgctxt "CHARACTER_BIOS.wortox.2.title"
+msgid "Favorite Food"
+msgstr "好きな食べ物"
+
+#. CHARACTER_BIOS.wortox.3.desc
+msgctxt "CHARACTER_BIOS.wortox.3.desc"
+msgid "Wortox learned the hard way that one should always be mindful of the company they keep. Once a playful imp without a care in the world, Wortox spent his days helping a Krampus make mischief throughout the Constant. While the pair of rascals revelled in their roguery for a time, Wortox slowly began to see a darkness in the Krampus' heart, and the malice in his pranks. Not wishing for any real harm to come to anyone, the little imp finally put his cloven foot down, but in trying to stop his fiendish friend he unwittingly awakened a terrible power in himself..."
+msgstr "ウォルトックスは、側にいる仲間には常に気を配ることを苦い経験から学んだ。周りを気にしない無邪気な小悪魔だったころは、コンスタント中でクランプスのイタズラを手伝って暮らしていた。クランプスとのイタズラを楽しみつつも、ウォルトックスは友達の心に潜む闇と、そのイタズラに隠れた悪意をだんだんと感じ始める。誰かに実害が出ることを望まないウォルトックスは強い口調でクランプスを止めようとするが、その行動が偶然にもクランプスの恐ろしい力を目覚めさせるきっかけとなってしまう…"
+
+#. CHARACTER_BIOS.wortox.3.title
+msgctxt "CHARACTER_BIOS.wortox.3.title"
+msgid "Possessions"
+msgstr "自分のもの"
+
+#. CHARACTER_BIOS.wurt.1.desc
+msgctxt "CHARACTER_BIOS.wurt.1.desc"
+msgid "October 17"
+msgstr "10月17日"
+
+#. CHARACTER_BIOS.wurt.1.title
+msgctxt "CHARACTER_BIOS.wurt.1.title"
+msgid "Birthday"
+msgstr "誕生日"
+
+#. CHARACTER_BIOS.wurt.2.desc
+msgctxt "CHARACTER_BIOS.wurt.2.desc"
+msgid "Durian"
+msgstr "ドリアン"
+
+#. CHARACTER_BIOS.wurt.2.title
+msgctxt "CHARACTER_BIOS.wurt.2.title"
+msgid "Favorite Food"
+msgstr "好きな食べ物"
+
+#. CHARACTER_BIOS.wurt.3.desc
+msgctxt "CHARACTER_BIOS.wurt.3.desc"
+msgid "Wurt is a little Merm girl who wants to bring her people back to their former glory (if they did indeed ever have a former glory... the evidence is a bit shaky on that front). A bit more open-minded than other Merms, she has taken to following the Survivors around and learning more about them. She is particularly fascinated by books with pretty pictures inside and an amazing thing the humans call \"candy\". Though she enjoys living in the swamp and being around other Merms, being the smallest and the youngest often makes her feel quite isolated, and she is enjoying the novelty of having some friends closer to her own age amongst the Survivors."
+msgstr "ワートはマーム族の少女で、かつて一族にあった栄光を取り戻すことを願っている（実際にそういった栄光があったのか…その件について事実はあやふや）。他のマームより人懐っこく、生存者について回ってはその生態を学んでいる。キレイな絵の入った本と、人間が「キャンディ」と呼ぶものの虜だ。他のマームと共に沼地に住むことに不満はないけど、一族で最年少の小さな女の子でいることは少し寂しい部分があり、生存者の輪に入って年の近い友達と一緒にいることが新鮮でワクワクしている。"
+
+#. CHARACTER_BIOS.wurt.3.title
+msgctxt "CHARACTER_BIOS.wurt.3.title"
+msgid "A New Chapter"
+msgstr "新しい物語"
+
+#. CHARACTER_BIOS.wx78.1.desc
+msgctxt "CHARACTER_BIOS.wx78.1.desc"
+msgid "November 28"
+msgstr "11月28日"
+
+#. CHARACTER_BIOS.wx78.1.title
+msgctxt "CHARACTER_BIOS.wx78.1.title"
+msgid "Buildday"
+msgstr "製造日"
+
+#. CHARACTER_BIOS.wx78.2.desc
+msgctxt "CHARACTER_BIOS.wx78.2.desc"
+msgid "Butter Muffin"
+msgstr "バターマフィン"
+
+#. CHARACTER_BIOS.wx78.2.title
+msgctxt "CHARACTER_BIOS.wx78.2.title"
+msgid "Favorite Food"
+msgstr "好きな食べ物"
+
+#. CHARACTER_BIOS.wx78.3.desc
+msgctxt "CHARACTER_BIOS.wx78.3.desc"
+msgid "WX-78 was the result of an unorthodox experiment helmed by { [LoadEmpathyModLibraryExW().......ERROR_DATA_PATH_NOT_FOUND] } and Robert Wagstaff. The experiment turned out to be a [RESOUNDING SUCCESS], but Wagstaff was [A SHORT-SIGHTED FOOL, AFRAID OF PROGRESS] and decided to put a stop to further tests. Adamant that the process that created them could still be perfected, WX refused to give up, continuing their experiments in secret. When Wagstaff finally discovered what they had been doing, there was a heated argument and01110100 01101111 01101111 00100000 01101100 01100001 01110100 01100101 00100000 01110100 01101111 01101111 00100000 01101100 01100001 01110100 01100101 00100000 01110100 01101111 01101111 00100000 01101100 01100001 01110100 01100101"
+msgstr "WX-78は、｛［感情モジュールライブラリExWを読み込み中.......エラー：データパスが見つかりませんでした］｝とロバート・ワグスタッフの異端な実験の結果生まれた。結局、実験は［大成功］であったが、ワグスタッフは［進歩を恐れる短絡的な愚か者］であったため、さらなるテストを中止することを決定した。WXは、自分たちを作り上げた過程はさらに洗練できると主張して中止することを拒み、秘密裏に実験を続けた。ワグスタッフがそれに気が付いたとき、激しい議論になったが、11100011 10000001 10001010 11100011 10000001 10011101 11100011 10000001 10011001 11100011 10000001 10001110 11100011 10000001 10011111 11100011 10000001 10001010 11100011 10000001 10011101 11100011 10000001 10011001 11100011 10000001 10001110 11100011 10000001 10011111"
+
+#. CHARACTER_BIOS.wx78.3.title
+msgctxt "CHARACTER_BIOS.wx78.3.title"
+msgid "Disconnect"
+msgstr "切断"
+
+#. CHARACTER_DESCRIPTIONS.random
+msgctxt "CHARACTER_DESCRIPTIONS.random"
+msgid "Anybody could be under that hat"
+msgstr "誰でも被れる帽子"
+
+#. CHARACTER_DESCRIPTIONS.walter
+msgctxt "CHARACTER_DESCRIPTIONS.walter"
+msgid "*Not afraid of anything, except getting hurt \n*Good with a slingshot \n*Has a four-legged friend \n*Allergic to bees \n*Has no interest in fashion"
+msgstr "*ケガ以外に恐れるものはなし \n*パチンコが得意 \n*友達は犬のウォービー \n*ハチアレルギー \n*ファッションには興味なし"
+
+#. CHARACTER_DESCRIPTIONS.wanda
+msgctxt "CHARACTER_DESCRIPTIONS.wanda"
+msgid "*Has excellent time management skills \n*Only as old as she feels \n*In a constant race against the clock"
+msgstr "* 時間管理が得意\n* 年齢を自分で決められる\n* 常に時間に追われている"
+
+#. CHARACTER_DESCRIPTIONS.warly
+msgctxt "CHARACTER_DESCRIPTIONS.warly"
+msgid "*Has his own line of custom portable cookware \n*Can spice things up \n*Has an insatiable appetite \n*Only eats gourmet food"
+msgstr "*自分専用のポータブル調理器具を持つ \n*気分転換は得意 \n*食欲はブラックホール級 \n*グルメ料理しか食べない"
+
+#. CHARACTER_DESCRIPTIONS.wathgrithr
+msgctxt "CHARACTER_DESCRIPTIONS.wathgrithr"
+msgid "*Excels in battle \n*Absorbs the power of fallen foes \n*Performs well under pressure \n*Only eats meat"
+msgstr "* バトルが得意\n* 倒した敵のパワーを吸収\n* プレッシャーに強い\n* 肉食主義者"
+
+#. CHARACTER_DESCRIPTIONS.waxwell
+msgctxt "CHARACTER_DESCRIPTIONS.waxwell"
+msgid "*Is dapper, but frail \n*Can split his mind into pieces \n*Was once the king of the world"
+msgstr "＊ ダンディだけど体は弱い\n＊ 自分の魂を複数に分割できる\n＊ この世界の元王者"
+
+#. CHARACTER_DESCRIPTIONS.webber
+msgctxt "CHARACTER_DESCRIPTIONS.webber"
+msgid "*Is a monster \n*Can befriend spiders \n*Grows a silky smooth beard"
+msgstr "*はモンスター\n*クモと友達になれる\n*シルクのような滑らかなヒゲを生やす"
+
+#. CHARACTER_DESCRIPTIONS.wendy
+msgctxt "CHARACTER_DESCRIPTIONS.wendy"
+msgid "*Is haunted by her twin sister \n*Feels comfortable in the dark \n*Dabbles in Ectoherbology \n*Doesn't hit very hard"
+msgstr "*双子の姉妹の霊に憑りつかれている \n*暗い場所も平気 \n*幽霊薬草学を勉強中 \n*攻撃力が低い"
+
+#. CHARACTER_DESCRIPTIONS.wes
+msgctxt "CHARACTER_DESCRIPTIONS.wes"
+msgid "*Can't talk \n*Practices balloonomancy \n*Is not a skilled fighter or worker \n*Has trouble staying alive"
+msgstr "* 話せない\n* 風船魔術を勉強中\n* 戦闘能力も技術力も低い\n* 生命の危機に直面しやすい"
+
+#. CHARACTER_DESCRIPTIONS.wickerbottom
+msgctxt "CHARACTER_DESCRIPTIONS.wickerbottom"
+msgid "*Knows many things \n*Self-publishes books \n*Suffers from insomnia \n*Has a delicate stomach"
+msgstr "*知識が豊富 \n*本を自費出版している \n*不眠症 \n*お腹が弱い"
+
+#. CHARACTER_DESCRIPTIONS.willow
+msgctxt "CHARACTER_DESCRIPTIONS.willow"
+msgid "*Has a fondness for fire, but hates the cold \n*Protected by her cuddly bear, Bernie\n*Has a reliable lighter"
+msgstr "*火を好み冷気を嫌う \n*テディベアのバーニーに守られている \n*ライターを持っている"
+
+#. CHARACTER_DESCRIPTIONS.wilson
+msgctxt "CHARACTER_DESCRIPTIONS.wilson"
+msgid "\n*Grows a magnificent beard"
+msgstr "\n*すごいヒゲが生える"
+
+#. CHARACTER_DESCRIPTIONS.winona
+msgctxt "CHARACTER_DESCRIPTIONS.winona"
+msgid "*Is a skilled builder\n*Gets one free hit from the dark\n*Invents her own gadgets"
+msgstr "*手練れの職人\n*暗闇からの攻撃を一度回避できる\n*自分専用ガジェットを作れる"
+
+#. CHARACTER_DESCRIPTIONS.wolfgang
+msgctxt "CHARACTER_DESCRIPTIONS.wolfgang"
+msgid "*Works hard to grow mighty \n*Becomes wimpy without regular exercise \n*Can carry heavy objects with ease \n*Is afraid of monsters and the dark"
+msgstr "*強くなるために努力している\n*定期的に運動をしないと弱気になる\n*簡単に重いものを運ぶことができる\n*暗闇とモンスターに弱い"
+
+#. CHARACTER_DESCRIPTIONS.woodie
+msgctxt "CHARACTER_DESCRIPTIONS.woodie"
+msgid "*Has a lovely axe... \n*And is at war with the forest \n*Suffers from the curse of the Werebeaver! \n*And the Weremoose and the Weregoose... \n*Is thankful for bountiful harvests"
+msgstr "*愛する斧を持つ \n*森と戦争中 \n*ビーバー男の呪いにかかっている \n*さらにムース男とガチョウ男の呪い持ち… \n*豊かな収穫に感謝している"
+
+#. CHARACTER_DESCRIPTIONS.woodie_canada
+msgctxt "CHARACTER_DESCRIPTIONS.woodie_canada"
+msgid "*Has a lovely axe... \n*And is at war with the forest \n*Suffers from the curse of the Werebeaver! \n*And the Weremoose and the Weregoose... \n*Celebrates Thanksgiving at the correct time"
+msgstr "*愛する斧を持つ \n*森と戦争中 \n*ビーバー男の呪いにかかっている \n*さらにムース男とガチョウ男の呪い持ち… \n*カナダの日程で正しく感謝祭を祝う"
+
+#. CHARACTER_DESCRIPTIONS.woodie_us
+msgctxt "CHARACTER_DESCRIPTIONS.woodie_us"
+msgid "*Has a lovely axe... \n*And is at war with the forest \n*Suffers from the curse of the Werebeaver! \n*And the Weremoose and the Weregoose... \n*Celebrates Thanksgiving too early"
+msgstr "*愛する斧を持つ \n*森と戦争中 \n*ビーバー男の呪いにかかっている \n*さらにムース男とガチョウ男の呪い持ち… \n*感謝祭を祝う日付がアメリカより早い"
+
+#. CHARACTER_DESCRIPTIONS.wormwood
+msgctxt "CHARACTER_DESCRIPTIONS.wormwood"
+msgid "*Plants relate to him \n*Saddened when plants are killed \n*Has a Green Thumb \n*Food fills his stomach, but not his heart"
+msgstr "*植物と友好関係 \n*植物が倒されると悲しくなる \n*園芸の才能がある \n*食糧でお腹は回復するが心は回復しない"
+
+#. CHARACTER_DESCRIPTIONS.wortox
+msgctxt "CHARACTER_DESCRIPTIONS.wortox"
+msgid "*Is an imp \n*Can hop through time and space \n*Less nourished by physical food"
+msgstr "*小悪魔\n*時空を飛び越えることができる\n*物理的食事ではあまり養分を得られない"
+
+#. CHARACTER_DESCRIPTIONS.wurt
+msgctxt "CHARACTER_DESCRIPTIONS.wurt"
+msgid "*At home in the swamp \n*Has big plans for Merm-kind \n*Is a vegetarian"
+msgstr "*沼地の自宅にいる\n*マームたちのための大計画を企んでいる\n*ベジタリアン"
+
+#. CHARACTER_DESCRIPTIONS.wx78
+msgctxt "CHARACTER_DESCRIPTIONS.wx78"
+msgid "*Can upgrade with circuits \n*Not a picky eater \n*Is charged by lightning, but damaged by water"
+msgstr "*回路でアップグレード\n*食べ物の好き嫌いナシ\n*稲妻でチャージ、ぬれるとダメージ"
+
+#. CHARACTER_DETAILS.CHARACTER_DESCRIPTION_TITLE
+msgctxt "CHARACTER_DETAILS.CHARACTER_DESCRIPTION_TITLE"
+msgid "Perks & Quirks"
+msgstr "ボーナスと癖"
+
+#. CHARACTER_DETAILS.CHARACTER_QUOTE_TITLE
+msgctxt "CHARACTER_DETAILS.CHARACTER_QUOTE_TITLE"
+msgid "Quote"
+msgstr "発言"
+
+#. CHARACTER_DETAILS.STARTING_ITEMS_NONE
+msgctxt "CHARACTER_DETAILS.STARTING_ITEMS_NONE"
+msgid "Nothing in hand"
+msgstr "何も持っていない"
+
+#. CHARACTER_DETAILS.STARTING_ITEMS_TITLE
+msgctxt "CHARACTER_DETAILS.STARTING_ITEMS_TITLE"
+msgid "Enters the Constant With"
+msgstr "ゲームスタート時の所持品"
+
+#. CHARACTER_DETAILS.STAT_UNKNOW
+msgctxt "CHARACTER_DETAILS.STAT_UNKNOW"
+msgid "?"
+msgstr "？"
+
+#. CHARACTER_DETAILS.SURVIVABILITY_TITLE
+msgctxt "CHARACTER_DETAILS.SURVIVABILITY_TITLE"
+msgid "Odds of Survival"
+msgstr "生存率"
+
+#. CHARACTER_DETAILS.VIDEO_BUTTON
+msgctxt "CHARACTER_DETAILS.VIDEO_BUTTON"
+msgid "Play Animated Short"
+msgstr "アニメを短くする"
+
+#. CHARACTER_NAMES.random
+msgctxt "CHARACTER_NAMES.random"
+msgid "Random"
+msgstr "ランダム"
+
+#. CHARACTER_NAMES.unknown
+msgctxt "CHARACTER_NAMES.unknown"
+msgid "The Unknown"
+msgstr "正体不明"
+
+#. CHARACTER_NAMES.walter
+msgctxt "CHARACTER_NAMES.walter"
+msgid "Walter"
+msgstr "ウォルター"
+
+#. CHARACTER_NAMES.wanda
+msgctxt "CHARACTER_NAMES.wanda"
+msgid "Wanda"
+msgstr "ワンダ"
+
+#. CHARACTER_NAMES.warly
+msgctxt "CHARACTER_NAMES.warly"
+msgid "Warly"
+msgstr "ワーリー"
+
+#. CHARACTER_NAMES.wathgrithr
+msgctxt "CHARACTER_NAMES.wathgrithr"
+msgid "Wigfrid"
+msgstr "Wigfrid"
+
+#. CHARACTER_NAMES.waxwell
+msgctxt "CHARACTER_NAMES.waxwell"
+msgid "Maxwell"
+msgstr "Maxwell"
+
+#. CHARACTER_NAMES.webber
+msgctxt "CHARACTER_NAMES.webber"
+msgid "Webber"
+msgstr "Webber"
+
+#. CHARACTER_NAMES.wendy
+msgctxt "CHARACTER_NAMES.wendy"
+msgid "Wendy"
+msgstr "Wendy"
+
+#. CHARACTER_NAMES.wes
+msgctxt "CHARACTER_NAMES.wes"
+msgid "Wes"
+msgstr "Wes"
+
+#. CHARACTER_NAMES.wickerbottom
+msgctxt "CHARACTER_NAMES.wickerbottom"
+msgid "Ms. Wickerbottom"
+msgstr "Ms Wickerbottom"
+
+#. CHARACTER_NAMES.willow
+msgctxt "CHARACTER_NAMES.willow"
+msgid "Willow"
+msgstr "Willow"
+
+#. CHARACTER_NAMES.wilson
+msgctxt "CHARACTER_NAMES.wilson"
+msgid "Wilson P. Higgsbury"
+msgstr "Wilson P. Higgsbury"
+
+#. CHARACTER_NAMES.winona
+msgctxt "CHARACTER_NAMES.winona"
+msgid "Winona"
+msgstr "ウィノナ"
+
+#. CHARACTER_NAMES.wolfgang
+msgctxt "CHARACTER_NAMES.wolfgang"
+msgid "Wolfgang"
+msgstr "Wolfgang"
+
+#. CHARACTER_NAMES.woodie
+msgctxt "CHARACTER_NAMES.woodie"
+msgid "Woodie"
+msgstr "Woodie"
+
+#. CHARACTER_NAMES.wormwood
+msgctxt "CHARACTER_NAMES.wormwood"
+msgid "Wormwood"
+msgstr "ワームウッド"
+
+#. CHARACTER_NAMES.wortox
+msgctxt "CHARACTER_NAMES.wortox"
+msgid "Wortox"
+msgstr "ウォルトックス"
+
+#. CHARACTER_NAMES.wurt
+msgctxt "CHARACTER_NAMES.wurt"
+msgid "Wurt"
+msgstr "ワート"
+
+#. CHARACTER_NAMES.wx78
+msgctxt "CHARACTER_NAMES.wx78"
+msgid "WX-78"
+msgstr "WX-78"
+
+#. CHARACTER_QUOTES.random
+msgctxt "CHARACTER_QUOTES.random"
+msgid "Anybody could be under that hat."
+msgstr "帽子の下に隠れているのは…？"
+
+#. CHARACTER_QUOTES.walter
+msgctxt "CHARACTER_QUOTES.walter"
+msgid "\"A Pinetree Pioneer is always prepared!\""
+msgstr "「マツワケ隊は準備を怠らないのさ！」"
+
+#. CHARACTER_QUOTES.wanda
+msgctxt "CHARACTER_QUOTES.wanda"
+msgid "\"Time! I just need more time!\""
+msgstr "「時間よ！もうちょっと時間があればいいのよ！」"
+
+#. CHARACTER_QUOTES.warly
+msgctxt "CHARACTER_QUOTES.warly"
+msgid "\"Nothing worthwhile is ever done on an empty stomach!\""
+msgstr "「腹が減ってちゃ、戦できないネ！」"
+
+#. CHARACTER_QUOTES.wathgrithr
+msgctxt "CHARACTER_QUOTES.wathgrithr"
+msgid "\"All the wörld's a stage. För me!\""
+msgstr "「この世界は我ステージだ。」"
+
+#. CHARACTER_QUOTES.waxwell
+msgctxt "CHARACTER_QUOTES.waxwell"
+msgid "\"Freedom suits me.\""
+msgstr "「やはり私には、自由がふさわしい」"
+
+#. CHARACTER_QUOTES.webber
+msgctxt "CHARACTER_QUOTES.webber"
+msgid "\"We're always together, and never alone!\""
+msgstr "「ひとりじゃないよ！オレたち、ずーっと一緒だよ！」"
+
+#. CHARACTER_QUOTES.wendy
+msgctxt "CHARACTER_QUOTES.wendy"
+msgid "\"Abigail? Come back! I'm not done playing with you.\""
+msgstr "\"Abigail?戻ってきて！まだ君と遊び足りないよ\""
+
+#. CHARACTER_QUOTES.wes
+msgctxt "CHARACTER_QUOTES.wes"
+msgid "..."
+msgstr "..."
+
+#. CHARACTER_QUOTES.wickerbottom
+msgctxt "CHARACTER_QUOTES.wickerbottom"
+msgid "\"Shhhh! No talking!\""
+msgstr "\"シー！しゃべらないで！\""
+
+#. CHARACTER_QUOTES.willow
+msgctxt "CHARACTER_QUOTES.willow"
+msgid "\"All will bathe in the prettiest of flames.\""
+msgstr "「キラキラの炎で、ぜーんぶ包んであげる」"
+
+#. CHARACTER_QUOTES.wilson
+msgctxt "CHARACTER_QUOTES.wilson"
+msgid "\"I'll conquer this world with the power of my MIND!\""
+msgstr "「僕の天才的頭脳を駆使して、必ず生き延びてみせる！」"
+
+#. CHARACTER_QUOTES.winona
+msgctxt "CHARACTER_QUOTES.winona"
+msgid "\"Anything can be fixed with hard work and elbow grease.\""
+msgstr "「腕によりをかければ直せないものなんてないのさ。」"
+
+#. CHARACTER_QUOTES.wolfgang
+msgctxt "CHARACTER_QUOTES.wolfgang"
+msgid "\"I am mighty! No one is mightier!\""
+msgstr "\"ボクちゃんは強いぞ！誰にも負けはしない！\""
+
+#. CHARACTER_QUOTES.woodie
+msgctxt "CHARACTER_QUOTES.woodie"
+msgid "\"That's a nice lookin' tree, eh? Not for long.\""
+msgstr "「こいつぁ、倒しがいのありそうな木だ」"
+
+#. CHARACTER_QUOTES.wormwood
+msgctxt "CHARACTER_QUOTES.wormwood"
+msgid "\"Hello friend?\""
+msgstr "「やあ、トモダチ？」"
+
+#. CHARACTER_QUOTES.wortox
+msgctxt "CHARACTER_QUOTES.wortox"
+msgid "\"Pardon me if I don't shake your hand.\""
+msgstr "「握手できなくてゴメンだよ」"
+
+#. CHARACTER_QUOTES.wurt
+msgctxt "CHARACTER_QUOTES.wurt"
+msgid "\"Mermfolk known for hos-per-tality, florp.\""
+msgstr "「マーム族はオモテナシで有名なんだよ、フシュー」"
+
+#. CHARACTER_QUOTES.wx78
+msgctxt "CHARACTER_QUOTES.wx78"
+msgid "\"EMPATHY MODULE NOT RESPONDING\""
+msgstr "\"同情モジュールが応答しません\""
+
+#. CHARACTER_SURVIVABILITY.default
+msgctxt "CHARACTER_SURVIVABILITY.default"
+msgid "Unknown"
+msgstr "未知"
+
+#. CHARACTER_SURVIVABILITY.random
+msgctxt "CHARACTER_SURVIVABILITY.random"
+msgid "Unknown"
+msgstr "未知"
+
+#. CHARACTER_SURVIVABILITY.walter
+msgctxt "CHARACTER_SURVIVABILITY.walter"
+msgid "Slim"
+msgstr "スリム"
+
+#. CHARACTER_SURVIVABILITY.wanda
+msgctxt "CHARACTER_SURVIVABILITY.wanda"
+msgid "Grim"
+msgstr "グリム"
+
+#. CHARACTER_SURVIVABILITY.warly
+msgctxt "CHARACTER_SURVIVABILITY.warly"
+msgid "Grim"
+msgstr "グリム"
+
+#. CHARACTER_SURVIVABILITY.wathgrithr
+msgctxt "CHARACTER_SURVIVABILITY.wathgrithr"
+msgid "Slim"
+msgstr "スリム"
+
+#. CHARACTER_SURVIVABILITY.waxwell
+msgctxt "CHARACTER_SURVIVABILITY.waxwell"
+msgid "Grim"
+msgstr "グリム"
+
+#. CHARACTER_SURVIVABILITY.webber
+msgctxt "CHARACTER_SURVIVABILITY.webber"
+msgid "Grim"
+msgstr "グリム"
+
+#. CHARACTER_SURVIVABILITY.wendy
+msgctxt "CHARACTER_SURVIVABILITY.wendy"
+msgid "Slim"
+msgstr "スリム"
+
+#. CHARACTER_SURVIVABILITY.wes
+msgctxt "CHARACTER_SURVIVABILITY.wes"
+msgid "None"
+msgstr "なし"
+
+#. CHARACTER_SURVIVABILITY.wickerbottom
+msgctxt "CHARACTER_SURVIVABILITY.wickerbottom"
+msgid "Grim"
+msgstr "グリム"
+
+#. CHARACTER_SURVIVABILITY.willow
+msgctxt "CHARACTER_SURVIVABILITY.willow"
+msgid "Slim"
+msgstr "スリム"
+
+#. CHARACTER_SURVIVABILITY.wilson
+msgctxt "CHARACTER_SURVIVABILITY.wilson"
+msgid "Slim"
+msgstr "スリム"
+
+#. CHARACTER_SURVIVABILITY.winona
+msgctxt "CHARACTER_SURVIVABILITY.winona"
+msgid "Slim"
+msgstr "スリム"
+
+#. CHARACTER_SURVIVABILITY.wolfgang
+msgctxt "CHARACTER_SURVIVABILITY.wolfgang"
+msgid "Grim"
+msgstr "グリム"
+
+#. CHARACTER_SURVIVABILITY.woodie
+msgctxt "CHARACTER_SURVIVABILITY.woodie"
+msgid "Slim"
+msgstr "スリム"
+
+#. CHARACTER_SURVIVABILITY.wormwood
+msgctxt "CHARACTER_SURVIVABILITY.wormwood"
+msgid "Grim"
+msgstr "グリム"
+
+#. CHARACTER_SURVIVABILITY.wortox
+msgctxt "CHARACTER_SURVIVABILITY.wortox"
+msgid "Grim"
+msgstr "グリム"
+
+#. CHARACTER_SURVIVABILITY.wurt
+msgctxt "CHARACTER_SURVIVABILITY.wurt"
+msgid "Slim"
+msgstr "スリム"
+
+#. CHARACTER_SURVIVABILITY.wx78
+msgctxt "CHARACTER_SURVIVABILITY.wx78"
+msgid "Grim"
+msgstr "グリム"
+
+#. CHARACTER_TITLES.walter
+msgctxt "CHARACTER_TITLES.walter"
+msgid "The Fearless"
+msgstr "怖いもの知らず"
+
+#. CHARACTER_TITLES.wanda
+msgctxt "CHARACTER_TITLES.wanda"
+msgid "The Timekeeper"
+msgstr "時間を守りし者"
+
+#. CHARACTER_TITLES.warly
+msgctxt "CHARACTER_TITLES.warly"
+msgid "The Culinarian"
+msgstr "孤高の料理人"
+
+#. CHARACTER_TITLES.wathgrithr
+msgctxt "CHARACTER_TITLES.wathgrithr"
+msgid "The Performance Artist"
+msgstr "パフォーマンスアーティスト"
+
+#. CHARACTER_TITLES.waxwell
+msgctxt "CHARACTER_TITLES.waxwell"
+msgid "The Puppet Master"
+msgstr "人形師"
+
+#. CHARACTER_TITLES.webber
+msgctxt "CHARACTER_TITLES.webber"
+msgid "The Indigestible"
+msgstr "不可解"
+
+#. CHARACTER_TITLES.wendy
+msgctxt "CHARACTER_TITLES.wendy"
+msgid "The Bereaved"
+msgstr "残された者"
+
+#. CHARACTER_TITLES.wes
+msgctxt "CHARACTER_TITLES.wes"
+msgid "The Silent"
+msgstr "静寂"
+
+#. CHARACTER_TITLES.wickerbottom
+msgctxt "CHARACTER_TITLES.wickerbottom"
+msgid "The Librarian"
+msgstr "図書館員"
+
+#. CHARACTER_TITLES.willow
+msgctxt "CHARACTER_TITLES.willow"
+msgid "The Firestarter"
+msgstr "火の仕掛け人"
+
+#. CHARACTER_TITLES.wilson
+msgctxt "CHARACTER_TITLES.wilson"
+msgid "The Gentleman Scientist"
+msgstr "紳士的な科学者"
+
+#. CHARACTER_TITLES.winona
+msgctxt "CHARACTER_TITLES.winona"
+msgid "The Handywoman"
+msgstr "職人"
+
+#. CHARACTER_TITLES.wolfgang
+msgctxt "CHARACTER_TITLES.wolfgang"
+msgid "The Strongman"
+msgstr "凄腕の男"
+
+#. CHARACTER_TITLES.woodie
+msgctxt "CHARACTER_TITLES.woodie"
+msgid "The Lumberjack"
+msgstr "木こり"
+
+#. CHARACTER_TITLES.wormwood
+msgctxt "CHARACTER_TITLES.wormwood"
+msgid "The Lonesome"
+msgstr "孤独な子"
+
+#. CHARACTER_TITLES.wortox
+msgctxt "CHARACTER_TITLES.wortox"
+msgid "The Soul Starved"
+msgstr "魂に飢えるもの"
+
+#. CHARACTER_TITLES.wurt
+msgctxt "CHARACTER_TITLES.wurt"
+msgid "The Half-Pint"
+msgstr "ちびちゃん"
+
+#. CHARACTER_TITLES.wx78
+msgctxt "CHARACTER_TITLES.wx78"
+msgid "The Soulless Automaton"
+msgstr "魂のない自動装置"
+

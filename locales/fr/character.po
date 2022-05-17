@@ -1,0 +1,1170 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. CHARACTER_ABOUTME.walter
+msgctxt "CHARACTER_ABOUTME.walter"
+msgid "Walter is an odd but cheerful boy, whose ability to assess danger leaves something to be desired."
+msgstr "Walter est un garçon étrange mais enthousiaste, dont la capacité à estimer le danger laisser parfois à désirer."
+
+#. CHARACTER_ABOUTME.wanda
+msgctxt "CHARACTER_ABOUTME.wanda"
+msgid "Wanda is a skilled clockmaker who will stop at nothing to outrun her future."
+msgstr "Wanda est une horlogère talentueuse qui ne reculera devant rien pour fuir son futur."
+
+#. CHARACTER_ABOUTME.warly
+msgctxt "CHARACTER_ABOUTME.warly"
+msgid "To Warly, cooking is a language through which to express love and gratitude to those he holds dear."
+msgstr "Pour Warly, la cuisine est une langue qui permet d'exprimer son amour et son infinie gratitude à ses êtres chers."
+
+#. CHARACTER_ABOUTME.wathgrithr
+msgctxt "CHARACTER_ABOUTME.wathgrithr"
+msgid "Whoever Wigfrid was before her titular role has been lost to time, and the power of method acting."
+msgstr "Qui était Wigfrid avant son premier rôle, le temps passé et le pouvoir de la Méthode ne permettent plus de le dire."
+
+#. CHARACTER_ABOUTME.waxwell
+msgctxt "CHARACTER_ABOUTME.waxwell"
+msgid "Formerly the Shadow King, lately Maxwell finds himself reacquainted with life among the commonfolk."
+msgstr "Anciennement Maître des marionnettes, le Maxwell d'aujourd'hui retrouve la vie parmi les gens ordinaires."
+
+#. CHARACTER_ABOUTME.webber
+msgctxt "CHARACTER_ABOUTME.webber"
+msgid "Webber is a polite young monster who cares deeply for all his friends, human or otherwise."
+msgstr "Webber est un jeune monstre poli qui se soucie beaucoup de tous ses amis, qu'ils soient humains ou non."
+
+#. CHARACTER_ABOUTME.wendy
+msgctxt "CHARACTER_ABOUTME.wendy"
+msgid "Wendy is a morose young lady with a sisterly bond so powerful, it transcends death itself."
+msgstr "Wendy est une jeune fille morbide tellement liée à sa sœur que ce lien dépasse les frontières de la mort."
+
+#. CHARACTER_ABOUTME.wes
+msgctxt "CHARACTER_ABOUTME.wes"
+msgid "Wes is a mime of many thoughts, but few words."
+msgstr "Wes est un mime qui pense beaucoup, mais parle peu."
+
+#. CHARACTER_ABOUTME.wickerbottom
+msgctxt "CHARACTER_ABOUTME.wickerbottom"
+msgid "A woman of curious mind and stern air, Wickerbottom thrives on the lifelong pursuit of knowledge."
+msgstr "Femme à l'esprit curieux et l'air sévère, Wickerbottom ne vit que pour accroître sans cesse ses connaissances."
+
+#. CHARACTER_ABOUTME.willow
+msgctxt "CHARACTER_ABOUTME.willow"
+msgid "Willow is a candid woman whose penchant for fire often gets her into more than a little trouble."
+msgstr "Willow est une jeune femme sincère, dont le penchant pour le feu lui attire des problèmes plus souvent qu'à son tour."
+
+#. CHARACTER_ABOUTME.wilson
+msgctxt "CHARACTER_ABOUTME.wilson"
+msgid "At heart Wilson is truly a man of science. It's not in his nature to resist the call of the unknown."
+msgstr "Au plus profond de lui, Wilson est un scientifique. Il n'est pas dans sa nature de résister à l'appel de l'inconnu."
+
+#. CHARACTER_ABOUTME.winona
+msgctxt "CHARACTER_ABOUTME.winona"
+msgid "Winona is a former assembly line worker with a boisterous attitude and love of all things mechanical."
+msgstr "Ancienne ouvrière sur une ligne d'assemblage, Winona est furieusement passionnée par tout ce qui relève de la mécanique."
+
+#. CHARACTER_ABOUTME.wolfgang
+msgctxt "CHARACTER_ABOUTME.wolfgang"
+msgid "Wolfgang is an affable, musclebound giant with a heart plagued by a myriad of phobias."
+msgstr "Wolfgang est un géant affable et musclé, dont le cœur est assailli par une myriade de phobies."
+
+#. CHARACTER_ABOUTME.woodie
+msgctxt "CHARACTER_ABOUTME.woodie"
+msgid "A gruff, bearded woodsman, Woodie has a soft spot for nature, plaid, and his trusty axe, Lucy."
+msgstr "Bûcheron barbu et bourru, Woodie en pince pour la nature, le tissu écossais et sa fidèle hache, Lucy."
+
+#. CHARACTER_ABOUTME.wormwood
+msgctxt "CHARACTER_ABOUTME.wormwood"
+msgid "An amalgam of vines given sentience by lunar magic, Wormwood searches for friends so he can finally belong."
+msgstr "Wormwood est une masse de racines entortillées que la magie de la lune a doté d'une conscience. Il se cherche des amis."
+
+#. CHARACTER_ABOUTME.wortox
+msgctxt "CHARACTER_ABOUTME.wortox"
+msgid "Wortox is a mischievous imp whose levity masks a deep well of guilt. He has taken many souls in his time."
+msgstr "Wortox est un diablotin espiègle dont la légèreté masque un profond sentiment de culpabilité. Il a déjà pris bon nombre d'âmes à l'heure qu'il est."
+
+#. CHARACTER_ABOUTME.wurt
+msgctxt "CHARACTER_ABOUTME.wurt"
+msgid "Wurt is a curious young Merm trying to expand her horizons... as long as those horizons don't extend into Pig territory."
+msgstr "Wurt est une jeune merm curieuse qui a soif d'exploration... tant que ça ne la mène pas sur le territoire des cochons."
+
+#. CHARACTER_ABOUTME.wx78
+msgctxt "CHARACTER_ABOUTME.wx78"
+msgid "One might assume WX's callous nature hides a sensitive inner soul. One would assume incorrectly."
+msgstr "On pourrait penser que la dure nature de WX cache une âme sensible. On pourrait alors se tromper."
+
+#. CHARACTER_BIOS.walter.1.desc
+msgctxt "CHARACTER_BIOS.walter.1.desc"
+msgid "March 31"
+msgstr "31 mars"
+
+#. CHARACTER_BIOS.walter.1.title
+msgctxt "CHARACTER_BIOS.walter.1.title"
+msgid "Birthday"
+msgstr "Anniversaire"
+
+#. CHARACTER_BIOS.walter.2.desc
+msgctxt "CHARACTER_BIOS.walter.2.desc"
+msgid "Trail Mix"
+msgstr "Mélange montagnard"
+
+#. CHARACTER_BIOS.walter.2.title
+msgctxt "CHARACTER_BIOS.walter.2.title"
+msgid "Favorite Food"
+msgstr "Plat préféré"
+
+#. CHARACTER_BIOS.walter.3.desc
+msgctxt "CHARACTER_BIOS.walter.3.desc"
+msgid "The only thing that could ever rival Walter's love for the great outdoors was his fascination with monsters and mystery. Nothing captured his interest more than a spooky story heard over the radio or a local legend about an elusive cryptid.\nIt was that pursuit of the unknown that eventually led him to the Constant. While searching for a man who Walter believed would have answers to his questions about a mysterious creature rumored to live in the woods, he instead came upon an abandoned cabin. The owner seemed to have left hastily, leaving all their belongings behind... including an odd radio that miraculously still seemed to be working. With curiosity getting the better of him he investigated the radio further, springing a trap that had lain dormant for years...\nNow finding himself trapped in the Constant, Walter has befriended another lost soul - a scruffy dog named Woby. Though much about her remains a mystery, Walter has vowed to one day return her to her rightful home (after all, returning lost dogs is the Pinetree Pioneer thing to do)."
+msgstr "L'amour de Walter pour les grands espaces n'a d'égal que sa fascination pour les monstres et les mystères. Rien ne retient plus son intérêt qu'une histoire effrayante à la radio ou une légende urbaine sur une créature surnaturelle insaisissable.\nC'est sa soif d'inconnu qui l'a mené au Constant. Alors que Walter cherchait un homme qu'il pensait capable de répondre à ses questions sur une créature étrange vivant dans les bois, il est tombé sur une cabane abandonnée. Son propriétaire semblait être parti précipitamment, laissant toutes ses affaires derrière lui... dont une étrange radio qui, miraculeusement, fonctionnait encore. Dévoré par la curiosité, il examina la radio plus en détail, déclenchant un piège qui était resté inactif pendant des années...\nDésormais piégé dans le Constant, Walter est devenu ami avec une autre âme errante, une chienne miteuse nommée Woby. Si son existence reste un mystère, Walter lui a juré de la ramener chez elle. Après tout, retrouver un foyer à un chien perdu est un des devoirs des Scouts toujours."
+
+#. CHARACTER_BIOS.walter.3.title
+msgctxt "CHARACTER_BIOS.walter.3.title"
+msgid "Constant Companion"
+msgstr "Compagnon fiable"
+
+#. CHARACTER_BIOS.wanda.1.desc
+msgctxt "CHARACTER_BIOS.wanda.1.desc"
+msgid "August 8"
+msgstr "8 août"
+
+#. CHARACTER_BIOS.wanda.1.title
+msgctxt "CHARACTER_BIOS.wanda.1.title"
+msgid "Birthday"
+msgstr "Anniversaire"
+
+#. CHARACTER_BIOS.wanda.2.desc
+msgctxt "CHARACTER_BIOS.wanda.2.desc"
+msgid "Taffy"
+msgstr "Bonbons"
+
+#. CHARACTER_BIOS.wanda.2.title
+msgctxt "CHARACTER_BIOS.wanda.2.title"
+msgid "Favorite Food"
+msgstr "Plat préféré"
+
+#. CHARACTER_BIOS.wanda.3.desc
+msgctxt "CHARACTER_BIOS.wanda.3.desc"
+msgid "An enigmatic woman of... well, fluctuating age, Wanda was torn from the world she knew after accidentally creating a fracture in time and space, pulling her from her own timeline into the land of the Constant. Though she avoids divulging many details of her past with the other Survivors, she seems to have an odd familiarity with them, as though she's run into them before... or perhaps, later?"
+msgstr "Une femme énigmatique d'un âge... variable. Wanda a été arrachée de son monde d'origine après avoir accidentellement créé une faille dans l'espace-temps, la propulsant depuis sa ligne temporelle sur les terres du Constant. Elle évite de révéler de nombreux détails de son passé aux autres survivants, mais elle semble étrangement bien les connaître, comme si elle les avait rencontrés auparavant... ou plutôt, plus tard ?"
+
+#. CHARACTER_BIOS.wanda.3.title
+msgctxt "CHARACTER_BIOS.wanda.3.title"
+msgid "Long Shadows"
+msgstr "Des ombres éternelles"
+
+#. CHARACTER_BIOS.warly.1.desc
+msgctxt "CHARACTER_BIOS.warly.1.desc"
+msgid "July 25"
+msgstr "25 juillet"
+
+#. CHARACTER_BIOS.warly.1.title
+msgctxt "CHARACTER_BIOS.warly.1.title"
+msgid "Birthday"
+msgstr "Anniversaire"
+
+#. CHARACTER_BIOS.warly.2.desc
+msgctxt "CHARACTER_BIOS.warly.2.desc"
+msgid "Warly could never pick a favorite, a connoisseur of great food must always be expanding his palate."
+msgstr "Warly n'a jamais pu se décider. Un expert en gastronomie doit sans cesse exercer son palais."
+
+#. CHARACTER_BIOS.warly.2.title
+msgctxt "CHARACTER_BIOS.warly.2.title"
+msgid "Favorite Food"
+msgstr "Plat préféré"
+
+#. CHARACTER_BIOS.warly.3.desc
+msgctxt "CHARACTER_BIOS.warly.3.desc"
+msgid "Warly left a promising career as a sous chef in Paris to return home and care for his aging mother Angeline, whose memory had begun to deteriorate. His world soon revolved around telling her stories about her life, playing her favorite music, cooking the recipes she had taught him when he was young... all in the hopes of catching that spark of recognition in her eyes. As time went on and Angeline's moments of clarity became fewer and farther in-between, Warly became more desperate, willing to try anything to bring back his beloved Maman...\nThat was when he first started hearing the voice on the radio."
+msgstr "Warly a quitté une carrière prometteuse de sous-chef à Paris pour retourner chez lui, s'occuper d'Angeline, sa mère, dont la mémoire devenait défaillante. Sa vie s'est rapidement résumée à lui raconter des histoires sur la vie qu'elle avait auparavant, à lui jouer de la musique et à lui préparer les plats qu'elle lui faisait quand il était jeune... dans l'espoir de voir une étincelle de reconnaissance dans ses yeux. Au fil du temps, les moments de lucidité d'Angeline se raréfièrent de plus en plus et Warly dépérit, prêt à faire n'importe quoi pour retrouver sa chère maman d'avant...\nC'est à ce moment-là qu'il entendit la voix à la radio pour la première fois."
+
+#. CHARACTER_BIOS.warly.3.title
+msgctxt "CHARACTER_BIOS.warly.3.title"
+msgid "Taste of Home"
+msgstr "Le goût de chez soi"
+
+#. CHARACTER_BIOS.wathgrithr.1.desc
+msgctxt "CHARACTER_BIOS.wathgrithr.1.desc"
+msgid "July 23"
+msgstr "23 juillet"
+
+#. CHARACTER_BIOS.wathgrithr.1.title
+msgctxt "CHARACTER_BIOS.wathgrithr.1.title"
+msgid "Birthday"
+msgstr "Anniversaire"
+
+#. CHARACTER_BIOS.wathgrithr.2.desc
+msgctxt "CHARACTER_BIOS.wathgrithr.2.desc"
+msgid "Turkey Dinner"
+msgstr "Dinde au pot"
+
+#. CHARACTER_BIOS.wathgrithr.2.title
+msgctxt "CHARACTER_BIOS.wathgrithr.2.title"
+msgid "Favorite Food"
+msgstr "Plat préféré"
+
+#. CHARACTER_BIOS.wathgrithr.3.desc
+msgctxt "CHARACTER_BIOS.wathgrithr.3.desc"
+msgid "Wigfrid always knew she was meant for the stage. Her debut performance was an instant sensation, launching her from obscurity to overnight stardom. Fans delighted in her portrayal of a noble and fearsome Valkyrie warrior, and she in turn took great pains to fully embody the role. She was perfect for it... perhaps too perfect. Every part she played afterward seemed to fall flat, never again achieving that magical quality that had once drawn audiences to her performances like bees to honey. As Wigfrid's stardom slowly began to fade, she retreated to the memories of her glory days, losing herself in her fantasies...\nUntil one day, she was lost entirely."
+msgstr "Wigfrid a toujours su que sa place était sur scène. Ses débuts ont été tout de suite acclamés, et elle est passée de l'ombre à la lumière des projecteurs en un clin d'œil. Ses fans ont adoré son interprétation de la noble et féroce valkyrie, et en retour, elle a fait de nombreux sacrifices pour l'incarner. Elle était parfaite pour ce rôle... peut-être trop. Chacune de ses autres prestations semblait bien pâle en comparaison, et elle n'a jamais retrouvé ce côté magique qui attirait les foules à venir voir ses pièces. La renommée de Wigfrid disparut lentement, et elle se réfugia dans les souvenirs de sa gloire passée, se perdant peu à peu dans ses illusions...\nJusqu'au jour où elle s'y perdit complètement."
+
+#. CHARACTER_BIOS.wathgrithr.3.title
+msgctxt "CHARACTER_BIOS.wathgrithr.3.title"
+msgid "The Curtain Calls"
+msgstr "Le rappel"
+
+#. CHARACTER_BIOS.waxwell.1.desc
+msgctxt "CHARACTER_BIOS.waxwell.1.desc"
+msgid "October 22"
+msgstr "22 octobre"
+
+#. CHARACTER_BIOS.waxwell.1.title
+msgctxt "CHARACTER_BIOS.waxwell.1.title"
+msgid "Birthday"
+msgstr "Anniversaire"
+
+#. CHARACTER_BIOS.waxwell.2.desc
+msgctxt "CHARACTER_BIOS.waxwell.2.desc"
+msgid "Lobster Dinner"
+msgstr "Dîner de womard"
+
+#. CHARACTER_BIOS.waxwell.2.title
+msgctxt "CHARACTER_BIOS.waxwell.2.title"
+msgid "Favorite Food"
+msgstr "Plat préféré"
+
+#. CHARACTER_BIOS.waxwell.3.desc
+msgctxt "CHARACTER_BIOS.waxwell.3.desc"
+msgid "The former king of the Nightmare Throne and an egomaniac to boot, Maxwell (who earned his name from his former stage persona \"The Amazing Maxwell\") was once the naive and unimposing \"William Carter\", a penniless man from London who dreamt of being a world-renowned magician. When fate put William in possession of the Codex Umbra, he felt true power for the first time in his life. Casting off his old, meek ways and fully embracing his new persona as a charismatic master of dark magic, Maxwell achieved fame and success, but still found himself hungering for more. As he delved deeper and deeper into his magical tome, immersing himself in its secrets, the dark knowledge within addled his mind and clouded his heart. In his final performance, Maxwell lost control of the shadow magic he'd used so brazenly and both he and his stage assistant Charlie were pulled into the Constant. There he would remain for what seemed like an eternity, tethered to the Nightmare Throne and compelled to ensnare more victims in the Constant's trap.\nHe is still baffled by the thought that someone he tricked into the Constant could find it in their heart to set him free... well, baffled and annoyed really. He never liked owing a favor."
+msgstr "L'ancien roi du Trône cauchemardesque à l'égo surdimensionné. Maxwell (dont le nom vient de son personnage de scène, « l'Incroyable Maxwell ») fut un jour le naïf et discret « William Carter », un homme sans le sou vivant à Londres, qui rêvait de devenir un magicien mondialement connu. Quand le destin mit le Codex des Ombres entre les mains de William, il ressentit ce qu'était le véritable pouvoir pour la première fois de sa vie. Il abandonna son humilité et sa timidité pour devenir un maître charismatique de la magie noire. Maxwell connut célébrité et succès, mais n'en avait jamais assez. Sombrant de plus en plus dans son grimoire magique, s'immergeant dans ses plus noirs secrets, le savoir qu'il y trouva obscurcit son esprit et son cœur. Lors de sa dernière prestation, Maxwell perdit le contrôle de la magie des ombres qu'il utilisait impudemment, et son assistante, Charlie, et lui furent jetés dans le Constant. Il y resta pendant ce qui lui sembla être une éternité, lié au Trône cauchemardesque et forcé à attirer d'autres victimes dans le Constant.\nIl est encore retourné par le fait que quelqu'un qu'il a jeté dans le Constant ait pu être assez généreux pour le libérer... retourné et ennuyé, aussi. Il n'a jamais aimé avoir des dettes."
+
+#. CHARACTER_BIOS.waxwell.3.title
+msgctxt "CHARACTER_BIOS.waxwell.3.title"
+msgid "The Nightmare King"
+msgstr "Le roi cauchemardesque"
+
+#. CHARACTER_BIOS.webber.1.desc
+msgctxt "CHARACTER_BIOS.webber.1.desc"
+msgid "April 30"
+msgstr "30 avril"
+
+#. CHARACTER_BIOS.webber.1.title
+msgctxt "CHARACTER_BIOS.webber.1.title"
+msgid "Birthday"
+msgstr "Anniversaire"
+
+#. CHARACTER_BIOS.webber.2.desc
+msgctxt "CHARACTER_BIOS.webber.2.desc"
+msgid "Ice Cream"
+msgstr "Glace"
+
+#. CHARACTER_BIOS.webber.2.title
+msgctxt "CHARACTER_BIOS.webber.2.title"
+msgid "Favorite Food"
+msgstr "Plat préféré"
+
+#. CHARACTER_BIOS.webber.3.desc
+msgctxt "CHARACTER_BIOS.webber.3.desc"
+msgid "Once upon a time, there was a young boy who lived with his family on a small farmstead. Though they lived humbly, the boy's home was filled with love, and he grew up happy and kind. The boy might have lived contentedly for the rest of his days if not for the sudden arrival of an old aquaintance, who came to the house beseeching the boy's father for his expertise on a strange and secretive project..."
+msgstr "Il était une fois un jeune garçon qui vivait avec sa famille dans une petite ferme. Ils vivaient simplement, mais le foyer du jeune garçon était remplie d'amour et il grandit heureux et dans la bienveillance. Le garçon aurait pu vivre heureux jusqu'à la fin de ses jours, mais c'était sans compter sur l'arrivée d'une vieille connaissance, venue pour implorer le père du garçon de l'aider sur un projet étrange et secret..."
+
+#. CHARACTER_BIOS.webber.3.title
+msgctxt "CHARACTER_BIOS.webber.3.title"
+msgid "Along Came a Spider"
+msgstr "Une araignée au plafond"
+
+#. CHARACTER_BIOS.wendy.1.desc
+msgctxt "CHARACTER_BIOS.wendy.1.desc"
+msgid "November 11"
+msgstr "11 novembre"
+
+#. CHARACTER_BIOS.wendy.1.title
+msgctxt "CHARACTER_BIOS.wendy.1.title"
+msgid "Birthday"
+msgstr "Anniversaire"
+
+#. CHARACTER_BIOS.wendy.2.desc
+msgctxt "CHARACTER_BIOS.wendy.2.desc"
+msgid "Banana Pop"
+msgstr "Banane piquée"
+
+#. CHARACTER_BIOS.wendy.2.title
+msgctxt "CHARACTER_BIOS.wendy.2.title"
+msgid "Favorite Food"
+msgstr "Plat préféré"
+
+#. CHARACTER_BIOS.wendy.3.desc
+msgctxt "CHARACTER_BIOS.wendy.3.desc"
+msgid "Wendy's tale of woe began with the untimely loss of her dear sister Abigail. Unable to accept the thought of life without her twin, Wendy began turning to the occult in the hopes of finding some way to communicate with the other side. After much trial and error, seance candles burned down to nubs and spirit boards thrown away in frustration, Wendy was nearly ready to give up and fall into despair... until finally, there was a sign. A ragtime tune might seem like a strange message to send from the great beyond, but Wendy was desperate to grab hold of anything that might bring her closer to her sister. And sure enough, a voice would soon tell her exactly what she needed to do..."
+msgstr "La triste histoire de Wendy commence à la mort soudaine de sa chère sœur Abigail. Incapable d'accepter l'idée de vivre sans sa jumelle, Wendy se tourna vers les forces occultes dans l'espoir de pouvoir communiquer avec l'autre monde. Après de nombreux essais et échecs, des séances aux bougies entièrement consumées et des plateaux ouija jetés de rage, Wendy était sur le point d'abandonner et de se laisser aller au désespoir... jusqu'à ce signe. Une chanson de jazz était-elle vraiment un message de l'au-delà ? En tout cas, Wendy était prête à se raccrocher à tout ce qui pouvait la rapprocher de sa sœur. Et une voix lui dirait alors très vite ce qu'elle avait à faire..."
+
+#. CHARACTER_BIOS.wendy.3.title
+msgctxt "CHARACTER_BIOS.wendy.3.title"
+msgid "Wish You Were Here"
+msgstr "Tu me manques tellement"
+
+#. CHARACTER_BIOS.wes.1.desc
+msgctxt "CHARACTER_BIOS.wes.1.desc"
+msgid "April 16"
+msgstr "16 avril"
+
+#. CHARACTER_BIOS.wes.1.title
+msgctxt "CHARACTER_BIOS.wes.1.title"
+msgid "Birthday"
+msgstr "Anniversaire"
+
+#. CHARACTER_BIOS.wes.2.desc
+msgctxt "CHARACTER_BIOS.wes.2.desc"
+msgid "Fresh Fruit Crepes"
+msgstr "Crêpe aux fruits frais"
+
+#. CHARACTER_BIOS.wes.2.title
+msgctxt "CHARACTER_BIOS.wes.2.title"
+msgid "Favorite Food"
+msgstr "Plat préféré"
+
+#. CHARACTER_BIOS.wes.3.desc
+msgctxt "CHARACTER_BIOS.wes.3.desc"
+msgid "Despite a life plagued by terrible luck, Wes has never been one to utter so much as a word of complaint. Rather than dwell on his own troubles, he has instead dedicated his life to making others smile... even if it's at his own expense.\nHis journey to the Constant itself was nothing if not a tragic comedy of errors. After a series of snowballing missteps, Wes found himself accidentally taking the place of a stranger caught in the grip of a shadowy portal bound for the Constant. His unexpected arrival infuriated the Nightmare King, who quickly exacted his vengeance on the poor mime for interfering with his plans. Wes was banished to his own private prison, far from sight, where he would remain until he was rescued by the Constant's other Survivors (being the kind soul that he is, Wes holds no grudge against Maxwell... though he does continue to give him the silent treatment.)\nHad Wes known what fate awaited him on his last day on Earth, he likely wouldn't have done anything differently. In truth, there is a part of him that is happy to be in the Constant with the other Survivors - for who could be in greater need of cheering up than those poor souls?"
+msgstr "Malgré une vie jonchée de malheurs, Wes ne s'est jamais plaint une seule fois. Plutôt que de se laisser noyer par ses problèmes, il a préféré dédier sa vie à faire sourire les autres... même si c'est à ses dépens.\nMême son voyage dans le Constant n'était qu'une suite d'erreurs tragicomiques. Après une série de maladresses, Wes s'est retrouvé à prendre accidentellement la place d'un inconnu visé par un portail d'ombre menant au Constant. Son arrivée impromptue a rendu le roi cauchemardesque fou de rage, qui s'est prestement vengé sur le pauvre mime qui avait contrarié ses plans. Wes fut banni dans sa propre prison privée, loin des regards, où il fut condamné à rester jusqu'à ce que d'autres survivants du Constant viennent le libérer (ayant le cœur sur la main, Wes n'a aucune rancune envers Maxwell... mais il continue de ne pas lui parler).\nSi Wes avait su ce qui l'attendait lors de son dernier jour sur terre, il n'aurait rien changé. Il est même quelque part heureux d'être dans le Constant avec les autres survivants. Il ne connaît personne d'autre que ces pauvres hères qui ont davantage besoin de sourire."
+
+#. CHARACTER_BIOS.wes.3.title
+msgctxt "CHARACTER_BIOS.wes.3.title"
+msgid "C'est La Vie"
+msgstr "C'est la vie"
+
+#. CHARACTER_BIOS.wickerbottom.1.desc
+msgctxt "CHARACTER_BIOS.wickerbottom.1.desc"
+msgid "December 6"
+msgstr "6 décembre"
+
+#. CHARACTER_BIOS.wickerbottom.1.title
+msgctxt "CHARACTER_BIOS.wickerbottom.1.title"
+msgid "Birthday"
+msgstr "Anniversaire"
+
+#. CHARACTER_BIOS.wickerbottom.2.desc
+msgctxt "CHARACTER_BIOS.wickerbottom.2.desc"
+msgid "Surf 'n' Turf"
+msgstr "Surf & Turf"
+
+#. CHARACTER_BIOS.wickerbottom.2.title
+msgctxt "CHARACTER_BIOS.wickerbottom.2.title"
+msgid "Favorite Food"
+msgstr "Plat préféré"
+
+#. CHARACTER_BIOS.wickerbottom.3.desc
+msgctxt "CHARACTER_BIOS.wickerbottom.3.desc"
+msgid "Is yet to be revealed."
+msgstr "Reste encore inconnu."
+
+#. CHARACTER_BIOS.wickerbottom.3.title
+msgctxt "CHARACTER_BIOS.wickerbottom.3.title"
+msgid "Her Past..."
+msgstr "Son passé..."
+
+#. CHARACTER_BIOS.willow.1.desc
+msgctxt "CHARACTER_BIOS.willow.1.desc"
+msgid "May 7"
+msgstr "7 mai"
+
+#. CHARACTER_BIOS.willow.1.title
+msgctxt "CHARACTER_BIOS.willow.1.title"
+msgid "Birthday"
+msgstr "Anniversaire"
+
+#. CHARACTER_BIOS.willow.2.desc
+msgctxt "CHARACTER_BIOS.willow.2.desc"
+msgid "Spicy Chili"
+msgstr "Chili épicé"
+
+#. CHARACTER_BIOS.willow.2.title
+msgctxt "CHARACTER_BIOS.willow.2.title"
+msgid "Favorite Food"
+msgstr "Plat préféré"
+
+#. CHARACTER_BIOS.willow.3.desc
+msgctxt "CHARACTER_BIOS.willow.3.desc"
+msgid "Willow always regarded being brought to The Constant as a new beginning. It allowed her to leave everything behind, after all. Orphaned at a young age and forced to live in a children's home with cruel caregivers, she found her nights plagued by shadowy visions of terrible creatures... creatures that could only be held at bay by her faithful teddy bear Bernie. But when Bernie was taken away as punishment for what her caregivers saw as unfit behavior, Willow was left to fend for herself when the shadows came for her. That's when she learned that nothing holds back the darkness like a roaring flame. Nothing is more comforting than watching your troubles light up and crumble to ash...\nIt wouldn't be the last time Willow burned it all down to start anew."
+msgstr "Willow s'est toujours dit que son arrivée au Constant était un nouveau départ. Cela lui a permis de faire table rase du passé. Orpheline à un très jeune âge, elle dut vivre dans un foyer tenu par des tuteurs cruels. Ses nuits furent remplies de visions de créatures terrifiantes... Des créatures qu'elle ne pouvait tenir en respect que grâce à son fidèle nounours Bernie. Mais quand ses tuteurs ont considéré qu'elle se comportait mal et l'ont punie en lui confisquant Bernie, Willow se retrouva seule quand les ombres vinrent la chercher. C'est alors qu'elle apprit que rien ne repousse mieux les ténèbres qu'un feu ardent. Rien n'est plus satisfaisant que de voir ses problèmes prendre feu et partir en fumée...\nCe ne serait pas la dernière fois que Willow brûlerait tout pour tout recommencer."
+
+#. CHARACTER_BIOS.willow.3.title
+msgctxt "CHARACTER_BIOS.willow.3.title"
+msgid "From the Ashes"
+msgstr "Réduit en cendres"
+
+#. CHARACTER_BIOS.wilson.1.desc
+msgctxt "CHARACTER_BIOS.wilson.1.desc"
+msgid "April 23"
+msgstr "23 avril"
+
+#. CHARACTER_BIOS.wilson.1.title
+msgctxt "CHARACTER_BIOS.wilson.1.title"
+msgid "Birthday"
+msgstr "Anniversaire"
+
+#. CHARACTER_BIOS.wilson.2.desc
+msgctxt "CHARACTER_BIOS.wilson.2.desc"
+msgid "Bacon and Eggs"
+msgstr "Bacon et œufs"
+
+#. CHARACTER_BIOS.wilson.2.title
+msgctxt "CHARACTER_BIOS.wilson.2.title"
+msgid "Favorite Food"
+msgstr "Plat préféré"
+
+#. CHARACTER_BIOS.wilson.3.desc
+msgctxt "CHARACTER_BIOS.wilson.3.desc"
+msgid "While toiling away in his home laboratory late one night, Wilson was startled to hear a voice on the radio speaking directly to him. At first he feared he'd gone mad from too many late nights of experiments and accidentally-inhaled chemical fumes, but the voice assured him that it was no mere figment of the imagination. In fact, the voice had a proposition for him: if Wilson would build a machine according to their specifications, then he would be rewarded with secret knowledge, the likes of which no one had ever seen. Casting aside his better judgement (after all, what harm could come from making a vague bargain with a mysterious disembodied voice?) Wilson threw himself into constructing the machine. When at long last it was finally completed, the gentleman scientist had a moment of hesitation... a moment that might have saved him from his impending fate, had he been just a bit stronger of will. But at the voice's insistence, Wilson flipped the switch and activated his creation... and was never seen again.\nWell, at least not in this world."
+msgstr "Alors qu'il travaillait chez lui dans son laboratoire, tard dans la nuit, Wilson fut surpris d'entendre une voix à la radio lui parler directement. Au départ, il crut être devenu fou après trop de nuits blanches à faire des expériences, ou à cause de gaz toxiques qu'il aurait respirés. Mais la voix lui assura que ce n'était pas du tout le fruit de son imagination. La voix avait même une proposition à lui faire : si Wilson construisait une machine selon ses instructions, alors elle lui offrirait un savoir secret, que personne n'avait jamais découvert. Oubliant toute raison, (après tout, quel risque y avait-il à marchander avec une mystérieuse voix désincarnée ?) Wilson s'attela à la construction de la machine. Quand elle fut enfin terminée, le scientifique eut un moment d'hésitation... Un moment qui aurait pu le sauver de son sort, si sa volonté avait été plus forte. Mais la voix insista, Wilson activa l'interrupteur et mis sa création en route... et on ne le revit plus jamais.\nEn tout cas, pas dans ce monde-ci."
+
+#. CHARACTER_BIOS.wilson.3.title
+msgctxt "CHARACTER_BIOS.wilson.3.title"
+msgid "Secret Knowledge"
+msgstr "Savoir secret"
+
+#. CHARACTER_BIOS.winona.1.desc
+msgctxt "CHARACTER_BIOS.winona.1.desc"
+msgid "September 13"
+msgstr "13 septembre"
+
+#. CHARACTER_BIOS.winona.1.title
+msgctxt "CHARACTER_BIOS.winona.1.title"
+msgid "Birthday"
+msgstr "Anniversaire"
+
+#. CHARACTER_BIOS.winona.2.desc
+msgctxt "CHARACTER_BIOS.winona.2.desc"
+msgid "Vegetable Stinger"
+msgstr "Boisson épicée vitaminée"
+
+#. CHARACTER_BIOS.winona.2.title
+msgctxt "CHARACTER_BIOS.winona.2.title"
+msgid "Favorite Food"
+msgstr "Plat préféré"
+
+#. CHARACTER_BIOS.winona.3.desc
+msgctxt "CHARACTER_BIOS.winona.3.desc"
+msgid "There is nothing Winona wouldn't do for her family. When her younger sister Charlie disappeared under mysterious circumstances, Winona refused to let the case grow cold and dedicated herself to finding her. For over a decade she tracked down every clue, followed every lead, poked, prodded, and questioned anyone who might have a connection to the case, until all the loose strings started to come together. There was a radio factory, founded by a peculiar old man whose genius was only matched by his secretiveness, that might hold the answers she had sought for so long. Shortly after securing employment at the factory, the building was destroyed in an accident caused by a malfunctioning portal. Having caught sight of someone getting caught in the portal and vanishing, Winona hastily repaired it in the hopes of rescuing them, only to come face to face with her missing sister. Unfortunately, Charlie seemed to be held under the sway of a shadowy influence, and she dragged Winona into the Constant."
+msgstr "Winona ferait n'importe quoi pour sa famille. Quand sa petite sœur Charlie a disparu dans des circonstances mystérieuses, Winona a refusé de classer l'affaire et s'est mise en tête de la retrouver. Pendant plus d'une décennie, elle a relevé chaque indice, suivi chaque piste, interrogé n'importe qui qui pouvait avoir un lien avec l'affaire, jusqu'à ce qu'elle réussisse à rassembler les pièces du puzzle. Il y avait une usine de radios, créée par un vieil homme étrange dont le génie n'avait d'égal que sa discrétion. Peut-être que lui avait les réponses qu'elle cherchait depuis si longtemps. Un peu après avoir décroché un travail à l'usine, le bâtiment fut détruit par un accident causé par le dysfonctionnement d'un portail. Ayant aperçu quelqu'un happé par le portail avant de disparaître, Winona le répara en toute hâte, dans l'espoir de sauver cette personne. Mais c'est sa sœur, qu'elle retrouva. Malheureusement, Charlie semblait être sous l'influence d'une force ténébreuse et elle projeta Winona dans le Constant."
+
+#. CHARACTER_BIOS.winona.3.title
+msgctxt "CHARACTER_BIOS.winona.3.title"
+msgid "Next of Kin"
+msgstr "Parent proche"
+
+#. CHARACTER_BIOS.wolfgang.1.desc
+msgctxt "CHARACTER_BIOS.wolfgang.1.desc"
+msgid "October 2"
+msgstr "2 octobre"
+
+#. CHARACTER_BIOS.wolfgang.1.title
+msgctxt "CHARACTER_BIOS.wolfgang.1.title"
+msgid "Birthday"
+msgstr "Anniversaire"
+
+#. CHARACTER_BIOS.wolfgang.2.desc
+msgctxt "CHARACTER_BIOS.wolfgang.2.desc"
+msgid "Roasted Potato"
+msgstr "Patate rôtie"
+
+#. CHARACTER_BIOS.wolfgang.2.title
+msgctxt "CHARACTER_BIOS.wolfgang.2.title"
+msgid "Favorite Food"
+msgstr "Plat préféré"
+
+#. CHARACTER_BIOS.wolfgang.3.desc
+msgctxt "CHARACTER_BIOS.wolfgang.3.desc"
+msgid "Prior to his time in the Constant, Wolfgang's life revolved around the single-minded pursuit of one goal: to become the strongest man there ever was. His quest would lead him across Europe and eventually even across the Atlantic to America, where his feats of muscular prowess caught the attention of Misters Abernethy & Parker, who invited him to headline in their newly-formed traveling circus. Wolfgang quickly found himself caught up in the pageantry of circus life, and his attention began to shift to finding ways to make his show more spectacular. Fearing his own strength wouldn't be enough to keep impressing the crowds, he started employing a bit of stage trickery, with each new act becoming more unbelievable than the last. As his act grew more outlandish, the risk of being exposed as a fraud grew, and as he suffered one embarrassing mistake after another his once unshakable confidence in his abilities was slowly chipped away.\nUntil one day, a chance encounter gave him a taste of the ultimate strength he had craved for so long..."
+msgstr "Avant d'arriver dans le Constant, la vie de Wolfgang se résumait à un seul objectif : devenir l'homme le plus fort du monde. Sa quête lui fit traverser l'Europe, puis l'Atlantique pour arriver en Amérique, ou ses exploits musculaires attirèrent l'attention de deux hommes : messieurs Abernethy et Parker. Ils l'invitèrent à devenir la vedette de leur tout nouveau cirque itinérant. Wolfgang découvrit le côté théâtral du cirque et ses ambitions changèrent. Son but était de rendre ses prouesses toujours plus spectaculaires. Craignant que sa force ne suffise plus à impressionner le public, il se mit à recourir à des astuces scéniques, chaque nouveau numéro devenant plus incroyable que le précédent. À mesure que ses représentations devenaient plus étranges, le risque d'être découvert grandissait. Il commit erreur après erreur et sa confiance en lui, autrefois inébranlable, s'étiola lentement.\nJusqu'au jour où il eut un avant-goût de la force ultime qu'il recherchait depuis si longtemps..."
+
+#. CHARACTER_BIOS.wolfgang.3.title
+msgctxt "CHARACTER_BIOS.wolfgang.3.title"
+msgid "The Incredible Strongman"
+msgstr "L'homme le plus fort du monde"
+
+#. CHARACTER_BIOS.woodie.1.desc
+msgctxt "CHARACTER_BIOS.woodie.1.desc"
+msgid "September 12"
+msgstr "12 septembre"
+
+#. CHARACTER_BIOS.woodie.1.title
+msgctxt "CHARACTER_BIOS.woodie.1.title"
+msgid "Birthday"
+msgstr "Anniversaire"
+
+#. CHARACTER_BIOS.woodie.2.desc
+msgctxt "CHARACTER_BIOS.woodie.2.desc"
+msgid "Honey Nuggets"
+msgstr "Nuggets au miel"
+
+#. CHARACTER_BIOS.woodie.2.title
+msgctxt "CHARACTER_BIOS.woodie.2.title"
+msgid "Favorite Food"
+msgstr "Plat préféré"
+
+#. CHARACTER_BIOS.woodie.3.desc
+msgctxt "CHARACTER_BIOS.woodie.3.desc"
+msgid "Hailing from the pine-covered mountains of the great white north, Woodie is an unassuming yet strangely mysterious man who keeps his past close to the vest (or in his case, the flannel). He is never seen without his signature bushy beard or trusty axe Lucy, who herself is a bit of an enigma. The other Survivors are not quite sure whether Woodie is simply mad, or if there might be something else to the seemingly inanimate object. Sometimes they swear they can hear a jovial female voice speaking to Woodie when no one else is around..."
+msgstr "Venu des montagnes couvertes de sapins du grand nord, Woodie est un homme modeste mais néanmoins mystérieux qui garde son passé secret. Il porte toujours sa fameuse barbe bien fournie et ne quitte jamais sa chère hache Lucy, qui est elle-même assez énigmatique. Les autres Survivants ne savent pas trop si Woodie est juste fou ou si l'objet, supposément inanimé, n'est pas un peu spécial. Parfois, ils ont l'impression d'entendre une voix féminine et enjouée parler à Woodie quand il n'y a personne d'autre dans les environs..."
+
+#. CHARACTER_BIOS.woodie.3.title
+msgctxt "CHARACTER_BIOS.woodie.3.title"
+msgid "A Mysterious Past"
+msgstr "Un passé mystérieux"
+
+#. CHARACTER_BIOS.woodie.4.desc
+msgctxt "CHARACTER_BIOS.woodie.4.desc"
+msgid "As the power of the moon has grown, so too have the effects of Woodie's curse. Woodie soon found that his form would shift into not only the Werebeaver, but a Weremoose and Weregoose as well. As his changing forms became more unpredictable, Woodie resolved to find a way to have more control over his curse. Using every bit of knowledge he'd gained from his time in the Constant (and some additional tips from Ms. Wickerbottom) he soon discovered that his transformations could in fact be controlled. By fashioning representations of each of the three beasts and consuming them only when he wanted to invoke that form, Woodie now feels more comfortable in his own skin than he has in quite a while."
+msgstr "Le pouvoir de la lune a grandi, et les effets de la malédiction de Woddie, aussi. Woodie découvrit rapidement qu'il ne se changeait plus seulement en castor-garou, mais aussi en élan-garou et en oie-garou. Alors que ses transformations devenaient de plus en plus imprévisibles, Woodie décida de trouver un moyen de mieux contrôler sa malédiction. Utilisant toutes les connaissances qu'il avait amassées dans le Constant (et quelques astuces de Mme Wickerbottom), il découvrit vite que ses transformations pouvaient en fait être contrôlées. Il créa des représentations de ces trois bêtes et les utilisait seulement quand il voulait invoquer telle ou telle forme. Woodie se sentit alors beaucoup mieux dans sa peau."
+
+#. CHARACTER_BIOS.woodie.4.title
+msgctxt "CHARACTER_BIOS.woodie.4.title"
+msgid "Tree's a Crowd"
+msgstr "Un arbre peu amical"
+
+#. CHARACTER_BIOS.wormwood.1.desc
+msgctxt "CHARACTER_BIOS.wormwood.1.desc"
+msgid "June 6"
+msgstr "6 juin"
+
+#. CHARACTER_BIOS.wormwood.1.title
+msgctxt "CHARACTER_BIOS.wormwood.1.title"
+msgid "Birthday"
+msgstr "Anniversaire"
+
+#. CHARACTER_BIOS.wormwood.2.desc
+msgctxt "CHARACTER_BIOS.wormwood.2.desc"
+msgid "Cooked Banana"
+msgstr "Banane cuite"
+
+#. CHARACTER_BIOS.wormwood.2.title
+msgctxt "CHARACTER_BIOS.wormwood.2.title"
+msgid "Favorite Food"
+msgstr "Plat préféré"
+
+#. CHARACTER_BIOS.wormwood.3.desc
+msgctxt "CHARACTER_BIOS.wormwood.3.desc"
+msgid "Though the circumstances of his creation were unusual at best, Wormwood came into this world full of optimism and curiosity, ready to make new friends and see all that life had to offer. But as time wore on and he experienced the cold sting of rejection, he came to learn what the moon above had always known: Wormwood the Lonesome does not belong here."
+msgstr "Même si les circonstances de sa création furent plutôt spéciales, Wormwood arriva dans ce monde en débordant d'optimisme et de curiosité, prêt à se faire de nouveaux amis et à découvrir ce que la vie avait à lui offrir. Mais au fil du temps et des rejets, il apprit ce que la lune avait toujours su : Wormwood le solitaire n'a pas sa place ici."
+
+#. CHARACTER_BIOS.wormwood.3.title
+msgctxt "CHARACTER_BIOS.wormwood.3.title"
+msgid "Lunar Roots"
+msgstr "Des racines lunaires"
+
+#. CHARACTER_BIOS.wortox.1.desc
+msgctxt "CHARACTER_BIOS.wortox.1.desc"
+msgid "March 28"
+msgstr "28 mars"
+
+#. CHARACTER_BIOS.wortox.1.title
+msgctxt "CHARACTER_BIOS.wortox.1.title"
+msgid "Birthday"
+msgstr "Anniversaire"
+
+#. CHARACTER_BIOS.wortox.2.desc
+msgctxt "CHARACTER_BIOS.wortox.2.desc"
+msgid "Wortox is not particularly interested in mortal food, but he does enjoy a Pomegranate now and then."
+msgstr "Wortox n'apprécie pas particulièrement la nourriture des mortels, mais il apprécie de grignoter une grenade de temps en temps."
+
+#. CHARACTER_BIOS.wortox.2.title
+msgctxt "CHARACTER_BIOS.wortox.2.title"
+msgid "Favorite Food"
+msgstr "Plat préféré"
+
+#. CHARACTER_BIOS.wortox.3.desc
+msgctxt "CHARACTER_BIOS.wortox.3.desc"
+msgid "Wortox learned the hard way that one should always be mindful of the company they keep. Once a playful imp without a care in the world, Wortox spent his days helping a Krampus make mischief throughout the Constant. While the pair of rascals revelled in their roguery for a time, Wortox slowly began to see a darkness in the Krampus' heart, and the malice in his pranks. Not wishing for any real harm to come to anyone, the little imp finally put his cloven foot down, but in trying to stop his fiendish friend he unwittingly awakened a terrible power in himself..."
+msgstr "Wortox a appris plutôt brutalement qu'il fallait toujours faire attention à ses fréquentations. Diablotin malicieux et insouciant, Wortox passait ses journées à aider un Krampus à faire les quatre cents coups dans le Constant. Le duo s'amusa aux dépens des autres pendant un temps, mais Wortox commença à voir une ombre s'emparer du cœur du Krampus, et les farces de celui-ci devinrent plus cruelles. Refusant de faire du mal à qui que ce soit, le petit diablotin finit par taper du poing griffu sur la table. Mais en tentant d'arrêter son ami sournois, il éveilla une puissance terrible..."
+
+#. CHARACTER_BIOS.wortox.3.title
+msgctxt "CHARACTER_BIOS.wortox.3.title"
+msgid "Possessions"
+msgstr "Possessions"
+
+#. CHARACTER_BIOS.wurt.1.desc
+msgctxt "CHARACTER_BIOS.wurt.1.desc"
+msgid "October 17"
+msgstr "17 octobre"
+
+#. CHARACTER_BIOS.wurt.1.title
+msgctxt "CHARACTER_BIOS.wurt.1.title"
+msgid "Birthday"
+msgstr "Anniversaire"
+
+#. CHARACTER_BIOS.wurt.2.desc
+msgctxt "CHARACTER_BIOS.wurt.2.desc"
+msgid "Durian"
+msgstr "Durian"
+
+#. CHARACTER_BIOS.wurt.2.title
+msgctxt "CHARACTER_BIOS.wurt.2.title"
+msgid "Favorite Food"
+msgstr "Plat préféré"
+
+#. CHARACTER_BIOS.wurt.3.desc
+msgctxt "CHARACTER_BIOS.wurt.3.desc"
+msgid "Wurt is a little Merm girl who wants to bring her people back to their former glory (if they did indeed ever have a former glory... the evidence is a bit shaky on that front). A bit more open-minded than other Merms, she has taken to following the Survivors around and learning more about them. She is particularly fascinated by books with pretty pictures inside and an amazing thing the humans call \"candy\". Though she enjoys living in the swamp and being around other Merms, being the smallest and the youngest often makes her feel quite isolated, and she is enjoying the novelty of having some friends closer to her own age amongst the Survivors."
+msgstr "Wurt est une petite Merm qui veut rendre sa gloire d'antan à son peuple (s'il en avait eu une un jour... on n'a pas vraiment de preuve pour appuyer cette idée). Un peu plus ouverte d'esprit que ses compatriotes merms, elle a décidé de suivre les Survivants et d'en apprendre plus sur eux. Elle s'intéresse particulièrement aux livres avec de jolies images et par une chose merveilleuse que les humains appellent « bonbon ». Elle adore vivre dans les marais et être avec d'autres Merms, mais être la plus petite et la plus jeune lui donne souvent le sentiment d'être seule. Elle apprécie le fait d'avoir des amis de son âge parmi les Survivants."
+
+#. CHARACTER_BIOS.wurt.3.title
+msgctxt "CHARACTER_BIOS.wurt.3.title"
+msgid "A New Chapter"
+msgstr "Un nouveau chapitre"
+
+#. CHARACTER_BIOS.wx78.1.desc
+msgctxt "CHARACTER_BIOS.wx78.1.desc"
+msgid "November 28"
+msgstr "28 novembre"
+
+#. CHARACTER_BIOS.wx78.1.title
+msgctxt "CHARACTER_BIOS.wx78.1.title"
+msgid "Buildday"
+msgstr "Date de création"
+
+#. CHARACTER_BIOS.wx78.2.desc
+msgctxt "CHARACTER_BIOS.wx78.2.desc"
+msgid "Butter Muffin"
+msgstr "Muffin au beurre"
+
+#. CHARACTER_BIOS.wx78.2.title
+msgctxt "CHARACTER_BIOS.wx78.2.title"
+msgid "Favorite Food"
+msgstr "Plat préféré"
+
+#. CHARACTER_BIOS.wx78.3.desc
+msgctxt "CHARACTER_BIOS.wx78.3.desc"
+msgid "WX-78 was the result of an unorthodox experiment helmed by { [LoadEmpathyModLibraryExW().......ERROR_DATA_PATH_NOT_FOUND] } and Robert Wagstaff. The experiment turned out to be a [RESOUNDING SUCCESS], but Wagstaff was [A SHORT-SIGHTED FOOL, AFRAID OF PROGRESS] and decided to put a stop to further tests. Adamant that the process that created them could still be perfected, WX refused to give up, continuing their experiments in secret. When Wagstaff finally discovered what they had been doing, there was a heated argument and01110100 01101111 01101111 00100000 01101100 01100001 01110100 01100101 00100000 01110100 01101111 01101111 00100000 01101100 01100001 01110100 01100101 00100000 01110100 01101111 01101111 00100000 01101100 01100001 01110100 01100101"
+msgstr "WX-78 était le résultat d'une expérience peu orthodoxe menée par { [FichierModEmpathieChargementExW().......ERREUR_DONNÉES_INTROUVABLES] } et Robert Wagstaff. L'expérience s'est révélée être un[E TOTALE RÉUSSITE], mais Wagstaff était [UN IDIOT SANS AMBITION, EFFRAYÉ PAR LE PROGRÈS] et décida de mettre fin aux tests. Persuadé que le processus qui l'avait créé pouvait encore être perfectionné, WX refusa d'abandonner, et continua l'expérience en secret. Quand Wagstaff découvrit enfin ce qu'il faisait, une violente dispute éclata mais 01110100 01101111 01101111 00100000 01101100 01100001 01110100 01100101 00100000 01110100 01101111 01101111 00100000 01101100 01100001 01110100 01100101 00100000 01110100 01101111 01101111 00100000 01101100 01100001 01110100 01100101"
+
+#. CHARACTER_BIOS.wx78.3.title
+msgctxt "CHARACTER_BIOS.wx78.3.title"
+msgid "Disconnect"
+msgstr "Déconnexion"
+
+#. CHARACTER_DESCRIPTIONS.random
+msgctxt "CHARACTER_DESCRIPTIONS.random"
+msgid "Anybody could be under that hat"
+msgstr "Ça pourrait être n'importe qui sous ce chapeau"
+
+#. CHARACTER_DESCRIPTIONS.walter
+msgctxt "CHARACTER_DESCRIPTIONS.walter"
+msgid "*Not afraid of anything, except getting hurt \n*Good with a slingshot \n*Has a four-legged friend \n*Allergic to bees \n*Has no interest in fashion"
+msgstr "*N'a peur de rien, à part d'être blessé \n*Doué avec un lance-pierre \n*A une amie à fourrure \n*Allergique aux abeilles \n*Ne s'intéresse pas à la mode"
+
+#. CHARACTER_DESCRIPTIONS.wanda
+msgctxt "CHARACTER_DESCRIPTIONS.wanda"
+msgid "*Has excellent time management skills \n*Only as old as she feels \n*In a constant race against the clock"
+msgstr "*Gère excessivement bien son temps \n*L'âge, c'est dans la tête \n*Elle fait toujours la course contre le temps"
+
+#. CHARACTER_DESCRIPTIONS.warly
+msgctxt "CHARACTER_DESCRIPTIONS.warly"
+msgid "*Has his own line of custom portable cookware \n*Can spice things up \n*Has an insatiable appetite \n*Only eats gourmet food"
+msgstr "*A son propre ensemble d'ustensiles portables personnalisés \n*Peut pimenter les choses \n*A un appétit insatiable \n*Ne mange que de la nourriture gastronomique"
+
+#. CHARACTER_DESCRIPTIONS.wathgrithr
+msgctxt "CHARACTER_DESCRIPTIONS.wathgrithr"
+msgid "*Excels in battle \n*Absorbs the power of fallen foes \n*Performs well under pressure \n*Only eats meat"
+msgstr "*Très forte au combat\n*Ses victimes la rendent plus forte\n*Plus efficace sous pression\n*Elle ne mange que de la viande"
+
+#. CHARACTER_DESCRIPTIONS.waxwell
+msgctxt "CHARACTER_DESCRIPTIONS.waxwell"
+msgid "*Is dapper, but frail \n*Can split his mind into pieces \n*Was once the king of the world"
+msgstr "*Il est élégant, mais fragile \n*Il peut scinder son âme en plusieurs morceaux \n*Autrefois maître du monde"
+
+#. CHARACTER_DESCRIPTIONS.webber
+msgctxt "CHARACTER_DESCRIPTIONS.webber"
+msgid "*Is a monster \n*Can befriend spiders \n*Grows a silky smooth beard"
+msgstr "*C'est un monstre \n*Il fait ami-ami avec les araignées \n*Il lui pousse une barbe soyeuse"
+
+#. CHARACTER_DESCRIPTIONS.wendy
+msgctxt "CHARACTER_DESCRIPTIONS.wendy"
+msgid "*Is haunted by her twin sister \n*Feels comfortable in the dark \n*Dabbles in Ectoherbology \n*Doesn't hit very hard"
+msgstr "*Hantée par sa sœur jumelle \n*Se sent mieux dans le noir \n*Se débrouille en ectoherbologie \n*Ne frappe pas très fort"
+
+#. CHARACTER_DESCRIPTIONS.wes
+msgctxt "CHARACTER_DESCRIPTIONS.wes"
+msgid "*Can't talk \n*Practices balloonomancy \n*Is not a skilled fighter or worker \n*Has trouble staying alive"
+msgstr "*Ne peut pas parler \n*Pratique la ballonomancie \n*N'est pas un combattant ni un ouvrier aguerri\n*A du mal à rester en vie"
+
+#. CHARACTER_DESCRIPTIONS.wickerbottom
+msgctxt "CHARACTER_DESCRIPTIONS.wickerbottom"
+msgid "*Knows many things \n*Self-publishes books \n*Suffers from insomnia \n*Has a delicate stomach"
+msgstr "*Sait beaucoup de choses \n*autoédite des livres \n*Souffre d'insomnie \n*A un estomac délicat"
+
+#. CHARACTER_DESCRIPTIONS.willow
+msgctxt "CHARACTER_DESCRIPTIONS.willow"
+msgid "*Has a fondness for fire, but hates the cold \n*Protected by her cuddly bear, Bernie\n*Has a reliable lighter"
+msgstr "*Adore le feu, mais déteste le froid \n*Son nounours Bernie veille sur elle \n*Ne quitte jamais son fidèle briquet"
+
+#. CHARACTER_DESCRIPTIONS.wilson
+msgctxt "CHARACTER_DESCRIPTIONS.wilson"
+msgid "\n*Grows a magnificent beard"
+msgstr "\n*Il lui pousse une barbe magnifique"
+
+#. CHARACTER_DESCRIPTIONS.winona
+msgctxt "CHARACTER_DESCRIPTIONS.winona"
+msgid "*Is a skilled builder\n*Gets one free hit from the dark\n*Invents her own gadgets"
+msgstr "*C'est une bâtisseuse de talent\n*Elle a un coup gratuit dans le noir\n*Elle invente ses propres gadgets"
+
+#. CHARACTER_DESCRIPTIONS.wolfgang
+msgctxt "CHARACTER_DESCRIPTIONS.wolfgang"
+msgid "*Works hard to grow mighty \n*Becomes wimpy without regular exercise \n*Can carry heavy objects with ease \n*Is afraid of monsters and the dark"
+msgstr "*Travaille dur pour devenir puissant \n*Devient faiblard s'il ne s'entraîne pas régulièrement \n*Peut porter des objets lourds sans effort \n*A peur des monstres et du noir"
+
+#. CHARACTER_DESCRIPTIONS.woodie
+msgctxt "CHARACTER_DESCRIPTIONS.woodie"
+msgid "*Has a lovely axe... \n*And is at war with the forest \n*Suffers from the curse of the Werebeaver! \n*And the Weremoose and the Weregoose... \n*Is thankful for bountiful harvests"
+msgstr "*A une adorable hache... \n*En guerre contre la forêt \n*Souffre de la malédiction du castor-garou ! \n*Et de celle de l'élan-garou. Et de l'oie-garou... \n*Il est reconnaissant quand la récolte est bonne"
+
+#. CHARACTER_DESCRIPTIONS.woodie_canada
+msgctxt "CHARACTER_DESCRIPTIONS.woodie_canada"
+msgid "*Has a lovely axe... \n*And is at war with the forest \n*Suffers from the curse of the Werebeaver! \n*And the Weremoose and the Weregoose... \n*Celebrates Thanksgiving at the correct time"
+msgstr "*A une adorable hache... \n*En guerre contre la forêt \n*Souffre de la malédiction du castor-garou ! \n*Et de celle de l'élan-garou. Et de l'oie-garou... \n*Fête Thanksgiving à la bonne date"
+
+#. CHARACTER_DESCRIPTIONS.woodie_us
+msgctxt "CHARACTER_DESCRIPTIONS.woodie_us"
+msgid "*Has a lovely axe... \n*And is at war with the forest \n*Suffers from the curse of the Werebeaver! \n*And the Weremoose and the Weregoose... \n*Celebrates Thanksgiving too early"
+msgstr "*A une adorable hache... \n*En guerre contre la forêt \n*Souffre de la malédiction du castor-garou ! \n*Et de celle de l'élan-garou. Et de l'oie-garou... \n*Fête Thanksgiving trop tôt"
+
+#. CHARACTER_DESCRIPTIONS.wormwood
+msgctxt "CHARACTER_DESCRIPTIONS.wormwood"
+msgid "*Plants relate to him \n*Saddened when plants are killed \n*Has a Green Thumb \n*Food fills his stomach, but not his heart"
+msgstr "*Les plantes lui font confiance \n*Triste quand les plantes se font tuer \n*A la main verte \n*La nourriture remplit son ventre, mais pas son cœur"
+
+#. CHARACTER_DESCRIPTIONS.wortox
+msgctxt "CHARACTER_DESCRIPTIONS.wortox"
+msgid "*Is an imp \n*Can hop through time and space \n*Less nourished by physical food"
+msgstr "*C'est un diablotin \n*Il voyage dans le temps et l'espace \n*La nourriture physique ne le rassasie pas"
+
+#. CHARACTER_DESCRIPTIONS.wurt
+msgctxt "CHARACTER_DESCRIPTIONS.wurt"
+msgid "*At home in the swamp \n*Has big plans for Merm-kind \n*Is a vegetarian"
+msgstr "*Se sent comme chez elle dans le marécage \n*A de grands projets pour le peuple merm \n*Est végétarienne"
+
+#. CHARACTER_DESCRIPTIONS.wx78
+msgctxt "CHARACTER_DESCRIPTIONS.wx78"
+msgid "*Can upgrade with circuits \n*Not a picky eater \n*Is charged by lightning, but damaged by water"
+msgstr "*Peut être amélioré grâce à des circuits \n*Mange de tout\n*Rechargé par la foudre, mais abîmé par l'eau"
+
+#. CHARACTER_DETAILS.CHARACTER_DESCRIPTION_TITLE
+msgctxt "CHARACTER_DETAILS.CHARACTER_DESCRIPTION_TITLE"
+msgid "Perks & Quirks"
+msgstr "Caractéristiques"
+
+#. CHARACTER_DETAILS.CHARACTER_QUOTE_TITLE
+msgctxt "CHARACTER_DETAILS.CHARACTER_QUOTE_TITLE"
+msgid "Quote"
+msgstr "Citation"
+
+#. CHARACTER_DETAILS.STARTING_ITEMS_NONE
+msgctxt "CHARACTER_DETAILS.STARTING_ITEMS_NONE"
+msgid "Nothing in hand"
+msgstr "Rien dans les poches"
+
+#. CHARACTER_DETAILS.STARTING_ITEMS_TITLE
+msgctxt "CHARACTER_DETAILS.STARTING_ITEMS_TITLE"
+msgid "Enters the Constant With"
+msgstr "Arrive dans le Constant avec"
+
+#. CHARACTER_DETAILS.STAT_UNKNOW
+msgctxt "CHARACTER_DETAILS.STAT_UNKNOW"
+msgid "?"
+msgstr "?"
+
+#. CHARACTER_DETAILS.SURVIVABILITY_TITLE
+msgctxt "CHARACTER_DETAILS.SURVIVABILITY_TITLE"
+msgid "Odds of Survival"
+msgstr "Chance de survie"
+
+#. CHARACTER_DETAILS.VIDEO_BUTTON
+msgctxt "CHARACTER_DETAILS.VIDEO_BUTTON"
+msgid "Play Animated Short"
+msgstr "Lancer l'animation"
+
+#. CHARACTER_NAMES.random
+msgctxt "CHARACTER_NAMES.random"
+msgid "Random"
+msgstr "Aléatoire"
+
+#. CHARACTER_NAMES.unknown
+msgctxt "CHARACTER_NAMES.unknown"
+msgid "The Unknown"
+msgstr "L'Inconnu"
+
+#. CHARACTER_NAMES.walter
+msgctxt "CHARACTER_NAMES.walter"
+msgid "Walter"
+msgstr "Walter"
+
+#. CHARACTER_NAMES.wanda
+msgctxt "CHARACTER_NAMES.wanda"
+msgid "Wanda"
+msgstr "Wanda"
+
+#. CHARACTER_NAMES.warly
+msgctxt "CHARACTER_NAMES.warly"
+msgid "Warly"
+msgstr "Warly"
+
+#. CHARACTER_NAMES.wathgrithr
+msgctxt "CHARACTER_NAMES.wathgrithr"
+msgid "Wigfrid"
+msgstr "Wigfrid"
+
+#. CHARACTER_NAMES.waxwell
+msgctxt "CHARACTER_NAMES.waxwell"
+msgid "Maxwell"
+msgstr "Maxwell"
+
+#. CHARACTER_NAMES.webber
+msgctxt "CHARACTER_NAMES.webber"
+msgid "Webber"
+msgstr "Webber"
+
+#. CHARACTER_NAMES.wendy
+msgctxt "CHARACTER_NAMES.wendy"
+msgid "Wendy"
+msgstr "Wendy"
+
+#. CHARACTER_NAMES.wes
+msgctxt "CHARACTER_NAMES.wes"
+msgid "Wes"
+msgstr "Wes"
+
+#. CHARACTER_NAMES.wickerbottom
+msgctxt "CHARACTER_NAMES.wickerbottom"
+msgid "Ms. Wickerbottom"
+msgstr "Mme Wickerbottom"
+
+#. CHARACTER_NAMES.willow
+msgctxt "CHARACTER_NAMES.willow"
+msgid "Willow"
+msgstr "Willow"
+
+#. CHARACTER_NAMES.wilson
+msgctxt "CHARACTER_NAMES.wilson"
+msgid "Wilson P. Higgsbury"
+msgstr "Wilson P. Higgsbury"
+
+#. CHARACTER_NAMES.winona
+msgctxt "CHARACTER_NAMES.winona"
+msgid "Winona"
+msgstr "Winona"
+
+#. CHARACTER_NAMES.wolfgang
+msgctxt "CHARACTER_NAMES.wolfgang"
+msgid "Wolfgang"
+msgstr "Wolfgang"
+
+#. CHARACTER_NAMES.woodie
+msgctxt "CHARACTER_NAMES.woodie"
+msgid "Woodie"
+msgstr "Woodie"
+
+#. CHARACTER_NAMES.wormwood
+msgctxt "CHARACTER_NAMES.wormwood"
+msgid "Wormwood"
+msgstr "Wormwood"
+
+#. CHARACTER_NAMES.wortox
+msgctxt "CHARACTER_NAMES.wortox"
+msgid "Wortox"
+msgstr "Wortox"
+
+#. CHARACTER_NAMES.wurt
+msgctxt "CHARACTER_NAMES.wurt"
+msgid "Wurt"
+msgstr "Wurt"
+
+#. CHARACTER_NAMES.wx78
+msgctxt "CHARACTER_NAMES.wx78"
+msgid "WX-78"
+msgstr "WX-78"
+
+#. CHARACTER_QUOTES.random
+msgctxt "CHARACTER_QUOTES.random"
+msgid "Anybody could be under that hat."
+msgstr "N'importe qui pourrait porter ce chapeau."
+
+#. CHARACTER_QUOTES.walter
+msgctxt "CHARACTER_QUOTES.walter"
+msgid "\"A Pinetree Pioneer is always prepared!\""
+msgstr "« Un Scout toujours est toujours prêt ! »"
+
+#. CHARACTER_QUOTES.wanda
+msgctxt "CHARACTER_QUOTES.wanda"
+msgid "\"Time! I just need more time!\""
+msgstr "« Du temps ! Il me faut juste du temps ! »"
+
+#. CHARACTER_QUOTES.warly
+msgctxt "CHARACTER_QUOTES.warly"
+msgid "\"Nothing worthwhile is ever done on an empty stomach!\""
+msgstr "« On ne fait jamais rien de bon l'estomac vide ! »"
+
+#. CHARACTER_QUOTES.wathgrithr
+msgctxt "CHARACTER_QUOTES.wathgrithr"
+msgid "\"All the wörld's a stage. För me!\""
+msgstr "« Le monde entier est une scène. Pour moi ! »"
+
+#. CHARACTER_QUOTES.waxwell
+msgctxt "CHARACTER_QUOTES.waxwell"
+msgid "\"Freedom suits me.\""
+msgstr "« La liberté ça me va ! »"
+
+#. CHARACTER_QUOTES.webber
+msgctxt "CHARACTER_QUOTES.webber"
+msgid "\"We're always together, and never alone!\""
+msgstr "« On est toujours ensemble, jamais tous seuls ! »"
+
+#. CHARACTER_QUOTES.wendy
+msgctxt "CHARACTER_QUOTES.wendy"
+msgid "\"Abigail? Come back! I'm not done playing with you.\""
+msgstr "« Abigail ? Reviens ! Je n’en ai pas terminé avec toi. »"
+
+#. CHARACTER_QUOTES.wes
+msgctxt "CHARACTER_QUOTES.wes"
+msgid "..."
+msgstr "..."
+
+#. CHARACTER_QUOTES.wickerbottom
+msgctxt "CHARACTER_QUOTES.wickerbottom"
+msgid "\"Shhhh! No talking!\""
+msgstr "« Pfff, je ne discute pas ! »"
+
+#. CHARACTER_QUOTES.willow
+msgctxt "CHARACTER_QUOTES.willow"
+msgid "\"All will bathe in the prettiest of flames.\""
+msgstr "« Tout va baigner dans les plus jolies flammes. »"
+
+#. CHARACTER_QUOTES.wilson
+msgctxt "CHARACTER_QUOTES.wilson"
+msgid "\"I'll conquer this world with the power of my MIND!\""
+msgstr "« Je vais conquérir ce monde grâce au pouvoir de l’esprit ! »"
+
+#. CHARACTER_QUOTES.winona
+msgctxt "CHARACTER_QUOTES.winona"
+msgid "\"Anything can be fixed with hard work and elbow grease.\""
+msgstr "« Tout se répare avec du travail et de l'huile de coude. »"
+
+#. CHARACTER_QUOTES.wolfgang
+msgctxt "CHARACTER_QUOTES.wolfgang"
+msgid "\"I am mighty! No one is mightier!\""
+msgstr "« Je suis la puissance ! Personne n’est plus puissant que moi ! »"
+
+#. CHARACTER_QUOTES.woodie
+msgctxt "CHARACTER_QUOTES.woodie"
+msgid "\"That's a nice lookin' tree, eh? Not for long.\""
+msgstr "« Bel arbre, hein ? Pas pour longtemps.»"
+
+#. CHARACTER_QUOTES.wormwood
+msgctxt "CHARACTER_QUOTES.wormwood"
+msgid "\"Hello friend?\""
+msgstr "« Copain ? Coucou ? »"
+
+#. CHARACTER_QUOTES.wortox
+msgctxt "CHARACTER_QUOTES.wortox"
+msgid "\"Pardon me if I don't shake your hand.\""
+msgstr "« Je m'excuse de ne pas vous serrez la main. »"
+
+#. CHARACTER_QUOTES.wurt
+msgctxt "CHARACTER_QUOTES.wurt"
+msgid "\"Mermfolk known for hos-per-tality, florp.\""
+msgstr "« Le peuple merm est connu pour son os-pipi-talité, florp. »"
+
+#. CHARACTER_QUOTES.wx78
+msgctxt "CHARACTER_QUOTES.wx78"
+msgid "\"EMPATHY MODULE NOT RESPONDING\""
+msgstr "« MODULE D’EMPATHIE NE RÉPOND PAS ! »"
+
+#. CHARACTER_SURVIVABILITY.default
+msgctxt "CHARACTER_SURVIVABILITY.default"
+msgid "Unknown"
+msgstr "Inconnu"
+
+#. CHARACTER_SURVIVABILITY.random
+msgctxt "CHARACTER_SURVIVABILITY.random"
+msgid "Unknown"
+msgstr "Inconnu"
+
+#. CHARACTER_SURVIVABILITY.walter
+msgctxt "CHARACTER_SURVIVABILITY.walter"
+msgid "Slim"
+msgstr "Mince"
+
+#. CHARACTER_SURVIVABILITY.wanda
+msgctxt "CHARACTER_SURVIVABILITY.wanda"
+msgid "Grim"
+msgstr "Mauvaise"
+
+#. CHARACTER_SURVIVABILITY.warly
+msgctxt "CHARACTER_SURVIVABILITY.warly"
+msgid "Grim"
+msgstr "Mauvaise"
+
+#. CHARACTER_SURVIVABILITY.wathgrithr
+msgctxt "CHARACTER_SURVIVABILITY.wathgrithr"
+msgid "Slim"
+msgstr "Mince"
+
+#. CHARACTER_SURVIVABILITY.waxwell
+msgctxt "CHARACTER_SURVIVABILITY.waxwell"
+msgid "Grim"
+msgstr "Mauvaise"
+
+#. CHARACTER_SURVIVABILITY.webber
+msgctxt "CHARACTER_SURVIVABILITY.webber"
+msgid "Grim"
+msgstr "Mauvaise"
+
+#. CHARACTER_SURVIVABILITY.wendy
+msgctxt "CHARACTER_SURVIVABILITY.wendy"
+msgid "Slim"
+msgstr "Mince"
+
+#. CHARACTER_SURVIVABILITY.wes
+msgctxt "CHARACTER_SURVIVABILITY.wes"
+msgid "None"
+msgstr "Aucune"
+
+#. CHARACTER_SURVIVABILITY.wickerbottom
+msgctxt "CHARACTER_SURVIVABILITY.wickerbottom"
+msgid "Grim"
+msgstr "Mauvaise"
+
+#. CHARACTER_SURVIVABILITY.willow
+msgctxt "CHARACTER_SURVIVABILITY.willow"
+msgid "Slim"
+msgstr "Mince"
+
+#. CHARACTER_SURVIVABILITY.wilson
+msgctxt "CHARACTER_SURVIVABILITY.wilson"
+msgid "Slim"
+msgstr "Mince"
+
+#. CHARACTER_SURVIVABILITY.winona
+msgctxt "CHARACTER_SURVIVABILITY.winona"
+msgid "Slim"
+msgstr "Mince"
+
+#. CHARACTER_SURVIVABILITY.wolfgang
+msgctxt "CHARACTER_SURVIVABILITY.wolfgang"
+msgid "Grim"
+msgstr "Mauvaise"
+
+#. CHARACTER_SURVIVABILITY.woodie
+msgctxt "CHARACTER_SURVIVABILITY.woodie"
+msgid "Slim"
+msgstr "Mince"
+
+#. CHARACTER_SURVIVABILITY.wormwood
+msgctxt "CHARACTER_SURVIVABILITY.wormwood"
+msgid "Grim"
+msgstr "Mauvaise"
+
+#. CHARACTER_SURVIVABILITY.wortox
+msgctxt "CHARACTER_SURVIVABILITY.wortox"
+msgid "Grim"
+msgstr "Mauvaise"
+
+#. CHARACTER_SURVIVABILITY.wurt
+msgctxt "CHARACTER_SURVIVABILITY.wurt"
+msgid "Slim"
+msgstr "Mince"
+
+#. CHARACTER_SURVIVABILITY.wx78
+msgctxt "CHARACTER_SURVIVABILITY.wx78"
+msgid "Grim"
+msgstr "Mauvaise"
+
+#. CHARACTER_TITLES.walter
+msgctxt "CHARACTER_TITLES.walter"
+msgid "The Fearless"
+msgstr "Sans-peur"
+
+#. CHARACTER_TITLES.wanda
+msgctxt "CHARACTER_TITLES.wanda"
+msgid "The Timekeeper"
+msgstr "La Gardienne du temps"
+
+#. CHARACTER_TITLES.warly
+msgctxt "CHARACTER_TITLES.warly"
+msgid "The Culinarian"
+msgstr "Le cuisinier"
+
+#. CHARACTER_TITLES.wathgrithr
+msgctxt "CHARACTER_TITLES.wathgrithr"
+msgid "The Performance Artist"
+msgstr "La reine des planches"
+
+#. CHARACTER_TITLES.waxwell
+msgctxt "CHARACTER_TITLES.waxwell"
+msgid "The Puppet Master"
+msgstr "Le maître des marionnettes"
+
+#. CHARACTER_TITLES.webber
+msgctxt "CHARACTER_TITLES.webber"
+msgid "The Indigestible"
+msgstr "L'indigeste"
+
+#. CHARACTER_TITLES.wendy
+msgctxt "CHARACTER_TITLES.wendy"
+msgid "The Bereaved"
+msgstr "L'affligée"
+
+#. CHARACTER_TITLES.wes
+msgctxt "CHARACTER_TITLES.wes"
+msgid "The Silent"
+msgstr "Le silencieux"
+
+#. CHARACTER_TITLES.wickerbottom
+msgctxt "CHARACTER_TITLES.wickerbottom"
+msgid "The Librarian"
+msgstr "La bibliothécaire"
+
+#. CHARACTER_TITLES.willow
+msgctxt "CHARACTER_TITLES.willow"
+msgid "The Firestarter"
+msgstr "La pyromane"
+
+#. CHARACTER_TITLES.wilson
+msgctxt "CHARACTER_TITLES.wilson"
+msgid "The Gentleman Scientist"
+msgstr "Le gentleman scientifique"
+
+#. CHARACTER_TITLES.winona
+msgctxt "CHARACTER_TITLES.winona"
+msgid "The Handywoman"
+msgstr "La bricoleuse"
+
+#. CHARACTER_TITLES.wolfgang
+msgctxt "CHARACTER_TITLES.wolfgang"
+msgid "The Strongman"
+msgstr "Le costaud"
+
+#. CHARACTER_TITLES.woodie
+msgctxt "CHARACTER_TITLES.woodie"
+msgid "The Lumberjack"
+msgstr "Le bûcheron"
+
+#. CHARACTER_TITLES.wormwood
+msgctxt "CHARACTER_TITLES.wormwood"
+msgid "The Lonesome"
+msgstr "Le solitaire"
+
+#. CHARACTER_TITLES.wortox
+msgctxt "CHARACTER_TITLES.wortox"
+msgid "The Soul Starved"
+msgstr "Le mangeur d'âmes"
+
+#. CHARACTER_TITLES.wurt
+msgctxt "CHARACTER_TITLES.wurt"
+msgid "The Half-Pint"
+msgstr "La demi-pinte"
+
+#. CHARACTER_TITLES.wx78
+msgctxt "CHARACTER_TITLES.wx78"
+msgid "The Soulless Automaton"
+msgstr "L'automate sans âme"
+

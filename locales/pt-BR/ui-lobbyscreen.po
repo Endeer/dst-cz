@@ -1,0 +1,225 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.LOBBYSCREEN.APPLY
+msgctxt "UI.LOBBYSCREEN.APPLY"
+msgid "Apply"
+msgstr "Aplicar"
+
+#. UI.LOBBYSCREEN.BACK
+msgctxt "UI.LOBBYSCREEN.BACK"
+msgid "Back"
+msgstr "Voltar"
+
+#. UI.LOBBYSCREEN.CANCEL
+msgctxt "UI.LOBBYSCREEN.CANCEL"
+msgid "Cancel"
+msgstr "Cancelar"
+
+#. UI.LOBBYSCREEN.CHAT
+msgctxt "UI.LOBBYSCREEN.CHAT"
+msgid "Chat"
+msgstr "Chat"
+
+#. UI.LOBBYSCREEN.CLIENTQUITBODY
+msgctxt "UI.LOBBYSCREEN.CLIENTQUITBODY"
+msgid "Are you sure you want to leave this server?"
+msgstr "Tem certeza que deseja sair deste servidor?"
+
+#. UI.LOBBYSCREEN.CLIENTQUITTITLE
+msgctxt "UI.LOBBYSCREEN.CLIENTQUITTITLE"
+msgid "Leave Server"
+msgstr "Sair do servidor"
+
+#. UI.LOBBYSCREEN.COMING
+msgctxt "UI.LOBBYSCREEN.COMING"
+msgid "Coming Soon!"
+msgstr "Em breve!"
+
+#. UI.LOBBYSCREEN.CUSTOMIZE
+msgctxt "UI.LOBBYSCREEN.CUSTOMIZE"
+msgid "Customize Your Character"
+msgstr "Personalizar personagem"
+
+#. UI.LOBBYSCREEN.CUSTOMIZE_SCARECROW
+msgctxt "UI.LOBBYSCREEN.CUSTOMIZE_SCARECROW"
+msgid "Customize Your Scarecrow"
+msgstr "Personalize seu espantalho"
+
+#. UI.LOBBYSCREEN.DISCONNECT
+msgctxt "UI.LOBBYSCREEN.DISCONNECT"
+msgid "Disconnect"
+msgstr "Desconectar"
+
+#. UI.LOBBYSCREEN.EMPTY_SLOT
+msgctxt "UI.LOBBYSCREEN.EMPTY_SLOT"
+msgid "Available Slot"
+msgstr "Espaço disponível"
+
+#. UI.LOBBYSCREEN.HOSTQUITBODY
+msgctxt "UI.LOBBYSCREEN.HOSTQUITBODY"
+msgid "Are you sure you want to shut down this server? If you do, all players will be disconnected."
+msgstr "Tem certeza que deseja desativar o servidor? Se você desativá-lo, todos os jogadores serão desconectados."
+
+#. UI.LOBBYSCREEN.HOSTQUITTITLE
+msgctxt "UI.LOBBYSCREEN.HOSTQUITTITLE"
+msgid "Shut Down Server"
+msgstr "Desativar servidor"
+
+#. UI.LOBBYSCREEN.INVITE
+msgctxt "UI.LOBBYSCREEN.INVITE"
+msgid "Invite"
+msgstr "Convidar"
+
+#. UI.LOBBYSCREEN.INVITE_FRIEND
+msgctxt "UI.LOBBYSCREEN.INVITE_FRIEND"
+msgid "Invite Friend"
+msgstr "Convidar amigo"
+
+#. UI.LOBBYSCREEN.LOADOUT_TITLE
+msgctxt "UI.LOBBYSCREEN.LOADOUT_TITLE"
+msgid "{name}'s Loadout"
+msgstr "Equipamentos de {name}"
+
+#. UI.LOBBYSCREEN.NEXT
+msgctxt "UI.LOBBYSCREEN.NEXT"
+msgid "Next"
+msgstr "Próxima"
+
+#. UI.LOBBYSCREEN.NO
+msgctxt "UI.LOBBYSCREEN.NO"
+msgid "Maybe not..."
+msgstr "Acho que não..."
+
+#. UI.LOBBYSCREEN.NUM_PLAYERS_FMT
+msgctxt "UI.LOBBYSCREEN.NUM_PLAYERS_FMT"
+msgid "{num}/{max}"
+msgstr "{num}/{max}"
+
+#. UI.LOBBYSCREEN.OFFLINE
+msgctxt "UI.LOBBYSCREEN.OFFLINE"
+msgid "Not Available Offline"
+msgstr "Não disponível off-line"
+
+#. UI.LOBBYSCREEN.PLAYER
+msgctxt "UI.LOBBYSCREEN.PLAYER"
+msgid "Player"
+msgstr "Jogador"
+
+#. UI.LOBBYSCREEN.PLAYERLIST
+msgctxt "UI.LOBBYSCREEN.PLAYERLIST"
+msgid "Players"
+msgstr "Jogadores"
+
+#. UI.LOBBYSCREEN.RANDOMCHAR
+msgctxt "UI.LOBBYSCREEN.RANDOMCHAR"
+msgid "Random"
+msgstr "Aleatório"
+
+#. UI.LOBBYSCREEN.RANDOMCHAR_BUTTONHINT
+msgctxt "UI.LOBBYSCREEN.RANDOMCHAR_BUTTONHINT"
+msgid "Random Survivor"
+msgstr "Sobrevivente Aleatório"
+
+#. UI.LOBBYSCREEN.READY
+msgctxt "UI.LOBBYSCREEN.READY"
+msgid "Ready!"
+msgstr "Tudo pronto!"
+
+#. UI.LOBBYSCREEN.SELECT
+msgctxt "UI.LOBBYSCREEN.SELECT"
+msgid "Select"
+msgstr "Selecionar"
+
+#. UI.LOBBYSCREEN.SELECTION_TITLE
+msgctxt "UI.LOBBYSCREEN.SELECTION_TITLE"
+msgid "Survivor Select"
+msgstr "Selecionar Sobrevivente"
+
+#. UI.LOBBYSCREEN.SERVER_SHUTDOWN_BODY
+msgctxt "UI.LOBBYSCREEN.SERVER_SHUTDOWN_BODY"
+msgid "This server is about to shut down."
+msgstr "Este servidor está prestes a ser desligado."
+
+#. UI.LOBBYSCREEN.SERVER_SHUTDOWN_TITLE
+msgctxt "UI.LOBBYSCREEN.SERVER_SHUTDOWN_TITLE"
+msgid "Server is Shutting Down"
+msgstr "Servidor sendo desligado"
+
+#. UI.LOBBYSCREEN.SKINS
+msgctxt "UI.LOBBYSCREEN.SKINS"
+msgid "Skins"
+msgstr "Trajes"
+
+#. UI.LOBBYSCREEN.SKINS_BASE
+msgctxt "UI.LOBBYSCREEN.SKINS_BASE"
+msgid "HEAD"
+msgstr "CABEÇA"
+
+#. UI.LOBBYSCREEN.SKINS_BODY
+msgctxt "UI.LOBBYSCREEN.SKINS_BODY"
+msgid "BODY"
+msgstr "CORPO"
+
+#. UI.LOBBYSCREEN.SKINS_FEET
+msgctxt "UI.LOBBYSCREEN.SKINS_FEET"
+msgid "FEET"
+msgstr "PÉS"
+
+#. UI.LOBBYSCREEN.SKINS_HANDS
+msgctxt "UI.LOBBYSCREEN.SKINS_HANDS"
+msgid "HANDS"
+msgstr "MÃOS"
+
+#. UI.LOBBYSCREEN.SKINS_LEGS
+msgctxt "UI.LOBBYSCREEN.SKINS_LEGS"
+msgid "LEGS"
+msgstr "PERNAS"
+
+#. UI.LOBBYSCREEN.SKINS_PREVIOUS
+msgctxt "UI.LOBBYSCREEN.SKINS_PREVIOUS"
+msgid "Previously Worn Item"
+msgstr "Item usado anteriormente"
+
+#. UI.LOBBYSCREEN.SKINS_RANDOM
+msgctxt "UI.LOBBYSCREEN.SKINS_RANDOM"
+msgid "Random Item"
+msgstr "Item aleatório"
+
+#. UI.LOBBYSCREEN.START
+msgctxt "UI.LOBBYSCREEN.START"
+msgid "Go!"
+msgstr "Ir!"
+
+#. UI.LOBBYSCREEN.TOGGLE_PORTRAIT
+msgctxt "UI.LOBBYSCREEN.TOGGLE_PORTRAIT"
+msgid "Toggle Portrait"
+msgstr "Alternar retrato"
+
+#. UI.LOBBYSCREEN.UNOWNED_CHARACTER_BODY
+msgctxt "UI.LOBBYSCREEN.UNOWNED_CHARACTER_BODY"
+msgid "You have not yet unlocked {character}.\nTo play this character, you must either weave them using Spools, or purchase them from the Shop."
+msgstr "Você ainda não desbloqueou {character}.\nPara jogar com este personagem, você deve tecê-lo usando carretéis, ou comprá-lo na Loja."
+
+#. UI.LOBBYSCREEN.UNOWNED_CHARACTER_TITLE
+msgctxt "UI.LOBBYSCREEN.UNOWNED_CHARACTER_TITLE"
+msgid "Character Not Owned"
+msgstr "Não possui personagem"
+
+#. UI.LOBBYSCREEN.VISIT_SHOP
+msgctxt "UI.LOBBYSCREEN.VISIT_SHOP"
+msgid "Visit Shop"
+msgstr "Visite a Loja"
+
+#. UI.LOBBYSCREEN.WAITING_FOR_PLAYERS_TITLE
+msgctxt "UI.LOBBYSCREEN.WAITING_FOR_PLAYERS_TITLE"
+msgid "Waiting For Other Players"
+msgstr "Aguardando outros jogadores"
+
+#. UI.LOBBYSCREEN.YES
+msgctxt "UI.LOBBYSCREEN.YES"
+msgid "Do it!"
+msgstr "Partiu!"
+

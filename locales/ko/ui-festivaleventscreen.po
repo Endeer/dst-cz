@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.FESTIVALEVENTSCREEN.BROWSE
+msgctxt "UI.FESTIVALEVENTSCREEN.BROWSE"
+msgid "Browse Servers"
+msgstr "서버 찾아보기"
+
+#. UI.FESTIVALEVENTSCREEN.HOST
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST"
+msgid "Custom Match"
+msgstr "커스텀 매치"
+
+#. UI.FESTIVALEVENTSCREEN.HOST_CONNECTINGTOSERVER
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_CONNECTINGTOSERVER"
+msgid "Connecting to server"
+msgstr "서버에 연결 중"
+
+#. UI.FESTIVALEVENTSCREEN.HOST_DETERMININGREGION
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_DETERMININGREGION"
+msgid "Determining region"
+msgstr "지역 결정 중"
+
+#. UI.FESTIVALEVENTSCREEN.HOST_FAILED
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_FAILED"
+msgid "Network Error"
+msgstr "네트워크 오류"
+
+#. UI.FESTIVALEVENTSCREEN.HOST_FAILED_BODY
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_FAILED_BODY"
+msgid "Failed to connect to event server."
+msgstr "이벤트 서버 연결에 실패했습니다."
+
+#. UI.FESTIVALEVENTSCREEN.HOST_GETTINGREGIONS
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_GETTINGREGIONS"
+msgid "Getting regions"
+msgstr "지역 가져오는 중"
+
+#. UI.FESTIVALEVENTSCREEN.HOST_NO_SERVERS_BODY
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_NO_SERVERS_BODY"
+msgid "No servers are currently available for your game version. Please update and try again."
+msgstr "귀하의 게임 버전에서 사용할 수 있는 서버가 현재 없습니다. 게임을 업데이트한 후 다시 시도하세요."
+
+#. UI.FESTIVALEVENTSCREEN.HOST_PINGS_FAILED_BODY
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_PINGS_FAILED_BODY"
+msgid "Unable to contact Klei servers.\nPlease check your network connection and try again."
+msgstr "Klei 서버에 접속할 수 없습니다.\n네트워크 연결을 확인하고 다시 시도하세요."
+
+#. UI.FESTIVALEVENTSCREEN.HOST_REQUESTINGSERVER
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_REQUESTINGSERVER"
+msgid "Requesting server"
+msgstr "서버 요청 중"
+
+#. UI.FESTIVALEVENTSCREEN.HOST_WAITINGFORWORLD
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_WAITINGFORWORLD"
+msgid "Waiting for world"
+msgstr "세계 기다리는 중"
+
+#. UI.FESTIVALEVENTSCREEN.MODS_POPUP_BODY
+msgctxt "UI.FESTIVALEVENTSCREEN.MODS_POPUP_BODY"
+msgid "Warning!\nClient mods are unsupported in {event}.\nDisabling all mods is recommended."
+msgstr "경고!\n{event}에서 클라이언트 모드는 지원되지 않습니다.\n모든 모드의 사용을 중지할 것을 권장합니다."
+
+#. UI.FESTIVALEVENTSCREEN.MODS_POPUP_CANCEL
+msgctxt "UI.FESTIVALEVENTSCREEN.MODS_POPUP_CANCEL"
+msgid "Cancel"
+msgstr "취소"
+
+#. UI.FESTIVALEVENTSCREEN.MODS_POPUP_CONTINUE
+msgctxt "UI.FESTIVALEVENTSCREEN.MODS_POPUP_CONTINUE"
+msgid "Continue"
+msgstr "계속"
+
+#. UI.FESTIVALEVENTSCREEN.MODS_POPUP_DISABLE_MODS
+msgctxt "UI.FESTIVALEVENTSCREEN.MODS_POPUP_DISABLE_MODS"
+msgid "Disable All Mods"
+msgstr "모든 모드 끄기"
+
+#. UI.FESTIVALEVENTSCREEN.MODS_POPUP_TITLE
+msgctxt "UI.FESTIVALEVENTSCREEN.MODS_POPUP_TITLE"
+msgid "Mods Detected!"
+msgstr "모드가 탐지됨!"
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BACK
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BACK"
+msgid "Back"
+msgstr "뒤로"
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY.lavaarena
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY.lavaarena"
+msgid "You must be logged in to challenge\nBattlemaster Pugna's warriors."
+msgstr "전장의 주인 퍼그나의 전사들에게\n도전하려면 로그인해야 합니다."
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY.quagmire
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY.quagmire"
+msgid "You must be logged in to prepare\nofferings for the Altar of Gnaw."
+msgstr "물뜯이의 제단에 바칠 제물을\n준비하려면 로그인해야 합니다."
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY_CONSOLE.lavaarena
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY_CONSOLE.lavaarena"
+msgid "All players must be online to challenge\nBattlemaster Pugna's warriors."
+msgstr "전장의 주인 퍼그나의 전사들에게\n도전하려면 모두 온라인 상태여야 합니다."
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY_CONSOLE.quagmire
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY_CONSOLE.quagmire"
+msgid "All players must be online to prepare\nofferings for the Altar of Gnaw."
+msgstr "물뜯이의 제단에 바칠 제물을\n준비하려면 모두 온라인 상태여야 합니다."
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_LOGIN
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_LOGIN"
+msgid "Log In"
+msgstr "로그인"
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_TITLE
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_TITLE"
+msgid "Offline"
+msgstr "오프라인"
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_TITLE_CONSOLE
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_TITLE_CONSOLE"
+msgid "You are in offline mode"
+msgstr "현재 오프라인 모드임"
+
+#. UI.FESTIVALEVENTSCREEN.QUICKMATCH
+msgctxt "UI.FESTIVALEVENTSCREEN.QUICKMATCH"
+msgid "Quick Match"
+msgstr "빠른 매치"
+
+#. UI.FESTIVALEVENTSCREEN.TITLE.LAVAARENA
+msgctxt "UI.FESTIVALEVENTSCREEN.TITLE.LAVAARENA"
+msgid "The Forge"
+msgstr "The Forge"
+
+#. UI.FESTIVALEVENTSCREEN.TITLE.LAVAARENA2
+msgctxt "UI.FESTIVALEVENTSCREEN.TITLE.LAVAARENA2"
+msgid "The Forge - Season 2"
+msgstr "The Forge - 시즌 2"
+
+#. UI.FESTIVALEVENTSCREEN.TITLE.QUAGMIRE
+msgctxt "UI.FESTIVALEVENTSCREEN.TITLE.QUAGMIRE"
+msgid "The Gorge"
+msgstr "The Gorge"
+
+#. UI.FESTIVALEVENTSCREEN.TOGGLE_PLAYER
+msgctxt "UI.FESTIVALEVENTSCREEN.TOGGLE_PLAYER"
+msgid "Toggle player"
+msgstr "플레이어 전환"
+
+#. UI.FESTIVALEVENTSCREEN.TOOLTIP_BROWSE
+msgctxt "UI.FESTIVALEVENTSCREEN.TOOLTIP_BROWSE"
+msgid "Browse all event servers"
+msgstr "모든 이벤트 서버 찾아보기"
+
+#. UI.FESTIVALEVENTSCREEN.TOOLTIP_HOST
+msgctxt "UI.FESTIVALEVENTSCREEN.TOOLTIP_HOST"
+msgid "Start your own event server"
+msgstr "자가 이벤트 서버 시작"
+
+#. UI.FESTIVALEVENTSCREEN.TOOLTIP_QUICKMATCH
+msgctxt "UI.FESTIVALEVENTSCREEN.TOOLTIP_QUICKMATCH"
+msgid "Hop in to the first available match"
+msgstr "입장 가능한 매치가 발견되는 즉시 참가하기"
+

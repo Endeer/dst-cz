@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.NOTIFICATION.BANNEDFROMGAME
+msgctxt "UI.NOTIFICATION.BANNEDFROMGAME"
+msgid "%s was banned from the game."
+msgstr "%s이(가) 게임에서 차단되었습니다."
+
+#. UI.NOTIFICATION.CHECK_DAILY_GIFT
+msgctxt "UI.NOTIFICATION.CHECK_DAILY_GIFT"
+msgid "Checking for daily gifts"
+msgstr "오늘의 선물 확인 중"
+
+#. UI.NOTIFICATION.CHECK_EVENT
+msgctxt "UI.NOTIFICATION.CHECK_EVENT"
+msgid "Catching up on current events"
+msgstr "현재 이벤트 확인 중"
+
+#. UI.NOTIFICATION.CHECK_INVENTORY
+msgctxt "UI.NOTIFICATION.CHECK_INVENTORY"
+msgid "Updating inventory"
+msgstr "인벤토리 업데이트 중"
+
+#. UI.NOTIFICATION.CHECK_KEYVALUESTORES
+msgctxt "UI.NOTIFICATION.CHECK_KEYVALUESTORES"
+msgid "Grabbing profile details"
+msgstr "프로필 세부 정보 파악"
+
+#. UI.NOTIFICATION.CHECK_SHOP
+msgctxt "UI.NOTIFICATION.CHECK_SHOP"
+msgid "Updating the shop"
+msgstr "상점 업데이트 중"
+
+#. UI.NOTIFICATION.CONNECTING
+msgctxt "UI.NOTIFICATION.CONNECTING"
+msgid "Connecting"
+msgstr "연결 중"
+
+#. UI.NOTIFICATION.CURRENTLY_SPEAKING
+msgctxt "UI.NOTIFICATION.CURRENTLY_SPEAKING"
+msgid "Currently Speaking..."
+msgstr "현재 말하는 중..."
+
+#. UI.NOTIFICATION.DEFAULTVOTEFAILEDFMT
+msgctxt "UI.NOTIFICATION.DEFAULTVOTEFAILEDFMT"
+msgid "The %s has failed."
+msgstr "%s 실패."
+
+#. UI.NOTIFICATION.DEFAULTVOTENAMEFMT
+msgctxt "UI.NOTIFICATION.DEFAULTVOTENAMEFMT"
+msgid "vote"
+msgstr "투표"
+
+#. UI.NOTIFICATION.DEFAULTVOTEPASSEDFMT
+msgctxt "UI.NOTIFICATION.DEFAULTVOTEPASSEDFMT"
+msgid "The %s has passed."
+msgstr "%s 통과."
+
+#. UI.NOTIFICATION.DICEROLLED
+msgctxt "UI.NOTIFICATION.DICEROLLED"
+msgid "%s rolls %s (1-%i)"
+msgstr "%s의 주사위 결과: %s(1-%i)"
+
+#. UI.NOTIFICATION.DISCONNECT_CONTROLLER
+msgctxt "UI.NOTIFICATION.DISCONNECT_CONTROLLER"
+msgid " to Disconnect"
+msgstr " 눌러서 연결 끊기"
+
+#. UI.NOTIFICATION.DISCONNECT_KB
+msgctxt "UI.NOTIFICATION.DISCONNECT_KB"
+msgid ") to Disconnect"
+msgstr "눌러서 연결 끊기"
+
+#. UI.NOTIFICATION.INITIALIZING_SERVER
+msgctxt "UI.NOTIFICATION.INITIALIZING_SERVER"
+msgid "Initializing Server"
+msgstr "서버 초기화 중"
+
+#. UI.NOTIFICATION.JOINEDGAME
+msgctxt "UI.NOTIFICATION.JOINEDGAME"
+msgid "%s has joined the game."
+msgstr "%s이(가) 게임에 참가했습니다."
+
+#. UI.NOTIFICATION.KICKEDFROMGAME
+msgctxt "UI.NOTIFICATION.KICKEDFROMGAME"
+msgid "%s was kicked from the game."
+msgstr "%s이(가) 게임에서 퇴장당했습니다."
+
+#. UI.NOTIFICATION.LAUNCHING_SERVER
+msgctxt "UI.NOTIFICATION.LAUNCHING_SERVER"
+msgid "Launching Server"
+msgstr "서버 개시 중"
+
+#. UI.NOTIFICATION.LEFTGAME
+msgctxt "UI.NOTIFICATION.LEFTGAME"
+msgid "%s has left the game."
+msgstr "%s이(가) 게임에서 나갔습니다."
+
+#. UI.NOTIFICATION.LOADING
+msgctxt "UI.NOTIFICATION.LOADING"
+msgid "Loading"
+msgstr "불러오는 중"
+
+#. UI.NOTIFICATION.LOGIN
+msgctxt "UI.NOTIFICATION.LOGIN"
+msgid "Logging in"
+msgstr "로그인 중"
+
+#. UI.NOTIFICATION.NEW_SKIN_ANNOUNCEMENT
+msgctxt "UI.NOTIFICATION.NEW_SKIN_ANNOUNCEMENT"
+msgid "%s got a new skin: "
+msgstr "%s 새 스킨 획득: "
+
+#. UI.NOTIFICATION.PRESS_CONTROLLER
+msgctxt "UI.NOTIFICATION.PRESS_CONTROLLER"
+msgid "Press "
+msgstr "누르세요: "
+
+#. UI.NOTIFICATION.PRESS_KB
+msgctxt "UI.NOTIFICATION.PRESS_KB"
+msgid "Press ("
+msgstr "누름 ("
+
+#. UI.NOTIFICATION.RESTORING
+msgctxt "UI.NOTIFICATION.RESTORING"
+msgid "Restoring Backup"
+msgstr "백업 복원 중"
+
+#. UI.NOTIFICATION.RETRYING
+msgctxt "UI.NOTIFICATION.RETRYING"
+msgid "Retrying"
+msgstr "다시 시도하는 중"
+
+#. UI.NOTIFICATION.SERVER_WORLDGEN
+msgctxt "UI.NOTIFICATION.SERVER_WORLDGEN"
+msgid "Server is Generating World"
+msgstr "서버가 세계 생성 중"
+
+#. UI.NOTIFICATION.WORLDGENERATING_SERVER
+msgctxt "UI.NOTIFICATION.WORLDGENERATING_SERVER"
+msgid "Generating World"
+msgstr "세계 생성 중"
+

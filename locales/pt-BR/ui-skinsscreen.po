@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.SKINSSCREEN.ALL
+msgctxt "UI.SKINSSCREEN.ALL"
+msgid "All"
+msgstr "Tudo"
+
+#. UI.SKINSSCREEN.BACK
+msgctxt "UI.SKINSSCREEN.BACK"
+msgid "Back"
+msgstr "Voltar"
+
+#. UI.SKINSSCREEN.BASE
+msgctxt "UI.SKINSSCREEN.BASE"
+msgid "BASE"
+msgstr "BASE"
+
+#. UI.SKINSSCREEN.BODY
+msgctxt "UI.SKINSSCREEN.BODY"
+msgid "BODY"
+msgstr "CORPO"
+
+#. UI.SKINSSCREEN.BONUS
+msgctxt "UI.SKINSSCREEN.BONUS"
+msgid "Reward"
+msgstr "Recompensa"
+
+#. UI.SKINSSCREEN.CLEAR
+msgctxt "UI.SKINSSCREEN.CLEAR"
+msgid "Reset to Default"
+msgstr "Retornar ao padrão"
+
+#. UI.SKINSSCREEN.CLOTHING
+msgctxt "UI.SKINSSCREEN.CLOTHING"
+msgid "Clothing"
+msgstr "Roupas"
+
+#. UI.SKINSSCREEN.FEET
+msgctxt "UI.SKINSSCREEN.FEET"
+msgid "FEET"
+msgstr "PÉS"
+
+#. UI.SKINSSCREEN.FILTERS
+msgctxt "UI.SKINSSCREEN.FILTERS"
+msgid "Filters"
+msgstr "Filtros"
+
+#. UI.SKINSSCREEN.HAND
+msgctxt "UI.SKINSSCREEN.HAND"
+msgid "HANDS"
+msgstr "MÃOS"
+
+#. UI.SKINSSCREEN.ITEM
+msgctxt "UI.SKINSSCREEN.ITEM"
+msgid "Craftables"
+msgstr "Fabricáveis"
+
+#. UI.SKINSSCREEN.ITEMS
+msgctxt "UI.SKINSSCREEN.ITEMS"
+msgid "Items"
+msgstr "Itens"
+
+#. UI.SKINSSCREEN.LEGS
+msgctxt "UI.SKINSSCREEN.LEGS"
+msgid "LEGS"
+msgstr "PERNAS"
+
+#. UI.SKINSSCREEN.LOADOUT
+msgctxt "UI.SKINSSCREEN.LOADOUT"
+msgid "Loadout"
+msgstr "Conjunto inicial"
+
+#. UI.SKINSSCREEN.NEW
+msgctxt "UI.SKINSSCREEN.NEW"
+msgid "NEW"
+msgstr "NOVO"
+
+#. UI.SKINSSCREEN.NONE
+msgctxt "UI.SKINSSCREEN.NONE"
+msgid "NONE"
+msgstr "NADA"
+
+#. UI.SKINSSCREEN.NOW_OFFLINE_BODY
+msgctxt "UI.SKINSSCREEN.NOW_OFFLINE_BODY"
+msgid "You are now in offline mode.\nYour item collection is not available in offline mode.\nPlease check your connection and log in again."
+msgstr "Você está no modo off-line.\nSua coleção de itens não está disponível no modo off-line.\nVerifique sua conexão e inicie uma sessão novamente."
+
+#. UI.SKINSSCREEN.NOW_OFFLINE_TITLE
+msgctxt "UI.SKINSSCREEN.NOW_OFFLINE_TITLE"
+msgid "Network Connection Lost"
+msgstr "Conexão com o servidor perdida"
+
+#. UI.SKINSSCREEN.NO_ITEMS
+msgctxt "UI.SKINSSCREEN.NO_ITEMS"
+msgid "Start playing to earn items!"
+msgstr "Comece a jogar para receber itens!"
+
+#. UI.SKINSSCREEN.NO_ITEMS_TITLE
+msgctxt "UI.SKINSSCREEN.NO_ITEMS_TITLE"
+msgid "Nothing to see here"
+msgstr "Não há nada para ver aqui"
+
+#. UI.SKINSSCREEN.OFFLINE
+msgctxt "UI.SKINSSCREEN.OFFLINE"
+msgid "Your curio cabinet is not available in offline mode."
+msgstr "Seu armário de curiosidades não está disponível no modo off-line."
+
+#. UI.SKINSSCREEN.OK
+msgctxt "UI.SKINSSCREEN.OK"
+msgid "OK"
+msgstr "OK"
+
+#. UI.SKINSSCREEN.PICK
+msgctxt "UI.SKINSSCREEN.PICK"
+msgid "Pick A Character"
+msgstr "Escolha uma personagem"
+
+#. UI.SKINSSCREEN.RESET
+msgctxt "UI.SKINSSCREEN.RESET"
+msgid "Last Outfit"
+msgstr "Último traje"
+
+#. UI.SKINSSCREEN.SAVE
+msgctxt "UI.SKINSSCREEN.SAVE"
+msgid "Save Outfit"
+msgstr "Salvar traje"
+
+#. UI.SKINSSCREEN.SELECT
+msgctxt "UI.SKINSSCREEN.SELECT"
+msgid "Select"
+msgstr "Selecionar"
+
+#. UI.SKINSSCREEN.SET_INFO
+msgctxt "UI.SKINSSCREEN.SET_INFO"
+msgid "Ensemble Info"
+msgstr "Informações do conjunto"
+
+#. UI.SKINSSCREEN.SET_PROGRESS
+msgctxt "UI.SKINSSCREEN.SET_PROGRESS"
+msgid "Piece"
+msgstr "Parte"
+
+#. UI.SKINSSCREEN.SORRY
+msgctxt "UI.SKINSSCREEN.SORRY"
+msgid "Sorry"
+msgstr "Desculpe"
+
+#. UI.SKINSSCREEN.TITLE
+msgctxt "UI.SKINSSCREEN.TITLE"
+msgid "{name}'s Collection"
+msgstr "Coleção de {name}"
+
+#. UI.SKINSSCREEN.TRADE
+msgctxt "UI.SKINSSCREEN.TRADE"
+msgid "Trade Inn"
+msgstr "Loja de Trocas"
+
+#. UI.SKINSSCREEN.TRADE_TOOLTIP
+msgctxt "UI.SKINSSCREEN.TRADE_TOOLTIP"
+msgid "Trade your old items in for something new!"
+msgstr "Troque seus itens antigos por algo novo!"
+
+#. UI.SKINSSCREEN.USABLE_INFO
+msgctxt "UI.SKINSSCREEN.USABLE_INFO"
+msgid "Reskin Info"
+msgstr "Informações de modificação"
+
+#. UI.SKINSSCREEN.USABLE_INFO_TITLE
+msgctxt "UI.SKINSSCREEN.USABLE_INFO_TITLE"
+msgid "Reskins"
+msgstr "Modificações"
+
+#. UI.SKINSSCREEN.USABLE_ON
+msgctxt "UI.SKINSSCREEN.USABLE_ON"
+msgid "Reskins {item}"
+msgstr "Modifica {item}"
+
+#. UI.SKINSSCREEN.USABLE_ON_MULTIPLE
+msgctxt "UI.SKINSSCREEN.USABLE_ON_MULTIPLE"
+msgid "Reskins {item1} and {item2}"
+msgstr "Modifica {item1} e {item2}"
+
+#. UI.SKINSSCREEN.USABLE_ON_MULTIPLE_3
+msgctxt "UI.SKINSSCREEN.USABLE_ON_MULTIPLE_3"
+msgid "Reskins {item1}, {item2} and {item3}"
+msgstr "Modifica {item1}, {item2} e {item3}"
+
+#. UI.SKINSSCREEN.USABLE_ON_MULTIPLE_3_POPUP
+msgctxt "UI.SKINSSCREEN.USABLE_ON_MULTIPLE_3_POPUP"
+msgid "{skin} will change the appearance of {item1}, {item2} and {item3}."
+msgstr "{skin} alterará a aparência de {item1}, {item2} e {item3}."
+
+#. UI.SKINSSCREEN.USABLE_ON_MULTIPLE_POPUP
+msgctxt "UI.SKINSSCREEN.USABLE_ON_MULTIPLE_POPUP"
+msgid "{skin} will change the appearance of {item1} and {item2}."
+msgstr "{skin} alterará a aparência de {item1} e {item2}."
+
+#. UI.SKINSSCREEN.USABLE_ON_POPUP
+msgctxt "UI.SKINSSCREEN.USABLE_ON_POPUP"
+msgid "{skin} will change the appearance of {item}."
+msgstr "{skin} alterará a aparência de {item}."
+

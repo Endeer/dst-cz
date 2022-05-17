@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.FESTIVALEVENTSCREEN.BROWSE
+msgctxt "UI.FESTIVALEVENTSCREEN.BROWSE"
+msgid "Browse Servers"
+msgstr "流覽伺服器"
+
+#. UI.FESTIVALEVENTSCREEN.HOST
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST"
+msgid "Custom Match"
+msgstr "自訂比賽"
+
+#. UI.FESTIVALEVENTSCREEN.HOST_CONNECTINGTOSERVER
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_CONNECTINGTOSERVER"
+msgid "Connecting to server"
+msgstr "正在連接伺服器"
+
+#. UI.FESTIVALEVENTSCREEN.HOST_DETERMININGREGION
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_DETERMININGREGION"
+msgid "Determining region"
+msgstr "正在確定區域"
+
+#. UI.FESTIVALEVENTSCREEN.HOST_FAILED
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_FAILED"
+msgid "Network Error"
+msgstr "網路出錯"
+
+#. UI.FESTIVALEVENTSCREEN.HOST_FAILED_BODY
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_FAILED_BODY"
+msgid "Failed to connect to event server."
+msgstr "未能連接事件伺服器。"
+
+#. UI.FESTIVALEVENTSCREEN.HOST_GETTINGREGIONS
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_GETTINGREGIONS"
+msgid "Getting regions"
+msgstr "正在獲取地區"
+
+#. UI.FESTIVALEVENTSCREEN.HOST_NO_SERVERS_BODY
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_NO_SERVERS_BODY"
+msgid "No servers are currently available for your game version. Please update and try again."
+msgstr "目前沒有可用的伺服器適合你的遊戲版本。請更新後重試。"
+
+#. UI.FESTIVALEVENTSCREEN.HOST_PINGS_FAILED_BODY
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_PINGS_FAILED_BODY"
+msgid "Unable to contact Klei servers.\nPlease check your network connection and try again."
+msgstr "無法聯繫 科雷伺服器。\n請檢查您的網路連接，然後重試。"
+
+#. UI.FESTIVALEVENTSCREEN.HOST_REQUESTINGSERVER
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_REQUESTINGSERVER"
+msgid "Requesting server"
+msgstr "正在請求伺服器"
+
+#. UI.FESTIVALEVENTSCREEN.HOST_WAITINGFORWORLD
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_WAITINGFORWORLD"
+msgid "Waiting for world"
+msgstr "正在等待世界"
+
+#. UI.FESTIVALEVENTSCREEN.MODS_POPUP_BODY
+msgctxt "UI.FESTIVALEVENTSCREEN.MODS_POPUP_BODY"
+msgid "Warning!\nClient mods are unsupported in {event}.\nDisabling all mods is recommended."
+msgstr "警告！\n用戶端模式在{event}中不受支援。\n建議禁用所有 模組。"
+
+#. UI.FESTIVALEVENTSCREEN.MODS_POPUP_CANCEL
+msgctxt "UI.FESTIVALEVENTSCREEN.MODS_POPUP_CANCEL"
+msgid "Cancel"
+msgstr "取消"
+
+#. UI.FESTIVALEVENTSCREEN.MODS_POPUP_CONTINUE
+msgctxt "UI.FESTIVALEVENTSCREEN.MODS_POPUP_CONTINUE"
+msgid "Continue"
+msgstr "繼續"
+
+#. UI.FESTIVALEVENTSCREEN.MODS_POPUP_DISABLE_MODS
+msgctxt "UI.FESTIVALEVENTSCREEN.MODS_POPUP_DISABLE_MODS"
+msgid "Disable All Mods"
+msgstr "禁用所有模組"
+
+#. UI.FESTIVALEVENTSCREEN.MODS_POPUP_TITLE
+msgctxt "UI.FESTIVALEVENTSCREEN.MODS_POPUP_TITLE"
+msgid "Mods Detected!"
+msgstr "檢測到模組！"
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BACK
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BACK"
+msgid "Back"
+msgstr "返回"
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY.lavaarena
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY.lavaarena"
+msgid "You must be logged in to challenge\nBattlemaster Pugna's warriors."
+msgstr "必須登錄才能挑戰\n普格納的戰士。"
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY.quagmire
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY.quagmire"
+msgid "You must be logged in to prepare\nofferings for the Altar of Gnaw."
+msgstr "您必須登錄才能\n為饕餮祭壇準備供品。"
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY_CONSOLE.lavaarena
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY_CONSOLE.lavaarena"
+msgid "All players must be online to challenge\nBattlemaster Pugna's warriors."
+msgstr "必須所有玩家都線上，才可挑戰\n戰鬥大師普格納的戰士。"
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY_CONSOLE.quagmire
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY_CONSOLE.quagmire"
+msgid "All players must be online to prepare\nofferings for the Altar of Gnaw."
+msgstr "所有玩家必須線上，才能\n為饕餮祭壇準備供品。"
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_LOGIN
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_LOGIN"
+msgid "Log In"
+msgstr "登錄"
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_TITLE
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_TITLE"
+msgid "Offline"
+msgstr "線下"
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_TITLE_CONSOLE
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_TITLE_CONSOLE"
+msgid "You are in offline mode"
+msgstr "您處於離線模式"
+
+#. UI.FESTIVALEVENTSCREEN.QUICKMATCH
+msgctxt "UI.FESTIVALEVENTSCREEN.QUICKMATCH"
+msgid "Quick Match"
+msgstr "快速參賽"
+
+#. UI.FESTIVALEVENTSCREEN.TITLE.LAVAARENA
+msgctxt "UI.FESTIVALEVENTSCREEN.TITLE.LAVAARENA"
+msgid "The Forge"
+msgstr "熔爐"
+
+#. UI.FESTIVALEVENTSCREEN.TITLE.LAVAARENA2
+msgctxt "UI.FESTIVALEVENTSCREEN.TITLE.LAVAARENA2"
+msgid "The Forge - Season 2"
+msgstr "熔爐 - 第2季"
+
+#. UI.FESTIVALEVENTSCREEN.TITLE.QUAGMIRE
+msgctxt "UI.FESTIVALEVENTSCREEN.TITLE.QUAGMIRE"
+msgid "The Gorge"
+msgstr "暴食"
+
+#. UI.FESTIVALEVENTSCREEN.TOGGLE_PLAYER
+msgctxt "UI.FESTIVALEVENTSCREEN.TOGGLE_PLAYER"
+msgid "Toggle player"
+msgstr "切換玩家"
+
+#. UI.FESTIVALEVENTSCREEN.TOOLTIP_BROWSE
+msgctxt "UI.FESTIVALEVENTSCREEN.TOOLTIP_BROWSE"
+msgid "Browse all event servers"
+msgstr "流覽所有事件伺服器"
+
+#. UI.FESTIVALEVENTSCREEN.TOOLTIP_HOST
+msgctxt "UI.FESTIVALEVENTSCREEN.TOOLTIP_HOST"
+msgid "Start your own event server"
+msgstr "啟動你自己的事件伺服器"
+
+#. UI.FESTIVALEVENTSCREEN.TOOLTIP_QUICKMATCH
+msgctxt "UI.FESTIVALEVENTSCREEN.TOOLTIP_QUICKMATCH"
+msgid "Hop in to the first available match"
+msgstr "跳到第一個可用的比賽"
+

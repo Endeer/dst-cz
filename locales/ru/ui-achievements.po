@@ -1,0 +1,1510 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.ACHIEVEMENTS.INGAME_NOTICE
+msgctxt "UI.ACHIEVEMENTS.INGAME_NOTICE"
+msgid "Accomplishments are awarded at the end of a match."
+msgstr "Кубок свершений выдается в конце матча."
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons.DESC"
+msgid "Finish the Pit Pig round having taken less than 800 teamwide damage"
+msgstr "Закончите раунд с Хряком из пекла, нанеся минимум 800 командного урона"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons.TITLE"
+msgid "Down But Not Snout"
+msgstr "Побежден, Но Не Сломлен"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons_hard.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons_hard.DESC"
+msgid "Finish the Pit Pig round having taken less than 600 teamwide damage"
+msgstr "Закончите раунд с Хряком из пекла, нанеся минимум 600 командного урона"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons_hard.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons_hard.TITLE"
+msgid "Hair Of Their Chinny, Chin, Chin"
+msgstr "Подбородочный Волос с их Подбородистого Подбородка"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_easy.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_easy.DESC"
+msgid "Survive until the first wave of Scorpeons without any teammates dying"
+msgstr "Доживите до первой волны Скорпехотинцев без потерь игроков команды"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_easy.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_easy.TITLE"
+msgid "Not Today"
+msgstr "Не Сегодня"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_hard.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_hard.DESC"
+msgid "Survive until the Grand Forge Boarrior is summoned without any teammates dying"
+msgstr "Доживите до появления Великого Борова-воина Горнила без потерь игроков команды"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_hard.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_hard.TITLE"
+msgid "Just Won't Die!"
+msgstr "Никак не Сдохнет!"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_medium.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_medium.DESC"
+msgid "Survive until the first Boarilla arrives and defeat it without any teammates dying"
+msgstr "Доживите до прибытия первой Свинориллы и одолейте ее без потерь игроков команды"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_medium.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_medium.TITLE"
+msgid "Hard To Kill"
+msgstr "Крепкий Орешек"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_peghook.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_peghook.DESC"
+msgid "Survive the first wave of Scorpeons without any teammates dying from acid"
+msgstr "Доживите до первой волны Скорпехотинцев без потерь игроков команды от кислоты"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_peghook.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_peghook.TITLE"
+msgid "Basic Solution"
+msgstr "Базовый Раствор"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus.DESC"
+msgid "Finish the Snortoise round without allowing Snortoises to perform more than 3 spin attacks"
+msgstr "Закончите раунд с Хрюкопахами, избегая их атак и нанеся более трех крутящихся атак."
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus.TITLE"
+msgid "Big Wheel Kept From Turnin'"
+msgstr "Большое Колесо Остановило Бег"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus_hard.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus_hard.DESC"
+msgid "Finish the Snortoise round without allowing Snortoises to perform any spin attacks"
+msgstr "Закончите раунд с Хрюкопахами, избегая их атак и нанеся любую крутящуюся атаку."
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus_hard.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus_hard.TITLE"
+msgid "Unspun Hero"
+msgstr "Раскрученный Герой"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_axethrow.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_axethrow.DESC"
+msgid "Land 20 Lucy Chucks in a single match"
+msgstr "Метните Люси 20 раз за матч"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_axethrow.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_axethrow.TITLE"
+msgid "Chuck It Overboard"
+msgstr "Хочешь кричать — кричи"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_battlecry.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_battlecry.DESC"
+msgid "Trigger the Battle Cry buff on at least 3 friends, 10 times in a single match"
+msgstr "Используйте боевой клич, чтобы усилить как минимум 3 друзей, 10 раз за один матч"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_battlecry.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_battlecry.TITLE"
+msgid "Standing Ovation"
+msgstr "Аплодируем стоя"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_battlestandards.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_battlestandards.DESC"
+msgid "Destroy 3 or more battle standards in a single match"
+msgstr "Уничтожьте не менее 3 боевых знамен за один матч"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_battlestandards.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_battlestandards.TITLE"
+msgid "Triple Standard"
+msgstr "Тройное знамя"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_beetle1.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_beetle1.DESC"
+msgid "desc_laq_beetle1"
+msgstr "desc_laq_beetle1"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_beetle1.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_beetle1.TITLE"
+msgid "name_laq_beetle1"
+msgstr "name_laq_beetle1"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_boarons.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_boarons.DESC"
+msgid "Defeat the Pit Pigs round with less then 800 player damage take by the team"
+msgstr "Одолейте хряков из пекла так, чтобы участники команды получили не более 800 ед. урона"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_boarons.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_boarons.TITLE"
+msgid "Acceptable Casualties"
+msgstr "Приемлемые потери"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_dailymatch.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_dailymatch.DESC"
+msgid ""
+msgstr ""
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_dailymatch.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_dailymatch.TITLE"
+msgid "Daily Match Bonus"
+msgstr "Ежедневный бонус за матч"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_dailywin.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_dailywin.DESC"
+msgid ""
+msgstr ""
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_dailywin.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_dailywin.TITLE"
+msgid "Daily Victory Bonus"
+msgstr "Ежедневный бонус за победу"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_decoy.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_decoy.DESC"
+msgid "Achieve the Expert Decoy card at the end of the match"
+msgstr "Заработайте карточку Эксперта обманных маневров в конце боя"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_decoy.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_decoy.TITLE"
+msgid "Bundle of Decoy"
+msgstr "Пакет обманных маневров"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_boarrior.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_boarrior.DESC"
+msgid "Defeat the Grand Forge Boarrior"
+msgstr "Одолейте Великого Борова-воина Горнила"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_boarrior.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_boarrior.TITLE"
+msgid "Boarrior Victorior"
+msgstr "Боров в поле не воин"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_rhinodrill.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_rhinodrill.DESC"
+msgid "Defeat the Rhinocebro round"
+msgstr "Победите в сражении с Носоробро"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_rhinodrill.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_rhinodrill.TITLE"
+msgid "Way To Go, Bro"
+msgstr "Ты крут, бро"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_snapper.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_snapper.DESC"
+msgid "Complete the Crocommander round"
+msgstr "Выдержите сражение с Крокомандиром"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_snapper.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_snapper.TITLE"
+msgid "Crocommand the Room"
+msgstr "Крокомандовать парадом буду я"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_trails.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_trails.DESC"
+msgid "Defeat the Boarilla"
+msgstr "Одолейте Свинориллу"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_trails.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_trails.TITLE"
+msgid "Boarilla'd To Death"
+msgstr "Смерть Свинориллам"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_distraction.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_distraction.DESC"
+msgid "Achieve the Distraction or Expert Decoy card at the end of the match"
+msgstr "Заработайте искажение карточки Эксперта обманных маневров в конце боя"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_distraction.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_distraction.TITLE"
+msgid "Welcome Distraction"
+msgstr "Приятное искажение"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_doctor.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_doctor.DESC"
+msgid "Achieve the Doctor card at the end of the match"
+msgstr "Заработайте карточку Доктора в конце боя"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_doctor.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_doctor.TITLE"
+msgid "Win Doctor"
+msgstr "Выиграть Доктора"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_fasthealing.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_fasthealing.DESC"
+msgid "Cast 4 Life Blossoms within 60 seconds"
+msgstr "Произнесите заклинание живых цветений 4 раза за 60 секунд"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_fasthealing.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_fasthealing.TITLE"
+msgid "Fight Four Their Life"
+msgstr "Четыре — это сила"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_flip.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_flip.DESC"
+msgid "Flip 20 or more Snortoises in a single match"
+msgstr "Переверните 20 или больше Хрюкопах в одиночном матче"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_flip.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_flip.TITLE"
+msgid "Flip It Real Good"
+msgstr "Проверни невозможное"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_fullhands.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_fullhands.DESC"
+msgid "Perform a special attack using a melee weapon, dart and staff all in a single match"
+msgstr "Произведите особую атаку, используя в одном матче и оружие ближнего боя, и дротик и посох"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_fullhands.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_fullhands.TITLE"
+msgid "Many Hands Make Fight Work"
+msgstr "Вместе мы — сила"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_guardsbroken.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_guardsbroken.DESC"
+msgid "Interrupt 5 or more guarded enemies in a single match"
+msgstr "Заблокируйте не менее 5 врагов в защитной позиции за один матч"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_guardsbroken.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_guardsbroken.TITLE"
+msgid "Drop Your Guard"
+msgstr "Забудь о защите"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_hammer.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_hammer.DESC"
+msgid "Land Anvil Strikes on 25 or more targets in a single match"
+msgstr "Нанесите не менее 25 Ударов по наковальне по разным целям за матч"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_hammer.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_hammer.TITLE"
+msgid "Strike A Match"
+msgstr "Нанести удар"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_heavyblade_special.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_heavyblade_special.DESC"
+msgid "Parry 15 special attacks in a single match using the Blacksmith's Edge"
+msgstr "Произведите не менее 15 особых атак за один матч, используя Клинок кузнеца"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_heavyblade_special.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_heavyblade_special.TITLE"
+msgid "Best Blade Plans"
+msgstr "Лучшие чертежи клинка"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_killingblows_lots.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_killingblows_lots.DESC"
+msgid "Land 10 or more killing blows in a single match"
+msgstr "Нанесите не менее 10 смертельных ударов за один матч"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_killingblows_lots.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_killingblows_lots.TITLE"
+msgid "Blow It Wide Open"
+msgstr "Всех порвать"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_merciless.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_merciless.DESC"
+msgid "Achieve the Merciless card at the end of the match"
+msgstr "Заработайте карточку Безжалостности в конце поединка"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_merciless.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_merciless.TITLE"
+msgid "Cry Mercy"
+msgstr "Проси пощады"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_meteorkill.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_meteorkill.DESC"
+msgid "Land a killing blow with a Cataclysm Meteor"
+msgstr "Нанесите смертельный удар благодаря Метеору Катаклизма"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_meteorkill.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_meteorkill.TITLE"
+msgid "Death From Above"
+msgstr "Смерть с небес"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_meteors.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_meteors.DESC"
+msgid "Land Cataclysm Meteors on 40 or more targets in a single match"
+msgstr "Нанесите не менее 40 ударов Метеорами Катаклизма по разным целям за матч"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_meteors.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_meteors.TITLE"
+msgid "Meteor Your Match"
+msgstr "Метеор в подарок"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodashhounds.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodashhounds.DESC"
+msgid "Avoid being hit by a dashing Pit Pig before the Snortoises arrive"
+msgstr "Избегайте ударов Хряков из пекла до появления Хрюкопах"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodashhounds.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodashhounds.TITLE"
+msgid "Dash Their Hopes"
+msgstr "Разбить их надежды"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r2.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r2.DESC"
+msgid "Survive with no team deaths before the Snortoises arrive"
+msgstr "Продержитесь до появления Хрюкопах, не потеряв ни одного из членов команды"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r2.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r2.TITLE"
+msgid "Rigor Snortoise"
+msgstr "Хрюкопаха, замри"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r3.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r3.DESC"
+msgid "Survive with no team deaths before the Scorpeons arrive"
+msgstr "Продержитесь до появления Скорпехотинцев, не потеряв ни одного из членов команды"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r3.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r3.TITLE"
+msgid "Scorpeon Denizens"
+msgstr "Соратники Скорпехотинцев"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r4.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r4.DESC"
+msgid "Survive with no team deaths until a Boarilla is defeated"
+msgstr "Продержитесь до появления Свинориллы, не потеряв ни одного из членов команды"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r4.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r4.TITLE"
+msgid "Mindless Violence"
+msgstr "Бессмысленное насилие"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r5.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r5.DESC"
+msgid "Survive with no team deaths until the Grand Forge Boarrior is defeated"
+msgstr "Продержитесь до появления Великого Борова-воина Горнила, не потеряв ни одного из членов команды"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r5.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r5.TITLE"
+msgid "On the Boarrior Path"
+msgstr "Встать на путь Борова-воина"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r6.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r6.DESC"
+msgid "Survive with no team deaths until both Rhinocebros are defeated"
+msgstr "Продержитесь до появления обоих Носоробро, не потеряв ни одного из членов команды"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r6.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r6.TITLE"
+msgid "Drill Down"
+msgstr "Бурить до обурения"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_solo_easy.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_solo_easy.DESC"
+msgid "Avoid death before the Boarilla arrives"
+msgstr "Постарайтесь не умереть до появления Свинориллы"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_solo_easy.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_solo_easy.TITLE"
+msgid "Live To See the Fray"
+msgstr "Дождаться заварушки"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_solo_hard.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_solo_hard.DESC"
+msgid "Survive until the Grand Forge Boarrior is defeated"
+msgstr "Продержитесь до победы над Великим Боровом-воином Горнила"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_solo_hard.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_solo_hard.TITLE"
+msgid "Delusions of Grand Forge"
+msgstr "Иллюзии Великого Горнила"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nopoisondeath.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nopoisondeath.DESC"
+msgid "Defeat the initial Scorpeon wave without anyone dying from Scorpeon Acid"
+msgstr "Разбейте первую волну Скорпехотинцев так, чтобы никто не умер от их кислоты"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nopoisondeath.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nopoisondeath.TITLE"
+msgid "Acid Redux"
+msgstr "Кислота, уходи"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_outofharmsway.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_outofharmsway.DESC"
+msgid "Survive until the Scorpeons arrive, taking under 200 damage"
+msgstr "Продержитесь до появления Скорпехотинцев, получив менее 200 ед. урона"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_outofharmsway.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_outofharmsway.TITLE"
+msgid "Scorpeons Position"
+msgstr "Позиции Скорпехотинцев"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_petrify.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_petrify.DESC"
+msgid "Petrify 25 or more enemies before the Infernal Staff drops"
+msgstr "Превратите в камень 25 или больше врагов до того, как выпадет Адский посох"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_petrify.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_petrify.TITLE"
+msgid "Stone Cold"
+msgstr "Холодный, как Камень"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_reviver.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_reviver.DESC"
+msgid "Revive a fallen friend"
+msgstr "Оживите павшего друга"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_reviver.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_reviver.TITLE"
+msgid "Modern Prometheus"
+msgstr "Современный Прометей"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_rhinodrill1.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_rhinodrill1.DESC"
+msgid "Avoid death by the Rhinocebros"
+msgstr "Не дайте Носоробро вас одолеть"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_rhinodrill1.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_rhinodrill1.TITLE"
+msgid "No the Drill"
+msgstr "Только не бур"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_rhinodrill_hard.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_rhinodrill_hard.DESC"
+msgid "Defeat the Rhinocebros without allowing either of them to be revived"
+msgstr "Одолейте Носоробро, не дав ни одному из них возродиться"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_rhinodrill_hard.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_rhinodrill_hard.TITLE"
+msgid "Night of the Drilling Dead"
+msgstr "Ночь бурящих мертвецов"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_shadowkill.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_shadowkill.DESC"
+msgid "Deal a killing blow using Maxwell's shadow minions"
+msgstr "Нанесите смертельный удар, используя теневых миньонов Максвелла"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_shadowkill.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_shadowkill.TITLE"
+msgid "From The Shadows"
+msgstr "Из Тени"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_shock.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_shock.DESC"
+msgid "Stop a spinning Snortoise with a shock"
+msgstr "Остановите вращающуюся Хрюкопаху, используя электрошок"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_shock.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_shock.TITLE"
+msgid "Shell Shocked"
+msgstr "Контуженный"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_specials_somany.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_specials_somany.DESC"
+msgid "Use 40 or more special attacks in a single match"
+msgstr "Произведите 40 или больше особых атак в одиночном матче"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_specials_somany.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_specials_somany.TITLE"
+msgid "Super Special"
+msgstr "Суперособенный"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_specials_veryfast.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_specials_veryfast.DESC"
+msgid "Perform 4 special attacks in under 20 seconds (excludes chucking Riled Lucy)"
+msgstr "Проведите 4 особых атаки менее, чем за 20 секунд (за исключением запуска Гневной Люси)"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_specials_veryfast.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_specials_veryfast.TITLE"
+msgid "Rapid Try Movement"
+msgstr "Стремительное движение"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinners_easy.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinners_easy.DESC"
+msgid "Defeat the Snortoise round without allowing Snortoises to perform more than 4 spin attacks"
+msgstr "Закончите раунд с Хрюкопахами, не допустив, чтобы они нанесли более 4 крутящихся атак"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinners_easy.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinners_easy.TITLE"
+msgid "Spin Docker"
+msgstr "Раскрутка"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinners_hard.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinners_hard.DESC"
+msgid "Defeat the Snortoise round without allowing Snortoises to perform any spin attacks"
+msgstr "Закончите раунд с Хрюкопахами, не допустив никаких крутящихся атак"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinners_hard.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinners_hard.TITLE"
+msgid "Unspun Hero"
+msgstr "Раскрученный Герой"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinstopper.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinstopper.DESC"
+msgid "Stop a spinning Snortoise, by any means necessary."
+msgstr "Остановите вращающуюся Хрюкопаху любой ценой."
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinstopper.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinstopper.TITLE"
+msgid "Spinning In Their Grave"
+msgstr "Пусть вертятся в могиле"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_stronghealing.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_stronghealing.DESC"
+msgid "Cast 3 amplified Life Blossoms within 60 seconds"
+msgstr "Трижды произнесите заклинание усиленных живых цветений за 60 секунд"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_stronghealing.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_stronghealing.TITLE"
+msgid "Spell It Out"
+msgstr "Произнеси Это Вслух"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_20.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_20.DESC"
+msgid "Win a match in under 20 minutes"
+msgstr "Победите в матче менее, чем за 20 минут"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_20.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_20.TITLE"
+msgid "Gold Speed Run"
+msgstr "Золотой Результат"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_25.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_25.DESC"
+msgid "Win a match in under 25 minutes"
+msgstr "Победите в матче менее, чем за 25 минут"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_25.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_25.TITLE"
+msgid "Silver Speed Run"
+msgstr "Серебряный Результат"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_30.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_30.DESC"
+msgid "Win a match in under 30 minutes"
+msgstr "Победите в матче менее, чем за 30 минут"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_30.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_30.TITLE"
+msgid "Bronze Speed Run"
+msgstr "Бронзовый Результат"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_self.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_self.DESC"
+msgid "Win a Forge match without dying"
+msgstr "Победите в матче Горнила, не умерев"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_self.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_self.TITLE"
+msgid "Solo Survivor"
+msgstr "Единственный Выживший"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_team.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_team.DESC"
+msgid "Win a Forge match without any teammates dying"
+msgstr "Победите в матче Горнила без потерь игроков команды"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_team.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_team.TITLE"
+msgid "Team Survivor"
+msgstr "Выживший в Команде"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_uniqueteam.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_uniqueteam.DESC"
+msgid "Play on a team with 6 unique survivors and win without any teammates dying"
+msgstr "Играйте командой из шести уникальных выживших и победите без потерь игроков команды"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_uniqueteam.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_uniqueteam.TITLE"
+msgid "Survival of the Mis-Fittest"
+msgstr "Выживание Самых Неприспособленных"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_battlecry.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_battlecry.DESC"
+msgid "Buff 3 friends simultaneously 5 times in a match using Battle Cry"
+msgstr "Усильте трех друзей одновременно пять раз за бой, используя Боевой Клич"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_battlecry.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_battlecry.TITLE"
+msgid "Curtain Call"
+msgstr "На Бис"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_flip.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_flip.DESC"
+msgid "Flip 20 or more Snortoises in a single match"
+msgstr "Переверните 20 или больше Хрюкопах в одиночном матче"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_flip.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_flip.TITLE"
+msgid "Exit, Pursued By Viking"
+msgstr "Уйти от Преследования Викинга"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_victory.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Wigfrid"
+msgstr "Победите воинов Полководца Пугны, играя за Вигфрид"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_victory.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_victory.TITLE"
+msgid "Forging Victory"
+msgstr "Кующий Победу"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_minion_kill.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_minion_kill.DESC"
+msgid "Deal a killing blow using Maxwell's shadow minions"
+msgstr "Нанесите смертельный удар, используя теневых миньонов Максвелла"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_minion_kill.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_minion_kill.TITLE"
+msgid "From The Shadows"
+msgstr "Из Тени"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_petrify.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_petrify.DESC"
+msgid "Petrify 25 or more enemies before the Infernal Staff drops"
+msgstr "Превратите в камень 25 или больше врагов до того, как выпадет Адский посох"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_petrify.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_petrify.TITLE"
+msgid "Stone Cold"
+msgstr "Холодный, как Камень"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_victory.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Maxwell"
+msgstr "Победите воинов Полководца Пугны, играя за Максвелла"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_victory.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_victory.TITLE"
+msgid "Forging Victory"
+msgstr "Кующий Победу"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_darts.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_darts.DESC"
+msgid "Use 3 special attacks in under 20 seconds"
+msgstr "Проведите 3 особых атаки менее, чем за 20 секунд"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_darts.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_darts.TITLE"
+msgid "Webslinger"
+msgstr "Летящий Паук"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_merciless.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_merciless.DESC"
+msgid "Achieve the Merciless card at the end of the match"
+msgstr "Заработайте карточку Безжалостности в конце поединка"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_merciless.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_merciless.TITLE"
+msgid "Prey Tell"
+msgstr "Жертвенный Курган"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_victory.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Webber"
+msgstr "Победите воинов Полководца Пугны, играя за Веббера"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_victory.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_victory.TITLE"
+msgid "Forging Victory"
+msgstr "Кующий Победу"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_guardsbroken.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_guardsbroken.DESC"
+msgid "Interrupt 5 or more enemies while they're in guard stance in a single match"
+msgstr "В одиночном матче заблокируйте 5 или более врагов, пока те находятся в защитной позиции"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_guardsbroken.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_guardsbroken.TITLE"
+msgid "En-guard, Villain"
+msgstr "Защищайся, Каналья"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_outofharmsway.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_outofharmsway.DESC"
+msgid "Take under 100 damage and land 150 darts before the Scorpeon wave"
+msgstr "Нанесите не менее 100 урона и запустите 150 дротиков до наступления волны скорпехотинцев"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_outofharmsway.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_outofharmsway.TITLE"
+msgid "Float Like A Butterfly"
+msgstr "Порхай Как Бабочка"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_victory.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Wendy"
+msgstr "Победите воинов Полководца Пугны, играя за Венди"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_victory.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_victory.TITLE"
+msgid "Forging Victory"
+msgstr "Кующий Победу"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_battlestandards.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_battlestandards.DESC"
+msgid "Destroy 3 or more Battle Standards in a single match"
+msgstr "Уничтожьте 3 или более Боевых Знамен в одиночном матче"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_battlestandards.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_battlestandards.TITLE"
+msgid "Unspoken Standard"
+msgstr "Негласное Правило"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_decoy.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_decoy.DESC"
+msgid "Receive the Expert Decoy card at the end of the match"
+msgstr "Получите карточку Эксперта обманных маневров в конце боя"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_decoy.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_decoy.TITLE"
+msgid "Show, Don't Tell"
+msgstr "Показывай, А Не Говори"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_victory.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Wes"
+msgstr "Победите воинов Полководца Пугны, играя за Вэса"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_victory.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_victory.TITLE"
+msgid "Forging Victory"
+msgstr "Кующий Победу"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_healing.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_healing.DESC"
+msgid "Cast 3 amplified Life Blossoms within 60 seconds"
+msgstr "Трижды произнесите заклинание усиленных живых цветений за 60 секунд"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_healing.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_healing.TITLE"
+msgid "Spell It Out"
+msgstr "Произнеси Это Вслух"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_meteor.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_meteor.DESC"
+msgid "Land a killing blow with an amplified Cataclysm Meteor"
+msgstr "Нанесите смертельный удар благодаря усиленному Метеору Катаклизма"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_meteor.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_meteor.TITLE"
+msgid "Library Staff"
+msgstr "Библиотечный Посох"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_victory.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Wickerbottom"
+msgstr "Победите воинов Полководца Пугны, играя за Уикерботтом"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_victory.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_victory.TITLE"
+msgid "Forging Victory"
+msgstr "Кующий Победу"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_meteor.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_meteor.DESC"
+msgid "Hit 40 or more targets in a single match using Meteor Strikes"
+msgstr "Ударьте 40 или больше целей в одиночном матче, используя атаки Метеором"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_meteor.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_meteor.TITLE"
+msgid "Heat Stricken"
+msgstr "Тепловой Удар"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_moltenbolt.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_moltenbolt.DESC"
+msgid "Stop a spinning Snortoise with using a Molten Bolt attack"
+msgstr "Остановите вращающуюся Хрюкопаху, используя атаку Расплавленного болта"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_moltenbolt.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_moltenbolt.TITLE"
+msgid "Ring of Fire"
+msgstr "Огненное Кольцо"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_victory.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Willow"
+msgstr "Победите воинов Полководца Пугны, играя за Уиллоу"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_victory.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_victory.TITLE"
+msgid "Forging Victory"
+msgstr "Кующий Победу"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_battlestandards.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_battlestandards.DESC"
+msgid "Destroy 3 or more Battle Standards in a single match"
+msgstr "Уничтожьте 3 или более Боевых Знамен в одиночном матче"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_battlestandards.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_battlestandards.TITLE"
+msgid "Standard Deviations"
+msgstr "Допустимые Отклонения"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_reviver.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_reviver.DESC"
+msgid "Revive a fallen friend"
+msgstr "Оживите павшего друга"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_reviver.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_reviver.TITLE"
+msgid "It's Alive!"
+msgstr "Он жив!"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_victory.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Wilson"
+msgstr "Победите воинов Полководца Пугны, играя за Уилсона"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_victory.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_victory.TITLE"
+msgid "Forging Victory"
+msgstr "Кующий Победу"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_allweapons.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_allweapons.DESC"
+msgid "Perform a special attack using a melee weapon, a dart, and a staff in a single match"
+msgstr "Произведите особую атаку, используя оружие ближнего боя, дротик или посох в одиночном матче"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_allweapons.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_allweapons.TITLE"
+msgid "Jill of All Trades"
+msgstr "Мастерица на Все Руки"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_altattacks.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_altattacks.DESC"
+msgid "Use 40 or more special attacks in a single match"
+msgstr "Произведите 40 или больше особых атак в одиночном матче"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_altattacks.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_altattacks.TITLE"
+msgid "Maximum Efficiency"
+msgstr "Максимум Эффективности"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_victory.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Winona"
+msgstr "Победите воинов Полководца Пугны, играя за Вайнону"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_victory.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_victory.TITLE"
+msgid "Forging Victory"
+msgstr "Кующий Победу"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_20.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_20.DESC"
+msgid "Win a Forge match in under 20 minutes"
+msgstr "Победите в матче Горнила менее, чем за 20 минут"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_20.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_20.TITLE"
+msgid "Gold Speed Run"
+msgstr "Золотой Результат"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_25.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_25.DESC"
+msgid "Win a Forge match in under 25 minutes"
+msgstr "Победите в матче Горнила менее, чем за 25 минут"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_25.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_25.TITLE"
+msgid "Silver Speed Run"
+msgstr "Серебряный Результат"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_30.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_30.DESC"
+msgid "Win a Forge match in under 30 minutes"
+msgstr "Победите в матче Горнила менее, чем за 30 минут"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_30.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_30.TITLE"
+msgid "Bronze Speed Run"
+msgstr "Бронзовый Результат"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_guardsbroken.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_guardsbroken.DESC"
+msgid "Interrupt 5 or more enemies while they're in guard stance in a single match"
+msgstr "В одиночном матче заблокируйте 5 или более врагов, пока те находятся в защитной позиции"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_guardsbroken.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_guardsbroken.TITLE"
+msgid "Caught Off Guard"
+msgstr "Улизнувший"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_nospinning.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_nospinning.DESC"
+msgid "Stop a spinning Snortoise using an Anvil Strike attack"
+msgstr "Остановите вращающуюся Хрюкопаху, используя атаку Удар по наковальне"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_nospinning.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_nospinning.TITLE"
+msgid "High Striker"
+msgstr "Мастер Молота"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_victory.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Wolfgang"
+msgstr "Победите воинов Полководца Пугны, играя за Вольфганга"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_victory.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_victory.TITLE"
+msgid "Forging Victory"
+msgstr "Кующий Победу"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_lucychuck.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_lucychuck.DESC"
+msgid "Land 20 Lucy Chucks in a single match"
+msgstr "Метните Люси 20 раз за матч"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_lucychuck.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_lucychuck.TITLE"
+msgid "Would A Werebeaver Chuck"
+msgstr "Добр Бобр-оборотень до Броска"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_nospinning.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_nospinning.DESC"
+msgid "Stop a spinning Snortoise using Lucy"
+msgstr "Остановите вращающуюся Хрюкопаху, используя Люси"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_nospinning.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_nospinning.TITLE"
+msgid "The Chopping Block"
+msgstr "Колода"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_victory.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Woodie"
+msgstr "Победите воинов Полководца Пугны, играя за Вуди"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_victory.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_victory.TITLE"
+msgid "Forging Victory"
+msgstr "Кующий Победу"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_anvil.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_anvil.DESC"
+msgid "Land Anvil Strikes on 50 or more targets in a single match"
+msgstr "Нанесите 50 или более Ударов по наковальне по разным целям за матч"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_anvil.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_anvil.TITLE"
+msgid "Well-Oiled Machine"
+msgstr "Хорошо отлаженная машина"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_shocks.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_shocks.DESC"
+msgid "Stop a spinning Snortoise with a shock"
+msgstr "Остановите вращающуюся Хрюкопаху, используя электрошок"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_shocks.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_shocks.TITLE"
+msgid "Circuit Breaker"
+msgstr "Выключатель"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_victory.DESC
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as WX-78"
+msgstr "Победите воинов Полководца Пугны, играя за WX-78"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_victory.TITLE
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_victory.TITLE"
+msgid "Forging Victory"
+msgstr "Кующий Победу"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.encore
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.encore"
+msgid "Forge Mastery"
+msgstr "Мастерство кузнечного дела"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.nodeaths
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.nodeaths"
+msgid "Perfect Runs"
+msgstr "Прохождение на Выживание"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wathgrithr
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wathgrithr"
+msgid "Wigfrid"
+msgstr "Вигфрид"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.waxwell
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.waxwell"
+msgid "Maxwell"
+msgstr "Максвелл"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.webber
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.webber"
+msgid "Webber"
+msgstr "Веббер"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wendy
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wendy"
+msgid "Wendy"
+msgstr "Венди"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wes
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wes"
+msgid "Wes"
+msgstr "Вэс"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wickerbottom
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wickerbottom"
+msgid "Wickerbottom"
+msgstr "Уикерботтом"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.willow
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.willow"
+msgid "Willow"
+msgstr "Уиллоу"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wilson
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wilson"
+msgid "Wilson"
+msgstr "Уилсон"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.winona
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.winona"
+msgid "Winona"
+msgstr "Вайнона"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wintime
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wintime"
+msgid "Speed Runs"
+msgstr "Скоростное Прохождение"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wolfgang
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wolfgang"
+msgid "Wolfgang"
+msgstr "Вольфганг"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.woodie
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.woodie"
+msgid "Woodie"
+msgstr "Вуди"
+
+#. UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wx78
+msgctxt "UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wx78"
+msgid "WX-78"
+msgstr "WX-78"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_all_stations.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_all_stations.DESC"
+msgid "Cook and complete at least one meal using an oven, a cookpot, and a grill, respectively"
+msgstr "Приготовьте целиком как минимум одно блюдо, используя в указанном порядке печь, казан и гриль"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_all_stations.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_all_stations.TITLE"
+msgid "Bake Boss"
+msgstr "Босс-пекарь"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_first.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_first.DESC"
+msgid "Cook a meal"
+msgstr "Приготовьте еду"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_first.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_first.TITLE"
+msgid "Great Victorian Cook Off"
+msgstr "Великий Викторианский Поварской Поединок"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_full_book.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_full_book.DESC"
+msgid "Discover all possible recipes"
+msgstr "Откройте все возможные рецепты"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_full_book.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_full_book.TITLE"
+msgid "Master Chef"
+msgstr "Шеф-повар"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_large.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_large.DESC"
+msgid "Cook and complete at least one meal using a Large Grill, Large Cookpot or Large Casserole Dish"
+msgstr "Приготовьте целиком как минимум одно блюдо, используя большой гриль, большой казан или большую кастрюлю"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_large.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_large.TITLE"
+msgid "Big Meal"
+msgstr "Роскошный Обед"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_noburnt.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_noburnt.DESC"
+msgid "Cook at least 6 meals from start to finish in a single match, without burning any of them"
+msgstr "Приготовьте как минимум 6 блюд от начала до конца за один матч и не сожгите их."
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_noburnt.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_noburnt.TITLE"
+msgid "It's Not Raw"
+msgstr "Оно не Сырое"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_silver.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_silver.DESC"
+msgid "Increase the value of a dish by plating it in a silver plate or bowl"
+msgstr "Увеличьте ценность блюда, положив его в серебряную тарелку или миску"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_silver.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_silver.TITLE"
+msgid "The Silver Gullet"
+msgstr "Серебряная Глотка"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_fertilize.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_fertilize.DESC"
+msgid "Fertilize at least 20 crops in a single match"
+msgstr "Удобрите как минимум 20 урожаев за матч"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_fertilize.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_fertilize.TITLE"
+msgid "Premium Plant Food"
+msgstr "Премиум-посадки"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_sow.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_sow.DESC"
+msgid "Sow at least 30 seeds in a single match"
+msgstr "Посейте как минимум 30 семян за матч"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_sow.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_sow.TITLE"
+msgid "Reap What You Sow"
+msgstr "Что Посеешь, То и Пожнешь"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_sow_all.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_sow_all.DESC"
+msgid "Sow one or more of each type of seed"
+msgstr "Посейте минимум одно семечко каждого вида"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_sow_all.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_sow_all.TITLE"
+msgid "Sowing Machine"
+msgstr "Сеялка"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_till.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_till.DESC"
+msgid "Till at least 50 farm plots in a single match"
+msgstr "Разрыхлите как минимум 50 грядок за матч"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_till.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_till.TITLE"
+msgid "Dawn Till Dusk"
+msgstr "От Заката до Рассвета"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_crab.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_crab.DESC"
+msgid "Catch a Pebble Crab"
+msgstr "Поймайте каменного краба"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_crab.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_crab.TITLE"
+msgid "The Landed Land Crab"
+msgstr "Выброшенный на Берег"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_logs.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_logs.DESC"
+msgid "Chop and gather 80 logs or more in a single match"
+msgstr "Срубите и соберите как минимум 80 бревен за матч"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_logs.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_logs.TITLE"
+msgid "Chopped"
+msgstr "Вырубка"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_safe.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_safe.DESC"
+msgid "Unlock at least one safe"
+msgstr "Отоприте как минимум один сейф"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_safe.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_safe.TITLE"
+msgid "Finders, Keepers"
+msgstr "Кто Нашел, Тот и Хозяин"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_sap.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_sap.DESC"
+msgid "Gather sap from Sugarwood trees 9 times or more in a single match"
+msgstr "Соберите сок сахарного дерева как минимум 9 раз за матч"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_sap.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_sap.TITLE"
+msgid "Extra Sappy"
+msgstr "Так и Сочится"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_spice.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_spice.DESC"
+msgid "Grind 5 teaspoons of spice in a single match"
+msgstr "Перемелите 5 чайных ложек специй за матч"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_spice.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_spice.TITLE"
+msgid "The Spice of Strife"
+msgstr "Соль Жизни"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_all_stations_large.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_all_stations_large.DESC"
+msgid "Cook and complete at least one meal using a Large Grill, a Large Cookpot, and a Large Casserole Dish, respectively"
+msgstr "Приготовьте целиком как минимум одно блюдо, используя в указанном порядке большой гриль, большой казан и большую кастрюлю"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_all_stations_large.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_all_stations_large.TITLE"
+msgid "Snack of All Trades"
+msgstr "Закуски на Любой Вкус"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_allcooks.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_allcooks.DESC"
+msgid "Play a 3-player match where everyone has a turn to cook and complete at least two meals"
+msgstr "Сыграйте в матче на 3 игроков, где все игроки смогут приготовить по очереди хотя бы два блюда"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_allcooks.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_allcooks.TITLE"
+msgid "Three Many Cooks"
+msgstr "На Кухне Тесновато"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_meaty.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_meaty.DESC"
+msgid "Escape with all cooked meals having one or more meat ingredients (Meat Scraps, Salmon, Meat, or Crab Meat)"
+msgstr "Добавляйте во все блюда как минимум один мясной ингредиент (обрывки мяса, лосось или мясо краба), а потом сбегите"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_meaty.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_meaty.TITLE"
+msgid "Killing Spree"
+msgstr "Мясоед"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_nomatches.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_nomatches.DESC"
+msgid "Escape without satisfying any cravings"
+msgstr "Сбегите, не выполнив ни одного пожелания"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_nomatches.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_nomatches.TITLE"
+msgid "Never Satisfied"
+msgstr "Неудовлетворенные желания"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_notrees.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_notrees.DESC"
+msgid "Escape without harvesting any logs"
+msgstr "Сбегите, не добыв ни одного бревна"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_notrees.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_notrees.TITLE"
+msgid "Tree Hugger"
+msgstr "Защитник Природы"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_tribute_coin2.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_tribute_coin2.DESC"
+msgid "Find or earn 3 or more Sapphire Medallions in one match"
+msgstr "Найдите или заработайте как минимум 3 сапфировых медальона за матч"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_tribute_coin2.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_tribute_coin2.TITLE"
+msgid "Gather 'Round the Sapphire"
+msgstr "Хоровод Вокруг Сапфира"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_tribute_coin3.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_tribute_coin3.DESC"
+msgid "Find or earn 3 or more Red Marks in one match"
+msgstr "Найдите или заработайте как минимум 3 красных меток за матч"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_tribute_coin3.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_tribute_coin3.TITLE"
+msgid "Marked For Red"
+msgstr "Отмечено Красным"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_veggie.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_veggie.DESC"
+msgid "Escape without any meals cooked with meat ingredients (Meat Scraps, Salmon, Meat, or Crab Meat)"
+msgstr "Не добавляйте ни в одно блюдо ни одного мясного ингредиента (обрывки мяса, лосось или мясо краба), а потом сбегите"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_veggie.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_veggie.TITLE"
+msgid "Meaty Neglect"
+msgstr "Недостаток Мяса"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_fast.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_fast.DESC"
+msgid "Escape the Gorge by offering 10 meals or less"
+msgstr "Сбегите из Глотки, пожертвовав не более 10 блюд"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_fast.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_fast.TITLE"
+msgid "Quick Lunch"
+msgstr "Быстрый Обед"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_first.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_first.DESC"
+msgid "Activate the Ancient Gateway and escape the Gorge"
+msgstr "Активируйте Древние врата и сбегите из Глотки"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_first.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_first.TITLE"
+msgid "Escape!"
+msgstr "Побег!"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_long.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_long.DESC"
+msgid "Escape the Gorge having fulfilled 15 or more of the Gnaw's cravings"
+msgstr "Сбегите из Глотки, удовлетворив как минимум 15 пожеланий Грызуна"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_long.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_long.TITLE"
+msgid "Gnaw's Gnosh"
+msgstr "Перекус Грызуна"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_noburnt.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_noburnt.DESC"
+msgid "Escape the Gorge without having burned or ruined any meals"
+msgstr "Сбегите из Глотки, не сжигая и не портя ни одного блюда"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_noburnt.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_noburnt.TITLE"
+msgid "Cooked to Perfection"
+msgstr "Идеально Приготовлено"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nodups.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nodups.DESC"
+msgid "Escape the Gorge without offering any duplicate meals"
+msgstr "Сбегите из Глотки, ни разу не пожертвовав повторяющиеся блюда"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nodups.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nodups.TITLE"
+msgid "No Repeater Eater"
+msgstr "Не Повторюшка"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nosalt.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nosalt.DESC"
+msgid "Escape the Gorge without offering the Gnaw any salted meals"
+msgstr "Сбегите из Глотки, ни разу не пожертвовав посоленные блюда"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nosalt.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nosalt.TITLE"
+msgid "Sodi-yum"
+msgstr "Хлорид ням-трия"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nosilver.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nosilver.DESC"
+msgid "Escape the Gorge without offering any silver plated meals to the Gnaw"
+msgstr "Сбегите из Глотки, ни разу не предложив Грызуну блюд на серебряных тарелках"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nosilver.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nosilver.TITLE"
+msgid "No Silver Linings"
+msgstr "Серебро не Предлагать"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_perfect.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_perfect.DESC"
+msgid "Escape the Gorge without failing to fulfill any cravings"
+msgstr "Сбегите из Глотки, ни разу не ошибившись с видом подносимой еды"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_perfect.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_perfect.TITLE"
+msgid "Taste Maker"
+msgstr "Вкусовщина"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_veryfast.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_veryfast.DESC"
+msgid "Escape the Gorge by offering 7 meals or less"
+msgstr "Сбегите из Глотки, пожертвовав не более 7 блюд"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_veryfast.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_veryfast.TITLE"
+msgid "Zero-Wait Staff"
+msgstr "Нетерпеливый официант"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_verylong.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_verylong.DESC"
+msgid "Escape the Gorge having fulfilled 18 or more of the Gnaw's cravings"
+msgstr "Сбегите из Глотки, удовлетворив как минимум 18 пожеланий Грызуна"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_verylong.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_verylong.TITLE"
+msgid "Flavorville"
+msgstr "Вкусвилль"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin2.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin2.DESC"
+msgid "Find or earn a Sapphire Medallion"
+msgstr "Найдите или заслужите сапфировый медальон"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin2.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin2.TITLE"
+msgid "Gnaw In The Sky With Sapphires"
+msgstr "Сапфировые Небеса"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin3.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin3.DESC"
+msgid "Find or earn a Red Mark"
+msgstr "Найдите или заслужите красную метку"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin3.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin3.TITLE"
+msgid "Marked"
+msgstr "Отметина"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin4.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin4.DESC"
+msgid "Earn the Gnaw's Favor"
+msgstr "Заслужите милость Грызуна"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin4.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin4.TITLE"
+msgid "Favored"
+msgstr "В Фаворе"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_fast.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_fast.DESC"
+msgid "Sacrifice something the Gnaw is craving 3 times in 3 minutes"
+msgstr "Удовлетворите какие-либо пожелания Грызуна 3 раза за 3 минуты"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_fast.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_fast.TITLE"
+msgid "Fast Food"
+msgstr "Фастфуд"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_high.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_high.DESC"
+msgid "Sacrifice something the Gnaw is craving at least 9 times in one match"
+msgstr "Удовлетворите какие-либо пожелания Грызуна как минимум 9 раз за матч"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_high.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_high.TITLE"
+msgid "Spoiled Wyrm"
+msgstr "Протухший Змей"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_low.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_low.DESC"
+msgid "Sacrifice something the Gnaw is craving at least 3 times in one match"
+msgstr "Удовлетворите какие-либо пожелания Грызуна как минимум 3 раза за матч"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_low.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_low.TITLE"
+msgid "Cheat Day"
+msgstr "Не Разгрузочный День"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_med.DESC
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_med.DESC"
+msgid "Sacrifice something the Gnaw is craving at least 6 times in one match"
+msgstr "Удовлетворите какие-либо пожелания Грызуна как минимум 6 раз за матч"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_med.TITLE
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_med.TITLE"
+msgid "Eternal Cravings"
+msgstr "Душа Требует"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.chef
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.chef"
+msgid "Cooking"
+msgstr "Готовка"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.encore
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.encore"
+msgid "Gorge Mastery"
+msgstr "Мастерство Глотки"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.farmer
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.farmer"
+msgid "Farming"
+msgstr "Фермерство"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.gatherer
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.gatherer"
+msgid "Resource Collection"
+msgstr "Сбор ресурсов"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.tributes
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.tributes"
+msgid "Offerings"
+msgstr "Подношения"
+
+#. UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.victory
+msgctxt "UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.victory"
+msgid "Victory"
+msgstr "Победа"
+
+#. UI.ACHIEVEMENTS.SCREENTITLE
+msgctxt "UI.ACHIEVEMENTS.SCREENTITLE"
+msgid "Accomplishments"
+msgstr "Кубок свершений"
+

@@ -1,0 +1,325 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.WXPLOBBYPANEL.ACHIEVEMENT_UNLOCKED
+msgctxt "UI.WXPLOBBYPANEL.ACHIEVEMENT_UNLOCKED"
+msgid "Achievement: {name}"
+msgstr "도전 과제: {name}"
+
+#. UI.WXPLOBBYPANEL.ADD_XP_VAL
+msgctxt "UI.WXPLOBBYPANEL.ADD_XP_VAL"
+msgid "{name}, {val} XP"
+msgstr "{name}, {val} XP"
+
+#. UI.WXPLOBBYPANEL.CONTINUE
+msgctxt "UI.WXPLOBBYPANEL.CONTINUE"
+msgid "Continue"
+msgstr "계속"
+
+#. UI.WXPLOBBYPANEL.DEATHS
+msgctxt "UI.WXPLOBBYPANEL.DEATHS"
+msgid "Total Deaths: {deaths}"
+msgstr "총 사망 횟수: {deaths}"
+
+#. UI.WXPLOBBYPANEL.DETAILS_XP
+msgctxt "UI.WXPLOBBYPANEL.DETAILS_XP"
+msgid "+{num}"
+msgstr "+{num}"
+
+#. UI.WXPLOBBYPANEL.FOOD_DISCOVERY
+msgctxt "UI.WXPLOBBYPANEL.FOOD_DISCOVERY"
+msgid "Recipe: {name}"
+msgstr "레시피: {name}"
+
+#. UI.WXPLOBBYPANEL.LAVAARENA.TITLE_DEFEAT
+msgctxt "UI.WXPLOBBYPANEL.LAVAARENA.TITLE_DEFEAT"
+msgid "Defeat"
+msgstr "패배"
+
+#. UI.WXPLOBBYPANEL.LAVAARENA.TITLE_VICTORY
+msgctxt "UI.WXPLOBBYPANEL.LAVAARENA.TITLE_VICTORY"
+msgid "Victory!"
+msgstr "승리!"
+
+#. UI.WXPLOBBYPANEL.LEADERBOARD_ERROR
+msgctxt "UI.WXPLOBBYPANEL.LEADERBOARD_ERROR"
+msgid "Unable to connect to leaderboard server."
+msgstr "순위표 서버에 연결할 수 없습니다."
+
+#. UI.WXPLOBBYPANEL.LEVEL_UP
+msgctxt "UI.WXPLOBBYPANEL.LEVEL_UP"
+msgid "LEVEL UP!"
+msgstr "레벨 업!"
+
+#. UI.WXPLOBBYPANEL.MATCH_TIME
+msgctxt "UI.WXPLOBBYPANEL.MATCH_TIME"
+msgid "Match Time: {time}"
+msgstr "매치 시간: {time}"
+
+#. UI.WXPLOBBYPANEL.NEWBOXES_BODY
+msgctxt "UI.WXPLOBBYPANEL.NEWBOXES_BODY"
+msgid "Visit the Treasury to open your chests"
+msgstr "보물 창고에 들어가 상자를 여세요"
+
+#. UI.WXPLOBBYPANEL.NEWBOXES_TITLE.lavaarena
+msgctxt "UI.WXPLOBBYPANEL.NEWBOXES_TITLE.lavaarena"
+msgid "{num} Forge Chests Earned!"
+msgstr "Forge 상자 {num}개 획득!"
+
+#. UI.WXPLOBBYPANEL.NEWBOXES_TITLE.quagmire
+msgctxt "UI.WXPLOBBYPANEL.NEWBOXES_TITLE.quagmire"
+msgid "{num} Victorian Chests Earned!"
+msgstr "빅토리아풍 상자 {num}개 획득!"
+
+#. UI.WXPLOBBYPANEL.NEWBOX_BODY
+msgctxt "UI.WXPLOBBYPANEL.NEWBOX_BODY"
+msgid "Visit the Treasury to open your chest"
+msgstr "보물 창고에 들어가 상자를 여세요"
+
+#. UI.WXPLOBBYPANEL.NEWBOX_TITLE.lavaarena
+msgctxt "UI.WXPLOBBYPANEL.NEWBOX_TITLE.lavaarena"
+msgid "Forge Chest Earned!"
+msgstr "Forge 상자 획득!"
+
+#. UI.WXPLOBBYPANEL.NEWBOX_TITLE.quagmire
+msgctxt "UI.WXPLOBBYPANEL.NEWBOX_TITLE.quagmire"
+msgid "Victorian Chest Earned!"
+msgstr "빅토리아풍 상자 획득!"
+
+#. UI.WXPLOBBYPANEL.NO_DEATHS
+msgctxt "UI.WXPLOBBYPANEL.NO_DEATHS"
+msgid "No Deaths"
+msgstr "사망 없음"
+
+#. UI.WXPLOBBYPANEL.QUAGMIRE.TITLE_DEFEAT
+msgctxt "UI.WXPLOBBYPANEL.QUAGMIRE.TITLE_DEFEAT"
+msgid "Mermified"
+msgstr "어인화"
+
+#. UI.WXPLOBBYPANEL.QUAGMIRE.TITLE_VICTORY
+msgctxt "UI.WXPLOBBYPANEL.QUAGMIRE.TITLE_VICTORY"
+msgid "Gateway Activated!"
+msgstr "관문 작동 성공!"
+
+#. UI.WXPLOBBYPANEL.SCORE
+msgctxt "UI.WXPLOBBYPANEL.SCORE"
+msgid "Appeasement Points: {score}"
+msgstr "달래기 점수: {score}"
+
+#. UI.WXPLOBBYPANEL.SKIP
+msgctxt "UI.WXPLOBBYPANEL.SKIP"
+msgid "Skip"
+msgstr "건너뛰기"
+
+#. UI.WXPLOBBYPANEL.STEAM.TOURNAMENTS_NO_ACCOUNT_SHARING
+msgctxt "UI.WXPLOBBYPANEL.STEAM.TOURNAMENTS_NO_ACCOUNT_SHARING"
+msgid "Family Sharing accounts are not eligible for tournaments"
+msgstr "패밀리 공유 계정은 토너먼트에 참가할 수 없습니다."
+
+#. UI.WXPLOBBYPANEL.TRIBUTES
+msgctxt "UI.WXPLOBBYPANEL.TRIBUTES"
+msgid "Gnaw's Cravings: {success} fulfilled and {failed} failed"
+msgstr "물뜯이의 갈망: {success}번 만족시키고 {failed}번 실패함"
+
+#. UI.WXPLOBBYPANEL.WXP
+msgctxt "UI.WXPLOBBYPANEL.WXP"
+msgid "XP"
+msgstr "XP"
+
+#. UI.WXPLOBBYPANEL.WXP_CURRENT_XP
+msgctxt "UI.WXPLOBBYPANEL.WXP_CURRENT_XP"
+msgid "CURRENT XP"
+msgstr "현재 XP"
+
+#. UI.WXPLOBBYPANEL.WXP_NEXT_LEVEL_XP
+msgctxt "UI.WXPLOBBYPANEL.WXP_NEXT_LEVEL_XP"
+msgid "NEXT LEVEL AT"
+msgstr "다음 레벨"
+
+#. UI.WXP_DETAILS.CONSECUTIVE
+msgctxt "UI.WXP_DETAILS.CONSECUTIVE"
+msgid "Consecutive Match Bonus"
+msgstr "연속 매치 보너스"
+
+#. UI.WXP_DETAILS.DAILY_FIRST_MATCH
+msgctxt "UI.WXP_DETAILS.DAILY_FIRST_MATCH"
+msgid "Daily Match Bonus"
+msgstr "일일 매치 보너스"
+
+#. UI.WXP_DETAILS.DAILY_FIRST_WIN
+msgctxt "UI.WXP_DETAILS.DAILY_FIRST_WIN"
+msgid "Daily Victory Bonus"
+msgstr "일일 승리 보너스"
+
+#. UI.WXP_DETAILS.DURATION
+msgctxt "UI.WXP_DETAILS.DURATION"
+msgid "Time"
+msgstr "시간"
+
+#. UI.WXP_DETAILS.FRIENDS_BONUS
+msgctxt "UI.WXP_DETAILS.FRIENDS_BONUS"
+msgid "Playing with Friends"
+msgstr "친구와 플레이"
+
+#. UI.WXP_DETAILS.LAB_CONSECUTIVE
+msgctxt "UI.WXP_DETAILS.LAB_CONSECUTIVE"
+msgid "Consecutive Match Bonus"
+msgstr "연속 매치 보너스"
+
+#. UI.WXP_DETAILS.LAB_DURATION
+msgctxt "UI.WXP_DETAILS.LAB_DURATION"
+msgid "Time"
+msgstr "시간"
+
+#. UI.WXP_DETAILS.LAB_FRIENDS_BONUS
+msgctxt "UI.WXP_DETAILS.LAB_FRIENDS_BONUS"
+msgid "Playing with Friends"
+msgstr "친구와 플레이"
+
+#. UI.WXP_DETAILS.LAB_MILESTONE_1
+msgctxt "UI.WXP_DETAILS.LAB_MILESTONE_1"
+msgid "Pit Pigs Defeated"
+msgstr "전투 돼지 처치"
+
+#. UI.WXP_DETAILS.LAB_MILESTONE_2
+msgctxt "UI.WXP_DETAILS.LAB_MILESTONE_2"
+msgid "Crocommanders Defeated"
+msgstr "악어사령관 처치"
+
+#. UI.WXP_DETAILS.LAB_MILESTONE_3
+msgctxt "UI.WXP_DETAILS.LAB_MILESTONE_3"
+msgid "Snortoises Defeated"
+msgstr "코자라 처치"
+
+#. UI.WXP_DETAILS.LAB_MILESTONE_4
+msgctxt "UI.WXP_DETAILS.LAB_MILESTONE_4"
+msgid "Formidable Team"
+msgstr "어마어마한 팀"
+
+#. UI.WXP_DETAILS.LAB_MILESTONE_5
+msgctxt "UI.WXP_DETAILS.LAB_MILESTONE_5"
+msgid "Grand Forge Boarrior Defeated"
+msgstr "위대한 Forge의 멧투사 처치"
+
+#. UI.WXP_DETAILS.LAB_MILESTONE_6
+msgctxt "UI.WXP_DETAILS.LAB_MILESTONE_6"
+msgid "Rhinocebros Defeated"
+msgstr "코뿔소 형제 처치"
+
+#. UI.WXP_DETAILS.LAB_NO_DEATHS_PLAYER
+msgctxt "UI.WXP_DETAILS.LAB_NO_DEATHS_PLAYER"
+msgid "No Deaths"
+msgstr "사망 없음"
+
+#. UI.WXP_DETAILS.LAB_NO_DEATHS_TEAM
+msgctxt "UI.WXP_DETAILS.LAB_NO_DEATHS_TEAM"
+msgid "No Deaths (Team)"
+msgstr "사망 없음(팀)"
+
+#. UI.WXP_DETAILS.LAB_UNIQUE_CHARACTERS
+msgctxt "UI.WXP_DETAILS.LAB_UNIQUE_CHARACTERS"
+msgid "No Doubles Bonus"
+msgstr "더블 보너스 없음"
+
+#. UI.WXP_DETAILS.LAB_WIN
+msgctxt "UI.WXP_DETAILS.LAB_WIN"
+msgid "Victory"
+msgstr "승리"
+
+#. UI.WXP_DETAILS.LAVA_ARENA_MILESTONE_1
+msgctxt "UI.WXP_DETAILS.LAVA_ARENA_MILESTONE_1"
+msgid "Pit Pigs Defeated"
+msgstr "전투 돼지 처치"
+
+#. UI.WXP_DETAILS.LAVA_ARENA_MILESTONE_2
+msgctxt "UI.WXP_DETAILS.LAVA_ARENA_MILESTONE_2"
+msgid "Crocommanders Defeated"
+msgstr "악어사령관 처치"
+
+#. UI.WXP_DETAILS.LAVA_ARENA_MILESTONE_3
+msgctxt "UI.WXP_DETAILS.LAVA_ARENA_MILESTONE_3"
+msgid "Snortoises Defeated"
+msgstr "코자라 처치"
+
+#. UI.WXP_DETAILS.LAVA_ARENA_MILESTONE_4
+msgctxt "UI.WXP_DETAILS.LAVA_ARENA_MILESTONE_4"
+msgid "Formidable Team"
+msgstr "어마어마한 팀"
+
+#. UI.WXP_DETAILS.LAVA_ARENA_XP_MOD
+msgctxt "UI.WXP_DETAILS.LAVA_ARENA_XP_MOD"
+msgid "debug test"
+msgstr "디버그 테스트"
+
+#. UI.WXP_DETAILS.LAVA_NO_PLAYER_DEATHS
+msgctxt "UI.WXP_DETAILS.LAVA_NO_PLAYER_DEATHS"
+msgid "No Deaths"
+msgstr "사망 없음"
+
+#. UI.WXP_DETAILS.LAVA_NO_TEAM_DEATHS
+msgctxt "UI.WXP_DETAILS.LAVA_NO_TEAM_DEATHS"
+msgid "No Deaths (Team)"
+msgstr "사망 없음(팀)"
+
+#. UI.WXP_DETAILS.LAVA_UNIQUE_CHARACTERS
+msgctxt "UI.WXP_DETAILS.LAVA_UNIQUE_CHARACTERS"
+msgid "No Doubles Bonus"
+msgstr "더블 보너스 없음"
+
+#. UI.WXP_DETAILS.QUAGMIRE_CHALLENGE
+msgctxt "UI.WXP_DETAILS.QUAGMIRE_CHALLENGE"
+msgid "Tournament Entry"
+msgstr "토너먼트 참가"
+
+#. UI.WXP_DETAILS.QUAGMIRE_MILESTONE_1
+msgctxt "UI.WXP_DETAILS.QUAGMIRE_MILESTONE_1"
+msgid "Sapphire Medallion Earned"
+msgstr "사파이어 메달리언 획득"
+
+#. UI.WXP_DETAILS.QUAGMIRE_MILESTONE_2
+msgctxt "UI.WXP_DETAILS.QUAGMIRE_MILESTONE_2"
+msgid "Red Mark Earned"
+msgstr "레드 마크 획득"
+
+#. UI.WXP_DETAILS.QUAGMIRE_MILESTONE_3
+msgctxt "UI.WXP_DETAILS.QUAGMIRE_MILESTONE_3"
+msgid "Gnaw's Favor Earned"
+msgstr "물뜯이의 은혜 획득"
+
+#. UI.WXP_DETAILS.QUAGMIRE_NO_DUPLICATE_TRIUBUTES
+msgctxt "UI.WXP_DETAILS.QUAGMIRE_NO_DUPLICATE_TRIUBUTES"
+msgid "No Repeat Meals"
+msgstr "중복 요리 없음"
+
+#. UI.WXP_DETAILS.QUAGMIRE_NO_TRIBUTES_FAILED
+msgctxt "UI.WXP_DETAILS.QUAGMIRE_NO_TRIBUTES_FAILED"
+msgid "No Failed Offerings"
+msgstr "실패한 제물 없음"
+
+#. UI.WXP_DETAILS.QUAGMIRE_TRIBUTE_SCORE
+msgctxt "UI.WXP_DETAILS.QUAGMIRE_TRIBUTE_SCORE"
+msgid "Appeasement Point Bonus"
+msgstr "진정 점수 보너스"
+
+#. UI.WXP_DETAILS.QUAGMIRE_UNIQUE_CHARACTERS
+msgctxt "UI.WXP_DETAILS.QUAGMIRE_UNIQUE_CHARACTERS"
+msgid "No Duplicate Survivors"
+msgstr "중복 생존자 없음"
+
+#. UI.WXP_DETAILS.UNIQUE_CHARACTERS
+msgctxt "UI.WXP_DETAILS.UNIQUE_CHARACTERS"
+msgid "No Doubles Bonus"
+msgstr "더블 보너스 없음"
+
+#. UI.WXP_DETAILS.WEEKLY_FIRST_MATCH
+msgctxt "UI.WXP_DETAILS.WEEKLY_FIRST_MATCH"
+msgid "Weekly Match Bonus"
+msgstr "주간 매치 보너스"
+
+#. UI.WXP_DETAILS.WIN
+msgctxt "UI.WXP_DETAILS.WIN"
+msgid "Victory"
+msgstr "승리"
+

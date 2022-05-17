@@ -1,0 +1,460 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. KITCOON_NAMING.DEFAULT_NAME
+msgctxt "KITCOON_NAMING.DEFAULT_NAME"
+msgid "Kitcoon"
+msgstr "Енотокотенок"
+
+#. KITCOON_NAMING.MENU_ACCEPT
+msgctxt "KITCOON_NAMING.MENU_ACCEPT"
+msgid "Assign"
+msgstr "Назвать"
+
+#. KITCOON_NAMING.MENU_CANCEL
+msgctxt "KITCOON_NAMING.MENU_CANCEL"
+msgid "Cancel"
+msgstr "Отменить"
+
+#. KITCOON_NAMING.MENU_PROMPT
+msgctxt "KITCOON_NAMING.MENU_PROMPT"
+msgid "Give this Kitcoon a name"
+msgstr "Выберите имя для енотокотенка"
+
+#. KITCOON_NAMING.MENU_RANDOM
+msgctxt "KITCOON_NAMING.MENU_RANDOM"
+msgid "Random"
+msgstr "Случайно"
+
+#. KITCOON_NAMING.NAMES.1
+msgctxt "KITCOON_NAMING.NAMES.1"
+msgid "Shadow"
+msgstr "Тень"
+
+#. KITCOON_NAMING.NAMES.10
+msgctxt "KITCOON_NAMING.NAMES.10"
+msgid "Buddy"
+msgstr "Дружок"
+
+#. KITCOON_NAMING.NAMES.11
+msgctxt "KITCOON_NAMING.NAMES.11"
+msgid "Lola"
+msgstr "Лола"
+
+#. KITCOON_NAMING.NAMES.12
+msgctxt "KITCOON_NAMING.NAMES.12"
+msgid "Masu"
+msgstr "Пушок"
+
+#. KITCOON_NAMING.NAMES.13
+msgctxt "KITCOON_NAMING.NAMES.13"
+msgid "Lottie"
+msgstr "Царапка"
+
+#. KITCOON_NAMING.NAMES.14
+msgctxt "KITCOON_NAMING.NAMES.14"
+msgid "Tobyn"
+msgstr "Том"
+
+#. KITCOON_NAMING.NAMES.15
+msgctxt "KITCOON_NAMING.NAMES.15"
+msgid "Brin"
+msgstr "Матильда"
+
+#. KITCOON_NAMING.NAMES.16
+msgctxt "KITCOON_NAMING.NAMES.16"
+msgid "Skoki"
+msgstr "Попрыгун"
+
+#. KITCOON_NAMING.NAMES.17
+msgctxt "KITCOON_NAMING.NAMES.17"
+msgid "Benben"
+msgstr "Бенбен"
+
+#. KITCOON_NAMING.NAMES.18
+msgctxt "KITCOON_NAMING.NAMES.18"
+msgid "Meeko"
+msgstr "Брауни"
+
+#. KITCOON_NAMING.NAMES.19
+msgctxt "KITCOON_NAMING.NAMES.19"
+msgid "Smokey"
+msgstr "Дымилка"
+
+#. KITCOON_NAMING.NAMES.2
+msgctxt "KITCOON_NAMING.NAMES.2"
+msgid "Tuesday"
+msgstr "Лютик"
+
+#. KITCOON_NAMING.NAMES.20
+msgctxt "KITCOON_NAMING.NAMES.20"
+msgid "Ginger"
+msgstr "Рыжик"
+
+#. KITCOON_NAMING.NAMES.21
+msgctxt "KITCOON_NAMING.NAMES.21"
+msgid "Polka Mazurka"
+msgstr "Забияка"
+
+#. KITCOON_NAMING.NAMES.22
+msgctxt "KITCOON_NAMING.NAMES.22"
+msgid "Lahmu"
+msgstr "Санни"
+
+#. KITCOON_NAMING.NAMES.23
+msgctxt "KITCOON_NAMING.NAMES.23"
+msgid "Basco"
+msgstr "Персик"
+
+#. KITCOON_NAMING.NAMES.24
+msgctxt "KITCOON_NAMING.NAMES.24"
+msgid "Lilly"
+msgstr "Лили"
+
+#. KITCOON_NAMING.NAMES.25
+msgctxt "KITCOON_NAMING.NAMES.25"
+msgid "Spike"
+msgstr "Пинки"
+
+#. KITCOON_NAMING.NAMES.26
+msgctxt "KITCOON_NAMING.NAMES.26"
+msgid "Skinny"
+msgstr "Кроха"
+
+#. KITCOON_NAMING.NAMES.27
+msgctxt "KITCOON_NAMING.NAMES.27"
+msgid "Chubby"
+msgstr "Пухлик"
+
+#. KITCOON_NAMING.NAMES.28
+msgctxt "KITCOON_NAMING.NAMES.28"
+msgid "Mikey"
+msgstr "Нарцисс"
+
+#. KITCOON_NAMING.NAMES.29
+msgctxt "KITCOON_NAMING.NAMES.29"
+msgid "Packit"
+msgstr "Пискля"
+
+#. KITCOON_NAMING.NAMES.3
+msgctxt "KITCOON_NAMING.NAMES.3"
+msgid "Lilly"
+msgstr "Роза"
+
+#. KITCOON_NAMING.NAMES.30
+msgctxt "KITCOON_NAMING.NAMES.30"
+msgid "Giles"
+msgstr "Пончик"
+
+#. KITCOON_NAMING.NAMES.31
+msgctxt "KITCOON_NAMING.NAMES.31"
+msgid "Brisa"
+msgstr "Ветерок"
+
+#. KITCOON_NAMING.NAMES.32
+msgctxt "KITCOON_NAMING.NAMES.32"
+msgid "Norman"
+msgstr "Пират"
+
+#. KITCOON_NAMING.NAMES.33
+msgctxt "KITCOON_NAMING.NAMES.33"
+msgid "Odin"
+msgstr "Один"
+
+#. KITCOON_NAMING.NAMES.34
+msgctxt "KITCOON_NAMING.NAMES.34"
+msgid "Pico"
+msgstr "Леопольд"
+
+#. KITCOON_NAMING.NAMES.35
+msgctxt "KITCOON_NAMING.NAMES.35"
+msgid "Hedge"
+msgstr "Живая изгородь"
+
+#. KITCOON_NAMING.NAMES.36
+msgctxt "KITCOON_NAMING.NAMES.36"
+msgid "Snowy"
+msgstr "Снежок"
+
+#. KITCOON_NAMING.NAMES.37
+msgctxt "KITCOON_NAMING.NAMES.37"
+msgid "Tuffy"
+msgstr "Ириска"
+
+#. KITCOON_NAMING.NAMES.38
+msgctxt "KITCOON_NAMING.NAMES.38"
+msgid "Minnie"
+msgstr "Минни"
+
+#. KITCOON_NAMING.NAMES.39
+msgctxt "KITCOON_NAMING.NAMES.39"
+msgid "Bender"
+msgstr "Базилио"
+
+#. KITCOON_NAMING.NAMES.4
+msgctxt "KITCOON_NAMING.NAMES.4"
+msgid "Charlie"
+msgstr "Чарли"
+
+#. KITCOON_NAMING.NAMES.40
+msgctxt "KITCOON_NAMING.NAMES.40"
+msgid "Shooty"
+msgstr "Стрелка"
+
+#. KITCOON_NAMING.NAMES.41
+msgctxt "KITCOON_NAMING.NAMES.41"
+msgid "Thumpy"
+msgstr "Бутуз"
+
+#. KITCOON_NAMING.NAMES.42
+msgctxt "KITCOON_NAMING.NAMES.42"
+msgid "Chuchu"
+msgstr "Чу-Чу"
+
+#. KITCOON_NAMING.NAMES.43
+msgctxt "KITCOON_NAMING.NAMES.43"
+msgid "Ivy"
+msgstr "Плющ"
+
+#. KITCOON_NAMING.NAMES.44
+msgctxt "KITCOON_NAMING.NAMES.44"
+msgid "Sprout"
+msgstr "Росток"
+
+#. KITCOON_NAMING.NAMES.45
+msgctxt "KITCOON_NAMING.NAMES.45"
+msgid "Cocoa"
+msgstr "Какао"
+
+#. KITCOON_NAMING.NAMES.46
+msgctxt "KITCOON_NAMING.NAMES.46"
+msgid "Ruby"
+msgstr "Руби"
+
+#. KITCOON_NAMING.NAMES.47
+msgctxt "KITCOON_NAMING.NAMES.47"
+msgid "George"
+msgstr "Джордж"
+
+#. KITCOON_NAMING.NAMES.48
+msgctxt "KITCOON_NAMING.NAMES.48"
+msgid "Leeloo"
+msgstr "Лилу"
+
+#. KITCOON_NAMING.NAMES.49
+msgctxt "KITCOON_NAMING.NAMES.49"
+msgid "Gremlin"
+msgstr "Гремлин"
+
+#. KITCOON_NAMING.NAMES.5
+msgctxt "KITCOON_NAMING.NAMES.5"
+msgid "Riley"
+msgstr "Райли"
+
+#. KITCOON_NAMING.NAMES.50
+msgctxt "KITCOON_NAMING.NAMES.50"
+msgid "Sparkle"
+msgstr "Искра"
+
+#. KITCOON_NAMING.NAMES.51
+msgctxt "KITCOON_NAMING.NAMES.51"
+msgid "Astor"
+msgstr "Тень"
+
+#. KITCOON_NAMING.NAMES.52
+msgctxt "KITCOON_NAMING.NAMES.52"
+msgid "Luna"
+msgstr "Луна"
+
+#. KITCOON_NAMING.NAMES.53
+msgctxt "KITCOON_NAMING.NAMES.53"
+msgid "Mister Bojangles"
+msgstr "Мистер Пухлощек"
+
+#. KITCOON_NAMING.NAMES.54
+msgctxt "KITCOON_NAMING.NAMES.54"
+msgid "Boo"
+msgstr "Бу"
+
+#. KITCOON_NAMING.NAMES.55
+msgctxt "KITCOON_NAMING.NAMES.55"
+msgid "Custard"
+msgstr "Заварник"
+
+#. KITCOON_NAMING.NAMES.56
+msgctxt "KITCOON_NAMING.NAMES.56"
+msgid "Vincent"
+msgstr "Винсент"
+
+#. KITCOON_NAMING.NAMES.57
+msgctxt "KITCOON_NAMING.NAMES.57"
+msgid "Shadow"
+msgstr "Тень"
+
+#. KITCOON_NAMING.NAMES.58
+msgctxt "KITCOON_NAMING.NAMES.58"
+msgid "Samantha"
+msgstr "Саманта"
+
+#. KITCOON_NAMING.NAMES.59
+msgctxt "KITCOON_NAMING.NAMES.59"
+msgid "Toby"
+msgstr "Тоби"
+
+#. KITCOON_NAMING.NAMES.6
+msgctxt "KITCOON_NAMING.NAMES.6"
+msgid "Finnegan"
+msgstr "Ленивец"
+
+#. KITCOON_NAMING.NAMES.60
+msgctxt "KITCOON_NAMING.NAMES.60"
+msgid "Socks"
+msgstr "Носочек"
+
+#. KITCOON_NAMING.NAMES.61
+msgctxt "KITCOON_NAMING.NAMES.61"
+msgid "Boots"
+msgstr "Лапка"
+
+#. KITCOON_NAMING.NAMES.62
+msgctxt "KITCOON_NAMING.NAMES.62"
+msgid "Chewie"
+msgstr "Кусака"
+
+#. KITCOON_NAMING.NAMES.63
+msgctxt "KITCOON_NAMING.NAMES.63"
+msgid "Turnip"
+msgstr "Репа"
+
+#. KITCOON_NAMING.NAMES.64
+msgctxt "KITCOON_NAMING.NAMES.64"
+msgid "Lando"
+msgstr "Линда"
+
+#. KITCOON_NAMING.NAMES.65
+msgctxt "KITCOON_NAMING.NAMES.65"
+msgid "Marlo"
+msgstr "Блэки"
+
+#. KITCOON_NAMING.NAMES.66
+msgctxt "KITCOON_NAMING.NAMES.66"
+msgid "Andre"
+msgstr "Симба"
+
+#. KITCOON_NAMING.NAMES.67
+msgctxt "KITCOON_NAMING.NAMES.67"
+msgid "Mandy"
+msgstr "Мэнди"
+
+#. KITCOON_NAMING.NAMES.68
+msgctxt "KITCOON_NAMING.NAMES.68"
+msgid "Bam Bam"
+msgstr "Ба-бах"
+
+#. KITCOON_NAMING.NAMES.69
+msgctxt "KITCOON_NAMING.NAMES.69"
+msgid "Bammers"
+msgstr "Баммерс"
+
+#. KITCOON_NAMING.NAMES.7
+msgctxt "KITCOON_NAMING.NAMES.7"
+msgid "Ellye"
+msgstr "Элли"
+
+#. KITCOON_NAMING.NAMES.70
+msgctxt "KITCOON_NAMING.NAMES.70"
+msgid "Brandi"
+msgstr "Бренди"
+
+#. KITCOON_NAMING.NAMES.71
+msgctxt "KITCOON_NAMING.NAMES.71"
+msgid "Aggie"
+msgstr "Уголек"
+
+#. KITCOON_NAMING.NAMES.72
+msgctxt "KITCOON_NAMING.NAMES.72"
+msgid "Parsley"
+msgstr "Петрушка"
+
+#. KITCOON_NAMING.NAMES.73
+msgctxt "KITCOON_NAMING.NAMES.73"
+msgid "Nutmeg"
+msgstr "Мускат"
+
+#. KITCOON_NAMING.NAMES.74
+msgctxt "KITCOON_NAMING.NAMES.74"
+msgid "Xiao Long Meow"
+msgstr "Сяо Лун Мяу"
+
+#. KITCOON_NAMING.NAMES.75
+msgctxt "KITCOON_NAMING.NAMES.75"
+msgid "Reuben"
+msgstr "Рулькин"
+
+#. KITCOON_NAMING.NAMES.76
+msgctxt "KITCOON_NAMING.NAMES.76"
+msgid "Daisy"
+msgstr "Дейзи"
+
+#. KITCOON_NAMING.NAMES.77
+msgctxt "KITCOON_NAMING.NAMES.77"
+msgid "Basil"
+msgstr "Базилик"
+
+#. KITCOON_NAMING.NAMES.78
+msgctxt "KITCOON_NAMING.NAMES.78"
+msgid "Sammy"
+msgstr "Сэмми"
+
+#. KITCOON_NAMING.NAMES.79
+msgctxt "KITCOON_NAMING.NAMES.79"
+msgid "Thomasina"
+msgstr "Фокси"
+
+#. KITCOON_NAMING.NAMES.8
+msgctxt "KITCOON_NAMING.NAMES.8"
+msgid "Lola"
+msgstr "Мурка"
+
+#. KITCOON_NAMING.NAMES.80
+msgctxt "KITCOON_NAMING.NAMES.80"
+msgid "Taffy"
+msgstr "Ириска"
+
+#. KITCOON_NAMING.NAMES.81
+msgctxt "KITCOON_NAMING.NAMES.81"
+msgid "Bibo"
+msgstr "Грей"
+
+#. KITCOON_NAMING.NAMES.82
+msgctxt "KITCOON_NAMING.NAMES.82"
+msgid "Tuppy"
+msgstr "Шуршун"
+
+#. KITCOON_NAMING.NAMES.83
+msgctxt "KITCOON_NAMING.NAMES.83"
+msgid "Kuma"
+msgstr "Тайфун"
+
+#. KITCOON_NAMING.NAMES.84
+msgctxt "KITCOON_NAMING.NAMES.84"
+msgid "Cherry"
+msgstr "Вишенка"
+
+#. KITCOON_NAMING.NAMES.85
+msgctxt "KITCOON_NAMING.NAMES.85"
+msgid "Siumai"
+msgstr "Сиумай"
+
+#. KITCOON_NAMING.NAMES.86
+msgctxt "KITCOON_NAMING.NAMES.86"
+msgid "Kira"
+msgstr "Кира"
+
+#. KITCOON_NAMING.NAMES.9
+msgctxt "KITCOON_NAMING.NAMES.9"
+msgid "Teddy"
+msgstr "Тедди"
+

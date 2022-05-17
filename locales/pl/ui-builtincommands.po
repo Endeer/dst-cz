@@ -1,0 +1,185 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.BUILTINCOMMANDS.BAN.DESC
+msgctxt "UI.BUILTINCOMMANDS.BAN.DESC"
+msgid "Boot someone off the server. 'seconds' param makes the ban temporary."
+msgstr "Wykop gracza z serwera. Parametr „sekundy” sprawia, że blokada jest tymczasowa."
+
+#. UI.BUILTINCOMMANDS.BAN.DESC_CONSOLE
+msgctxt "UI.BUILTINCOMMANDS.BAN.DESC_CONSOLE"
+msgid "Boot someone off the server."
+msgstr "Wykop gracza z serwera."
+
+#. UI.BUILTINCOMMANDS.BAN.PRETTYNAME
+msgctxt "UI.BUILTINCOMMANDS.BAN.PRETTYNAME"
+msgid "Ban"
+msgstr "Zbanuj"
+
+#. UI.BUILTINCOMMANDS.BUG.DESC
+msgctxt "UI.BUILTINCOMMANDS.BUG.DESC"
+msgid "Run this to report a problem with the game!"
+msgstr "Uruchom to, aby zgłosić problem z grą!"
+
+#. UI.BUILTINCOMMANDS.BUG.PRETTYNAME
+msgctxt "UI.BUILTINCOMMANDS.BUG.PRETTYNAME"
+msgid "Report Bug"
+msgstr "Zgłoś błąd"
+
+#. UI.BUILTINCOMMANDS.EMOTE.DESC
+msgctxt "UI.BUILTINCOMMANDS.EMOTE.DESC"
+msgid "Express your feelings!"
+msgstr "Wyraź swoje uczucia!"
+
+#. UI.BUILTINCOMMANDS.EMOTE.PRETTYNAME
+msgctxt "UI.BUILTINCOMMANDS.EMOTE.PRETTYNAME"
+msgid "Emote"
+msgstr "Gest"
+
+#. UI.BUILTINCOMMANDS.EMOTES.DESC
+msgctxt "UI.BUILTINCOMMANDS.EMOTES.DESC"
+msgid "Perform an emote!"
+msgstr "Wykonaj gest!"
+
+#. UI.BUILTINCOMMANDS.EMOTES.PRETTYNAMEFMT
+msgctxt "UI.BUILTINCOMMANDS.EMOTES.PRETTYNAMEFMT"
+msgid "%s emote"
+msgstr "Gest „%s”"
+
+#. UI.BUILTINCOMMANDS.HELP.AVAILABLE
+msgctxt "UI.BUILTINCOMMANDS.HELP.AVAILABLE"
+msgid "Available commands:"
+msgstr "Dostępne polecenia:"
+
+#. UI.BUILTINCOMMANDS.HELP.DESC
+msgctxt "UI.BUILTINCOMMANDS.HELP.DESC"
+msgid "Get more info on commands."
+msgstr "Dowiedz się więcej o poleceniach."
+
+#. UI.BUILTINCOMMANDS.HELP.NOTFOUND
+msgctxt "UI.BUILTINCOMMANDS.HELP.NOTFOUND"
+msgid "Couldn't find a command called '%s'"
+msgstr "Nie odnaleziono polecenia „%s”"
+
+#. UI.BUILTINCOMMANDS.HELP.OVERVIEW
+msgctxt "UI.BUILTINCOMMANDS.HELP.OVERVIEW"
+msgid "Type '/help commandname' for more info on a command."
+msgstr "Wpisz „/help nazwa polecenia”, aby dowiedzieć się więcej na temat polecenia."
+
+#. UI.BUILTINCOMMANDS.HELP.PRETTYNAME
+msgctxt "UI.BUILTINCOMMANDS.HELP.PRETTYNAME"
+msgid "Command Help"
+msgstr "Polecenia - pomoc"
+
+#. UI.BUILTINCOMMANDS.KICK.DESC
+msgctxt "UI.BUILTINCOMMANDS.KICK.DESC"
+msgid "Boot someone off the server."
+msgstr "Wykop gracza z serwera."
+
+#. UI.BUILTINCOMMANDS.KICK.PRETTYNAME
+msgctxt "UI.BUILTINCOMMANDS.KICK.PRETTYNAME"
+msgid "Kick"
+msgstr "Wyrzuć"
+
+#. UI.BUILTINCOMMANDS.KICK.VOTENAMEFMT
+msgctxt "UI.BUILTINCOMMANDS.KICK.VOTENAMEFMT"
+msgid "vote to kick %s"
+msgstr "głosuj, aby wyrzucić: %s"
+
+#. UI.BUILTINCOMMANDS.KICK.VOTETITLEFMT
+msgctxt "UI.BUILTINCOMMANDS.KICK.VOTETITLEFMT"
+msgid "Should we kick %s?"
+msgstr "Czy mamy wyrzucić: %s?"
+
+#. UI.BUILTINCOMMANDS.REGENERATE.DESC
+msgctxt "UI.BUILTINCOMMANDS.REGENERATE.DESC"
+msgid "Destroy this world and start with a brand new one!"
+msgstr "Zniszcz swój świat i rozpocznij wszystko od nowa!"
+
+#. UI.BUILTINCOMMANDS.REGENERATE.PRETTYNAME
+msgctxt "UI.BUILTINCOMMANDS.REGENERATE.PRETTYNAME"
+msgid "Regenerate World"
+msgstr "Wygeneruj świat na nowo"
+
+#. UI.BUILTINCOMMANDS.REGENERATE.VOTENAMEFMT
+msgctxt "UI.BUILTINCOMMANDS.REGENERATE.VOTENAMEFMT"
+msgid "vote to regenerate the world"
+msgstr "głosuj za wygenerowaniem świata na nowo"
+
+#. UI.BUILTINCOMMANDS.REGENERATE.VOTEPASSEDFMT
+msgctxt "UI.BUILTINCOMMANDS.REGENERATE.VOTEPASSEDFMT"
+msgid "Regenerating world in 5 seconds..."
+msgstr "Ponowne generowanie świata za 5 sekund…"
+
+#. UI.BUILTINCOMMANDS.REGENERATE.VOTETITLEFMT
+msgctxt "UI.BUILTINCOMMANDS.REGENERATE.VOTETITLEFMT"
+msgid "Should we regenerate the world?"
+msgstr "Czy należy wygenerować świat na nowo?"
+
+#. UI.BUILTINCOMMANDS.RESCUE.DESC
+msgctxt "UI.BUILTINCOMMANDS.RESCUE.DESC"
+msgid "If you ever find yourself stuck in the void, this will put you back on land."
+msgstr "Jeżeli kiedykolwiek utkniesz w próżni, dzięki temu trafisz z powrotem na ziemię."
+
+#. UI.BUILTINCOMMANDS.RESCUE.PRETTYNAME
+msgctxt "UI.BUILTINCOMMANDS.RESCUE.PRETTYNAME"
+msgid "Rescue Me!"
+msgstr "Ratunku!"
+
+#. UI.BUILTINCOMMANDS.RESET.DESC
+msgctxt "UI.BUILTINCOMMANDS.RESET.DESC"
+msgid "Restart the server from the last save."
+msgstr "Zresetuj serwer i powróć do ostatniego zapisanego stanu."
+
+#. UI.BUILTINCOMMANDS.RESET.PRETTYNAME
+msgctxt "UI.BUILTINCOMMANDS.RESET.PRETTYNAME"
+msgid "Reset"
+msgstr "Zresetuj"
+
+#. UI.BUILTINCOMMANDS.ROLL.DESC
+msgctxt "UI.BUILTINCOMMANDS.ROLL.DESC"
+msgid "Random dice roll from 1 to 100."
+msgstr "Losowy rzut kostką w zakresie od 1 do 100."
+
+#. UI.BUILTINCOMMANDS.ROLL.PRETTYNAME
+msgctxt "UI.BUILTINCOMMANDS.ROLL.PRETTYNAME"
+msgid "Dice Roll"
+msgstr "Rzut kostką"
+
+#. UI.BUILTINCOMMANDS.ROLLBACK.DESC
+msgctxt "UI.BUILTINCOMMANDS.ROLLBACK.DESC"
+msgid "Rollback the server to a previous save."
+msgstr "Cofnięcie zmian na serwerze do wcześniejszego stanu."
+
+#. UI.BUILTINCOMMANDS.ROLLBACK.PRETTYNAME
+msgctxt "UI.BUILTINCOMMANDS.ROLLBACK.PRETTYNAME"
+msgid "Rollback"
+msgstr "Cofka"
+
+#. UI.BUILTINCOMMANDS.ROLLBACK.VOTENAMEFMT
+msgctxt "UI.BUILTINCOMMANDS.ROLLBACK.VOTENAMEFMT"
+msgid "vote to rollback the server"
+msgstr "głosuj za cofnięciem zmian"
+
+#. UI.BUILTINCOMMANDS.ROLLBACK.VOTEPASSEDFMT
+msgctxt "UI.BUILTINCOMMANDS.ROLLBACK.VOTEPASSEDFMT"
+msgid "Rolling server back in 5 seconds..."
+msgstr "Restart serwera za 5 sekund…"
+
+#. UI.BUILTINCOMMANDS.ROLLBACK.VOTETITLEFMT
+msgctxt "UI.BUILTINCOMMANDS.ROLLBACK.VOTETITLEFMT"
+msgid "Should we rollback this world?"
+msgstr "Czy należy cofnąć zmiany na świecie?"
+
+#. UI.BUILTINCOMMANDS.STOPVOTE.DESC
+msgctxt "UI.BUILTINCOMMANDS.STOPVOTE.DESC"
+msgid "Cancel a vote in progress if you don't like it!"
+msgstr "Anuluj trwające głosowanie, jeśli ci ono nie odpowiada!"
+
+#. UI.BUILTINCOMMANDS.STOPVOTE.PRETTYNAME
+msgctxt "UI.BUILTINCOMMANDS.STOPVOTE.PRETTYNAME"
+msgid "Stop Vote"
+msgstr "Zatrzymaj głosowanie"
+

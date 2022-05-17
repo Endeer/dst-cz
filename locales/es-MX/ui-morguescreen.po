@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.MORGUESCREEN.BACK
+msgctxt "UI.MORGUESCREEN.BACK"
+msgid "Back"
+msgstr "Atrás"
+
+#. UI.MORGUESCREEN.CAUSE
+msgctxt "UI.MORGUESCREEN.CAUSE"
+msgid "Cause of Death"
+msgstr "Causa de muerte"
+
+#. UI.MORGUESCREEN.CLEAR
+msgctxt "UI.MORGUESCREEN.CLEAR"
+msgid "Clear"
+msgstr "Borrar"
+
+#. UI.MORGUESCREEN.DAY
+msgctxt "UI.MORGUESCREEN.DAY"
+msgid "Day"
+msgstr "Día"
+
+#. UI.MORGUESCREEN.DAYS
+msgctxt "UI.MORGUESCREEN.DAYS"
+msgid "Days"
+msgstr "Días"
+
+#. UI.MORGUESCREEN.DECEASED
+msgctxt "UI.MORGUESCREEN.DECEASED"
+msgid "Deceased"
+msgstr "Murió"
+
+#. UI.MORGUESCREEN.DECEASED_PS4
+msgctxt "UI.MORGUESCREEN.DECEASED_PS4"
+msgid "Survivor"
+msgstr ""
+
+#. UI.MORGUESCREEN.DIED_AGE
+msgctxt "UI.MORGUESCREEN.DIED_AGE"
+msgid "Survived"
+msgstr "Sobrevivió"
+
+#. UI.MORGUESCREEN.ENCOUNTERS.DESC
+msgctxt "UI.MORGUESCREEN.ENCOUNTERS.DESC"
+msgid "Last seen {date}, on {server_name}"
+msgstr "Visto por última vez el {date}, en {server_name}"
+
+#. UI.MORGUESCREEN.ENCOUNTERS.PLAYTIME_LABEL
+msgctxt "UI.MORGUESCREEN.ENCOUNTERS.PLAYTIME_LABEL"
+msgid "Play Time"
+msgstr "Tiempo de juego"
+
+#. UI.MORGUESCREEN.ENCOUNTERSTITLE
+msgctxt "UI.MORGUESCREEN.ENCOUNTERSTITLE"
+msgid "Encounters"
+msgstr "Encuentros"
+
+#. UI.MORGUESCREEN.HISTORY
+msgctxt "UI.MORGUESCREEN.HISTORY"
+msgid "History"
+msgstr "Historia"
+
+#. UI.MORGUESCREEN.LONGENCOUNTERSTITLE
+msgctxt "UI.MORGUESCREEN.LONGENCOUNTERSTITLE"
+msgid "Recent Encounters"
+msgstr "Encuentros recientes"
+
+#. UI.MORGUESCREEN.MODE
+msgctxt "UI.MORGUESCREEN.MODE"
+msgid "World"
+msgstr "Mundo"
+
+#. UI.MORGUESCREEN.MODE_PS4
+msgctxt "UI.MORGUESCREEN.MODE_PS4"
+msgid "Date"
+msgstr "Fecha"
+
+#. UI.MORGUESCREEN.MORGUE
+msgctxt "UI.MORGUESCREEN.MORGUE"
+msgid "Morgue"
+msgstr "Morgue"
+
+#. UI.MORGUESCREEN.NET_ID
+msgctxt "UI.MORGUESCREEN.NET_ID"
+msgid "Profile"
+msgstr "Perfil"
+
+#. UI.MORGUESCREEN.OK
+msgctxt "UI.MORGUESCREEN.OK"
+msgid "OK"
+msgstr "Aceptar"
+
+#. UI.MORGUESCREEN.PLAYER_AGE
+msgctxt "UI.MORGUESCREEN.PLAYER_AGE"
+msgid "Age"
+msgstr "Edad"
+
+#. UI.MORGUESCREEN.PLAYER_CHAR
+msgctxt "UI.MORGUESCREEN.PLAYER_CHAR"
+msgid "Face"
+msgstr "Cara"
+
+#. UI.MORGUESCREEN.PLAYER_CHAR_PS4
+msgctxt "UI.MORGUESCREEN.PLAYER_CHAR_PS4"
+msgid "Survivor"
+msgstr ""
+
+#. UI.MORGUESCREEN.PLAYER_NAME
+msgctxt "UI.MORGUESCREEN.PLAYER_NAME"
+msgid "Player"
+msgstr "Jugador"
+
+#. UI.MORGUESCREEN.SEEN_DATE
+msgctxt "UI.MORGUESCREEN.SEEN_DATE"
+msgid "Date"
+msgstr "Fecha"
+
+#. UI.MORGUESCREEN.SERVER_NAME
+msgctxt "UI.MORGUESCREEN.SERVER_NAME"
+msgid "Server"
+msgstr "Servidor"
+
+#. UI.MORGUESCREEN.TITLE
+msgctxt "UI.MORGUESCREEN.TITLE"
+msgid "Obituaries"
+msgstr "Obituarios"
+
+#. UI.MORGUESCREEN.UNKNOWN_DAYS
+msgctxt "UI.MORGUESCREEN.UNKNOWN_DAYS"
+msgid "?"
+msgstr "?"
+

@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.PLAYERSUMMARYSCREEN.CURRENCY_EXPLAIN
+msgctxt "UI.PLAYERSUMMARYSCREEN.CURRENCY_EXPLAIN"
+msgid "Items can be unraveled into Spools to weave special items."
+msgstr "Os itens podem ser desfiados e transformados em carretéis para tecer itens especiais."
+
+#. UI.PLAYERSUMMARYSCREEN.CURRENCY_LABEL
+msgctxt "UI.PLAYERSUMMARYSCREEN.CURRENCY_LABEL"
+msgid "Spools"
+msgstr "Carretéis"
+
+#. UI.PLAYERSUMMARYSCREEN.ENCOUNTER_COUNT_FMT
+msgctxt "UI.PLAYERSUMMARYSCREEN.ENCOUNTER_COUNT_FMT"
+msgid "Time played with: {time}"
+msgstr "Tempo de brincadeira: {time}"
+
+#. UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_BODY
+msgctxt "UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_BODY"
+msgid "Unfortunately you failed to download your item collection, would you like you try again?"
+msgstr "Infelizmente você não conseguiu baixar sua coleção de itens, gostaria de tentar novamente?"
+
+#. UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_NO
+msgctxt "UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_NO"
+msgid "No"
+msgstr "Não"
+
+#. UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_TITLE
+msgctxt "UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_TITLE"
+msgid "Item Collection Download Failed"
+msgstr "Falha ao baixar coleção de itens"
+
+#. UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_YES
+msgctxt "UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_YES"
+msgid "Yes"
+msgstr "Sim"
+
+#. UI.PLAYERSUMMARYSCREEN.FESTIVAL_HISTORY
+msgctxt "UI.PLAYERSUMMARYSCREEN.FESTIVAL_HISTORY"
+msgid "Through the Gateway"
+msgstr "Através do Portal"
+
+#. UI.PLAYERSUMMARYSCREEN.GET_INVENTORY
+msgctxt "UI.PLAYERSUMMARYSCREEN.GET_INVENTORY"
+msgid "Downloading Item Collection"
+msgstr "Baixando coleção de itens"
+
+#. UI.PLAYERSUMMARYSCREEN.LEVEL_ACHIEVED_FMT
+msgctxt "UI.PLAYERSUMMARYSCREEN.LEVEL_ACHIEVED_FMT"
+msgid "{event_title} level accomplished:"
+msgstr "Fase de {event_title} concluído:"
+
+#. UI.PLAYERSUMMARYSCREEN.LOADING_STUFF
+msgctxt "UI.PLAYERSUMMARYSCREEN.LOADING_STUFF"
+msgid "Loading Discoveries..."
+msgstr "Carregando descobertas..."
+
+#. UI.PLAYERSUMMARYSCREEN.MOST_COMMON_DEATH
+msgctxt "UI.PLAYERSUMMARYSCREEN.MOST_COMMON_DEATH"
+msgid "Often Killed By"
+msgstr "Maior carrasco"
+
+#. UI.PLAYERSUMMARYSCREEN.MOST_COMMON_FRIEND
+msgctxt "UI.PLAYERSUMMARYSCREEN.MOST_COMMON_FRIEND"
+msgid "Friendliest Friend"
+msgstr "Parceria mais amigável"
+
+#. UI.PLAYERSUMMARYSCREEN.MOST_COMMON_FRIENDS
+msgctxt "UI.PLAYERSUMMARYSCREEN.MOST_COMMON_FRIENDS"
+msgid "Friendliest Friends"
+msgstr "Migos mais migões"
+
+#. UI.PLAYERSUMMARYSCREEN.NEW_STUFF
+msgctxt "UI.PLAYERSUMMARYSCREEN.NEW_STUFF"
+msgid "Recent Discoveries"
+msgstr "Descobertas recentes"
+
+#. UI.PLAYERSUMMARYSCREEN.NO_DEATHS
+msgctxt "UI.PLAYERSUMMARYSCREEN.NO_DEATHS"
+msgid "No survivor deaths on record."
+msgstr "Nenhuma morte de sobrevivente registrada."
+
+#. UI.PLAYERSUMMARYSCREEN.NO_FRIENDS
+msgctxt "UI.PLAYERSUMMARYSCREEN.NO_FRIENDS"
+msgid "Play online and make some friends."
+msgstr "Jogue online e faça amigos."
+
+#. UI.PLAYERSUMMARYSCREEN.NO_ITEMS
+msgctxt "UI.PLAYERSUMMARYSCREEN.NO_ITEMS"
+msgid "Start playing to earn items!"
+msgstr "Comece a jogar para receber itens!"
+
+#. UI.PLAYERSUMMARYSCREEN.OFFLINE_NO_ITEMS
+msgctxt "UI.PLAYERSUMMARYSCREEN.OFFLINE_NO_ITEMS"
+msgid "Log in to starting earning items."
+msgstr "Conecte-se para começar a ganhar itens."
+
+#. UI.PLAYERSUMMARYSCREEN.POINTS_LABEL
+msgctxt "UI.PLAYERSUMMARYSCREEN.POINTS_LABEL"
+msgid "Klei Points"
+msgstr "Pontos Klei"
+
+#. UI.PLAYERSUMMARYSCREEN.PURCHASE
+msgctxt "UI.PLAYERSUMMARYSCREEN.PURCHASE"
+msgid "Shop"
+msgstr "Loja"
+
+#. UI.PLAYERSUMMARYSCREEN.TITLE
+msgctxt "UI.PLAYERSUMMARYSCREEN.TITLE"
+msgid "Item Collection"
+msgstr "Coleção de itens"
+
+#. UI.PLAYERSUMMARYSCREEN.TOOLTIP_HISTORY
+msgctxt "UI.PLAYERSUMMARYSCREEN.TOOLTIP_HISTORY"
+msgid "View missed connections and revisit past lives"
+msgstr "Veja as conexões perdidas e revisite vidas passadas"
+
+#. UI.PLAYERSUMMARYSCREEN.TOOLTIP_MYSTERYBOX
+msgctxt "UI.PLAYERSUMMARYSCREEN.TOOLTIP_MYSTERYBOX"
+msgid "Open chests to receive new curios"
+msgstr "Abra baús e receba novas curiosidades"
+
+#. UI.PLAYERSUMMARYSCREEN.TOOLTIP_PURCHASE
+msgctxt "UI.PLAYERSUMMARYSCREEN.TOOLTIP_PURCHASE"
+msgid "Browse purchasable skin sets"
+msgstr "Confira conjuntos de aparência para compra"
+
+#. UI.PLAYERSUMMARYSCREEN.TOOLTIP_SKINS
+msgctxt "UI.PLAYERSUMMARYSCREEN.TOOLTIP_SKINS"
+msgid "View and equip your curios"
+msgstr "Veja e equipe suas curiosidades"
+
+#. UI.PLAYERSUMMARYSCREEN.TOOLTIP_TRADE
+msgctxt "UI.PLAYERSUMMARYSCREEN.TOOLTIP_TRADE"
+msgid "Trade your old items in for something new!"
+msgstr "Troque seus itens antigos por algo novo!"
+
+#. UI.PLAYERSUMMARYSCREEN.TRADING
+msgctxt "UI.PLAYERSUMMARYSCREEN.TRADING"
+msgid "Trade Inn"
+msgstr "Loja de Trocas"
+
+#. UI.PLAYERSUMMARYSCREEN.UNOPENED_BOXES_FMT
+msgctxt "UI.PLAYERSUMMARYSCREEN.UNOPENED_BOXES_FMT"
+msgid "{num_boxes} unopened Chests"
+msgstr "{num_boxes} Baús não abertos"
+
+#. UI.PLAYERSUMMARYSCREEN.XP_LABEL
+msgctxt "UI.PLAYERSUMMARYSCREEN.XP_LABEL"
+msgid "XP Earned"
+msgstr "EXP recebido"
+

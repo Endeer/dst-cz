@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.NOTIFICATION.BANNEDFROMGAME
+msgctxt "UI.NOTIFICATION.BANNEDFROMGAME"
+msgid "%s was banned from the game."
+msgstr "Se suspendió a %s."
+
+#. UI.NOTIFICATION.CHECK_DAILY_GIFT
+msgctxt "UI.NOTIFICATION.CHECK_DAILY_GIFT"
+msgid "Checking for daily gifts"
+msgstr "Comprobando los regalos diarios"
+
+#. UI.NOTIFICATION.CHECK_EVENT
+msgctxt "UI.NOTIFICATION.CHECK_EVENT"
+msgid "Catching up on current events"
+msgstr "Comprobando los eventos actuales"
+
+#. UI.NOTIFICATION.CHECK_INVENTORY
+msgctxt "UI.NOTIFICATION.CHECK_INVENTORY"
+msgid "Updating inventory"
+msgstr "Actualizando el inventario"
+
+#. UI.NOTIFICATION.CHECK_KEYVALUESTORES
+msgctxt "UI.NOTIFICATION.CHECK_KEYVALUESTORES"
+msgid "Grabbing profile details"
+msgstr ""
+
+#. UI.NOTIFICATION.CHECK_SHOP
+msgctxt "UI.NOTIFICATION.CHECK_SHOP"
+msgid "Updating the shop"
+msgstr "Actualizando la tienda"
+
+#. UI.NOTIFICATION.CONNECTING
+msgctxt "UI.NOTIFICATION.CONNECTING"
+msgid "Connecting"
+msgstr "Conectándote"
+
+#. UI.NOTIFICATION.CURRENTLY_SPEAKING
+msgctxt "UI.NOTIFICATION.CURRENTLY_SPEAKING"
+msgid "Currently Speaking..."
+msgstr "Actualmente hablando..."
+
+#. UI.NOTIFICATION.DEFAULTVOTEFAILEDFMT
+msgctxt "UI.NOTIFICATION.DEFAULTVOTEFAILEDFMT"
+msgid "The %s has failed."
+msgstr "Error con %s."
+
+#. UI.NOTIFICATION.DEFAULTVOTENAMEFMT
+msgctxt "UI.NOTIFICATION.DEFAULTVOTENAMEFMT"
+msgid "vote"
+msgstr "votación"
+
+#. UI.NOTIFICATION.DEFAULTVOTEPASSEDFMT
+msgctxt "UI.NOTIFICATION.DEFAULTVOTEPASSEDFMT"
+msgid "The %s has passed."
+msgstr "La %s ya pasó."
+
+#. UI.NOTIFICATION.DICEROLLED
+msgctxt "UI.NOTIFICATION.DICEROLLED"
+msgid "%s rolls %s (1-%i)"
+msgstr "%s saca %s (1-%i)"
+
+#. UI.NOTIFICATION.DISCONNECT_CONTROLLER
+msgctxt "UI.NOTIFICATION.DISCONNECT_CONTROLLER"
+msgid " to Disconnect"
+msgstr " para desconectarte"
+
+#. UI.NOTIFICATION.DISCONNECT_KB
+msgctxt "UI.NOTIFICATION.DISCONNECT_KB"
+msgid ") to Disconnect"
+msgstr ") para desconectarte"
+
+#. UI.NOTIFICATION.INITIALIZING_SERVER
+msgctxt "UI.NOTIFICATION.INITIALIZING_SERVER"
+msgid "Initializing Server"
+msgstr "Inicializando servidor"
+
+#. UI.NOTIFICATION.JOINEDGAME
+msgctxt "UI.NOTIFICATION.JOINEDGAME"
+msgid "%s has joined the game."
+msgstr "%s se unió a la partida."
+
+#. UI.NOTIFICATION.KICKEDFROMGAME
+msgctxt "UI.NOTIFICATION.KICKEDFROMGAME"
+msgid "%s was kicked from the game."
+msgstr "Se expulsó a %s de la partida."
+
+#. UI.NOTIFICATION.LAUNCHING_SERVER
+msgctxt "UI.NOTIFICATION.LAUNCHING_SERVER"
+msgid "Launching Server"
+msgstr "Lanzando servidor"
+
+#. UI.NOTIFICATION.LEFTGAME
+msgctxt "UI.NOTIFICATION.LEFTGAME"
+msgid "%s has left the game."
+msgstr "%s abandonó la partida."
+
+#. UI.NOTIFICATION.LOADING
+msgctxt "UI.NOTIFICATION.LOADING"
+msgid "Loading"
+msgstr "Cargando"
+
+#. UI.NOTIFICATION.LOGIN
+msgctxt "UI.NOTIFICATION.LOGIN"
+msgid "Logging in"
+msgstr "Iniciando sesión"
+
+#. UI.NOTIFICATION.NEW_SKIN_ANNOUNCEMENT
+msgctxt "UI.NOTIFICATION.NEW_SKIN_ANNOUNCEMENT"
+msgid "%s got a new skin: "
+msgstr "%s tiene un nuevo diseño: "
+
+#. UI.NOTIFICATION.PRESS_CONTROLLER
+msgctxt "UI.NOTIFICATION.PRESS_CONTROLLER"
+msgid "Press "
+msgstr "Pulsa "
+
+#. UI.NOTIFICATION.PRESS_KB
+msgctxt "UI.NOTIFICATION.PRESS_KB"
+msgid "Press ("
+msgstr "Pulsa ("
+
+#. UI.NOTIFICATION.RESTORING
+msgctxt "UI.NOTIFICATION.RESTORING"
+msgid "Restoring Backup"
+msgstr "Restaurando copia de seguridad"
+
+#. UI.NOTIFICATION.RETRYING
+msgctxt "UI.NOTIFICATION.RETRYING"
+msgid "Retrying"
+msgstr "Reintentando"
+
+#. UI.NOTIFICATION.SERVER_WORLDGEN
+msgctxt "UI.NOTIFICATION.SERVER_WORLDGEN"
+msgid "Server is Generating World"
+msgstr "El servidor está generando el mundo"
+
+#. UI.NOTIFICATION.WORLDGENERATING_SERVER
+msgctxt "UI.NOTIFICATION.WORLDGENERATING_SERVER"
+msgid "Generating World"
+msgstr "Generando el mundo"
+

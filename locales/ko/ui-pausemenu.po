@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.PAUSEMENU.AFK
+msgctxt "UI.PAUSEMENU.AFK"
+msgid "Go AFK"
+msgstr "잠시 자리 비우기"
+
+#. UI.PAUSEMENU.AUTOPAUSED_DST_TITLE
+msgctxt "UI.PAUSEMENU.AUTOPAUSED_DST_TITLE"
+msgid "Auto-Paused!"
+msgstr "자동 일시 중지!"
+
+#. UI.PAUSEMENU.AUTOPAUSE_TEXT
+msgctxt "UI.PAUSEMENU.AUTOPAUSE_TEXT"
+msgid "The game is auto-paused."
+msgstr "게임이 자동으로 일시 중지됩니다."
+
+#. UI.PAUSEMENU.CLIENTQUITBODY
+msgctxt "UI.PAUSEMENU.CLIENTQUITBODY"
+msgid "Are you sure you want to leave the server?"
+msgstr "정말 서버에서 나가시겠습니까?"
+
+#. UI.PAUSEMENU.CLIENTQUITTITLE
+msgctxt "UI.PAUSEMENU.CLIENTQUITTITLE"
+msgid "Leave Server"
+msgstr "서버에서 나가기"
+
+#. UI.PAUSEMENU.CLOSE
+msgctxt "UI.PAUSEMENU.CLOSE"
+msgid "Close"
+msgstr "닫기"
+
+#. UI.PAUSEMENU.CONTINUE
+msgctxt "UI.PAUSEMENU.CONTINUE"
+msgid "Continue"
+msgstr "계속"
+
+#. UI.PAUSEMENU.CONTROLS
+msgctxt "UI.PAUSEMENU.CONTROLS"
+msgid "Controls"
+msgstr "조작법"
+
+#. UI.PAUSEMENU.DISCONNECT
+msgctxt "UI.PAUSEMENU.DISCONNECT"
+msgid "Disconnect"
+msgstr "연결 끊기"
+
+#. UI.PAUSEMENU.DST_SUBTITLE
+msgctxt "UI.PAUSEMENU.DST_SUBTITLE"
+msgid "(Seriously! It's not.)"
+msgstr "(정말! 아닙니다.)"
+
+#. UI.PAUSEMENU.DST_TITLE
+msgctxt "UI.PAUSEMENU.DST_TITLE"
+msgid "Not Paused."
+msgstr "일시 중지 상태가 아닙니다."
+
+#. UI.PAUSEMENU.HOSTPAUSED_TEXT
+msgctxt "UI.PAUSEMENU.HOSTPAUSED_TEXT"
+msgid "The server host has paused the game."
+msgstr "서버 호스트가 게임을 일시 중지했습니다."
+
+#. UI.PAUSEMENU.HOSTQUITBODY
+msgctxt "UI.PAUSEMENU.HOSTQUITBODY"
+msgid "Are you sure you want to shut down the server? If you do, all current players will be disconnected."
+msgstr "정말 이 서버를 종료하시겠습니까? 현재 접속 중인 모든 플레이어의 연결이 끊깁니다."
+
+#. UI.PAUSEMENU.HOSTQUITTITLE
+msgctxt "UI.PAUSEMENU.HOSTQUITTITLE"
+msgid "Shut Down Server"
+msgstr "서버 종료"
+
+#. UI.PAUSEMENU.ISSUE
+msgctxt "UI.PAUSEMENU.ISSUE"
+msgid "Report an Issue"
+msgstr "문제 신고하기"
+
+#. UI.PAUSEMENU.NO
+msgctxt "UI.PAUSEMENU.NO"
+msgid "Maybe not..."
+msgstr "아니요..."
+
+#. UI.PAUSEMENU.OPTIONS
+msgctxt "UI.PAUSEMENU.OPTIONS"
+msgid "Settings"
+msgstr "설정"
+
+#. UI.PAUSEMENU.PAUSED_DST_SUBTITLE
+msgctxt "UI.PAUSEMENU.PAUSED_DST_SUBTITLE"
+msgid "Seriously. It is!"
+msgstr "정말. 그렇다고요!"
+
+#. UI.PAUSEMENU.PAUSED_DST_TITLE
+msgctxt "UI.PAUSEMENU.PAUSED_DST_TITLE"
+msgid "Paused!"
+msgstr "일시중지!"
+
+#. UI.PAUSEMENU.PAUSE_SERVER
+msgctxt "UI.PAUSEMENU.PAUSE_SERVER"
+msgid "Pause Server"
+msgstr "서버 일시 중지"
+
+#. UI.PAUSEMENU.PLAYERPAUSED_TEXT
+msgctxt "UI.PAUSEMENU.PLAYERPAUSED_TEXT"
+msgid "{player} paused the game."
+msgstr "{player} 플레이어가 게임을 일시 중지했습니다."
+
+#. UI.PAUSEMENU.PLAYERSTATUSSCREEN
+msgctxt "UI.PAUSEMENU.PLAYERSTATUSSCREEN"
+msgid "View Players"
+msgstr "플레이어 보기"
+
+#. UI.PAUSEMENU.QUIT
+msgctxt "UI.PAUSEMENU.QUIT"
+msgid "Quit"
+msgstr "종료"
+
+#. UI.PAUSEMENU.QUITBODY
+msgctxt "UI.PAUSEMENU.QUITBODY"
+msgid "Leaving so soon?"
+msgstr "벌써 떠나게요?"
+
+#. UI.PAUSEMENU.QUITNO
+msgctxt "UI.PAUSEMENU.QUITNO"
+msgid "Never mind..."
+msgstr "아니에요..."
+
+#. UI.PAUSEMENU.QUITTITLE
+msgctxt "UI.PAUSEMENU.QUITTITLE"
+msgid "Return to main menu?"
+msgstr "메인 메뉴로 돌아가시겠습니까?"
+
+#. UI.PAUSEMENU.QUITYES
+msgctxt "UI.PAUSEMENU.QUITYES"
+msgid "I said quit!"
+msgstr "종료하자니까요!"
+
+#. UI.PAUSEMENU.SAVEANDQUIT
+msgctxt "UI.PAUSEMENU.SAVEANDQUIT"
+msgid "Save and Quit"
+msgstr "저장하고 종료"
+
+#. UI.PAUSEMENU.SAVEANDQUITBODY
+msgctxt "UI.PAUSEMENU.SAVEANDQUITBODY"
+msgid "Don't worry. We'll wait here for you."
+msgstr "걱정 마세요. 기다릴게요."
+
+#. UI.PAUSEMENU.SAVEANDQUITNO
+msgctxt "UI.PAUSEMENU.SAVEANDQUITNO"
+msgid "Never mind..."
+msgstr "아니에요..."
+
+#. UI.PAUSEMENU.SAVEANDQUITTITLE
+msgctxt "UI.PAUSEMENU.SAVEANDQUITTITLE"
+msgid "Save and return to main menu?"
+msgstr "저장하고 메인 메뉴로 돌아가시겠습니까?"
+
+#. UI.PAUSEMENU.SAVEANDQUITYES
+msgctxt "UI.PAUSEMENU.SAVEANDQUITYES"
+msgid "I said quit!"
+msgstr "종료하자니까요!"
+
+#. UI.PAUSEMENU.SELFPAUSED_TEXT
+msgctxt "UI.PAUSEMENU.SELFPAUSED_TEXT"
+msgid "You have paused the game."
+msgstr "게임을 일시 중지하셨습니다."
+
+#. UI.PAUSEMENU.SERVERACTIONS
+msgctxt "UI.PAUSEMENU.SERVERACTIONS"
+msgid "Server Commands"
+msgstr "서버 명령"
+
+#. UI.PAUSEMENU.SERVER_ADMIN
+msgctxt "UI.PAUSEMENU.SERVER_ADMIN"
+msgid "Server Admin"
+msgstr "서버 관리자"
+
+#. UI.PAUSEMENU.TITLE
+msgctxt "UI.PAUSEMENU.TITLE"
+msgid "Paused"
+msgstr "일시 중지 상태"
+
+#. UI.PAUSEMENU.UNPAUSE_SERVER
+msgctxt "UI.PAUSEMENU.UNPAUSE_SERVER"
+msgid "Unpause Server"
+msgstr "서버 일시 중지 해제"
+
+#. UI.PAUSEMENU.YES
+msgctxt "UI.PAUSEMENU.YES"
+msgid "Do it!"
+msgstr "네!"
+

@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.SERVERADMINSCREEN.APPLY
+msgctxt "UI.SERVERADMINSCREEN.APPLY"
+msgid "Apply"
+msgstr "Применить"
+
+#. UI.SERVERADMINSCREEN.BACK
+msgctxt "UI.SERVERADMINSCREEN.BACK"
+msgid "Back"
+msgstr "Назад"
+
+#. UI.SERVERADMINSCREEN.BANNED
+msgctxt "UI.SERVERADMINSCREEN.BANNED"
+msgid "Banned on "
+msgstr "Заблокирован "
+
+#. UI.SERVERADMINSCREEN.BANNED_PLAYERS_HEADER
+msgctxt "UI.SERVERADMINSCREEN.BANNED_PLAYERS_HEADER"
+msgid "Banned Players"
+msgstr "Заблокированные игроки"
+
+#. UI.SERVERADMINSCREEN.CANCEL
+msgctxt "UI.SERVERADMINSCREEN.CANCEL"
+msgid "Cancel"
+msgstr "Отменить"
+
+#. UI.SERVERADMINSCREEN.CLEAR_LIST_BODY
+msgctxt "UI.SERVERADMINSCREEN.CLEAR_LIST_BODY"
+msgid "Do you want to delete all banned players?\nThis will affect all servers you create."
+msgstr "Хотите удалить всех заблокированных игроков?\nЭто повлияет на все сервера, которые вы создаете."
+
+#. UI.SERVERADMINSCREEN.CLEAR_LIST_TITLE
+msgctxt "UI.SERVERADMINSCREEN.CLEAR_LIST_TITLE"
+msgid "Unban all?"
+msgstr "Разблокировать всех?"
+
+#. UI.SERVERADMINSCREEN.CLEAR_PLAYERS
+msgctxt "UI.SERVERADMINSCREEN.CLEAR_PLAYERS"
+msgid "Unban All"
+msgstr "Разблокировать всех"
+
+#. UI.SERVERADMINSCREEN.DATE
+msgctxt "UI.SERVERADMINSCREEN.DATE"
+msgid "Date"
+msgstr "Дата"
+
+#. UI.SERVERADMINSCREEN.DAY
+msgctxt "UI.SERVERADMINSCREEN.DAY"
+msgid "Day"
+msgstr "День"
+
+#. UI.SERVERADMINSCREEN.DAY_UNKNOWN
+msgctxt "UI.SERVERADMINSCREEN.DAY_UNKNOWN"
+msgid "Unknown Day"
+msgstr "Неизвестный день"
+
+#. UI.SERVERADMINSCREEN.DAY_V2
+msgctxt "UI.SERVERADMINSCREEN.DAY_V2"
+msgid "Day {day_count}"
+msgstr "День {day_count}"
+
+#. UI.SERVERADMINSCREEN.DELETE_ENTRY_BODY
+msgctxt "UI.SERVERADMINSCREEN.DELETE_ENTRY_BODY"
+msgid "Do you want to delete \""
+msgstr "Хотите удалить «"
+
+#. UI.SERVERADMINSCREEN.DELETE_ENTRY_BODY_2
+msgctxt "UI.SERVERADMINSCREEN.DELETE_ENTRY_BODY_2"
+msgid "\" from your ban list?\nThis will affect all servers you create."
+msgstr "» из вашего списка заблокированных?\nЭто повлияет на все сервера, которые вы создаете."
+
+#. UI.SERVERADMINSCREEN.DELETE_ENTRY_TITLE
+msgctxt "UI.SERVERADMINSCREEN.DELETE_ENTRY_TITLE"
+msgid "Unban Player?"
+msgstr "Разблокировать игрока?"
+
+#. UI.SERVERADMINSCREEN.EMPTY_SLOT
+msgctxt "UI.SERVERADMINSCREEN.EMPTY_SLOT"
+msgid "EMPTY"
+msgstr "ПУСТО"
+
+#. UI.SERVERADMINSCREEN.EMPTY_SLOT_TITLE
+msgctxt "UI.SERVERADMINSCREEN.EMPTY_SLOT_TITLE"
+msgid "Empty Slot"
+msgstr "Пустой слот"
+
+#. UI.SERVERADMINSCREEN.HEADER_DAY
+msgctxt "UI.SERVERADMINSCREEN.HEADER_DAY"
+msgid "Restore Day {day_count}"
+msgstr "Восстановить {day_count} день"
+
+#. UI.SERVERADMINSCREEN.HEADER_DAY_UNKNOWN
+msgctxt "UI.SERVERADMINSCREEN.HEADER_DAY_UNKNOWN"
+msgid "Restore Unknown Day"
+msgstr "Восстановить неизвестный день"
+
+#. UI.SERVERADMINSCREEN.LOSE_CHANGES_BODY
+msgctxt "UI.SERVERADMINSCREEN.LOSE_CHANGES_BODY"
+msgid "Do you want abandon your changes?"
+msgstr "Хотите отменить изменения?"
+
+#. UI.SERVERADMINSCREEN.LOSE_CHANGES_TITLE
+msgctxt "UI.SERVERADMINSCREEN.LOSE_CHANGES_TITLE"
+msgid "Lose Changes?"
+msgstr "Изменения не сохранятся, согласны?"
+
+#. UI.SERVERADMINSCREEN.NO
+msgctxt "UI.SERVERADMINSCREEN.NO"
+msgid "No"
+msgstr "Нет"
+
+#. UI.SERVERADMINSCREEN.NO_PLAYER_SELECTED
+msgctxt "UI.SERVERADMINSCREEN.NO_PLAYER_SELECTED"
+msgid "No Player Selected"
+msgstr "Игрок не выбран"
+
+#. UI.SERVERADMINSCREEN.PLAYER
+msgctxt "UI.SERVERADMINSCREEN.PLAYER"
+msgid "Player"
+msgstr "Игрок"
+
+#. UI.SERVERADMINSCREEN.PLAYER_DELETE
+msgctxt "UI.SERVERADMINSCREEN.PLAYER_DELETE"
+msgid "Unban"
+msgstr "Разблокировать"
+
+#. UI.SERVERADMINSCREEN.PLAYER_DETAILS
+msgctxt "UI.SERVERADMINSCREEN.PLAYER_DETAILS"
+msgid "View Details"
+msgstr "Посмотреть детали"
+
+#. UI.SERVERADMINSCREEN.RESTORE_SNAPSHOT
+msgctxt "UI.SERVERADMINSCREEN.RESTORE_SNAPSHOT"
+msgid "Restore Snapshot"
+msgstr "Восстановить снимок"
+
+#. UI.SERVERADMINSCREEN.RESTORE_SNAPSHOT_BODY
+msgctxt "UI.SERVERADMINSCREEN.RESTORE_SNAPSHOT_BODY"
+msgid "Do you want to restore this save? You will lose all changes made to the world past the selected day, as well as all subsequent saves. This cannot be undone."
+msgstr "Хотите восстановить это сохранение? Вы потеряете все изменения, совершенные в мире после выбранного дня, так же, как и последующие сохранения. Это невозможно отменить."
+
+#. UI.SERVERADMINSCREEN.RESTORE_SNAPSHOT_HEADER
+msgctxt "UI.SERVERADMINSCREEN.RESTORE_SNAPSHOT_HEADER"
+msgid "Restore %s"
+msgstr "Восстановить %s"
+
+#. UI.SERVERADMINSCREEN.SERVER_DESCRIPTION
+msgctxt "UI.SERVERADMINSCREEN.SERVER_DESCRIPTION"
+msgid "Server Description:"
+msgstr "Описание сервера:"
+
+#. UI.SERVERADMINSCREEN.SERVER_NAME
+msgctxt "UI.SERVERADMINSCREEN.SERVER_NAME"
+msgid "Server Name:"
+msgstr "Имя сервера:"
+
+#. UI.SERVERADMINSCREEN.SNAPSHOTS_TITLE
+msgctxt "UI.SERVERADMINSCREEN.SNAPSHOTS_TITLE"
+msgid "Snapshots: "
+msgstr "Снимки: "
+
+#. UI.SERVERADMINSCREEN.SYSTEMMESSAGE
+msgctxt "UI.SERVERADMINSCREEN.SYSTEMMESSAGE"
+msgid "Server"
+msgstr "Сервер"
+
+#. UI.SERVERADMINSCREEN.UNDO_PLAYERS
+msgctxt "UI.SERVERADMINSCREEN.UNDO_PLAYERS"
+msgid "Undo All"
+msgstr "Отменить все"
+
+#. UI.SERVERADMINSCREEN.UNKNOWN
+msgctxt "UI.SERVERADMINSCREEN.UNKNOWN"
+msgid "Unknown"
+msgstr "Неизвестно"
+
+#. UI.SERVERADMINSCREEN.UNKNOWN_DATE
+msgctxt "UI.SERVERADMINSCREEN.UNKNOWN_DATE"
+msgid "????-??-??"
+msgstr "????-??-??"
+
+#. UI.SERVERADMINSCREEN.UNKNOWN_DAY
+msgctxt "UI.SERVERADMINSCREEN.UNKNOWN_DAY"
+msgid "???"
+msgstr "???"
+
+#. UI.SERVERADMINSCREEN.UNKNOWN_DAY_PS4
+msgctxt "UI.SERVERADMINSCREEN.UNKNOWN_DAY_PS4"
+msgid "Creation of the World"
+msgstr "Создание Мира"
+
+#. UI.SERVERADMINSCREEN.UNKNOWN_USER_NAME
+msgctxt "UI.SERVERADMINSCREEN.UNKNOWN_USER_NAME"
+msgid "[unknown]"
+msgstr "[неизвестное]"
+
+#. UI.SERVERADMINSCREEN.YES
+msgctxt "UI.SERVERADMINSCREEN.YES"
+msgid "Yes"
+msgstr "Да"
+

@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. WAGSTAFF_GOTTAGO1
+msgctxt "WAGSTAFF_GOTTAGO1"
+msgid "Aha! This selenological anomaly can only mean one thing!"
+msgstr "あは！この月の異常現象が意味することはたったの一つだ！"
+
+#. WAGSTAFF_GOTTAGO2
+msgctxt "WAGSTAFF_GOTTAGO2"
+msgid "Now is my chance!"
+msgstr "今がわしにとっての好機なのだ！"
+
+#. WAGSTAFF_NPC_ATTEMPT_TRADE.1
+msgctxt "WAGSTAFF_NPC_ATTEMPT_TRADE.1"
+msgid "Is it important?"
+msgstr "大事な用事なんだろうな？"
+
+#. WAGSTAFF_NPC_ATTEMPT_TRADE.2
+msgctxt "WAGSTAFF_NPC_ATTEMPT_TRADE.2"
+msgid "Quickly now, timing is critical!"
+msgstr "早くしてくれ！今は大切な仕事があるのだ！"
+
+#. WAGSTAFF_NPC_CAPTURESTART
+msgctxt "WAGSTAFF_NPC_CAPTURESTART"
+msgid "Excellent! My little experiment was a resounding success!"
+msgstr "素晴らしい！わしのささやかな実験にも、成功の目が再び見えてきたぞ！"
+
+#. WAGSTAFF_NPC_CAPTURESTOP
+msgctxt "WAGSTAFF_NPC_CAPTURESTOP"
+msgid "Thank you for all your hard work."
+msgstr "助力に感謝する。"
+
+#. WAGSTAFF_NPC_CAPTURESTOP2
+msgctxt "WAGSTAFF_NPC_CAPTURESTOP2"
+msgid "Now if you'll excuse me, I have much to do."
+msgstr "もういいかね。わしにはやることが山積みなのだよ。"
+
+#. WAGSTAFF_NPC_EXPERIMENT_DONE_1
+msgctxt "WAGSTAFF_NPC_EXPERIMENT_DONE_1"
+msgid "It's done!"
+msgstr "できたぞ！"
+
+#. WAGSTAFF_NPC_EXPERIMENT_DONE_2
+msgctxt "WAGSTAFF_NPC_EXPERIMENT_DONE_2"
+msgid "Take this, you'll need it for what we have to do."
+msgstr "これを持っていけ。為すべきことを為すために必要不可欠なのだ。"
+
+#. WAGSTAFF_NPC_EXPERIMENT_FAIL_1
+msgctxt "WAGSTAFF_NPC_EXPERIMENT_FAIL_1"
+msgid "Balderdash! The containment has failed!"
+msgstr "なんてことだ！格納に失敗してしまった！"
+
+#. WAGSTAFF_NPC_EXPERIMENT_FAIL_2
+msgctxt "WAGSTAFF_NPC_EXPERIMENT_FAIL_2"
+msgid "Back to my notes again..."
+msgstr "またノートとにらめっこか…"
+
+#. WAGSTAFF_NPC_MEETING
+msgctxt "WAGSTAFF_NPC_MEETING"
+msgid "You! Of course!"
+msgstr "キミ！そこのキミ！"
+
+#. WAGSTAFF_NPC_MEETING_2
+msgctxt "WAGSTAFF_NPC_MEETING_2"
+msgid "Quick, take these!"
+msgstr "早く、これを持っていくのだ！"
+
+#. WAGSTAFF_NPC_MEETING_3
+msgctxt "WAGSTAFF_NPC_MEETING_3"
+msgid "I'll be needing some assistance shortly."
+msgstr "あと少しで助手が必要になるのだ。"
+
+#. WAGSTAFF_NPC_MEETING_4
+msgctxt "WAGSTAFF_NPC_MEETING_4"
+msgid "Find me when you are sufficiently prepared."
+msgstr "十分に準備ができたときに、またわしに声をかけてくれ。"
+
+#. WAGSTAFF_NPC_MEETING_5
+msgctxt "WAGSTAFF_NPC_MEETING_5"
+msgid "Now, to find the source of that reading..."
+msgstr "よし、これが探知したものを見つけるためには…"
+
+#. WAGSTAFF_NPC_MUMBLE_1.1
+msgctxt "WAGSTAFF_NPC_MUMBLE_1.1"
+msgid "It's close by now..."
+msgstr "近いぞ…"
+
+#. WAGSTAFF_NPC_MUMBLE_1.2
+msgctxt "WAGSTAFF_NPC_MUMBLE_1.2"
+msgid "If I can just find..."
+msgstr "見つからんものか…"
+
+#. WAGSTAFF_NPC_MUMBLE_1.3
+msgctxt "WAGSTAFF_NPC_MUMBLE_1.3"
+msgid "If my hypothesis is correct..."
+msgstr "わしの理論が正しければ…"
+
+#. WAGSTAFF_NPC_MUMBLE_1.4
+msgctxt "WAGSTAFF_NPC_MUMBLE_1.4"
+msgid "It's here... somewhere."
+msgstr "ここだ…この辺りにあるはずなのだ。"
+
+#. WAGSTAFF_NPC_NOT_THIS_TOOL.1
+msgctxt "WAGSTAFF_NPC_NOT_THIS_TOOL.1"
+msgid "No no, that's not what I'm looking for!"
+msgstr "違う、違う！これはわしの探しているものではない！"
+
+#. WAGSTAFF_NPC_NOT_THIS_TOOL.2
+msgctxt "WAGSTAFF_NPC_NOT_THIS_TOOL.2"
+msgid "This isn't the right one, the other one!"
+msgstr "これではない！別の道具がほしいのだ！"
+
+#. WAGSTAFF_NPC_NO_WAY1.1
+msgctxt "WAGSTAFF_NPC_NO_WAY1.1"
+msgid "Blast, I lost the signal."
+msgstr "なんということだ。信号を失ってしまった。"
+
+#. WAGSTAFF_NPC_NO_WAY2.1
+msgctxt "WAGSTAFF_NPC_NO_WAY2.1"
+msgid "I must have miscalculated."
+msgstr "計算に間違いがあったに違いない。"
+
+#. WAGSTAFF_NPC_NO_WAY3.1
+msgctxt "WAGSTAFF_NPC_NO_WAY3.1"
+msgid "Come find me again once I've made some preparations."
+msgstr "わしの準備ができてから、また声をかけてくれ。"
+
+#. WAGSTAFF_NPC_START.1
+msgctxt "WAGSTAFF_NPC_START.1"
+msgid "This is it, it must be contained."
+msgstr "あったぞ。これを格納しなくてはならん。"
+
+#. WAGSTAFF_NPC_START.2
+msgctxt "WAGSTAFF_NPC_START.2"
+msgid "I'll need your assistance, we must contain it before it's gone!"
+msgstr "それには助力が必要となる。こいつが消えてなくなってしまう前に格納しなくてはならんのだ！"
+
+#. WAGSTAFF_NPC_STORMPASS
+msgctxt "WAGSTAFF_NPC_STORMPASS"
+msgid "Balderdash, my connection is fading!"
+msgstr "ああ！接続が途切れそうだ！"
+
+#. WAGSTAFF_NPC_THIS_WAY.1
+msgctxt "WAGSTAFF_NPC_THIS_WAY.1"
+msgid "Ahh, this way!"
+msgstr "う～む、こっちだ！"
+
+#. WAGSTAFF_NPC_THIS_WAY.2
+msgctxt "WAGSTAFF_NPC_THIS_WAY.2"
+msgid "My scans point toward this direction."
+msgstr "わしの観察眼によると、方角はこっちだ。"
+
+#. WAGSTAFF_NPC_THIS_WAY.3
+msgctxt "WAGSTAFF_NPC_THIS_WAY.3"
+msgid "Aha, found it again!"
+msgstr "あは！また見つけたぞ！"
+
+#. WAGSTAFF_NPC_TOO_BUSY.1
+msgctxt "WAGSTAFF_NPC_TOO_BUSY.1"
+msgid "I'm a bit preoccupied at the moment."
+msgstr "今は手が離せなくてな。"
+
+#. WAGSTAFF_NPC_TOO_BUSY.2
+msgctxt "WAGSTAFF_NPC_TOO_BUSY.2"
+msgid "Patience if you please, this requires my full concentration."
+msgstr "少し待っていてくれないか。これには集中力が欠かせなくてな。"
+
+#. WAGSTAFF_NPC_WANT_TOOL_1
+msgctxt "WAGSTAFF_NPC_WANT_TOOL_1"
+msgid "Quick, I need my Reticulating Buffer!"
+msgstr "早く！わしのレティキュレーティング・バッファーを持ってくるのだ！"
+
+#. WAGSTAFF_NPC_WANT_TOOL_2
+msgctxt "WAGSTAFF_NPC_WANT_TOOL_2"
+msgid "Someone find me a Widget Deflubber!"
+msgstr "誰か！わしのウィジェット・デフラバーを見つけてきてくれ！"
+
+#. WAGSTAFF_NPC_WANT_TOOL_3
+msgctxt "WAGSTAFF_NPC_WANT_TOOL_3"
+msgid "Has anyone seen my Grommet Scriber?"
+msgstr "わしのグロメット・スクライバーを見た者はおらんか？"
+
+#. WAGSTAFF_NPC_WANT_TOOL_4
+msgctxt "WAGSTAFF_NPC_WANT_TOOL_4"
+msgid "Can someone hand me the Conceptual Scrubber?"
+msgstr "コンセプチュアル・スクラバーを持ってる者はおらんのか？"
+
+#. WAGSTAFF_NPC_WANT_TOOL_5
+msgctxt "WAGSTAFF_NPC_WANT_TOOL_5"
+msgid "I'm certain I put the Calibrated Perceiver down here somewhere..."
+msgstr "たしかにこの辺りにカリブレーテッド・パーシーバーをしまったのだが…"
+
+#. WAGSTAFF_NPC_YES_THIS_TOOL.1
+msgctxt "WAGSTAFF_NPC_YES_THIS_TOOL.1"
+msgid "Excellent, that's it!"
+msgstr "素晴らしい！まさにこれだ！"
+
+#. WAGSTAFF_NPC_YES_THIS_TOOL.2
+msgctxt "WAGSTAFF_NPC_YES_THIS_TOOL.2"
+msgid "At last! Now let's get this finished!"
+msgstr "ようやくか！よし、とっとと終わらせてしまおう！"
+

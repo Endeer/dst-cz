@@ -1,0 +1,825 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.OPTIONS.ACCEPT
+msgctxt "UI.OPTIONS.ACCEPT"
+msgid "Accept"
+msgstr "承認"
+
+#. UI.OPTIONS.ACCEPTBODY
+msgctxt "UI.OPTIONS.ACCEPTBODY"
+msgid "Do you wish to accept these changes?"
+msgstr "この変更を承認しますか？"
+
+#. UI.OPTIONS.ACCEPTGRAPHICSBODY
+msgctxt "UI.OPTIONS.ACCEPTGRAPHICSBODY"
+msgid "Do you wish to accept these changes?"
+msgstr "この変更を承認しますか？"
+
+#. UI.OPTIONS.ACCEPTGRAPHICSTITLE
+msgctxt "UI.OPTIONS.ACCEPTGRAPHICSTITLE"
+msgid "Accept Changes"
+msgstr "変更を承認"
+
+#. UI.OPTIONS.ACCEPTTITLE
+msgctxt "UI.OPTIONS.ACCEPTTITLE"
+msgid "Accept Changes"
+msgstr "変更を承認"
+
+#. UI.OPTIONS.ACTION
+msgctxt "UI.OPTIONS.ACTION"
+msgid "Action"
+msgstr "アクション"
+
+#. UI.OPTIONS.ADVANCED
+msgctxt "UI.OPTIONS.ADVANCED"
+msgid "Advanced"
+msgstr "高度な設定"
+
+#. UI.OPTIONS.AMBIENT
+msgctxt "UI.OPTIONS.AMBIENT"
+msgid "Ambient Volume:"
+msgstr "環境音音量："
+
+#. UI.OPTIONS.ANIMATED_HEADS
+msgctxt "UI.OPTIONS.ANIMATED_HEADS"
+msgid "Moving Head Icons:"
+msgstr "ヘッドアイコンの移動："
+
+#. UI.OPTIONS.APPLY
+msgctxt "UI.OPTIONS.APPLY"
+msgid "Apply"
+msgstr "適用"
+
+#. UI.OPTIONS.AUTOLOGIN
+msgctxt "UI.OPTIONS.AUTOLOGIN"
+msgid "Auto-Login:"
+msgstr "オートログイン："
+
+#. UI.OPTIONS.AUTOMODS
+msgctxt "UI.OPTIONS.AUTOMODS"
+msgid "Auto-Subscribe Mods:"
+msgstr "MOD自動サブスクライブ："
+
+#. UI.OPTIONS.AUTOPAUSE
+msgctxt "UI.OPTIONS.AUTOPAUSE"
+msgid "Auto-Pause:"
+msgstr "オートポーズ："
+
+#. UI.OPTIONS.AUTOSAVE
+msgctxt "UI.OPTIONS.AUTOSAVE"
+msgid "Auto-save"
+msgstr "自動セーブ"
+
+#. UI.OPTIONS.BACK
+msgctxt "UI.OPTIONS.BACK"
+msgid "Back"
+msgstr "戻る"
+
+#. UI.OPTIONS.BACKBODY
+msgctxt "UI.OPTIONS.BACKBODY"
+msgid "Do you want to throw out your changes?"
+msgstr "変更をキャンセルしますか？"
+
+#. UI.OPTIONS.BACKBODY_PS4
+msgctxt "UI.OPTIONS.BACKBODY_PS4"
+msgid "You've made changes. How you want to proceed?"
+msgstr "変更しましたね。どのように進めていきたいですか？"
+
+#. UI.OPTIONS.BACKPACKMODE
+msgctxt "UI.OPTIONS.BACKPACKMODE"
+msgid "Backpack Layout:"
+msgstr "バックのレイアウト："
+
+#. UI.OPTIONS.BACKTITLE
+msgctxt "UI.OPTIONS.BACKTITLE"
+msgid "Lose Changes?"
+msgstr "リセット？"
+
+#. UI.OPTIONS.BACKTITLE_PS4
+msgctxt "UI.OPTIONS.BACKTITLE_PS4"
+msgid "Wait!"
+msgstr "待ってください！"
+
+#. UI.OPTIONS.BLOOM
+msgctxt "UI.OPTIONS.BLOOM"
+msgid "Bloom:"
+msgstr "ブルーム効果"
+
+#. UI.OPTIONS.BOATCAMERA
+msgctxt "UI.OPTIONS.BOATCAMERA"
+msgid "Seafaring Camera:"
+msgstr "航海カメラ："
+
+#. UI.OPTIONS.BUGREPORT
+msgctxt "UI.OPTIONS.BUGREPORT"
+msgid "Submit a Bug Report"
+msgstr "バグレポートの提出"
+
+#. UI.OPTIONS.CANCEL
+msgctxt "UI.OPTIONS.CANCEL"
+msgid "Cancel"
+msgstr "キャンセル"
+
+#. UI.OPTIONS.CINEMATICS
+msgctxt "UI.OPTIONS.CINEMATICS"
+msgid "Cinematics"
+msgstr "映画"
+
+#. UI.OPTIONS.CLOSE
+msgctxt "UI.OPTIONS.CLOSE"
+msgid "Close"
+msgstr "閉める"
+
+#. UI.OPTIONS.CONSOLEAUTOPAUSE
+msgctxt "UI.OPTIONS.CONSOLEAUTOPAUSE"
+msgid "Console Auto-Pause:"
+msgstr "端末のオートポーズ："
+
+#. UI.OPTIONS.CONTROLS
+msgctxt "UI.OPTIONS.CONTROLS"
+msgid "Controls"
+msgstr "コントローラー"
+
+#. UI.OPTIONS.CRAFTINGAUTOPAUSE
+msgctxt "UI.OPTIONS.CRAFTINGAUTOPAUSE"
+msgid "Crafting Auto-Pause:"
+msgstr "クラフト中のオートポーズ："
+
+#. UI.OPTIONS.CRAFTINGHINTALLRECIPES
+msgctxt "UI.OPTIONS.CRAFTINGHINTALLRECIPES"
+msgid "Crafting Preview:"
+msgstr "クラフト中のプレビュー："
+
+#. UI.OPTIONS.CRAFTINGMENUBUFFEREDBUILDAUTOCLOSE
+msgctxt "UI.OPTIONS.CRAFTINGMENUBUFFEREDBUILDAUTOCLOSE"
+msgid "Crafting Auto-Close:"
+msgstr "クラフトを自動で閉じる："
+
+#. UI.OPTIONS.CRAFTINGMENUNUMPINPAGES
+msgctxt "UI.OPTIONS.CRAFTINGMENUNUMPINPAGES"
+msgid "Crafting Pin Pages:"
+msgstr "クラフト中のページピン留め："
+
+#. UI.OPTIONS.CRAFTINGMENUSENSITIVITY
+msgctxt "UI.OPTIONS.CRAFTINGMENUSENSITIVITY"
+msgid "Crafting Sensitivity:"
+msgstr "クラフト中の感度："
+
+#. UI.OPTIONS.CRAFTINGMENUSIZE
+msgctxt "UI.OPTIONS.CRAFTINGMENUSIZE"
+msgid "Crafting Menu Size:"
+msgstr "クラフト中のメニューサイズ:"
+
+#. UI.OPTIONS.CRAFTING_HINTALL_ENABLED
+msgctxt "UI.OPTIONS.CRAFTING_HINTALL_ENABLED"
+msgid "All Recipes"
+msgstr "全レシピ"
+
+#. UI.OPTIONS.CREDITS
+msgctxt "UI.OPTIONS.CREDITS"
+msgid "Credits"
+msgstr "クレジット"
+
+#. UI.OPTIONS.DATACOLLECTION
+msgctxt "UI.OPTIONS.DATACOLLECTION"
+msgid "Data Collection:"
+msgstr "データ回収："
+
+#. UI.OPTIONS.DEFAULT
+msgctxt "UI.OPTIONS.DEFAULT"
+msgid "Default"
+msgstr "デフォルト"
+
+#. UI.OPTIONS.DEFAULTCLOUDSAVES
+msgctxt "UI.OPTIONS.DEFAULTCLOUDSAVES"
+msgid "Default Save Type:"
+msgstr "デフォルトのセーブタイプ："
+
+#. UI.OPTIONS.DIM
+msgctxt "UI.OPTIONS.DIM"
+msgid "Dim"
+msgstr "薄暗さ（弱）"
+
+#. UI.OPTIONS.DIMMEST
+msgctxt "UI.OPTIONS.DIMMEST"
+msgid "Dimmest"
+msgstr "薄暗さ（強）"
+
+#. UI.OPTIONS.DISABLED
+msgctxt "UI.OPTIONS.DISABLED"
+msgid "Disabled"
+msgstr "オフ"
+
+#. UI.OPTIONS.DISPLAY
+msgctxt "UI.OPTIONS.DISPLAY"
+msgid "Display:"
+msgstr "表示"
+
+#. UI.OPTIONS.DISPLAY_AREA_BUTTON
+msgctxt "UI.OPTIONS.DISPLAY_AREA_BUTTON"
+msgid "Adjust"
+msgstr "調整する"
+
+#. UI.OPTIONS.DISPLAY_AREA_LABEL
+msgctxt "UI.OPTIONS.DISPLAY_AREA_LABEL"
+msgid "Display Area:"
+msgstr "表示エリア:"
+
+#. UI.OPTIONS.DISTORTION
+msgctxt "UI.OPTIONS.DISTORTION"
+msgid "Distortion:"
+msgstr "歪み"
+
+#. UI.OPTIONS.DYNAMICCONTENT_ENABLE
+msgctxt "UI.OPTIONS.DYNAMICCONTENT_ENABLE"
+msgid "Re-enable Dynamic Content"
+msgstr "ダイナミックコンテンツのデータ収集"
+
+#. UI.OPTIONS.DYNAMIC_TREE_SHADOWS
+msgctxt "UI.OPTIONS.DYNAMIC_TREE_SHADOWS"
+msgid "Canopy Shadows:"
+msgstr "木漏れ日："
+
+#. UI.OPTIONS.ENABLED
+msgctxt "UI.OPTIONS.ENABLED"
+msgid "Enabled"
+msgstr "オン"
+
+#. UI.OPTIONS.EULA
+msgctxt "UI.OPTIONS.EULA"
+msgid "Review the EULA"
+msgstr "EULAのレビューをします"
+
+#. UI.OPTIONS.EULA_RESPONSE_CHANGED_BODY
+msgctxt "UI.OPTIONS.EULA_RESPONSE_CHANGED_BODY"
+msgid "Your settings have changed and you must log in again to continue."
+msgstr "設定が変更されているため、続けるには再度ログインする必要があります。"
+
+#. UI.OPTIONS.EULA_RESPONSE_CHANGED_TITLE
+msgctxt "UI.OPTIONS.EULA_RESPONSE_CHANGED_TITLE"
+msgid "Login Required"
+msgstr "ログインが必要です"
+
+#. UI.OPTIONS.FULLSCREEN
+msgctxt "UI.OPTIONS.FULLSCREEN"
+msgid "Fullscreen:"
+msgstr "フルスクリーン"
+
+#. UI.OPTIONS.FX
+msgctxt "UI.OPTIONS.FX"
+msgid "Sound FX Volume:"
+msgstr "SE音量："
+
+#. UI.OPTIONS.GRAPHICS
+msgctxt "UI.OPTIONS.GRAPHICS"
+msgid "Graphics"
+msgstr "グラフィック"
+
+#. UI.OPTIONS.HUDSIZE
+msgctxt "UI.OPTIONS.HUDSIZE"
+msgid "HUD Size:"
+msgstr "HUDサイズ"
+
+#. UI.OPTIONS.INPUT
+msgctxt "UI.OPTIONS.INPUT"
+msgid "Input Device:"
+msgstr "入力デバイス："
+
+#. UI.OPTIONS.INTEGRATEDBACKPACK_DISABLED
+msgctxt "UI.OPTIONS.INTEGRATEDBACKPACK_DISABLED"
+msgid "Separated"
+msgstr "分ける"
+
+#. UI.OPTIONS.INTEGRATEDBACKPACK_ENABLED
+msgctxt "UI.OPTIONS.INTEGRATEDBACKPACK_ENABLED"
+msgid "Integrated"
+msgstr "まとめる"
+
+#. UI.OPTIONS.INTRO_MOVIE
+msgctxt "UI.OPTIONS.INTRO_MOVIE"
+msgid "Intro Movie"
+msgstr "紹介動画"
+
+#. UI.OPTIONS.INVENTORYSENSITIVITY
+msgctxt "UI.OPTIONS.INVENTORYSENSITIVITY"
+msgid "Inventory Sensitivity:"
+msgstr "所持品の感度："
+
+#. UI.OPTIONS.INVERT
+msgctxt "UI.OPTIONS.INVERT"
+msgid "Inverted"
+msgstr "反転"
+
+#. UI.OPTIONS.INVERTCAMERAROTATION
+msgctxt "UI.OPTIONS.INVERTCAMERAROTATION"
+msgid "Camera Rotation"
+msgstr "カメラの回転"
+
+#. UI.OPTIONS.KLEI_ID_PREFIX
+msgctxt "UI.OPTIONS.KLEI_ID_PREFIX"
+msgid "Klei ID: "
+msgstr "クレイID； "
+
+#. UI.OPTIONS.LANGUAGES
+msgctxt "UI.OPTIONS.LANGUAGES"
+msgid "Languages"
+msgstr "言語"
+
+#. UI.OPTIONS.LANG_BODY_STEAM
+msgctxt "UI.OPTIONS.LANG_BODY_STEAM"
+msgid "Your Steam interface is set to a language other than English, would you like to view language options?"
+msgstr "Steamのインターフェースが英語以外の言語に設定されています。言語の設定を確認しますか？"
+
+#. UI.OPTIONS.LANG_TITLE
+msgctxt "UI.OPTIONS.LANG_TITLE"
+msgid "Language Options"
+msgstr "言語の設定"
+
+#. UI.OPTIONS.LOADING_TIPS
+msgctxt "UI.OPTIONS.LOADING_TIPS"
+msgid "Loading Tips"
+msgstr "ロード中のヒント"
+
+#. UI.OPTIONS.LOADING_TIPS_LORE_ONLY
+msgctxt "UI.OPTIONS.LOADING_TIPS_LORE_ONLY"
+msgid "Lore Only"
+msgstr "バックストーリーのみ"
+
+#. UI.OPTIONS.LOADING_TIPS_SHOW_ALL
+msgctxt "UI.OPTIONS.LOADING_TIPS_SHOW_ALL"
+msgid "All"
+msgstr "すべて"
+
+#. UI.OPTIONS.LOADING_TIPS_SHOW_NONE
+msgctxt "UI.OPTIONS.LOADING_TIPS_SHOW_NONE"
+msgid "None"
+msgstr "なし"
+
+#. UI.OPTIONS.LOADING_TIPS_TIPS_ONLY
+msgctxt "UI.OPTIONS.LOADING_TIPS_TIPS_ONLY"
+msgid "Tips Only"
+msgstr "ヒントのみ"
+
+#. UI.OPTIONS.LOCAL_SAVES
+msgctxt "UI.OPTIONS.LOCAL_SAVES"
+msgid "Local Files"
+msgstr "ローカルファイル"
+
+#. UI.OPTIONS.MOD_LANGUAGES_TITLE
+msgctxt "UI.OPTIONS.MOD_LANGUAGES_TITLE"
+msgid "Steam Workshop Collections"
+msgstr "Steam Workshopコレクション"
+
+#. UI.OPTIONS.MORE
+msgctxt "UI.OPTIONS.MORE"
+msgid "More"
+msgstr "もっと"
+
+#. UI.OPTIONS.MOVEMENTPREDICTION
+msgctxt "UI.OPTIONS.MOVEMENTPREDICTION"
+msgid "Lag Compensation:"
+msgstr "ラグの補正："
+
+#. UI.OPTIONS.MOVEMENTPREDICTION_DISABLED
+msgctxt "UI.OPTIONS.MOVEMENTPREDICTION_DISABLED"
+msgid "None"
+msgstr "なし"
+
+#. UI.OPTIONS.MOVEMENTPREDICTION_ENABLED
+msgctxt "UI.OPTIONS.MOVEMENTPREDICTION_ENABLED"
+msgid "Predictive"
+msgstr "予測"
+
+#. UI.OPTIONS.MUSIC
+msgctxt "UI.OPTIONS.MUSIC"
+msgid "Music Volume:"
+msgstr "BGM音量："
+
+#. UI.OPTIONS.NETBOOKMODE
+msgctxt "UI.OPTIONS.NETBOOKMODE"
+msgid "Netbook Mode:"
+msgstr "Netbookモード"
+
+#. UI.OPTIONS.NO
+msgctxt "UI.OPTIONS.NO"
+msgid "No"
+msgstr "いいえ"
+
+#. UI.OPTIONS.OFFLINE_MODE_BODY
+msgctxt "UI.OPTIONS.OFFLINE_MODE_BODY"
+msgid "Your selection is not available in offline mode. Please log in and try again."
+msgstr "あなたの選択はオフラインモードでは利用できません。ログインしてから再度お試しください。"
+
+#. UI.OPTIONS.OFFLINE_MODE_TITLE
+msgctxt "UI.OPTIONS.OFFLINE_MODE_TITLE"
+msgid "Offline Mode"
+msgstr "オフラインモード"
+
+#. UI.OPTIONS.OK
+msgctxt "UI.OPTIONS.OK"
+msgid "Okay"
+msgstr "OK"
+
+#. UI.OPTIONS.OPTIONS
+msgctxt "UI.OPTIONS.OPTIONS"
+msgid "Options"
+msgstr "オプション"
+
+#. UI.OPTIONS.REDEEM
+msgctxt "UI.OPTIONS.REDEEM"
+msgid "Redeem a Code"
+msgstr "コードを利用しする"
+
+#. UI.OPTIONS.REFRESHRATE
+msgctxt "UI.OPTIONS.REFRESHRATE"
+msgid "Refresh Rate:"
+msgstr "リフレッシュレート"
+
+#. UI.OPTIONS.RESOLUTION
+msgctxt "UI.OPTIONS.RESOLUTION"
+msgid "Resolution:"
+msgstr "解像度"
+
+#. UI.OPTIONS.RESTART_TEXTURE_STREAMING_BODY
+msgctxt "UI.OPTIONS.RESTART_TEXTURE_STREAMING_BODY"
+msgid "For Texture Streaming changes to take effect, you will have to exit and restart the game."
+msgstr "テクスチャストリーミングの変更を有効にするには、ゲームを終了して再起動する必要があります。"
+
+#. UI.OPTIONS.RESTART_TEXTURE_STREAMING_TITLE
+msgctxt "UI.OPTIONS.RESTART_TEXTURE_STREAMING_TITLE"
+msgid "Restart Required"
+msgstr "再起動が必要です"
+
+#. UI.OPTIONS.RESTART_THREADED_RENDER_BODY
+msgctxt "UI.OPTIONS.RESTART_THREADED_RENDER_BODY"
+msgid "For Threaded Render changes to take effect, you will have to exit and restart the game."
+msgstr "スレッド化レンダリングの変更を有効にするには、ゲームを終了して再起動する必要があります。"
+
+#. UI.OPTIONS.RESTART_THREADED_RENDER_TITLE
+msgctxt "UI.OPTIONS.RESTART_THREADED_RENDER_TITLE"
+msgid "Restart Required"
+msgstr "再起動が必要です"
+
+#. UI.OPTIONS.REVERT
+msgctxt "UI.OPTIONS.REVERT"
+msgid "Revert Changes"
+msgstr "変更を取り消す"
+
+#. UI.OPTIONS.SCREENSHAKE
+msgctxt "UI.OPTIONS.SCREENSHAKE"
+msgid "Screen Shake:"
+msgstr "スクリーンシェイク"
+
+#. UI.OPTIONS.SCREEN_FLASH_INTENSITY
+msgctxt "UI.OPTIONS.SCREEN_FLASH_INTENSITY"
+msgid "Screen Flashes:"
+msgstr "画面のフラッシュ強度："
+
+#. UI.OPTIONS.SERVER_NAME_PROFANITY_CHAT_FILTER
+msgctxt "UI.OPTIONS.SERVER_NAME_PROFANITY_CHAT_FILTER"
+msgid "Steam Chat Filtering:"
+msgstr "Steamチャットフィルタリング："
+
+#. UI.OPTIONS.SERVER_NAME_PROFANITY_FILTER
+msgctxt "UI.OPTIONS.SERVER_NAME_PROFANITY_FILTER"
+msgid "Filter Server Names:"
+msgstr "サーバー名でフィルター："
+
+#. UI.OPTIONS.SETTINGS
+msgctxt "UI.OPTIONS.SETTINGS"
+msgid "Settings"
+msgstr "設定"
+
+#. UI.OPTIONS.SHOWPASSWORD
+msgctxt "UI.OPTIONS.SHOWPASSWORD"
+msgid "Show Passwords:"
+msgstr "パスワードを表示："
+
+#. UI.OPTIONS.SMALLTEXTURES
+msgctxt "UI.OPTIONS.SMALLTEXTURES"
+msgid "Small Textures:"
+msgstr "微細構造"
+
+#. UI.OPTIONS.SNAPSHOTS
+msgctxt "UI.OPTIONS.SNAPSHOTS"
+msgid "Server Snapshots"
+msgstr "サーバースナップショット"
+
+#. UI.OPTIONS.STEAM_CLOUD_SAVES
+msgctxt "UI.OPTIONS.STEAM_CLOUD_SAVES"
+msgid "Steam Cloud"
+msgstr "Steam Cloud"
+
+#. UI.OPTIONS.TARGETLOCKING
+msgctxt "UI.OPTIONS.TARGETLOCKING"
+msgid "Target Locking:"
+msgstr "ターゲットロック："
+
+#. UI.OPTIONS.TEXTURESTREAMING
+msgctxt "UI.OPTIONS.TEXTURESTREAMING"
+msgid "Texture Streaming:"
+msgstr "テクスチャストリーミング"
+
+#. UI.OPTIONS.THREADEDRENDER
+msgctxt "UI.OPTIONS.THREADEDRENDER"
+msgid "Threaded Render:"
+msgstr "スレッド化レンダリング："
+
+#. UI.OPTIONS.TITLE
+msgctxt "UI.OPTIONS.TITLE"
+msgid "Game Options"
+msgstr "ゲームのオプション"
+
+#. UI.OPTIONS.TOOLTIPS.ADVANCED
+msgctxt "UI.OPTIONS.TOOLTIPS.ADVANCED"
+msgid "Modify advanced features of the game and user interface"
+msgstr "ゲームとユーザーインターフェースの高度な機能を変更します"
+
+#. UI.OPTIONS.TOOLTIPS.AMBIENT
+msgctxt "UI.OPTIONS.TOOLTIPS.AMBIENT"
+msgid "The environment makes noise too, luckily you can control how loudly it does."
+msgstr "周囲の環境もまた音の発生源です。幸運なことに自分でその大きさを調整することができます。"
+
+#. UI.OPTIONS.TOOLTIPS.ANIMATED_HEADS
+msgctxt "UI.OPTIONS.TOOLTIPS.ANIMATED_HEADS"
+msgid "Animates the survivor's heads in the menus."
+msgstr "メニューで生存者の頭を動かします。"
+
+#. UI.OPTIONS.TOOLTIPS.AUTOLOGIN
+msgctxt "UI.OPTIONS.TOOLTIPS.AUTOLOGIN"
+msgid "Log into your Klei account automatically when booting up Don't Starve Together."
+msgstr "「Don't Starve Together」を起動すると、自分のKleiアカウントに自動的にログインします。"
+
+#. UI.OPTIONS.TOOLTIPS.AUTOMODS
+msgctxt "UI.OPTIONS.TOOLTIPS.AUTOMODS"
+msgid "Keep up to date with the mods of all the servers you join."
+msgstr "自分が入っているサーバーのMODをどれも最新の状態にしておきます。"
+
+#. UI.OPTIONS.TOOLTIPS.AUTOPAUSE
+msgctxt "UI.OPTIONS.TOOLTIPS.AUTOPAUSE"
+msgid "When you are the only player in the world, this will pause the game while you are in the ingame menus, crafting, or viewing the cookbook or plant registry. If there are other players in the world, only the server admin will have permissions to pause the game."
+msgstr "この設定を有効にすると、ワールド中に自分しかプレイヤーがいない場合、ゲーム内メニューを見ている間、クラフト中、料理本や植物台帳を見ている間はゲームが一時停止します。他のプレイヤーがワールドにいる場合、サーバー管理者だけがゲームを一時停止できます。"
+
+#. UI.OPTIONS.TOOLTIPS.BACKPACKMODE
+msgctxt "UI.OPTIONS.TOOLTIPS.BACKPACKMODE"
+msgid "Change how the contents of the backpack are displayed. Integrated with the inventory bar or separated at the side of the screen."
+msgstr "バックパックの中身の見え方が変わります。所持品バーと一体化したものか画面端に分割されたものを選べます。"
+
+#. UI.OPTIONS.TOOLTIPS.BLOOM
+msgctxt "UI.OPTIONS.TOOLTIPS.BLOOM"
+msgid "Increases the visual intensity of lights."
+msgstr "光の視覚的強度が増加します。"
+
+#. UI.OPTIONS.TOOLTIPS.BOATCAMERA
+msgctxt "UI.OPTIONS.TOOLTIPS.BOATCAMERA"
+msgid "Allows the camera to focus on your boat while sailing."
+msgstr "航海中に自分の船にカメラのフォーカスを合わせることができるようになります。"
+
+#. UI.OPTIONS.TOOLTIPS.CINEMATICS
+msgctxt "UI.OPTIONS.TOOLTIPS.CINEMATICS"
+msgid "Sit back and watch a video"
+msgstr "座ってビデオを見ます"
+
+#. UI.OPTIONS.TOOLTIPS.CONSOLEAUTOPAUSE
+msgctxt "UI.OPTIONS.TOOLTIPS.CONSOLEAUTOPAUSE"
+msgid "Allows the server to auto-pause while the console screen is open."
+msgstr "コンソール画面が開かれている間、自動的にサーバーが一時停止するようになります。"
+
+#. UI.OPTIONS.TOOLTIPS.CONTROLS
+msgctxt "UI.OPTIONS.TOOLTIPS.CONTROLS"
+msgid "Rebind which input does which in-game action"
+msgstr "どの入力がどのゲーム内アクションを行うかをリバインドします"
+
+#. UI.OPTIONS.TOOLTIPS.CONTROLS_CONSOLE
+msgctxt "UI.OPTIONS.TOOLTIPS.CONTROLS_CONSOLE"
+msgid "Check which control does which in-game action"
+msgstr "どの入力がどのゲーム内アクションを行うかをチェックします"
+
+#. UI.OPTIONS.TOOLTIPS.CRAFTINGAUTOPAUSE
+msgctxt "UI.OPTIONS.TOOLTIPS.CRAFTINGAUTOPAUSE"
+msgid "When you are the only player in the world, this will pause the game while the crafting menu is open."
+msgstr "この設定を有効にすると、ワールド中に自分しかプレイヤーがいない場合、クラフトメニューを開いている間ゲームが一時停止するようになります。"
+
+#. UI.OPTIONS.TOOLTIPS.CRAFTINGHINTALLRECIPES
+msgctxt "UI.OPTIONS.TOOLTIPS.CRAFTINGHINTALLRECIPES"
+msgid "Preview the next available research tier or show all locked recipes."
+msgstr "次の研究段階のみを表示するか、すべてのロックされたレシピを表示するかを選べます。"
+
+#. UI.OPTIONS.TOOLTIPS.CRAFTINGMENUBUFFEREDBUILDAUTOCLOSE
+msgctxt "UI.OPTIONS.TOOLTIPS.CRAFTINGMENUBUFFEREDBUILDAUTOCLOSE"
+msgid "Closes the crafting menu when building a structure that is placed in the world."
+msgstr "ワールドに設置された構造物を建築している際に、クラフトメニューを自動で閉じます。"
+
+#. UI.OPTIONS.TOOLTIPS.CRAFTINGMENUNUMPINPAGES
+msgctxt "UI.OPTIONS.TOOLTIPS.CRAFTINGMENUNUMPINPAGES"
+msgid "Set how many pages of pinned recipes you would like to cycle through."
+msgstr "自分が見ようとしているピン留めされたレシピのページ数を設定します。"
+
+#. UI.OPTIONS.TOOLTIPS.CRAFTINGMENUSENSITIVITY
+msgctxt "UI.OPTIONS.TOOLTIPS.CRAFTINGMENUSENSITIVITY"
+msgid "Adjust the input sensitivity while navigating through the crafting menu."
+msgstr "クラフトメニューを閲覧中の入力感度を調整します。"
+
+#. UI.OPTIONS.TOOLTIPS.CRAFTINGMENUSIZE
+msgctxt "UI.OPTIONS.TOOLTIPS.CRAFTINGMENUSIZE"
+msgid "Customize the size of the crafting menu."
+msgstr "クラフトメニューのサイズをカスタマイズします。"
+
+#. UI.OPTIONS.TOOLTIPS.DATACOLLECTION
+msgctxt "UI.OPTIONS.TOOLTIPS.DATACOLLECTION"
+msgid "We collect metrics and telemetry on Don't Starve Together, including how long and how often you play. This information helps us troubleshoot the game, provide rewards, and improve your experience. Refer to https://www.klei.com/privacy-policy for more information."
+msgstr "Don't Starve Togetherでは、プレイ時間の長さや頻度などの数値や遠隔測定データを収集させていただきます。そういった情報はゲームの修正を初めとして、報酬の提供やゲーム体験の向上などの助けとなります。詳細に関しては、https://www.klei.com/privacy-policy をご参照ください。"
+
+#. UI.OPTIONS.TOOLTIPS.DEFAULTCLOUDSAVES
+msgctxt "UI.OPTIONS.TOOLTIPS.DEFAULTCLOUDSAVES"
+msgid "Chooses whether new saves will be stored in the cloud or not by default."
+msgstr "デフォルトでの新しいセーブデータの保存場所をクラウドにするかどうかを選択します。"
+
+#. UI.OPTIONS.TOOLTIPS.DISPLAY
+msgctxt "UI.OPTIONS.TOOLTIPS.DISPLAY"
+msgid "Got multiple screens? We've got you covered, choose where the game window goes when playing the game. (Fullscreen only)"
+msgstr "マルチディスプレイでも大丈夫です！ゲームをプレイ中にどのディスプレイにウィンドウを表示するか選びましょう（フルスクリーン限定）。"
+
+#. UI.OPTIONS.TOOLTIPS.DISPLAYAREA
+msgctxt "UI.OPTIONS.TOOLTIPS.DISPLAYAREA"
+msgid "Maximize the screen size on your display."
+msgstr "ディスプレイ上での画面サイズを最大化します。"
+
+#. UI.OPTIONS.TOOLTIPS.DISTORTION
+msgctxt "UI.OPTIONS.TOOLTIPS.DISTORTION"
+msgid "Allows you to turn off screen distortions in the game, especially notable during moments of insanity."
+msgstr "ゲーム画面の歪みをオフにします。歪みは、特に狂気状態のときに顕著に現れます。"
+
+#. UI.OPTIONS.TOOLTIPS.DYNAMIC_TREE_SHADOWS
+msgctxt "UI.OPTIONS.TOOLTIPS.DYNAMIC_TREE_SHADOWS"
+msgid "Renders the ground shadow while under a canopy."
+msgstr "キャノピーの下にいる際に地面の影を描写します。"
+
+#. UI.OPTIONS.TOOLTIPS.FULLSCREEN
+msgctxt "UI.OPTIONS.TOOLTIPS.FULLSCREEN"
+msgid "Fill your screen with Don't Starve Together."
+msgstr "「Don't Starve Together」で画面を埋め尽くします。"
+
+#. UI.OPTIONS.TOOLTIPS.FX
+msgctxt "UI.OPTIONS.TOOLTIPS.FX"
+msgid "Change how loud things are in the world."
+msgstr "ワールド上にあるものの音の大きさを変更します。"
+
+#. UI.OPTIONS.TOOLTIPS.GRAPHICS
+msgctxt "UI.OPTIONS.TOOLTIPS.GRAPHICS"
+msgid "Modify the graphics settings"
+msgstr "グラフィック設定の変更"
+
+#. UI.OPTIONS.TOOLTIPS.HUDSIZE
+msgctxt "UI.OPTIONS.TOOLTIPS.HUDSIZE"
+msgid "Customize the size of your Heads Up Display."
+msgstr "ヘッドアップディスプレイの大きさをカスタマイズします。"
+
+#. UI.OPTIONS.TOOLTIPS.INPUT
+msgctxt "UI.OPTIONS.TOOLTIPS.INPUT"
+msgid "Controller or Keyboard? Play Don't Starve Together your way."
+msgstr "コントローラー？キーボード？好きなほうで「Don't Starve Together」をプレイしましょう！"
+
+#. UI.OPTIONS.TOOLTIPS.INVENTORYSENSITIVITY
+msgctxt "UI.OPTIONS.TOOLTIPS.INVENTORYSENSITIVITY"
+msgid "Adjust the input sensitivity while navigating through the inventory."
+msgstr "所持品を見ている間の入力感度を調整します。"
+
+#. UI.OPTIONS.TOOLTIPS.INVERTCAMERAROTATION
+msgctxt "UI.OPTIONS.TOOLTIPS.INVERTCAMERAROTATION"
+msgid "Flips the camera rotation direction."
+msgstr "カメラの回転方向を反転させる。"
+
+#. UI.OPTIONS.TOOLTIPS.LANGUAGES
+msgctxt "UI.OPTIONS.TOOLTIPS.LANGUAGES"
+msgid "Select display language"
+msgstr "表示言語の選択をします"
+
+#. UI.OPTIONS.TOOLTIPS.LOADING_TIPS
+msgctxt "UI.OPTIONS.TOOLTIPS.LOADING_TIPS"
+msgid "Learn more about the lore and the gameplay of Don't Starve while your world loads."
+msgstr "ロード中に、「Don't Starve」のバックストーリーや遊び方についてさらに詳しくなりましょう。"
+
+#. UI.OPTIONS.TOOLTIPS.MORE
+msgctxt "UI.OPTIONS.TOOLTIPS.MORE"
+msgid "View additional options"
+msgstr "追加オプションを表示します"
+
+#. UI.OPTIONS.TOOLTIPS.MOVEMENTPREDICTION
+msgctxt "UI.OPTIONS.TOOLTIPS.MOVEMENTPREDICTION"
+msgid "Allows the game to predict your movements to compensate for any possible lag."
+msgstr "万が一ラグが発生した場合に備えて、ゲームがプレイヤーの動きを予想できるようにします。"
+
+#. UI.OPTIONS.TOOLTIPS.MUSIC
+msgctxt "UI.OPTIONS.TOOLTIPS.MUSIC"
+msgid "Tone up or down the musical fanfare in your adventures."
+msgstr "冒険中のファンファーレ音楽を強める／抑えることができます。"
+
+#. UI.OPTIONS.TOOLTIPS.NETBOOKMODE
+msgctxt "UI.OPTIONS.TOOLTIPS.NETBOOKMODE"
+msgid "Reduces the game's update frequency. (Only recommended for min-spec computers)"
+msgstr "ゲームのアップデート頻度を減らします（最小スペックのPCでのみ推奨）。"
+
+#. UI.OPTIONS.TOOLTIPS.REFRESHRATE
+msgctxt "UI.OPTIONS.TOOLTIPS.REFRESHRATE"
+msgid "Customize how many times per second the game screen refreshes. (Fullscreen only)"
+msgstr "1秒間に何回ゲーム画面をリフレッシュするかをカスタマイズします（フルスクリーン限定）。"
+
+#. UI.OPTIONS.TOOLTIPS.RESOLUTION
+msgctxt "UI.OPTIONS.TOOLTIPS.RESOLUTION"
+msgid "Change the game screen resolution. (Fullscreen only)"
+msgstr "ゲーム画面の解像度を変更します（フルスクリーン限定）。"
+
+#. UI.OPTIONS.TOOLTIPS.SCREENSHAKE
+msgctxt "UI.OPTIONS.TOOLTIPS.SCREENSHAKE"
+msgid "Keep your camera static or allow it to shake freely in moments of high intensity."
+msgstr "激しい揺れの際に、カメラを固定したままにするか、自由に振動させるかを選択します。"
+
+#. UI.OPTIONS.TOOLTIPS.SCREEN_FLASH_INTENSITY
+msgctxt "UI.OPTIONS.TOOLTIPS.SCREEN_FLASH_INTENSITY"
+msgid "Control the intensity of screen flashes during explosions and lightning strikes."
+msgstr "爆発・落雷時の画面点滅の強度を制御します。"
+
+#. UI.OPTIONS.TOOLTIPS.SERVER_NAME_PROFANITY_CHAT_FILTER
+msgctxt "UI.OPTIONS.TOOLTIPS.SERVER_NAME_PROFANITY_CHAT_FILTER"
+msgid "Use Steam's chat filters. This can be configured in Steam's setting in the section In-Game under Chat Filtering."
+msgstr "Steamのチャットフィルターを使用します。設定はSteamの設定の「ゲーム内」にある「チャットフィルタリング」から変更できます。"
+
+#. UI.OPTIONS.TOOLTIPS.SERVER_NAME_PROFANITY_FILTER
+msgctxt "UI.OPTIONS.TOOLTIPS.SERVER_NAME_PROFANITY_FILTER"
+msgid "Filter out the profanity when browsing the server list. Filtered servers will have their names displayed as \"This server name has been filtered\" and can still be joined."
+msgstr "サーバーの一覧を閲覧中に暴言等が含まれる言葉を非表示にします。フィルターが適用されたサーバーの名前は「このサーバー名はフィルターされています」と表示されますが参加することは可能です。"
+
+#. UI.OPTIONS.TOOLTIPS.SETTINGS
+msgctxt "UI.OPTIONS.TOOLTIPS.SETTINGS"
+msgid "Modify features of the game and user interface"
+msgstr "ゲームとユーザーインターフェースの機能を変更します"
+
+#. UI.OPTIONS.TOOLTIPS.SHOWPASSWORD
+msgctxt "UI.OPTIONS.TOOLTIPS.SHOWPASSWORD"
+msgid "Show or hide your passwords."
+msgstr "パスワードの表示／非表示を切り替えます。"
+
+#. UI.OPTIONS.TOOLTIPS.SMALLTEXTURES
+msgctxt "UI.OPTIONS.TOOLTIPS.SMALLTEXTURES"
+msgid "Reduces texture quality for better performance. (Only recommended for min-spec computers)"
+msgstr "パフォーマンス向上のためにテクスチャの品質を下げます（最小スペックのPCでのみ推奨）。"
+
+#. UI.OPTIONS.TOOLTIPS.TARGETLOCKING
+msgctxt "UI.OPTIONS.TOOLTIPS.TARGETLOCKING"
+msgid "Focus on one target at a time."
+msgstr "1度に1体の対象に焦点を当てます。"
+
+#. UI.OPTIONS.TOOLTIPS.TEXTURESTREAMING
+msgctxt "UI.OPTIONS.TOOLTIPS.TEXTURESTREAMING"
+msgid "Reduces the memory overhead for textures. Enabling this should improve performance."
+msgstr "テクスチャによるメモリ負荷を軽減します。この設定を有効にするとパフォーマンスが向上します。"
+
+#. UI.OPTIONS.TOOLTIPS.THREADEDRENDER
+msgctxt "UI.OPTIONS.TOOLTIPS.THREADEDRENDER"
+msgid "Renders the game on a different core. Enabling this should improve performance."
+msgstr "ゲームのレンダリングを別々のコアで行います。この設定を有効にするとパフォーマンスが向上します。"
+
+#. UI.OPTIONS.TOOLTIPS.VIBRATION
+msgctxt "UI.OPTIONS.TOOLTIPS.VIBRATION"
+msgid "Make your controller rumble at key gameplay moments."
+msgstr "ゲームの重要な場面でコントローラーが振動するようになります。"
+
+#. UI.OPTIONS.TOOLTIPS.WALTERCAMERA
+msgctxt "UI.OPTIONS.TOOLTIPS.WALTERCAMERA"
+msgid "Allows the camera to focus on Walter while he tells campfire stories."
+msgstr "ウォルターがキャンプファイヤーを囲んで物語を話している際に、カメラの焦点が彼に当たるようになります。"
+
+#. UI.OPTIONS.TOOLTIPS.WATHGRITHRFONT
+msgctxt "UI.OPTIONS.TOOLTIPS.WATHGRITHRFONT"
+msgid "Replaces Wigfrid's o's with ö's when she speaks."
+msgstr "言語を英語に設定している場合、ウィグフリドのセリフに現れるoをöに置き換えます。"
+
+#. UI.OPTIONS.VIBRATION
+msgctxt "UI.OPTIONS.VIBRATION"
+msgid "Vibration:"
+msgstr "振動"
+
+#. UI.OPTIONS.VIDEO_CHANNEL
+msgctxt "UI.OPTIONS.VIDEO_CHANNEL"
+msgid "More Klei Videos"
+msgstr "クレイの動画をもっと見る"
+
+#. UI.OPTIONS.WALTERCAMERA
+msgctxt "UI.OPTIONS.WALTERCAMERA"
+msgid "Campfire Camera:"
+msgstr "キャンプファイアカメラ："
+
+#. UI.OPTIONS.WATHGRITHRFONT
+msgctxt "UI.OPTIONS.WATHGRITHRFONT"
+msgid "Wigfrid's Umlauts:"
+msgstr "Wigfridのウムラウト"
+
+#. UI.OPTIONS.YES
+msgctxt "UI.OPTIONS.YES"
+msgid "Yes"
+msgstr "はい"
+

@@ -1,0 +1,325 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.WXPLOBBYPANEL.ACHIEVEMENT_UNLOCKED
+msgctxt "UI.WXPLOBBYPANEL.ACHIEVEMENT_UNLOCKED"
+msgid "Achievement: {name}"
+msgstr "Succès : {name}"
+
+#. UI.WXPLOBBYPANEL.ADD_XP_VAL
+msgctxt "UI.WXPLOBBYPANEL.ADD_XP_VAL"
+msgid "{name}, {val} XP"
+msgstr "{name}, {val} EXP"
+
+#. UI.WXPLOBBYPANEL.CONTINUE
+msgctxt "UI.WXPLOBBYPANEL.CONTINUE"
+msgid "Continue"
+msgstr "Continuer"
+
+#. UI.WXPLOBBYPANEL.DEATHS
+msgctxt "UI.WXPLOBBYPANEL.DEATHS"
+msgid "Total Deaths: {deaths}"
+msgstr "Total de morts : {deaths}"
+
+#. UI.WXPLOBBYPANEL.DETAILS_XP
+msgctxt "UI.WXPLOBBYPANEL.DETAILS_XP"
+msgid "+{num}"
+msgstr "+{num}"
+
+#. UI.WXPLOBBYPANEL.FOOD_DISCOVERY
+msgctxt "UI.WXPLOBBYPANEL.FOOD_DISCOVERY"
+msgid "Recipe: {name}"
+msgstr "Recette : {name}"
+
+#. UI.WXPLOBBYPANEL.LAVAARENA.TITLE_DEFEAT
+msgctxt "UI.WXPLOBBYPANEL.LAVAARENA.TITLE_DEFEAT"
+msgid "Defeat"
+msgstr "Défaite"
+
+#. UI.WXPLOBBYPANEL.LAVAARENA.TITLE_VICTORY
+msgctxt "UI.WXPLOBBYPANEL.LAVAARENA.TITLE_VICTORY"
+msgid "Victory!"
+msgstr "Victoire !"
+
+#. UI.WXPLOBBYPANEL.LEADERBOARD_ERROR
+msgctxt "UI.WXPLOBBYPANEL.LEADERBOARD_ERROR"
+msgid "Unable to connect to leaderboard server."
+msgstr "Connexion impossible au serveur du classement."
+
+#. UI.WXPLOBBYPANEL.LEVEL_UP
+msgctxt "UI.WXPLOBBYPANEL.LEVEL_UP"
+msgid "LEVEL UP!"
+msgstr "GAIN DE NIVEAU !"
+
+#. UI.WXPLOBBYPANEL.MATCH_TIME
+msgctxt "UI.WXPLOBBYPANEL.MATCH_TIME"
+msgid "Match Time: {time}"
+msgstr "Durée de match : {time}"
+
+#. UI.WXPLOBBYPANEL.NEWBOXES_BODY
+msgctxt "UI.WXPLOBBYPANEL.NEWBOXES_BODY"
+msgid "Visit the Treasury to open your chests"
+msgstr "Visitez le trésor pour ouvrir vos coffres"
+
+#. UI.WXPLOBBYPANEL.NEWBOXES_TITLE.lavaarena
+msgctxt "UI.WXPLOBBYPANEL.NEWBOXES_TITLE.lavaarena"
+msgid "{num} Forge Chests Earned!"
+msgstr "{num} coffres de forge gagnés !"
+
+#. UI.WXPLOBBYPANEL.NEWBOXES_TITLE.quagmire
+msgctxt "UI.WXPLOBBYPANEL.NEWBOXES_TITLE.quagmire"
+msgid "{num} Victorian Chests Earned!"
+msgstr "{num} coffres victoriens gagnés !"
+
+#. UI.WXPLOBBYPANEL.NEWBOX_BODY
+msgctxt "UI.WXPLOBBYPANEL.NEWBOX_BODY"
+msgid "Visit the Treasury to open your chest"
+msgstr "Visitez le trésor pour ouvrir votre coffre"
+
+#. UI.WXPLOBBYPANEL.NEWBOX_TITLE.lavaarena
+msgctxt "UI.WXPLOBBYPANEL.NEWBOX_TITLE.lavaarena"
+msgid "Forge Chest Earned!"
+msgstr "Coffre de forge gagné !"
+
+#. UI.WXPLOBBYPANEL.NEWBOX_TITLE.quagmire
+msgctxt "UI.WXPLOBBYPANEL.NEWBOX_TITLE.quagmire"
+msgid "Victorian Chest Earned!"
+msgstr "Coffre victorien gagné !"
+
+#. UI.WXPLOBBYPANEL.NO_DEATHS
+msgctxt "UI.WXPLOBBYPANEL.NO_DEATHS"
+msgid "No Deaths"
+msgstr "Aucune mort"
+
+#. UI.WXPLOBBYPANEL.QUAGMIRE.TITLE_DEFEAT
+msgctxt "UI.WXPLOBBYPANEL.QUAGMIRE.TITLE_DEFEAT"
+msgid "Mermified"
+msgstr "Mermifié"
+
+#. UI.WXPLOBBYPANEL.QUAGMIRE.TITLE_VICTORY
+msgctxt "UI.WXPLOBBYPANEL.QUAGMIRE.TITLE_VICTORY"
+msgid "Gateway Activated!"
+msgstr "Entrée activée !"
+
+#. UI.WXPLOBBYPANEL.SCORE
+msgctxt "UI.WXPLOBBYPANEL.SCORE"
+msgid "Appeasement Points: {score}"
+msgstr "Points d'apaisement : {score}"
+
+#. UI.WXPLOBBYPANEL.SKIP
+msgctxt "UI.WXPLOBBYPANEL.SKIP"
+msgid "Skip"
+msgstr "Passer"
+
+#. UI.WXPLOBBYPANEL.STEAM.TOURNAMENTS_NO_ACCOUNT_SHARING
+msgctxt "UI.WXPLOBBYPANEL.STEAM.TOURNAMENTS_NO_ACCOUNT_SHARING"
+msgid "Family Sharing accounts are not eligible for tournaments"
+msgstr "Les comptes partagés au sein d'une famille ne peuvent participer aux tournois."
+
+#. UI.WXPLOBBYPANEL.TRIBUTES
+msgctxt "UI.WXPLOBBYPANEL.TRIBUTES"
+msgid "Gnaw's Cravings: {success} fulfilled and {failed} failed"
+msgstr "Besoins du Gnaw : {success} satisfait(s) et {failed} non satisfait(s)"
+
+#. UI.WXPLOBBYPANEL.WXP
+msgctxt "UI.WXPLOBBYPANEL.WXP"
+msgid "XP"
+msgstr "EXP"
+
+#. UI.WXPLOBBYPANEL.WXP_CURRENT_XP
+msgctxt "UI.WXPLOBBYPANEL.WXP_CURRENT_XP"
+msgid "CURRENT XP"
+msgstr "EXP ACTUELLE"
+
+#. UI.WXPLOBBYPANEL.WXP_NEXT_LEVEL_XP
+msgctxt "UI.WXPLOBBYPANEL.WXP_NEXT_LEVEL_XP"
+msgid "NEXT LEVEL AT"
+msgstr "NIVEAU SUIVANT À"
+
+#. UI.WXP_DETAILS.CONSECUTIVE
+msgctxt "UI.WXP_DETAILS.CONSECUTIVE"
+msgid "Consecutive Match Bonus"
+msgstr "Bonus de matchs consécutifs"
+
+#. UI.WXP_DETAILS.DAILY_FIRST_MATCH
+msgctxt "UI.WXP_DETAILS.DAILY_FIRST_MATCH"
+msgid "Daily Match Bonus"
+msgstr "Bonus de match quotidien"
+
+#. UI.WXP_DETAILS.DAILY_FIRST_WIN
+msgctxt "UI.WXP_DETAILS.DAILY_FIRST_WIN"
+msgid "Daily Victory Bonus"
+msgstr "Bonus de victoire quotidienne"
+
+#. UI.WXP_DETAILS.DURATION
+msgctxt "UI.WXP_DETAILS.DURATION"
+msgid "Time"
+msgstr "Temps"
+
+#. UI.WXP_DETAILS.FRIENDS_BONUS
+msgctxt "UI.WXP_DETAILS.FRIENDS_BONUS"
+msgid "Playing with Friends"
+msgstr "Parties avec amis"
+
+#. UI.WXP_DETAILS.LAB_CONSECUTIVE
+msgctxt "UI.WXP_DETAILS.LAB_CONSECUTIVE"
+msgid "Consecutive Match Bonus"
+msgstr "Bonus de matchs consécutifs"
+
+#. UI.WXP_DETAILS.LAB_DURATION
+msgctxt "UI.WXP_DETAILS.LAB_DURATION"
+msgid "Time"
+msgstr "Temps"
+
+#. UI.WXP_DETAILS.LAB_FRIENDS_BONUS
+msgctxt "UI.WXP_DETAILS.LAB_FRIENDS_BONUS"
+msgid "Playing with Friends"
+msgstr "Parties avec amis"
+
+#. UI.WXP_DETAILS.LAB_MILESTONE_1
+msgctxt "UI.WXP_DETAILS.LAB_MILESTONE_1"
+msgid "Pit Pigs Defeated"
+msgstr "Cochons de la fosse vaincus"
+
+#. UI.WXP_DETAILS.LAB_MILESTONE_2
+msgctxt "UI.WXP_DETAILS.LAB_MILESTONE_2"
+msgid "Crocommanders Defeated"
+msgstr "Crocommandeurs vaincus"
+
+#. UI.WXP_DETAILS.LAB_MILESTONE_3
+msgctxt "UI.WXP_DETAILS.LAB_MILESTONE_3"
+msgid "Snortoises Defeated"
+msgstr "Grognues vaincues"
+
+#. UI.WXP_DETAILS.LAB_MILESTONE_4
+msgctxt "UI.WXP_DETAILS.LAB_MILESTONE_4"
+msgid "Formidable Team"
+msgstr "Équipe formidable"
+
+#. UI.WXP_DETAILS.LAB_MILESTONE_5
+msgctxt "UI.WXP_DETAILS.LAB_MILESTONE_5"
+msgid "Grand Forge Boarrior Defeated"
+msgstr "Grand sanguerrier de forge vaincu"
+
+#. UI.WXP_DETAILS.LAB_MILESTONE_6
+msgctxt "UI.WXP_DETAILS.LAB_MILESTONE_6"
+msgid "Rhinocebros Defeated"
+msgstr "Rhinocéfrère vaincu"
+
+#. UI.WXP_DETAILS.LAB_NO_DEATHS_PLAYER
+msgctxt "UI.WXP_DETAILS.LAB_NO_DEATHS_PLAYER"
+msgid "No Deaths"
+msgstr "Aucune mort"
+
+#. UI.WXP_DETAILS.LAB_NO_DEATHS_TEAM
+msgctxt "UI.WXP_DETAILS.LAB_NO_DEATHS_TEAM"
+msgid "No Deaths (Team)"
+msgstr "Aucune mort (en équipe)"
+
+#. UI.WXP_DETAILS.LAB_UNIQUE_CHARACTERS
+msgctxt "UI.WXP_DETAILS.LAB_UNIQUE_CHARACTERS"
+msgid "No Doubles Bonus"
+msgstr "Bonus zéro double"
+
+#. UI.WXP_DETAILS.LAB_WIN
+msgctxt "UI.WXP_DETAILS.LAB_WIN"
+msgid "Victory"
+msgstr "Victoire"
+
+#. UI.WXP_DETAILS.LAVA_ARENA_MILESTONE_1
+msgctxt "UI.WXP_DETAILS.LAVA_ARENA_MILESTONE_1"
+msgid "Pit Pigs Defeated"
+msgstr "Cochons de la fosse vaincus"
+
+#. UI.WXP_DETAILS.LAVA_ARENA_MILESTONE_2
+msgctxt "UI.WXP_DETAILS.LAVA_ARENA_MILESTONE_2"
+msgid "Crocommanders Defeated"
+msgstr "Crocommandeurs vaincus"
+
+#. UI.WXP_DETAILS.LAVA_ARENA_MILESTONE_3
+msgctxt "UI.WXP_DETAILS.LAVA_ARENA_MILESTONE_3"
+msgid "Snortoises Defeated"
+msgstr "Grognues vaincues"
+
+#. UI.WXP_DETAILS.LAVA_ARENA_MILESTONE_4
+msgctxt "UI.WXP_DETAILS.LAVA_ARENA_MILESTONE_4"
+msgid "Formidable Team"
+msgstr "Équipe formidable"
+
+#. UI.WXP_DETAILS.LAVA_ARENA_XP_MOD
+msgctxt "UI.WXP_DETAILS.LAVA_ARENA_XP_MOD"
+msgid "debug test"
+msgstr "debug test"
+
+#. UI.WXP_DETAILS.LAVA_NO_PLAYER_DEATHS
+msgctxt "UI.WXP_DETAILS.LAVA_NO_PLAYER_DEATHS"
+msgid "No Deaths"
+msgstr "Aucune mort"
+
+#. UI.WXP_DETAILS.LAVA_NO_TEAM_DEATHS
+msgctxt "UI.WXP_DETAILS.LAVA_NO_TEAM_DEATHS"
+msgid "No Deaths (Team)"
+msgstr "Aucune mort (en équipe)"
+
+#. UI.WXP_DETAILS.LAVA_UNIQUE_CHARACTERS
+msgctxt "UI.WXP_DETAILS.LAVA_UNIQUE_CHARACTERS"
+msgid "No Doubles Bonus"
+msgstr "Bonus zéro double"
+
+#. UI.WXP_DETAILS.QUAGMIRE_CHALLENGE
+msgctxt "UI.WXP_DETAILS.QUAGMIRE_CHALLENGE"
+msgid "Tournament Entry"
+msgstr "Entrée dans le tournoi"
+
+#. UI.WXP_DETAILS.QUAGMIRE_MILESTONE_1
+msgctxt "UI.WXP_DETAILS.QUAGMIRE_MILESTONE_1"
+msgid "Sapphire Medallion Earned"
+msgstr "Médaillon de saphir gagné"
+
+#. UI.WXP_DETAILS.QUAGMIRE_MILESTONE_2
+msgctxt "UI.WXP_DETAILS.QUAGMIRE_MILESTONE_2"
+msgid "Red Mark Earned"
+msgstr "Mark rouge gagné"
+
+#. UI.WXP_DETAILS.QUAGMIRE_MILESTONE_3
+msgctxt "UI.WXP_DETAILS.QUAGMIRE_MILESTONE_3"
+msgid "Gnaw's Favor Earned"
+msgstr "Faveur du Gnaw gagnée"
+
+#. UI.WXP_DETAILS.QUAGMIRE_NO_DUPLICATE_TRIUBUTES
+msgctxt "UI.WXP_DETAILS.QUAGMIRE_NO_DUPLICATE_TRIUBUTES"
+msgid "No Repeat Meals"
+msgstr "Plats non dupliqués"
+
+#. UI.WXP_DETAILS.QUAGMIRE_NO_TRIBUTES_FAILED
+msgctxt "UI.WXP_DETAILS.QUAGMIRE_NO_TRIBUTES_FAILED"
+msgid "No Failed Offerings"
+msgstr "Aucune offrande ratée"
+
+#. UI.WXP_DETAILS.QUAGMIRE_TRIBUTE_SCORE
+msgctxt "UI.WXP_DETAILS.QUAGMIRE_TRIBUTE_SCORE"
+msgid "Appeasement Point Bonus"
+msgstr "Point de bonus d'apaisement"
+
+#. UI.WXP_DETAILS.QUAGMIRE_UNIQUE_CHARACTERS
+msgctxt "UI.WXP_DETAILS.QUAGMIRE_UNIQUE_CHARACTERS"
+msgid "No Duplicate Survivors"
+msgstr "Survivants non dupliqués"
+
+#. UI.WXP_DETAILS.UNIQUE_CHARACTERS
+msgctxt "UI.WXP_DETAILS.UNIQUE_CHARACTERS"
+msgid "No Doubles Bonus"
+msgstr "Bonus zéro double"
+
+#. UI.WXP_DETAILS.WEEKLY_FIRST_MATCH
+msgctxt "UI.WXP_DETAILS.WEEKLY_FIRST_MATCH"
+msgid "Weekly Match Bonus"
+msgstr "Bonus de match hebdomadaire"
+
+#. UI.WXP_DETAILS.WIN
+msgctxt "UI.WXP_DETAILS.WIN"
+msgid "Victory"
+msgstr "Victoire"
+

@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.MORGUESCREEN.BACK
+msgctxt "UI.MORGUESCREEN.BACK"
+msgid "Back"
+msgstr "뒤로"
+
+#. UI.MORGUESCREEN.CAUSE
+msgctxt "UI.MORGUESCREEN.CAUSE"
+msgid "Cause of Death"
+msgstr "사망 원인"
+
+#. UI.MORGUESCREEN.CLEAR
+msgctxt "UI.MORGUESCREEN.CLEAR"
+msgid "Clear"
+msgstr "지우기"
+
+#. UI.MORGUESCREEN.DAY
+msgctxt "UI.MORGUESCREEN.DAY"
+msgid "Day"
+msgstr "일"
+
+#. UI.MORGUESCREEN.DAYS
+msgctxt "UI.MORGUESCREEN.DAYS"
+msgid "Days"
+msgstr "일"
+
+#. UI.MORGUESCREEN.DECEASED
+msgctxt "UI.MORGUESCREEN.DECEASED"
+msgid "Deceased"
+msgstr "사망"
+
+#. UI.MORGUESCREEN.DECEASED_PS4
+msgctxt "UI.MORGUESCREEN.DECEASED_PS4"
+msgid "Survivor"
+msgstr "생존자"
+
+#. UI.MORGUESCREEN.DIED_AGE
+msgctxt "UI.MORGUESCREEN.DIED_AGE"
+msgid "Survived"
+msgstr "생존"
+
+#. UI.MORGUESCREEN.ENCOUNTERS.DESC
+msgctxt "UI.MORGUESCREEN.ENCOUNTERS.DESC"
+msgid "Last seen {date}, on {server_name}"
+msgstr "{date}에 {server_name}에서 마지막으로 목격됨"
+
+#. UI.MORGUESCREEN.ENCOUNTERS.PLAYTIME_LABEL
+msgctxt "UI.MORGUESCREEN.ENCOUNTERS.PLAYTIME_LABEL"
+msgid "Play Time"
+msgstr "게임한 시간"
+
+#. UI.MORGUESCREEN.ENCOUNTERSTITLE
+msgctxt "UI.MORGUESCREEN.ENCOUNTERSTITLE"
+msgid "Encounters"
+msgstr "인카운터"
+
+#. UI.MORGUESCREEN.HISTORY
+msgctxt "UI.MORGUESCREEN.HISTORY"
+msgid "History"
+msgstr "기록"
+
+#. UI.MORGUESCREEN.LONGENCOUNTERSTITLE
+msgctxt "UI.MORGUESCREEN.LONGENCOUNTERSTITLE"
+msgid "Recent Encounters"
+msgstr "최근 인카운터"
+
+#. UI.MORGUESCREEN.MODE
+msgctxt "UI.MORGUESCREEN.MODE"
+msgid "World"
+msgstr "세계"
+
+#. UI.MORGUESCREEN.MODE_PS4
+msgctxt "UI.MORGUESCREEN.MODE_PS4"
+msgid "Date"
+msgstr "날짜"
+
+#. UI.MORGUESCREEN.MORGUE
+msgctxt "UI.MORGUESCREEN.MORGUE"
+msgid "Morgue"
+msgstr "영안실"
+
+#. UI.MORGUESCREEN.NET_ID
+msgctxt "UI.MORGUESCREEN.NET_ID"
+msgid "Profile"
+msgstr "프로필"
+
+#. UI.MORGUESCREEN.OK
+msgctxt "UI.MORGUESCREEN.OK"
+msgid "OK"
+msgstr "확인"
+
+#. UI.MORGUESCREEN.PLAYER_AGE
+msgctxt "UI.MORGUESCREEN.PLAYER_AGE"
+msgid "Age"
+msgstr "연령"
+
+#. UI.MORGUESCREEN.PLAYER_CHAR
+msgctxt "UI.MORGUESCREEN.PLAYER_CHAR"
+msgid "Face"
+msgstr "얼굴"
+
+#. UI.MORGUESCREEN.PLAYER_CHAR_PS4
+msgctxt "UI.MORGUESCREEN.PLAYER_CHAR_PS4"
+msgid "Survivor"
+msgstr "생존자"
+
+#. UI.MORGUESCREEN.PLAYER_NAME
+msgctxt "UI.MORGUESCREEN.PLAYER_NAME"
+msgid "Player"
+msgstr "플레이어"
+
+#. UI.MORGUESCREEN.SEEN_DATE
+msgctxt "UI.MORGUESCREEN.SEEN_DATE"
+msgid "Date"
+msgstr "날짜"
+
+#. UI.MORGUESCREEN.SERVER_NAME
+msgctxt "UI.MORGUESCREEN.SERVER_NAME"
+msgid "Server"
+msgstr "서버"
+
+#. UI.MORGUESCREEN.TITLE
+msgctxt "UI.MORGUESCREEN.TITLE"
+msgid "Obituaries"
+msgstr "부고"
+
+#. UI.MORGUESCREEN.UNKNOWN_DAYS
+msgctxt "UI.MORGUESCREEN.UNKNOWN_DAYS"
+msgid "?"
+msgstr "?"
+

@@ -1,0 +1,10470 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. NAMES.ABIGAIL
+msgctxt "NAMES.ABIGAIL"
+msgid "Abigail"
+msgstr ""
+
+#. NAMES.ABIGAIL_FLOWER
+msgctxt "NAMES.ABIGAIL_FLOWER"
+msgid "Abigail's Flower"
+msgstr ""
+
+#. NAMES.ACCOMPLISHMENT_SHRINE
+msgctxt "NAMES.ACCOMPLISHMENT_SHRINE"
+msgid "Accomploshrine"
+msgstr ""
+
+#. NAMES.ACORN
+msgctxt "NAMES.ACORN"
+msgid "Birchnut"
+msgstr ""
+
+#. NAMES.ACORN_COOKED
+msgctxt "NAMES.ACORN_COOKED"
+msgid "Roasted Birchnut"
+msgstr ""
+
+#. NAMES.ACORN_SAPLING
+msgctxt "NAMES.ACORN_SAPLING"
+msgid "Birchnut Sapling"
+msgstr ""
+
+#. NAMES.ADVENTURE_PORTAL
+msgctxt "NAMES.ADVENTURE_PORTAL"
+msgid "Maxwell's Door"
+msgstr ""
+
+#. NAMES.ALTERGUARDIANHAT
+msgctxt "NAMES.ALTERGUARDIANHAT"
+msgid "Enlightened Crown"
+msgstr ""
+
+#. NAMES.ALTERGUARDIANHATSHARD
+msgctxt "NAMES.ALTERGUARDIANHATSHARD"
+msgid "Enlightened Crown Shard"
+msgstr ""
+
+#. NAMES.ALTERGUARDIANHAT_PROJECTILE
+msgctxt "NAMES.ALTERGUARDIANHAT_PROJECTILE"
+msgid "Minor Gestalt"
+msgstr ""
+
+#. NAMES.ALTERGUARDIAN_CONTAINED
+msgctxt "NAMES.ALTERGUARDIAN_CONTAINED"
+msgid "Lunar Essence Extractor"
+msgstr ""
+
+#. NAMES.ALTERGUARDIAN_PHASE1
+msgctxt "NAMES.ALTERGUARDIAN_PHASE1"
+msgid "Celestial Champion"
+msgstr ""
+
+#. NAMES.ALTERGUARDIAN_PHASE2
+msgctxt "NAMES.ALTERGUARDIAN_PHASE2"
+msgid "Celestial Champion"
+msgstr ""
+
+#. NAMES.ALTERGUARDIAN_PHASE2SPIKE
+msgctxt "NAMES.ALTERGUARDIAN_PHASE2SPIKE"
+msgid "Moonglass Spike"
+msgstr ""
+
+#. NAMES.ALTERGUARDIAN_PHASE3
+msgctxt "NAMES.ALTERGUARDIAN_PHASE3"
+msgid "Celestial Champion"
+msgstr ""
+
+#. NAMES.ALTERGUARDIAN_PHASE3DEAD
+msgctxt "NAMES.ALTERGUARDIAN_PHASE3DEAD"
+msgid "Defeated Celestial Champion"
+msgstr ""
+
+#. NAMES.ALTERGUARDIAN_PHASE3DEADORB
+msgctxt "NAMES.ALTERGUARDIAN_PHASE3DEADORB"
+msgid "Celestial Champion"
+msgstr ""
+
+#. NAMES.ALTERGUARDIAN_PHASE3TRAP
+msgctxt "NAMES.ALTERGUARDIAN_PHASE3TRAP"
+msgid "Enlightening Snare"
+msgstr ""
+
+#. NAMES.AMULET
+msgctxt "NAMES.AMULET"
+msgid "Life Giving Amulet"
+msgstr ""
+
+#. NAMES.ANCHOR
+msgctxt "NAMES.ANCHOR"
+msgid "Anchor"
+msgstr ""
+
+#. NAMES.ANCHOR_ITEM
+msgctxt "NAMES.ANCHOR_ITEM"
+msgid "Anchor Kit"
+msgstr ""
+
+#. NAMES.ANCHOR_SKETCH
+msgctxt "NAMES.ANCHOR_SKETCH"
+msgid "\"Moon\" Sketch"
+msgstr ""
+
+#. NAMES.ANCIENT_ALTAR
+msgctxt "NAMES.ANCIENT_ALTAR"
+msgid "Ancient Pseudoscience Station"
+msgstr ""
+
+#. NAMES.ANCIENT_ALTAR_BROKEN
+msgctxt "NAMES.ANCIENT_ALTAR_BROKEN"
+msgid "Broken Ancient Pseudoscience Station"
+msgstr ""
+
+#. NAMES.ANCIENT_STATUE
+msgctxt "NAMES.ANCIENT_STATUE"
+msgid "Ancient Statue"
+msgstr ""
+
+#. NAMES.ANIMAL_TRACK
+msgctxt "NAMES.ANIMAL_TRACK"
+msgid "Animal Track"
+msgstr ""
+
+#. NAMES.ANTCHOVIES
+msgctxt "NAMES.ANTCHOVIES"
+msgid "Ant-Chovy"
+msgstr ""
+
+#. NAMES.ANTLION
+msgctxt "NAMES.ANTLION"
+msgid "Antlion"
+msgstr ""
+
+#. NAMES.ANTLIONTRINKET
+msgctxt "NAMES.ANTLIONTRINKET"
+msgid "Beach Toy"
+msgstr ""
+
+#. NAMES.ANTLION_SINKHOLE
+msgctxt "NAMES.ANTLION_SINKHOLE"
+msgid "Sinkhole"
+msgstr ""
+
+#. NAMES.ARCHIVE_CENTIPEDE
+msgctxt "NAMES.ARCHIVE_CENTIPEDE"
+msgid "Ancient Sentrypede"
+msgstr ""
+
+#. NAMES.ARCHIVE_CENTIPEDE_HUSK
+msgctxt "NAMES.ARCHIVE_CENTIPEDE_HUSK"
+msgid "Sentrypede Husk"
+msgstr ""
+
+#. NAMES.ARCHIVE_COOKPOT
+msgctxt "NAMES.ARCHIVE_COOKPOT"
+msgid "Ancient Kiln"
+msgstr ""
+
+#. NAMES.ARCHIVE_LOCKBOX
+msgctxt "NAMES.ARCHIVE_LOCKBOX"
+msgid "Distilled Knowledge"
+msgstr ""
+
+#. NAMES.ARCHIVE_LOCKBOX_DISPENCER
+msgctxt "NAMES.ARCHIVE_LOCKBOX_DISPENCER"
+msgid "Fountain of Knowledge"
+msgstr ""
+
+#. NAMES.ARCHIVE_MOON_STATUE
+msgctxt "NAMES.ARCHIVE_MOON_STATUE"
+msgid "Ancient Moon Statue"
+msgstr ""
+
+#. NAMES.ARCHIVE_PORTAL
+msgctxt "NAMES.ARCHIVE_PORTAL"
+msgid "Sealed Portal"
+msgstr ""
+
+#. NAMES.ARCHIVE_RESONATOR
+msgctxt "NAMES.ARCHIVE_RESONATOR"
+msgid "Astral Detector"
+msgstr ""
+
+#. NAMES.ARCHIVE_RESONATOR_ITEM
+msgctxt "NAMES.ARCHIVE_RESONATOR_ITEM"
+msgid "Astral Detector"
+msgstr ""
+
+#. NAMES.ARCHIVE_RUNE_STATUE
+msgctxt "NAMES.ARCHIVE_RUNE_STATUE"
+msgid "Ancient Lunarune Stone"
+msgstr ""
+
+#. NAMES.ARCHIVE_SECURITY_DESK
+msgctxt "NAMES.ARCHIVE_SECURITY_DESK"
+msgid "Ancient Guard Post"
+msgstr ""
+
+#. NAMES.ARCHIVE_SWITCH
+msgctxt "NAMES.ARCHIVE_SWITCH"
+msgid "Ornate Pedestal"
+msgstr ""
+
+#. NAMES.ARMORDRAGONFLY
+msgctxt "NAMES.ARMORDRAGONFLY"
+msgid "Scalemail"
+msgstr ""
+
+#. NAMES.ARMORGRASS
+msgctxt "NAMES.ARMORGRASS"
+msgid "Grass Suit"
+msgstr ""
+
+#. NAMES.ARMORMARBLE
+msgctxt "NAMES.ARMORMARBLE"
+msgid "Marble Suit"
+msgstr ""
+
+#. NAMES.ARMORRUINS
+msgctxt "NAMES.ARMORRUINS"
+msgid "Thulecite Suit"
+msgstr ""
+
+#. NAMES.ARMORSKELETON
+msgctxt "NAMES.ARMORSKELETON"
+msgid "Bone Armor"
+msgstr ""
+
+#. NAMES.ARMORSLURPER
+msgctxt "NAMES.ARMORSLURPER"
+msgid "Belt of Hunger"
+msgstr ""
+
+#. NAMES.ARMORSNURTLESHELL
+msgctxt "NAMES.ARMORSNURTLESHELL"
+msgid "Snurtle Shell Armor"
+msgstr ""
+
+#. NAMES.ARMORWOOD
+msgctxt "NAMES.ARMORWOOD"
+msgid "Log Suit"
+msgstr ""
+
+#. NAMES.ARMOR_BRAMBLE
+msgctxt "NAMES.ARMOR_BRAMBLE"
+msgid "Bramble Husk"
+msgstr ""
+
+#. NAMES.ARMOR_SANITY
+msgctxt "NAMES.ARMOR_SANITY"
+msgid "Night Armor"
+msgstr ""
+
+#. NAMES.ARROWSIGN_PANEL
+msgctxt "NAMES.ARROWSIGN_PANEL"
+msgid "Directional Sign"
+msgstr ""
+
+#. NAMES.ARROWSIGN_POST
+msgctxt "NAMES.ARROWSIGN_POST"
+msgid "Directional Sign"
+msgstr ""
+
+#. NAMES.ASH
+msgctxt "NAMES.ASH"
+msgid "Ashes"
+msgstr ""
+
+#. NAMES.ASH_REMAINS
+msgctxt "NAMES.ASH_REMAINS"
+msgid "Ashes of %s"
+msgstr ""
+
+#. NAMES.ASPARAGUS
+msgctxt "NAMES.ASPARAGUS"
+msgid "Asparagus"
+msgstr ""
+
+#. NAMES.ASPARAGUSSOUP
+msgctxt "NAMES.ASPARAGUSSOUP"
+msgid "Asparagus Soup"
+msgstr ""
+
+#. NAMES.ASPARAGUS_COOKED
+msgctxt "NAMES.ASPARAGUS_COOKED"
+msgid "Roasted Asparagus"
+msgstr ""
+
+#. NAMES.ASPARAGUS_OVERSIZED
+msgctxt "NAMES.ASPARAGUS_OVERSIZED"
+msgid "Giant Asparagus"
+msgstr ""
+
+#. NAMES.ASPARAGUS_OVERSIZED_ROTTEN
+msgctxt "NAMES.ASPARAGUS_OVERSIZED_ROTTEN"
+msgid "Giant Rotting Asparagus"
+msgstr ""
+
+#. NAMES.ASPARAGUS_SEEDS
+msgctxt "NAMES.ASPARAGUS_SEEDS"
+msgid "Tubular Seeds"
+msgstr ""
+
+#. NAMES.ATRIUM_GATE
+msgctxt "NAMES.ATRIUM_GATE"
+msgid "Ancient Gateway"
+msgstr ""
+
+#. NAMES.ATRIUM_KEY
+msgctxt "NAMES.ATRIUM_KEY"
+msgid "Ancient Key"
+msgstr ""
+
+#. NAMES.ATRIUM_LIGHT
+msgctxt "NAMES.ATRIUM_LIGHT"
+msgid "Ancient Beacon"
+msgstr ""
+
+#. NAMES.ATRIUM_OVERGROWTH
+msgctxt "NAMES.ATRIUM_OVERGROWTH"
+msgid "Ancient Obelisk"
+msgstr ""
+
+#. NAMES.ATRIUM_RUBBLE
+msgctxt "NAMES.ATRIUM_RUBBLE"
+msgid "Ancient Mural"
+msgstr ""
+
+#. NAMES.ATRIUM_STATUE
+msgctxt "NAMES.ATRIUM_STATUE"
+msgid "Ancient Statue"
+msgstr ""
+
+#. NAMES.AXE
+msgctxt "NAMES.AXE"
+msgid "Axe"
+msgstr ""
+
+#. NAMES.BABYBEEFALO
+msgctxt "NAMES.BABYBEEFALO"
+msgid "Baby Beefalo"
+msgstr ""
+
+#. NAMES.BACKPACK
+msgctxt "NAMES.BACKPACK"
+msgid "Backpack"
+msgstr ""
+
+#. NAMES.BACONEGGS
+msgctxt "NAMES.BACONEGGS"
+msgid "Bacon and Eggs"
+msgstr ""
+
+#. NAMES.BALLOON
+msgctxt "NAMES.BALLOON"
+msgid "Balloon"
+msgstr ""
+
+#. NAMES.BALLOONHAT
+msgctxt "NAMES.BALLOONHAT"
+msgid "Balloon Hat"
+msgstr ""
+
+#. NAMES.BALLOONPARTY
+msgctxt "NAMES.BALLOONPARTY"
+msgid "Party Balloon"
+msgstr ""
+
+#. NAMES.BALLOONSPEED
+msgctxt "NAMES.BALLOONSPEED"
+msgid "Speedy Balloon"
+msgstr ""
+
+#. NAMES.BALLOONS_EMPTY
+msgctxt "NAMES.BALLOONS_EMPTY"
+msgid "Pile o' Balloons"
+msgstr ""
+
+#. NAMES.BALLOONVEST
+msgctxt "NAMES.BALLOONVEST"
+msgid "Inflatable Vest"
+msgstr ""
+
+#. NAMES.BANANAPOP
+msgctxt "NAMES.BANANAPOP"
+msgid "Banana Pop"
+msgstr ""
+
+#. NAMES.BANDAGE
+msgctxt "NAMES.BANDAGE"
+msgid "Honey Poultice"
+msgstr ""
+
+#. NAMES.BARNACLE
+msgctxt "NAMES.BARNACLE"
+msgid "Barnacles"
+msgstr ""
+
+#. NAMES.BARNACLEPITA
+msgctxt "NAMES.BARNACLEPITA"
+msgid "Barnacle Pita"
+msgstr ""
+
+#. NAMES.BARNACLESTUFFEDFISHHEAD
+msgctxt "NAMES.BARNACLESTUFFEDFISHHEAD"
+msgid "Stuffed Fish Heads"
+msgstr ""
+
+#. NAMES.BARNACLESUSHI
+msgctxt "NAMES.BARNACLESUSHI"
+msgid "Barnacle Nigiri"
+msgstr ""
+
+#. NAMES.BARNACLE_COOKED
+msgctxt "NAMES.BARNACLE_COOKED"
+msgid "Cooked Barnacles"
+msgstr ""
+
+#. NAMES.BARNACLINGUINE
+msgctxt "NAMES.BARNACLINGUINE"
+msgid "Barnacle Linguine"
+msgstr ""
+
+#. NAMES.BASALT
+msgctxt "NAMES.BASALT"
+msgid "Basalt"
+msgstr ""
+
+#. NAMES.BASALT_PILLAR
+msgctxt "NAMES.BASALT_PILLAR"
+msgid "Basalt Pillar"
+msgstr ""
+
+#. NAMES.BAT
+msgctxt "NAMES.BAT"
+msgid "Batilisk"
+msgstr ""
+
+#. NAMES.BATBAT
+msgctxt "NAMES.BATBAT"
+msgid "Bat Bat"
+msgstr ""
+
+#. NAMES.BATCAVE
+msgctxt "NAMES.BATCAVE"
+msgid "Bat Cave"
+msgstr ""
+
+#. NAMES.BATHBOMB
+msgctxt "NAMES.BATHBOMB"
+msgid "Bath Bomb"
+msgstr ""
+
+#. NAMES.BATHBOMB_BLUEPRINT
+msgctxt "NAMES.BATHBOMB_BLUEPRINT"
+msgid "Bath Bomb Blueprint"
+msgstr ""
+
+#. NAMES.BATNOSE
+msgctxt "NAMES.BATNOSE"
+msgid "Naked Nostrils"
+msgstr ""
+
+#. NAMES.BATNOSEHAT
+msgctxt "NAMES.BATNOSEHAT"
+msgid "Milkmade Hat"
+msgstr ""
+
+#. NAMES.BATNOSE_COOKED
+msgctxt "NAMES.BATNOSE_COOKED"
+msgid "Charred Nostrils"
+msgstr ""
+
+#. NAMES.BATTLESONG_DURABILITY
+msgctxt "NAMES.BATTLESONG_DURABILITY"
+msgid "Weaponized Warble"
+msgstr ""
+
+#. NAMES.BATTLESONG_FIRERESISTANCE
+msgctxt "NAMES.BATTLESONG_FIRERESISTANCE"
+msgid "Fireproof Falsetto"
+msgstr ""
+
+#. NAMES.BATTLESONG_HEALTHGAIN
+msgctxt "NAMES.BATTLESONG_HEALTHGAIN"
+msgid "Heartrending Ballad"
+msgstr ""
+
+#. NAMES.BATTLESONG_INSTANT_PANIC
+msgctxt "NAMES.BATTLESONG_INSTANT_PANIC"
+msgid "Startling Soliloquy"
+msgstr ""
+
+#. NAMES.BATTLESONG_INSTANT_TAUNT
+msgctxt "NAMES.BATTLESONG_INSTANT_TAUNT"
+msgid "Rude Interlude"
+msgstr ""
+
+#. NAMES.BATTLESONG_SANITYAURA
+msgctxt "NAMES.BATTLESONG_SANITYAURA"
+msgid "Bel Canto of Courage"
+msgstr ""
+
+#. NAMES.BATTLESONG_SANITYGAIN
+msgctxt "NAMES.BATTLESONG_SANITYGAIN"
+msgid "Clear Minded Cadenza"
+msgstr ""
+
+#. NAMES.BATWING
+msgctxt "NAMES.BATWING"
+msgid "Batilisk Wing"
+msgstr ""
+
+#. NAMES.BATWING_COOKED
+msgctxt "NAMES.BATWING_COOKED"
+msgid "Cooked Batilisk Wing"
+msgstr ""
+
+#. NAMES.BEARDHAIR
+msgctxt "NAMES.BEARDHAIR"
+msgid "Beard Hair"
+msgstr ""
+
+#. NAMES.BEARGER
+msgctxt "NAMES.BEARGER"
+msgid "Bearger"
+msgstr ""
+
+#. NAMES.BEARGERVEST
+msgctxt "NAMES.BEARGERVEST"
+msgid "Hibearnation Vest"
+msgstr ""
+
+#. NAMES.BEARGER_FUR
+msgctxt "NAMES.BEARGER_FUR"
+msgid "Thick Fur"
+msgstr ""
+
+#. NAMES.BEAST_BLUEPRINT
+msgctxt "NAMES.BEAST_BLUEPRINT"
+msgid "Lucky Beast Costume Pattern"
+msgstr ""
+
+#. NAMES.BEDROLL_FURRY
+msgctxt "NAMES.BEDROLL_FURRY"
+msgid "Fur Roll"
+msgstr ""
+
+#. NAMES.BEDROLL_STRAW
+msgctxt "NAMES.BEDROLL_STRAW"
+msgid "Straw Roll"
+msgstr ""
+
+#. NAMES.BEE
+msgctxt "NAMES.BEE"
+msgid "Bee"
+msgstr ""
+
+#. NAMES.BEEBOX
+msgctxt "NAMES.BEEBOX"
+msgid "Bee Box"
+msgstr ""
+
+#. NAMES.BEEBOX_HERMIT
+msgctxt "NAMES.BEEBOX_HERMIT"
+msgid "Bee Box"
+msgstr ""
+
+#. NAMES.BEEFALO
+msgctxt "NAMES.BEEFALO"
+msgid "Beefalo"
+msgstr ""
+
+#. NAMES.BEEFALOHAT
+msgctxt "NAMES.BEEFALOHAT"
+msgid "Beefalo Hat"
+msgstr ""
+
+#. NAMES.BEEFALOWOOL
+msgctxt "NAMES.BEEFALOWOOL"
+msgid "Beefalo Wool"
+msgstr ""
+
+#. NAMES.BEEFALO_BUDDY_NAME
+msgctxt "NAMES.BEEFALO_BUDDY_NAME"
+msgid "{buddy}'s Beefalo"
+msgstr ""
+
+#. NAMES.BEEFALO_DOMESTIC
+msgctxt "NAMES.BEEFALO_DOMESTIC"
+msgid "Domesticated Beefalo"
+msgstr ""
+
+#. NAMES.BEEFALO_GROOMER
+msgctxt "NAMES.BEEFALO_GROOMER"
+msgid "Beefalo Grooming Station"
+msgstr ""
+
+#. NAMES.BEEFALO_GROOMER_ITEM
+msgctxt "NAMES.BEEFALO_GROOMER_ITEM"
+msgid "Grooming Station Kit"
+msgstr ""
+
+#. NAMES.BEEF_BELL
+msgctxt "NAMES.BEEF_BELL"
+msgid "Beefalo Bell"
+msgstr ""
+
+#. NAMES.BEEGUARD
+msgctxt "NAMES.BEEGUARD"
+msgid "Grumble Bee"
+msgstr ""
+
+#. NAMES.BEEHAT
+msgctxt "NAMES.BEEHAT"
+msgid "Beekeeper Hat"
+msgstr ""
+
+#. NAMES.BEEHIVE
+msgctxt "NAMES.BEEHIVE"
+msgid "Beehive"
+msgstr ""
+
+#. NAMES.BEEMINE
+msgctxt "NAMES.BEEMINE"
+msgid "Bee Mine"
+msgstr ""
+
+#. NAMES.BEEMINE_MAXWELL
+msgctxt "NAMES.BEEMINE_MAXWELL"
+msgid "Maxwell's Mosquito Trap"
+msgstr ""
+
+#. NAMES.BEEQUEEN
+msgctxt "NAMES.BEEQUEEN"
+msgid "Bee Queen"
+msgstr ""
+
+#. NAMES.BEEQUEENHIVE
+msgctxt "NAMES.BEEQUEENHIVE"
+msgid "Honey Patch"
+msgstr ""
+
+#. NAMES.BEEQUEENHIVEGROWING
+msgctxt "NAMES.BEEQUEENHIVEGROWING"
+msgid "Somewhat Gigantic Beehive"
+msgstr ""
+
+#. NAMES.BEEQUEENHIVEGROWN
+msgctxt "NAMES.BEEQUEENHIVEGROWN"
+msgid "Gigantic Beehive"
+msgstr ""
+
+#. NAMES.BEESWAX
+msgctxt "NAMES.BEESWAX"
+msgid "Beeswax"
+msgstr ""
+
+#. NAMES.BEETLETAUR
+msgctxt "NAMES.BEETLETAUR"
+msgid "Infernal Swineclops"
+msgstr ""
+
+#. NAMES.BELL
+msgctxt "NAMES.BELL"
+msgid "Old Bell"
+msgstr ""
+
+#. NAMES.BERNIE_ACTIVE
+msgctxt "NAMES.BERNIE_ACTIVE"
+msgid "Bernie"
+msgstr ""
+
+#. NAMES.BERNIE_BIG
+msgctxt "NAMES.BERNIE_BIG"
+msgid "BERNIE!"
+msgstr ""
+
+#. NAMES.BERNIE_INACTIVE
+msgctxt "NAMES.BERNIE_INACTIVE"
+msgid "Bernie"
+msgstr ""
+
+#. NAMES.BERRIES
+msgctxt "NAMES.BERRIES"
+msgid "Berries"
+msgstr ""
+
+#. NAMES.BERRIES_COOKED
+msgctxt "NAMES.BERRIES_COOKED"
+msgid "Roasted Berries"
+msgstr ""
+
+#. NAMES.BERRIES_JUICY
+msgctxt "NAMES.BERRIES_JUICY"
+msgid "Juicy Berries"
+msgstr ""
+
+#. NAMES.BERRIES_JUICY_COOKED
+msgctxt "NAMES.BERRIES_JUICY_COOKED"
+msgid "Roasted Juicy Berries"
+msgstr ""
+
+#. NAMES.BERRYBUSH
+msgctxt "NAMES.BERRYBUSH"
+msgid "Berry Bush"
+msgstr ""
+
+#. NAMES.BERRYBUSH2
+msgctxt "NAMES.BERRYBUSH2"
+msgid "Berry Bush"
+msgstr ""
+
+#. NAMES.BERRYBUSH_JUICY
+msgctxt "NAMES.BERRYBUSH_JUICY"
+msgid "Juicy Berry Bush"
+msgstr ""
+
+#. NAMES.BERRYSAUCE
+msgctxt "NAMES.BERRYSAUCE"
+msgid "Merry Berrysauce"
+msgstr ""
+
+#. NAMES.BIBINGKA
+msgctxt "NAMES.BIBINGKA"
+msgid "Bibingka"
+msgstr ""
+
+#. NAMES.BIGFOOT
+msgctxt "NAMES.BIGFOOT"
+msgid "Biiigfoot"
+msgstr ""
+
+#. NAMES.BIGSHADOWTENTACLE
+msgctxt "NAMES.BIGSHADOWTENTACLE"
+msgid "Guardian Shadow Tentacle"
+msgstr ""
+
+#. NAMES.BIRCHNUTDRAKE
+msgctxt "NAMES.BIRCHNUTDRAKE"
+msgid "Birchnutter"
+msgstr ""
+
+#. NAMES.BIRDCAGE
+msgctxt "NAMES.BIRDCAGE"
+msgid "Birdcage"
+msgstr ""
+
+#. NAMES.BIRDTRAP
+msgctxt "NAMES.BIRDTRAP"
+msgid "Bird Trap"
+msgstr ""
+
+#. NAMES.BIRD_EGG
+msgctxt "NAMES.BIRD_EGG"
+msgid "Egg"
+msgstr ""
+
+#. NAMES.BIRD_EGG_COOKED
+msgctxt "NAMES.BIRD_EGG_COOKED"
+msgid "Cooked Egg"
+msgstr ""
+
+#. NAMES.BIRD_MUTANT
+msgctxt "NAMES.BIRD_MUTANT"
+msgid "Moonblind Crow"
+msgstr ""
+
+#. NAMES.BIRD_MUTANT_SPITTER
+msgctxt "NAMES.BIRD_MUTANT_SPITTER"
+msgid "Misshapen Bird"
+msgstr ""
+
+#. NAMES.BISHOP
+msgctxt "NAMES.BISHOP"
+msgid "Clockwork Bishop"
+msgstr ""
+
+#. NAMES.BISHOP_NIGHTMARE
+msgctxt "NAMES.BISHOP_NIGHTMARE"
+msgid "Damaged Bishop"
+msgstr ""
+
+#. NAMES.BLOWDART_FIRE
+msgctxt "NAMES.BLOWDART_FIRE"
+msgid "Fire Dart"
+msgstr ""
+
+#. NAMES.BLOWDART_LAVA
+msgctxt "NAMES.BLOWDART_LAVA"
+msgid "Darts"
+msgstr ""
+
+#. NAMES.BLOWDART_LAVA2
+msgctxt "NAMES.BLOWDART_LAVA2"
+msgid "Molten Darts"
+msgstr ""
+
+#. NAMES.BLOWDART_PIPE
+msgctxt "NAMES.BLOWDART_PIPE"
+msgid "Blow Dart"
+msgstr ""
+
+#. NAMES.BLOWDART_SLEEP
+msgctxt "NAMES.BLOWDART_SLEEP"
+msgid "Sleep Dart"
+msgstr ""
+
+#. NAMES.BLOWDART_YELLOW
+msgctxt "NAMES.BLOWDART_YELLOW"
+msgid "Electric Dart"
+msgstr ""
+
+#. NAMES.BLUEAMULET
+msgctxt "NAMES.BLUEAMULET"
+msgid "Chilled Amulet"
+msgstr ""
+
+#. NAMES.BLUEGEM
+msgctxt "NAMES.BLUEGEM"
+msgid "Blue Gem"
+msgstr ""
+
+#. NAMES.BLUEMOONEYE
+msgctxt "NAMES.BLUEMOONEYE"
+msgid "Blue Moonlens"
+msgstr ""
+
+#. NAMES.BLUEPRINT
+msgctxt "NAMES.BLUEPRINT"
+msgid "Blueprint"
+msgstr ""
+
+#. NAMES.BLUEPRINT_RARE
+msgctxt "NAMES.BLUEPRINT_RARE"
+msgid "{item} Blueprint"
+msgstr ""
+
+#. NAMES.BLUE_CAP
+msgctxt "NAMES.BLUE_CAP"
+msgid "Blue Cap"
+msgstr ""
+
+#. NAMES.BLUE_CAP_COOKED
+msgctxt "NAMES.BLUE_CAP_COOKED"
+msgid "Cooked Blue Cap"
+msgstr ""
+
+#. NAMES.BLUE_MUSHROOM
+msgctxt "NAMES.BLUE_MUSHROOM"
+msgid "Blue Mushroom"
+msgstr ""
+
+#. NAMES.BLUE_MUSHROOMHAT
+msgctxt "NAMES.BLUE_MUSHROOMHAT"
+msgid "Blue Funcap"
+msgstr ""
+
+#. NAMES.BOARDS
+msgctxt "NAMES.BOARDS"
+msgid "Boards"
+msgstr ""
+
+#. NAMES.BOARON
+msgctxt "NAMES.BOARON"
+msgid "Pit Pig"
+msgstr ""
+
+#. NAMES.BOARRIOR
+msgctxt "NAMES.BOARRIOR"
+msgid "Grand Forge Boarrior"
+msgstr ""
+
+#. NAMES.BOAT
+msgctxt "NAMES.BOAT"
+msgid "Boat"
+msgstr ""
+
+#. NAMES.BOATFRAGMENT03
+msgctxt "NAMES.BOATFRAGMENT03"
+msgid "Boat Fragment"
+msgstr ""
+
+#. NAMES.BOATFRAGMENT04
+msgctxt "NAMES.BOATFRAGMENT04"
+msgid "Boat Fragment"
+msgstr ""
+
+#. NAMES.BOATFRAGMENT05
+msgctxt "NAMES.BOATFRAGMENT05"
+msgid "Boat Fragment"
+msgstr ""
+
+#. NAMES.BOATPATCH
+msgctxt "NAMES.BOATPATCH"
+msgid "Boat Patch"
+msgstr ""
+
+#. NAMES.BOAT_ITEM
+msgctxt "NAMES.BOAT_ITEM"
+msgid "Boat Kit"
+msgstr ""
+
+#. NAMES.BOAT_LEAK
+msgctxt "NAMES.BOAT_LEAK"
+msgid "Leak"
+msgstr ""
+
+#. NAMES.BONESHARD
+msgctxt "NAMES.BONESHARD"
+msgid "Bone Shards"
+msgstr ""
+
+#. NAMES.BONESOUP
+msgctxt "NAMES.BONESOUP"
+msgid "Bone Bouillon"
+msgstr ""
+
+#. NAMES.BONESTEW
+msgctxt "NAMES.BONESTEW"
+msgid "Meaty Stew"
+msgstr ""
+
+#. NAMES.BONFIRE
+msgctxt "NAMES.BONFIRE"
+msgid "Bonfire"
+msgstr ""
+
+#. NAMES.BOOK_BIRDS
+msgctxt "NAMES.BOOK_BIRDS"
+msgid "Birds of the World"
+msgstr ""
+
+#. NAMES.BOOK_BRIMSTONE
+msgctxt "NAMES.BOOK_BRIMSTONE"
+msgid "The End is Nigh!"
+msgstr ""
+
+#. NAMES.BOOK_ELEMENTAL
+msgctxt "NAMES.BOOK_ELEMENTAL"
+msgid "Tome of Beckoning"
+msgstr ""
+
+#. NAMES.BOOK_FOSSIL
+msgctxt "NAMES.BOOK_FOSSIL"
+msgid "Petrifying Tome"
+msgstr ""
+
+#. NAMES.BOOK_GARDENING
+msgctxt "NAMES.BOOK_GARDENING"
+msgid "Applied Horticulture"
+msgstr ""
+
+#. NAMES.BOOK_HORTICULTURE
+msgctxt "NAMES.BOOK_HORTICULTURE"
+msgid "Horticulture, Abridged"
+msgstr ""
+
+#. NAMES.BOOK_SILVICULTURE
+msgctxt "NAMES.BOOK_SILVICULTURE"
+msgid "Applied Silviculture"
+msgstr ""
+
+#. NAMES.BOOK_SLEEP
+msgctxt "NAMES.BOOK_SLEEP"
+msgid "Sleepytime Stories"
+msgstr ""
+
+#. NAMES.BOOK_TENTACLES
+msgctxt "NAMES.BOOK_TENTACLES"
+msgid "On Tentacles"
+msgstr ""
+
+#. NAMES.BOOMERANG
+msgctxt "NAMES.BOOMERANG"
+msgid "Boomerang"
+msgstr ""
+
+#. NAMES.BRAMBLEFX
+msgctxt "NAMES.BRAMBLEFX"
+msgid "Thorns"
+msgstr ""
+
+#. NAMES.BRUSH
+msgctxt "NAMES.BRUSH"
+msgid "Brush"
+msgstr ""
+
+#. NAMES.BUGNET
+msgctxt "NAMES.BUGNET"
+msgid "Bug Net"
+msgstr ""
+
+#. NAMES.BULLKELP_PLANT
+msgctxt "NAMES.BULLKELP_PLANT"
+msgid "Bull Kelp"
+msgstr ""
+
+#. NAMES.BULLKELP_ROOT
+msgctxt "NAMES.BULLKELP_ROOT"
+msgid "Bull Kelp Stalk"
+msgstr ""
+
+#. NAMES.BUNDLE
+msgctxt "NAMES.BUNDLE"
+msgid "Bundled Supplies"
+msgstr ""
+
+#. NAMES.BUNDLEWRAP
+msgctxt "NAMES.BUNDLEWRAP"
+msgid "Bundling Wrap"
+msgstr ""
+
+#. NAMES.BUNNYMAN
+msgctxt "NAMES.BUNNYMAN"
+msgid "Bunnyman"
+msgstr ""
+
+#. NAMES.BUNNYSTEW
+msgctxt "NAMES.BUNNYSTEW"
+msgid "Bunny Stew"
+msgstr ""
+
+#. NAMES.BURNABLE_LOCATOR_MEDIUM
+msgctxt "NAMES.BURNABLE_LOCATOR_MEDIUM"
+msgid "Boat"
+msgstr ""
+
+#. NAMES.BURNT_MARSH_BUSH
+msgctxt "NAMES.BURNT_MARSH_BUSH"
+msgid "Spiky Bush"
+msgstr ""
+
+#. NAMES.BUSHHAT
+msgctxt "NAMES.BUSHHAT"
+msgid "Bush Hat"
+msgstr ""
+
+#. NAMES.BUTTER
+msgctxt "NAMES.BUTTER"
+msgid "Butter"
+msgstr ""
+
+#. NAMES.BUTTERFLY
+msgctxt "NAMES.BUTTERFLY"
+msgid "Butterfly"
+msgstr ""
+
+#. NAMES.BUTTERFLYMUFFIN
+msgctxt "NAMES.BUTTERFLYMUFFIN"
+msgid "Butter Muffin"
+msgstr ""
+
+#. NAMES.BUTTERFLYWINGS
+msgctxt "NAMES.BUTTERFLYWINGS"
+msgid "Butterfly Wings"
+msgstr ""
+
+#. NAMES.BUTTERFLY_SKETCH
+msgctxt "NAMES.BUTTERFLY_SKETCH"
+msgid "Moon Moth Sketch"
+msgstr ""
+
+#. NAMES.BUZZARD
+msgctxt "NAMES.BUZZARD"
+msgid "Buzzard"
+msgstr ""
+
+#. NAMES.CABBAGEROLLS
+msgctxt "NAMES.CABBAGEROLLS"
+msgid "Cabbage Rolls"
+msgstr ""
+
+#. NAMES.CACTUS
+msgctxt "NAMES.CACTUS"
+msgid "Cactus"
+msgstr ""
+
+#. NAMES.CACTUS_FLOWER
+msgctxt "NAMES.CACTUS_FLOWER"
+msgid "Cactus Flower"
+msgstr ""
+
+#. NAMES.CACTUS_MEAT
+msgctxt "NAMES.CACTUS_MEAT"
+msgid "Cactus Flesh"
+msgstr ""
+
+#. NAMES.CACTUS_MEAT_COOKED
+msgctxt "NAMES.CACTUS_MEAT_COOKED"
+msgid "Cooked Cactus Flesh"
+msgstr ""
+
+#. NAMES.CALIFORNIAROLL
+msgctxt "NAMES.CALIFORNIAROLL"
+msgid "California Roll"
+msgstr ""
+
+#. NAMES.CAMPFIRE
+msgctxt "NAMES.CAMPFIRE"
+msgid "Campfire"
+msgstr ""
+
+#. NAMES.CANARY
+msgctxt "NAMES.CANARY"
+msgid "Canary"
+msgstr ""
+
+#. NAMES.CANARY_POISONED
+msgctxt "NAMES.CANARY_POISONED"
+msgid "Canary (Volatile)"
+msgstr ""
+
+#. NAMES.CANDYBAG
+msgctxt "NAMES.CANDYBAG"
+msgid "Candy Bag"
+msgstr ""
+
+#. NAMES.CANE
+msgctxt "NAMES.CANE"
+msgid "Walking Cane"
+msgstr ""
+
+#. NAMES.CARNIVALCANNON_CONFETTI
+msgctxt "NAMES.CARNIVALCANNON_CONFETTI"
+msgid "Confetti Cannon"
+msgstr ""
+
+#. NAMES.CARNIVALCANNON_CONFETTI_KIT
+msgctxt "NAMES.CARNIVALCANNON_CONFETTI_KIT"
+msgid "Confetti Cannon Kit"
+msgstr ""
+
+#. NAMES.CARNIVALCANNON_SPARKLE
+msgctxt "NAMES.CARNIVALCANNON_SPARKLE"
+msgid "Glitter Cannon"
+msgstr ""
+
+#. NAMES.CARNIVALCANNON_SPARKLE_KIT
+msgctxt "NAMES.CARNIVALCANNON_SPARKLE_KIT"
+msgid "Glitter Cannon Kit"
+msgstr ""
+
+#. NAMES.CARNIVALCANNON_STREAMER
+msgctxt "NAMES.CARNIVALCANNON_STREAMER"
+msgid "Streamer Cannon"
+msgstr ""
+
+#. NAMES.CARNIVALCANNON_STREAMER_KIT
+msgctxt "NAMES.CARNIVALCANNON_STREAMER_KIT"
+msgid "Streamer Cannon Kit"
+msgstr ""
+
+#. NAMES.CARNIVALDECOR_EGGRIDE1
+msgctxt "NAMES.CARNIVALDECOR_EGGRIDE1"
+msgid "Mini Ferris Wheel"
+msgstr ""
+
+#. NAMES.CARNIVALDECOR_EGGRIDE1_KIT
+msgctxt "NAMES.CARNIVALDECOR_EGGRIDE1_KIT"
+msgid "Mini Ferris Wheel Kit"
+msgstr ""
+
+#. NAMES.CARNIVALDECOR_EGGRIDE2
+msgctxt "NAMES.CARNIVALDECOR_EGGRIDE2"
+msgid "Mini Swing Carousel"
+msgstr ""
+
+#. NAMES.CARNIVALDECOR_EGGRIDE2_KIT
+msgctxt "NAMES.CARNIVALDECOR_EGGRIDE2_KIT"
+msgid "Mini Swing Carousel Kit"
+msgstr ""
+
+#. NAMES.CARNIVALDECOR_EGGRIDE3
+msgctxt "NAMES.CARNIVALDECOR_EGGRIDE3"
+msgid "Mini Pendulum Ride"
+msgstr ""
+
+#. NAMES.CARNIVALDECOR_EGGRIDE3_KIT
+msgctxt "NAMES.CARNIVALDECOR_EGGRIDE3_KIT"
+msgid "Mini Pendulum Ride Kit"
+msgstr ""
+
+#. NAMES.CARNIVALDECOR_FIGURE_COMMON
+msgctxt "NAMES.CARNIVALDECOR_FIGURE_COMMON"
+msgid "Common Cawnival Statuette"
+msgstr ""
+
+#. NAMES.CARNIVALDECOR_FIGURE_KIT
+msgctxt "NAMES.CARNIVALDECOR_FIGURE_KIT"
+msgid "Mystery Box"
+msgstr ""
+
+#. NAMES.CARNIVALDECOR_FIGURE_RARE
+msgctxt "NAMES.CARNIVALDECOR_FIGURE_RARE"
+msgid "Rare Cawnival Statuette"
+msgstr ""
+
+#. NAMES.CARNIVALDECOR_FIGURE_UNCOMMON
+msgctxt "NAMES.CARNIVALDECOR_FIGURE_UNCOMMON"
+msgid "Uncommon Cawnival Statuette"
+msgstr ""
+
+#. NAMES.CARNIVALDECOR_LAMP
+msgctxt "NAMES.CARNIVALDECOR_LAMP"
+msgid "Midsummer Night Light"
+msgstr ""
+
+#. NAMES.CARNIVALDECOR_LAMP_KIT
+msgctxt "NAMES.CARNIVALDECOR_LAMP_KIT"
+msgid "Midsummer Night Light Kit"
+msgstr ""
+
+#. NAMES.CARNIVALDECOR_PLANT
+msgctxt "NAMES.CARNIVALDECOR_PLANT"
+msgid "Miniature Tree"
+msgstr ""
+
+#. NAMES.CARNIVALDECOR_PLANT_KIT
+msgctxt "NAMES.CARNIVALDECOR_PLANT_KIT"
+msgid "Miniature Tree Kit"
+msgstr ""
+
+#. NAMES.CARNIVALFOOD_CORNTEA
+msgctxt "NAMES.CARNIVALFOOD_CORNTEA"
+msgid "Corny Slush"
+msgstr ""
+
+#. NAMES.CARNIVALGAME_FEEDCHICKS_FOOD
+msgctxt "NAMES.CARNIVALGAME_FEEDCHICKS_FOOD"
+msgid "Grub"
+msgstr ""
+
+#. NAMES.CARNIVALGAME_FEEDCHICKS_KIT
+msgctxt "NAMES.CARNIVALGAME_FEEDCHICKS_KIT"
+msgid "Hubbub for Grub Kit"
+msgstr ""
+
+#. NAMES.CARNIVALGAME_FEEDCHICKS_NEST
+msgctxt "NAMES.CARNIVALGAME_FEEDCHICKS_NEST"
+msgid "Hungry Crow"
+msgstr ""
+
+#. NAMES.CARNIVALGAME_FEEDCHICKS_NEST_OFF
+msgctxt "NAMES.CARNIVALGAME_FEEDCHICKS_NEST_OFF"
+msgid "Trapdoor"
+msgstr ""
+
+#. NAMES.CARNIVALGAME_FEEDCHICKS_STATION
+msgctxt "NAMES.CARNIVALGAME_FEEDCHICKS_STATION"
+msgid "Hubbub for Grub"
+msgstr ""
+
+#. NAMES.CARNIVALGAME_HERDING_CHICK
+msgctxt "NAMES.CARNIVALGAME_HERDING_CHICK"
+msgid "Scrambling Egg"
+msgstr ""
+
+#. NAMES.CARNIVALGAME_HERDING_KIT
+msgctxt "NAMES.CARNIVALGAME_HERDING_KIT"
+msgid "Egg Scramble Kit"
+msgstr ""
+
+#. NAMES.CARNIVALGAME_HERDING_STATION
+msgctxt "NAMES.CARNIVALGAME_HERDING_STATION"
+msgid "Egg Scramble"
+msgstr ""
+
+#. NAMES.CARNIVALGAME_MEMORY_CARD
+msgctxt "NAMES.CARNIVALGAME_MEMORY_CARD"
+msgid "Egg Basket"
+msgstr ""
+
+#. NAMES.CARNIVALGAME_MEMORY_CARD_OFF
+msgctxt "NAMES.CARNIVALGAME_MEMORY_CARD_OFF"
+msgid "Trapdoor"
+msgstr ""
+
+#. NAMES.CARNIVALGAME_MEMORY_KIT
+msgctxt "NAMES.CARNIVALGAME_MEMORY_KIT"
+msgid "Eggs in a Basket Kit"
+msgstr ""
+
+#. NAMES.CARNIVALGAME_MEMORY_STATION
+msgctxt "NAMES.CARNIVALGAME_MEMORY_STATION"
+msgid "Eggs in a Basket"
+msgstr ""
+
+#. NAMES.CARNIVAL_BALL
+msgctxt "NAMES.CARNIVAL_BALL"
+msgid "Shiny Red Ball"
+msgstr ""
+
+#. NAMES.CARNIVAL_CROWKID
+msgctxt "NAMES.CARNIVAL_CROWKID"
+msgid "Crow Kid"
+msgstr ""
+
+#. NAMES.CARNIVAL_GAMETOKEN
+msgctxt "NAMES.CARNIVAL_GAMETOKEN"
+msgid "Cawnival Token"
+msgstr ""
+
+#. NAMES.CARNIVAL_GAMETOKEN_MULTIPLE
+msgctxt "NAMES.CARNIVAL_GAMETOKEN_MULTIPLE"
+msgid "3 Cawnival Tokens"
+msgstr ""
+
+#. NAMES.CARNIVAL_HOST
+msgctxt "NAMES.CARNIVAL_HOST"
+msgid "Corvus Goodfeather"
+msgstr ""
+
+#. NAMES.CARNIVAL_PLAZA
+msgctxt "NAMES.CARNIVAL_PLAZA"
+msgid "Cawnival Tree"
+msgstr ""
+
+#. NAMES.CARNIVAL_PLAZA_KIT
+msgctxt "NAMES.CARNIVAL_PLAZA_KIT"
+msgid "Cawnival Sapling"
+msgstr ""
+
+#. NAMES.CARNIVAL_PRIZEBOOTH
+msgctxt "NAMES.CARNIVAL_PRIZEBOOTH"
+msgid "Prize Booth"
+msgstr ""
+
+#. NAMES.CARNIVAL_PRIZEBOOTH_KIT
+msgctxt "NAMES.CARNIVAL_PRIZEBOOTH_KIT"
+msgid "Prize Booth Kit"
+msgstr ""
+
+#. NAMES.CARNIVAL_PRIZETICKET
+msgctxt "NAMES.CARNIVAL_PRIZETICKET"
+msgid "Prize Tickets"
+msgstr ""
+
+#. NAMES.CARNIVAL_SEEDPACKET
+msgctxt "NAMES.CARNIVAL_SEEDPACKET"
+msgid "Seed Clusters"
+msgstr ""
+
+#. NAMES.CARNIVAL_VEST_A
+msgctxt "NAMES.CARNIVAL_VEST_A"
+msgid "Chirpy Scarf"
+msgstr ""
+
+#. NAMES.CARNIVAL_VEST_B
+msgctxt "NAMES.CARNIVAL_VEST_B"
+msgid "Chirpy Cloak"
+msgstr ""
+
+#. NAMES.CARNIVAL_VEST_C
+msgctxt "NAMES.CARNIVAL_VEST_C"
+msgid "Chirpy Capelet"
+msgstr ""
+
+#. NAMES.CARRAT
+msgctxt "NAMES.CARRAT"
+msgid "Carrat"
+msgstr ""
+
+#. NAMES.CARRATSHRINE
+msgctxt "NAMES.CARRATSHRINE"
+msgid "Carrat Shrine"
+msgstr ""
+
+#. NAMES.CARRAT_GHOSTRACER
+msgctxt "NAMES.CARRAT_GHOSTRACER"
+msgid "Charlie's Carrat"
+msgstr ""
+
+#. NAMES.CARRAT_PLANTED
+msgctxt "NAMES.CARRAT_PLANTED"
+msgid "Carrot"
+msgstr ""
+
+#. NAMES.CARROT
+msgctxt "NAMES.CARROT"
+msgid "Carrot"
+msgstr ""
+
+#. NAMES.CARROT_COOKED
+msgctxt "NAMES.CARROT_COOKED"
+msgid "Roasted Carrot"
+msgstr ""
+
+#. NAMES.CARROT_OVERSIZED
+msgctxt "NAMES.CARROT_OVERSIZED"
+msgid "Giant Carrots"
+msgstr ""
+
+#. NAMES.CARROT_OVERSIZED_ROTTEN
+msgctxt "NAMES.CARROT_OVERSIZED_ROTTEN"
+msgid "Giant Rotting Carrots"
+msgstr ""
+
+#. NAMES.CARROT_PLANTED
+msgctxt "NAMES.CARROT_PLANTED"
+msgid "Carrot"
+msgstr ""
+
+#. NAMES.CARROT_SEEDS
+msgctxt "NAMES.CARROT_SEEDS"
+msgid "Oblong Seeds"
+msgstr ""
+
+#. NAMES.CARTOGRAPHYDESK
+msgctxt "NAMES.CARTOGRAPHYDESK"
+msgid "Cartographer's Desk"
+msgstr ""
+
+#. NAMES.CATCOON
+msgctxt "NAMES.CATCOON"
+msgid "Catcoon"
+msgstr ""
+
+#. NAMES.CATCOONDEN
+msgctxt "NAMES.CATCOONDEN"
+msgid "Hollow Stump"
+msgstr ""
+
+#. NAMES.CATCOONHAT
+msgctxt "NAMES.CATCOONHAT"
+msgid "Cat Cap"
+msgstr ""
+
+#. NAMES.CATTOY_MOUSE
+msgctxt "NAMES.CATTOY_MOUSE"
+msgid "Wind-up Mouse Toy"
+msgstr ""
+
+#. NAMES.CAVEIN_BOULDER
+msgctxt "NAMES.CAVEIN_BOULDER"
+msgid "Boulder"
+msgstr ""
+
+#. NAMES.CAVE_BANANA
+msgctxt "NAMES.CAVE_BANANA"
+msgid "Cave Banana"
+msgstr ""
+
+#. NAMES.CAVE_BANANA_COOKED
+msgctxt "NAMES.CAVE_BANANA_COOKED"
+msgid "Cooked Banana"
+msgstr ""
+
+#. NAMES.CAVE_BANANA_TREE
+msgctxt "NAMES.CAVE_BANANA_TREE"
+msgid "Cave Banana Tree"
+msgstr ""
+
+#. NAMES.CAVE_ENTRANCE
+msgctxt "NAMES.CAVE_ENTRANCE"
+msgid "Plugged Sinkhole"
+msgstr ""
+
+#. NAMES.CAVE_ENTRANCE_OPEN
+msgctxt "NAMES.CAVE_ENTRANCE_OPEN"
+msgid "Sinkhole"
+msgstr ""
+
+#. NAMES.CAVE_ENTRANCE_OPEN_CAVE
+msgctxt "NAMES.CAVE_ENTRANCE_OPEN_CAVE"
+msgid "Deeper"
+msgstr ""
+
+#. NAMES.CAVE_ENTRANCE_RUINS
+msgctxt "NAMES.CAVE_ENTRANCE_RUINS"
+msgid "Plugged Hole"
+msgstr ""
+
+#. NAMES.CAVE_EXIT
+msgctxt "NAMES.CAVE_EXIT"
+msgid "Stairs"
+msgstr ""
+
+#. NAMES.CAVE_FERN
+msgctxt "NAMES.CAVE_FERN"
+msgid "Fern"
+msgstr ""
+
+#. NAMES.CEVICHE
+msgctxt "NAMES.CEVICHE"
+msgid "Ceviche"
+msgstr ""
+
+#. NAMES.CHARCOAL
+msgctxt "NAMES.CHARCOAL"
+msgid "Charcoal"
+msgstr ""
+
+#. NAMES.CHARLIE
+msgctxt "NAMES.CHARLIE"
+msgid "Charlie"
+msgstr ""
+
+#. NAMES.CHESSJUNK1
+msgctxt "NAMES.CHESSJUNK1"
+msgid "Broken Clockworks"
+msgstr ""
+
+#. NAMES.CHESSJUNK2
+msgctxt "NAMES.CHESSJUNK2"
+msgid "Broken Clockworks"
+msgstr ""
+
+#. NAMES.CHESSJUNK3
+msgctxt "NAMES.CHESSJUNK3"
+msgid "Broken Clockworks"
+msgstr ""
+
+#. NAMES.CHESSPIECE_ANCHOR
+msgctxt "NAMES.CHESSPIECE_ANCHOR"
+msgid "Anchor Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_ANCHOR_BUILDER
+msgctxt "NAMES.CHESSPIECE_ANCHOR_BUILDER"
+msgid "Anchor Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_ANCHOR_SKETCH
+msgctxt "NAMES.CHESSPIECE_ANCHOR_SKETCH"
+msgid "Anchor Figure Sketch"
+msgstr ""
+
+#. NAMES.CHESSPIECE_ANTLION
+msgctxt "NAMES.CHESSPIECE_ANTLION"
+msgid "Antlion Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_ANTLION_BUILDER
+msgctxt "NAMES.CHESSPIECE_ANTLION_BUILDER"
+msgid "Antlion Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_BEARGER
+msgctxt "NAMES.CHESSPIECE_BEARGER"
+msgid "Bearger Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_BEARGER_BUILDER
+msgctxt "NAMES.CHESSPIECE_BEARGER_BUILDER"
+msgid "Bearger Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_BEEFALO
+msgctxt "NAMES.CHESSPIECE_BEEFALO"
+msgid "Beefalo Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_BEEFALO_BUILDER
+msgctxt "NAMES.CHESSPIECE_BEEFALO_BUILDER"
+msgid "Beefalo Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_BEEFALO_SKETCH
+msgctxt "NAMES.CHESSPIECE_BEEFALO_SKETCH"
+msgid "Beefalo Figure Sketch"
+msgstr ""
+
+#. NAMES.CHESSPIECE_BEEQUEEN
+msgctxt "NAMES.CHESSPIECE_BEEQUEEN"
+msgid "Bee Queen Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_BEEQUEEN_BUILDER
+msgctxt "NAMES.CHESSPIECE_BEEQUEEN_BUILDER"
+msgid "Bee Queen Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_BISHOP
+msgctxt "NAMES.CHESSPIECE_BISHOP"
+msgid "Bishop Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_BISHOP_BUILDER
+msgctxt "NAMES.CHESSPIECE_BISHOP_BUILDER"
+msgid "Bishop Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_BUTTERFLY
+msgctxt "NAMES.CHESSPIECE_BUTTERFLY"
+msgid "Moon Moth Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_BUTTERFLY_BUILDER
+msgctxt "NAMES.CHESSPIECE_BUTTERFLY_BUILDER"
+msgid "Moon Moth Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_BUTTERFLY_SKETCH
+msgctxt "NAMES.CHESSPIECE_BUTTERFLY_SKETCH"
+msgid "Moon Moth Figure Sketch"
+msgstr ""
+
+#. NAMES.CHESSPIECE_CARRAT
+msgctxt "NAMES.CHESSPIECE_CARRAT"
+msgid "Carrat Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_CARRAT_BUILDER
+msgctxt "NAMES.CHESSPIECE_CARRAT_BUILDER"
+msgid "Carrat Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_CARRAT_SKETCH
+msgctxt "NAMES.CHESSPIECE_CARRAT_SKETCH"
+msgid "Carrat Figure Sketch"
+msgstr ""
+
+#. NAMES.CHESSPIECE_CATCOON
+msgctxt "NAMES.CHESSPIECE_CATCOON"
+msgid "Catcoon Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_CATCOON_BUILDER
+msgctxt "NAMES.CHESSPIECE_CATCOON_BUILDER"
+msgid "Catcoon Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_CATCOON_SKETCH
+msgctxt "NAMES.CHESSPIECE_CATCOON_SKETCH"
+msgid "Catcoon Figure Sketch"
+msgstr ""
+
+#. NAMES.CHESSPIECE_CLAYHOUND
+msgctxt "NAMES.CHESSPIECE_CLAYHOUND"
+msgid "Hound Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_CLAYHOUND_BUILDER
+msgctxt "NAMES.CHESSPIECE_CLAYHOUND_BUILDER"
+msgid "Hound Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_CLAYHOUND_SKETCH
+msgctxt "NAMES.CHESSPIECE_CLAYHOUND_SKETCH"
+msgid "Hound Figure Sketch"
+msgstr ""
+
+#. NAMES.CHESSPIECE_CLAYWARG
+msgctxt "NAMES.CHESSPIECE_CLAYWARG"
+msgid "Varg Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_CLAYWARG_BUILDER
+msgctxt "NAMES.CHESSPIECE_CLAYWARG_BUILDER"
+msgid "Varg Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_CLAYWARG_SKETCH
+msgctxt "NAMES.CHESSPIECE_CLAYWARG_SKETCH"
+msgid "Clay Varg Figure Sketch"
+msgstr ""
+
+#. NAMES.CHESSPIECE_CRABKING
+msgctxt "NAMES.CHESSPIECE_CRABKING"
+msgid "Crab King Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_CRABKING_BUILDER
+msgctxt "NAMES.CHESSPIECE_CRABKING_BUILDER"
+msgid "Crab King Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_CRABKING_SKETCH
+msgctxt "NAMES.CHESSPIECE_CRABKING_SKETCH"
+msgid "Crab King Figure Sketch"
+msgstr ""
+
+#. NAMES.CHESSPIECE_DEERCLOPS
+msgctxt "NAMES.CHESSPIECE_DEERCLOPS"
+msgid "Deerclops Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_DEERCLOPS_BUILDER
+msgctxt "NAMES.CHESSPIECE_DEERCLOPS_BUILDER"
+msgid "Deerclops Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_DRAGONFLY
+msgctxt "NAMES.CHESSPIECE_DRAGONFLY"
+msgid "Dragonfly Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_DRAGONFLY_BUILDER
+msgctxt "NAMES.CHESSPIECE_DRAGONFLY_BUILDER"
+msgid "Dragonfly Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_EYEOFTERROR
+msgctxt "NAMES.CHESSPIECE_EYEOFTERROR"
+msgid "Eye Of Terror Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_EYEOFTERROR_BUILDER
+msgctxt "NAMES.CHESSPIECE_EYEOFTERROR_BUILDER"
+msgid "Eye Of Terror Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_FORMAL
+msgctxt "NAMES.CHESSPIECE_FORMAL"
+msgid "Kingly Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_FORMAL_BUILDER
+msgctxt "NAMES.CHESSPIECE_FORMAL_BUILDER"
+msgid "Kingly Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_GUARDIANPHASE3
+msgctxt "NAMES.CHESSPIECE_GUARDIANPHASE3"
+msgid "Celestial Champion Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_GUARDIANPHASE3_BUILDER
+msgctxt "NAMES.CHESSPIECE_GUARDIANPHASE3_BUILDER"
+msgid "Celestial Champion Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_GUARDIANPHASE3_SKETCH
+msgctxt "NAMES.CHESSPIECE_GUARDIANPHASE3_SKETCH"
+msgid "Celestial Champion Figure Sketch"
+msgstr ""
+
+#. NAMES.CHESSPIECE_HORNUCOPIA
+msgctxt "NAMES.CHESSPIECE_HORNUCOPIA"
+msgid "Carved Hornucopia"
+msgstr ""
+
+#. NAMES.CHESSPIECE_HORNUCOPIA_BUILDER
+msgctxt "NAMES.CHESSPIECE_HORNUCOPIA_BUILDER"
+msgid "Carved Hornucopia"
+msgstr ""
+
+#. NAMES.CHESSPIECE_KITCOON
+msgctxt "NAMES.CHESSPIECE_KITCOON"
+msgid "Kitcoon Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_KITCOON_BUILDER
+msgctxt "NAMES.CHESSPIECE_KITCOON_BUILDER"
+msgid "Kitcoon Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_KITCOON_SKETCH
+msgctxt "NAMES.CHESSPIECE_KITCOON_SKETCH"
+msgid "Kitcoon Figure Sketch"
+msgstr ""
+
+#. NAMES.CHESSPIECE_KLAUS
+msgctxt "NAMES.CHESSPIECE_KLAUS"
+msgid "Klaus Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_KLAUS_BUILDER
+msgctxt "NAMES.CHESSPIECE_KLAUS_BUILDER"
+msgid "Klaus Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_KNIGHT
+msgctxt "NAMES.CHESSPIECE_KNIGHT"
+msgid "Knight Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_KNIGHT_BUILDER
+msgctxt "NAMES.CHESSPIECE_KNIGHT_BUILDER"
+msgid "Knight Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_MALBATROSS
+msgctxt "NAMES.CHESSPIECE_MALBATROSS"
+msgid "Malbatross Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_MALBATROSS_BUILDER
+msgctxt "NAMES.CHESSPIECE_MALBATROSS_BUILDER"
+msgid "Malbatross Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_MALBATROSS_SKETCH
+msgctxt "NAMES.CHESSPIECE_MALBATROSS_SKETCH"
+msgid "Malbatross Figure Sketch"
+msgstr ""
+
+#. NAMES.CHESSPIECE_MINOTAUR
+msgctxt "NAMES.CHESSPIECE_MINOTAUR"
+msgid "Ancient Guardian Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_MINOTAUR_BUILDER
+msgctxt "NAMES.CHESSPIECE_MINOTAUR_BUILDER"
+msgid "Ancient Guardian Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_MOON
+msgctxt "NAMES.CHESSPIECE_MOON"
+msgid "\"Moon\" Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_MOON_BUILDER
+msgctxt "NAMES.CHESSPIECE_MOON_BUILDER"
+msgid "\"Moon\" Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_MOON_SKETCH
+msgctxt "NAMES.CHESSPIECE_MOON_SKETCH"
+msgid "\"Moon\" Figure Sketch"
+msgstr ""
+
+#. NAMES.CHESSPIECE_MOOSEGOOSE
+msgctxt "NAMES.CHESSPIECE_MOOSEGOOSE"
+msgid "Moose Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_MOOSEGOOSE_ALT
+msgctxt "NAMES.CHESSPIECE_MOOSEGOOSE_ALT"
+msgid "Goose Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_MOOSEGOOSE_BUILDER
+msgctxt "NAMES.CHESSPIECE_MOOSEGOOSE_BUILDER"
+msgid "Moose/Goose Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_MUSE
+msgctxt "NAMES.CHESSPIECE_MUSE"
+msgid "Queenly Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_MUSE_BUILDER
+msgctxt "NAMES.CHESSPIECE_MUSE_BUILDER"
+msgid "Queenly Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_PAWN
+msgctxt "NAMES.CHESSPIECE_PAWN"
+msgid "Pawn Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_PAWN_BUILDER
+msgctxt "NAMES.CHESSPIECE_PAWN_BUILDER"
+msgid "Pawn Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_PIPE
+msgctxt "NAMES.CHESSPIECE_PIPE"
+msgid "Bubble Pipe Carving"
+msgstr ""
+
+#. NAMES.CHESSPIECE_PIPE_BUILDER
+msgctxt "NAMES.CHESSPIECE_PIPE_BUILDER"
+msgid "Bubble Pipe Carving"
+msgstr ""
+
+#. NAMES.CHESSPIECE_ROOK
+msgctxt "NAMES.CHESSPIECE_ROOK"
+msgid "Rook Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_ROOK_BUILDER
+msgctxt "NAMES.CHESSPIECE_ROOK_BUILDER"
+msgid "Rook Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_STALKER
+msgctxt "NAMES.CHESSPIECE_STALKER"
+msgid "Ancient Fuelweaver Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_STALKER_BUILDER
+msgctxt "NAMES.CHESSPIECE_STALKER_BUILDER"
+msgid "Ancient Fuelweaver Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_TOADSTOOL
+msgctxt "NAMES.CHESSPIECE_TOADSTOOL"
+msgid "Toadstool Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_TOADSTOOL_BUILDER
+msgctxt "NAMES.CHESSPIECE_TOADSTOOL_BUILDER"
+msgid "Toadstool Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_TWINSOFTERROR
+msgctxt "NAMES.CHESSPIECE_TWINSOFTERROR"
+msgid "Twins of Terror Figure"
+msgstr ""
+
+#. NAMES.CHESSPIECE_TWINSOFTERROR_BUILDER
+msgctxt "NAMES.CHESSPIECE_TWINSOFTERROR_BUILDER"
+msgid "Twins of Terror Figure"
+msgstr ""
+
+#. NAMES.CHESTER
+msgctxt "NAMES.CHESTER"
+msgid "Chester"
+msgstr ""
+
+#. NAMES.CHESTER_EYEBONE
+msgctxt "NAMES.CHESTER_EYEBONE"
+msgid "Eye Bone"
+msgstr ""
+
+#. NAMES.CHUM
+msgctxt "NAMES.CHUM"
+msgid "Fish Food"
+msgstr ""
+
+#. NAMES.CLAYHOUND
+msgctxt "NAMES.CLAYHOUND"
+msgid "Clay Hound"
+msgstr ""
+
+#. NAMES.CLAYWARG
+msgctxt "NAMES.CLAYWARG"
+msgid "Clay Varg"
+msgstr ""
+
+#. NAMES.COLD
+msgctxt "NAMES.COLD"
+msgid "Freezing"
+msgstr ""
+
+#. NAMES.COLDFIRE
+msgctxt "NAMES.COLDFIRE"
+msgid "Endothermic Fire"
+msgstr ""
+
+#. NAMES.COLDFIREPIT
+msgctxt "NAMES.COLDFIREPIT"
+msgid "Endothermic Fire Pit"
+msgstr ""
+
+#. NAMES.COMPASS
+msgctxt "NAMES.COMPASS"
+msgid "Compass"
+msgstr ""
+
+#. NAMES.COMPOST
+msgctxt "NAMES.COMPOST"
+msgid "Compost"
+msgstr ""
+
+#. NAMES.COMPOSTINGBIN
+msgctxt "NAMES.COMPOSTINGBIN"
+msgid "Composting Bin"
+msgstr ""
+
+#. NAMES.COMPOSTWRAP
+msgctxt "NAMES.COMPOSTWRAP"
+msgid "Compost Wrap"
+msgstr ""
+
+#. NAMES.COOKBOOK
+msgctxt "NAMES.COOKBOOK"
+msgid "Cookbook"
+msgstr ""
+
+#. NAMES.COOKEDMANDRAKE
+msgctxt "NAMES.COOKEDMANDRAKE"
+msgid "Cooked Mandrake"
+msgstr ""
+
+#. NAMES.COOKEDMEAT
+msgctxt "NAMES.COOKEDMEAT"
+msgid "Cooked Meat"
+msgstr ""
+
+#. NAMES.COOKEDMONSTERMEAT
+msgctxt "NAMES.COOKEDMONSTERMEAT"
+msgid "Cooked Monster Meat"
+msgstr ""
+
+#. NAMES.COOKEDSMALLMEAT
+msgctxt "NAMES.COOKEDSMALLMEAT"
+msgid "Cooked Morsel"
+msgstr ""
+
+#. NAMES.COOKIECUTTER
+msgctxt "NAMES.COOKIECUTTER"
+msgid "Cookie Cutter"
+msgstr ""
+
+#. NAMES.COOKIECUTTERHAT
+msgctxt "NAMES.COOKIECUTTERHAT"
+msgid "Cookie Cutter Cap"
+msgstr ""
+
+#. NAMES.COOKIECUTTERSHELL
+msgctxt "NAMES.COOKIECUTTERSHELL"
+msgid "Cookie Cutter Shell"
+msgstr ""
+
+#. NAMES.COOKPOT
+msgctxt "NAMES.COOKPOT"
+msgid "Crock Pot"
+msgstr ""
+
+#. NAMES.COONTAIL
+msgctxt "NAMES.COONTAIL"
+msgid "Cat Tail"
+msgstr ""
+
+#. NAMES.CORN
+msgctxt "NAMES.CORN"
+msgid "Corn"
+msgstr ""
+
+#. NAMES.CORN_COOKED
+msgctxt "NAMES.CORN_COOKED"
+msgid "Popcorn"
+msgstr ""
+
+#. NAMES.CORN_OVERSIZED
+msgctxt "NAMES.CORN_OVERSIZED"
+msgid "Giant Corn"
+msgstr ""
+
+#. NAMES.CORN_OVERSIZED_ROTTEN
+msgctxt "NAMES.CORN_OVERSIZED_ROTTEN"
+msgid "Giant Rotting Corn"
+msgstr ""
+
+#. NAMES.CORN_SEEDS
+msgctxt "NAMES.CORN_SEEDS"
+msgid "Clustered Seeds"
+msgstr ""
+
+#. NAMES.CRABKING
+msgctxt "NAMES.CRABKING"
+msgid "Crab King"
+msgstr ""
+
+#. NAMES.CRABKING_CLAW
+msgctxt "NAMES.CRABKING_CLAW"
+msgid "Imposing Claw"
+msgstr ""
+
+#. NAMES.CRAWLINGHORROR
+msgctxt "NAMES.CRAWLINGHORROR"
+msgid "Crawling Horror"
+msgstr ""
+
+#. NAMES.CRAWLINGNIGHTMARE
+msgctxt "NAMES.CRAWLINGNIGHTMARE"
+msgid "Crawling Nightmare"
+msgstr ""
+
+#. NAMES.CRITTERLAB
+msgctxt "NAMES.CRITTERLAB"
+msgid "Rock Den"
+msgstr ""
+
+#. NAMES.CRITTER_DRAGONLING
+msgctxt "NAMES.CRITTER_DRAGONLING"
+msgid "Broodling"
+msgstr ""
+
+#. NAMES.CRITTER_DRAGONLING_BUILDER
+msgctxt "NAMES.CRITTER_DRAGONLING_BUILDER"
+msgid "Broodling"
+msgstr ""
+
+#. NAMES.CRITTER_EYEOFTERROR
+msgctxt "NAMES.CRITTER_EYEOFTERROR"
+msgid "Friendly Peeper"
+msgstr ""
+
+#. NAMES.CRITTER_EYEOFTERROR_BUILDER
+msgctxt "NAMES.CRITTER_EYEOFTERROR_BUILDER"
+msgid "Friendly Peeper"
+msgstr ""
+
+#. NAMES.CRITTER_GLOMLING
+msgctxt "NAMES.CRITTER_GLOMLING"
+msgid "Glomglom"
+msgstr ""
+
+#. NAMES.CRITTER_GLOMLING_BUILDER
+msgctxt "NAMES.CRITTER_GLOMLING_BUILDER"
+msgid "Glomglom"
+msgstr ""
+
+#. NAMES.CRITTER_KITTEN
+msgctxt "NAMES.CRITTER_KITTEN"
+msgid "Kittykit"
+msgstr ""
+
+#. NAMES.CRITTER_KITTEN_BUILDER
+msgctxt "NAMES.CRITTER_KITTEN_BUILDER"
+msgid "Kittykit"
+msgstr ""
+
+#. NAMES.CRITTER_LAMB
+msgctxt "NAMES.CRITTER_LAMB"
+msgid "Ewelet"
+msgstr ""
+
+#. NAMES.CRITTER_LAMB_BUILDER
+msgctxt "NAMES.CRITTER_LAMB_BUILDER"
+msgid "Ewelet"
+msgstr ""
+
+#. NAMES.CRITTER_LUNARMOTHLING
+msgctxt "NAMES.CRITTER_LUNARMOTHLING"
+msgid "Mothling"
+msgstr ""
+
+#. NAMES.CRITTER_LUNARMOTHLING_BUILDER
+msgctxt "NAMES.CRITTER_LUNARMOTHLING_BUILDER"
+msgid "Mothling"
+msgstr ""
+
+#. NAMES.CRITTER_PERDLING
+msgctxt "NAMES.CRITTER_PERDLING"
+msgid "Giblet"
+msgstr ""
+
+#. NAMES.CRITTER_PERDLING_BUILDER
+msgctxt "NAMES.CRITTER_PERDLING_BUILDER"
+msgid "Giblet"
+msgstr ""
+
+#. NAMES.CRITTER_PUPPY
+msgctxt "NAMES.CRITTER_PUPPY"
+msgid "Vargling"
+msgstr ""
+
+#. NAMES.CRITTER_PUPPY_BUILDER
+msgctxt "NAMES.CRITTER_PUPPY_BUILDER"
+msgid "Vargling"
+msgstr ""
+
+#. NAMES.CROP
+msgctxt "NAMES.CROP"
+msgid "Crop"
+msgstr ""
+
+#. NAMES.CROW
+msgctxt "NAMES.CROW"
+msgid "Crow"
+msgstr ""
+
+#. NAMES.CRUMBS
+msgctxt "NAMES.CRUMBS"
+msgid "Cookie Crumbles"
+msgstr ""
+
+#. NAMES.CUTGRASS
+msgctxt "NAMES.CUTGRASS"
+msgid "Cut Grass"
+msgstr ""
+
+#. NAMES.CUTLICHEN
+msgctxt "NAMES.CUTLICHEN"
+msgid "Lichen"
+msgstr ""
+
+#. NAMES.CUTREEDS
+msgctxt "NAMES.CUTREEDS"
+msgid "Cut Reeds"
+msgstr ""
+
+#. NAMES.CUTSTONE
+msgctxt "NAMES.CUTSTONE"
+msgid "Cut Stone"
+msgstr ""
+
+#. NAMES.DARKNESS
+msgctxt "NAMES.DARKNESS"
+msgid "Darkness"
+msgstr ""
+
+#. NAMES.DEADLYFEAST
+msgctxt "NAMES.DEADLYFEAST"
+msgid "Deadly Feast"
+msgstr ""
+
+#. NAMES.DEAD_SEA_BONES
+msgctxt "NAMES.DEAD_SEA_BONES"
+msgid "Sea Bones"
+msgstr ""
+
+#. NAMES.DECIDUOUSTREE
+msgctxt "NAMES.DECIDUOUSTREE"
+msgid "Birchnut Tree"
+msgstr ""
+
+#. NAMES.DECIDUOUS_ROOT
+msgctxt "NAMES.DECIDUOUS_ROOT"
+msgid "Birchnut Tree"
+msgstr ""
+
+#. NAMES.DECREASE_HEALTH
+msgctxt "NAMES.DECREASE_HEALTH"
+msgid "Health"
+msgstr ""
+
+#. NAMES.DECREASE_OLDAGE
+msgctxt "NAMES.DECREASE_OLDAGE"
+msgid "Years"
+msgstr ""
+
+#. NAMES.DECREASE_SANITY
+msgctxt "NAMES.DECREASE_SANITY"
+msgid "Sanity"
+msgstr ""
+
+#. NAMES.DEER
+msgctxt "NAMES.DEER"
+msgid "No-Eyed Deer"
+msgstr ""
+
+#. NAMES.DEERCLOPS
+msgctxt "NAMES.DEERCLOPS"
+msgid "Deerclops"
+msgstr ""
+
+#. NAMES.DEERCLOPS_EYEBALL
+msgctxt "NAMES.DEERCLOPS_EYEBALL"
+msgid "Deerclops Eyeball"
+msgstr ""
+
+#. NAMES.DEER_ANTLER
+msgctxt "NAMES.DEER_ANTLER"
+msgid "Deer Antler"
+msgstr ""
+
+#. NAMES.DEER_GEMMED
+msgctxt "NAMES.DEER_GEMMED"
+msgid "No-Eyed Deer"
+msgstr ""
+
+#. NAMES.DEFAULT
+msgctxt "NAMES.DEFAULT"
+msgid "INVENTORY ITEM"
+msgstr ""
+
+#. NAMES.DEPLETED_GRASS
+msgctxt "NAMES.DEPLETED_GRASS"
+msgid "Grass"
+msgstr ""
+
+#. NAMES.DESERTHAT
+msgctxt "NAMES.DESERTHAT"
+msgid "Desert Goggles"
+msgstr ""
+
+#. NAMES.DEVTOOL
+msgctxt "NAMES.DEVTOOL"
+msgid "Dev Tool"
+msgstr ""
+
+#. NAMES.DIRTPILE
+msgctxt "NAMES.DIRTPILE"
+msgid "Suspicious Dirt Pile"
+msgstr ""
+
+#. NAMES.DIVININGROD
+msgctxt "NAMES.DIVININGROD"
+msgid "Divining Rod"
+msgstr ""
+
+#. NAMES.DIVININGRODBASE
+msgctxt "NAMES.DIVININGRODBASE"
+msgid "Divining Rod Holder"
+msgstr ""
+
+#. NAMES.DIVININGRODSTART
+msgctxt "NAMES.DIVININGRODSTART"
+msgid "Divining Rod Holder"
+msgstr ""
+
+#. NAMES.DOLL_BLUEPRINT
+msgctxt "NAMES.DOLL_BLUEPRINT"
+msgid "Dolled-Up Costume Pattern"
+msgstr ""
+
+#. NAMES.DRAGONBODYHAT
+msgctxt "NAMES.DRAGONBODYHAT"
+msgid "Lucky Beast Body"
+msgstr ""
+
+#. NAMES.DRAGONCHILISALAD
+msgctxt "NAMES.DRAGONCHILISALAD"
+msgid "Hot Dragon Chili Salad"
+msgstr ""
+
+#. NAMES.DRAGONFLY
+msgctxt "NAMES.DRAGONFLY"
+msgid "Dragonfly"
+msgstr ""
+
+#. NAMES.DRAGONFLYCHEST
+msgctxt "NAMES.DRAGONFLYCHEST"
+msgid "Scaled Chest"
+msgstr ""
+
+#. NAMES.DRAGONFLYFURNACE
+msgctxt "NAMES.DRAGONFLYFURNACE"
+msgid "Scaled Furnace"
+msgstr ""
+
+#. NAMES.DRAGONFRUIT
+msgctxt "NAMES.DRAGONFRUIT"
+msgid "Dragon Fruit"
+msgstr ""
+
+#. NAMES.DRAGONFRUIT_COOKED
+msgctxt "NAMES.DRAGONFRUIT_COOKED"
+msgid "Prepared Dragon Fruit"
+msgstr ""
+
+#. NAMES.DRAGONFRUIT_OVERSIZED
+msgctxt "NAMES.DRAGONFRUIT_OVERSIZED"
+msgid "Giant Dragon Fruit"
+msgstr ""
+
+#. NAMES.DRAGONFRUIT_OVERSIZED_ROTTEN
+msgctxt "NAMES.DRAGONFRUIT_OVERSIZED_ROTTEN"
+msgid "Giant Rotting Dragon Fruit"
+msgstr ""
+
+#. NAMES.DRAGONFRUIT_SEEDS
+msgctxt "NAMES.DRAGONFRUIT_SEEDS"
+msgid "Bulbous Seeds"
+msgstr ""
+
+#. NAMES.DRAGONHEADHAT
+msgctxt "NAMES.DRAGONHEADHAT"
+msgid "Lucky Beast Head"
+msgstr ""
+
+#. NAMES.DRAGONPIE
+msgctxt "NAMES.DRAGONPIE"
+msgid "Dragonpie"
+msgstr ""
+
+#. NAMES.DRAGONTAILHAT
+msgctxt "NAMES.DRAGONTAILHAT"
+msgid "Lucky Beast Tail"
+msgstr ""
+
+#. NAMES.DRAGON_SCALES
+msgctxt "NAMES.DRAGON_SCALES"
+msgid "Scales"
+msgstr ""
+
+#. NAMES.DRIFTWOOD_LOG
+msgctxt "NAMES.DRIFTWOOD_LOG"
+msgid "Driftwood Piece"
+msgstr ""
+
+#. NAMES.DRIFTWOOD_TREE
+msgctxt "NAMES.DRIFTWOOD_TREE"
+msgid "Driftwood"
+msgstr ""
+
+#. NAMES.DROWNING
+msgctxt "NAMES.DROWNING"
+msgid "Drowning"
+msgstr ""
+
+#. NAMES.DRUMSTICK
+msgctxt "NAMES.DRUMSTICK"
+msgid "Drumstick"
+msgstr ""
+
+#. NAMES.DRUMSTICK_COOKED
+msgctxt "NAMES.DRUMSTICK_COOKED"
+msgid "Fried Drumstick"
+msgstr ""
+
+#. NAMES.DUG_BERRYBUSH
+msgctxt "NAMES.DUG_BERRYBUSH"
+msgid "Berry Bush"
+msgstr ""
+
+#. NAMES.DUG_BERRYBUSH2
+msgctxt "NAMES.DUG_BERRYBUSH2"
+msgid "Berry Bush"
+msgstr ""
+
+#. NAMES.DUG_BERRYBUSH_JUICY
+msgctxt "NAMES.DUG_BERRYBUSH_JUICY"
+msgid "Juicy Berry Bush"
+msgstr ""
+
+#. NAMES.DUG_GRASS
+msgctxt "NAMES.DUG_GRASS"
+msgid "Grass Tuft"
+msgstr ""
+
+#. NAMES.DUG_MARSH_BUSH
+msgctxt "NAMES.DUG_MARSH_BUSH"
+msgid "Spiky Bush"
+msgstr ""
+
+#. NAMES.DUG_ROCK_AVOCADO_BUSH
+msgctxt "NAMES.DUG_ROCK_AVOCADO_BUSH"
+msgid "Stone Fruit Bush"
+msgstr ""
+
+#. NAMES.DUG_SAPLING
+msgctxt "NAMES.DUG_SAPLING"
+msgid "Sapling"
+msgstr ""
+
+#. NAMES.DUG_SAPLING_MOON
+msgctxt "NAMES.DUG_SAPLING_MOON"
+msgid "Sapling"
+msgstr ""
+
+#. NAMES.DUG_TRAP_STARFISH
+msgctxt "NAMES.DUG_TRAP_STARFISH"
+msgid "Anenemy Trap"
+msgstr ""
+
+#. NAMES.DUMBBELL
+msgctxt "NAMES.DUMBBELL"
+msgid "Dumbbell"
+msgstr ""
+
+#. NAMES.DUMBBELL_GEM
+msgctxt "NAMES.DUMBBELL_GEM"
+msgid "Gembell"
+msgstr ""
+
+#. NAMES.DUMBBELL_GOLDEN
+msgctxt "NAMES.DUMBBELL_GOLDEN"
+msgid "Golden Dumbbell"
+msgstr ""
+
+#. NAMES.DUMBBELL_MARBLE
+msgctxt "NAMES.DUMBBELL_MARBLE"
+msgid "Marbell"
+msgstr ""
+
+#. NAMES.DURIAN
+msgctxt "NAMES.DURIAN"
+msgid "Durian"
+msgstr ""
+
+#. NAMES.DURIAN_COOKED
+msgctxt "NAMES.DURIAN_COOKED"
+msgid "Extra Smelly Durian"
+msgstr ""
+
+#. NAMES.DURIAN_OVERSIZED
+msgctxt "NAMES.DURIAN_OVERSIZED"
+msgid "Giant Durian"
+msgstr ""
+
+#. NAMES.DURIAN_OVERSIZED_ROTTEN
+msgctxt "NAMES.DURIAN_OVERSIZED_ROTTEN"
+msgid "Giant Rotting Durian"
+msgstr ""
+
+#. NAMES.DURIAN_SEEDS
+msgctxt "NAMES.DURIAN_SEEDS"
+msgid "Brittle Seed Pods"
+msgstr ""
+
+#. NAMES.DUSTMERINGUE
+msgctxt "NAMES.DUSTMERINGUE"
+msgid "Amberosia"
+msgstr ""
+
+#. NAMES.DUSTMOTH
+msgctxt "NAMES.DUSTMOTH"
+msgid "Dust Moth"
+msgstr ""
+
+#. NAMES.DUSTMOTHDEN
+msgctxt "NAMES.DUSTMOTHDEN"
+msgid "Tidy Hidey-Hole"
+msgstr ""
+
+#. NAMES.EARMUFFSHAT
+msgctxt "NAMES.EARMUFFSHAT"
+msgid "Rabbit Earmuffs"
+msgstr ""
+
+#. NAMES.EEL
+msgctxt "NAMES.EEL"
+msgid "Eel"
+msgstr ""
+
+#. NAMES.EEL_COOKED
+msgctxt "NAMES.EEL_COOKED"
+msgid "Cooked Eel"
+msgstr ""
+
+#. NAMES.EGGPLANT
+msgctxt "NAMES.EGGPLANT"
+msgid "Eggplant"
+msgstr ""
+
+#. NAMES.EGGPLANT_COOKED
+msgctxt "NAMES.EGGPLANT_COOKED"
+msgid "Braised Eggplant"
+msgstr ""
+
+#. NAMES.EGGPLANT_OVERSIZED
+msgctxt "NAMES.EGGPLANT_OVERSIZED"
+msgid "Giant Eggplant"
+msgstr ""
+
+#. NAMES.EGGPLANT_OVERSIZED_ROTTEN
+msgctxt "NAMES.EGGPLANT_OVERSIZED_ROTTEN"
+msgid "Giant Rotting Eggplant"
+msgstr ""
+
+#. NAMES.EGGPLANT_SEEDS
+msgctxt "NAMES.EGGPLANT_SEEDS"
+msgid "Swirly Seeds"
+msgstr ""
+
+#. NAMES.ENDTABLE
+msgctxt "NAMES.ENDTABLE"
+msgid "End Table"
+msgstr ""
+
+#. NAMES.EVERGREEN
+msgctxt "NAMES.EVERGREEN"
+msgid "Evergreen"
+msgstr ""
+
+#. NAMES.EVERGREEN_SPARSE
+msgctxt "NAMES.EVERGREEN_SPARSE"
+msgid "Lumpy Evergreen"
+msgstr ""
+
+#. NAMES.EYEBRELLAHAT
+msgctxt "NAMES.EYEBRELLAHAT"
+msgid "Eyebrella"
+msgstr ""
+
+#. NAMES.EYEMASKHAT
+msgctxt "NAMES.EYEMASKHAT"
+msgid "Eye Mask"
+msgstr ""
+
+#. NAMES.EYEOFTERROR
+msgctxt "NAMES.EYEOFTERROR"
+msgid "Eye Of Terror"
+msgstr ""
+
+#. NAMES.EYEOFTERROR_MINI
+msgctxt "NAMES.EYEOFTERROR_MINI"
+msgid "Suspicious Peeper"
+msgstr ""
+
+#. NAMES.EYEOFTERROR_MINI_GROUNDED
+msgctxt "NAMES.EYEOFTERROR_MINI_GROUNDED"
+msgid "Egg Of Terror"
+msgstr ""
+
+#. NAMES.EYEPLANT
+msgctxt "NAMES.EYEPLANT"
+msgid "Eye Plant"
+msgstr ""
+
+#. NAMES.EYETURRET
+msgctxt "NAMES.EYETURRET"
+msgid "Houndius Shootius"
+msgstr ""
+
+#. NAMES.EYETURRET_ITEM
+msgctxt "NAMES.EYETURRET_ITEM"
+msgid "Houndius Shootius"
+msgstr ""
+
+#. NAMES.FARM_HOE
+msgctxt "NAMES.FARM_HOE"
+msgid "Garden Hoe"
+msgstr ""
+
+#. NAMES.FARM_PLANT_ASPARAGUS
+msgctxt "NAMES.FARM_PLANT_ASPARAGUS"
+msgid "Asparagus Fern"
+msgstr ""
+
+#. NAMES.FARM_PLANT_CARROT
+msgctxt "NAMES.FARM_PLANT_CARROT"
+msgid "Carrot Plant"
+msgstr ""
+
+#. NAMES.FARM_PLANT_CORN
+msgctxt "NAMES.FARM_PLANT_CORN"
+msgid "Corn Stalk"
+msgstr ""
+
+#. NAMES.FARM_PLANT_DRAGONFRUIT
+msgctxt "NAMES.FARM_PLANT_DRAGONFRUIT"
+msgid "Dragon Fruit Vine"
+msgstr ""
+
+#. NAMES.FARM_PLANT_DURIAN
+msgctxt "NAMES.FARM_PLANT_DURIAN"
+msgid "Durian Vine"
+msgstr ""
+
+#. NAMES.FARM_PLANT_EGGPLANT
+msgctxt "NAMES.FARM_PLANT_EGGPLANT"
+msgid "Eggplant Stalk"
+msgstr ""
+
+#. NAMES.FARM_PLANT_GARLIC
+msgctxt "NAMES.FARM_PLANT_GARLIC"
+msgid "Garlic Plant"
+msgstr ""
+
+#. NAMES.FARM_PLANT_ONION
+msgctxt "NAMES.FARM_PLANT_ONION"
+msgid "Onion Plant"
+msgstr ""
+
+#. NAMES.FARM_PLANT_PEPPER
+msgctxt "NAMES.FARM_PLANT_PEPPER"
+msgid "Pepper Plant"
+msgstr ""
+
+#. NAMES.FARM_PLANT_POMEGRANATE
+msgctxt "NAMES.FARM_PLANT_POMEGRANATE"
+msgid "Pomegranate Branch"
+msgstr ""
+
+#. NAMES.FARM_PLANT_POTATO
+msgctxt "NAMES.FARM_PLANT_POTATO"
+msgid "Potato Plant"
+msgstr ""
+
+#. NAMES.FARM_PLANT_PUMPKIN
+msgctxt "NAMES.FARM_PLANT_PUMPKIN"
+msgid "Pumpkin Plant"
+msgstr ""
+
+#. NAMES.FARM_PLANT_RANDOMSEED
+msgctxt "NAMES.FARM_PLANT_RANDOMSEED"
+msgid "Planted Seed"
+msgstr ""
+
+#. NAMES.FARM_PLANT_ROTTEN
+msgctxt "NAMES.FARM_PLANT_ROTTEN"
+msgid "Rotting Plant"
+msgstr ""
+
+#. NAMES.FARM_PLANT_SEED
+msgctxt "NAMES.FARM_PLANT_SEED"
+msgid "Planted {seed}"
+msgstr ""
+
+#. NAMES.FARM_PLANT_TOMATO
+msgctxt "NAMES.FARM_PLANT_TOMATO"
+msgid "Toma Root Plant"
+msgstr ""
+
+#. NAMES.FARM_PLANT_UNKNOWN
+msgctxt "NAMES.FARM_PLANT_UNKNOWN"
+msgid "Plant"
+msgstr ""
+
+#. NAMES.FARM_PLANT_WATERMELON
+msgctxt "NAMES.FARM_PLANT_WATERMELON"
+msgid "Watermelon Plant"
+msgstr ""
+
+#. NAMES.FARM_PLOW
+msgctxt "NAMES.FARM_PLOW"
+msgid "Garden Digamajig"
+msgstr ""
+
+#. NAMES.FARM_PLOW_ITEM
+msgctxt "NAMES.FARM_PLOW_ITEM"
+msgid "Garden Digamajig"
+msgstr ""
+
+#. NAMES.FARM_SOIL_DEBRIS
+msgctxt "NAMES.FARM_SOIL_DEBRIS"
+msgid "Garden Detritus"
+msgstr ""
+
+#. NAMES.FAST_FARMPLOT
+msgctxt "NAMES.FAST_FARMPLOT"
+msgid "Improved Farm"
+msgstr ""
+
+#. NAMES.FEATHERFAN
+msgctxt "NAMES.FEATHERFAN"
+msgid "Luxury Fan"
+msgstr ""
+
+#. NAMES.FEATHERHAT
+msgctxt "NAMES.FEATHERHAT"
+msgid "Feather Hat"
+msgstr ""
+
+#. NAMES.FEATHERPENCIL
+msgctxt "NAMES.FEATHERPENCIL"
+msgid "Feather Pencil"
+msgstr ""
+
+#. NAMES.FEATHER_CANARY
+msgctxt "NAMES.FEATHER_CANARY"
+msgid "Saffron Feather"
+msgstr ""
+
+#. NAMES.FEATHER_CROW
+msgctxt "NAMES.FEATHER_CROW"
+msgid "Jet Feather"
+msgstr ""
+
+#. NAMES.FEATHER_ROBIN
+msgctxt "NAMES.FEATHER_ROBIN"
+msgid "Crimson Feather"
+msgstr ""
+
+#. NAMES.FEATHER_ROBIN_WINTER
+msgctxt "NAMES.FEATHER_ROBIN_WINTER"
+msgid "Azure Feather"
+msgstr ""
+
+#. NAMES.FENCE
+msgctxt "NAMES.FENCE"
+msgid "Wood Fence"
+msgstr ""
+
+#. NAMES.FENCE_GATE
+msgctxt "NAMES.FENCE_GATE"
+msgid "Wood Gate"
+msgstr ""
+
+#. NAMES.FENCE_GATE_ITEM
+msgctxt "NAMES.FENCE_GATE_ITEM"
+msgid "Wood Gate"
+msgstr ""
+
+#. NAMES.FENCE_ITEM
+msgctxt "NAMES.FENCE_ITEM"
+msgid "Wood Fence"
+msgstr ""
+
+#. NAMES.FERTILIZER
+msgctxt "NAMES.FERTILIZER"
+msgid "Bucket-o-poop"
+msgstr ""
+
+#. NAMES.FESTIVEFISH
+msgctxt "NAMES.FESTIVEFISH"
+msgid "Festive Fish Dish"
+msgstr ""
+
+#. NAMES.FESTIVE_BLUEPRINT
+msgctxt "NAMES.FESTIVE_BLUEPRINT"
+msgid "Festive Costume Pattern"
+msgstr ""
+
+#. NAMES.FIG
+msgctxt "NAMES.FIG"
+msgid "Fig"
+msgstr ""
+
+#. NAMES.FIGATONI
+msgctxt "NAMES.FIGATONI"
+msgid "Figatoni"
+msgstr ""
+
+#. NAMES.FIGKABAB
+msgctxt "NAMES.FIGKABAB"
+msgid "Figkabab"
+msgstr ""
+
+#. NAMES.FIG_COOKED
+msgctxt "NAMES.FIG_COOKED"
+msgid "Cooked Fig"
+msgstr ""
+
+#. NAMES.FIRE
+msgctxt "NAMES.FIRE"
+msgid "Fire"
+msgstr ""
+
+#. NAMES.FIREBALLSTAFF
+msgctxt "NAMES.FIREBALLSTAFF"
+msgid "Infernal Staff"
+msgstr ""
+
+#. NAMES.FIRECRACKERS
+msgctxt "NAMES.FIRECRACKERS"
+msgid "Red Firecrackers"
+msgstr ""
+
+#. NAMES.FIREFLIES
+msgctxt "NAMES.FIREFLIES"
+msgid "Fireflies"
+msgstr ""
+
+#. NAMES.FIREHOUND
+msgctxt "NAMES.FIREHOUND"
+msgid "Red Hound"
+msgstr ""
+
+#. NAMES.FIRENETTLES
+msgctxt "NAMES.FIRENETTLES"
+msgid "Fire Nettle Fronds"
+msgstr ""
+
+#. NAMES.FIREPIT
+msgctxt "NAMES.FIREPIT"
+msgid "Fire Pit"
+msgstr ""
+
+#. NAMES.FIRESTAFF
+msgctxt "NAMES.FIRESTAFF"
+msgid "Fire Staff"
+msgstr ""
+
+#. NAMES.FIRESUPPRESSOR
+msgctxt "NAMES.FIRESUPPRESSOR"
+msgid "Ice Flingomatic"
+msgstr ""
+
+#. NAMES.FISH
+msgctxt "NAMES.FISH"
+msgid "Fish"
+msgstr ""
+
+#. NAMES.FISHINGNET
+msgctxt "NAMES.FISHINGNET"
+msgid "Fishing Net"
+msgstr ""
+
+#. NAMES.FISHINGROD
+msgctxt "NAMES.FISHINGROD"
+msgid "Freshwater Fishing Rod"
+msgstr ""
+
+#. NAMES.FISHMEAT
+msgctxt "NAMES.FISHMEAT"
+msgid "Raw Fish"
+msgstr ""
+
+#. NAMES.FISHMEAT_COOKED
+msgctxt "NAMES.FISHMEAT_COOKED"
+msgid "Fish Steak"
+msgstr ""
+
+#. NAMES.FISHMEAT_SMALL
+msgctxt "NAMES.FISHMEAT_SMALL"
+msgid "Fish Morsel"
+msgstr ""
+
+#. NAMES.FISHMEAT_SMALL_COOKED
+msgctxt "NAMES.FISHMEAT_SMALL_COOKED"
+msgid "Cooked Fish Morsel"
+msgstr ""
+
+#. NAMES.FISHSTICKS
+msgctxt "NAMES.FISHSTICKS"
+msgid "Fishsticks"
+msgstr ""
+
+#. NAMES.FISHTACOS
+msgctxt "NAMES.FISHTACOS"
+msgid "Fish Tacos"
+msgstr ""
+
+#. NAMES.FISH_BOX
+msgctxt "NAMES.FISH_BOX"
+msgid "Tin Fishin' Bin"
+msgstr ""
+
+#. NAMES.FISH_COOKED
+msgctxt "NAMES.FISH_COOKED"
+msgid "Cooked Fish"
+msgstr ""
+
+#. NAMES.FLINT
+msgctxt "NAMES.FLINT"
+msgid "Flint"
+msgstr ""
+
+#. NAMES.FLOWER
+msgctxt "NAMES.FLOWER"
+msgid "Flower"
+msgstr ""
+
+#. NAMES.FLOWERHAT
+msgctxt "NAMES.FLOWERHAT"
+msgid "Garland"
+msgstr ""
+
+#. NAMES.FLOWERSALAD
+msgctxt "NAMES.FLOWERSALAD"
+msgid "Flower Salad"
+msgstr ""
+
+#. NAMES.FLOWER_CAVE
+msgctxt "NAMES.FLOWER_CAVE"
+msgid "Light Flower"
+msgstr ""
+
+#. NAMES.FLOWER_EVIL
+msgctxt "NAMES.FLOWER_EVIL"
+msgid "Evil Flower"
+msgstr ""
+
+#. NAMES.FLOWER_WITHERED
+msgctxt "NAMES.FLOWER_WITHERED"
+msgid "Withered Flower"
+msgstr ""
+
+#. NAMES.FOLIAGE
+msgctxt "NAMES.FOLIAGE"
+msgid "Foliage"
+msgstr ""
+
+#. NAMES.FOOTBALLHAT
+msgctxt "NAMES.FOOTBALLHAT"
+msgid "Football Helmet"
+msgstr ""
+
+#. NAMES.FORGETMELOTS
+msgctxt "NAMES.FORGETMELOTS"
+msgid "Forget-Me-Lots"
+msgstr ""
+
+#. NAMES.FORMAL_BLUEPRINT
+msgctxt "NAMES.FORMAL_BLUEPRINT"
+msgid "Formal Costume Pattern"
+msgstr ""
+
+#. NAMES.FOSSILSPIKE
+msgctxt "NAMES.FOSSILSPIKE"
+msgid "Fossil Cage"
+msgstr ""
+
+#. NAMES.FOSSIL_PIECE
+msgctxt "NAMES.FOSSIL_PIECE"
+msgid "Fossil Fragments"
+msgstr ""
+
+#. NAMES.FOSSIL_STALKER
+msgctxt "NAMES.FOSSIL_STALKER"
+msgid "Odd Skeleton"
+msgstr ""
+
+#. NAMES.FRESHFRUITCREPES
+msgctxt "NAMES.FRESHFRUITCREPES"
+msgid "Fresh Fruit Crepes"
+msgstr ""
+
+#. NAMES.FRIENDLYFRUITFLY
+msgctxt "NAMES.FRIENDLYFRUITFLY"
+msgid "Friendly Fruit Fly"
+msgstr ""
+
+#. NAMES.FROG
+msgctxt "NAMES.FROG"
+msgid "Frog"
+msgstr ""
+
+#. NAMES.FROGFISHBOWL
+msgctxt "NAMES.FROGFISHBOWL"
+msgid "Fish Cordon Bleu"
+msgstr ""
+
+#. NAMES.FROGGLEBUNWICH
+msgctxt "NAMES.FROGGLEBUNWICH"
+msgid "Froggle Bunwich"
+msgstr ""
+
+#. NAMES.FROGLEGS
+msgctxt "NAMES.FROGLEGS"
+msgid "Frog Legs"
+msgstr ""
+
+#. NAMES.FROGLEGS_COOKED
+msgctxt "NAMES.FROGLEGS_COOKED"
+msgid "Cooked Frog Legs"
+msgstr ""
+
+#. NAMES.FROGNEWTON
+msgctxt "NAMES.FROGNEWTON"
+msgid "Figgy Frogwich"
+msgstr ""
+
+#. NAMES.FROZENBANANADAIQUIRI
+msgctxt "NAMES.FROZENBANANADAIQUIRI"
+msgid "Frozen Banana Daiquiri"
+msgstr ""
+
+#. NAMES.FRUITDRAGON
+msgctxt "NAMES.FRUITDRAGON"
+msgid "Saladmander"
+msgstr ""
+
+#. NAMES.FRUITFLY
+msgctxt "NAMES.FRUITFLY"
+msgid "Fruit Fly"
+msgstr ""
+
+#. NAMES.FRUITFLYFRUIT
+msgctxt "NAMES.FRUITFLYFRUIT"
+msgid "Friendly Fruit Fly Fruit"
+msgstr ""
+
+#. NAMES.FRUITMEDLEY
+msgctxt "NAMES.FRUITMEDLEY"
+msgid "Fruit Medley"
+msgstr ""
+
+#. NAMES.FURTUFT
+msgctxt "NAMES.FURTUFT"
+msgid "Fur Tuft"
+msgstr ""
+
+#. NAMES.GARGOYLE_HOUND
+msgctxt "NAMES.GARGOYLE_HOUND"
+msgid "Suspicious Moonrock"
+msgstr ""
+
+#. NAMES.GARGOYLE_WEREPIG
+msgctxt "NAMES.GARGOYLE_WEREPIG"
+msgid "Suspicious Moonrock"
+msgstr ""
+
+#. NAMES.GARLIC
+msgctxt "NAMES.GARLIC"
+msgid "Garlic"
+msgstr ""
+
+#. NAMES.GARLIC_COOKED
+msgctxt "NAMES.GARLIC_COOKED"
+msgid "Roasted Garlic"
+msgstr ""
+
+#. NAMES.GARLIC_OVERSIZED
+msgctxt "NAMES.GARLIC_OVERSIZED"
+msgid "Giant Garlic"
+msgstr ""
+
+#. NAMES.GARLIC_OVERSIZED_ROTTEN
+msgctxt "NAMES.GARLIC_OVERSIZED_ROTTEN"
+msgid "Giant Rotting Garlic"
+msgstr ""
+
+#. NAMES.GARLIC_SEEDS
+msgctxt "NAMES.GARLIC_SEEDS"
+msgid "Seed Pods"
+msgstr ""
+
+#. NAMES.GAZPACHO
+msgctxt "NAMES.GAZPACHO"
+msgid "Asparagazpacho"
+msgstr ""
+
+#. NAMES.GEARS
+msgctxt "NAMES.GEARS"
+msgid "Gears"
+msgstr ""
+
+#. NAMES.GEMSOCKET
+msgctxt "NAMES.GEMSOCKET"
+msgid "Gem Stand"
+msgstr ""
+
+#. NAMES.GESTALT
+msgctxt "NAMES.GESTALT"
+msgid "Gestalt"
+msgstr ""
+
+#. NAMES.GESTALT_ALTERGUARDIAN_PROJECTILE
+msgctxt "NAMES.GESTALT_ALTERGUARDIAN_PROJECTILE"
+msgid "Gestalt"
+msgstr ""
+
+#. NAMES.GESTALT_GUARD
+msgctxt "NAMES.GESTALT_GUARD"
+msgid "Greater Gestalt"
+msgstr ""
+
+#. NAMES.GHOST
+msgctxt "NAMES.GHOST"
+msgid "Ghost"
+msgstr ""
+
+#. NAMES.GHOSTFLOWER
+msgctxt "NAMES.GHOSTFLOWER"
+msgid "Mourning Glory"
+msgstr ""
+
+#. NAMES.GHOSTLYELIXIR_ATTACK
+msgctxt "NAMES.GHOSTLYELIXIR_ATTACK"
+msgid "Nightshade Nostrum"
+msgstr ""
+
+#. NAMES.GHOSTLYELIXIR_FASTREGEN
+msgctxt "NAMES.GHOSTLYELIXIR_FASTREGEN"
+msgid "Spectral Cure-All"
+msgstr ""
+
+#. NAMES.GHOSTLYELIXIR_RETALIATION
+msgctxt "NAMES.GHOSTLYELIXIR_RETALIATION"
+msgid "Distilled Vengeance"
+msgstr ""
+
+#. NAMES.GHOSTLYELIXIR_SHIELD
+msgctxt "NAMES.GHOSTLYELIXIR_SHIELD"
+msgid "Unyielding Draught"
+msgstr ""
+
+#. NAMES.GHOSTLYELIXIR_SLOWREGEN
+msgctxt "NAMES.GHOSTLYELIXIR_SLOWREGEN"
+msgid "Revenant Restorative"
+msgstr ""
+
+#. NAMES.GHOSTLYELIXIR_SPEED
+msgctxt "NAMES.GHOSTLYELIXIR_SPEED"
+msgid "Vigor Mortis"
+msgstr ""
+
+#. NAMES.GIFT
+msgctxt "NAMES.GIFT"
+msgid "Gift"
+msgstr ""
+
+#. NAMES.GIFTWRAP
+msgctxt "NAMES.GIFTWRAP"
+msgid "Gift Wrap"
+msgstr ""
+
+#. NAMES.GINGERBREADHOUSE
+msgctxt "NAMES.GINGERBREADHOUSE"
+msgid "Gingerbread Pig House"
+msgstr ""
+
+#. NAMES.GINGERBREADPIG
+msgctxt "NAMES.GINGERBREADPIG"
+msgid "Gingerbread Pig"
+msgstr ""
+
+#. NAMES.GINGERBREADWARG
+msgctxt "NAMES.GINGERBREADWARG"
+msgid "Gingerbread Varg"
+msgstr ""
+
+#. NAMES.GINGERDEADPIG
+msgctxt "NAMES.GINGERDEADPIG"
+msgid "Gingerbread Pig"
+msgstr ""
+
+#. NAMES.GLASSBLOCK
+msgctxt "NAMES.GLASSBLOCK"
+msgid "Glass Castle"
+msgstr ""
+
+#. NAMES.GLASSCUTTER
+msgctxt "NAMES.GLASSCUTTER"
+msgid "Glass Cutter"
+msgstr ""
+
+#. NAMES.GLASSCUTTER_BLUEPRINT
+msgctxt "NAMES.GLASSCUTTER_BLUEPRINT"
+msgid "Glass Cutter Blueprint"
+msgstr ""
+
+#. NAMES.GLASSSPIKE
+msgctxt "NAMES.GLASSSPIKE"
+msgid "Glass Spike"
+msgstr ""
+
+#. NAMES.GLOMMER
+msgctxt "NAMES.GLOMMER"
+msgid "Glommer"
+msgstr ""
+
+#. NAMES.GLOMMERFLOWER
+msgctxt "NAMES.GLOMMERFLOWER"
+msgid "Glommer's Flower"
+msgstr ""
+
+#. NAMES.GLOMMERFUEL
+msgctxt "NAMES.GLOMMERFUEL"
+msgid "Glommer's Goop"
+msgstr ""
+
+#. NAMES.GLOMMERWINGS
+msgctxt "NAMES.GLOMMERWINGS"
+msgid "Glommer's Wings"
+msgstr ""
+
+#. NAMES.GLOWBERRYMOUSSE
+msgctxt "NAMES.GLOWBERRYMOUSSE"
+msgid "Glow Berry Mousse"
+msgstr ""
+
+#. NAMES.GNARWAIL
+msgctxt "NAMES.GNARWAIL"
+msgid "Gnarwail"
+msgstr ""
+
+#. NAMES.GNARWAIL_HORN
+msgctxt "NAMES.GNARWAIL_HORN"
+msgid "Gnarwail Horn"
+msgstr ""
+
+#. NAMES.GOATMILK
+msgctxt "NAMES.GOATMILK"
+msgid "Electric Milk"
+msgstr ""
+
+#. NAMES.GOGGLESHAT
+msgctxt "NAMES.GOGGLESHAT"
+msgid "Fashion Goggles"
+msgstr ""
+
+#. NAMES.GOLDENAXE
+msgctxt "NAMES.GOLDENAXE"
+msgid "Luxury Axe"
+msgstr ""
+
+#. NAMES.GOLDENPICKAXE
+msgctxt "NAMES.GOLDENPICKAXE"
+msgid "Opulent Pickaxe"
+msgstr ""
+
+#. NAMES.GOLDENPITCHFORK
+msgctxt "NAMES.GOLDENPITCHFORK"
+msgid "Snazzy Pitchfork"
+msgstr ""
+
+#. NAMES.GOLDENSHOVEL
+msgctxt "NAMES.GOLDENSHOVEL"
+msgid "Regal Shovel"
+msgstr ""
+
+#. NAMES.GOLDEN_FARM_HOE
+msgctxt "NAMES.GOLDEN_FARM_HOE"
+msgid "Splendid Garden Hoe"
+msgstr ""
+
+#. NAMES.GOLDNUGGET
+msgctxt "NAMES.GOLDNUGGET"
+msgid "Gold Nugget"
+msgstr ""
+
+#. NAMES.GOOSE_FEATHER
+msgctxt "NAMES.GOOSE_FEATHER"
+msgid "Down Feather"
+msgstr ""
+
+#. NAMES.GRASS
+msgctxt "NAMES.GRASS"
+msgid "Grass"
+msgstr ""
+
+#. NAMES.GRASSGATOR
+msgctxt "NAMES.GRASSGATOR"
+msgid "Grass Gator"
+msgstr ""
+
+#. NAMES.GRASSGEKKO
+msgctxt "NAMES.GRASSGEKKO"
+msgid "Grass Gekko"
+msgstr ""
+
+#. NAMES.GRASS_UMBRELLA
+msgctxt "NAMES.GRASS_UMBRELLA"
+msgid "Pretty Parasol"
+msgstr ""
+
+#. NAMES.GRAVESTONE
+msgctxt "NAMES.GRAVESTONE"
+msgid "Headstone"
+msgstr ""
+
+#. NAMES.GRAVY
+msgctxt "NAMES.GRAVY"
+msgid "Good Gravy"
+msgstr ""
+
+#. NAMES.GREENAMULET
+msgctxt "NAMES.GREENAMULET"
+msgid "Construction Amulet"
+msgstr ""
+
+#. NAMES.GREENGEM
+msgctxt "NAMES.GREENGEM"
+msgid "Green Gem"
+msgstr ""
+
+#. NAMES.GREENMOONEYE
+msgctxt "NAMES.GREENMOONEYE"
+msgid "Green Moonlens"
+msgstr ""
+
+#. NAMES.GREENSTAFF
+msgctxt "NAMES.GREENSTAFF"
+msgid "Deconstruction Staff"
+msgstr ""
+
+#. NAMES.GREEN_CAP
+msgctxt "NAMES.GREEN_CAP"
+msgid "Green Cap"
+msgstr ""
+
+#. NAMES.GREEN_CAP_COOKED
+msgctxt "NAMES.GREEN_CAP_COOKED"
+msgid "Cooked Green Cap"
+msgstr ""
+
+#. NAMES.GREEN_MUSHROOM
+msgctxt "NAMES.GREEN_MUSHROOM"
+msgid "Green Mushroom"
+msgstr ""
+
+#. NAMES.GREEN_MUSHROOMHAT
+msgctxt "NAMES.GREEN_MUSHROOMHAT"
+msgid "Green Funcap"
+msgstr ""
+
+#. NAMES.GROTTO_POOL_BIG
+msgctxt "NAMES.GROTTO_POOL_BIG"
+msgid "Vitreoasis"
+msgstr ""
+
+#. NAMES.GROTTO_POOL_SMALL
+msgctxt "NAMES.GROTTO_POOL_SMALL"
+msgid "Small Vitreoasis"
+msgstr ""
+
+#. NAMES.GUACAMOLE
+msgctxt "NAMES.GUACAMOLE"
+msgid "Guacamole"
+msgstr ""
+
+#. NAMES.GUANO
+msgctxt "NAMES.GUANO"
+msgid "Guano"
+msgstr ""
+
+#. NAMES.GUNPOWDER
+msgctxt "NAMES.GUNPOWDER"
+msgid "Gunpowder"
+msgstr ""
+
+#. NAMES.HALF_HEALTH
+msgctxt "NAMES.HALF_HEALTH"
+msgid "Maximum Health"
+msgstr ""
+
+#. NAMES.HALF_SANITY
+msgctxt "NAMES.HALF_SANITY"
+msgid "Maximum Sanity"
+msgstr ""
+
+#. NAMES.HALLOWEENCANDY_1
+msgctxt "NAMES.HALLOWEENCANDY_1"
+msgid "Candy Apple"
+msgstr ""
+
+#. NAMES.HALLOWEENCANDY_10
+msgctxt "NAMES.HALLOWEENCANDY_10"
+msgid "Tentacle Lolli"
+msgstr ""
+
+#. NAMES.HALLOWEENCANDY_11
+msgctxt "NAMES.HALLOWEENCANDY_11"
+msgid "Choco Pigs"
+msgstr ""
+
+#. NAMES.HALLOWEENCANDY_12
+msgctxt "NAMES.HALLOWEENCANDY_12"
+msgid "Candy Lice"
+msgstr ""
+
+#. NAMES.HALLOWEENCANDY_13
+msgctxt "NAMES.HALLOWEENCANDY_13"
+msgid "Otherworldly Jawbreaker"
+msgstr ""
+
+#. NAMES.HALLOWEENCANDY_14
+msgctxt "NAMES.HALLOWEENCANDY_14"
+msgid "Lava Pepper"
+msgstr ""
+
+#. NAMES.HALLOWEENCANDY_2
+msgctxt "NAMES.HALLOWEENCANDY_2"
+msgid "Candy Corn"
+msgstr ""
+
+#. NAMES.HALLOWEENCANDY_3
+msgctxt "NAMES.HALLOWEENCANDY_3"
+msgid "Not-So-Candy Corn"
+msgstr ""
+
+#. NAMES.HALLOWEENCANDY_4
+msgctxt "NAMES.HALLOWEENCANDY_4"
+msgid "Gummy Spider"
+msgstr ""
+
+#. NAMES.HALLOWEENCANDY_5
+msgctxt "NAMES.HALLOWEENCANDY_5"
+msgid "Catcoon Candy"
+msgstr ""
+
+#. NAMES.HALLOWEENCANDY_6
+msgctxt "NAMES.HALLOWEENCANDY_6"
+msgid "\"Raisins\""
+msgstr ""
+
+#. NAMES.HALLOWEENCANDY_7
+msgctxt "NAMES.HALLOWEENCANDY_7"
+msgid "Raisins"
+msgstr ""
+
+#. NAMES.HALLOWEENCANDY_8
+msgctxt "NAMES.HALLOWEENCANDY_8"
+msgid "Ghost Pop"
+msgstr ""
+
+#. NAMES.HALLOWEENCANDY_9
+msgctxt "NAMES.HALLOWEENCANDY_9"
+msgid "Jelly Worm"
+msgstr ""
+
+#. NAMES.HALLOWEENPOTION_BRAVERY_LARGE
+msgctxt "NAMES.HALLOWEENPOTION_BRAVERY_LARGE"
+msgid "Brew of Phobic Abrogation"
+msgstr ""
+
+#. NAMES.HALLOWEENPOTION_BRAVERY_SMALL
+msgctxt "NAMES.HALLOWEENPOTION_BRAVERY_SMALL"
+msgid "Brew of Phobic Abatement"
+msgstr ""
+
+#. NAMES.HALLOWEENPOTION_EMBERS
+msgctxt "NAMES.HALLOWEENPOTION_EMBERS"
+msgid "Sulfuric Crystals of Lime"
+msgstr ""
+
+#. NAMES.HALLOWEENPOTION_HEALTH_LARGE
+msgctxt "NAMES.HALLOWEENPOTION_HEALTH_LARGE"
+msgid "Canteen of Sanguine Mixture"
+msgstr ""
+
+#. NAMES.HALLOWEENPOTION_HEALTH_SMALL
+msgctxt "NAMES.HALLOWEENPOTION_HEALTH_SMALL"
+msgid "Flask of Sanguine Mixture"
+msgstr ""
+
+#. NAMES.HALLOWEENPOTION_MOON
+msgctxt "NAMES.HALLOWEENPOTION_MOON"
+msgid "Steeped Lunar Essence"
+msgstr ""
+
+#. NAMES.HALLOWEENPOTION_SANITY_LARGE
+msgctxt "NAMES.HALLOWEENPOTION_SANITY_LARGE"
+msgid "Tumblerful of Psychic Fortitude"
+msgstr ""
+
+#. NAMES.HALLOWEENPOTION_SANITY_SMALL
+msgctxt "NAMES.HALLOWEENPOTION_SANITY_SMALL"
+msgid "Dram of Psychic Fortitude"
+msgstr ""
+
+#. NAMES.HALLOWEENPOTION_SPARKS
+msgctxt "NAMES.HALLOWEENPOTION_SPARKS"
+msgid "Sulfuric Crystals of Saltpeter"
+msgstr ""
+
+#. NAMES.HALLOWEEN_EXPERIMENT_BRAVERY
+msgctxt "NAMES.HALLOWEEN_EXPERIMENT_BRAVERY"
+msgid "Phobic Experiment"
+msgstr ""
+
+#. NAMES.HALLOWEEN_EXPERIMENT_HEALTH
+msgctxt "NAMES.HALLOWEEN_EXPERIMENT_HEALTH"
+msgid "Sanguine Experiment"
+msgstr ""
+
+#. NAMES.HALLOWEEN_EXPERIMENT_MOON
+msgctxt "NAMES.HALLOWEEN_EXPERIMENT_MOON"
+msgid "Lunar Experiment"
+msgstr ""
+
+#. NAMES.HALLOWEEN_EXPERIMENT_ROOT
+msgctxt "NAMES.HALLOWEEN_EXPERIMENT_ROOT"
+msgid "Arboretum Experiment"
+msgstr ""
+
+#. NAMES.HALLOWEEN_EXPERIMENT_SANITY
+msgctxt "NAMES.HALLOWEEN_EXPERIMENT_SANITY"
+msgid "Psychosis Experiment"
+msgstr ""
+
+#. NAMES.HALLOWEEN_EXPERIMENT_VOLATILE
+msgctxt "NAMES.HALLOWEEN_EXPERIMENT_VOLATILE"
+msgid "Sulfuric Experiment"
+msgstr ""
+
+#. NAMES.HALLOWEEN_ORNAMENT_1
+msgctxt "NAMES.HALLOWEEN_ORNAMENT_1"
+msgid "Ghost Decoration"
+msgstr ""
+
+#. NAMES.HALLOWEEN_ORNAMENT_2
+msgctxt "NAMES.HALLOWEEN_ORNAMENT_2"
+msgid "Bat Decoration"
+msgstr ""
+
+#. NAMES.HALLOWEEN_ORNAMENT_3
+msgctxt "NAMES.HALLOWEEN_ORNAMENT_3"
+msgid "Spider Decoration"
+msgstr ""
+
+#. NAMES.HALLOWEEN_ORNAMENT_4
+msgctxt "NAMES.HALLOWEEN_ORNAMENT_4"
+msgid "Tentacle Decoration"
+msgstr ""
+
+#. NAMES.HALLOWEEN_ORNAMENT_5
+msgctxt "NAMES.HALLOWEEN_ORNAMENT_5"
+msgid "Dangling Depth Dweller Decoration"
+msgstr ""
+
+#. NAMES.HALLOWEEN_ORNAMENT_6
+msgctxt "NAMES.HALLOWEEN_ORNAMENT_6"
+msgid "Crow Decoration"
+msgstr ""
+
+#. NAMES.HAMBAT
+msgctxt "NAMES.HAMBAT"
+msgid "Ham Bat"
+msgstr ""
+
+#. NAMES.HAMMER
+msgctxt "NAMES.HAMMER"
+msgid "Hammer"
+msgstr ""
+
+#. NAMES.HAMMER_MJOLNIR
+msgctxt "NAMES.HAMMER_MJOLNIR"
+msgid "Forging Hammer"
+msgstr ""
+
+#. NAMES.HAWAIIANSHIRT
+msgctxt "NAMES.HAWAIIANSHIRT"
+msgid "Floral Shirt"
+msgstr ""
+
+#. NAMES.HEALINGSALVE
+msgctxt "NAMES.HEALINGSALVE"
+msgid "Healing Salve"
+msgstr ""
+
+#. NAMES.HEALINGSTAFF
+msgctxt "NAMES.HEALINGSTAFF"
+msgid "Living Staff"
+msgstr ""
+
+#. NAMES.HEATROCK
+msgctxt "NAMES.HEATROCK"
+msgid "Thermal Stone"
+msgstr ""
+
+#. NAMES.HERMITCRAB
+msgctxt "NAMES.HERMITCRAB"
+msgid "Crabby Hermit"
+msgstr ""
+
+#. NAMES.HERMITCRAB_NAME
+msgctxt "NAMES.HERMITCRAB_NAME"
+msgid "Pearl"
+msgstr ""
+
+#. NAMES.HERMITHOUSE
+msgctxt "NAMES.HERMITHOUSE"
+msgid "Hermit Home"
+msgstr ""
+
+#. NAMES.HERMITHOUSE_PEARL
+msgctxt "NAMES.HERMITHOUSE_PEARL"
+msgid "Pearl's Place"
+msgstr ""
+
+#. NAMES.HERMIT_BUNDLE
+msgctxt "NAMES.HERMIT_BUNDLE"
+msgid "Bundle of Thanks"
+msgstr ""
+
+#. NAMES.HERMIT_BUNDLE_SHELLS
+msgctxt "NAMES.HERMIT_BUNDLE_SHELLS"
+msgid "Shell Bell Bundle"
+msgstr ""
+
+#. NAMES.HERMIT_CRACKED_PEARL
+msgctxt "NAMES.HERMIT_CRACKED_PEARL"
+msgid "Cracked Pearl"
+msgstr ""
+
+#. NAMES.HERMIT_PEARL
+msgctxt "NAMES.HERMIT_PEARL"
+msgid "Pearl's Pearl"
+msgstr ""
+
+#. NAMES.HIVEHAT
+msgctxt "NAMES.HIVEHAT"
+msgid "Bee Queen Crown"
+msgstr ""
+
+#. NAMES.HOMESIGN
+msgctxt "NAMES.HOMESIGN"
+msgid "Sign"
+msgstr ""
+
+#. NAMES.HONEY
+msgctxt "NAMES.HONEY"
+msgid "Honey"
+msgstr ""
+
+#. NAMES.HONEYCOMB
+msgctxt "NAMES.HONEYCOMB"
+msgid "Honeycomb"
+msgstr ""
+
+#. NAMES.HONEYHAM
+msgctxt "NAMES.HONEYHAM"
+msgid "Honey Ham"
+msgstr ""
+
+#. NAMES.HONEYNUGGETS
+msgctxt "NAMES.HONEYNUGGETS"
+msgid "Honey Nuggets"
+msgstr ""
+
+#. NAMES.HORN
+msgctxt "NAMES.HORN"
+msgid "Beefalo Horn"
+msgstr ""
+
+#. NAMES.HOT
+msgctxt "NAMES.HOT"
+msgid "Overheating"
+msgstr ""
+
+#. NAMES.HOTCHILI
+msgctxt "NAMES.HOTCHILI"
+msgid "Spicy Chili"
+msgstr ""
+
+#. NAMES.HOTSPRING
+msgctxt "NAMES.HOTSPRING"
+msgid "Hot Spring"
+msgstr ""
+
+#. NAMES.HOUND
+msgctxt "NAMES.HOUND"
+msgid "Hound"
+msgstr ""
+
+#. NAMES.HOUNDBONE
+msgctxt "NAMES.HOUNDBONE"
+msgid "Bones"
+msgstr ""
+
+#. NAMES.HOUNDCORPSE
+msgctxt "NAMES.HOUNDCORPSE"
+msgid "Hound"
+msgstr ""
+
+#. NAMES.HOUNDFIRE
+msgctxt "NAMES.HOUNDFIRE"
+msgid "Fire"
+msgstr ""
+
+#. NAMES.HOUNDMOUND
+msgctxt "NAMES.HOUNDMOUND"
+msgid "Hound Mound"
+msgstr ""
+
+#. NAMES.HOUNDSTOOTH
+msgctxt "NAMES.HOUNDSTOOTH"
+msgid "Hound's Tooth"
+msgstr ""
+
+#. NAMES.HOUNDWHISTLE
+msgctxt "NAMES.HOUNDWHISTLE"
+msgid "Lucky Whistle"
+msgstr ""
+
+#. NAMES.HUMANMEAT
+msgctxt "NAMES.HUMANMEAT"
+msgid "Long Pig"
+msgstr ""
+
+#. NAMES.HUMANMEAT_COOKED
+msgctxt "NAMES.HUMANMEAT_COOKED"
+msgid "Cooked Long Pig"
+msgstr ""
+
+#. NAMES.HUMANMEAT_DRIED
+msgctxt "NAMES.HUMANMEAT_DRIED"
+msgid "Long Pig Jerky"
+msgstr ""
+
+#. NAMES.HUNGER
+msgctxt "NAMES.HUNGER"
+msgid "Starvation"
+msgstr ""
+
+#. NAMES.HUTCH
+msgctxt "NAMES.HUTCH"
+msgid "Hutch"
+msgstr ""
+
+#. NAMES.HUTCH_FISHBOWL
+msgctxt "NAMES.HUTCH_FISHBOWL"
+msgid "Star-sky"
+msgstr ""
+
+#. NAMES.ICE
+msgctxt "NAMES.ICE"
+msgid "Ice"
+msgstr ""
+
+#. NAMES.ICEBERG
+msgctxt "NAMES.ICEBERG"
+msgid "Mini Iceberg"
+msgstr ""
+
+#. NAMES.ICEBERG_MELTED
+msgctxt "NAMES.ICEBERG_MELTED"
+msgid "Melted Iceberg"
+msgstr ""
+
+#. NAMES.ICEBOX
+msgctxt "NAMES.ICEBOX"
+msgid "Ice Box"
+msgstr ""
+
+#. NAMES.ICECREAM
+msgctxt "NAMES.ICECREAM"
+msgid "Ice Cream"
+msgstr ""
+
+#. NAMES.ICEHAT
+msgctxt "NAMES.ICEHAT"
+msgid "Ice Cube"
+msgstr ""
+
+#. NAMES.ICEHOUND
+msgctxt "NAMES.ICEHOUND"
+msgid "Blue Hound"
+msgstr ""
+
+#. NAMES.ICEPACK
+msgctxt "NAMES.ICEPACK"
+msgid "Insulated Pack"
+msgstr ""
+
+#. NAMES.ICESTAFF
+msgctxt "NAMES.ICESTAFF"
+msgid "Ice Staff"
+msgstr ""
+
+#. NAMES.ICE_BLUEPRINT
+msgctxt "NAMES.ICE_BLUEPRINT"
+msgid "Frostbitten Costume Pattern"
+msgstr ""
+
+#. NAMES.INSANITYROCK
+msgctxt "NAMES.INSANITYROCK"
+msgid "Obelisk"
+msgstr ""
+
+#. NAMES.IVY_SNARE
+msgctxt "NAMES.IVY_SNARE"
+msgid "Binding Roots"
+msgstr ""
+
+#. NAMES.JAMMYPRESERVES
+msgctxt "NAMES.JAMMYPRESERVES"
+msgid "Fist Full of Jam"
+msgstr ""
+
+#. NAMES.JELLYBEAN
+msgctxt "NAMES.JELLYBEAN"
+msgid "Jellybeans"
+msgstr ""
+
+#. NAMES.KABOBS
+msgctxt "NAMES.KABOBS"
+msgid "Kabobs"
+msgstr ""
+
+#. NAMES.KELP
+msgctxt "NAMES.KELP"
+msgid "Kelp Fronds"
+msgstr ""
+
+#. NAMES.KELPHAT
+msgctxt "NAMES.KELPHAT"
+msgid "Seawreath"
+msgstr ""
+
+#. NAMES.KELP_COOKED
+msgctxt "NAMES.KELP_COOKED"
+msgid "Cooked Kelp Fronds"
+msgstr ""
+
+#. NAMES.KELP_DRIED
+msgctxt "NAMES.KELP_DRIED"
+msgid "Dried Kelp Fronds"
+msgstr ""
+
+#. NAMES.KILLERBEE
+msgctxt "NAMES.KILLERBEE"
+msgid "Killer Bee"
+msgstr ""
+
+#. NAMES.KITCOONDECOR1
+msgctxt "NAMES.KITCOONDECOR1"
+msgid "Gobbler Wobbler"
+msgstr ""
+
+#. NAMES.KITCOONDECOR1_KIT
+msgctxt "NAMES.KITCOONDECOR1_KIT"
+msgid "Gobbler Wobbler Kit"
+msgstr ""
+
+#. NAMES.KITCOONDECOR2
+msgctxt "NAMES.KITCOONDECOR2"
+msgid "Kit Teaser"
+msgstr ""
+
+#. NAMES.KITCOONDECOR2_KIT
+msgctxt "NAMES.KITCOONDECOR2_KIT"
+msgid "Kit Teaser Kit"
+msgstr ""
+
+#. NAMES.KITCOONDEN
+msgctxt "NAMES.KITCOONDEN"
+msgid "Kitcoon Nursery"
+msgstr ""
+
+#. NAMES.KITCOONDEN_KIT
+msgctxt "NAMES.KITCOONDEN_KIT"
+msgid "Kitcoon Nursery Kit"
+msgstr ""
+
+#. NAMES.KITCOON_DECIDUOUS
+msgctxt "NAMES.KITCOON_DECIDUOUS"
+msgid "Kitcoon"
+msgstr ""
+
+#. NAMES.KITCOON_DESERT
+msgctxt "NAMES.KITCOON_DESERT"
+msgid "Kitcoon"
+msgstr ""
+
+#. NAMES.KITCOON_FOREST
+msgctxt "NAMES.KITCOON_FOREST"
+msgid "Kitcoon"
+msgstr ""
+
+#. NAMES.KITCOON_GRASS
+msgctxt "NAMES.KITCOON_GRASS"
+msgid "Kitcoon"
+msgstr ""
+
+#. NAMES.KITCOON_MARSH
+msgctxt "NAMES.KITCOON_MARSH"
+msgid "Kitcoon"
+msgstr ""
+
+#. NAMES.KITCOON_MOON
+msgctxt "NAMES.KITCOON_MOON"
+msgid "Kitcoon"
+msgstr ""
+
+#. NAMES.KITCOON_NAMETAG
+msgctxt "NAMES.KITCOON_NAMETAG"
+msgid "Kit Collar"
+msgstr ""
+
+#. NAMES.KITCOON_ROCKY
+msgctxt "NAMES.KITCOON_ROCKY"
+msgid "Kitcoon"
+msgstr ""
+
+#. NAMES.KITCOON_SAVANNA
+msgctxt "NAMES.KITCOON_SAVANNA"
+msgid "Kitcoon"
+msgstr ""
+
+#. NAMES.KITCOON_YOT
+msgctxt "NAMES.KITCOON_YOT"
+msgid "Kitcoon"
+msgstr ""
+
+#. NAMES.KLAUS
+msgctxt "NAMES.KLAUS"
+msgid "Klaus"
+msgstr ""
+
+#. NAMES.KLAUSSACKKEY
+msgctxt "NAMES.KLAUSSACKKEY"
+msgid "Stag Antler"
+msgstr ""
+
+#. NAMES.KLAUS_SACK
+msgctxt "NAMES.KLAUS_SACK"
+msgid "Loot Stash"
+msgstr ""
+
+#. NAMES.KNIGHT
+msgctxt "NAMES.KNIGHT"
+msgid "Clockwork Knight"
+msgstr ""
+
+#. NAMES.KNIGHT_NIGHTMARE
+msgctxt "NAMES.KNIGHT_NIGHTMARE"
+msgid "Damaged Knight"
+msgstr ""
+
+#. NAMES.KNOWN_ASPARAGUS_SEEDS
+msgctxt "NAMES.KNOWN_ASPARAGUS_SEEDS"
+msgid "Asparagus Seeds"
+msgstr ""
+
+#. NAMES.KNOWN_CARROT_SEEDS
+msgctxt "NAMES.KNOWN_CARROT_SEEDS"
+msgid "Carrot Seeds"
+msgstr ""
+
+#. NAMES.KNOWN_CORN_SEEDS
+msgctxt "NAMES.KNOWN_CORN_SEEDS"
+msgid "Corn Seeds"
+msgstr ""
+
+#. NAMES.KNOWN_DRAGONFRUIT_SEEDS
+msgctxt "NAMES.KNOWN_DRAGONFRUIT_SEEDS"
+msgid "Dragon Fruit Seeds"
+msgstr ""
+
+#. NAMES.KNOWN_DURIAN_SEEDS
+msgctxt "NAMES.KNOWN_DURIAN_SEEDS"
+msgid "Durian Seeds"
+msgstr ""
+
+#. NAMES.KNOWN_EGGPLANT_SEEDS
+msgctxt "NAMES.KNOWN_EGGPLANT_SEEDS"
+msgid "Eggplant Seeds"
+msgstr ""
+
+#. NAMES.KNOWN_GARLIC_SEEDS
+msgctxt "NAMES.KNOWN_GARLIC_SEEDS"
+msgid "Garlic Seeds"
+msgstr ""
+
+#. NAMES.KNOWN_ONION_SEEDS
+msgctxt "NAMES.KNOWN_ONION_SEEDS"
+msgid "Onion Seeds"
+msgstr ""
+
+#. NAMES.KNOWN_PEPPER_SEEDS
+msgctxt "NAMES.KNOWN_PEPPER_SEEDS"
+msgid "Pepper Seeds"
+msgstr ""
+
+#. NAMES.KNOWN_POMEGRANATE_SEEDS
+msgctxt "NAMES.KNOWN_POMEGRANATE_SEEDS"
+msgid "Pomegranate Seeds"
+msgstr ""
+
+#. NAMES.KNOWN_POTATO_SEEDS
+msgctxt "NAMES.KNOWN_POTATO_SEEDS"
+msgid "Potato Seeds"
+msgstr ""
+
+#. NAMES.KNOWN_PUMPKIN_SEEDS
+msgctxt "NAMES.KNOWN_PUMPKIN_SEEDS"
+msgid "Pumpkin Seeds"
+msgstr ""
+
+#. NAMES.KNOWN_TOMATO_SEEDS
+msgctxt "NAMES.KNOWN_TOMATO_SEEDS"
+msgid "Toma Root Seeds"
+msgstr ""
+
+#. NAMES.KNOWN_TURNIP_SEEDS
+msgctxt "NAMES.KNOWN_TURNIP_SEEDS"
+msgid "Turnip Seeds"
+msgstr ""
+
+#. NAMES.KNOWN_WATERMELON_SEEDS
+msgctxt "NAMES.KNOWN_WATERMELON_SEEDS"
+msgid "Watermelon Seeds"
+msgstr ""
+
+#. NAMES.KOALEFANT_SUMMER
+msgctxt "NAMES.KOALEFANT_SUMMER"
+msgid "Koalefant"
+msgstr ""
+
+#. NAMES.KOALEFANT_WINTER
+msgctxt "NAMES.KOALEFANT_WINTER"
+msgid "Koalefant"
+msgstr ""
+
+#. NAMES.KOALEFIG_TRUNK
+msgctxt "NAMES.KOALEFIG_TRUNK"
+msgid "Fig-Stuffed Trunk"
+msgstr ""
+
+#. NAMES.KRAMPUS
+msgctxt "NAMES.KRAMPUS"
+msgid "Krampus"
+msgstr ""
+
+#. NAMES.KRAMPUS_SACK
+msgctxt "NAMES.KRAMPUS_SACK"
+msgid "Krampus Sack"
+msgstr ""
+
+#. NAMES.LANTERN
+msgctxt "NAMES.LANTERN"
+msgid "Lantern"
+msgstr ""
+
+#. NAMES.LARGEGUARD_ALTERGUARDIAN_PROJECTILE
+msgctxt "NAMES.LARGEGUARD_ALTERGUARDIAN_PROJECTILE"
+msgid "Greater Gestalt"
+msgstr ""
+
+#. NAMES.LATKES
+msgctxt "NAMES.LATKES"
+msgid "Latkes"
+msgstr ""
+
+#. NAMES.LAVAARENA_ARMOREXTRAHEAVY
+msgctxt "NAMES.LAVAARENA_ARMOREXTRAHEAVY"
+msgid "Steadfast Stone Armor"
+msgstr ""
+
+#. NAMES.LAVAARENA_ARMORHEAVY
+msgctxt "NAMES.LAVAARENA_ARMORHEAVY"
+msgid "Stone Splint Mail"
+msgstr ""
+
+#. NAMES.LAVAARENA_ARMORLIGHT
+msgctxt "NAMES.LAVAARENA_ARMORLIGHT"
+msgid "Reed Tunic"
+msgstr ""
+
+#. NAMES.LAVAARENA_ARMORLIGHTSPEED
+msgctxt "NAMES.LAVAARENA_ARMORLIGHTSPEED"
+msgid "Feathered Reed Tunic"
+msgstr ""
+
+#. NAMES.LAVAARENA_ARMORMEDIUM
+msgctxt "NAMES.LAVAARENA_ARMORMEDIUM"
+msgid "Wood Armor"
+msgstr ""
+
+#. NAMES.LAVAARENA_ARMORMEDIUMDAMAGER
+msgctxt "NAMES.LAVAARENA_ARMORMEDIUMDAMAGER"
+msgid "Jagged Wood Armor"
+msgstr ""
+
+#. NAMES.LAVAARENA_ARMORMEDIUMRECHARGER
+msgctxt "NAMES.LAVAARENA_ARMORMEDIUMRECHARGER"
+msgid "Silken Wood Armor"
+msgstr ""
+
+#. NAMES.LAVAARENA_ARMOR_HPDAMAGER
+msgctxt "NAMES.LAVAARENA_ARMOR_HPDAMAGER"
+msgid "Jagged Grand Armor"
+msgstr ""
+
+#. NAMES.LAVAARENA_ARMOR_HPEXTRAHEAVY
+msgctxt "NAMES.LAVAARENA_ARMOR_HPEXTRAHEAVY"
+msgid "Steadfast Grand Armor"
+msgstr ""
+
+#. NAMES.LAVAARENA_ARMOR_HPPETMASTERY
+msgctxt "NAMES.LAVAARENA_ARMOR_HPPETMASTERY"
+msgid "Whispering Grand Armor"
+msgstr ""
+
+#. NAMES.LAVAARENA_ARMOR_HPRECHARGER
+msgctxt "NAMES.LAVAARENA_ARMOR_HPRECHARGER"
+msgid "Silken Grand Armor"
+msgstr ""
+
+#. NAMES.LAVAARENA_BATTLESTANDARD
+msgctxt "NAMES.LAVAARENA_BATTLESTANDARD"
+msgid "Battle Standard"
+msgstr ""
+
+#. NAMES.LAVAARENA_BERNIE
+msgctxt "NAMES.LAVAARENA_BERNIE"
+msgid "Bernie"
+msgstr ""
+
+#. NAMES.LAVAARENA_BOARLORD
+msgctxt "NAMES.LAVAARENA_BOARLORD"
+msgid "Battlemaster Pugna"
+msgstr ""
+
+#. NAMES.LAVAARENA_CROWNDAMAGERHAT
+msgctxt "NAMES.LAVAARENA_CROWNDAMAGERHAT"
+msgid "Resplendent Nox Helm"
+msgstr ""
+
+#. NAMES.LAVAARENA_ELEMENTAL
+msgctxt "NAMES.LAVAARENA_ELEMENTAL"
+msgid "Magma Golem"
+msgstr ""
+
+#. NAMES.LAVAARENA_EYECIRCLETHAT
+msgctxt "NAMES.LAVAARENA_EYECIRCLETHAT"
+msgid "Clairvoyant Crown"
+msgstr ""
+
+#. NAMES.LAVAARENA_FEATHERCROWNHAT
+msgctxt "NAMES.LAVAARENA_FEATHERCROWNHAT"
+msgid "Feathered Wreath"
+msgstr ""
+
+#. NAMES.LAVAARENA_FIREBOMB
+msgctxt "NAMES.LAVAARENA_FIREBOMB"
+msgid "Hearthsfire Crystals"
+msgstr ""
+
+#. NAMES.LAVAARENA_HEALINGFLOWERHAT
+msgctxt "NAMES.LAVAARENA_HEALINGFLOWERHAT"
+msgid "Flower Headband"
+msgstr ""
+
+#. NAMES.LAVAARENA_HEALINGGARLANDHAT
+msgctxt "NAMES.LAVAARENA_HEALINGGARLANDHAT"
+msgid "Blossomed Wreath"
+msgstr ""
+
+#. NAMES.LAVAARENA_HEAVYBLADE
+msgctxt "NAMES.LAVAARENA_HEAVYBLADE"
+msgid "Blacksmith's Edge"
+msgstr ""
+
+#. NAMES.LAVAARENA_KEYHOLE
+msgctxt "NAMES.LAVAARENA_KEYHOLE"
+msgid "Ancient Anchor"
+msgstr ""
+
+#. NAMES.LAVAARENA_LIGHTDAMAGERHAT
+msgctxt "NAMES.LAVAARENA_LIGHTDAMAGERHAT"
+msgid "Barbed Helm"
+msgstr ""
+
+#. NAMES.LAVAARENA_LUCY
+msgctxt "NAMES.LAVAARENA_LUCY"
+msgid "Riled Lucy"
+msgstr ""
+
+#. NAMES.LAVAARENA_METEOR
+msgctxt "NAMES.LAVAARENA_METEOR"
+msgid "Meteor"
+msgstr ""
+
+#. NAMES.LAVAARENA_PORTAL
+msgctxt "NAMES.LAVAARENA_PORTAL"
+msgid "Ancient Gateway"
+msgstr ""
+
+#. NAMES.LAVAARENA_RECHARGERHAT
+msgctxt "NAMES.LAVAARENA_RECHARGERHAT"
+msgid "Crystal Tiara"
+msgstr ""
+
+#. NAMES.LAVAARENA_SPAWNER
+msgctxt "NAMES.LAVAARENA_SPAWNER"
+msgid "Forge Portal"
+msgstr ""
+
+#. NAMES.LAVAARENA_STRONGDAMAGERHAT
+msgctxt "NAMES.LAVAARENA_STRONGDAMAGERHAT"
+msgid "Nox Helm"
+msgstr ""
+
+#. NAMES.LAVAARENA_TIARAFLOWERPETALSHAT
+msgctxt "NAMES.LAVAARENA_TIARAFLOWERPETALSHAT"
+msgid "Woven Garland"
+msgstr ""
+
+#. NAMES.LAVAE
+msgctxt "NAMES.LAVAE"
+msgid "Lavae"
+msgstr ""
+
+#. NAMES.LAVAE_COCOON
+msgctxt "NAMES.LAVAE_COCOON"
+msgid "Chilled Lavae"
+msgstr ""
+
+#. NAMES.LAVAE_EGG
+msgctxt "NAMES.LAVAE_EGG"
+msgid "Lavae Egg"
+msgstr ""
+
+#. NAMES.LAVAE_EGG_CRACKED
+msgctxt "NAMES.LAVAE_EGG_CRACKED"
+msgid "Lavae Egg"
+msgstr ""
+
+#. NAMES.LAVAE_PET
+msgctxt "NAMES.LAVAE_PET"
+msgid "Extra-Adorable Lavae"
+msgstr ""
+
+#. NAMES.LAVAE_TOOTH
+msgctxt "NAMES.LAVAE_TOOTH"
+msgid "Lavae Tooth"
+msgstr ""
+
+#. NAMES.LAVASPIT
+msgctxt "NAMES.LAVASPIT"
+msgid "Dragonfly Saliva"
+msgstr ""
+
+#. NAMES.LAVA_POND
+msgctxt "NAMES.LAVA_POND"
+msgid "Magma"
+msgstr ""
+
+#. NAMES.LAVA_POND_ROCK
+msgctxt "NAMES.LAVA_POND_ROCK"
+msgid "Rock"
+msgstr ""
+
+#. NAMES.LEAFLOAF
+msgctxt "NAMES.LEAFLOAF"
+msgid "Leafy Meatloaf"
+msgstr ""
+
+#. NAMES.LEAFYMEATBURGER
+msgctxt "NAMES.LEAFYMEATBURGER"
+msgid "Veggie Burger"
+msgstr ""
+
+#. NAMES.LEAFYMEATSOUFFLE
+msgctxt "NAMES.LEAFYMEATSOUFFLE"
+msgid "Jelly Salad"
+msgstr ""
+
+#. NAMES.LEIF
+msgctxt "NAMES.LEIF"
+msgid "Treeguard"
+msgstr ""
+
+#. NAMES.LEIF_SPARSE
+msgctxt "NAMES.LEIF_SPARSE"
+msgid "Treeguard"
+msgstr ""
+
+#. NAMES.LICHEN
+msgctxt "NAMES.LICHEN"
+msgid "Cave Lichen"
+msgstr ""
+
+#. NAMES.LIFEINJECTOR
+msgctxt "NAMES.LIFEINJECTOR"
+msgid "Booster Shot"
+msgstr ""
+
+#. NAMES.LIGHTBULB
+msgctxt "NAMES.LIGHTBULB"
+msgid "Light Bulb"
+msgstr ""
+
+#. NAMES.LIGHTER
+msgctxt "NAMES.LIGHTER"
+msgid "Willow's Lighter"
+msgstr ""
+
+#. NAMES.LIGHTFLIER
+msgctxt "NAMES.LIGHTFLIER"
+msgid "Bulbous Lightbug"
+msgstr ""
+
+#. NAMES.LIGHTNING
+msgctxt "NAMES.LIGHTNING"
+msgid "Lightning"
+msgstr ""
+
+#. NAMES.LIGHTNINGGOAT
+msgctxt "NAMES.LIGHTNINGGOAT"
+msgid "Volt Goat"
+msgstr ""
+
+#. NAMES.LIGHTNINGGOATHORN
+msgctxt "NAMES.LIGHTNINGGOATHORN"
+msgid "Volt Goat Horn"
+msgstr ""
+
+#. NAMES.LIGHTNING_ROD
+msgctxt "NAMES.LIGHTNING_ROD"
+msgid "Lightning Rod"
+msgstr ""
+
+#. NAMES.LITTLE_WALRUS
+msgctxt "NAMES.LITTLE_WALRUS"
+msgid "Wee MacTusk"
+msgstr ""
+
+#. NAMES.LIVINGLOG
+msgctxt "NAMES.LIVINGLOG"
+msgid "Living Log"
+msgstr ""
+
+#. NAMES.LIVINGTREE
+msgctxt "NAMES.LIVINGTREE"
+msgid "Totally Normal Tree"
+msgstr ""
+
+#. NAMES.LIVINGTREE_ROOT
+msgctxt "NAMES.LIVINGTREE_ROOT"
+msgid "Totally Normal Root"
+msgstr ""
+
+#. NAMES.LIVINGTREE_SAPLING
+msgctxt "NAMES.LIVINGTREE_SAPLING"
+msgid "Totally Normal Sapling"
+msgstr ""
+
+#. NAMES.LOBSTERBISQUE
+msgctxt "NAMES.LOBSTERBISQUE"
+msgid "Lobster Bisque"
+msgstr ""
+
+#. NAMES.LOBSTERDINNER
+msgctxt "NAMES.LOBSTERDINNER"
+msgid "Lobster Dinner"
+msgstr ""
+
+#. NAMES.LOG
+msgctxt "NAMES.LOG"
+msgid "Log"
+msgstr ""
+
+#. NAMES.LORDFRUITFLY
+msgctxt "NAMES.LORDFRUITFLY"
+msgid "Lord of the Fruit Flies"
+msgstr ""
+
+#. NAMES.LOST_TOY_1
+msgctxt "NAMES.LOST_TOY_1"
+msgid "Lost Marbles"
+msgstr ""
+
+#. NAMES.LOST_TOY_10
+msgctxt "NAMES.LOST_TOY_10"
+msgid "Missing Teeth"
+msgstr ""
+
+#. NAMES.LOST_TOY_11
+msgctxt "NAMES.LOST_TOY_11"
+msgid "Cherished Toy Robot"
+msgstr ""
+
+#. NAMES.LOST_TOY_14
+msgctxt "NAMES.LOST_TOY_14"
+msgid "Mother's Favorite Teacup"
+msgstr ""
+
+#. NAMES.LOST_TOY_18
+msgctxt "NAMES.LOST_TOY_18"
+msgid "Treasured Toy Trojan Horse"
+msgstr ""
+
+#. NAMES.LOST_TOY_19
+msgctxt "NAMES.LOST_TOY_19"
+msgid "Favorite Spinning Top"
+msgstr ""
+
+#. NAMES.LOST_TOY_2
+msgctxt "NAMES.LOST_TOY_2"
+msgid "Sentimental Kazoo"
+msgstr ""
+
+#. NAMES.LOST_TOY_42
+msgctxt "NAMES.LOST_TOY_42"
+msgid "Misplaced Toy Cobra"
+msgstr ""
+
+#. NAMES.LOST_TOY_43
+msgctxt "NAMES.LOST_TOY_43"
+msgid "Beloved Crocodile Toy"
+msgstr ""
+
+#. NAMES.LOST_TOY_7
+msgctxt "NAMES.LOST_TOY_7"
+msgid "Prized Ball and Cup"
+msgstr ""
+
+#. NAMES.LUCKY_GOLDNUGGET
+msgctxt "NAMES.LUCKY_GOLDNUGGET"
+msgid "Lucky Gold Nugget"
+msgstr ""
+
+#. NAMES.LUCY
+msgctxt "NAMES.LUCY"
+msgid "Lucy the Axe"
+msgstr ""
+
+#. NAMES.LUMPY_SAPLING
+msgctxt "NAMES.LUMPY_SAPLING"
+msgid "Lumpy Sapling"
+msgstr ""
+
+#. NAMES.LUREPLANT
+msgctxt "NAMES.LUREPLANT"
+msgid "Lureplant"
+msgstr ""
+
+#. NAMES.LUREPLANTBULB
+msgctxt "NAMES.LUREPLANTBULB"
+msgid "Fleshy Bulb"
+msgstr ""
+
+#. NAMES.LUTEFISK
+msgctxt "NAMES.LUTEFISK"
+msgid "Lutefisk"
+msgstr ""
+
+#. NAMES.MADSCIENCE_LAB
+msgctxt "NAMES.MADSCIENCE_LAB"
+msgid "Mad Scientist Lab"
+msgstr ""
+
+#. NAMES.MAGIC_BLUEPRINT
+msgctxt "NAMES.MAGIC_BLUEPRINT"
+msgid "Blank Blueprint"
+msgstr ""
+
+#. NAMES.MALBATROSS
+msgctxt "NAMES.MALBATROSS"
+msgid "Malbatross"
+msgstr ""
+
+#. NAMES.MALBATROSS_BEAK
+msgctxt "NAMES.MALBATROSS_BEAK"
+msgid "Malbatross Bill"
+msgstr ""
+
+#. NAMES.MALBATROSS_FEATHER
+msgctxt "NAMES.MALBATROSS_FEATHER"
+msgid "Malbatross Feather"
+msgstr ""
+
+#. NAMES.MALBATROSS_FEATHERED_WEAVE
+msgctxt "NAMES.MALBATROSS_FEATHERED_WEAVE"
+msgid "Feathery Canvas"
+msgstr ""
+
+#. NAMES.MANDRAKE
+msgctxt "NAMES.MANDRAKE"
+msgid "Mandrake"
+msgstr ""
+
+#. NAMES.MANDRAKESOUP
+msgctxt "NAMES.MANDRAKESOUP"
+msgid "Mandrake Soup"
+msgstr ""
+
+#. NAMES.MANDRAKE_ACTIVE
+msgctxt "NAMES.MANDRAKE_ACTIVE"
+msgid "Mandrake"
+msgstr ""
+
+#. NAMES.MANDRAKE_PLANTED
+msgctxt "NAMES.MANDRAKE_PLANTED"
+msgid "Mandrake"
+msgstr ""
+
+#. NAMES.MANRABBIT_TAIL
+msgctxt "NAMES.MANRABBIT_TAIL"
+msgid "Bunny Puff"
+msgstr ""
+
+#. NAMES.MAPSCROLL
+msgctxt "NAMES.MAPSCROLL"
+msgid "Map Scroll"
+msgstr ""
+
+#. NAMES.MARBLE
+msgctxt "NAMES.MARBLE"
+msgid "Marble"
+msgstr ""
+
+#. NAMES.MARBLEBEAN
+msgctxt "NAMES.MARBLEBEAN"
+msgid "Marble Bean"
+msgstr ""
+
+#. NAMES.MARBLEBEAN_SAPLING
+msgctxt "NAMES.MARBLEBEAN_SAPLING"
+msgid "Marble Sprout"
+msgstr ""
+
+#. NAMES.MARBLEPILLAR
+msgctxt "NAMES.MARBLEPILLAR"
+msgid "Marble Pillar"
+msgstr ""
+
+#. NAMES.MARBLESHRUB
+msgctxt "NAMES.MARBLESHRUB"
+msgid "Marble Shrub"
+msgstr ""
+
+#. NAMES.MARBLETREE
+msgctxt "NAMES.MARBLETREE"
+msgid "Marble Tree"
+msgstr ""
+
+#. NAMES.MARSH_BUSH
+msgctxt "NAMES.MARSH_BUSH"
+msgid "Spiky Bush"
+msgstr ""
+
+#. NAMES.MARSH_PLANT
+msgctxt "NAMES.MARSH_PLANT"
+msgid "Plant"
+msgstr ""
+
+#. NAMES.MARSH_TREE
+msgctxt "NAMES.MARSH_TREE"
+msgid "Spiky Tree"
+msgstr ""
+
+#. NAMES.MASHEDPOTATOES
+msgctxt "NAMES.MASHEDPOTATOES"
+msgid "Creamy Potato Purée"
+msgstr ""
+
+#. NAMES.MAST
+msgctxt "NAMES.MAST"
+msgid "Mast"
+msgstr ""
+
+#. NAMES.MASTUPGRADE_LAMP
+msgctxt "NAMES.MASTUPGRADE_LAMP"
+msgid "Deck Illuminator"
+msgstr ""
+
+#. NAMES.MASTUPGRADE_LAMP_ITEM
+msgctxt "NAMES.MASTUPGRADE_LAMP_ITEM"
+msgid "Deck Illuminator"
+msgstr ""
+
+#. NAMES.MASTUPGRADE_LIGHTNINGROD
+msgctxt "NAMES.MASTUPGRADE_LIGHTNINGROD"
+msgid "Lightning Conductor"
+msgstr ""
+
+#. NAMES.MASTUPGRADE_LIGHTNINGROD_ITEM
+msgctxt "NAMES.MASTUPGRADE_LIGHTNINGROD_ITEM"
+msgid "Lightning Conductor"
+msgstr ""
+
+#. NAMES.MAST_ITEM
+msgctxt "NAMES.MAST_ITEM"
+msgid "Mast Kit"
+msgstr ""
+
+#. NAMES.MAST_MALBATROSS
+msgctxt "NAMES.MAST_MALBATROSS"
+msgid "Winged Sail"
+msgstr ""
+
+#. NAMES.MAST_MALBATROSS_ITEM
+msgctxt "NAMES.MAST_MALBATROSS_ITEM"
+msgid "Winged Sail Kit"
+msgstr ""
+
+#. NAMES.MAXWELL
+msgctxt "NAMES.MAXWELL"
+msgid "Maxwell"
+msgstr ""
+
+#. NAMES.MAXWELLHEAD
+msgctxt "NAMES.MAXWELLHEAD"
+msgid "Maxwell's Head"
+msgstr ""
+
+#. NAMES.MAXWELLKEY
+msgctxt "NAMES.MAXWELLKEY"
+msgid "Shadow Key"
+msgstr ""
+
+#. NAMES.MAXWELLLIGHT
+msgctxt "NAMES.MAXWELLLIGHT"
+msgid "Maxwell's Light"
+msgstr ""
+
+#. NAMES.MAXWELLLOCK
+msgctxt "NAMES.MAXWELLLOCK"
+msgid "Nightmare Lock"
+msgstr ""
+
+#. NAMES.MAXWELLPHONOGRAPH
+msgctxt "NAMES.MAXWELLPHONOGRAPH"
+msgid "Maxwell's Phonograph"
+msgstr ""
+
+#. NAMES.MAXWELLTHRONE
+msgctxt "NAMES.MAXWELLTHRONE"
+msgid "Nightmare Throne"
+msgstr ""
+
+#. NAMES.MEAT
+msgctxt "NAMES.MEAT"
+msgid "Meat"
+msgstr ""
+
+#. NAMES.MEATBALLS
+msgctxt "NAMES.MEATBALLS"
+msgid "Meatballs"
+msgstr ""
+
+#. NAMES.MEATRACK
+msgctxt "NAMES.MEATRACK"
+msgid "Drying Rack"
+msgstr ""
+
+#. NAMES.MEATRACK_HERMIT
+msgctxt "NAMES.MEATRACK_HERMIT"
+msgid "Drying Rack"
+msgstr ""
+
+#. NAMES.MEATYSALAD
+msgctxt "NAMES.MEATYSALAD"
+msgid "Beefy Greens"
+msgstr ""
+
+#. NAMES.MEAT_DRIED
+msgctxt "NAMES.MEAT_DRIED"
+msgid "Jerky"
+msgstr ""
+
+#. NAMES.MERM
+msgctxt "NAMES.MERM"
+msgid "Merm"
+msgstr ""
+
+#. NAMES.MERMGUARD
+msgctxt "NAMES.MERMGUARD"
+msgid "Loyal Merm Guard"
+msgstr ""
+
+#. NAMES.MERMHAT
+msgctxt "NAMES.MERMHAT"
+msgid "Clever Disguise"
+msgstr ""
+
+#. NAMES.MERMHEAD
+msgctxt "NAMES.MERMHEAD"
+msgid "Merm Head"
+msgstr ""
+
+#. NAMES.MERMHOUSE
+msgctxt "NAMES.MERMHOUSE"
+msgid "Leaky Shack"
+msgstr ""
+
+#. NAMES.MERMHOUSE_CRAFTED
+msgctxt "NAMES.MERMHOUSE_CRAFTED"
+msgid "Craftsmerm House"
+msgstr ""
+
+#. NAMES.MERMKING
+msgctxt "NAMES.MERMKING"
+msgid "King of the Merms"
+msgstr ""
+
+#. NAMES.MERMTHRONE
+msgctxt "NAMES.MERMTHRONE"
+msgid "Royal Tapestry"
+msgstr ""
+
+#. NAMES.MERMTHRONE_CONSTRUCTION
+msgctxt "NAMES.MERMTHRONE_CONSTRUCTION"
+msgid "DIY Royalty Kit"
+msgstr ""
+
+#. NAMES.MERMWATCHTOWER
+msgctxt "NAMES.MERMWATCHTOWER"
+msgid "Merm Flort-ifications"
+msgstr ""
+
+#. NAMES.MERM_PRINCE
+msgctxt "NAMES.MERM_PRINCE"
+msgid "Royal-In-Progress"
+msgstr ""
+
+#. NAMES.MESSAGEBOTTLE
+msgctxt "NAMES.MESSAGEBOTTLE"
+msgid "Message in a Bottle"
+msgstr ""
+
+#. NAMES.MESSAGEBOTTLEEMPTY
+msgctxt "NAMES.MESSAGEBOTTLEEMPTY"
+msgid "Empty Bottle"
+msgstr ""
+
+#. NAMES.MIGHTY_GYM
+msgctxt "NAMES.MIGHTY_GYM"
+msgid "Mighty Gym"
+msgstr ""
+
+#. NAMES.MIGRATION_PORTAL
+msgctxt "NAMES.MIGRATION_PORTAL"
+msgid "Friend-O-Matic Portal"
+msgstr ""
+
+#. NAMES.MILKYWHITES
+msgctxt "NAMES.MILKYWHITES"
+msgid "Milky Whites"
+msgstr ""
+
+#. NAMES.MINERHAT
+msgctxt "NAMES.MINERHAT"
+msgid "Miner Hat"
+msgstr ""
+
+#. NAMES.MINIBOATLANTERN
+msgctxt "NAMES.MINIBOATLANTERN"
+msgid "Floating Lantern"
+msgstr ""
+
+#. NAMES.MINIFAN
+msgctxt "NAMES.MINIFAN"
+msgid "Whirly Fan"
+msgstr ""
+
+#. NAMES.MINIFLARE
+msgctxt "NAMES.MINIFLARE"
+msgid "Flare"
+msgstr ""
+
+#. NAMES.MINISIGN
+msgctxt "NAMES.MINISIGN"
+msgid "Mini Sign"
+msgstr ""
+
+#. NAMES.MINISIGN_DRAWN
+msgctxt "NAMES.MINISIGN_DRAWN"
+msgid "{item} Sign"
+msgstr ""
+
+#. NAMES.MINISIGN_ITEM
+msgctxt "NAMES.MINISIGN_ITEM"
+msgid "Mini Sign"
+msgstr ""
+
+#. NAMES.MINOTAUR
+msgctxt "NAMES.MINOTAUR"
+msgid "Ancient Guardian"
+msgstr ""
+
+#. NAMES.MINOTAURCHEST
+msgctxt "NAMES.MINOTAURCHEST"
+msgid "Large Ornate Chest"
+msgstr ""
+
+#. NAMES.MINOTAURHORN
+msgctxt "NAMES.MINOTAURHORN"
+msgid "Guardian's Horn"
+msgstr ""
+
+#. NAMES.MOLE
+msgctxt "NAMES.MOLE"
+msgid "Moleworm"
+msgstr ""
+
+#. NAMES.MOLEBAT
+msgctxt "NAMES.MOLEBAT"
+msgid "Naked Mole Bat"
+msgstr ""
+
+#. NAMES.MOLEBATHILL
+msgctxt "NAMES.MOLEBATHILL"
+msgid "Naked Mole Bat Burrow"
+msgstr ""
+
+#. NAMES.MOLEHAT
+msgctxt "NAMES.MOLEHAT"
+msgid "Moggles"
+msgstr ""
+
+#. NAMES.MOLEHILL
+msgctxt "NAMES.MOLEHILL"
+msgid "Burrow"
+msgstr ""
+
+#. NAMES.MOLE_ABOVEGROUND
+msgctxt "NAMES.MOLE_ABOVEGROUND"
+msgid "Moleworm"
+msgstr ""
+
+#. NAMES.MOLE_UNDERGROUND
+msgctxt "NAMES.MOLE_UNDERGROUND"
+msgid "Raised Dirt"
+msgstr ""
+
+#. NAMES.MONKEY
+msgctxt "NAMES.MONKEY"
+msgid "Splumonkey"
+msgstr ""
+
+#. NAMES.MONKEYBARREL
+msgctxt "NAMES.MONKEYBARREL"
+msgid "Splumonkey Pod"
+msgstr ""
+
+#. NAMES.MONSTERLASAGNA
+msgctxt "NAMES.MONSTERLASAGNA"
+msgid "Monster Lasagna"
+msgstr ""
+
+#. NAMES.MONSTERMEAT
+msgctxt "NAMES.MONSTERMEAT"
+msgid "Monster Meat"
+msgstr ""
+
+#. NAMES.MONSTERMEAT_DRIED
+msgctxt "NAMES.MONSTERMEAT_DRIED"
+msgid "Monster Jerky"
+msgstr ""
+
+#. NAMES.MONSTERTARTARE
+msgctxt "NAMES.MONSTERTARTARE"
+msgid "Monster Tartare"
+msgstr ""
+
+#. NAMES.MOONBASE
+msgctxt "NAMES.MOONBASE"
+msgid "Moon Stone"
+msgstr ""
+
+#. NAMES.MOONBUTTERFLY
+msgctxt "NAMES.MOONBUTTERFLY"
+msgid "Moon Moth"
+msgstr ""
+
+#. NAMES.MOONBUTTERFLYWINGS
+msgctxt "NAMES.MOONBUTTERFLYWINGS"
+msgid "Moon Moth Wings"
+msgstr ""
+
+#. NAMES.MOONBUTTERFLY_SAPLING
+msgctxt "NAMES.MOONBUTTERFLY_SAPLING"
+msgid "Lune Tree Sapling"
+msgstr ""
+
+#. NAMES.MOONDIAL
+msgctxt "NAMES.MOONDIAL"
+msgid "Moon Dial"
+msgstr ""
+
+#. NAMES.MOONGLASS
+msgctxt "NAMES.MOONGLASS"
+msgid "Moon Shard"
+msgstr ""
+
+#. NAMES.MOONGLASSAXE
+msgctxt "NAMES.MOONGLASSAXE"
+msgid "Moon Glass Axe"
+msgstr ""
+
+#. NAMES.MOONGLASSAXE_BLUEPRINT
+msgctxt "NAMES.MOONGLASSAXE_BLUEPRINT"
+msgid "Moon Axe Blueprint"
+msgstr ""
+
+#. NAMES.MOONGLASS_CHARGED
+msgctxt "NAMES.MOONGLASS_CHARGED"
+msgid "Infused Moon Shard"
+msgstr ""
+
+#. NAMES.MOONGLASS_ROCK
+msgctxt "NAMES.MOONGLASS_ROCK"
+msgid "Moon Glass"
+msgstr ""
+
+#. NAMES.MOONGLASS_WOBSTER_DEN
+msgctxt "NAMES.MOONGLASS_WOBSTER_DEN"
+msgid "Moon Glass Mound"
+msgstr ""
+
+#. NAMES.MOONROCKCRATER
+msgctxt "NAMES.MOONROCKCRATER"
+msgid "Cratered Moonrock"
+msgstr ""
+
+#. NAMES.MOONROCKIDOL
+msgctxt "NAMES.MOONROCKIDOL"
+msgid "Moon Rock Idol"
+msgstr ""
+
+#. NAMES.MOONROCKNUGGET
+msgctxt "NAMES.MOONROCKNUGGET"
+msgid "Moon Rock"
+msgstr ""
+
+#. NAMES.MOONROCKSEED
+msgctxt "NAMES.MOONROCKSEED"
+msgid "Celestial Orb"
+msgstr ""
+
+#. NAMES.MOONROCK_PIECES
+msgctxt "NAMES.MOONROCK_PIECES"
+msgid "Moon Rubble"
+msgstr ""
+
+#. NAMES.MOONSPIDERDEN
+msgctxt "NAMES.MOONSPIDERDEN"
+msgid "Shattered Spider Hole"
+msgstr ""
+
+#. NAMES.MOONSPIDER_SPIKE
+msgctxt "NAMES.MOONSPIDER_SPIKE"
+msgid "Shattered Spider"
+msgstr ""
+
+#. NAMES.MOONSTORM_GLASS
+msgctxt "NAMES.MOONSTORM_GLASS"
+msgid "Charged Glassy Rock"
+msgstr ""
+
+#. NAMES.MOONSTORM_GLASS_DEFUSED
+msgctxt "NAMES.MOONSTORM_GLASS_DEFUSED"
+msgid "Glassy Rock"
+msgstr ""
+
+#. NAMES.MOONSTORM_GOGGLESHAT
+msgctxt "NAMES.MOONSTORM_GOGGLESHAT"
+msgid "Astroggles"
+msgstr ""
+
+#. NAMES.MOONSTORM_SPARK
+msgctxt "NAMES.MOONSTORM_SPARK"
+msgid "Moongleam"
+msgstr ""
+
+#. NAMES.MOONSTORM_STATIC
+msgctxt "NAMES.MOONSTORM_STATIC"
+msgid "Energetic Static"
+msgstr ""
+
+#. NAMES.MOONSTORM_STATIC_ITEM
+msgctxt "NAMES.MOONSTORM_STATIC_ITEM"
+msgid "Restrained Static"
+msgstr ""
+
+#. NAMES.MOON_ALTAR
+msgctxt "NAMES.MOON_ALTAR"
+msgid "Celestial Altar"
+msgstr ""
+
+#. NAMES.MOON_ALTAR_ASTRAL
+msgctxt "NAMES.MOON_ALTAR_ASTRAL"
+msgid "Celestial Sanctum"
+msgstr ""
+
+#. NAMES.MOON_ALTAR_ASTRAL_WIP
+msgctxt "NAMES.MOON_ALTAR_ASTRAL_WIP"
+msgid "Partially Assembled Sanctum"
+msgstr ""
+
+#. NAMES.MOON_ALTAR_COSMIC
+msgctxt "NAMES.MOON_ALTAR_COSMIC"
+msgid "Celestial Tribute"
+msgstr ""
+
+#. NAMES.MOON_ALTAR_CROWN
+msgctxt "NAMES.MOON_ALTAR_CROWN"
+msgid "Inactive Celestial Tribute"
+msgstr ""
+
+#. NAMES.MOON_ALTAR_GLASS
+msgctxt "NAMES.MOON_ALTAR_GLASS"
+msgid "Celestial Altar Base"
+msgstr ""
+
+#. NAMES.MOON_ALTAR_ICON
+msgctxt "NAMES.MOON_ALTAR_ICON"
+msgid "Celestial Sanctum Icon"
+msgstr ""
+
+#. NAMES.MOON_ALTAR_IDOL
+msgctxt "NAMES.MOON_ALTAR_IDOL"
+msgid "Celestial Altar Idol"
+msgstr ""
+
+#. NAMES.MOON_ALTAR_LINK
+msgctxt "NAMES.MOON_ALTAR_LINK"
+msgid "Mysterious Energy"
+msgstr ""
+
+#. NAMES.MOON_ALTAR_ROCK_GLASS
+msgctxt "NAMES.MOON_ALTAR_ROCK_GLASS"
+msgid "Inviting Formation"
+msgstr ""
+
+#. NAMES.MOON_ALTAR_ROCK_IDOL
+msgctxt "NAMES.MOON_ALTAR_ROCK_IDOL"
+msgid "Inviting Formation"
+msgstr ""
+
+#. NAMES.MOON_ALTAR_ROCK_SEED
+msgctxt "NAMES.MOON_ALTAR_ROCK_SEED"
+msgid "Inviting Formation"
+msgstr ""
+
+#. NAMES.MOON_ALTAR_SEED
+msgctxt "NAMES.MOON_ALTAR_SEED"
+msgid "Celestial Altar Orb"
+msgstr ""
+
+#. NAMES.MOON_ALTAR_WARD
+msgctxt "NAMES.MOON_ALTAR_WARD"
+msgid "Celestial Sanctum Ward"
+msgstr ""
+
+#. NAMES.MOON_ALTAR_WIP
+msgctxt "NAMES.MOON_ALTAR_WIP"
+msgid "Partially Assembled Altar"
+msgstr ""
+
+#. NAMES.MOON_CAP
+msgctxt "NAMES.MOON_CAP"
+msgid "Moon Shroom"
+msgstr ""
+
+#. NAMES.MOON_CAP_COOKED
+msgctxt "NAMES.MOON_CAP_COOKED"
+msgid "Cooked Moon Shroom"
+msgstr ""
+
+#. NAMES.MOON_DEVICE
+msgctxt "NAMES.MOON_DEVICE"
+msgid "Lunar Siphonator"
+msgstr ""
+
+#. NAMES.MOON_DEVICE_CONSTRUCTION1
+msgctxt "NAMES.MOON_DEVICE_CONSTRUCTION1"
+msgid "Incomplete Experiment"
+msgstr ""
+
+#. NAMES.MOON_DEVICE_CONSTRUCTION2
+msgctxt "NAMES.MOON_DEVICE_CONSTRUCTION2"
+msgid "Nearly Completed Experiment"
+msgstr ""
+
+#. NAMES.MOON_DEVICE_CONSTRUCTION3
+msgctxt "NAMES.MOON_DEVICE_CONSTRUCTION3"
+msgid "Lunar Siphonator"
+msgstr ""
+
+#. NAMES.MOON_FISSURE
+msgctxt "NAMES.MOON_FISSURE"
+msgid "Celestial Fissure"
+msgstr ""
+
+#. NAMES.MOON_FISSURE_PLUGGED
+msgctxt "NAMES.MOON_FISSURE_PLUGGED"
+msgid "Plugged Fissure"
+msgstr ""
+
+#. NAMES.MOON_TREE
+msgctxt "NAMES.MOON_TREE"
+msgid "Lune Tree"
+msgstr ""
+
+#. NAMES.MOON_TREE_BLOSSOM
+msgctxt "NAMES.MOON_TREE_BLOSSOM"
+msgid "Lune Tree Blossom"
+msgstr ""
+
+#. NAMES.MOOSE1
+msgctxt "NAMES.MOOSE1"
+msgid "Moose"
+msgstr ""
+
+#. NAMES.MOOSE2
+msgctxt "NAMES.MOOSE2"
+msgid "Goose"
+msgstr ""
+
+#. NAMES.MOOSEEGG1
+msgctxt "NAMES.MOOSEEGG1"
+msgid "Moose Egg"
+msgstr ""
+
+#. NAMES.MOOSEEGG2
+msgctxt "NAMES.MOOSEEGG2"
+msgid "Goose Egg"
+msgstr ""
+
+#. NAMES.MOOSENEST1
+msgctxt "NAMES.MOOSENEST1"
+msgid "Moose Nest"
+msgstr ""
+
+#. NAMES.MOOSENEST2
+msgctxt "NAMES.MOOSENEST2"
+msgid "Goose Nest"
+msgstr ""
+
+#. NAMES.MOQUECA
+msgctxt "NAMES.MOQUECA"
+msgid "Moqueca"
+msgstr ""
+
+#. NAMES.MOSQUITO
+msgctxt "NAMES.MOSQUITO"
+msgid "Mosquito"
+msgstr ""
+
+#. NAMES.MOSQUITOSACK
+msgctxt "NAMES.MOSQUITOSACK"
+msgid "Mosquito Sack"
+msgstr ""
+
+#. NAMES.MOSSLING
+msgctxt "NAMES.MOSSLING"
+msgid "Mosling"
+msgstr ""
+
+#. NAMES.MOUND
+msgctxt "NAMES.MOUND"
+msgid "Grave"
+msgstr ""
+
+#. NAMES.MULLEDDRINK
+msgctxt "NAMES.MULLEDDRINK"
+msgid "Mulled Punch"
+msgstr ""
+
+#. NAMES.MULTIPLAYER_PORTAL
+msgctxt "NAMES.MULTIPLAYER_PORTAL"
+msgid "Florid Postern"
+msgstr ""
+
+#. NAMES.MULTIPLAYER_PORTAL_MOONROCK
+msgctxt "NAMES.MULTIPLAYER_PORTAL_MOONROCK"
+msgid "Celestial Portal"
+msgstr ""
+
+#. NAMES.MULTIPLAYER_PORTAL_MOONROCK_CONSTR_PLANS
+msgctxt "NAMES.MULTIPLAYER_PORTAL_MOONROCK_CONSTR_PLANS"
+msgid "Portal Paraphernalia"
+msgstr ""
+
+#. NAMES.MULTITOOL_AXE_PICKAXE
+msgctxt "NAMES.MULTITOOL_AXE_PICKAXE"
+msgid "Pick/Axe"
+msgstr ""
+
+#. NAMES.MUSHGNOME
+msgctxt "NAMES.MUSHGNOME"
+msgid "Mush Gnome"
+msgstr ""
+
+#. NAMES.MUSHROOMBOMB
+msgctxt "NAMES.MUSHROOMBOMB"
+msgid "Boomshroom"
+msgstr ""
+
+#. NAMES.MUSHROOMBOMB_DARK
+msgctxt "NAMES.MUSHROOMBOMB_DARK"
+msgid "Misery Boomshroom"
+msgstr ""
+
+#. NAMES.MUSHROOMHAT
+msgctxt "NAMES.MUSHROOMHAT"
+msgid "Funcap"
+msgstr ""
+
+#. NAMES.MUSHROOMSPROUT
+msgctxt "NAMES.MUSHROOMSPROUT"
+msgid "Sporecap"
+msgstr ""
+
+#. NAMES.MUSHROOMSPROUT_DARK
+msgctxt "NAMES.MUSHROOMSPROUT_DARK"
+msgid "Misery Sporecap"
+msgstr ""
+
+#. NAMES.MUSHROOM_FARM
+msgctxt "NAMES.MUSHROOM_FARM"
+msgid "Mushroom Planter"
+msgstr ""
+
+#. NAMES.MUSHROOM_LIGHT
+msgctxt "NAMES.MUSHROOM_LIGHT"
+msgid "Mushlight"
+msgstr ""
+
+#. NAMES.MUSHROOM_LIGHT2
+msgctxt "NAMES.MUSHROOM_LIGHT2"
+msgid "Glowcap"
+msgstr ""
+
+#. NAMES.MUSHTREE_MEDIUM
+msgctxt "NAMES.MUSHTREE_MEDIUM"
+msgid "Red Mushtree"
+msgstr ""
+
+#. NAMES.MUSHTREE_MOON
+msgctxt "NAMES.MUSHTREE_MOON"
+msgid "Lunar Mushtree"
+msgstr ""
+
+#. NAMES.MUSHTREE_SMALL
+msgctxt "NAMES.MUSHTREE_SMALL"
+msgid "Green Mushtree"
+msgstr ""
+
+#. NAMES.MUSHTREE_TALL
+msgctxt "NAMES.MUSHTREE_TALL"
+msgid "Blue Mushtree"
+msgstr ""
+
+#. NAMES.MUSHTREE_TALL_WEBBED
+msgctxt "NAMES.MUSHTREE_TALL_WEBBED"
+msgid "Webbed Blue Mushtree"
+msgstr ""
+
+#. NAMES.MUTATEDHOUND
+msgctxt "NAMES.MUTATEDHOUND"
+msgid "Horror Hound"
+msgstr ""
+
+#. NAMES.MUTATED_PENGUIN
+msgctxt "NAMES.MUTATED_PENGUIN"
+msgid "Moonrock Pengull"
+msgstr ""
+
+#. NAMES.MUTATOR_DROPPER
+msgctxt "NAMES.MUTATOR_DROPPER"
+msgid "Dangler Switcherdoodle"
+msgstr ""
+
+#. NAMES.MUTATOR_HEALER
+msgctxt "NAMES.MUTATOR_HEALER"
+msgid "Nurse Switcherdoodle"
+msgstr ""
+
+#. NAMES.MUTATOR_HIDER
+msgctxt "NAMES.MUTATOR_HIDER"
+msgid "Cave Switcherdoodle"
+msgstr ""
+
+#. NAMES.MUTATOR_MOON
+msgctxt "NAMES.MUTATOR_MOON"
+msgid "Shatter Switcherdoodle"
+msgstr ""
+
+#. NAMES.MUTATOR_SPITTER
+msgctxt "NAMES.MUTATOR_SPITTER"
+msgid "Spitter Switcherdoodle"
+msgstr ""
+
+#. NAMES.MUTATOR_WARRIOR
+msgctxt "NAMES.MUTATOR_WARRIOR"
+msgid "Warrior Switcherdoodle"
+msgstr ""
+
+#. NAMES.MUTATOR_WATER
+msgctxt "NAMES.MUTATOR_WATER"
+msgid "Strider Switcherdoodle"
+msgstr ""
+
+#. NAMES.NATURE_BLUEPRINT
+msgctxt "NAMES.NATURE_BLUEPRINT"
+msgid "Flowery Costume Pattern"
+msgstr ""
+
+#. NAMES.NIGHTLIGHT
+msgctxt "NAMES.NIGHTLIGHT"
+msgid "Night Light"
+msgstr ""
+
+#. NAMES.NIGHTMAREBEAK
+msgctxt "NAMES.NIGHTMAREBEAK"
+msgid "Nightmarebeak"
+msgstr ""
+
+#. NAMES.NIGHTMAREFUEL
+msgctxt "NAMES.NIGHTMAREFUEL"
+msgid "Nightmare Fuel"
+msgstr ""
+
+#. NAMES.NIGHTMAREGROWTH
+msgctxt "NAMES.NIGHTMAREGROWTH"
+msgid "Nightmare Rampart"
+msgstr ""
+
+#. NAMES.NIGHTMARELIGHT
+msgctxt "NAMES.NIGHTMARELIGHT"
+msgid "Nightmare Light"
+msgstr ""
+
+#. NAMES.NIGHTMAREPIE
+msgctxt "NAMES.NIGHTMAREPIE"
+msgid "Grim Galette"
+msgstr ""
+
+#. NAMES.NIGHTMARE_TIMEPIECE
+msgctxt "NAMES.NIGHTMARE_TIMEPIECE"
+msgid "Thulecite Medallion"
+msgstr ""
+
+#. NAMES.NIGHTSTICK
+msgctxt "NAMES.NIGHTSTICK"
+msgid "Morning Star"
+msgstr ""
+
+#. NAMES.NIGHTSWORD
+msgctxt "NAMES.NIGHTSWORD"
+msgid "Dark Sword"
+msgstr ""
+
+#. NAMES.NIL
+msgctxt "NAMES.NIL"
+msgid "Darkness"
+msgstr ""
+
+#. NAMES.NITRE
+msgctxt "NAMES.NITRE"
+msgid "Nitre"
+msgstr ""
+
+#. NAMES.NONE
+msgctxt "NAMES.NONE"
+msgid "Nothing"
+msgstr ""
+
+#. NAMES.NUTRIENTSGOGGLESHAT
+msgctxt "NAMES.NUTRIENTSGOGGLESHAT"
+msgid "Premier Gardeneer Hat"
+msgstr ""
+
+#. NAMES.OAR
+msgctxt "NAMES.OAR"
+msgid "Oar"
+msgstr ""
+
+#. NAMES.OAR_DRIFTWOOD
+msgctxt "NAMES.OAR_DRIFTWOOD"
+msgid "Driftwood Oar"
+msgstr ""
+
+#. NAMES.OASISLAKE
+msgctxt "NAMES.OASISLAKE"
+msgid "Lake"
+msgstr ""
+
+#. NAMES.OCEANFISHABLEFLOTSAM
+msgctxt "NAMES.OCEANFISHABLEFLOTSAM"
+msgid "Ocean Debris"
+msgstr ""
+
+#. NAMES.OCEANFISHINGBOBBER_BALL
+msgctxt "NAMES.OCEANFISHINGBOBBER_BALL"
+msgid "Wooden Ball Bobber"
+msgstr ""
+
+#. NAMES.OCEANFISHINGBOBBER_CANARY
+msgctxt "NAMES.OCEANFISHINGBOBBER_CANARY"
+msgid "Saffron Quill Float"
+msgstr ""
+
+#. NAMES.OCEANFISHINGBOBBER_CROW
+msgctxt "NAMES.OCEANFISHINGBOBBER_CROW"
+msgid "Jet Quill Float"
+msgstr ""
+
+#. NAMES.OCEANFISHINGBOBBER_GOOSE
+msgctxt "NAMES.OCEANFISHINGBOBBER_GOOSE"
+msgid "Down Quill Float"
+msgstr ""
+
+#. NAMES.OCEANFISHINGBOBBER_MALBATROSS
+msgctxt "NAMES.OCEANFISHINGBOBBER_MALBATROSS"
+msgid "Malbatross Quill Float"
+msgstr ""
+
+#. NAMES.OCEANFISHINGBOBBER_NONE
+msgctxt "NAMES.OCEANFISHINGBOBBER_NONE"
+msgid "Fish Hook"
+msgstr ""
+
+#. NAMES.OCEANFISHINGBOBBER_OVAL
+msgctxt "NAMES.OCEANFISHINGBOBBER_OVAL"
+msgid "Hardened Slip Bobber"
+msgstr ""
+
+#. NAMES.OCEANFISHINGBOBBER_ROBIN
+msgctxt "NAMES.OCEANFISHINGBOBBER_ROBIN"
+msgid "Crimson Quill Float"
+msgstr ""
+
+#. NAMES.OCEANFISHINGBOBBER_ROBIN_WINTER
+msgctxt "NAMES.OCEANFISHINGBOBBER_ROBIN_WINTER"
+msgid "Azure Quill Float"
+msgstr ""
+
+#. NAMES.OCEANFISHINGLURE_HERMIT_DROWSY
+msgctxt "NAMES.OCEANFISHINGLURE_HERMIT_DROWSY"
+msgid "Stupefying Lure"
+msgstr ""
+
+#. NAMES.OCEANFISHINGLURE_HERMIT_HEAVY
+msgctxt "NAMES.OCEANFISHINGLURE_HERMIT_HEAVY"
+msgid "Heavy Weighted Lure"
+msgstr ""
+
+#. NAMES.OCEANFISHINGLURE_HERMIT_RAIN
+msgctxt "NAMES.OCEANFISHINGLURE_HERMIT_RAIN"
+msgid "Rainy Day Lure"
+msgstr ""
+
+#. NAMES.OCEANFISHINGLURE_HERMIT_SNOW
+msgctxt "NAMES.OCEANFISHINGLURE_HERMIT_SNOW"
+msgid "Snow Day Lure"
+msgstr ""
+
+#. NAMES.OCEANFISHINGLURE_SPINNER_BLUE
+msgctxt "NAMES.OCEANFISHINGLURE_SPINNER_BLUE"
+msgid "Nightflyer Spinnerbait"
+msgstr ""
+
+#. NAMES.OCEANFISHINGLURE_SPINNER_GREEN
+msgctxt "NAMES.OCEANFISHINGLURE_SPINNER_GREEN"
+msgid "Dusky Spinnerbait"
+msgstr ""
+
+#. NAMES.OCEANFISHINGLURE_SPINNER_ORANGE
+msgctxt "NAMES.OCEANFISHINGLURE_SPINNER_ORANGE"
+msgid "not used"
+msgstr ""
+
+#. NAMES.OCEANFISHINGLURE_SPINNER_RED
+msgctxt "NAMES.OCEANFISHINGLURE_SPINNER_RED"
+msgid "Sunrise Spinnerbait"
+msgstr ""
+
+#. NAMES.OCEANFISHINGLURE_SPINNER_WHITE
+msgctxt "NAMES.OCEANFISHINGLURE_SPINNER_WHITE"
+msgid "not used"
+msgstr ""
+
+#. NAMES.OCEANFISHINGLURE_SPINNER_YELLOW
+msgctxt "NAMES.OCEANFISHINGLURE_SPINNER_YELLOW"
+msgid "not used"
+msgstr ""
+
+#. NAMES.OCEANFISHINGLURE_SPOON_BLUE
+msgctxt "NAMES.OCEANFISHINGLURE_SPOON_BLUE"
+msgid "Nightflyer Spoon"
+msgstr ""
+
+#. NAMES.OCEANFISHINGLURE_SPOON_BROWN
+msgctxt "NAMES.OCEANFISHINGLURE_SPOON_BROWN"
+msgid "not used"
+msgstr ""
+
+#. NAMES.OCEANFISHINGLURE_SPOON_GREEN
+msgctxt "NAMES.OCEANFISHINGLURE_SPOON_GREEN"
+msgid "Dusky Spoon"
+msgstr ""
+
+#. NAMES.OCEANFISHINGLURE_SPOON_RED
+msgctxt "NAMES.OCEANFISHINGLURE_SPOON_RED"
+msgid "Sunrise Spoon"
+msgstr ""
+
+#. NAMES.OCEANFISHINGLURE_SPOON_SILVER
+msgctxt "NAMES.OCEANFISHINGLURE_SPOON_SILVER"
+msgid "not used"
+msgstr ""
+
+#. NAMES.OCEANFISHINGLURE_SPOON_YELLOW
+msgctxt "NAMES.OCEANFISHINGLURE_SPOON_YELLOW"
+msgid "not used"
+msgstr ""
+
+#. NAMES.OCEANFISHINGROD
+msgctxt "NAMES.OCEANFISHINGROD"
+msgid "Sea Fishing Rod"
+msgstr ""
+
+#. NAMES.OCEANFISH_ANTCHOVY
+msgctxt "NAMES.OCEANFISH_ANTCHOVY"
+msgid "Antchovy"
+msgstr ""
+
+#. NAMES.OCEANFISH_MEDIUM_1
+msgctxt "NAMES.OCEANFISH_MEDIUM_1"
+msgid "Mudfish"
+msgstr ""
+
+#. NAMES.OCEANFISH_MEDIUM_1_INV
+msgctxt "NAMES.OCEANFISH_MEDIUM_1_INV"
+msgid "Mudfish"
+msgstr ""
+
+#. NAMES.OCEANFISH_MEDIUM_2
+msgctxt "NAMES.OCEANFISH_MEDIUM_2"
+msgid "Deep Bass"
+msgstr ""
+
+#. NAMES.OCEANFISH_MEDIUM_2_INV
+msgctxt "NAMES.OCEANFISH_MEDIUM_2_INV"
+msgid "Deep Bass"
+msgstr ""
+
+#. NAMES.OCEANFISH_MEDIUM_3
+msgctxt "NAMES.OCEANFISH_MEDIUM_3"
+msgid "Dandy Lionfish"
+msgstr ""
+
+#. NAMES.OCEANFISH_MEDIUM_3_INV
+msgctxt "NAMES.OCEANFISH_MEDIUM_3_INV"
+msgid "Dandy Lionfish"
+msgstr ""
+
+#. NAMES.OCEANFISH_MEDIUM_4
+msgctxt "NAMES.OCEANFISH_MEDIUM_4"
+msgid "Black Catfish"
+msgstr ""
+
+#. NAMES.OCEANFISH_MEDIUM_4_INV
+msgctxt "NAMES.OCEANFISH_MEDIUM_4_INV"
+msgid "Black Catfish"
+msgstr ""
+
+#. NAMES.OCEANFISH_MEDIUM_5
+msgctxt "NAMES.OCEANFISH_MEDIUM_5"
+msgid "Corn Cod"
+msgstr ""
+
+#. NAMES.OCEANFISH_MEDIUM_5_INV
+msgctxt "NAMES.OCEANFISH_MEDIUM_5_INV"
+msgid "Corn Cod"
+msgstr ""
+
+#. NAMES.OCEANFISH_MEDIUM_6
+msgctxt "NAMES.OCEANFISH_MEDIUM_6"
+msgid "Dappled Koi"
+msgstr ""
+
+#. NAMES.OCEANFISH_MEDIUM_6_INV
+msgctxt "NAMES.OCEANFISH_MEDIUM_6_INV"
+msgid "Dappled Koi"
+msgstr ""
+
+#. NAMES.OCEANFISH_MEDIUM_7
+msgctxt "NAMES.OCEANFISH_MEDIUM_7"
+msgid "Golden Koi"
+msgstr ""
+
+#. NAMES.OCEANFISH_MEDIUM_7_INV
+msgctxt "NAMES.OCEANFISH_MEDIUM_7_INV"
+msgid "Golden Koi"
+msgstr ""
+
+#. NAMES.OCEANFISH_MEDIUM_8
+msgctxt "NAMES.OCEANFISH_MEDIUM_8"
+msgid "Ice Bream"
+msgstr ""
+
+#. NAMES.OCEANFISH_MEDIUM_8_INV
+msgctxt "NAMES.OCEANFISH_MEDIUM_8_INV"
+msgid "Ice Bream"
+msgstr ""
+
+#. NAMES.OCEANFISH_MEDIUM_9
+msgctxt "NAMES.OCEANFISH_MEDIUM_9"
+msgid "Sweetish Fish"
+msgstr ""
+
+#. NAMES.OCEANFISH_MEDIUM_9_INV
+msgctxt "NAMES.OCEANFISH_MEDIUM_9_INV"
+msgid "Sweetish Fish"
+msgstr ""
+
+#. NAMES.OCEANFISH_SMALL_1
+msgctxt "NAMES.OCEANFISH_SMALL_1"
+msgid "Runty Guppy"
+msgstr ""
+
+#. NAMES.OCEANFISH_SMALL_1_INV
+msgctxt "NAMES.OCEANFISH_SMALL_1_INV"
+msgid "Runty Guppy"
+msgstr ""
+
+#. NAMES.OCEANFISH_SMALL_2
+msgctxt "NAMES.OCEANFISH_SMALL_2"
+msgid "Needlenosed Squirt"
+msgstr ""
+
+#. NAMES.OCEANFISH_SMALL_2_INV
+msgctxt "NAMES.OCEANFISH_SMALL_2_INV"
+msgid "Needlenosed Squirt"
+msgstr ""
+
+#. NAMES.OCEANFISH_SMALL_3
+msgctxt "NAMES.OCEANFISH_SMALL_3"
+msgid "Bitty Baitfish"
+msgstr ""
+
+#. NAMES.OCEANFISH_SMALL_3_INV
+msgctxt "NAMES.OCEANFISH_SMALL_3_INV"
+msgid "Bitty Baitfish"
+msgstr ""
+
+#. NAMES.OCEANFISH_SMALL_4
+msgctxt "NAMES.OCEANFISH_SMALL_4"
+msgid "Smolt Fry"
+msgstr ""
+
+#. NAMES.OCEANFISH_SMALL_4_INV
+msgctxt "NAMES.OCEANFISH_SMALL_4_INV"
+msgid "Smolt Fry"
+msgstr ""
+
+#. NAMES.OCEANFISH_SMALL_5
+msgctxt "NAMES.OCEANFISH_SMALL_5"
+msgid "Popperfish"
+msgstr ""
+
+#. NAMES.OCEANFISH_SMALL_5_INV
+msgctxt "NAMES.OCEANFISH_SMALL_5_INV"
+msgid "Popperfish"
+msgstr ""
+
+#. NAMES.OCEANFISH_SMALL_6
+msgctxt "NAMES.OCEANFISH_SMALL_6"
+msgid "Fallounder"
+msgstr ""
+
+#. NAMES.OCEANFISH_SMALL_6_INV
+msgctxt "NAMES.OCEANFISH_SMALL_6_INV"
+msgid "Fallounder"
+msgstr ""
+
+#. NAMES.OCEANFISH_SMALL_7
+msgctxt "NAMES.OCEANFISH_SMALL_7"
+msgid "Bloomfin Tuna"
+msgstr ""
+
+#. NAMES.OCEANFISH_SMALL_7_INV
+msgctxt "NAMES.OCEANFISH_SMALL_7_INV"
+msgid "Bloomfin Tuna"
+msgstr ""
+
+#. NAMES.OCEANFISH_SMALL_8
+msgctxt "NAMES.OCEANFISH_SMALL_8"
+msgid "Scorching Sunfish"
+msgstr ""
+
+#. NAMES.OCEANFISH_SMALL_8_INV
+msgctxt "NAMES.OCEANFISH_SMALL_8_INV"
+msgid "Scorching Sunfish"
+msgstr ""
+
+#. NAMES.OCEANFISH_SMALL_9
+msgctxt "NAMES.OCEANFISH_SMALL_9"
+msgid "Spittlefish"
+msgstr ""
+
+#. NAMES.OCEANFISH_SMALL_9_INV
+msgctxt "NAMES.OCEANFISH_SMALL_9_INV"
+msgid "Spittlefish"
+msgstr ""
+
+#. NAMES.OCEANHORROR
+msgctxt "NAMES.OCEANHORROR"
+msgid "Terrorclaw"
+msgstr ""
+
+#. NAMES.OCEANTREE
+msgctxt "NAMES.OCEANTREE"
+msgid "Knobbly Tree"
+msgstr ""
+
+#. NAMES.OCEANTREENUT
+msgctxt "NAMES.OCEANTREENUT"
+msgid "Knobbly Tree Nut"
+msgstr ""
+
+#. NAMES.OCEANTREE_PILLAR
+msgctxt "NAMES.OCEANTREE_PILLAR"
+msgid "Above-Average Tree Trunk"
+msgstr ""
+
+#. NAMES.OCEANVINE
+msgctxt "NAMES.OCEANVINE"
+msgid "Mossy Vine"
+msgstr ""
+
+#. NAMES.OCEANVINE_COCOON
+msgctxt "NAMES.OCEANVINE_COCOON"
+msgid "Sea Strider Nest"
+msgstr ""
+
+#. NAMES.OCEANVINE_COCOON_BURNT
+msgctxt "NAMES.OCEANVINE_COCOON_BURNT"
+msgid "Sea Strider Nest"
+msgstr ""
+
+#. NAMES.OLDAGER_COMPONENT
+msgctxt "NAMES.OLDAGER_COMPONENT"
+msgid "the passage of time"
+msgstr ""
+
+#. NAMES.ONEMANBAND
+msgctxt "NAMES.ONEMANBAND"
+msgid "One-man Band"
+msgstr ""
+
+#. NAMES.ONION
+msgctxt "NAMES.ONION"
+msgid "Onion"
+msgstr ""
+
+#. NAMES.ONION_COOKED
+msgctxt "NAMES.ONION_COOKED"
+msgid "Roasted Onion"
+msgstr ""
+
+#. NAMES.ONION_OVERSIZED
+msgctxt "NAMES.ONION_OVERSIZED"
+msgid "Giant Onion"
+msgstr ""
+
+#. NAMES.ONION_OVERSIZED_ROTTEN
+msgctxt "NAMES.ONION_OVERSIZED_ROTTEN"
+msgid "Giant Rotting Onion"
+msgstr ""
+
+#. NAMES.ONION_SEEDS
+msgctxt "NAMES.ONION_SEEDS"
+msgid "Pointy Seeds"
+msgstr ""
+
+#. NAMES.OPALPRECIOUSGEM
+msgctxt "NAMES.OPALPRECIOUSGEM"
+msgid "Iridescent Gem"
+msgstr ""
+
+#. NAMES.OPALSTAFF
+msgctxt "NAMES.OPALSTAFF"
+msgid "Moon Caller's Staff"
+msgstr ""
+
+#. NAMES.ORANGEAMULET
+msgctxt "NAMES.ORANGEAMULET"
+msgid "The Lazy Forager"
+msgstr ""
+
+#. NAMES.ORANGEGEM
+msgctxt "NAMES.ORANGEGEM"
+msgid "Orange Gem"
+msgstr ""
+
+#. NAMES.ORANGEMOONEYE
+msgctxt "NAMES.ORANGEMOONEYE"
+msgid "Orange Moonlens"
+msgstr ""
+
+#. NAMES.ORANGESTAFF
+msgctxt "NAMES.ORANGESTAFF"
+msgid "The Lazy Explorer"
+msgstr ""
+
+#. NAMES.PANDORASCHEST
+msgctxt "NAMES.PANDORASCHEST"
+msgid "Ornate Chest"
+msgstr ""
+
+#. NAMES.PANETTONE
+msgctxt "NAMES.PANETTONE"
+msgid "Panettone"
+msgstr ""
+
+#. NAMES.PANFLUTE
+msgctxt "NAMES.PANFLUTE"
+msgid "Pan Flute"
+msgstr ""
+
+#. NAMES.PAPYRUS
+msgctxt "NAMES.PAPYRUS"
+msgid "Papyrus"
+msgstr ""
+
+#. NAMES.PAVLOVA
+msgctxt "NAMES.PAVLOVA"
+msgid "Pavlova"
+msgstr ""
+
+#. NAMES.PEGHOOK
+msgctxt "NAMES.PEGHOOK"
+msgid "Scorpeon"
+msgstr ""
+
+#. NAMES.PEGHOOK_DOT
+msgctxt "NAMES.PEGHOOK_DOT"
+msgid "Scorpeon Acid"
+msgstr ""
+
+#. NAMES.PENGUIN
+msgctxt "NAMES.PENGUIN"
+msgid "Pengull"
+msgstr ""
+
+#. NAMES.PEPPER
+msgctxt "NAMES.PEPPER"
+msgid "Pepper"
+msgstr ""
+
+#. NAMES.PEPPERPOPPER
+msgctxt "NAMES.PEPPERPOPPER"
+msgid "Stuffed Pepper Poppers"
+msgstr ""
+
+#. NAMES.PEPPER_COOKED
+msgctxt "NAMES.PEPPER_COOKED"
+msgid "Roasted Pepper"
+msgstr ""
+
+#. NAMES.PEPPER_OVERSIZED
+msgctxt "NAMES.PEPPER_OVERSIZED"
+msgid "Giant Pepper"
+msgstr ""
+
+#. NAMES.PEPPER_OVERSIZED_ROTTEN
+msgctxt "NAMES.PEPPER_OVERSIZED_ROTTEN"
+msgid "Giant Rotting Pepper"
+msgstr ""
+
+#. NAMES.PEPPER_SEEDS
+msgctxt "NAMES.PEPPER_SEEDS"
+msgid "Lumpy Seeds"
+msgstr ""
+
+#. NAMES.PERD
+msgctxt "NAMES.PERD"
+msgid "Gobbler"
+msgstr ""
+
+#. NAMES.PERDFAN
+msgctxt "NAMES.PERDFAN"
+msgid "Lucky Fan"
+msgstr ""
+
+#. NAMES.PERDSHRINE
+msgctxt "NAMES.PERDSHRINE"
+msgid "Gobbler Shrine"
+msgstr ""
+
+#. NAMES.PEROGIES
+msgctxt "NAMES.PEROGIES"
+msgid "Pierogi"
+msgstr ""
+
+#. NAMES.PETALS
+msgctxt "NAMES.PETALS"
+msgid "Petals"
+msgstr ""
+
+#. NAMES.PETALS_EVIL
+msgctxt "NAMES.PETALS_EVIL"
+msgid "Dark Petals"
+msgstr ""
+
+#. NAMES.PHLEGM
+msgctxt "NAMES.PHLEGM"
+msgid "Phlegm"
+msgstr ""
+
+#. NAMES.PICKAXE
+msgctxt "NAMES.PICKAXE"
+msgid "Pickaxe"
+msgstr ""
+
+#. NAMES.PICKLEDHERRING
+msgctxt "NAMES.PICKLEDHERRING"
+msgid "Pickled Herring"
+msgstr ""
+
+#. NAMES.PIGELITE1
+msgctxt "NAMES.PIGELITE1"
+msgid "Wade"
+msgstr ""
+
+#. NAMES.PIGELITE2
+msgctxt "NAMES.PIGELITE2"
+msgid "Ignatius"
+msgstr ""
+
+#. NAMES.PIGELITE3
+msgctxt "NAMES.PIGELITE3"
+msgid "Dmitri"
+msgstr ""
+
+#. NAMES.PIGELITE4
+msgctxt "NAMES.PIGELITE4"
+msgid "Sawyer"
+msgstr ""
+
+#. NAMES.PIGELITEFIGHTER1
+msgctxt "NAMES.PIGELITEFIGHTER1"
+msgid "Wade"
+msgstr ""
+
+#. NAMES.PIGELITEFIGHTER2
+msgctxt "NAMES.PIGELITEFIGHTER2"
+msgid "Ignatius"
+msgstr ""
+
+#. NAMES.PIGELITEFIGHTER3
+msgctxt "NAMES.PIGELITEFIGHTER3"
+msgid "Dmitri"
+msgstr ""
+
+#. NAMES.PIGELITEFIGHTER4
+msgctxt "NAMES.PIGELITEFIGHTER4"
+msgid "Sawyer"
+msgstr ""
+
+#. NAMES.PIGGUARD
+msgctxt "NAMES.PIGGUARD"
+msgid "Guard Pig"
+msgstr ""
+
+#. NAMES.PIGGYBACK
+msgctxt "NAMES.PIGGYBACK"
+msgid "Piggyback"
+msgstr ""
+
+#. NAMES.PIGHEAD
+msgctxt "NAMES.PIGHEAD"
+msgid "Pig Head"
+msgstr ""
+
+#. NAMES.PIGHOUSE
+msgctxt "NAMES.PIGHOUSE"
+msgid "Pig House"
+msgstr ""
+
+#. NAMES.PIGKING
+msgctxt "NAMES.PIGKING"
+msgid "Pig King"
+msgstr ""
+
+#. NAMES.PIGMAN
+msgctxt "NAMES.PIGMAN"
+msgid "Pig Man"
+msgstr ""
+
+#. NAMES.PIGSHRINE
+msgctxt "NAMES.PIGSHRINE"
+msgid "Pig Shrine"
+msgstr ""
+
+#. NAMES.PIGSKIN
+msgctxt "NAMES.PIGSKIN"
+msgid "Pig Skin"
+msgstr ""
+
+#. NAMES.PIGTORCH
+msgctxt "NAMES.PIGTORCH"
+msgid "Pig Torch"
+msgstr ""
+
+#. NAMES.PIG_COIN
+msgctxt "NAMES.PIG_COIN"
+msgid "Clout Snout"
+msgstr ""
+
+#. NAMES.PIG_TOKEN
+msgctxt "NAMES.PIG_TOKEN"
+msgid "Golden Belt"
+msgstr ""
+
+#. NAMES.PINECONE
+msgctxt "NAMES.PINECONE"
+msgid "Pine Cone"
+msgstr ""
+
+#. NAMES.PINECONE_SAPLING
+msgctxt "NAMES.PINECONE_SAPLING"
+msgid "Evergreen Sapling"
+msgstr ""
+
+#. NAMES.PITCHFORK
+msgctxt "NAMES.PITCHFORK"
+msgid "Pitchfork"
+msgstr ""
+
+#. NAMES.PLANTMEAT
+msgctxt "NAMES.PLANTMEAT"
+msgid "Leafy Meat"
+msgstr ""
+
+#. NAMES.PLANTMEAT_COOKED
+msgctxt "NAMES.PLANTMEAT_COOKED"
+msgid "Cooked Leafy Meat"
+msgstr ""
+
+#. NAMES.PLANTREGISTRYHAT
+msgctxt "NAMES.PLANTREGISTRYHAT"
+msgid "Gardeneer Hat"
+msgstr ""
+
+#. NAMES.PLANT_NORMAL
+msgctxt "NAMES.PLANT_NORMAL"
+msgid "Crop"
+msgstr ""
+
+#. NAMES.PLANT_NORMAL_GROUND
+msgctxt "NAMES.PLANT_NORMAL_GROUND"
+msgid "Wild Crop"
+msgstr ""
+
+#. NAMES.POCKETWATCH_DISMANTLER
+msgctxt "NAMES.POCKETWATCH_DISMANTLER"
+msgid "Clockmaker's Tools"
+msgstr ""
+
+#. NAMES.POCKETWATCH_HEAL
+msgctxt "NAMES.POCKETWATCH_HEAL"
+msgid "Ageless Watch"
+msgstr ""
+
+#. NAMES.POCKETWATCH_PARTS
+msgctxt "NAMES.POCKETWATCH_PARTS"
+msgid "Time Pieces"
+msgstr ""
+
+#. NAMES.POCKETWATCH_PORTAL
+msgctxt "NAMES.POCKETWATCH_PORTAL"
+msgid "Rift Watch"
+msgstr ""
+
+#. NAMES.POCKETWATCH_PORTAL_ENTRANCE
+msgctxt "NAMES.POCKETWATCH_PORTAL_ENTRANCE"
+msgid "Time Rift"
+msgstr ""
+
+#. NAMES.POCKETWATCH_PORTAL_EXIT
+msgctxt "NAMES.POCKETWATCH_PORTAL_EXIT"
+msgid "Time Rift"
+msgstr ""
+
+#. NAMES.POCKETWATCH_RECALL
+msgctxt "NAMES.POCKETWATCH_RECALL"
+msgid "Backtrek Watch"
+msgstr ""
+
+#. NAMES.POCKETWATCH_REVIVE
+msgctxt "NAMES.POCKETWATCH_REVIVE"
+msgid "Second Chance Watch"
+msgstr ""
+
+#. NAMES.POCKETWATCH_REVIVE_REVIVER
+msgctxt "NAMES.POCKETWATCH_REVIVE_REVIVER"
+msgid "Second Chance Watch"
+msgstr ""
+
+#. NAMES.POCKETWATCH_WARP
+msgctxt "NAMES.POCKETWATCH_WARP"
+msgid "Backstep Watch"
+msgstr ""
+
+#. NAMES.POCKETWATCH_WEAPON
+msgctxt "NAMES.POCKETWATCH_WEAPON"
+msgid "Alarming Clock"
+msgstr ""
+
+#. NAMES.POCKET_SCALE
+msgctxt "NAMES.POCKET_SCALE"
+msgid "Pocket Scale"
+msgstr ""
+
+#. NAMES.POLISHCOOKIE
+msgctxt "NAMES.POLISHCOOKIE"
+msgid "Polish Cookies"
+msgstr ""
+
+#. NAMES.POMEGRANATE
+msgctxt "NAMES.POMEGRANATE"
+msgid "Pomegranate"
+msgstr ""
+
+#. NAMES.POMEGRANATE_COOKED
+msgctxt "NAMES.POMEGRANATE_COOKED"
+msgid "Sliced Pomegranate"
+msgstr ""
+
+#. NAMES.POMEGRANATE_OVERSIZED
+msgctxt "NAMES.POMEGRANATE_OVERSIZED"
+msgid "Giant Pomegranate"
+msgstr ""
+
+#. NAMES.POMEGRANATE_OVERSIZED_ROTTEN
+msgctxt "NAMES.POMEGRANATE_OVERSIZED_ROTTEN"
+msgid "Giant Rotting Pomegranate"
+msgstr ""
+
+#. NAMES.POMEGRANATE_SEEDS
+msgctxt "NAMES.POMEGRANATE_SEEDS"
+msgid "Windblown Seeds"
+msgstr ""
+
+#. NAMES.POND
+msgctxt "NAMES.POND"
+msgid "Pond"
+msgstr ""
+
+#. NAMES.PONDEEL
+msgctxt "NAMES.PONDEEL"
+msgid "Live Eel"
+msgstr ""
+
+#. NAMES.PONDFISH
+msgctxt "NAMES.PONDFISH"
+msgid "Freshwater Fish"
+msgstr ""
+
+#. NAMES.POND_ALGAE
+msgctxt "NAMES.POND_ALGAE"
+msgid "Algae"
+msgstr ""
+
+#. NAMES.POND_CAVE
+msgctxt "NAMES.POND_CAVE"
+msgid "Pond"
+msgstr ""
+
+#. NAMES.POND_MOS
+msgctxt "NAMES.POND_MOS"
+msgid "Pond"
+msgstr ""
+
+#. NAMES.POOP
+msgctxt "NAMES.POOP"
+msgid "Manure"
+msgstr ""
+
+#. NAMES.PORTABLEBLENDER_ITEM
+msgctxt "NAMES.PORTABLEBLENDER_ITEM"
+msgid "Portable Grinding Mill"
+msgstr ""
+
+#. NAMES.PORTABLECOOKPOT_ITEM
+msgctxt "NAMES.PORTABLECOOKPOT_ITEM"
+msgid "Portable Crock Pot"
+msgstr ""
+
+#. NAMES.PORTABLESPICER_ITEM
+msgctxt "NAMES.PORTABLESPICER_ITEM"
+msgid "Portable Seasoning Station"
+msgstr ""
+
+#. NAMES.PORTABLETENT
+msgctxt "NAMES.PORTABLETENT"
+msgid "Camper's Tent"
+msgstr ""
+
+#. NAMES.PORTABLETENT_ITEM
+msgctxt "NAMES.PORTABLETENT_ITEM"
+msgid "Tent Roll"
+msgstr ""
+
+#. NAMES.POTATO
+msgctxt "NAMES.POTATO"
+msgid "Potato"
+msgstr ""
+
+#. NAMES.POTATOSACK
+msgctxt "NAMES.POTATOSACK"
+msgid "Potato Sack"
+msgstr ""
+
+#. NAMES.POTATOSOUFFLE
+msgctxt "NAMES.POTATOSOUFFLE"
+msgid "Puffed Potato Soufflé"
+msgstr ""
+
+#. NAMES.POTATOTORNADO
+msgctxt "NAMES.POTATOTORNADO"
+msgid "Fancy Spiralled Tubers"
+msgstr ""
+
+#. NAMES.POTATO_COOKED
+msgctxt "NAMES.POTATO_COOKED"
+msgid "Roasted Potato"
+msgstr ""
+
+#. NAMES.POTATO_OVERSIZED
+msgctxt "NAMES.POTATO_OVERSIZED"
+msgid "Giant Potato"
+msgstr ""
+
+#. NAMES.POTATO_OVERSIZED_ROTTEN
+msgctxt "NAMES.POTATO_OVERSIZED_ROTTEN"
+msgid "Giant Rotting Potato"
+msgstr ""
+
+#. NAMES.POTATO_SEEDS
+msgctxt "NAMES.POTATO_SEEDS"
+msgid "Fluffy Seeds"
+msgstr ""
+
+#. NAMES.POTTEDFERN
+msgctxt "NAMES.POTTEDFERN"
+msgid "Potted Fern"
+msgstr ""
+
+#. NAMES.POWCAKE
+msgctxt "NAMES.POWCAKE"
+msgid "Powdercake"
+msgstr ""
+
+#. NAMES.PREMIUMWATERINGCAN
+msgctxt "NAMES.PREMIUMWATERINGCAN"
+msgid "Empty Waterfowl Can"
+msgstr ""
+
+#. NAMES.PREMIUMWATERINGCAN_NOT_EMPTY
+msgctxt "NAMES.PREMIUMWATERINGCAN_NOT_EMPTY"
+msgid "Waterfowl Can"
+msgstr ""
+
+#. NAMES.PUFFIN
+msgctxt "NAMES.PUFFIN"
+msgid "Puffin"
+msgstr ""
+
+#. NAMES.PUMPKIN
+msgctxt "NAMES.PUMPKIN"
+msgid "Pumpkin"
+msgstr ""
+
+#. NAMES.PUMPKINCOOKIE
+msgctxt "NAMES.PUMPKINCOOKIE"
+msgid "Pumpkin Cookies"
+msgstr ""
+
+#. NAMES.PUMPKINPIE
+msgctxt "NAMES.PUMPKINPIE"
+msgid "Pumpkin Pie"
+msgstr ""
+
+#. NAMES.PUMPKIN_COOKED
+msgctxt "NAMES.PUMPKIN_COOKED"
+msgid "Hot Pumpkin"
+msgstr ""
+
+#. NAMES.PUMPKIN_LANTERN
+msgctxt "NAMES.PUMPKIN_LANTERN"
+msgid "Pumpkin Lantern"
+msgstr ""
+
+#. NAMES.PUMPKIN_OVERSIZED
+msgctxt "NAMES.PUMPKIN_OVERSIZED"
+msgid "Giant Pumpkin"
+msgstr ""
+
+#. NAMES.PUMPKIN_OVERSIZED_ROTTEN
+msgctxt "NAMES.PUMPKIN_OVERSIZED_ROTTEN"
+msgid "Giant Rotting Pumpkin"
+msgstr ""
+
+#. NAMES.PUMPKIN_SEEDS
+msgctxt "NAMES.PUMPKIN_SEEDS"
+msgid "Sharp Seeds"
+msgstr ""
+
+#. NAMES.PURPLEAMULET
+msgctxt "NAMES.PURPLEAMULET"
+msgid "Nightmare Amulet"
+msgstr ""
+
+#. NAMES.PURPLEGEM
+msgctxt "NAMES.PURPLEGEM"
+msgid "Purple Gem"
+msgstr ""
+
+#. NAMES.PURPLEMOONEYE
+msgctxt "NAMES.PURPLEMOONEYE"
+msgid "Purple Moonlens"
+msgstr ""
+
+#. NAMES.QUAGMIRE_ALTAR
+msgctxt "NAMES.QUAGMIRE_ALTAR"
+msgid "The Altar of Gnaw"
+msgstr ""
+
+#. NAMES.QUAGMIRE_ALTAR_BOLLARD
+msgctxt "NAMES.QUAGMIRE_ALTAR_BOLLARD"
+msgid "Post"
+msgstr ""
+
+#. NAMES.QUAGMIRE_ALTAR_IVY
+msgctxt "NAMES.QUAGMIRE_ALTAR_IVY"
+msgid "Ivy"
+msgstr ""
+
+#. NAMES.QUAGMIRE_ALTAR_QUEEN
+msgctxt "NAMES.QUAGMIRE_ALTAR_QUEEN"
+msgid "Queen Beast"
+msgstr ""
+
+#. NAMES.QUAGMIRE_ALTAR_STATUE1
+msgctxt "NAMES.QUAGMIRE_ALTAR_STATUE1"
+msgid "Beast of Hunger"
+msgstr ""
+
+#. NAMES.QUAGMIRE_ALTAR_STATUE2
+msgctxt "NAMES.QUAGMIRE_ALTAR_STATUE2"
+msgid "Beast of Hunger"
+msgstr ""
+
+#. NAMES.QUAGMIRE_BEEFALO
+msgctxt "NAMES.QUAGMIRE_BEEFALO"
+msgid "Old Beefalo"
+msgstr ""
+
+#. NAMES.QUAGMIRE_BOWL_SILVER
+msgctxt "NAMES.QUAGMIRE_BOWL_SILVER"
+msgid "Silver Bowl"
+msgstr ""
+
+#. NAMES.QUAGMIRE_CASSEROLEDISH
+msgctxt "NAMES.QUAGMIRE_CASSEROLEDISH"
+msgid "Large Casserole Dish"
+msgstr ""
+
+#. NAMES.QUAGMIRE_CASSEROLEDISH_SMALL
+msgctxt "NAMES.QUAGMIRE_CASSEROLEDISH_SMALL"
+msgid "Small Casserole Dish"
+msgstr ""
+
+#. NAMES.QUAGMIRE_COIN1
+msgctxt "NAMES.QUAGMIRE_COIN1"
+msgid "Old Coin"
+msgstr ""
+
+#. NAMES.QUAGMIRE_COIN2
+msgctxt "NAMES.QUAGMIRE_COIN2"
+msgid "Sapphire Medallion"
+msgstr ""
+
+#. NAMES.QUAGMIRE_COIN3
+msgctxt "NAMES.QUAGMIRE_COIN3"
+msgid "Red Mark"
+msgstr ""
+
+#. NAMES.QUAGMIRE_COIN4
+msgctxt "NAMES.QUAGMIRE_COIN4"
+msgid "Gnaw's Favor"
+msgstr ""
+
+#. NAMES.QUAGMIRE_COOKEDSMALLMEAT
+msgctxt "NAMES.QUAGMIRE_COOKEDSMALLMEAT"
+msgid "Cooked Meat Scraps"
+msgstr ""
+
+#. NAMES.QUAGMIRE_CRABMEAT
+msgctxt "NAMES.QUAGMIRE_CRABMEAT"
+msgid "Crab Meat"
+msgstr ""
+
+#. NAMES.QUAGMIRE_CRABMEAT_COOKED
+msgctxt "NAMES.QUAGMIRE_CRABMEAT_COOKED"
+msgid "Cooked Crab Meat"
+msgstr ""
+
+#. NAMES.QUAGMIRE_CRABTRAP
+msgctxt "NAMES.QUAGMIRE_CRABTRAP"
+msgid "Crab Trap"
+msgstr ""
+
+#. NAMES.QUAGMIRE_CRATE_GRILL
+msgctxt "NAMES.QUAGMIRE_CRATE_GRILL"
+msgid "Large Grill Kit"
+msgstr ""
+
+#. NAMES.QUAGMIRE_CRATE_GRILL_SMALL
+msgctxt "NAMES.QUAGMIRE_CRATE_GRILL_SMALL"
+msgid "Grill Kit"
+msgstr ""
+
+#. NAMES.QUAGMIRE_CRATE_OVEN
+msgctxt "NAMES.QUAGMIRE_CRATE_OVEN"
+msgid "Oven Kit"
+msgstr ""
+
+#. NAMES.QUAGMIRE_CRATE_POT_HANGER
+msgctxt "NAMES.QUAGMIRE_CRATE_POT_HANGER"
+msgid "Cookpot Kit"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FERN
+msgctxt "NAMES.QUAGMIRE_FERN"
+msgid "Fern"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FLOUR
+msgctxt "NAMES.QUAGMIRE_FLOUR"
+msgid "Flour"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOLIAGE_COOKED
+msgctxt "NAMES.QUAGMIRE_FOLIAGE_COOKED"
+msgid "Cooked Foliage"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_001
+msgctxt "NAMES.QUAGMIRE_FOOD_001"
+msgid "Loaf of Bread"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_002
+msgctxt "NAMES.QUAGMIRE_FOOD_002"
+msgid "Potato Chips"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_003
+msgctxt "NAMES.QUAGMIRE_FOOD_003"
+msgid "Vegetable Soup"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_004
+msgctxt "NAMES.QUAGMIRE_FOOD_004"
+msgid "Jelly Sandwich"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_005
+msgctxt "NAMES.QUAGMIRE_FOOD_005"
+msgid "Fish Stew"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_006
+msgctxt "NAMES.QUAGMIRE_FOOD_006"
+msgid "Turnip Cake"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_007
+msgctxt "NAMES.QUAGMIRE_FOOD_007"
+msgid "Potato Pancakes"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_008
+msgctxt "NAMES.QUAGMIRE_FOOD_008"
+msgid "Potato Soup"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_009
+msgctxt "NAMES.QUAGMIRE_FOOD_009"
+msgid "Fishball Skewers"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_010
+msgctxt "NAMES.QUAGMIRE_FOOD_010"
+msgid "Meatballs"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_011
+msgctxt "NAMES.QUAGMIRE_FOOD_011"
+msgid "Meat Skewers"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_012
+msgctxt "NAMES.QUAGMIRE_FOOD_012"
+msgid "Stone Soup"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_013
+msgctxt "NAMES.QUAGMIRE_FOOD_013"
+msgid "Croquette"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_014
+msgctxt "NAMES.QUAGMIRE_FOOD_014"
+msgid "Roast Vegetables"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_015
+msgctxt "NAMES.QUAGMIRE_FOOD_015"
+msgid "Meatloaf"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_016
+msgctxt "NAMES.QUAGMIRE_FOOD_016"
+msgid "Carrot Soup"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_017
+msgctxt "NAMES.QUAGMIRE_FOOD_017"
+msgid "Fish Pie"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_018
+msgctxt "NAMES.QUAGMIRE_FOOD_018"
+msgid "Fish and Chips"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_019
+msgctxt "NAMES.QUAGMIRE_FOOD_019"
+msgid "Meat Pie"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_020
+msgctxt "NAMES.QUAGMIRE_FOOD_020"
+msgid "Sliders"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_021
+msgctxt "NAMES.QUAGMIRE_FOOD_021"
+msgid "Fist Full of Jam"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_022
+msgctxt "NAMES.QUAGMIRE_FOOD_022"
+msgid "Jelly Roll"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_023
+msgctxt "NAMES.QUAGMIRE_FOOD_023"
+msgid "Carrot Cake"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_024
+msgctxt "NAMES.QUAGMIRE_FOOD_024"
+msgid "Garlic Mashed Potatoes"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_025
+msgctxt "NAMES.QUAGMIRE_FOOD_025"
+msgid "Garlic Bread"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_026
+msgctxt "NAMES.QUAGMIRE_FOOD_026"
+msgid "Tomato Soup"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_027
+msgctxt "NAMES.QUAGMIRE_FOOD_027"
+msgid "Sausage"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_028
+msgctxt "NAMES.QUAGMIRE_FOOD_028"
+msgid "Candied Fish"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_029
+msgctxt "NAMES.QUAGMIRE_FOOD_029"
+msgid "Stuffed Mushroom"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_030
+msgctxt "NAMES.QUAGMIRE_FOOD_030"
+msgid "Ratatouille"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_031
+msgctxt "NAMES.QUAGMIRE_FOOD_031"
+msgid "Bruschetta"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_032
+msgctxt "NAMES.QUAGMIRE_FOOD_032"
+msgid "Meat Stew"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_033
+msgctxt "NAMES.QUAGMIRE_FOOD_033"
+msgid "Hamburger"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_034
+msgctxt "NAMES.QUAGMIRE_FOOD_034"
+msgid "Fish Burger"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_035
+msgctxt "NAMES.QUAGMIRE_FOOD_035"
+msgid "Mushroom Burger"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_036
+msgctxt "NAMES.QUAGMIRE_FOOD_036"
+msgid "Fish Steak"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_037
+msgctxt "NAMES.QUAGMIRE_FOOD_037"
+msgid "Curry"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_038
+msgctxt "NAMES.QUAGMIRE_FOOD_038"
+msgid "Spaghetti and Meatball"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_039
+msgctxt "NAMES.QUAGMIRE_FOOD_039"
+msgid "Lasagna"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_040
+msgctxt "NAMES.QUAGMIRE_FOOD_040"
+msgid "Poached Fish"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_041
+msgctxt "NAMES.QUAGMIRE_FOOD_041"
+msgid "Shepherd's Pie"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_042
+msgctxt "NAMES.QUAGMIRE_FOOD_042"
+msgid "Candy"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_043
+msgctxt "NAMES.QUAGMIRE_FOOD_043"
+msgid "Bread Pudding"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_044
+msgctxt "NAMES.QUAGMIRE_FOOD_044"
+msgid "Waffles"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_045
+msgctxt "NAMES.QUAGMIRE_FOOD_045"
+msgid "Berry Tart"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_046
+msgctxt "NAMES.QUAGMIRE_FOOD_046"
+msgid "Macaroni and Cheese"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_047
+msgctxt "NAMES.QUAGMIRE_FOOD_047"
+msgid "Bagel and Fish"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_048
+msgctxt "NAMES.QUAGMIRE_FOOD_048"
+msgid "Grilled Cheese"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_049
+msgctxt "NAMES.QUAGMIRE_FOOD_049"
+msgid "Cream of Mushroom Soup"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_050
+msgctxt "NAMES.QUAGMIRE_FOOD_050"
+msgid "Pierogi"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_051
+msgctxt "NAMES.QUAGMIRE_FOOD_051"
+msgid "Manicotti"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_052
+msgctxt "NAMES.QUAGMIRE_FOOD_052"
+msgid "Cheeseburger"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_053
+msgctxt "NAMES.QUAGMIRE_FOOD_053"
+msgid "Creamy Fettuccine"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_054
+msgctxt "NAMES.QUAGMIRE_FOOD_054"
+msgid "Onion Soup"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_055
+msgctxt "NAMES.QUAGMIRE_FOOD_055"
+msgid "Breaded Cutlet"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_056
+msgctxt "NAMES.QUAGMIRE_FOOD_056"
+msgid "Creamy Fish"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_057
+msgctxt "NAMES.QUAGMIRE_FOOD_057"
+msgid "Pizza"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_058
+msgctxt "NAMES.QUAGMIRE_FOOD_058"
+msgid "Pot Roast"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_059
+msgctxt "NAMES.QUAGMIRE_FOOD_059"
+msgid "Crab Cake"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_060
+msgctxt "NAMES.QUAGMIRE_FOOD_060"
+msgid "Steak Frites"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_061
+msgctxt "NAMES.QUAGMIRE_FOOD_061"
+msgid "Shooter Sandwich"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_062
+msgctxt "NAMES.QUAGMIRE_FOOD_062"
+msgid "Bacon Wrapped Meat"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_063
+msgctxt "NAMES.QUAGMIRE_FOOD_063"
+msgid "Crab Roll"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_064
+msgctxt "NAMES.QUAGMIRE_FOOD_064"
+msgid "Meat Wellington"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_065
+msgctxt "NAMES.QUAGMIRE_FOOD_065"
+msgid "Crab Ravioli"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_066
+msgctxt "NAMES.QUAGMIRE_FOOD_066"
+msgid "Caramel Cube"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_067
+msgctxt "NAMES.QUAGMIRE_FOOD_067"
+msgid "Scone"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_068
+msgctxt "NAMES.QUAGMIRE_FOOD_068"
+msgid "Trifle"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_069
+msgctxt "NAMES.QUAGMIRE_FOOD_069"
+msgid "Cheesecake"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_BOWL
+msgctxt "NAMES.QUAGMIRE_FOOD_BOWL"
+msgid "Bowl"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_BURNT
+msgctxt "NAMES.QUAGMIRE_FOOD_BURNT"
+msgid "Burnt Food"
+msgstr ""
+
+#. NAMES.QUAGMIRE_FOOD_PLATE
+msgctxt "NAMES.QUAGMIRE_FOOD_PLATE"
+msgid "Plate"
+msgstr ""
+
+#. NAMES.QUAGMIRE_GARLIC
+msgctxt "NAMES.QUAGMIRE_GARLIC"
+msgid "Garlic"
+msgstr ""
+
+#. NAMES.QUAGMIRE_GARLIC_COOKED
+msgctxt "NAMES.QUAGMIRE_GARLIC_COOKED"
+msgid "Roast Garlic"
+msgstr ""
+
+#. NAMES.QUAGMIRE_GOATKID
+msgctxt "NAMES.QUAGMIRE_GOATKID"
+msgid "Billy"
+msgstr ""
+
+#. NAMES.QUAGMIRE_GOATMILK
+msgctxt "NAMES.QUAGMIRE_GOATMILK"
+msgid "Goat Milk"
+msgstr ""
+
+#. NAMES.QUAGMIRE_GOATMUM
+msgctxt "NAMES.QUAGMIRE_GOATMUM"
+msgid "Mumsy"
+msgstr ""
+
+#. NAMES.QUAGMIRE_GRILL
+msgctxt "NAMES.QUAGMIRE_GRILL"
+msgid "Large Grill"
+msgstr ""
+
+#. NAMES.QUAGMIRE_GRILL_ITEM
+msgctxt "NAMES.QUAGMIRE_GRILL_ITEM"
+msgid "Large Grill"
+msgstr ""
+
+#. NAMES.QUAGMIRE_GRILL_SMALL
+msgctxt "NAMES.QUAGMIRE_GRILL_SMALL"
+msgid "Small Grill"
+msgstr ""
+
+#. NAMES.QUAGMIRE_GRILL_SMALL_ITEM
+msgctxt "NAMES.QUAGMIRE_GRILL_SMALL_ITEM"
+msgid "Small Grill"
+msgstr ""
+
+#. NAMES.QUAGMIRE_HOE
+msgctxt "NAMES.QUAGMIRE_HOE"
+msgid "Hoe"
+msgstr ""
+
+#. NAMES.QUAGMIRE_KEY
+msgctxt "NAMES.QUAGMIRE_KEY"
+msgid "Key"
+msgstr ""
+
+#. NAMES.QUAGMIRE_KEY_PARK
+msgctxt "NAMES.QUAGMIRE_KEY_PARK"
+msgid "Iron Key"
+msgstr ""
+
+#. NAMES.QUAGMIRE_LAMP_POST
+msgctxt "NAMES.QUAGMIRE_LAMP_POST"
+msgid "Streetlight"
+msgstr ""
+
+#. NAMES.QUAGMIRE_LAMP_SHORT
+msgctxt "NAMES.QUAGMIRE_LAMP_SHORT"
+msgid "Small Streetlight"
+msgstr ""
+
+#. NAMES.QUAGMIRE_MEALINGSTONE
+msgctxt "NAMES.QUAGMIRE_MEALINGSTONE"
+msgid "Mealing Stone"
+msgstr ""
+
+#. NAMES.QUAGMIRE_MERM
+msgctxt "NAMES.QUAGMIRE_MERM"
+msgid "Bog Merm"
+msgstr ""
+
+#. NAMES.QUAGMIRE_MERMHOUSE
+msgctxt "NAMES.QUAGMIRE_MERMHOUSE"
+msgid "Rundown House"
+msgstr ""
+
+#. NAMES.QUAGMIRE_MERM_CART1
+msgctxt "NAMES.QUAGMIRE_MERM_CART1"
+msgid "Sammy's Wagon"
+msgstr ""
+
+#. NAMES.QUAGMIRE_MERM_CART2
+msgctxt "NAMES.QUAGMIRE_MERM_CART2"
+msgid "Pipton's Cart"
+msgstr ""
+
+#. NAMES.QUAGMIRE_MUSHROOMS
+msgctxt "NAMES.QUAGMIRE_MUSHROOMS"
+msgid "Mushroom"
+msgstr ""
+
+#. NAMES.QUAGMIRE_MUSHROOMSTUMP
+msgctxt "NAMES.QUAGMIRE_MUSHROOMSTUMP"
+msgid "Mushroom"
+msgstr ""
+
+#. NAMES.QUAGMIRE_MUSHROOMS_COOKED
+msgctxt "NAMES.QUAGMIRE_MUSHROOMS_COOKED"
+msgid "Cooked Mushroom"
+msgstr ""
+
+#. NAMES.QUAGMIRE_ONION
+msgctxt "NAMES.QUAGMIRE_ONION"
+msgid "Onion"
+msgstr ""
+
+#. NAMES.QUAGMIRE_ONION_COOKED
+msgctxt "NAMES.QUAGMIRE_ONION_COOKED"
+msgid "Roast Onion"
+msgstr ""
+
+#. NAMES.QUAGMIRE_OVEN
+msgctxt "NAMES.QUAGMIRE_OVEN"
+msgid "Oven"
+msgstr ""
+
+#. NAMES.QUAGMIRE_OVEN_ITEM
+msgctxt "NAMES.QUAGMIRE_OVEN_ITEM"
+msgid "Oven"
+msgstr ""
+
+#. NAMES.QUAGMIRE_PARKSPIKE
+msgctxt "NAMES.QUAGMIRE_PARKSPIKE"
+msgid "Iron Fence"
+msgstr ""
+
+#. NAMES.QUAGMIRE_PARK_ANGEL
+msgctxt "NAMES.QUAGMIRE_PARK_ANGEL"
+msgid "Gnaw Worshipper"
+msgstr ""
+
+#. NAMES.QUAGMIRE_PARK_ANGEL2
+msgctxt "NAMES.QUAGMIRE_PARK_ANGEL2"
+msgid "Gnaw Worshipper"
+msgstr ""
+
+#. NAMES.QUAGMIRE_PARK_FOUNTAIN
+msgctxt "NAMES.QUAGMIRE_PARK_FOUNTAIN"
+msgid "Fountain"
+msgstr ""
+
+#. NAMES.QUAGMIRE_PARK_GATE
+msgctxt "NAMES.QUAGMIRE_PARK_GATE"
+msgid "Iron Gate"
+msgstr ""
+
+#. NAMES.QUAGMIRE_PARK_GATE_LOCKED
+msgctxt "NAMES.QUAGMIRE_PARK_GATE_LOCKED"
+msgid "Locked Iron Gate"
+msgstr ""
+
+#. NAMES.QUAGMIRE_PARK_OBELISK
+msgctxt "NAMES.QUAGMIRE_PARK_OBELISK"
+msgid "Stone Pillar"
+msgstr ""
+
+#. NAMES.QUAGMIRE_PARK_URN
+msgctxt "NAMES.QUAGMIRE_PARK_URN"
+msgid "Urn"
+msgstr ""
+
+#. NAMES.QUAGMIRE_PEBBLECRAB
+msgctxt "NAMES.QUAGMIRE_PEBBLECRAB"
+msgid "Pebble Crab"
+msgstr ""
+
+#. NAMES.QUAGMIRE_PIGEON
+msgctxt "NAMES.QUAGMIRE_PIGEON"
+msgid "Pigeon"
+msgstr ""
+
+#. NAMES.QUAGMIRE_PLATE_SILVER
+msgctxt "NAMES.QUAGMIRE_PLATE_SILVER"
+msgid "Silver Plate"
+msgstr ""
+
+#. NAMES.QUAGMIRE_POND_SALT
+msgctxt "NAMES.QUAGMIRE_POND_SALT"
+msgid "Salt Pond"
+msgstr ""
+
+#. NAMES.QUAGMIRE_PORTAL
+msgctxt "NAMES.QUAGMIRE_PORTAL"
+msgid "Ancient Gateway"
+msgstr ""
+
+#. NAMES.QUAGMIRE_PORTAL_KEY
+msgctxt "NAMES.QUAGMIRE_PORTAL_KEY"
+msgid "Ancient Key"
+msgstr ""
+
+#. NAMES.QUAGMIRE_POT
+msgctxt "NAMES.QUAGMIRE_POT"
+msgid "Large Cookpot"
+msgstr ""
+
+#. NAMES.QUAGMIRE_POTATO
+msgctxt "NAMES.QUAGMIRE_POTATO"
+msgid "Potato"
+msgstr ""
+
+#. NAMES.QUAGMIRE_POTATO_COOKED
+msgctxt "NAMES.QUAGMIRE_POTATO_COOKED"
+msgid "Roast Potato"
+msgstr ""
+
+#. NAMES.QUAGMIRE_POT_HANGER
+msgctxt "NAMES.QUAGMIRE_POT_HANGER"
+msgid "Pot Hanger"
+msgstr ""
+
+#. NAMES.QUAGMIRE_POT_HANGER_ITEM
+msgctxt "NAMES.QUAGMIRE_POT_HANGER_ITEM"
+msgid "Pot Hanger"
+msgstr ""
+
+#. NAMES.QUAGMIRE_POT_SMALL
+msgctxt "NAMES.QUAGMIRE_POT_SMALL"
+msgid "Cookpot"
+msgstr ""
+
+#. NAMES.QUAGMIRE_POT_SYRUP
+msgctxt "NAMES.QUAGMIRE_POT_SYRUP"
+msgid "Syrup Pot"
+msgstr ""
+
+#. NAMES.QUAGMIRE_ROTTEN_CROP
+msgctxt "NAMES.QUAGMIRE_ROTTEN_CROP"
+msgid "Rotten Crop"
+msgstr ""
+
+#. NAMES.QUAGMIRE_RUBBLE_BIKE
+msgctxt "NAMES.QUAGMIRE_RUBBLE_BIKE"
+msgid "Wrecked Bicycle"
+msgstr ""
+
+#. NAMES.QUAGMIRE_RUBBLE_CARRIAGE
+msgctxt "NAMES.QUAGMIRE_RUBBLE_CARRIAGE"
+msgid "Broken Carriage"
+msgstr ""
+
+#. NAMES.QUAGMIRE_RUBBLE_CATHEDRAL
+msgctxt "NAMES.QUAGMIRE_RUBBLE_CATHEDRAL"
+msgid "Dilapidated Cathedral"
+msgstr ""
+
+#. NAMES.QUAGMIRE_RUBBLE_CHIMNEY
+msgctxt "NAMES.QUAGMIRE_RUBBLE_CHIMNEY"
+msgid "Dilapidated Chimney"
+msgstr ""
+
+#. NAMES.QUAGMIRE_RUBBLE_CHIMNEY2
+msgctxt "NAMES.QUAGMIRE_RUBBLE_CHIMNEY2"
+msgid "Dilapidated Chimney"
+msgstr ""
+
+#. NAMES.QUAGMIRE_RUBBLE_CLOCK
+msgctxt "NAMES.QUAGMIRE_RUBBLE_CLOCK"
+msgid "Smashed Clock"
+msgstr ""
+
+#. NAMES.QUAGMIRE_RUBBLE_CLOCKTOWER
+msgctxt "NAMES.QUAGMIRE_RUBBLE_CLOCKTOWER"
+msgid "Dilapidated Clocktower"
+msgstr ""
+
+#. NAMES.QUAGMIRE_RUBBLE_HOUSE
+msgctxt "NAMES.QUAGMIRE_RUBBLE_HOUSE"
+msgid "Dilapidated House"
+msgstr ""
+
+#. NAMES.QUAGMIRE_RUBBLE_PUBDOOR
+msgctxt "NAMES.QUAGMIRE_RUBBLE_PUBDOOR"
+msgid "Dilapidated Door"
+msgstr ""
+
+#. NAMES.QUAGMIRE_RUBBLE_ROOF
+msgctxt "NAMES.QUAGMIRE_RUBBLE_ROOF"
+msgid "Dilapidated Roof"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SAFE
+msgctxt "NAMES.QUAGMIRE_SAFE"
+msgid "Safe"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SAFE_LOCKED
+msgctxt "NAMES.QUAGMIRE_SAFE_LOCKED"
+msgid "Locked Safe"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SALMON
+msgctxt "NAMES.QUAGMIRE_SALMON"
+msgid "Salmon"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SALMON_COOKED
+msgctxt "NAMES.QUAGMIRE_SALMON_COOKED"
+msgid "Cooked Salmon"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SALT
+msgctxt "NAMES.QUAGMIRE_SALT"
+msgid "Salt"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SALTED_FOOD_FMT
+msgctxt "NAMES.QUAGMIRE_SALTED_FOOD_FMT"
+msgid "Salted {food}"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SALTROCK
+msgctxt "NAMES.QUAGMIRE_SALTROCK"
+msgid "Salt Crystals"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SALTY_FOOD_FMT
+msgctxt "NAMES.QUAGMIRE_SALTY_FOOD_FMT"
+msgid "Salty {food}"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SALT_RACK
+msgctxt "NAMES.QUAGMIRE_SALT_RACK"
+msgid "Salt Rack"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SALT_RACK_ITEM
+msgctxt "NAMES.QUAGMIRE_SALT_RACK_ITEM"
+msgid "Salt Rack"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SAP
+msgctxt "NAMES.QUAGMIRE_SAP"
+msgid "Sap"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SAPBUCKET
+msgctxt "NAMES.QUAGMIRE_SAPBUCKET"
+msgid "Tree Tapping Kit"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SAP_SPOILED
+msgctxt "NAMES.QUAGMIRE_SAP_SPOILED"
+msgid "Ruined Sap"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SEEDPACKET_1
+msgctxt "NAMES.QUAGMIRE_SEEDPACKET_1"
+msgid "Packet of Blue Seeds"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SEEDPACKET_2
+msgctxt "NAMES.QUAGMIRE_SEEDPACKET_2"
+msgid "Packet of Fluffy Seeds"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SEEDPACKET_3
+msgctxt "NAMES.QUAGMIRE_SEEDPACKET_3"
+msgid "Packet of Spiky Seeds"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SEEDPACKET_4
+msgctxt "NAMES.QUAGMIRE_SEEDPACKET_4"
+msgid "Packet of Pointy Seeds"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SEEDPACKET_5
+msgctxt "NAMES.QUAGMIRE_SEEDPACKET_5"
+msgid "Packet of Round Seeds"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SEEDPACKET_6
+msgctxt "NAMES.QUAGMIRE_SEEDPACKET_6"
+msgid "Packet of Oblong Seeds"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SEEDPACKET_7
+msgctxt "NAMES.QUAGMIRE_SEEDPACKET_7"
+msgid "Packet of Seed Pods"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SEEDPACKET_MIX
+msgctxt "NAMES.QUAGMIRE_SEEDPACKET_MIX"
+msgid "Packet of Mixed Seeds"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SEEDS_1
+msgctxt "NAMES.QUAGMIRE_SEEDS_1"
+msgid "Blue Seeds"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SEEDS_2
+msgctxt "NAMES.QUAGMIRE_SEEDS_2"
+msgid "Fluffy Seeds"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SEEDS_3
+msgctxt "NAMES.QUAGMIRE_SEEDS_3"
+msgid "Spiky Seeds"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SEEDS_4
+msgctxt "NAMES.QUAGMIRE_SEEDS_4"
+msgid "Pointy Seeds"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SEEDS_5
+msgctxt "NAMES.QUAGMIRE_SEEDS_5"
+msgid "Round Seeds"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SEEDS_6
+msgctxt "NAMES.QUAGMIRE_SEEDS_6"
+msgid "Oblong Seeds"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SEEDS_7
+msgctxt "NAMES.QUAGMIRE_SEEDS_7"
+msgid "Seed Pods"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SLAUGHTERTOOL
+msgctxt "NAMES.QUAGMIRE_SLAUGHTERTOOL"
+msgid "Slaughter Tools"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SMALLMEAT
+msgctxt "NAMES.QUAGMIRE_SMALLMEAT"
+msgid "Meat Scraps"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SPOTSPICE_GROUND
+msgctxt "NAMES.QUAGMIRE_SPOTSPICE_GROUND"
+msgid "Spot Spice"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SPOTSPICE_SHRUB
+msgctxt "NAMES.QUAGMIRE_SPOTSPICE_SHRUB"
+msgid "Spotty Shrub"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SPOTSPICE_SPRIG
+msgctxt "NAMES.QUAGMIRE_SPOTSPICE_SPRIG"
+msgid "Spotty Sprig"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SUGARWOODTREE
+msgctxt "NAMES.QUAGMIRE_SUGARWOODTREE"
+msgid "Sugarwood Tree"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SWAMPIGELDER
+msgctxt "NAMES.QUAGMIRE_SWAMPIGELDER"
+msgid "Swamp Pig Elder"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SWAMPIG_HOUSE
+msgctxt "NAMES.QUAGMIRE_SWAMPIG_HOUSE"
+msgid "Worn Pig House"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SWAMPIG_HOUSE_RUBBLE
+msgctxt "NAMES.QUAGMIRE_SWAMPIG_HOUSE_RUBBLE"
+msgid "House Rubble"
+msgstr ""
+
+#. NAMES.QUAGMIRE_SYRUP
+msgctxt "NAMES.QUAGMIRE_SYRUP"
+msgid "Syrup"
+msgstr ""
+
+#. NAMES.QUAGMIRE_TOMATO
+msgctxt "NAMES.QUAGMIRE_TOMATO"
+msgid "Toma Root"
+msgstr ""
+
+#. NAMES.QUAGMIRE_TOMATO_COOKED
+msgctxt "NAMES.QUAGMIRE_TOMATO_COOKED"
+msgid "Roast Toma Root"
+msgstr ""
+
+#. NAMES.QUAGMIRE_TRADER_MERM
+msgctxt "NAMES.QUAGMIRE_TRADER_MERM"
+msgid "Sammy\nThe Lucid Bog Merm"
+msgstr ""
+
+#. NAMES.QUAGMIRE_TRADER_MERM2
+msgctxt "NAMES.QUAGMIRE_TRADER_MERM2"
+msgid "Pipton\nThe Cognizant Bog Merm"
+msgstr ""
+
+#. NAMES.QUAGMIRE_TURNIP
+msgctxt "NAMES.QUAGMIRE_TURNIP"
+msgid "Turnip"
+msgstr ""
+
+#. NAMES.QUAGMIRE_TURNIP_COOKED
+msgctxt "NAMES.QUAGMIRE_TURNIP_COOKED"
+msgid "Roast Turnip"
+msgstr ""
+
+#. NAMES.QUAGMIRE_WHEAT
+msgctxt "NAMES.QUAGMIRE_WHEAT"
+msgid "Wheat"
+msgstr ""
+
+#. NAMES.QUAGMIRE_WILDWHEAT
+msgctxt "NAMES.QUAGMIRE_WILDWHEAT"
+msgid "Wheat"
+msgstr ""
+
+#. NAMES.RABBIT
+msgctxt "NAMES.RABBIT"
+msgid "Rabbit"
+msgstr ""
+
+#. NAMES.RABBITHOLE
+msgctxt "NAMES.RABBITHOLE"
+msgid "Rabbit Hole"
+msgstr ""
+
+#. NAMES.RABBITHOUSE
+msgctxt "NAMES.RABBITHOUSE"
+msgid "Rabbit Hutch"
+msgstr ""
+
+#. NAMES.RAIN
+msgctxt "NAMES.RAIN"
+msgid "Short Circuit"
+msgstr ""
+
+#. NAMES.RAINCOAT
+msgctxt "NAMES.RAINCOAT"
+msgid "Rain Coat"
+msgstr ""
+
+#. NAMES.RAINHAT
+msgctxt "NAMES.RAINHAT"
+msgid "Rain Hat"
+msgstr ""
+
+#. NAMES.RAINOMETER
+msgctxt "NAMES.RAINOMETER"
+msgid "Rainometer"
+msgstr ""
+
+#. NAMES.RATATOUILLE
+msgctxt "NAMES.RATATOUILLE"
+msgid "Ratatouille"
+msgstr ""
+
+#. NAMES.RAZOR
+msgctxt "NAMES.RAZOR"
+msgid "Razor"
+msgstr ""
+
+#. NAMES.REDGEM
+msgctxt "NAMES.REDGEM"
+msgid "Red Gem"
+msgstr ""
+
+#. NAMES.REDLANTERN
+msgctxt "NAMES.REDLANTERN"
+msgid "Red Lantern"
+msgstr ""
+
+#. NAMES.REDMOONEYE
+msgctxt "NAMES.REDMOONEYE"
+msgid "Red Moonlens"
+msgstr ""
+
+#. NAMES.REDPOUCH
+msgctxt "NAMES.REDPOUCH"
+msgid "Red Pouch"
+msgstr ""
+
+#. NAMES.RED_CAP
+msgctxt "NAMES.RED_CAP"
+msgid "Red Cap"
+msgstr ""
+
+#. NAMES.RED_CAP_COOKED
+msgctxt "NAMES.RED_CAP_COOKED"
+msgid "Cooked Red Cap"
+msgstr ""
+
+#. NAMES.RED_MUSHROOM
+msgctxt "NAMES.RED_MUSHROOM"
+msgid "Red Mushroom"
+msgstr ""
+
+#. NAMES.RED_MUSHROOMHAT
+msgctxt "NAMES.RED_MUSHROOMHAT"
+msgid "Red Funcap"
+msgstr ""
+
+#. NAMES.REEDS
+msgctxt "NAMES.REEDS"
+msgid "Reeds"
+msgstr ""
+
+#. NAMES.REFINED_DUST
+msgctxt "NAMES.REFINED_DUST"
+msgid "Collected Dust"
+msgstr ""
+
+#. NAMES.REFLECTIVEVEST
+msgctxt "NAMES.REFLECTIVEVEST"
+msgid "Summer Frest"
+msgstr ""
+
+#. NAMES.RELIC
+msgctxt "NAMES.RELIC"
+msgid "Relic"
+msgstr ""
+
+#. NAMES.RESEARCHLAB
+msgctxt "NAMES.RESEARCHLAB"
+msgid "Science Machine"
+msgstr ""
+
+#. NAMES.RESEARCHLAB2
+msgctxt "NAMES.RESEARCHLAB2"
+msgid "Alchemy Engine"
+msgstr ""
+
+#. NAMES.RESEARCHLAB3
+msgctxt "NAMES.RESEARCHLAB3"
+msgid "Shadow Manipulator"
+msgstr ""
+
+#. NAMES.RESEARCHLAB4
+msgctxt "NAMES.RESEARCHLAB4"
+msgid "Prestihatitator"
+msgstr ""
+
+#. NAMES.RESKIN_TOOL
+msgctxt "NAMES.RESKIN_TOOL"
+msgid "Clean Sweeper"
+msgstr ""
+
+#. NAMES.RESURRECTIONSTATUE
+msgctxt "NAMES.RESURRECTIONSTATUE"
+msgid "Meat Effigy"
+msgstr ""
+
+#. NAMES.RESURRECTIONSTONE
+msgctxt "NAMES.RESURRECTIONSTONE"
+msgid "Touch Stone"
+msgstr ""
+
+#. NAMES.RESURRECTION_PENALTY
+msgctxt "NAMES.RESURRECTION_PENALTY"
+msgid "Resurrection Sickness"
+msgstr ""
+
+#. NAMES.REVIVER
+msgctxt "NAMES.REVIVER"
+msgid "Telltale Heart"
+msgstr ""
+
+#. NAMES.RHINODRILL
+msgctxt "NAMES.RHINODRILL"
+msgid "Rhinocebro Snapback"
+msgstr ""
+
+#. NAMES.RHINODRILL2
+msgctxt "NAMES.RHINODRILL2"
+msgid "Rhinocebro Flatbrim"
+msgstr ""
+
+#. NAMES.ROASTTURKEY
+msgctxt "NAMES.ROASTTURKEY"
+msgid "Roasted Turkey"
+msgstr ""
+
+#. NAMES.ROBIN
+msgctxt "NAMES.ROBIN"
+msgid "Redbird"
+msgstr ""
+
+#. NAMES.ROBIN_WINTER
+msgctxt "NAMES.ROBIN_WINTER"
+msgid "Snowbird"
+msgstr ""
+
+#. NAMES.ROBOT_BLUEPRINT
+msgctxt "NAMES.ROBOT_BLUEPRINT"
+msgid "Ironclad Costume Pattern"
+msgstr ""
+
+#. NAMES.ROCK1
+msgctxt "NAMES.ROCK1"
+msgid "Boulder"
+msgstr ""
+
+#. NAMES.ROCK2
+msgctxt "NAMES.ROCK2"
+msgid "Boulder"
+msgstr ""
+
+#. NAMES.ROCKS
+msgctxt "NAMES.ROCKS"
+msgid "Rocks"
+msgstr ""
+
+#. NAMES.ROCKY
+msgctxt "NAMES.ROCKY"
+msgid "Rock Lobster"
+msgstr ""
+
+#. NAMES.ROCK_AVOCADO_BUSH
+msgctxt "NAMES.ROCK_AVOCADO_BUSH"
+msgid "Stone Fruit Bush"
+msgstr ""
+
+#. NAMES.ROCK_AVOCADO_FRUIT
+msgctxt "NAMES.ROCK_AVOCADO_FRUIT"
+msgid "Stone Fruit"
+msgstr ""
+
+#. NAMES.ROCK_AVOCADO_FRUIT_RIPE
+msgctxt "NAMES.ROCK_AVOCADO_FRUIT_RIPE"
+msgid "Ripe Stone Fruit"
+msgstr ""
+
+#. NAMES.ROCK_AVOCADO_FRUIT_RIPE_COOKED
+msgctxt "NAMES.ROCK_AVOCADO_FRUIT_RIPE_COOKED"
+msgid "Cooked Stone Fruit"
+msgstr ""
+
+#. NAMES.ROCK_AVOCADO_FRUIT_SPROUT
+msgctxt "NAMES.ROCK_AVOCADO_FRUIT_SPROUT"
+msgid "Sprouting Stone Fruit"
+msgstr ""
+
+#. NAMES.ROCK_FLINTLESS
+msgctxt "NAMES.ROCK_FLINTLESS"
+msgid "Boulder"
+msgstr ""
+
+#. NAMES.ROCK_FLINTLESS_LOW
+msgctxt "NAMES.ROCK_FLINTLESS_LOW"
+msgid "Boulder"
+msgstr ""
+
+#. NAMES.ROCK_FLINTLESS_MED
+msgctxt "NAMES.ROCK_FLINTLESS_MED"
+msgid "Boulder"
+msgstr ""
+
+#. NAMES.ROCK_ICE
+msgctxt "NAMES.ROCK_ICE"
+msgid "Mini Glacier"
+msgstr ""
+
+#. NAMES.ROCK_ICE_MELTED
+msgctxt "NAMES.ROCK_ICE_MELTED"
+msgid "Melted Mini Glacier"
+msgstr ""
+
+#. NAMES.ROCK_LIGHT
+msgctxt "NAMES.ROCK_LIGHT"
+msgid "Lava Pit"
+msgstr ""
+
+#. NAMES.ROCK_MOON
+msgctxt "NAMES.ROCK_MOON"
+msgid "Boulder"
+msgstr ""
+
+#. NAMES.ROCK_MOON_SHELL
+msgctxt "NAMES.ROCK_MOON_SHELL"
+msgid "Suspicious Boulder"
+msgstr ""
+
+#. NAMES.ROCK_PETRIFIED_TREE
+msgctxt "NAMES.ROCK_PETRIFIED_TREE"
+msgid "Petrified Tree"
+msgstr ""
+
+#. NAMES.ROOK
+msgctxt "NAMES.ROOK"
+msgid "Clockwork Rook"
+msgstr ""
+
+#. NAMES.ROOK_NIGHTMARE
+msgctxt "NAMES.ROOK_NIGHTMARE"
+msgid "Damaged Rook"
+msgstr ""
+
+#. NAMES.ROPE
+msgctxt "NAMES.ROPE"
+msgid "Rope"
+msgstr ""
+
+#. NAMES.ROTTENEGG
+msgctxt "NAMES.ROTTENEGG"
+msgid "Rotten Egg"
+msgstr ""
+
+#. NAMES.ROYAL_JELLY
+msgctxt "NAMES.ROYAL_JELLY"
+msgid "Royal Jelly"
+msgstr ""
+
+#. NAMES.RUBBLE
+msgctxt "NAMES.RUBBLE"
+msgid "Rubble"
+msgstr ""
+
+#. NAMES.RUINSHAT
+msgctxt "NAMES.RUINSHAT"
+msgid "Thulecite Crown"
+msgstr ""
+
+#. NAMES.RUINSRELIC_BOWL
+msgctxt "NAMES.RUINSRELIC_BOWL"
+msgid "Replica Relic Bowl"
+msgstr ""
+
+#. NAMES.RUINSRELIC_CHAIR
+msgctxt "NAMES.RUINSRELIC_CHAIR"
+msgid "Replica Relic Chair"
+msgstr ""
+
+#. NAMES.RUINSRELIC_CHIPBOWL
+msgctxt "NAMES.RUINSRELIC_CHIPBOWL"
+msgid "Replica Relic Dish"
+msgstr ""
+
+#. NAMES.RUINSRELIC_PLATE
+msgctxt "NAMES.RUINSRELIC_PLATE"
+msgid "Replica Relic Plate"
+msgstr ""
+
+#. NAMES.RUINSRELIC_TABLE
+msgctxt "NAMES.RUINSRELIC_TABLE"
+msgid "Replica Relic Table"
+msgstr ""
+
+#. NAMES.RUINSRELIC_VASE
+msgctxt "NAMES.RUINSRELIC_VASE"
+msgid "Replica Relic Vase"
+msgstr ""
+
+#. NAMES.RUINS_BAT
+msgctxt "NAMES.RUINS_BAT"
+msgid "Thulecite Club"
+msgstr ""
+
+#. NAMES.RUINS_CAVEIN_OBSTACLE
+msgctxt "NAMES.RUINS_CAVEIN_OBSTACLE"
+msgid "Blocky Ruins"
+msgstr ""
+
+#. NAMES.RUINS_RUBBLE
+msgctxt "NAMES.RUINS_RUBBLE"
+msgid "Broken Relic"
+msgstr ""
+
+#. NAMES.SACRED_CHEST
+msgctxt "NAMES.SACRED_CHEST"
+msgid "Ancient Chest"
+msgstr ""
+
+#. NAMES.SADDLEHORN
+msgctxt "NAMES.SADDLEHORN"
+msgid "Saddlehorn"
+msgstr ""
+
+#. NAMES.SADDLE_BASIC
+msgctxt "NAMES.SADDLE_BASIC"
+msgid "Saddle"
+msgstr ""
+
+#. NAMES.SADDLE_RACE
+msgctxt "NAMES.SADDLE_RACE"
+msgid "Glossamer Saddle"
+msgstr ""
+
+#. NAMES.SADDLE_WAR
+msgctxt "NAMES.SADDLE_WAR"
+msgid "War Saddle"
+msgstr ""
+
+#. NAMES.SALSA
+msgctxt "NAMES.SALSA"
+msgid "Salsa Fresca"
+msgstr ""
+
+#. NAMES.SALTBOX
+msgctxt "NAMES.SALTBOX"
+msgid "Salt Box"
+msgstr ""
+
+#. NAMES.SALTLICK
+msgctxt "NAMES.SALTLICK"
+msgid "Salt Lick"
+msgstr ""
+
+#. NAMES.SALTROCK
+msgctxt "NAMES.SALTROCK"
+msgid "Salt Crystals"
+msgstr ""
+
+#. NAMES.SALTSTACK
+msgctxt "NAMES.SALTSTACK"
+msgid "Salt Formation"
+msgstr ""
+
+#. NAMES.SANDBLOCK
+msgctxt "NAMES.SANDBLOCK"
+msgid "Sand Castle"
+msgstr ""
+
+#. NAMES.SANDSPIKE
+msgctxt "NAMES.SANDSPIKE"
+msgid "Sand Spike"
+msgstr ""
+
+#. NAMES.SANITYROCK
+msgctxt "NAMES.SANITYROCK"
+msgid "Obelisk"
+msgstr ""
+
+#. NAMES.SAPLING
+msgctxt "NAMES.SAPLING"
+msgid "Sapling"
+msgstr ""
+
+#. NAMES.SCANDATA
+msgctxt "NAMES.SCANDATA"
+msgid "Bio Data"
+msgstr ""
+
+#. NAMES.SCARECROW
+msgctxt "NAMES.SCARECROW"
+msgid "Friendly Scarecrow"
+msgstr ""
+
+#. NAMES.SCORCHED_SKELETON
+msgctxt "NAMES.SCORCHED_SKELETON"
+msgid "Crispy Skeleton"
+msgstr ""
+
+#. NAMES.SCULPTINGTABLE
+msgctxt "NAMES.SCULPTINGTABLE"
+msgid "Potter's Wheel"
+msgstr ""
+
+#. NAMES.SCULPTING_MATERIAL
+msgctxt "NAMES.SCULPTING_MATERIAL"
+msgid "Sculpting Block"
+msgstr ""
+
+#. NAMES.SCULPTURE_BISHOPBODY
+msgctxt "NAMES.SCULPTURE_BISHOPBODY"
+msgid "Marble Sculpture"
+msgstr ""
+
+#. NAMES.SCULPTURE_BISHOPHEAD
+msgctxt "NAMES.SCULPTURE_BISHOPHEAD"
+msgid "Suspicious Marble"
+msgstr ""
+
+#. NAMES.SCULPTURE_KNIGHTBODY
+msgctxt "NAMES.SCULPTURE_KNIGHTBODY"
+msgid "Marble Sculpture"
+msgstr ""
+
+#. NAMES.SCULPTURE_KNIGHTHEAD
+msgctxt "NAMES.SCULPTURE_KNIGHTHEAD"
+msgid "Suspicious Marble"
+msgstr ""
+
+#. NAMES.SCULPTURE_ROOKBODY
+msgctxt "NAMES.SCULPTURE_ROOKBODY"
+msgid "Marble Sculpture"
+msgstr ""
+
+#. NAMES.SCULPTURE_ROOKNOSE
+msgctxt "NAMES.SCULPTURE_ROOKNOSE"
+msgid "Suspicious Marble"
+msgstr ""
+
+#. NAMES.SEACOCOON
+msgctxt "NAMES.SEACOCOON"
+msgid "Sea Cocoon"
+msgstr ""
+
+#. NAMES.SEACOCOON_TOP
+msgctxt "NAMES.SEACOCOON_TOP"
+msgid "Sea Cocoon"
+msgstr ""
+
+#. NAMES.SEAFARING_PROTOTYPER
+msgctxt "NAMES.SEAFARING_PROTOTYPER"
+msgid "Think Tank"
+msgstr ""
+
+#. NAMES.SEAFOODGUMBO
+msgctxt "NAMES.SEAFOODGUMBO"
+msgid "Seafood Gumbo"
+msgstr ""
+
+#. NAMES.SEASTACK
+msgctxt "NAMES.SEASTACK"
+msgid "Sea Stack"
+msgstr ""
+
+#. NAMES.SEEDPOUCH
+msgctxt "NAMES.SEEDPOUCH"
+msgid "Seed Pack-It"
+msgstr ""
+
+#. NAMES.SEEDS
+msgctxt "NAMES.SEEDS"
+msgid "Seeds"
+msgstr ""
+
+#. NAMES.SEEDS_COOKED
+msgctxt "NAMES.SEEDS_COOKED"
+msgid "Toasted Seeds"
+msgstr ""
+
+#. NAMES.SENTRYWARD
+msgctxt "NAMES.SENTRYWARD"
+msgid "Ocuvigil"
+msgstr ""
+
+#. NAMES.SEWING_KIT
+msgctxt "NAMES.SEWING_KIT"
+msgid "Sewing Kit"
+msgstr ""
+
+#. NAMES.SEWING_TAPE
+msgctxt "NAMES.SEWING_TAPE"
+msgid "Trusty Tape"
+msgstr ""
+
+#. NAMES.SHADOWCHANNELER
+msgctxt "NAMES.SHADOWCHANNELER"
+msgid "Unseen Hand"
+msgstr ""
+
+#. NAMES.SHADOWDIGGER_BUILDER
+msgctxt "NAMES.SHADOWDIGGER_BUILDER"
+msgid "Shadow Digger"
+msgstr ""
+
+#. NAMES.SHADOWDUELIST_BUILDER
+msgctxt "NAMES.SHADOWDUELIST_BUILDER"
+msgid "Shadow Duelist"
+msgstr ""
+
+#. NAMES.SHADOWHEART
+msgctxt "NAMES.SHADOWHEART"
+msgid "Shadow Atrium"
+msgstr ""
+
+#. NAMES.SHADOWLUMBER_BUILDER
+msgctxt "NAMES.SHADOWLUMBER_BUILDER"
+msgid "Shadow Logger"
+msgstr ""
+
+#. NAMES.SHADOWMETEOR
+msgctxt "NAMES.SHADOWMETEOR"
+msgid "Meteor"
+msgstr ""
+
+#. NAMES.SHADOWMINER_BUILDER
+msgctxt "NAMES.SHADOWMINER_BUILDER"
+msgid "Shadow Miner"
+msgstr ""
+
+#. NAMES.SHADOWTENTACLE
+msgctxt "NAMES.SHADOWTENTACLE"
+msgid "Shadow Tentacle"
+msgstr ""
+
+#. NAMES.SHADOWWAXWELL
+msgctxt "NAMES.SHADOWWAXWELL"
+msgid "Shadow"
+msgstr ""
+
+#. NAMES.SHADOW_BISHOP
+msgctxt "NAMES.SHADOW_BISHOP"
+msgid "Shadow Bishop"
+msgstr ""
+
+#. NAMES.SHADOW_KNIGHT
+msgctxt "NAMES.SHADOW_KNIGHT"
+msgid "Shadow Knight"
+msgstr ""
+
+#. NAMES.SHADOW_ROOK
+msgctxt "NAMES.SHADOW_ROOK"
+msgid "Shadow Rook"
+msgstr ""
+
+#. NAMES.SHARK
+msgctxt "NAMES.SHARK"
+msgid "Rockjaw"
+msgstr ""
+
+#. NAMES.SHELL_CLUSTER
+msgctxt "NAMES.SHELL_CLUSTER"
+msgid "Shell Cluster"
+msgstr ""
+
+#. NAMES.SHENANIGANS
+msgctxt "NAMES.SHENANIGANS"
+msgid "Shenanigans"
+msgstr ""
+
+#. NAMES.SHIELDOFTERROR
+msgctxt "NAMES.SHIELDOFTERROR"
+msgid "Shield of Terror"
+msgstr ""
+
+#. NAMES.SHOVEL
+msgctxt "NAMES.SHOVEL"
+msgid "Shovel"
+msgstr ""
+
+#. NAMES.SHROOMCAKE
+msgctxt "NAMES.SHROOMCAKE"
+msgid "Mushy Cake"
+msgstr ""
+
+#. NAMES.SHROOM_SKIN
+msgctxt "NAMES.SHROOM_SKIN"
+msgid "Shroom Skin"
+msgstr ""
+
+#. NAMES.SIESTAHUT
+msgctxt "NAMES.SIESTAHUT"
+msgid "Siesta Lean-to"
+msgstr ""
+
+#. NAMES.SILK
+msgctxt "NAMES.SILK"
+msgid "Silk"
+msgstr ""
+
+#. NAMES.SINGINGSHELL_OCTAVE3
+msgctxt "NAMES.SINGINGSHELL_OCTAVE3"
+msgid "Baritone Shell Bell"
+msgstr ""
+
+#. NAMES.SINGINGSHELL_OCTAVE4
+msgctxt "NAMES.SINGINGSHELL_OCTAVE4"
+msgid "Alto Shell Bell"
+msgstr ""
+
+#. NAMES.SINGINGSHELL_OCTAVE5
+msgctxt "NAMES.SINGINGSHELL_OCTAVE5"
+msgid "Soprano Shell Bell"
+msgstr ""
+
+#. NAMES.SINKHOLE
+msgctxt "NAMES.SINKHOLE"
+msgid "Basalt"
+msgstr ""
+
+#. NAMES.SISTURN
+msgctxt "NAMES.SISTURN"
+msgid "Sisturn"
+msgstr ""
+
+#. NAMES.SKELETON
+msgctxt "NAMES.SKELETON"
+msgid "Skeleton"
+msgstr ""
+
+#. NAMES.SKELETONHAT
+msgctxt "NAMES.SKELETONHAT"
+msgid "Bone Helm"
+msgstr ""
+
+#. NAMES.SKELETON_PLAYER
+msgctxt "NAMES.SKELETON_PLAYER"
+msgid "Skeleton"
+msgstr ""
+
+#. NAMES.SKETCH
+msgctxt "NAMES.SKETCH"
+msgid "{item} Sketch"
+msgstr ""
+
+#. NAMES.SKULLCHEST
+msgctxt "NAMES.SKULLCHEST"
+msgid "Skullchest"
+msgstr ""
+
+#. NAMES.SLEEPBOMB
+msgctxt "NAMES.SLEEPBOMB"
+msgid "Napsack"
+msgstr ""
+
+#. NAMES.SLINGSHOT
+msgctxt "NAMES.SLINGSHOT"
+msgid "Trusty Slingshot"
+msgstr ""
+
+#. NAMES.SLINGSHOTAMMO_FREEZE
+msgctxt "NAMES.SLINGSHOTAMMO_FREEZE"
+msgid "Freeze Rounds"
+msgstr ""
+
+#. NAMES.SLINGSHOTAMMO_GOLD
+msgctxt "NAMES.SLINGSHOTAMMO_GOLD"
+msgid "Gold Rounds"
+msgstr ""
+
+#. NAMES.SLINGSHOTAMMO_MARBLE
+msgctxt "NAMES.SLINGSHOTAMMO_MARBLE"
+msgid "Marbles"
+msgstr ""
+
+#. NAMES.SLINGSHOTAMMO_POOP
+msgctxt "NAMES.SLINGSHOTAMMO_POOP"
+msgid "Poop Pellets"
+msgstr ""
+
+#. NAMES.SLINGSHOTAMMO_ROCK
+msgctxt "NAMES.SLINGSHOTAMMO_ROCK"
+msgid "Pebbles"
+msgstr ""
+
+#. NAMES.SLINGSHOTAMMO_SLOW
+msgctxt "NAMES.SLINGSHOTAMMO_SLOW"
+msgid "Slow-Down Rounds"
+msgstr ""
+
+#. NAMES.SLINGSHOTAMMO_THULECITE
+msgctxt "NAMES.SLINGSHOTAMMO_THULECITE"
+msgid "Cursed Rounds"
+msgstr ""
+
+#. NAMES.SLOW_FARMPLOT
+msgctxt "NAMES.SLOW_FARMPLOT"
+msgid "Basic Farm"
+msgstr ""
+
+#. NAMES.SLURPER
+msgctxt "NAMES.SLURPER"
+msgid "Slurper"
+msgstr ""
+
+#. NAMES.SLURPER_PELT
+msgctxt "NAMES.SLURPER_PELT"
+msgid "Slurper Pelt"
+msgstr ""
+
+#. NAMES.SLURTLE
+msgctxt "NAMES.SLURTLE"
+msgid "Slurtle"
+msgstr ""
+
+#. NAMES.SLURTLEHAT
+msgctxt "NAMES.SLURTLEHAT"
+msgid "Shelmet"
+msgstr ""
+
+#. NAMES.SLURTLEHOLE
+msgctxt "NAMES.SLURTLEHOLE"
+msgid "Slurtle Mound"
+msgstr ""
+
+#. NAMES.SLURTLESLIME
+msgctxt "NAMES.SLURTLESLIME"
+msgid "Slurtle Slime"
+msgstr ""
+
+#. NAMES.SLURTLE_SHELLPIECES
+msgctxt "NAMES.SLURTLE_SHELLPIECES"
+msgid "Broken Shell"
+msgstr ""
+
+#. NAMES.SMALLBIRD
+msgctxt "NAMES.SMALLBIRD"
+msgid "Smallbird"
+msgstr ""
+
+#. NAMES.SMALLGHOST
+msgctxt "NAMES.SMALLGHOST"
+msgid "Pipspook"
+msgstr ""
+
+#. NAMES.SMALLGUARD_ALTERGUARDIAN_PROJECTILE
+msgctxt "NAMES.SMALLGUARD_ALTERGUARDIAN_PROJECTILE"
+msgid "Minor Gestalt"
+msgstr ""
+
+#. NAMES.SMALLMEAT
+msgctxt "NAMES.SMALLMEAT"
+msgid "Morsel"
+msgstr ""
+
+#. NAMES.SMALLMEAT_DRIED
+msgctxt "NAMES.SMALLMEAT_DRIED"
+msgid "Small Jerky"
+msgstr ""
+
+#. NAMES.SNAPPER
+msgctxt "NAMES.SNAPPER"
+msgid "Crocommander"
+msgstr ""
+
+#. NAMES.SNURTLE
+msgctxt "NAMES.SNURTLE"
+msgid "Snurtle"
+msgstr ""
+
+#. NAMES.SOIL_AMENDER
+msgctxt "NAMES.SOIL_AMENDER"
+msgid "Growth Formula Starter"
+msgstr ""
+
+#. NAMES.SOIL_AMENDER_FERMENTED
+msgctxt "NAMES.SOIL_AMENDER_FERMENTED"
+msgid "Super Growth Formula"
+msgstr ""
+
+#. NAMES.SOIL_AMENDER_FRESH
+msgctxt "NAMES.SOIL_AMENDER_FRESH"
+msgid "Growth Formula Starter"
+msgstr ""
+
+#. NAMES.SOIL_AMENDER_SPOILED
+msgctxt "NAMES.SOIL_AMENDER_SPOILED"
+msgid "Fermented Growth Formula"
+msgstr ""
+
+#. NAMES.SOIL_AMENDER_STALE
+msgctxt "NAMES.SOIL_AMENDER_STALE"
+msgid "Fermenting Growth Formula"
+msgstr ""
+
+#. NAMES.SPAT
+msgctxt "NAMES.SPAT"
+msgid "Ewecus"
+msgstr ""
+
+#. NAMES.SPEAR
+msgctxt "NAMES.SPEAR"
+msgid "Spear"
+msgstr ""
+
+#. NAMES.SPEAR_GUNGNIR
+msgctxt "NAMES.SPEAR_GUNGNIR"
+msgid "Pith Pike"
+msgstr ""
+
+#. NAMES.SPEAR_LANCE
+msgctxt "NAMES.SPEAR_LANCE"
+msgid "Spiral Spear"
+msgstr ""
+
+#. NAMES.SPEAR_WATHGRITHR
+msgctxt "NAMES.SPEAR_WATHGRITHR"
+msgid "Battle Spear"
+msgstr ""
+
+#. NAMES.SPICEPACK
+msgctxt "NAMES.SPICEPACK"
+msgid "Chef Pouch"
+msgstr ""
+
+#. NAMES.SPICE_CHILI
+msgctxt "NAMES.SPICE_CHILI"
+msgid "Chili Flakes"
+msgstr ""
+
+#. NAMES.SPICE_CHILI_FOOD
+msgctxt "NAMES.SPICE_CHILI_FOOD"
+msgid "Spicy {food}"
+msgstr ""
+
+#. NAMES.SPICE_GARLIC
+msgctxt "NAMES.SPICE_GARLIC"
+msgid "Garlic Powder"
+msgstr ""
+
+#. NAMES.SPICE_GARLIC_FOOD
+msgctxt "NAMES.SPICE_GARLIC_FOOD"
+msgid "Garlic {food}"
+msgstr ""
+
+#. NAMES.SPICE_SALT
+msgctxt "NAMES.SPICE_SALT"
+msgid "Seasoning Salt"
+msgstr ""
+
+#. NAMES.SPICE_SALT_FOOD
+msgctxt "NAMES.SPICE_SALT_FOOD"
+msgid "Salty {food}"
+msgstr ""
+
+#. NAMES.SPICE_SUGAR
+msgctxt "NAMES.SPICE_SUGAR"
+msgid "Honey Crystals"
+msgstr ""
+
+#. NAMES.SPICE_SUGAR_FOOD
+msgctxt "NAMES.SPICE_SUGAR_FOOD"
+msgid "Sweet {food}"
+msgstr ""
+
+#. NAMES.SPIDER
+msgctxt "NAMES.SPIDER"
+msgid "Spider"
+msgstr ""
+
+#. NAMES.SPIDERDEN
+msgctxt "NAMES.SPIDERDEN"
+msgid "Spider Den"
+msgstr ""
+
+#. NAMES.SPIDERDEN_BEDAZZLER
+msgctxt "NAMES.SPIDERDEN_BEDAZZLER"
+msgid "Den Decorating Set"
+msgstr ""
+
+#. NAMES.SPIDEREGGSACK
+msgctxt "NAMES.SPIDEREGGSACK"
+msgid "Spider Eggs"
+msgstr ""
+
+#. NAMES.SPIDERGLAND
+msgctxt "NAMES.SPIDERGLAND"
+msgid "Spider Gland"
+msgstr ""
+
+#. NAMES.SPIDERHAT
+msgctxt "NAMES.SPIDERHAT"
+msgid "Spiderhat"
+msgstr ""
+
+#. NAMES.SPIDERHOLE
+msgctxt "NAMES.SPIDERHOLE"
+msgid "Spilagmite"
+msgstr ""
+
+#. NAMES.SPIDERQUEEN
+msgctxt "NAMES.SPIDERQUEEN"
+msgid "Spider Queen"
+msgstr ""
+
+#. NAMES.SPIDER_DROPPER
+msgctxt "NAMES.SPIDER_DROPPER"
+msgid "Dangling Depth Dweller"
+msgstr ""
+
+#. NAMES.SPIDER_HEALER
+msgctxt "NAMES.SPIDER_HEALER"
+msgid "Nurse Spider"
+msgstr ""
+
+#. NAMES.SPIDER_HEALER_ITEM
+msgctxt "NAMES.SPIDER_HEALER_ITEM"
+msgid "Healing Glop"
+msgstr ""
+
+#. NAMES.SPIDER_HIDER
+msgctxt "NAMES.SPIDER_HIDER"
+msgid "Cave Spider"
+msgstr ""
+
+#. NAMES.SPIDER_MOON
+msgctxt "NAMES.SPIDER_MOON"
+msgid "Shattered Spider"
+msgstr ""
+
+#. NAMES.SPIDER_REPELLENT
+msgctxt "NAMES.SPIDER_REPELLENT"
+msgid "Shoo Box"
+msgstr ""
+
+#. NAMES.SPIDER_SPITTER
+msgctxt "NAMES.SPIDER_SPITTER"
+msgid "Spitter"
+msgstr ""
+
+#. NAMES.SPIDER_WARRIOR
+msgctxt "NAMES.SPIDER_WARRIOR"
+msgid "Spider Warrior"
+msgstr ""
+
+#. NAMES.SPIDER_WATER
+msgctxt "NAMES.SPIDER_WATER"
+msgid "Sea Strider"
+msgstr ""
+
+#. NAMES.SPIDER_WHISTLE
+msgctxt "NAMES.SPIDER_WHISTLE"
+msgid "Webby Whistle"
+msgstr ""
+
+#. NAMES.SPOILED_FISH
+msgctxt "NAMES.SPOILED_FISH"
+msgid "Spoiled Fish"
+msgstr ""
+
+#. NAMES.SPOILED_FISH_SMALL
+msgctxt "NAMES.SPOILED_FISH_SMALL"
+msgid "Spoiled Fish Morsel"
+msgstr ""
+
+#. NAMES.SPOILED_FOOD
+msgctxt "NAMES.SPOILED_FOOD"
+msgid "Rot"
+msgstr ""
+
+#. NAMES.SPORECLOUD
+msgctxt "NAMES.SPORECLOUD"
+msgid "Spore Cloud"
+msgstr ""
+
+#. NAMES.SPORE_MEDIUM
+msgctxt "NAMES.SPORE_MEDIUM"
+msgid "Red Spore"
+msgstr ""
+
+#. NAMES.SPORE_MOON
+msgctxt "NAMES.SPORE_MOON"
+msgid "Lunar Spore"
+msgstr ""
+
+#. NAMES.SPORE_SMALL
+msgctxt "NAMES.SPORE_SMALL"
+msgid "Green Spore"
+msgstr ""
+
+#. NAMES.SPORE_TALL
+msgctxt "NAMES.SPORE_TALL"
+msgid "Blue Spore"
+msgstr ""
+
+#. NAMES.SQUID
+msgctxt "NAMES.SQUID"
+msgid "Skittersquid"
+msgstr ""
+
+#. NAMES.STAFFCOLDLIGHT
+msgctxt "NAMES.STAFFCOLDLIGHT"
+msgid "Polar Light"
+msgstr ""
+
+#. NAMES.STAFFLIGHT
+msgctxt "NAMES.STAFFLIGHT"
+msgid "Dwarf Star"
+msgstr ""
+
+#. NAMES.STAFF_TORNADO
+msgctxt "NAMES.STAFF_TORNADO"
+msgid "Weather Pain"
+msgstr ""
+
+#. NAMES.STAGEHAND
+msgctxt "NAMES.STAGEHAND"
+msgid "Stagehand"
+msgstr ""
+
+#. NAMES.STALAGMITE
+msgctxt "NAMES.STALAGMITE"
+msgid "Stalagmite"
+msgstr ""
+
+#. NAMES.STALAGMITE_TALL
+msgctxt "NAMES.STALAGMITE_TALL"
+msgid "Stalagmite"
+msgstr ""
+
+#. NAMES.STALKER
+msgctxt "NAMES.STALKER"
+msgid "Reanimated Skeleton"
+msgstr ""
+
+#. NAMES.STALKER_ATRIUM
+msgctxt "NAMES.STALKER_ATRIUM"
+msgid "Ancient Fuelweaver"
+msgstr ""
+
+#. NAMES.STALKER_MINION
+msgctxt "NAMES.STALKER_MINION"
+msgid "Woven Shadow"
+msgstr ""
+
+#. NAMES.STATUEGLOMMER
+msgctxt "NAMES.STATUEGLOMMER"
+msgid "Glommer's Statue"
+msgstr ""
+
+#. NAMES.STATUEHARP
+msgctxt "NAMES.STATUEHARP"
+msgid "Harp Statue"
+msgstr ""
+
+#. NAMES.STATUEMAXWELL
+msgctxt "NAMES.STATUEMAXWELL"
+msgid "Maxwell Statue"
+msgstr ""
+
+#. NAMES.STATUE_MARBLE
+msgctxt "NAMES.STATUE_MARBLE"
+msgid "Marble Sculpture"
+msgstr ""
+
+#. NAMES.STEELWOOL
+msgctxt "NAMES.STEELWOOL"
+msgid "Steel Wool"
+msgstr ""
+
+#. NAMES.STEERINGWHEEL
+msgctxt "NAMES.STEERINGWHEEL"
+msgid "Steering Wheel"
+msgstr ""
+
+#. NAMES.STEERINGWHEEL_ITEM
+msgctxt "NAMES.STEERINGWHEEL_ITEM"
+msgid "Steering Wheel Kit"
+msgstr ""
+
+#. NAMES.STINGER
+msgctxt "NAMES.STINGER"
+msgid "Stinger"
+msgstr ""
+
+#. NAMES.STRAWHAT
+msgctxt "NAMES.STRAWHAT"
+msgid "Straw Hat"
+msgstr ""
+
+#. NAMES.STUFFEDEGGPLANT
+msgctxt "NAMES.STUFFEDEGGPLANT"
+msgid "Stuffed Eggplant"
+msgstr ""
+
+#. NAMES.STUFFING
+msgctxt "NAMES.STUFFING"
+msgid "Stuffing"
+msgstr ""
+
+#. NAMES.SUCCULENT_PICKED
+msgctxt "NAMES.SUCCULENT_PICKED"
+msgid "Succulent"
+msgstr ""
+
+#. NAMES.SUCCULENT_PLANT
+msgctxt "NAMES.SUCCULENT_PLANT"
+msgid "Succulent"
+msgstr ""
+
+#. NAMES.SUCCULENT_POTTED
+msgctxt "NAMES.SUCCULENT_POTTED"
+msgid "Potted Succulent"
+msgstr ""
+
+#. NAMES.SUNKBOAT
+msgctxt "NAMES.SUNKBOAT"
+msgid "Sunken Boat"
+msgstr ""
+
+#. NAMES.SUNKENCHEST
+msgctxt "NAMES.SUNKENCHEST"
+msgid "Sunken Chest"
+msgstr ""
+
+#. NAMES.SUPERTACKLECONTAINER
+msgctxt "NAMES.SUPERTACKLECONTAINER"
+msgid "Spectackler Box"
+msgstr ""
+
+#. NAMES.SURFNTURF
+msgctxt "NAMES.SURFNTURF"
+msgid "Surf 'n' Turf"
+msgstr ""
+
+#. NAMES.SWEATERVEST
+msgctxt "NAMES.SWEATERVEST"
+msgid "Dapper Vest"
+msgstr ""
+
+#. NAMES.SWEETPOTATO
+msgctxt "NAMES.SWEETPOTATO"
+msgid "Sweet Potato Casserole"
+msgstr ""
+
+#. NAMES.SWEETTEA
+msgctxt "NAMES.SWEETTEA"
+msgid "Soothing Tea"
+msgstr ""
+
+#. NAMES.TABLE_WINTERS_FEAST
+msgctxt "NAMES.TABLE_WINTERS_FEAST"
+msgid "Winter's Feast Table"
+msgstr ""
+
+#. NAMES.TACKLECONTAINER
+msgctxt "NAMES.TACKLECONTAINER"
+msgid "Tackle Box"
+msgstr ""
+
+#. NAMES.TACKLESKETCH
+msgctxt "NAMES.TACKLESKETCH"
+msgid "{item} Advert"
+msgstr ""
+
+#. NAMES.TACKLESTATION
+msgctxt "NAMES.TACKLESTATION"
+msgid "Tackle Receptacle"
+msgstr ""
+
+#. NAMES.TAFFY
+msgctxt "NAMES.TAFFY"
+msgid "Taffy"
+msgstr ""
+
+#. NAMES.TALLBIRD
+msgctxt "NAMES.TALLBIRD"
+msgid "Tallbird"
+msgstr ""
+
+#. NAMES.TALLBIRDEGG
+msgctxt "NAMES.TALLBIRDEGG"
+msgid "Tallbird Egg"
+msgstr ""
+
+#. NAMES.TALLBIRDEGG_COOKED
+msgctxt "NAMES.TALLBIRDEGG_COOKED"
+msgid "Fried Tallbird Egg"
+msgstr ""
+
+#. NAMES.TALLBIRDEGG_CRACKED
+msgctxt "NAMES.TALLBIRDEGG_CRACKED"
+msgid "Hatching Tallbird Egg"
+msgstr ""
+
+#. NAMES.TALLBIRDNEST
+msgctxt "NAMES.TALLBIRDNEST"
+msgid "Tallbird Nest"
+msgstr ""
+
+#. NAMES.TAMALES
+msgctxt "NAMES.TAMALES"
+msgid "Tamales"
+msgstr ""
+
+#. NAMES.TEAMLEADER
+msgctxt "NAMES.TEAMLEADER"
+msgid "Team Leader"
+msgstr ""
+
+#. NAMES.TEENBIRD
+msgctxt "NAMES.TEENBIRD"
+msgid "Smallish Tallbird"
+msgstr ""
+
+#. NAMES.TELEBASE
+msgctxt "NAMES.TELEBASE"
+msgid "Telelocator Focus"
+msgstr ""
+
+#. NAMES.TELEPORTATO_BASE
+msgctxt "NAMES.TELEPORTATO_BASE"
+msgid "Wooden Thing"
+msgstr ""
+
+#. NAMES.TELEPORTATO_BOX
+msgctxt "NAMES.TELEPORTATO_BOX"
+msgid "Box Thing"
+msgstr ""
+
+#. NAMES.TELEPORTATO_CHECKMATE
+msgctxt "NAMES.TELEPORTATO_CHECKMATE"
+msgid "Wooden Thing"
+msgstr ""
+
+#. NAMES.TELEPORTATO_CRANK
+msgctxt "NAMES.TELEPORTATO_CRANK"
+msgid "Crank Thing"
+msgstr ""
+
+#. NAMES.TELEPORTATO_POTATO
+msgctxt "NAMES.TELEPORTATO_POTATO"
+msgid "Metal Potato Thing"
+msgstr ""
+
+#. NAMES.TELEPORTATO_RING
+msgctxt "NAMES.TELEPORTATO_RING"
+msgid "Ring Thing"
+msgstr ""
+
+#. NAMES.TELESTAFF
+msgctxt "NAMES.TELESTAFF"
+msgid "Telelocator Staff"
+msgstr ""
+
+#. NAMES.TENT
+msgctxt "NAMES.TENT"
+msgid "Tent"
+msgstr ""
+
+#. NAMES.TENTACLE
+msgctxt "NAMES.TENTACLE"
+msgid "Tentacle"
+msgstr ""
+
+#. NAMES.TENTACLESPIKE
+msgctxt "NAMES.TENTACLESPIKE"
+msgid "Tentacle Spike"
+msgstr ""
+
+#. NAMES.TENTACLESPOTS
+msgctxt "NAMES.TENTACLESPOTS"
+msgid "Tentacle Spots"
+msgstr ""
+
+#. NAMES.TENTACLE_GARDEN
+msgctxt "NAMES.TENTACLE_GARDEN"
+msgid "Big Tentacle"
+msgstr ""
+
+#. NAMES.TENTACLE_PILLAR
+msgctxt "NAMES.TENTACLE_PILLAR"
+msgid "Big Tentacle"
+msgstr ""
+
+#. NAMES.TENTACLE_PILLAR_ARM
+msgctxt "NAMES.TENTACLE_PILLAR_ARM"
+msgid "Baby Tentacle"
+msgstr ""
+
+#. NAMES.TENTACLE_PILLAR_HOLE
+msgctxt "NAMES.TENTACLE_PILLAR_HOLE"
+msgid "Big Slimy Pit"
+msgstr ""
+
+#. NAMES.TERRARIUM
+msgctxt "NAMES.TERRARIUM"
+msgid "Terrarium"
+msgstr ""
+
+#. NAMES.TERRARIUMCHEST
+msgctxt "NAMES.TERRARIUMCHEST"
+msgid "Conspicuous Chest"
+msgstr ""
+
+#. NAMES.TERRORBEAK
+msgctxt "NAMES.TERRORBEAK"
+msgid "Terrorbeak"
+msgstr ""
+
+#. NAMES.THULECITE
+msgctxt "NAMES.THULECITE"
+msgid "Thulecite"
+msgstr ""
+
+#. NAMES.THULECITE_PIECES
+msgctxt "NAMES.THULECITE_PIECES"
+msgid "Thulecite Fragments"
+msgstr ""
+
+#. NAMES.THURIBLE
+msgctxt "NAMES.THURIBLE"
+msgid "Shadow Thurible"
+msgstr ""
+
+#. NAMES.TICOON
+msgctxt "NAMES.TICOON"
+msgid "Ticoon"
+msgstr ""
+
+#. NAMES.TICOON_BUILDER
+msgctxt "NAMES.TICOON_BUILDER"
+msgid "Ticoon"
+msgstr ""
+
+#. NAMES.TILLWEED
+msgctxt "NAMES.TILLWEED"
+msgid "Tillweeds"
+msgstr ""
+
+#. NAMES.TILLWEEDSALVE
+msgctxt "NAMES.TILLWEEDSALVE"
+msgid "Tillweed Salve"
+msgstr ""
+
+#. NAMES.TOADSTOOL
+msgctxt "NAMES.TOADSTOOL"
+msgid "Toadstool"
+msgstr ""
+
+#. NAMES.TOADSTOOL_CAP
+msgctxt "NAMES.TOADSTOOL_CAP"
+msgid "Toadstool"
+msgstr ""
+
+#. NAMES.TOADSTOOL_CAP_DARK
+msgctxt "NAMES.TOADSTOOL_CAP_DARK"
+msgid "Misery Toadstool"
+msgstr ""
+
+#. NAMES.TOADSTOOL_DARK
+msgctxt "NAMES.TOADSTOOL_DARK"
+msgid "Misery Toadstool"
+msgstr ""
+
+#. NAMES.TOADSTOOL_HOLE
+msgctxt "NAMES.TOADSTOOL_HOLE"
+msgid "Hole"
+msgstr ""
+
+#. NAMES.TOMATO
+msgctxt "NAMES.TOMATO"
+msgid "Toma Root"
+msgstr ""
+
+#. NAMES.TOMATO_COOKED
+msgctxt "NAMES.TOMATO_COOKED"
+msgid "Roasted Toma Root"
+msgstr ""
+
+#. NAMES.TOMATO_OVERSIZED
+msgctxt "NAMES.TOMATO_OVERSIZED"
+msgid "Giant Toma Root"
+msgstr ""
+
+#. NAMES.TOMATO_OVERSIZED_ROTTEN
+msgctxt "NAMES.TOMATO_OVERSIZED_ROTTEN"
+msgid "Giant Rotting Toma Root"
+msgstr ""
+
+#. NAMES.TOMATO_SEEDS
+msgctxt "NAMES.TOMATO_SEEDS"
+msgid "Spiky Seeds"
+msgstr ""
+
+#. NAMES.TOPHAT
+msgctxt "NAMES.TOPHAT"
+msgid "Top Hat"
+msgstr ""
+
+#. NAMES.TORCH
+msgctxt "NAMES.TORCH"
+msgid "Torch"
+msgstr ""
+
+#. NAMES.TORNADO
+msgctxt "NAMES.TORNADO"
+msgid "Tornado"
+msgstr ""
+
+#. NAMES.TOURTIERE
+msgctxt "NAMES.TOURTIERE"
+msgid "Tourtiere"
+msgstr ""
+
+#. NAMES.TOWNPORTAL
+msgctxt "NAMES.TOWNPORTAL"
+msgid "The Lazy Deserter"
+msgstr ""
+
+#. NAMES.TOWNPORTALTALISMAN
+msgctxt "NAMES.TOWNPORTALTALISMAN"
+msgid "Desert Stone"
+msgstr ""
+
+#. NAMES.TRAILMIX
+msgctxt "NAMES.TRAILMIX"
+msgid "Trail Mix"
+msgstr ""
+
+#. NAMES.TRAILS
+msgctxt "NAMES.TRAILS"
+msgid "Boarilla"
+msgstr ""
+
+#. NAMES.TRAILS1
+msgctxt "NAMES.TRAILS1"
+msgid "Boarilla"
+msgstr ""
+
+#. NAMES.TRAILS2
+msgctxt "NAMES.TRAILS2"
+msgid "Boarilla"
+msgstr ""
+
+#. NAMES.TRANSISTOR
+msgctxt "NAMES.TRANSISTOR"
+msgid "Electrical Doodad"
+msgstr ""
+
+#. NAMES.TRAP
+msgctxt "NAMES.TRAP"
+msgid "Trap"
+msgstr ""
+
+#. NAMES.TRAP_BRAMBLE
+msgctxt "NAMES.TRAP_BRAMBLE"
+msgid "Bramble Trap"
+msgstr ""
+
+#. NAMES.TRAP_STARFISH
+msgctxt "NAMES.TRAP_STARFISH"
+msgid "Anenemy"
+msgstr ""
+
+#. NAMES.TRAP_TEETH
+msgctxt "NAMES.TRAP_TEETH"
+msgid "Tooth Trap"
+msgstr ""
+
+#. NAMES.TRAP_TEETH_MAXWELL
+msgctxt "NAMES.TRAP_TEETH_MAXWELL"
+msgid "Maxwell's Tooth Trap"
+msgstr ""
+
+#. NAMES.TREASURECHEST
+msgctxt "NAMES.TREASURECHEST"
+msgid "Chest"
+msgstr ""
+
+#. NAMES.TREASURECHEST_TRAP
+msgctxt "NAMES.TREASURECHEST_TRAP"
+msgid "Treasure Chest"
+msgstr ""
+
+#. NAMES.TREEGROWTHSOLUTION
+msgctxt "NAMES.TREEGROWTHSOLUTION"
+msgid "Tree Jam"
+msgstr ""
+
+#. NAMES.TRIDENT
+msgctxt "NAMES.TRIDENT"
+msgid "Strident Trident"
+msgstr ""
+
+#. NAMES.TRINKET_1
+msgctxt "NAMES.TRINKET_1"
+msgid "Melty Marbles"
+msgstr ""
+
+#. NAMES.TRINKET_10
+msgctxt "NAMES.TRINKET_10"
+msgid "Second-hand Dentures"
+msgstr ""
+
+#. NAMES.TRINKET_11
+msgctxt "NAMES.TRINKET_11"
+msgid "Lying Robot"
+msgstr ""
+
+#. NAMES.TRINKET_12
+msgctxt "NAMES.TRINKET_12"
+msgid "Dessicated Tentacle"
+msgstr ""
+
+#. NAMES.TRINKET_13
+msgctxt "NAMES.TRINKET_13"
+msgid "Gnomette"
+msgstr ""
+
+#. NAMES.TRINKET_14
+msgctxt "NAMES.TRINKET_14"
+msgid "Leaky Teacup"
+msgstr ""
+
+#. NAMES.TRINKET_15
+msgctxt "NAMES.TRINKET_15"
+msgid "White Bishop"
+msgstr ""
+
+#. NAMES.TRINKET_16
+msgctxt "NAMES.TRINKET_16"
+msgid "Black Bishop"
+msgstr ""
+
+#. NAMES.TRINKET_17
+msgctxt "NAMES.TRINKET_17"
+msgid "Bent Spork"
+msgstr ""
+
+#. NAMES.TRINKET_18
+msgctxt "NAMES.TRINKET_18"
+msgid "Toy Trojan Horse"
+msgstr ""
+
+#. NAMES.TRINKET_19
+msgctxt "NAMES.TRINKET_19"
+msgid "Unbalanced Top"
+msgstr ""
+
+#. NAMES.TRINKET_2
+msgctxt "NAMES.TRINKET_2"
+msgid "Fake Kazoo"
+msgstr ""
+
+#. NAMES.TRINKET_20
+msgctxt "NAMES.TRINKET_20"
+msgid "Back Scratcher"
+msgstr ""
+
+#. NAMES.TRINKET_21
+msgctxt "NAMES.TRINKET_21"
+msgid "Beaten Beater"
+msgstr ""
+
+#. NAMES.TRINKET_22
+msgctxt "NAMES.TRINKET_22"
+msgid "Frayed Yarn"
+msgstr ""
+
+#. NAMES.TRINKET_23
+msgctxt "NAMES.TRINKET_23"
+msgid "Shoe Horn"
+msgstr ""
+
+#. NAMES.TRINKET_24
+msgctxt "NAMES.TRINKET_24"
+msgid "Lucky Cat Jar"
+msgstr ""
+
+#. NAMES.TRINKET_25
+msgctxt "NAMES.TRINKET_25"
+msgid "Air Unfreshener"
+msgstr ""
+
+#. NAMES.TRINKET_26
+msgctxt "NAMES.TRINKET_26"
+msgid "Potato Cup"
+msgstr ""
+
+#. NAMES.TRINKET_27
+msgctxt "NAMES.TRINKET_27"
+msgid "Wire Hanger"
+msgstr ""
+
+#. NAMES.TRINKET_28
+msgctxt "NAMES.TRINKET_28"
+msgid "White Rook"
+msgstr ""
+
+#. NAMES.TRINKET_29
+msgctxt "NAMES.TRINKET_29"
+msgid "Black Rook"
+msgstr ""
+
+#. NAMES.TRINKET_3
+msgctxt "NAMES.TRINKET_3"
+msgid "Gord's Knot"
+msgstr ""
+
+#. NAMES.TRINKET_30
+msgctxt "NAMES.TRINKET_30"
+msgid "White Knight"
+msgstr ""
+
+#. NAMES.TRINKET_31
+msgctxt "NAMES.TRINKET_31"
+msgid "Black Knight"
+msgstr ""
+
+#. NAMES.TRINKET_32
+msgctxt "NAMES.TRINKET_32"
+msgid "Cubic Zirconia Ball"
+msgstr ""
+
+#. NAMES.TRINKET_33
+msgctxt "NAMES.TRINKET_33"
+msgid "Spider Ring"
+msgstr ""
+
+#. NAMES.TRINKET_34
+msgctxt "NAMES.TRINKET_34"
+msgid "Monkey Paw"
+msgstr ""
+
+#. NAMES.TRINKET_35
+msgctxt "NAMES.TRINKET_35"
+msgid "Empty Elixir"
+msgstr ""
+
+#. NAMES.TRINKET_36
+msgctxt "NAMES.TRINKET_36"
+msgid "Faux Fangs"
+msgstr ""
+
+#. NAMES.TRINKET_37
+msgctxt "NAMES.TRINKET_37"
+msgid "Broken Stake"
+msgstr ""
+
+#. NAMES.TRINKET_38
+msgctxt "NAMES.TRINKET_38"
+msgid "Binoculars"
+msgstr ""
+
+#. NAMES.TRINKET_39
+msgctxt "NAMES.TRINKET_39"
+msgid "Lone Glove"
+msgstr ""
+
+#. NAMES.TRINKET_4
+msgctxt "NAMES.TRINKET_4"
+msgid "Gnome"
+msgstr ""
+
+#. NAMES.TRINKET_40
+msgctxt "NAMES.TRINKET_40"
+msgid "Snail Scale"
+msgstr ""
+
+#. NAMES.TRINKET_41
+msgctxt "NAMES.TRINKET_41"
+msgid "Goop Canister"
+msgstr ""
+
+#. NAMES.TRINKET_42
+msgctxt "NAMES.TRINKET_42"
+msgid "Toy Cobra"
+msgstr ""
+
+#. NAMES.TRINKET_43
+msgctxt "NAMES.TRINKET_43"
+msgid "Crocodile Toy"
+msgstr ""
+
+#. NAMES.TRINKET_44
+msgctxt "NAMES.TRINKET_44"
+msgid "Broken Terrarium"
+msgstr ""
+
+#. NAMES.TRINKET_45
+msgctxt "NAMES.TRINKET_45"
+msgid "Odd Radio"
+msgstr ""
+
+#. NAMES.TRINKET_46
+msgctxt "NAMES.TRINKET_46"
+msgid "Broken Hairdryer"
+msgstr ""
+
+#. NAMES.TRINKET_5
+msgctxt "NAMES.TRINKET_5"
+msgid "Tiny Rocketship"
+msgstr ""
+
+#. NAMES.TRINKET_6
+msgctxt "NAMES.TRINKET_6"
+msgid "Frazzled Wires"
+msgstr ""
+
+#. NAMES.TRINKET_7
+msgctxt "NAMES.TRINKET_7"
+msgid "Ball and Cup"
+msgstr ""
+
+#. NAMES.TRINKET_8
+msgctxt "NAMES.TRINKET_8"
+msgid "Hardened Rubber Bung"
+msgstr ""
+
+#. NAMES.TRINKET_9
+msgctxt "NAMES.TRINKET_9"
+msgid "Mismatched Buttons"
+msgstr ""
+
+#. NAMES.TROPHYSCALE_FISH
+msgctxt "NAMES.TROPHYSCALE_FISH"
+msgid "Fish Scale-O-Matic"
+msgstr ""
+
+#. NAMES.TROPHYSCALE_OVERSIZEDVEGGIES
+msgctxt "NAMES.TROPHYSCALE_OVERSIZEDVEGGIES"
+msgid "Produce Scale"
+msgstr ""
+
+#. NAMES.TRUNKVEST_SUMMER
+msgctxt "NAMES.TRUNKVEST_SUMMER"
+msgid "Breezy Vest"
+msgstr ""
+
+#. NAMES.TRUNKVEST_WINTER
+msgctxt "NAMES.TRUNKVEST_WINTER"
+msgid "Puffy Vest"
+msgstr ""
+
+#. NAMES.TRUNK_COOKED
+msgctxt "NAMES.TRUNK_COOKED"
+msgid "Koalefant Trunk Steak"
+msgstr ""
+
+#. NAMES.TRUNK_SUMMER
+msgctxt "NAMES.TRUNK_SUMMER"
+msgid "Koalefant Trunk"
+msgstr ""
+
+#. NAMES.TRUNK_WINTER
+msgctxt "NAMES.TRUNK_WINTER"
+msgid "Winter Koalefant Trunk"
+msgstr ""
+
+#. NAMES.TUMBLEWEED
+msgctxt "NAMES.TUMBLEWEED"
+msgid "Tumbleweed"
+msgstr ""
+
+#. NAMES.TURFCRAFTINGSTATION
+msgctxt "NAMES.TURFCRAFTINGSTATION"
+msgid "Terra Firma Tamper"
+msgstr ""
+
+#. NAMES.TURF_ARCHIVE
+msgctxt "NAMES.TURF_ARCHIVE"
+msgid "Ancient Stonework"
+msgstr ""
+
+#. NAMES.TURF_CARPETFLOOR
+msgctxt "NAMES.TURF_CARPETFLOOR"
+msgid "Carpeted Flooring"
+msgstr ""
+
+#. NAMES.TURF_CAVE
+msgctxt "NAMES.TURF_CAVE"
+msgid "Guano Turf"
+msgstr ""
+
+#. NAMES.TURF_CHECKERFLOOR
+msgctxt "NAMES.TURF_CHECKERFLOOR"
+msgid "Checkered Flooring"
+msgstr ""
+
+#. NAMES.TURF_DECIDUOUS
+msgctxt "NAMES.TURF_DECIDUOUS"
+msgid "Deciduous Turf"
+msgstr ""
+
+#. NAMES.TURF_DESERTDIRT
+msgctxt "NAMES.TURF_DESERTDIRT"
+msgid "Sandy Turf"
+msgstr ""
+
+#. NAMES.TURF_DIRT
+msgctxt "NAMES.TURF_DIRT"
+msgid "Dirt Turf"
+msgstr ""
+
+#. NAMES.TURF_DRAGONFLY
+msgctxt "NAMES.TURF_DRAGONFLY"
+msgid "Scaled Flooring"
+msgstr ""
+
+#. NAMES.TURF_FOREST
+msgctxt "NAMES.TURF_FOREST"
+msgid "Forest Turf"
+msgstr ""
+
+#. NAMES.TURF_FUNGUS
+msgctxt "NAMES.TURF_FUNGUS"
+msgid "Fungal Turf"
+msgstr ""
+
+#. NAMES.TURF_FUNGUS_GREEN
+msgctxt "NAMES.TURF_FUNGUS_GREEN"
+msgid "Fungal Turf"
+msgstr ""
+
+#. NAMES.TURF_FUNGUS_MOON
+msgctxt "NAMES.TURF_FUNGUS_MOON"
+msgid "Mutated Fungal Turf"
+msgstr ""
+
+#. NAMES.TURF_FUNGUS_RED
+msgctxt "NAMES.TURF_FUNGUS_RED"
+msgid "Fungal Turf"
+msgstr ""
+
+#. NAMES.TURF_GRASS
+msgctxt "NAMES.TURF_GRASS"
+msgid "Grass Turf"
+msgstr ""
+
+#. NAMES.TURF_MARSH
+msgctxt "NAMES.TURF_MARSH"
+msgid "Marsh Turf"
+msgstr ""
+
+#. NAMES.TURF_METEOR
+msgctxt "NAMES.TURF_METEOR"
+msgid "Moon Crater Turf"
+msgstr ""
+
+#. NAMES.TURF_METEOR_BLUEPRINT
+msgctxt "NAMES.TURF_METEOR_BLUEPRINT"
+msgid "Crater Turf Blueprint"
+msgstr ""
+
+#. NAMES.TURF_MUD
+msgctxt "NAMES.TURF_MUD"
+msgid "Mud Turf"
+msgstr ""
+
+#. NAMES.TURF_PEBBLEBEACH
+msgctxt "NAMES.TURF_PEBBLEBEACH"
+msgid "Rocky Beach Turf"
+msgstr ""
+
+#. NAMES.TURF_ROAD
+msgctxt "NAMES.TURF_ROAD"
+msgid "Cobblestones"
+msgstr ""
+
+#. NAMES.TURF_ROCKY
+msgctxt "NAMES.TURF_ROCKY"
+msgid "Rocky Turf"
+msgstr ""
+
+#. NAMES.TURF_SAVANNA
+msgctxt "NAMES.TURF_SAVANNA"
+msgid "Savanna Turf"
+msgstr ""
+
+#. NAMES.TURF_SHELLBEACH
+msgctxt "NAMES.TURF_SHELLBEACH"
+msgid "Shell Beach Turf"
+msgstr ""
+
+#. NAMES.TURF_SHELLBEACH_BLUEPRINT
+msgctxt "NAMES.TURF_SHELLBEACH_BLUEPRINT"
+msgid "Shell Turf Blueprint"
+msgstr ""
+
+#. NAMES.TURF_SINKHOLE
+msgctxt "NAMES.TURF_SINKHOLE"
+msgid "Slimy Turf"
+msgstr ""
+
+#. NAMES.TURF_UNDERROCK
+msgctxt "NAMES.TURF_UNDERROCK"
+msgid "Cave Rock Turf"
+msgstr ""
+
+#. NAMES.TURF_WOODFLOOR
+msgctxt "NAMES.TURF_WOODFLOOR"
+msgid "Wooden Flooring"
+msgstr ""
+
+#. NAMES.TURKEYDINNER
+msgctxt "NAMES.TURKEYDINNER"
+msgid "Turkey Dinner"
+msgstr ""
+
+#. NAMES.TURNIP
+msgctxt "NAMES.TURNIP"
+msgid "Turnip"
+msgstr ""
+
+#. NAMES.TURNIP_COOKED
+msgctxt "NAMES.TURNIP_COOKED"
+msgid "Roasted Turnip"
+msgstr ""
+
+#. NAMES.TURNIP_SEEDS
+msgctxt "NAMES.TURNIP_SEEDS"
+msgid "Round Seeds"
+msgstr ""
+
+#. NAMES.TURTILLUS
+msgctxt "NAMES.TURTILLUS"
+msgid "Snortoise"
+msgstr ""
+
+#. NAMES.TWIGGYTREE
+msgctxt "NAMES.TWIGGYTREE"
+msgid "Twiggy Tree"
+msgstr ""
+
+#. NAMES.TWIGGY_NUT
+msgctxt "NAMES.TWIGGY_NUT"
+msgid "Twiggy Tree Cone"
+msgstr ""
+
+#. NAMES.TWIGGY_NUT_SAPLING
+msgctxt "NAMES.TWIGGY_NUT_SAPLING"
+msgid "Twiggy Sapling"
+msgstr ""
+
+#. NAMES.TWIGS
+msgctxt "NAMES.TWIGS"
+msgid "Twigs"
+msgstr ""
+
+#. NAMES.TWINOFTERROR1
+msgctxt "NAMES.TWINOFTERROR1"
+msgid "Retinazor"
+msgstr ""
+
+#. NAMES.TWINOFTERROR2
+msgctxt "NAMES.TWINOFTERROR2"
+msgid "Spazmatism"
+msgstr ""
+
+#. NAMES.UMBRELLA
+msgctxt "NAMES.UMBRELLA"
+msgid "Umbrella"
+msgstr ""
+
+#. NAMES.UNAGI
+msgctxt "NAMES.UNAGI"
+msgid "Unagi"
+msgstr ""
+
+#. NAMES.UNKNOWN
+msgctxt "NAMES.UNKNOWN"
+msgid "Unknown"
+msgstr ""
+
+#. NAMES.VEGSTINGER
+msgctxt "NAMES.VEGSTINGER"
+msgid "Vegetable Stinger"
+msgstr ""
+
+#. NAMES.VICTORIAN_BLUEPRINT
+msgctxt "NAMES.VICTORIAN_BLUEPRINT"
+msgid "Victorian Costume Pattern"
+msgstr ""
+
+#. NAMES.VOLTGOATJELLY
+msgctxt "NAMES.VOLTGOATJELLY"
+msgid "Volt Goat Chaud-Froid"
+msgstr ""
+
+#. NAMES.WAFFLES
+msgctxt "NAMES.WAFFLES"
+msgid "Waffles"
+msgstr ""
+
+#. NAMES.WAGSTAFF_NPC
+msgctxt "NAMES.WAGSTAFF_NPC"
+msgid "Grainy Transmission"
+msgstr ""
+
+#. NAMES.WAGSTAFF_NPC_PSTBOSS
+msgctxt "NAMES.WAGSTAFF_NPC_PSTBOSS"
+msgid "Grainy Transmission"
+msgstr ""
+
+#. NAMES.WAGSTAFF_TOOL_1
+msgctxt "NAMES.WAGSTAFF_TOOL_1"
+msgid "Reticulating Buffer"
+msgstr ""
+
+#. NAMES.WAGSTAFF_TOOL_1_LAYMAN
+msgctxt "NAMES.WAGSTAFF_TOOL_1_LAYMAN"
+msgid "Odd Tool"
+msgstr ""
+
+#. NAMES.WAGSTAFF_TOOL_2
+msgctxt "NAMES.WAGSTAFF_TOOL_2"
+msgid "Widget Deflubber"
+msgstr ""
+
+#. NAMES.WAGSTAFF_TOOL_2_LAYMAN
+msgctxt "NAMES.WAGSTAFF_TOOL_2_LAYMAN"
+msgid "Weird Tool"
+msgstr ""
+
+#. NAMES.WAGSTAFF_TOOL_3
+msgctxt "NAMES.WAGSTAFF_TOOL_3"
+msgid "Grommet Scriber"
+msgstr ""
+
+#. NAMES.WAGSTAFF_TOOL_3_LAYMAN
+msgctxt "NAMES.WAGSTAFF_TOOL_3_LAYMAN"
+msgid "Strange Tool"
+msgstr ""
+
+#. NAMES.WAGSTAFF_TOOL_4
+msgctxt "NAMES.WAGSTAFF_TOOL_4"
+msgid "Conceptual Scrubber"
+msgstr ""
+
+#. NAMES.WAGSTAFF_TOOL_4_LAYMAN
+msgctxt "NAMES.WAGSTAFF_TOOL_4_LAYMAN"
+msgid "Funky Tool"
+msgstr ""
+
+#. NAMES.WAGSTAFF_TOOL_5
+msgctxt "NAMES.WAGSTAFF_TOOL_5"
+msgid "Calibrated Perceiver"
+msgstr ""
+
+#. NAMES.WAGSTAFF_TOOL_5_LAYMAN
+msgctxt "NAMES.WAGSTAFF_TOOL_5_LAYMAN"
+msgid "Bizarre Tool"
+msgstr ""
+
+#. NAMES.WALKINGPLANK
+msgctxt "NAMES.WALKINGPLANK"
+msgid "Plank"
+msgstr ""
+
+#. NAMES.WALL_HAY
+msgctxt "NAMES.WALL_HAY"
+msgid "Hay Wall"
+msgstr ""
+
+#. NAMES.WALL_HAY_ITEM
+msgctxt "NAMES.WALL_HAY_ITEM"
+msgid "Hay Wall"
+msgstr ""
+
+#. NAMES.WALL_MOONROCK
+msgctxt "NAMES.WALL_MOONROCK"
+msgid "Moon Rock Wall"
+msgstr ""
+
+#. NAMES.WALL_MOONROCK_ITEM
+msgctxt "NAMES.WALL_MOONROCK_ITEM"
+msgid "Moon Rock Wall"
+msgstr ""
+
+#. NAMES.WALL_RUINS
+msgctxt "NAMES.WALL_RUINS"
+msgid "Thulecite Wall"
+msgstr ""
+
+#. NAMES.WALL_RUINS_2
+msgctxt "NAMES.WALL_RUINS_2"
+msgid "Archival Thulecite Wall"
+msgstr ""
+
+#. NAMES.WALL_RUINS_ITEM
+msgctxt "NAMES.WALL_RUINS_ITEM"
+msgid "Thulecite Wall"
+msgstr ""
+
+#. NAMES.WALL_STONE
+msgctxt "NAMES.WALL_STONE"
+msgid "Stone Wall"
+msgstr ""
+
+#. NAMES.WALL_STONE_2
+msgctxt "NAMES.WALL_STONE_2"
+msgid "Archival Stone Wall"
+msgstr ""
+
+#. NAMES.WALL_STONE_ITEM
+msgctxt "NAMES.WALL_STONE_ITEM"
+msgid "Stone Wall"
+msgstr ""
+
+#. NAMES.WALL_WOOD
+msgctxt "NAMES.WALL_WOOD"
+msgid "Wood Wall"
+msgstr ""
+
+#. NAMES.WALL_WOOD_ITEM
+msgctxt "NAMES.WALL_WOOD_ITEM"
+msgid "Wood Wall"
+msgstr ""
+
+#. NAMES.WALRUS
+msgctxt "NAMES.WALRUS"
+msgid "MacTusk"
+msgstr ""
+
+#. NAMES.WALRUSHAT
+msgctxt "NAMES.WALRUSHAT"
+msgid "Tam o' Shanter"
+msgstr ""
+
+#. NAMES.WALRUS_CAMP
+msgctxt "NAMES.WALRUS_CAMP"
+msgid "Walrus Camp"
+msgstr ""
+
+#. NAMES.WALRUS_TUSK
+msgctxt "NAMES.WALRUS_TUSK"
+msgid "Walrus Tusk"
+msgstr ""
+
+#. NAMES.WALTER
+msgctxt "NAMES.WALTER"
+msgid "Walter"
+msgstr ""
+
+#. NAMES.WALTERHAT
+msgctxt "NAMES.WALTERHAT"
+msgid "Pinetree Pioneer Hat"
+msgstr ""
+
+#. NAMES.WANDA
+msgctxt "NAMES.WANDA"
+msgid "Wanda"
+msgstr ""
+
+#. NAMES.WARDROBE
+msgctxt "NAMES.WARDROBE"
+msgid "Wardrobe"
+msgstr ""
+
+#. NAMES.WARG
+msgctxt "NAMES.WARG"
+msgid "Varg"
+msgstr ""
+
+#. NAMES.WARGLET
+msgctxt "NAMES.WARGLET"
+msgid "Varglet"
+msgstr ""
+
+#. NAMES.WARGSHRINE
+msgctxt "NAMES.WARGSHRINE"
+msgid "Varg Shrine"
+msgstr ""
+
+#. NAMES.WARLY
+msgctxt "NAMES.WARLY"
+msgid "Warly"
+msgstr ""
+
+#. NAMES.WAR_BLUEPRINT
+msgctxt "NAMES.WAR_BLUEPRINT"
+msgid "Warrior Costume Pattern"
+msgstr ""
+
+#. NAMES.WASPHIVE
+msgctxt "NAMES.WASPHIVE"
+msgid "Killer Bee Hive"
+msgstr ""
+
+#. NAMES.WATER
+msgctxt "NAMES.WATER"
+msgid "Short Circuit"
+msgstr ""
+
+#. NAMES.WATERBALLOON
+msgctxt "NAMES.WATERBALLOON"
+msgid "Waterballoon"
+msgstr ""
+
+#. NAMES.WATERINGCAN
+msgctxt "NAMES.WATERINGCAN"
+msgid "Empty Watering Can"
+msgstr ""
+
+#. NAMES.WATERINGCAN_NOT_EMPTY
+msgctxt "NAMES.WATERINGCAN_NOT_EMPTY"
+msgid "Watering Can"
+msgstr ""
+
+#. NAMES.WATERMELON
+msgctxt "NAMES.WATERMELON"
+msgid "Watermelon"
+msgstr ""
+
+#. NAMES.WATERMELONHAT
+msgctxt "NAMES.WATERMELONHAT"
+msgid "Fashion Melon"
+msgstr ""
+
+#. NAMES.WATERMELONICLE
+msgctxt "NAMES.WATERMELONICLE"
+msgid "Melonsicle"
+msgstr ""
+
+#. NAMES.WATERMELON_COOKED
+msgctxt "NAMES.WATERMELON_COOKED"
+msgid "Grilled Watermelon"
+msgstr ""
+
+#. NAMES.WATERMELON_OVERSIZED
+msgctxt "NAMES.WATERMELON_OVERSIZED"
+msgid "Giant Watermelon"
+msgstr ""
+
+#. NAMES.WATERMELON_OVERSIZED_ROTTEN
+msgctxt "NAMES.WATERMELON_OVERSIZED_ROTTEN"
+msgid "Giant Rotting Watermelon"
+msgstr ""
+
+#. NAMES.WATERMELON_SEEDS
+msgctxt "NAMES.WATERMELON_SEEDS"
+msgid "Square Seeds"
+msgstr ""
+
+#. NAMES.WATERPLANT
+msgctxt "NAMES.WATERPLANT"
+msgid "Sea Weed"
+msgstr ""
+
+#. NAMES.WATERPLANT_BABY
+msgctxt "NAMES.WATERPLANT_BABY"
+msgid "Sea Sprout"
+msgstr ""
+
+#. NAMES.WATERPLANT_BOMB
+msgctxt "NAMES.WATERPLANT_BOMB"
+msgid "Seedshell"
+msgstr ""
+
+#. NAMES.WATERPLANT_PLANTER
+msgctxt "NAMES.WATERPLANT_PLANTER"
+msgid "Sea Sprout Starter"
+msgstr ""
+
+#. NAMES.WATERPUMP
+msgctxt "NAMES.WATERPUMP"
+msgid "Fire Pump"
+msgstr ""
+
+#. NAMES.WATERTREE_PILLAR
+msgctxt "NAMES.WATERTREE_PILLAR"
+msgid "Great Tree Trunk"
+msgstr ""
+
+#. NAMES.WATERTREE_ROOT
+msgctxt "NAMES.WATERTREE_ROOT"
+msgid "Great Tree Root"
+msgstr ""
+
+#. NAMES.WATER_TURTLE
+msgctxt "NAMES.WATER_TURTLE"
+msgid "Sea Turtle"
+msgstr ""
+
+#. NAMES.WATHGRITHR
+msgctxt "NAMES.WATHGRITHR"
+msgid "Wigfrid"
+msgstr ""
+
+#. NAMES.WATHGRITHRHAT
+msgctxt "NAMES.WATHGRITHRHAT"
+msgid "Battle Helm"
+msgstr ""
+
+#. NAMES.WAXPAPER
+msgctxt "NAMES.WAXPAPER"
+msgid "Wax Paper"
+msgstr ""
+
+#. NAMES.WAXWELL
+msgctxt "NAMES.WAXWELL"
+msgid "Maxwell"
+msgstr ""
+
+#. NAMES.WAXWELLJOURNAL
+msgctxt "NAMES.WAXWELLJOURNAL"
+msgid "Codex Umbra"
+msgstr ""
+
+#. NAMES.WAXWELL_SHADOWSTRIKER
+msgctxt "NAMES.WAXWELL_SHADOWSTRIKER"
+msgid "Shadow"
+msgstr ""
+
+#. NAMES.WEBBER
+msgctxt "NAMES.WEBBER"
+msgid "Webber"
+msgstr ""
+
+#. NAMES.WEBBERSKULL
+msgctxt "NAMES.WEBBERSKULL"
+msgid "Webber's Skull"
+msgstr ""
+
+#. NAMES.WEBBER_SPIDER_MINION
+msgctxt "NAMES.WEBBER_SPIDER_MINION"
+msgid "Baby Spider"
+msgstr ""
+
+#. NAMES.WEED_FIRENETTLE
+msgctxt "NAMES.WEED_FIRENETTLE"
+msgid "Fire Nettles"
+msgstr ""
+
+#. NAMES.WEED_FORGETMELOTS
+msgctxt "NAMES.WEED_FORGETMELOTS"
+msgid "Forget-Me-Lots"
+msgstr ""
+
+#. NAMES.WEED_IVY
+msgctxt "NAMES.WEED_IVY"
+msgid "Spiny Bindweed"
+msgstr ""
+
+#. NAMES.WEED_TILLWEED
+msgctxt "NAMES.WEED_TILLWEED"
+msgid "Tillweed"
+msgstr ""
+
+#. NAMES.WENDY
+msgctxt "NAMES.WENDY"
+msgid "Wendy"
+msgstr ""
+
+#. NAMES.WEREITEM_BEAVER
+msgctxt "NAMES.WEREITEM_BEAVER"
+msgid "Kitschy Beaver Idol"
+msgstr ""
+
+#. NAMES.WEREITEM_GOOSE
+msgctxt "NAMES.WEREITEM_GOOSE"
+msgid "Kitschy Goose Idol"
+msgstr ""
+
+#. NAMES.WEREITEM_MOOSE
+msgctxt "NAMES.WEREITEM_MOOSE"
+msgid "Kitschy Moose Idol"
+msgstr ""
+
+#. NAMES.WES
+msgctxt "NAMES.WES"
+msgid "Wes"
+msgstr ""
+
+#. NAMES.WETGOOP
+msgctxt "NAMES.WETGOOP"
+msgid "Wet Goop"
+msgstr ""
+
+#. NAMES.WETPAPER
+msgctxt "NAMES.WETPAPER"
+msgid "Paper"
+msgstr ""
+
+#. NAMES.WETPOUCH
+msgctxt "NAMES.WETPOUCH"
+msgid "Crumpled Package"
+msgstr ""
+
+#. NAMES.WHIP
+msgctxt "NAMES.WHIP"
+msgid "Tail o' Three Cats"
+msgstr ""
+
+#. NAMES.WICKERBOTTOM
+msgctxt "NAMES.WICKERBOTTOM"
+msgid "Wickerbottom"
+msgstr ""
+
+#. NAMES.WILLOW
+msgctxt "NAMES.WILLOW"
+msgid "Willow"
+msgstr ""
+
+#. NAMES.WILSON
+msgctxt "NAMES.WILSON"
+msgid "Wilson"
+msgstr ""
+
+#. NAMES.WINCH
+msgctxt "NAMES.WINCH"
+msgid "Pinchin' Winch"
+msgstr ""
+
+#. NAMES.WINCH_BLUEPRINT
+msgctxt "NAMES.WINCH_BLUEPRINT"
+msgid "Pinchin' Winch Blueprint"
+msgstr ""
+
+#. NAMES.WINONA
+msgctxt "NAMES.WINONA"
+msgid "Winona"
+msgstr ""
+
+#. NAMES.WINONA_BATTERY_HIGH
+msgctxt "NAMES.WINONA_BATTERY_HIGH"
+msgid "Winona's G.E.M.erator"
+msgstr ""
+
+#. NAMES.WINONA_BATTERY_LOW
+msgctxt "NAMES.WINONA_BATTERY_LOW"
+msgid "Winona's Generator"
+msgstr ""
+
+#. NAMES.WINONA_CATAPULT
+msgctxt "NAMES.WINONA_CATAPULT"
+msgid "Winona's Catapult"
+msgstr ""
+
+#. NAMES.WINONA_SPOTLIGHT
+msgctxt "NAMES.WINONA_SPOTLIGHT"
+msgid "Winona's Spotlight"
+msgstr ""
+
+#. NAMES.WINTERCOOKING_BERRYSAUCE
+msgctxt "NAMES.WINTERCOOKING_BERRYSAUCE"
+msgid "Merry Berrysauce"
+msgstr ""
+
+#. NAMES.WINTERCOOKING_BIBINGKA
+msgctxt "NAMES.WINTERCOOKING_BIBINGKA"
+msgid "Bibingka"
+msgstr ""
+
+#. NAMES.WINTERCOOKING_CABBAGEROLLS
+msgctxt "NAMES.WINTERCOOKING_CABBAGEROLLS"
+msgid "Cabbage Rolls"
+msgstr ""
+
+#. NAMES.WINTERCOOKING_FESTIVEFISH
+msgctxt "NAMES.WINTERCOOKING_FESTIVEFISH"
+msgid "Festive Fish Dish"
+msgstr ""
+
+#. NAMES.WINTERCOOKING_GRAVY
+msgctxt "NAMES.WINTERCOOKING_GRAVY"
+msgid "Good Gravy"
+msgstr ""
+
+#. NAMES.WINTERCOOKING_LATKES
+msgctxt "NAMES.WINTERCOOKING_LATKES"
+msgid "Latkes"
+msgstr ""
+
+#. NAMES.WINTERCOOKING_LUTEFISK
+msgctxt "NAMES.WINTERCOOKING_LUTEFISK"
+msgid "Lutefisk"
+msgstr ""
+
+#. NAMES.WINTERCOOKING_MULLEDDRINK
+msgctxt "NAMES.WINTERCOOKING_MULLEDDRINK"
+msgid "Mulled Punch"
+msgstr ""
+
+#. NAMES.WINTERCOOKING_PANETTONE
+msgctxt "NAMES.WINTERCOOKING_PANETTONE"
+msgid "Panettone"
+msgstr ""
+
+#. NAMES.WINTERCOOKING_PAVLOVA
+msgctxt "NAMES.WINTERCOOKING_PAVLOVA"
+msgid "Pavlova"
+msgstr ""
+
+#. NAMES.WINTERCOOKING_PICKLEDHERRING
+msgctxt "NAMES.WINTERCOOKING_PICKLEDHERRING"
+msgid "Pickled Herring"
+msgstr ""
+
+#. NAMES.WINTERCOOKING_POLISHCOOKIE
+msgctxt "NAMES.WINTERCOOKING_POLISHCOOKIE"
+msgid "Polish Cookies"
+msgstr ""
+
+#. NAMES.WINTERCOOKING_PUMPKINPIE
+msgctxt "NAMES.WINTERCOOKING_PUMPKINPIE"
+msgid "Pumpkin Pie"
+msgstr ""
+
+#. NAMES.WINTERCOOKING_ROASTTURKEY
+msgctxt "NAMES.WINTERCOOKING_ROASTTURKEY"
+msgid "Roasted Turkey"
+msgstr ""
+
+#. NAMES.WINTERCOOKING_STUFFING
+msgctxt "NAMES.WINTERCOOKING_STUFFING"
+msgid "Stuffing"
+msgstr ""
+
+#. NAMES.WINTERCOOKING_SWEETPOTATO
+msgctxt "NAMES.WINTERCOOKING_SWEETPOTATO"
+msgid "Sweet Potato Casserole"
+msgstr ""
+
+#. NAMES.WINTERCOOKING_TAMALES
+msgctxt "NAMES.WINTERCOOKING_TAMALES"
+msgid "Tamales"
+msgstr ""
+
+#. NAMES.WINTERCOOKING_TOURTIERE
+msgctxt "NAMES.WINTERCOOKING_TOURTIERE"
+msgid "Tourtiere"
+msgstr ""
+
+#. NAMES.WINTERHAT
+msgctxt "NAMES.WINTERHAT"
+msgid "Winter Hat"
+msgstr ""
+
+#. NAMES.WINTEROMETER
+msgctxt "NAMES.WINTEROMETER"
+msgid "Thermal Measurer"
+msgstr ""
+
+#. NAMES.WINTERSFEASTFUEL
+msgctxt "NAMES.WINTERSFEASTFUEL"
+msgid "Holiday Cheer"
+msgstr ""
+
+#. NAMES.WINTERSFEASTOVEN
+msgctxt "NAMES.WINTERSFEASTOVEN"
+msgid "Masonry Oven"
+msgstr ""
+
+#. NAMES.WINTER_FOOD1
+msgctxt "NAMES.WINTER_FOOD1"
+msgid "Gingerbread Cookie"
+msgstr ""
+
+#. NAMES.WINTER_FOOD2
+msgctxt "NAMES.WINTER_FOOD2"
+msgid "Sugar Cookie"
+msgstr ""
+
+#. NAMES.WINTER_FOOD3
+msgctxt "NAMES.WINTER_FOOD3"
+msgid "Candy Cane"
+msgstr ""
+
+#. NAMES.WINTER_FOOD4
+msgctxt "NAMES.WINTER_FOOD4"
+msgid "Eternal Fruitcake"
+msgstr ""
+
+#. NAMES.WINTER_FOOD5
+msgctxt "NAMES.WINTER_FOOD5"
+msgid "Chocolate Log Cake"
+msgstr ""
+
+#. NAMES.WINTER_FOOD6
+msgctxt "NAMES.WINTER_FOOD6"
+msgid "Plum Pudding"
+msgstr ""
+
+#. NAMES.WINTER_FOOD7
+msgctxt "NAMES.WINTER_FOOD7"
+msgid "Apple Cider"
+msgstr ""
+
+#. NAMES.WINTER_FOOD8
+msgctxt "NAMES.WINTER_FOOD8"
+msgid "Hot Cocoa"
+msgstr ""
+
+#. NAMES.WINTER_FOOD9
+msgctxt "NAMES.WINTER_FOOD9"
+msgid "Heavenly Eggnog"
+msgstr ""
+
+#. NAMES.WINTER_ORNAMENT
+msgctxt "NAMES.WINTER_ORNAMENT"
+msgid "Festive Bauble"
+msgstr ""
+
+#. NAMES.WINTER_ORNAMENTBOSS
+msgctxt "NAMES.WINTER_ORNAMENTBOSS"
+msgid "Magnificent Adornment"
+msgstr ""
+
+#. NAMES.WINTER_ORNAMENTFORGE
+msgctxt "NAMES.WINTER_ORNAMENTFORGE"
+msgid "Champion Adornment"
+msgstr ""
+
+#. NAMES.WINTER_ORNAMENTGORGE
+msgctxt "NAMES.WINTER_ORNAMENTGORGE"
+msgid "Appeasing Adornment"
+msgstr ""
+
+#. NAMES.WINTER_ORNAMENTLIGHT
+msgctxt "NAMES.WINTER_ORNAMENTLIGHT"
+msgid "Festive Light"
+msgstr ""
+
+#. NAMES.WINTER_ORNAMENTPEARL
+msgctxt "NAMES.WINTER_ORNAMENTPEARL"
+msgid "Sentimental Adornment"
+msgstr ""
+
+#. NAMES.WINTER_ORNAMENT_BOSS_HERMITHOUSE
+msgctxt "NAMES.WINTER_ORNAMENT_BOSS_HERMITHOUSE"
+msgid "Sentimental Adornment"
+msgstr ""
+
+#. NAMES.WINTER_ORNAMENT_BOSS_PEARL
+msgctxt "NAMES.WINTER_ORNAMENT_BOSS_PEARL"
+msgid "Sentimental Adornment"
+msgstr ""
+
+#. NAMES.WINTER_TREE
+msgctxt "NAMES.WINTER_TREE"
+msgid "Winter's Feast Tree"
+msgstr ""
+
+#. NAMES.WINTER_TREESTAND
+msgctxt "NAMES.WINTER_TREESTAND"
+msgid "Festive Tree Planter"
+msgstr ""
+
+#. NAMES.WOBSTER_DEN
+msgctxt "NAMES.WOBSTER_DEN"
+msgid "Wobster Mound"
+msgstr ""
+
+#. NAMES.WOBSTER_MOONGLASS
+msgctxt "NAMES.WOBSTER_MOONGLASS"
+msgid "Lunar Wobster"
+msgstr ""
+
+#. NAMES.WOBSTER_SHELLER
+msgctxt "NAMES.WOBSTER_SHELLER"
+msgid "Wobster"
+msgstr ""
+
+#. NAMES.WOBSTER_SHELLER_DEAD
+msgctxt "NAMES.WOBSTER_SHELLER_DEAD"
+msgid "Dead Wobster"
+msgstr ""
+
+#. NAMES.WOBSTER_SHELLER_DEAD_COOKED
+msgctxt "NAMES.WOBSTER_SHELLER_DEAD_COOKED"
+msgid "Delicious Wobster"
+msgstr ""
+
+#. NAMES.WOBSTER_SHELLER_LAND
+msgctxt "NAMES.WOBSTER_SHELLER_LAND"
+msgid "Wobster"
+msgstr ""
+
+#. NAMES.WOBYBIG
+msgctxt "NAMES.WOBYBIG"
+msgid "Woby"
+msgstr ""
+
+#. NAMES.WOBYSMALL
+msgctxt "NAMES.WOBYSMALL"
+msgid "Woby"
+msgstr ""
+
+#. NAMES.WOLFGANG
+msgctxt "NAMES.WOLFGANG"
+msgid "Wolfgang"
+msgstr ""
+
+#. NAMES.WOODIE
+msgctxt "NAMES.WOODIE"
+msgid "Woodie"
+msgstr ""
+
+#. NAMES.WORLD
+msgctxt "NAMES.WORLD"
+msgid "The World"
+msgstr ""
+
+#. NAMES.WORM
+msgctxt "NAMES.WORM"
+msgid "Depths Worm"
+msgstr ""
+
+#. NAMES.WORMHOLE
+msgctxt "NAMES.WORMHOLE"
+msgid "Worm Hole"
+msgstr ""
+
+#. NAMES.WORMHOLE_LIMITED
+msgctxt "NAMES.WORMHOLE_LIMITED"
+msgid "Sick Worm Hole"
+msgstr ""
+
+#. NAMES.WORMLIGHT
+msgctxt "NAMES.WORMLIGHT"
+msgid "Glow Berry"
+msgstr ""
+
+#. NAMES.WORMLIGHT_LESSER
+msgctxt "NAMES.WORMLIGHT_LESSER"
+msgid "Lesser Glow Berry"
+msgstr ""
+
+#. NAMES.WORMLIGHT_PLANT
+msgctxt "NAMES.WORMLIGHT_PLANT"
+msgid "Mysterious Plant"
+msgstr ""
+
+#. NAMES.WORMWOOD
+msgctxt "NAMES.WORMWOOD"
+msgid "Wormwood"
+msgstr ""
+
+#. NAMES.WORM_DIRT
+msgctxt "NAMES.WORM_DIRT"
+msgid "Dirt Mound"
+msgstr ""
+
+#. NAMES.WORM_PLANT
+msgctxt "NAMES.WORM_PLANT"
+msgid "Mysterious Plant"
+msgstr ""
+
+#. NAMES.WORTOX
+msgctxt "NAMES.WORTOX"
+msgid "Wortox"
+msgstr ""
+
+#. NAMES.WORTOX_SOUL
+msgctxt "NAMES.WORTOX_SOUL"
+msgid "Soul"
+msgstr ""
+
+#. NAMES.WURT
+msgctxt "NAMES.WURT"
+msgid "Wurt"
+msgstr ""
+
+#. NAMES.WX78
+msgctxt "NAMES.WX78"
+msgid "WX-78"
+msgstr ""
+
+#. NAMES.WX78MODULE_BEE
+msgctxt "NAMES.WX78MODULE_BEE"
+msgid "Beanbooster Circuit"
+msgstr ""
+
+#. NAMES.WX78MODULE_COLD
+msgctxt "NAMES.WX78MODULE_COLD"
+msgid "Refrigerant Circuit"
+msgstr ""
+
+#. NAMES.WX78MODULE_HEAT
+msgctxt "NAMES.WX78MODULE_HEAT"
+msgid "Thermal Circuit"
+msgstr ""
+
+#. NAMES.WX78MODULE_LIGHT
+msgctxt "NAMES.WX78MODULE_LIGHT"
+msgid "Illumination Circuit"
+msgstr ""
+
+#. NAMES.WX78MODULE_MAXHEALTH
+msgctxt "NAMES.WX78MODULE_MAXHEALTH"
+msgid "Hardy Circuit"
+msgstr ""
+
+#. NAMES.WX78MODULE_MAXHEALTH2
+msgctxt "NAMES.WX78MODULE_MAXHEALTH2"
+msgid "Super-Hardy Circuit"
+msgstr ""
+
+#. NAMES.WX78MODULE_MAXHUNGER
+msgctxt "NAMES.WX78MODULE_MAXHUNGER"
+msgid "Super-Gastrogain Circuit"
+msgstr ""
+
+#. NAMES.WX78MODULE_MAXHUNGER1
+msgctxt "NAMES.WX78MODULE_MAXHUNGER1"
+msgid "Gastrogain Circuit"
+msgstr ""
+
+#. NAMES.WX78MODULE_MAXSANITY
+msgctxt "NAMES.WX78MODULE_MAXSANITY"
+msgid "Super-Processing Circuit"
+msgstr ""
+
+#. NAMES.WX78MODULE_MAXSANITY1
+msgctxt "NAMES.WX78MODULE_MAXSANITY1"
+msgid "Processing Circuit"
+msgstr ""
+
+#. NAMES.WX78MODULE_MOVESPEED
+msgctxt "NAMES.WX78MODULE_MOVESPEED"
+msgid "Acceleration Circuit"
+msgstr ""
+
+#. NAMES.WX78MODULE_MOVESPEED2
+msgctxt "NAMES.WX78MODULE_MOVESPEED2"
+msgid "Super-Acceleration Circuit"
+msgstr ""
+
+#. NAMES.WX78MODULE_MUSIC
+msgctxt "NAMES.WX78MODULE_MUSIC"
+msgid "Chorusbox Circuit"
+msgstr ""
+
+#. NAMES.WX78MODULE_NIGHTVISION
+msgctxt "NAMES.WX78MODULE_NIGHTVISION"
+msgid "Optoelectronic Circuit"
+msgstr ""
+
+#. NAMES.WX78MODULE_TASER
+msgctxt "NAMES.WX78MODULE_TASER"
+msgid "Electrification Circuit"
+msgstr ""
+
+#. NAMES.WX78_MODULEREMOVER
+msgctxt "NAMES.WX78_MODULEREMOVER"
+msgid "Circuit Extractor"
+msgstr ""
+
+#. NAMES.WX78_SCANNER
+msgctxt "NAMES.WX78_SCANNER"
+msgid "Bio Scanalyzer"
+msgstr ""
+
+#. NAMES.WX78_SCANNER_ITEM
+msgctxt "NAMES.WX78_SCANNER_ITEM"
+msgid "Bio Scanalyzer"
+msgstr ""
+
+#. NAMES.WX78_SCANNER_SUCCEEDED
+msgctxt "NAMES.WX78_SCANNER_SUCCEEDED"
+msgid "Bio Scanalyzer"
+msgstr ""
+
+#. NAMES.YELLOWAMULET
+msgctxt "NAMES.YELLOWAMULET"
+msgid "Magiluminescence"
+msgstr ""
+
+#. NAMES.YELLOWGEM
+msgctxt "NAMES.YELLOWGEM"
+msgid "Yellow Gem"
+msgstr ""
+
+#. NAMES.YELLOWMOONEYE
+msgctxt "NAMES.YELLOWMOONEYE"
+msgid "Yellow Moonlens"
+msgstr ""
+
+#. NAMES.YELLOWSTAFF
+msgctxt "NAMES.YELLOWSTAFF"
+msgid "Star Caller's Staff"
+msgstr ""
+
+#. NAMES.YOTB_BEEFALOSHRINE
+msgctxt "NAMES.YOTB_BEEFALOSHRINE"
+msgid "Beefalo Shrine"
+msgstr ""
+
+#. NAMES.YOTB_BEEFALO_DOLL_BEAST
+msgctxt "NAMES.YOTB_BEEFALO_DOLL_BEAST"
+msgid "Lucky Beast Beefalo Doll"
+msgstr ""
+
+#. NAMES.YOTB_BEEFALO_DOLL_DOLL
+msgctxt "NAMES.YOTB_BEEFALO_DOLL_DOLL"
+msgid "Dolled-Up Beefalo Doll"
+msgstr ""
+
+#. NAMES.YOTB_BEEFALO_DOLL_FESTIVE
+msgctxt "NAMES.YOTB_BEEFALO_DOLL_FESTIVE"
+msgid "Festive Beefalo Doll"
+msgstr ""
+
+#. NAMES.YOTB_BEEFALO_DOLL_FORMAL
+msgctxt "NAMES.YOTB_BEEFALO_DOLL_FORMAL"
+msgid "Formal Beefalo Doll"
+msgstr ""
+
+#. NAMES.YOTB_BEEFALO_DOLL_ICE
+msgctxt "NAMES.YOTB_BEEFALO_DOLL_ICE"
+msgid "Frostbitten Beefalo Doll"
+msgstr ""
+
+#. NAMES.YOTB_BEEFALO_DOLL_NATURE
+msgctxt "NAMES.YOTB_BEEFALO_DOLL_NATURE"
+msgid "Flowery Beefalo Doll"
+msgstr ""
+
+#. NAMES.YOTB_BEEFALO_DOLL_ROBOT
+msgctxt "NAMES.YOTB_BEEFALO_DOLL_ROBOT"
+msgid "Ironclad Beefalo Doll"
+msgstr ""
+
+#. NAMES.YOTB_BEEFALO_DOLL_VICTORIAN
+msgctxt "NAMES.YOTB_BEEFALO_DOLL_VICTORIAN"
+msgid "Victorian Beefalo Doll"
+msgstr ""
+
+#. NAMES.YOTB_BEEFALO_DOLL_WAR
+msgctxt "NAMES.YOTB_BEEFALO_DOLL_WAR"
+msgid "Warrior Beefalo Doll"
+msgstr ""
+
+#. NAMES.YOTB_PATTERN_FRAGMENT_1
+msgctxt "NAMES.YOTB_PATTERN_FRAGMENT_1"
+msgid "Fearsome Pattern Scrap"
+msgstr ""
+
+#. NAMES.YOTB_PATTERN_FRAGMENT_2
+msgctxt "NAMES.YOTB_PATTERN_FRAGMENT_2"
+msgid "Formal Pattern Scrap"
+msgstr ""
+
+#. NAMES.YOTB_PATTERN_FRAGMENT_3
+msgctxt "NAMES.YOTB_PATTERN_FRAGMENT_3"
+msgid "Festive Pattern Scrap"
+msgstr ""
+
+#. NAMES.YOTB_POST
+msgctxt "NAMES.YOTB_POST"
+msgid "Beefalo Stage"
+msgstr ""
+
+#. NAMES.YOTB_POST_ITEM
+msgctxt "NAMES.YOTB_POST_ITEM"
+msgid "Beefalo Stage"
+msgstr ""
+
+#. NAMES.YOTB_SEWINGMACHINE
+msgctxt "NAMES.YOTB_SEWINGMACHINE"
+msgid "Sewing Machine"
+msgstr ""
+
+#. NAMES.YOTB_SEWINGMACHINE_ITEM
+msgctxt "NAMES.YOTB_SEWINGMACHINE_ITEM"
+msgid "Sewing Machine Kit"
+msgstr ""
+
+#. NAMES.YOTB_STAGE
+msgctxt "NAMES.YOTB_STAGE"
+msgid "Judge's Booth"
+msgstr ""
+
+#. NAMES.YOTB_STAGE_ITEM
+msgctxt "NAMES.YOTB_STAGE_ITEM"
+msgid "Judge's Booth"
+msgstr ""
+
+#. NAMES.YOTC_CARRATSHRINE
+msgctxt "NAMES.YOTC_CARRATSHRINE"
+msgid "Carrat Shrine"
+msgstr ""
+
+#. NAMES.YOTC_CARRAT_GYM_DIRECTION
+msgctxt "NAMES.YOTC_CARRAT_GYM_DIRECTION"
+msgid "Navigation Gym"
+msgstr ""
+
+#. NAMES.YOTC_CARRAT_GYM_DIRECTION_ITEM
+msgctxt "NAMES.YOTC_CARRAT_GYM_DIRECTION_ITEM"
+msgid "Navigation Gym Kit"
+msgstr ""
+
+#. NAMES.YOTC_CARRAT_GYM_REACTION
+msgctxt "NAMES.YOTC_CARRAT_GYM_REACTION"
+msgid "Reflex Gym"
+msgstr ""
+
+#. NAMES.YOTC_CARRAT_GYM_REACTION_ITEM
+msgctxt "NAMES.YOTC_CARRAT_GYM_REACTION_ITEM"
+msgid "Reflex Gym Kit"
+msgstr ""
+
+#. NAMES.YOTC_CARRAT_GYM_SPEED
+msgctxt "NAMES.YOTC_CARRAT_GYM_SPEED"
+msgid "Speed Gym"
+msgstr ""
+
+#. NAMES.YOTC_CARRAT_GYM_SPEED_ITEM
+msgctxt "NAMES.YOTC_CARRAT_GYM_SPEED_ITEM"
+msgid "Speed Gym Kit"
+msgstr ""
+
+#. NAMES.YOTC_CARRAT_GYM_STAMINA
+msgctxt "NAMES.YOTC_CARRAT_GYM_STAMINA"
+msgid "Endurance Gym"
+msgstr ""
+
+#. NAMES.YOTC_CARRAT_GYM_STAMINA_ITEM
+msgctxt "NAMES.YOTC_CARRAT_GYM_STAMINA_ITEM"
+msgid "Endurance Gym Kit"
+msgstr ""
+
+#. NAMES.YOTC_CARRAT_RACE_CHECKPOINT
+msgctxt "NAMES.YOTC_CARRAT_RACE_CHECKPOINT"
+msgid "Checkpoint"
+msgstr ""
+
+#. NAMES.YOTC_CARRAT_RACE_CHECKPOINT_ITEM
+msgctxt "NAMES.YOTC_CARRAT_RACE_CHECKPOINT_ITEM"
+msgid "Checkpoint Kit"
+msgstr ""
+
+#. NAMES.YOTC_CARRAT_RACE_FINISH
+msgctxt "NAMES.YOTC_CARRAT_RACE_FINISH"
+msgid "Finish Line"
+msgstr ""
+
+#. NAMES.YOTC_CARRAT_RACE_FINISH_ITEM
+msgctxt "NAMES.YOTC_CARRAT_RACE_FINISH_ITEM"
+msgid "Finish Line Kit"
+msgstr ""
+
+#. NAMES.YOTC_CARRAT_RACE_START
+msgctxt "NAMES.YOTC_CARRAT_RACE_START"
+msgid "Starting Point"
+msgstr ""
+
+#. NAMES.YOTC_CARRAT_RACE_START_ITEM
+msgctxt "NAMES.YOTC_CARRAT_RACE_START_ITEM"
+msgid "Starting Point Kit"
+msgstr ""
+
+#. NAMES.YOTC_CARRAT_SCALE
+msgctxt "NAMES.YOTC_CARRAT_SCALE"
+msgid "Carrat Scale"
+msgstr ""
+
+#. NAMES.YOTC_CARRAT_SCALE_ITEM
+msgctxt "NAMES.YOTC_CARRAT_SCALE_ITEM"
+msgid "Carrat Scale Kit"
+msgstr ""
+
+#. NAMES.YOTC_OWNED_CARRAT
+msgctxt "NAMES.YOTC_OWNED_CARRAT"
+msgid "{trainer}'s Carrat"
+msgstr ""
+
+#. NAMES.YOTC_SEEDPACKET
+msgctxt "NAMES.YOTC_SEEDPACKET"
+msgid "Packet of Seeds"
+msgstr ""
+
+#. NAMES.YOTC_SEEDPACKET_RARE
+msgctxt "NAMES.YOTC_SEEDPACKET_RARE"
+msgid "Premium Seed Packet"
+msgstr ""
+
+#. NAMES.YOTP_FOOD1
+msgctxt "NAMES.YOTP_FOOD1"
+msgid "Tribute Roast"
+msgstr ""
+
+#. NAMES.YOTP_FOOD2
+msgctxt "NAMES.YOTP_FOOD2"
+msgid "Eight Treasure Mud Pie"
+msgstr ""
+
+#. NAMES.YOTP_FOOD3
+msgctxt "NAMES.YOTP_FOOD3"
+msgid "Fish Heads on a Stick"
+msgstr ""
+
+#. NAMES.YOT_CATCOONSHRINE
+msgctxt "NAMES.YOT_CATCOONSHRINE"
+msgid "Catcoon Shrine"
+msgstr ""
+

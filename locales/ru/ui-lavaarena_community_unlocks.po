@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.AVAILABLE_QUESTS
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.AVAILABLE_QUESTS"
+msgid "Posted Quests"
+msgstr "Выданные задания"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.COMPLETED_QUESTS_FMT
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.COMPLETED_QUESTS_FMT"
+msgid "{num} Quests Completed"
+msgstr "Выполнено заданий: {num}"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_MATCHES_FMT
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_MATCHES_FMT"
+msgid "{num} Daily Match Bonuses"
+msgstr "Ежедневные бонусы за матч: {num}"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_RESET
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_RESET"
+msgid "Daily bonuses reset in: {hours}h {minutes}m"
+msgstr "Ежедневные бонусы будут сброшены через: {hours}ч. {minutes}мин."
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_RESET_SOON
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_RESET_SOON"
+msgid "Daily bonuses will reset soon."
+msgstr "Ежедневные бонусы скоро будут сброшены."
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_RESET_SOON_INGAME
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_RESET_SOON_INGAME"
+msgid "Daily bonuses will reset after the next match."
+msgstr "Ежедневные бонусы будут сброшены после следующего матча."
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_WINS_FMT
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_WINS_FMT"
+msgid "{num} Daily Victory Bonuses"
+msgstr "Ежедневные бонусы за победу: {num}"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.DESCRIPTION
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.DESCRIPTION"
+msgid "Contribute to the community's progression by defeating the {boss}."
+msgstr "Внесите свой вклад в прогресс сообщества, одолев босса: {boss}."
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.EVERYTHING_UNLOCKED
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.EVERYTHING_UNLOCKED"
+msgid "The {boss} has arrived. Now you can forge your way to a true victory!"
+msgstr "А вот и {boss}. Теперь вы можете пробить себе путь к настоящей победе!"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.LOCKED.BOSS
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.LOCKED.BOSS"
+msgid "Locked Creature"
+msgstr "Заблокированное существо"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.LOCKED.CREATURE
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.LOCKED.CREATURE"
+msgid "Locked Creature"
+msgstr "Заблокированное существо"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.LOCKED.ITEM
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.LOCKED.ITEM"
+msgid "Locked Item"
+msgstr "Заблокированный предмет"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.PROGRESSION_QUERY_FAILURE
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.PROGRESSION_QUERY_FAILURE"
+msgid "Failed to retrieve community progression data."
+msgstr "Не удалось получить данные о прогрессе сообщества."
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_QUERY_FAILURE
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_QUERY_FAILURE"
+msgid "Failed to retrieve your quests."
+msgstr "Не удалось получить ваши задания."
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_RESET
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_RESET"
+msgid "Posting new quests in: {hours}h {minutes}m"
+msgstr "Выдача новых заданий через: {hours} ч. {minutes} мин."
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_RESET_SOON
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_RESET_SOON"
+msgid "New quests will be posted soon."
+msgstr "Новые задания скоро будут выданы."
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_RESET_SOON_INGAME
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_RESET_SOON_INGAME"
+msgid "New quests will be posted after the next match."
+msgstr "Новые задания будут выданы после следующего матча."
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_TYPE_CHARACTER_FMT
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_TYPE_CHARACTER_FMT"
+msgid "{character}'s {quest_type}"
+msgstr "{character}: {quest_type}"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_TYPE_PERSONAL
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_TYPE_PERSONAL"
+msgid "Personal Quest"
+msgstr "Личное задание"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_TYPE_TEAM
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_TYPE_TEAM"
+msgid "Teamwork Quest"
+msgstr "Командное задание"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.SYNCING_DATA
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.SYNCING_DATA"
+msgid "Syncing Data..."
+msgstr "Синхронизация данных…"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.TAB_TITLE
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.TAB_TITLE"
+msgid "Community Unlocks"
+msgstr "Открытия сообщества"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNKNOWN
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNKNOWN"
+msgid "Unknown"
+msgstr "Неизвестно"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.BEETLETAUR
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.BEETLETAUR"
+msgid "Summoned to the arena for the final round!"
+msgstr "Осуществлен призыв на арену для финального раунда!"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.BOARRIOR
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.BOARRIOR"
+msgid "Summoned to the arena while defeating the Boarillas"
+msgstr "Осуществлен призыв на арену во время битвы со Свинориллами"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.BOOK_ELEMENTAL
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.BOOK_ELEMENTAL"
+msgid "Summon a Magma Golem or divebomb opponents with a powerful Sky Lunge"
+msgstr "Призвать Магмового голема или нанести противникам мощный Удар с небес"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPDAMAGER
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPDAMAGER"
+msgid "80% Protection, +50 Max Health,\n+20% Physical Damage"
+msgstr "80% защиты, +50 к максимуму здоровья,\n+20% к физическому урону"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPEXTRAHEAVY
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPEXTRAHEAVY"
+msgid "90% Protection, +100 Max Health,\nKnockback Resistance"
+msgstr "90% защиты, +100 к максимуму здоровья,\nИммунитет к отбрасыванию"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPPETMASTERY
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPPETMASTERY"
+msgid "80% Protection, +75 Max Health, Increases effectiveness of Baby Spiders, Abigail or Bernie"
+msgstr "80% защиты, +75 к максимуму здоровья, повышенная эффективность паучков, Абигейл или Берни"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPRECHARGER
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPRECHARGER"
+msgid "80% Protection, +50 Max Health,\n+15% Faster Cooldown"
+msgstr "80% защиты, +50 к максимуму здоровья,\n+15% к скорости восстановления"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_FIREBOMB
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_FIREBOMB"
+msgid "Bombard your opponents with searing Hearthsfire"
+msgstr "Откройте по противникам огонь опаляющим пламенем Горнила"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_HEAVYBLADE
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_HEAVYBLADE"
+msgid "Hinder your opponents with the almighty Blacksmith's Edge"
+msgstr "Задержите противников, атаковав их могучим Клинком кузнеца"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.RHINODRILL
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.RHINODRILL"
+msgid "Summoned to the arena when the Grand Forge Boarrior is defeated"
+msgstr "Осуществлен призыв на арену в момент победы над Великим Боровом-воином Горнила"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_TITLE.BOOK_ELEMENTAL
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_TITLE.BOOK_ELEMENTAL"
+msgid "Tome of Beckoning & Spiral Spear"
+msgstr "Том призыва и Спиральное копье"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_TITLE.RHINODRILL
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_TITLE.RHINODRILL"
+msgid "Rhinocebros, Snapback and Flatbrim"
+msgstr "Носоробро Кепон и Кепарь"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.URL_LABEL
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.URL_LABEL"
+msgid "Community Unlocks & Leaderboards"
+msgstr "Открытия сообщества и рейтинг"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.XP_LABEL
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.XP_LABEL"
+msgid "XP"
+msgstr "ОПЫТ"
+

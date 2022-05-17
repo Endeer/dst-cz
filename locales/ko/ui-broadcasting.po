@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.BROADCASTING.ACCEPT
+msgctxt "UI.BROADCASTING.ACCEPT"
+msgid "Accept"
+msgstr "수락"
+
+#. UI.BROADCASTING.ACCEPTBODY
+msgctxt "UI.BROADCASTING.ACCEPTBODY"
+msgid "Do you wish to accept these changes?"
+msgstr "이 변경 사항을 수락하시겠습니까?"
+
+#. UI.BROADCASTING.ACCEPTGRAPHICSBODY
+msgctxt "UI.BROADCASTING.ACCEPTGRAPHICSBODY"
+msgid "Do you wish to accept these changes?"
+msgstr "이 변경 사항을 수락하시겠습니까?"
+
+#. UI.BROADCASTING.ACCEPTGRAPHICSTITLE
+msgctxt "UI.BROADCASTING.ACCEPTGRAPHICSTITLE"
+msgid "Accept Changes"
+msgstr "변경 사항 수락"
+
+#. UI.BROADCASTING.ACCEPTTITLE
+msgctxt "UI.BROADCASTING.ACCEPTTITLE"
+msgid "Accept Changes"
+msgstr "변경 사항 수락"
+
+#. UI.BROADCASTING.APPLY
+msgctxt "UI.BROADCASTING.APPLY"
+msgid "Apply"
+msgstr "적용"
+
+#. UI.BROADCASTING.AUDIO
+msgctxt "UI.BROADCASTING.AUDIO"
+msgid "Audio"
+msgstr "오디오"
+
+#. UI.BROADCASTING.BACKBODY
+msgctxt "UI.BROADCASTING.BACKBODY"
+msgid "Do you want to throw out your changes?"
+msgstr "변경 사항을 취소하시겠습니까?"
+
+#. UI.BROADCASTING.BACKTITLE
+msgctxt "UI.BROADCASTING.BACKTITLE"
+msgid "Lose Changes?"
+msgstr "변경 사항 취소"
+
+#. UI.BROADCASTING.BANDWIDTH
+msgctxt "UI.BROADCASTING.BANDWIDTH"
+msgid "Bandwidth"
+msgstr "대역폭"
+
+#. UI.BROADCASTING.BROADCASTINGENABLED
+msgctxt "UI.BROADCASTING.BROADCASTINGENABLED"
+msgid "Broadcasting Enabled"
+msgstr "방송 사용 가능"
+
+#. UI.BROADCASTING.CANCEL
+msgctxt "UI.BROADCASTING.CANCEL"
+msgid "Cancel"
+msgstr "취소"
+
+#. UI.BROADCASTING.CLOSE
+msgctxt "UI.BROADCASTING.CLOSE"
+msgid "Close"
+msgstr "닫기"
+
+#. UI.BROADCASTING.FORGET
+msgctxt "UI.BROADCASTING.FORGET"
+msgid "Forget Account"
+msgstr "계정 지우기"
+
+#. UI.BROADCASTING.FRAMERATE
+msgctxt "UI.BROADCASTING.FRAMERATE"
+msgid "Frame Rate"
+msgstr "프레임 속도"
+
+#. UI.BROADCASTING.HELP
+msgctxt "UI.BROADCASTING.HELP"
+msgid "Help"
+msgstr "도움말"
+
+#. UI.BROADCASTING.LOGIN
+msgctxt "UI.BROADCASTING.LOGIN"
+msgid "Login"
+msgstr "로그인"
+
+#. UI.BROADCASTING.LOGOUT
+msgctxt "UI.BROADCASTING.LOGOUT"
+msgid "Logout"
+msgstr "로그아웃"
+
+#. UI.BROADCASTING.MICROPHONE
+msgctxt "UI.BROADCASTING.MICROPHONE"
+msgid "Microphone"
+msgstr "마이크"
+
+#. UI.BROADCASTING.NO
+msgctxt "UI.BROADCASTING.NO"
+msgid "No"
+msgstr "아니오"
+
+#. UI.BROADCASTING.REVERT
+msgctxt "UI.BROADCASTING.REVERT"
+msgid "Revert Changes"
+msgstr "변경 사항 되돌리기"
+
+#. UI.BROADCASTING.SIGNUP
+msgctxt "UI.BROADCASTING.SIGNUP"
+msgid "Sign Up"
+msgstr "가입하기"
+
+#. UI.BROADCASTING.SMOOTHSCALING
+msgctxt "UI.BROADCASTING.SMOOTHSCALING"
+msgid "Smooth Scaling"
+msgstr "테두리 매끄럽게"
+
+#. UI.BROADCASTING.STARTSTREAM
+msgctxt "UI.BROADCASTING.STARTSTREAM"
+msgid "Start Stream"
+msgstr "스트리밍 시작하기"
+
+#. UI.BROADCASTING.STOPSTREAM
+msgctxt "UI.BROADCASTING.STOPSTREAM"
+msgid "Stop Stream"
+msgstr "스트리밍 멈추기"
+
+#. UI.BROADCASTING.SYSTEMSOUND
+msgctxt "UI.BROADCASTING.SYSTEMSOUND"
+msgid "System Sound"
+msgstr "시스템 사운드"
+
+#. UI.BROADCASTING.TWITCHCHAT
+msgctxt "UI.BROADCASTING.TWITCHCHAT"
+msgid "Twitch Chat"
+msgstr "Twitch 채팅"
+
+#. UI.BROADCASTING.VIEWSTREAM
+msgctxt "UI.BROADCASTING.VIEWSTREAM"
+msgid "View Stream"
+msgstr "스트리밍 보기"
+
+#. UI.BROADCASTING.WEBCAM
+msgctxt "UI.BROADCASTING.WEBCAM"
+msgid "Webcam Enabled"
+msgstr "웹캠 사용 가능"
+
+#. UI.BROADCASTING.WEBCAMALPHA
+msgctxt "UI.BROADCASTING.WEBCAMALPHA"
+msgid "Webcam Alpha"
+msgstr "웹캠 알파"
+
+#. UI.BROADCASTING.YES
+msgctxt "UI.BROADCASTING.YES"
+msgid "Yes"
+msgstr "예"
+

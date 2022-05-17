@@ -1,0 +1,310 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_1.ONE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_1.ONE"
+msgid "Oh, you found my portal did you?"
+msgstr "Oh, du hast mein Portal gefunden!?"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_1.THREE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_1.THREE"
+msgid "Hmm. Let's try something a little more challenging, shall we?"
+msgstr "Hmm. Wollen wir nicht etwas Anspruchsvolleres versuchen?"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_1.TWO
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_1.TWO"
+msgid "You'd think you would have learned your lesson by now."
+msgstr "Du denkst vermutlich, dass du deine Lektion inzwischen gelernt hast."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_2.ONE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_2.ONE"
+msgid "Well would you look at that, you survived."
+msgstr "Nun sieh einer an. Du hast überlebt."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_2.TWO
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_2.TWO"
+msgid "One down, four to go!"
+msgstr "Einer erledigt, fehlen noch vier!"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_3.ONE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_3.ONE"
+msgid "What? You're still here?"
+msgstr "Was? Du bist immer noch hier?"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_3.TWO
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_3.TWO"
+msgid "Impressive. But you should probably stop while you're ahead."
+msgstr "Beeindruckend. Aber du solltest dein Glück nicht herausfordern."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_4.ONE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_4.ONE"
+msgid "Say, pal."
+msgstr "Sag, Kumpel."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_4.THREE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_4.THREE"
+msgid "Turn back now, or I may have to resort to drastic measures."
+msgstr "Kehre um oder ich muss drastischere Maßnahmen ergreifen."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_4.TWO
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_4.TWO"
+msgid "You're really pushing your luck."
+msgstr "Du forderst wahrlich dein Glück heraus."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_5.ONE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_5.ONE"
+msgid "You insolent, pitiful, insignificant ant!"
+msgstr "Du unverschämte, jämmerliche, unbedeutende Ameise!"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_5.THREE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_5.THREE"
+msgid "You will regret coming any further..."
+msgstr "Du wirst es bedauern, wenn du noch weiter machst ..."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_5.TWO
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_5.TWO"
+msgid "Do not arouse the wrath of the Great Maxwell!"
+msgstr "Wecke nicht den Zorn des großen Maxwell!"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.COMBATFAIL.1
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.COMBATFAIL.1"
+msgid "Where would be the sport in that?"
+msgstr "Und was soll daran Spaß machen?"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.COMBATFAIL.2
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.COMBATFAIL.2"
+msgid "Who do you think allowed you to make that?"
+msgstr "Wer hat dir erlaubt, das zu tun?"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.1
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.1"
+msgid "Is this what you were expecting?"
+msgstr "Ist es das, was du erwartest hast?"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.10
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.10"
+msgid "Just dust. And the void. And Them."
+msgstr "Nur Staub. Und Leere. Und sie."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.11
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.11"
+msgid "I've learned so much since then. I've built so much."
+msgstr "Ich habe seitdem soviel gelernt - und gebaut."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.12
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.12"
+msgid "But even a King is bound to the board."
+msgstr "Doch selbst ein König muss sich an die Regeln halten."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.13
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.13"
+msgid "You can't change the rules of the game."
+msgstr "Du kannst die Regeln des Spiels nicht verändern."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.14
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.14"
+msgid "I don't know what they want. They... they just watch."
+msgstr "Ich weiß nicht, was sie wollen. Sie ... sie beobachten einfach nur."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.15
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.15"
+msgid "Unless you get too close. Then..."
+msgstr "Es sei denn, du kommst ihnen zu nahe. Dann ..."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.16
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.16"
+msgid "Well, there's a reason I stay so dapper."
+msgstr "Nun, es gibt einen Grund, warum ich so aufpasse."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.17
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.17"
+msgid "What year is it out there? Time moves differently here."
+msgstr "Welches Jahr ist es da draußen? Die Zeit vergeht hier anders."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.18
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.18"
+msgid "Go on, stay a while. Keep us company."
+msgstr "Komm schon, bleib noch ein bisschen bei uns."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.19
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.19"
+msgid "Or put the key in the box. It's your decision."
+msgstr "Oder du steckst den Schlüssel in den Kasten. Deine Entscheidung."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.2
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.2"
+msgid "Forgive me if I don't get up."
+msgstr "Verzeih mir, dass ich nicht aufstehe."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.20
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.20"
+msgid "Either way, you're just delaying the inevitable."
+msgstr "Was du auch tust, du zögerst lediglich das Unvermeidliche hinaus."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.21
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.21"
+msgid "Reality is like that, sometimes."
+msgstr "So ist die Realität eben - manchmal."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.22
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.22"
+msgid "I think I've said enough."
+msgstr "Ich glaub, ich hab genug gesagt."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.23
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.23"
+msgid "..."
+msgstr "..."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.3
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.3"
+msgid "You've been an interesting plaything, but I've grown tired of this game."
+msgstr "Es hat Spaß gemacht, mit dir zu spielen, aber jetzt wird es langweilig."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.4
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.4"
+msgid "Or maybe They've grown tired of me."
+msgstr "Oder vielleicht bin auch ich zu langweilig für sie geworden."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.5
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.5"
+msgid "Heh. Took them long enough."
+msgstr "Heh. Das hat lang genug gedauert."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.6
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.6"
+msgid "They'll show you terrible, beautiful things."
+msgstr "Sie werden dir schrecklich schöne Dinge zeigen."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.7
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.7"
+msgid "It will change you, like it did me."
+msgstr "Es wird dich verändern, so wie es mich verändert hat."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.8
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.8"
+msgid "It's best not to fight it."
+msgstr "Dagegen sollte man erst gar nicht ankämpfen."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.9
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.9"
+msgid "There wasn't much here when I showed up."
+msgstr "Als ich kam, gab es hier nicht viel."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.ONE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.ONE"
+msgid "Well, this is it."
+msgstr "Tja, das war's dann wohl."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.TELEPORTFAIL
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.TELEPORTFAIL"
+msgid "Don't you think I've tried that?"
+msgstr "Glaubst du, ich hätte das noch nicht versucht?"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.TELEPORTFAIL2
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.TELEPORTFAIL2"
+msgid "This is the end of the line. We have no escape."
+msgstr "Das ist das Ende. Es gibt keinen Ausweg."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.TWO
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.TWO"
+msgid "You found me. Now, what are you going to do?"
+msgstr "Du hast mich gefunden. Was jetzt?"
+
+#. MAXWELL_ADVENTUREINTROS.TWOLANDS.FOUR
+msgctxt "MAXWELL_ADVENTUREINTROS.TWOLANDS.FOUR"
+msgid "All I want in return is a truce."
+msgstr "Alles, was ich dafür will, ist ein Waffenstillstand."
+
+#. MAXWELL_ADVENTUREINTROS.TWOLANDS.ONE
+msgctxt "MAXWELL_ADVENTUREINTROS.TWOLANDS.ONE"
+msgid "Say, pal."
+msgstr "Sag, Kumpel."
+
+#. MAXWELL_ADVENTUREINTROS.TWOLANDS.THREE
+msgctxt "MAXWELL_ADVENTUREINTROS.TWOLANDS.THREE"
+msgid "I'll give you food, gold, pigs, whatever you need."
+msgstr "Ich geb dir Nahrung, Gold, Schweine, alles, was du brauchst."
+
+#. MAXWELL_ADVENTUREINTROS.TWOLANDS.TWO
+msgctxt "MAXWELL_ADVENTUREINTROS.TWOLANDS.TWO"
+msgid "Let's make a deal. You can stay here. Settle down, even."
+msgstr "Wie wär's damit: Du kannst hier bleiben, dich sogar niederlassen."
+
+#. MAXWELL_ADVENTURETHRONE.LEVEL_6.HIT.ONE
+msgctxt "MAXWELL_ADVENTURETHRONE.LEVEL_6.HIT.ONE"
+msgid "The throne won't allow that. I've tried."
+msgstr "Der Thron wird es nicht zulassen. Ich hab's schon versucht."
+
+#. MAXWELL_ADVENTURETHRONE.LEVEL_6.INTRO.ONE
+msgctxt "MAXWELL_ADVENTURETHRONE.LEVEL_6.INTRO.ONE"
+msgid "Is this how it ends?"
+msgstr "Soll das so enden?"
+
+#. MAXWELL_ADVENTURETHRONE.LEVEL_6.NOUNLOCK.ONE
+msgctxt "MAXWELL_ADVENTURETHRONE.LEVEL_6.NOUNLOCK.ONE"
+msgid "Ah, I am a fool. I had dared to hope."
+msgstr "Ach, ich Dummkopf! Hab mir solche Hoffnungen gemacht."
+
+#. MAXWELL_ADVENTURETHRONE.LEVEL_6.PHONOGRAPHOFF.ONE
+msgctxt "MAXWELL_ADVENTURETHRONE.LEVEL_6.PHONOGRAPHOFF.ONE"
+msgid "Thank you. I have been listening to that song for an eternity."
+msgstr "Danke. Ich hör dieses Lied schon ewig."
+
+#. MAXWELL_ADVENTURETHRONE.LEVEL_6.PHONOGRAPHON.ONE
+msgctxt "MAXWELL_ADVENTURETHRONE.LEVEL_6.PHONOGRAPHON.ONE"
+msgid "I guess I deserve that."
+msgstr "Das hab ich wohl nicht anders verdient."
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_4.ONE
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_4.ONE"
+msgid "Fine. Just remember that you chose this."
+msgstr "Fein. Vergiss aber nicht, dass du dir das selbst ausgesucht hast."
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_6.FOUR.ONE
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_6.FOUR.ONE"
+msgid "It's just that..."
+msgstr "Es ist nur so, dass ..."
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_6.FOUR.TWO
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_6.FOUR.TWO"
+msgid "I've become accustomed to winning."
+msgstr "Ich hab mich ans Gewinnen gewöhnt."
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_6.ONE
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_6.ONE"
+msgid "We're not so different, you and I."
+msgstr "Wir zwei sind gar nicht so verschieden."
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_6.THREE.ONE
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_6.THREE.ONE"
+msgid "Oh, did you think you were the first?"
+msgstr "Meintest du wirklich, du wärst der Erste?"
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_6.THREE.TWO
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_6.THREE.TWO"
+msgid "HA!"
+msgstr "HA!"
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_6.TWO.ONE
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_6.TWO.ONE"
+msgid "That's why I brought you here."
+msgstr "Darum hab ich dich hierher gebracht."
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_6.TWO.TWO
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_6.TWO.TWO"
+msgid "That's why I brought all of them here."
+msgstr "Darum hab ich die alle hierher gebracht."
+
+#. MAXWELL_SANDBOXINTROS.ONE
+msgctxt "MAXWELL_SANDBOXINTROS.ONE"
+msgid "Say pal, you don't look so good."
+msgstr "Hey, Sportsfreund. Du siehst schlecht aus."
+
+#. MAXWELL_SANDBOXINTROS.TWO
+msgctxt "MAXWELL_SANDBOXINTROS.TWO"
+msgid "You'd better find something to eat before night comes!"
+msgstr "Such dir lieber etwas zu essen, bevor es Nacht wird!"
+

@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. WAGSTAFF_GOTTAGO1
+msgctxt "WAGSTAFF_GOTTAGO1"
+msgid "Aha! This selenological anomaly can only mean one thing!"
+msgstr "Aha! Diese selenologische Anomalie kann nur eines bedeuten!"
+
+#. WAGSTAFF_GOTTAGO2
+msgctxt "WAGSTAFF_GOTTAGO2"
+msgid "Now is my chance!"
+msgstr "Jetzt ist meine Chance!"
+
+#. WAGSTAFF_NPC_ATTEMPT_TRADE.1
+msgctxt "WAGSTAFF_NPC_ATTEMPT_TRADE.1"
+msgid "Is it important?"
+msgstr "Ist das wichtig?"
+
+#. WAGSTAFF_NPC_ATTEMPT_TRADE.2
+msgctxt "WAGSTAFF_NPC_ATTEMPT_TRADE.2"
+msgid "Quickly now, timing is critical!"
+msgstr "Schnell jetzt, das Timing ist entscheidend!"
+
+#. WAGSTAFF_NPC_CAPTURESTART
+msgctxt "WAGSTAFF_NPC_CAPTURESTART"
+msgid "Excellent! My little experiment was a resounding success!"
+msgstr "Ausgezeichnet! Mein kleines Experiment war ein durchschlagender Erfolg!"
+
+#. WAGSTAFF_NPC_CAPTURESTOP
+msgctxt "WAGSTAFF_NPC_CAPTURESTOP"
+msgid "Thank you for all your hard work."
+msgstr "Vielen Dank für all deine harte Arbeit."
+
+#. WAGSTAFF_NPC_CAPTURESTOP2
+msgctxt "WAGSTAFF_NPC_CAPTURESTOP2"
+msgid "Now if you'll excuse me, I have much to do."
+msgstr "Und jetzt entschuldige mich bitte, ich habe viel zu tun."
+
+#. WAGSTAFF_NPC_EXPERIMENT_DONE_1
+msgctxt "WAGSTAFF_NPC_EXPERIMENT_DONE_1"
+msgid "It's done!"
+msgstr "Es ist vollbracht!"
+
+#. WAGSTAFF_NPC_EXPERIMENT_DONE_2
+msgctxt "WAGSTAFF_NPC_EXPERIMENT_DONE_2"
+msgid "Take this, you'll need it for what we have to do."
+msgstr "Nimm das, du wirst es für das brauchen, was wir tun müssen."
+
+#. WAGSTAFF_NPC_EXPERIMENT_FAIL_1
+msgctxt "WAGSTAFF_NPC_EXPERIMENT_FAIL_1"
+msgid "Balderdash! The containment has failed!"
+msgstr "Mumpitz! Die Eindämmung hat versagt!"
+
+#. WAGSTAFF_NPC_EXPERIMENT_FAIL_2
+msgctxt "WAGSTAFF_NPC_EXPERIMENT_FAIL_2"
+msgid "Back to my notes again..."
+msgstr "Jetzt heißt es wieder \"zurück ans Reißbrett\" ..."
+
+#. WAGSTAFF_NPC_MEETING
+msgctxt "WAGSTAFF_NPC_MEETING"
+msgid "You! Of course!"
+msgstr "Du! Aber natürlich!"
+
+#. WAGSTAFF_NPC_MEETING_2
+msgctxt "WAGSTAFF_NPC_MEETING_2"
+msgid "Quick, take these!"
+msgstr "Schnell, nimm die hier!"
+
+#. WAGSTAFF_NPC_MEETING_3
+msgctxt "WAGSTAFF_NPC_MEETING_3"
+msgid "I'll be needing some assistance shortly."
+msgstr "Ich werde bald Hilfe brauchen."
+
+#. WAGSTAFF_NPC_MEETING_4
+msgctxt "WAGSTAFF_NPC_MEETING_4"
+msgid "Find me when you are sufficiently prepared."
+msgstr "Komm zu mir, wenn du ausreichend vorbereitet bist."
+
+#. WAGSTAFF_NPC_MEETING_5
+msgctxt "WAGSTAFF_NPC_MEETING_5"
+msgid "Now, to find the source of that reading..."
+msgstr "Jetzt müssen wir die Quelle dieser Daten finden ..."
+
+#. WAGSTAFF_NPC_MUMBLE_1.1
+msgctxt "WAGSTAFF_NPC_MUMBLE_1.1"
+msgid "It's close by now..."
+msgstr "Jetzt ist es nicht mehr weit ..."
+
+#. WAGSTAFF_NPC_MUMBLE_1.2
+msgctxt "WAGSTAFF_NPC_MUMBLE_1.2"
+msgid "If I can just find..."
+msgstr "Fände ich doch nur ..."
+
+#. WAGSTAFF_NPC_MUMBLE_1.3
+msgctxt "WAGSTAFF_NPC_MUMBLE_1.3"
+msgid "If my hypothesis is correct..."
+msgstr "Wenn meine Hypothese richtig ist ..."
+
+#. WAGSTAFF_NPC_MUMBLE_1.4
+msgctxt "WAGSTAFF_NPC_MUMBLE_1.4"
+msgid "It's here... somewhere."
+msgstr "Irgendwo ... hier muss es sein!"
+
+#. WAGSTAFF_NPC_NOT_THIS_TOOL.1
+msgctxt "WAGSTAFF_NPC_NOT_THIS_TOOL.1"
+msgid "No no, that's not what I'm looking for!"
+msgstr "Nein, das ist nicht das, wonach ich suche!"
+
+#. WAGSTAFF_NPC_NOT_THIS_TOOL.2
+msgctxt "WAGSTAFF_NPC_NOT_THIS_TOOL.2"
+msgid "This isn't the right one, the other one!"
+msgstr "Das ist nicht das richtige, das andere!"
+
+#. WAGSTAFF_NPC_NO_WAY1.1
+msgctxt "WAGSTAFF_NPC_NO_WAY1.1"
+msgid "Blast, I lost the signal."
+msgstr "Mist! Ich habe das Signal verloren."
+
+#. WAGSTAFF_NPC_NO_WAY2.1
+msgctxt "WAGSTAFF_NPC_NO_WAY2.1"
+msgid "I must have miscalculated."
+msgstr "Ich muss mich verrechnet haben."
+
+#. WAGSTAFF_NPC_NO_WAY3.1
+msgctxt "WAGSTAFF_NPC_NO_WAY3.1"
+msgid "Come find me again once I've made some preparations."
+msgstr "Komm wieder zu mir, wenn ich ein paar Vorbereitungen getroffen habe."
+
+#. WAGSTAFF_NPC_START.1
+msgctxt "WAGSTAFF_NPC_START.1"
+msgid "This is it, it must be contained."
+msgstr "Das ist es, es muss eingedämmt werden."
+
+#. WAGSTAFF_NPC_START.2
+msgctxt "WAGSTAFF_NPC_START.2"
+msgid "I'll need your assistance, we must contain it before it's gone!"
+msgstr "Ich brauche deine Hilfe, wir müssen es eindämmen, bevor es weg ist!"
+
+#. WAGSTAFF_NPC_STORMPASS
+msgctxt "WAGSTAFF_NPC_STORMPASS"
+msgid "Balderdash, my connection is fading!"
+msgstr "Mumpitz, meine Verbindung wird schwächer!"
+
+#. WAGSTAFF_NPC_THIS_WAY.1
+msgctxt "WAGSTAFF_NPC_THIS_WAY.1"
+msgid "Ahh, this way!"
+msgstr "Ahh, hier lang!"
+
+#. WAGSTAFF_NPC_THIS_WAY.2
+msgctxt "WAGSTAFF_NPC_THIS_WAY.2"
+msgid "My scans point toward this direction."
+msgstr "Meine Scans deuten in diese Richtung."
+
+#. WAGSTAFF_NPC_THIS_WAY.3
+msgctxt "WAGSTAFF_NPC_THIS_WAY.3"
+msgid "Aha, found it again!"
+msgstr "Aha, wieder gefunden!"
+
+#. WAGSTAFF_NPC_TOO_BUSY.1
+msgctxt "WAGSTAFF_NPC_TOO_BUSY.1"
+msgid "I'm a bit preoccupied at the moment."
+msgstr "Ich bin im Moment ein bisschen selbst beschäftigt."
+
+#. WAGSTAFF_NPC_TOO_BUSY.2
+msgctxt "WAGSTAFF_NPC_TOO_BUSY.2"
+msgid "Patience if you please, this requires my full concentration."
+msgstr "Ich bitte dich um Geduld, das erfordert meine volle Konzentration."
+
+#. WAGSTAFF_NPC_WANT_TOOL_1
+msgctxt "WAGSTAFF_NPC_WANT_TOOL_1"
+msgid "Quick, I need my Reticulating Buffer!"
+msgstr "Schnell, ich brauche meinen Retikulierpuffer!"
+
+#. WAGSTAFF_NPC_WANT_TOOL_2
+msgctxt "WAGSTAFF_NPC_WANT_TOOL_2"
+msgid "Someone find me a Widget Deflubber!"
+msgstr "Jemand muss einen Widget-Deflubber für mich auftreiben!"
+
+#. WAGSTAFF_NPC_WANT_TOOL_3
+msgctxt "WAGSTAFF_NPC_WANT_TOOL_3"
+msgid "Has anyone seen my Grommet Scriber?"
+msgstr "Hat jemand meinen Tüllenschreiber gesehen?"
+
+#. WAGSTAFF_NPC_WANT_TOOL_4
+msgctxt "WAGSTAFF_NPC_WANT_TOOL_4"
+msgid "Can someone hand me the Conceptual Scrubber?"
+msgstr "Kann mir jemand den Konzeptionsschrubber reichen?"
+
+#. WAGSTAFF_NPC_WANT_TOOL_5
+msgctxt "WAGSTAFF_NPC_WANT_TOOL_5"
+msgid "I'm certain I put the Calibrated Perceiver down here somewhere..."
+msgstr "Ich bin mir sicher, dass ich den Kalibrierungswahrnehmer irgendwo hier unten gesehen habe ..."
+
+#. WAGSTAFF_NPC_YES_THIS_TOOL.1
+msgctxt "WAGSTAFF_NPC_YES_THIS_TOOL.1"
+msgid "Excellent, that's it!"
+msgstr "Ausgezeichnet, das ist es!"
+
+#. WAGSTAFF_NPC_YES_THIS_TOOL.2
+msgctxt "WAGSTAFF_NPC_YES_THIS_TOOL.2"
+msgid "At last! Now let's get this finished!"
+msgstr "Na endlich! Jetzt lasst uns das hier zu Ende bringen!"
+

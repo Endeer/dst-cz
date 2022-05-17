@@ -1,0 +1,1535 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.CUSTOMIZATIONSCREEN.ALTERNATEHUNT
+msgctxt "UI.CUSTOMIZATIONSCREEN.ALTERNATEHUNT"
+msgid "Hunt Surprises"
+msgstr "Sorprese di caccia"
+
+#. UI.CUSTOMIZATIONSCREEN.ANGRYBEES
+msgctxt "UI.CUSTOMIZATIONSCREEN.ANGRYBEES"
+msgid "Killer Bee Hives"
+msgstr "Alveari assassini"
+
+#. UI.CUSTOMIZATIONSCREEN.ANTLIONTRIBUTE
+msgctxt "UI.CUSTOMIZATIONSCREEN.ANTLIONTRIBUTE"
+msgid "Antlion Tribute"
+msgstr "Omaggio alla formicaleone"
+
+#. UI.CUSTOMIZATIONSCREEN.APPLY
+msgctxt "UI.CUSTOMIZATIONSCREEN.APPLY"
+msgid "Apply"
+msgstr "Applica"
+
+#. UI.CUSTOMIZATIONSCREEN.ATRIUMGATE
+msgctxt "UI.CUSTOMIZATIONSCREEN.ATRIUMGATE"
+msgid "Ancient Gateway"
+msgstr "Portale antico"
+
+#. UI.CUSTOMIZATIONSCREEN.AUTUMN
+msgctxt "UI.CUSTOMIZATIONSCREEN.AUTUMN"
+msgid "Autumn"
+msgstr "Autunno"
+
+#. UI.CUSTOMIZATIONSCREEN.BACK
+msgctxt "UI.CUSTOMIZATIONSCREEN.BACK"
+msgid "Back"
+msgstr "Indietro"
+
+#. UI.CUSTOMIZATIONSCREEN.BACKBODY
+msgctxt "UI.CUSTOMIZATIONSCREEN.BACKBODY"
+msgid "Do you want to discard the changes you made to your world generation options?"
+msgstr "Vuoi rimuovere le modifiche apportate alle opzioni di generazione dei mondi?"
+
+#. UI.CUSTOMIZATIONSCREEN.BACKBODY_COMBINED
+msgctxt "UI.CUSTOMIZATIONSCREEN.BACKBODY_COMBINED"
+msgid "Do you want to discard the changes you made to your world?"
+msgstr "Vuoi annullare le modifiche apportate al tuo mondo?"
+
+#. UI.CUSTOMIZATIONSCREEN.BACKBODY_SETTINGS
+msgctxt "UI.CUSTOMIZATIONSCREEN.BACKBODY_SETTINGS"
+msgid "Do you want to discard the changes you made to your world settings?"
+msgstr "Vuoi annullare le modifiche apportate alle impostazioni del tuo mondo?"
+
+#. UI.CUSTOMIZATIONSCREEN.BACKBODY_WORLDGEN
+msgctxt "UI.CUSTOMIZATIONSCREEN.BACKBODY_WORLDGEN"
+msgid "Do you want to discard the changes you made to your world generation?"
+msgstr "Vuoi annullare le modifiche apportate alla generazione del tuo mondo?"
+
+#. UI.CUSTOMIZATIONSCREEN.BACKTITLE
+msgctxt "UI.CUSTOMIZATIONSCREEN.BACKTITLE"
+msgid "Discard Changes"
+msgstr "Rimuovi modifiche"
+
+#. UI.CUSTOMIZATIONSCREEN.BANANA
+msgctxt "UI.CUSTOMIZATIONSCREEN.BANANA"
+msgid "Cave Bananas"
+msgstr "Banane di grotta"
+
+#. UI.CUSTOMIZATIONSCREEN.BATS
+msgctxt "UI.CUSTOMIZATIONSCREEN.BATS"
+msgid "Bats"
+msgstr "Pipistrelli"
+
+#. UI.CUSTOMIZATIONSCREEN.BATS_SETTING
+msgctxt "UI.CUSTOMIZATIONSCREEN.BATS_SETTING"
+msgid "Bats"
+msgstr "Pipistrelli"
+
+#. UI.CUSTOMIZATIONSCREEN.BEARGER
+msgctxt "UI.CUSTOMIZATIONSCREEN.BEARGER"
+msgid "Bearger"
+msgstr "Tassorso"
+
+#. UI.CUSTOMIZATIONSCREEN.BEEFALO
+msgctxt "UI.CUSTOMIZATIONSCREEN.BEEFALO"
+msgid "Beefalos"
+msgstr "Mufali"
+
+#. UI.CUSTOMIZATIONSCREEN.BEEFALOHEAT
+msgctxt "UI.CUSTOMIZATIONSCREEN.BEEFALOHEAT"
+msgid "Beefalo Mating Frequency"
+msgstr "Frequenza di accoppiamento del mufalo"
+
+#. UI.CUSTOMIZATIONSCREEN.BEEQUEEN
+msgctxt "UI.CUSTOMIZATIONSCREEN.BEEQUEEN"
+msgid "Bee Queen"
+msgstr "Ape regina"
+
+#. UI.CUSTOMIZATIONSCREEN.BEES
+msgctxt "UI.CUSTOMIZATIONSCREEN.BEES"
+msgid "Bee Hives"
+msgstr "Alveari"
+
+#. UI.CUSTOMIZATIONSCREEN.BEES_SETTING
+msgctxt "UI.CUSTOMIZATIONSCREEN.BEES_SETTING"
+msgid "Bees"
+msgstr "Api"
+
+#. UI.CUSTOMIZATIONSCREEN.BERRYBUSH
+msgctxt "UI.CUSTOMIZATIONSCREEN.BERRYBUSH"
+msgid "Berry Bushes"
+msgstr "Cespugli di bacche"
+
+#. UI.CUSTOMIZATIONSCREEN.BIRDS
+msgctxt "UI.CUSTOMIZATIONSCREEN.BIRDS"
+msgid "Birds"
+msgstr "Uccelli"
+
+#. UI.CUSTOMIZATIONSCREEN.BOONS
+msgctxt "UI.CUSTOMIZATIONSCREEN.BOONS"
+msgid "Failed Survivors"
+msgstr "Sopravvissuti falliti"
+
+#. UI.CUSTOMIZATIONSCREEN.BRANCHING
+msgctxt "UI.CUSTOMIZATIONSCREEN.BRANCHING"
+msgid "Branches"
+msgstr "Diramazione"
+
+#. UI.CUSTOMIZATIONSCREEN.BRIGHTMARECREATURES
+msgctxt "UI.CUSTOMIZATIONSCREEN.BRIGHTMARECREATURES"
+msgid "Enlightenment Monsters"
+msgstr "Mostri luminosi"
+
+#. UI.CUSTOMIZATIONSCREEN.BUNNYMEN
+msgctxt "UI.CUSTOMIZATIONSCREEN.BUNNYMEN"
+msgid "Rabbit Hutches"
+msgstr "Conigliere"
+
+#. UI.CUSTOMIZATIONSCREEN.BUNNYMEN_SETTING
+msgctxt "UI.CUSTOMIZATIONSCREEN.BUNNYMEN_SETTING"
+msgid "Bunnymen"
+msgstr "Uomini-coniglio"
+
+#. UI.CUSTOMIZATIONSCREEN.BUTTERFLY
+msgctxt "UI.CUSTOMIZATIONSCREEN.BUTTERFLY"
+msgid "Butterflies"
+msgstr "Farfalle"
+
+#. UI.CUSTOMIZATIONSCREEN.BUZZARD
+msgctxt "UI.CUSTOMIZATIONSCREEN.BUZZARD"
+msgid "Buzzards"
+msgstr "Poiane"
+
+#. UI.CUSTOMIZATIONSCREEN.CACTUS
+msgctxt "UI.CUSTOMIZATIONSCREEN.CACTUS"
+msgid "Cacti"
+msgstr "Cactus"
+
+#. UI.CUSTOMIZATIONSCREEN.CANCEL
+msgctxt "UI.CUSTOMIZATIONSCREEN.CANCEL"
+msgid "Cancel"
+msgstr "Annulla"
+
+#. UI.CUSTOMIZATIONSCREEN.CARROT
+msgctxt "UI.CUSTOMIZATIONSCREEN.CARROT"
+msgid "Carrots"
+msgstr "Carote"
+
+#. UI.CUSTOMIZATIONSCREEN.CARROTS_REGROWTH
+msgctxt "UI.CUSTOMIZATIONSCREEN.CARROTS_REGROWTH"
+msgid "Carrots"
+msgstr "Carote"
+
+#. UI.CUSTOMIZATIONSCREEN.CATCOON
+msgctxt "UI.CUSTOMIZATIONSCREEN.CATCOON"
+msgid "Hollow Stump"
+msgstr "Ceppo vuoto"
+
+#. UI.CUSTOMIZATIONSCREEN.CATCOONS
+msgctxt "UI.CUSTOMIZATIONSCREEN.CATCOONS"
+msgid "Catcoons"
+msgstr "Gattorsetti"
+
+#. UI.CUSTOMIZATIONSCREEN.CAVELIGHT
+msgctxt "UI.CUSTOMIZATIONSCREEN.CAVELIGHT"
+msgid "Sinkhole Lights"
+msgstr "Luci della dolina"
+
+#. UI.CUSTOMIZATIONSCREEN.CAVE_PONDS
+msgctxt "UI.CUSTOMIZATIONSCREEN.CAVE_PONDS"
+msgid "Ponds"
+msgstr "Stagni"
+
+#. UI.CUSTOMIZATIONSCREEN.CAVE_SPIDERS
+msgctxt "UI.CUSTOMIZATIONSCREEN.CAVE_SPIDERS"
+msgid "Spilagmites"
+msgstr "Spilagmiti"
+
+#. UI.CUSTOMIZATIONSCREEN.CHESS
+msgctxt "UI.CUSTOMIZATIONSCREEN.CHESS"
+msgid "Clockworks"
+msgstr "Macchinario"
+
+#. UI.CUSTOMIZATIONSCREEN.COMBINEDPRESET
+msgctxt "UI.CUSTOMIZATIONSCREEN.COMBINEDPRESET"
+msgid "World Presets"
+msgstr "Configurazioni del mondo"
+
+#. UI.CUSTOMIZATIONSCREEN.CONFIRM_PRESET
+msgctxt "UI.CUSTOMIZATIONSCREEN.CONFIRM_PRESET"
+msgid "Apply Preset"
+msgstr "Applica la configurazione"
+
+#. UI.CUSTOMIZATIONSCREEN.COOKIECUTTERS
+msgctxt "UI.CUSTOMIZATIONSCREEN.COOKIECUTTERS"
+msgid "Cookie Cutters"
+msgstr "Tagliascafi"
+
+#. UI.CUSTOMIZATIONSCREEN.CRABKING
+msgctxt "UI.CUSTOMIZATIONSCREEN.CRABKING"
+msgid "Crabking"
+msgstr "Re dei granchi"
+
+#. UI.CUSTOMIZATIONSCREEN.CROW_CARNIVAL
+msgctxt "UI.CUSTOMIZATIONSCREEN.CROW_CARNIVAL"
+msgid "Midsummer Cawnival"
+msgstr "Cranevale di mezza estate"
+
+#. UI.CUSTOMIZATIONSCREEN.CUSTOM
+msgctxt "UI.CUSTOMIZATIONSCREEN.CUSTOM"
+msgid "%s (Custom)"
+msgstr "%s (Personalizzato)"
+
+#. UI.CUSTOMIZATIONSCREEN.CUSTOMDESC
+msgctxt "UI.CUSTOMIZATIONSCREEN.CUSTOMDESC"
+msgid "Your world, your rules!"
+msgstr "Il tuo mondo, le tue regole!"
+
+#. UI.CUSTOMIZATIONSCREEN.CUSTOM_PRESET
+msgctxt "UI.CUSTOMIZATIONSCREEN.CUSTOM_PRESET"
+msgid "Custom Preset"
+msgstr "Configurazione personalizzata"
+
+#. UI.CUSTOMIZATIONSCREEN.CUSTOM_PRESET_DESC
+msgctxt "UI.CUSTOMIZATIONSCREEN.CUSTOM_PRESET_DESC"
+msgid "Custom preset"
+msgstr "Configurazione personalizzata"
+
+#. UI.CUSTOMIZATIONSCREEN.DAY
+msgctxt "UI.CUSTOMIZATIONSCREEN.DAY"
+msgid "Day Type"
+msgstr "Tipo di giorno"
+
+#. UI.CUSTOMIZATIONSCREEN.DECIDUOUSMONSTER
+msgctxt "UI.CUSTOMIZATIONSCREEN.DECIDUOUSMONSTER"
+msgid "Poison Birchnut Trees"
+msgstr "Alberi di nocetulla velenosa"
+
+#. UI.CUSTOMIZATIONSCREEN.DECIDUOUSTREE_REGROWTH
+msgctxt "UI.CUSTOMIZATIONSCREEN.DECIDUOUSTREE_REGROWTH"
+msgid "Birchnut Trees"
+msgstr "Alberi di nocetulla"
+
+#. UI.CUSTOMIZATIONSCREEN.DEERCLOPS
+msgctxt "UI.CUSTOMIZATIONSCREEN.DEERCLOPS"
+msgid "Deerclops"
+msgstr "Cervoclope"
+
+#. UI.CUSTOMIZATIONSCREEN.DEFAULT_PRESET_DESC
+msgctxt "UI.CUSTOMIZATIONSCREEN.DEFAULT_PRESET_DESC"
+msgid "Lots of pigs and spiders and a Tallbird nest."
+msgstr "Un sacco di maiali, ragni e un nido di pennutalto."
+
+#. UI.CUSTOMIZATIONSCREEN.DELETE
+msgctxt "UI.CUSTOMIZATIONSCREEN.DELETE"
+msgid "Delete"
+msgstr "Canc"
+
+#. UI.CUSTOMIZATIONSCREEN.DELETEPRESET
+msgctxt "UI.CUSTOMIZATIONSCREEN.DELETEPRESET"
+msgid "Delete Preset"
+msgstr "Elimina configurazione"
+
+#. UI.CUSTOMIZATIONSCREEN.DELETEPRESET_BODY
+msgctxt "UI.CUSTOMIZATIONSCREEN.DELETEPRESET_BODY"
+msgid "Are you sure?"
+msgstr "Sei sicuro?"
+
+#. UI.CUSTOMIZATIONSCREEN.DELETEPRESET_TITLE
+msgctxt "UI.CUSTOMIZATIONSCREEN.DELETEPRESET_TITLE"
+msgid "Delete Preset \"%s\""
+msgstr "Elimina la configurazione \"%s\""
+
+#. UI.CUSTOMIZATIONSCREEN.DESCRIBEPRESET
+msgctxt "UI.CUSTOMIZATIONSCREEN.DESCRIBEPRESET"
+msgid "Description:"
+msgstr "Descrizione:"
+
+#. UI.CUSTOMIZATIONSCREEN.DISEASE_DELAY
+msgctxt "UI.CUSTOMIZATIONSCREEN.DISEASE_DELAY"
+msgid "Disease"
+msgstr "Malattia"
+
+#. UI.CUSTOMIZATIONSCREEN.DRAGONFLY
+msgctxt "UI.CUSTOMIZATIONSCREEN.DRAGONFLY"
+msgid "Dragonfly"
+msgstr "Draghellula"
+
+#. UI.CUSTOMIZATIONSCREEN.DROPEVERYTHINGONDESPAWN
+msgctxt "UI.CUSTOMIZATIONSCREEN.DROPEVERYTHINGONDESPAWN"
+msgid "Drop Items on Disconnect"
+msgstr "Lascia cadere gli oggetti alla disconnessione"
+
+#. UI.CUSTOMIZATIONSCREEN.DUSTMOTHS
+msgctxt "UI.CUSTOMIZATIONSCREEN.DUSTMOTHS"
+msgid "Dust Moths"
+msgstr "Falene della polvere"
+
+#. UI.CUSTOMIZATIONSCREEN.EARTHQUAKES
+msgctxt "UI.CUSTOMIZATIONSCREEN.EARTHQUAKES"
+msgid "Earthquakes"
+msgstr "Terremoti"
+
+#. UI.CUSTOMIZATIONSCREEN.EDITPRESET
+msgctxt "UI.CUSTOMIZATIONSCREEN.EDITPRESET"
+msgid "Update Current Preset"
+msgstr "Aggiorna la configurazione attuale"
+
+#. UI.CUSTOMIZATIONSCREEN.EVERGREEN_REGROWTH
+msgctxt "UI.CUSTOMIZATIONSCREEN.EVERGREEN_REGROWTH"
+msgid "Evergreens"
+msgstr "Sempreverdi"
+
+#. UI.CUSTOMIZATIONSCREEN.EXTRASTARTINGITEMS
+msgctxt "UI.CUSTOMIZATIONSCREEN.EXTRASTARTINGITEMS"
+msgid "Extra Starting Resources"
+msgstr "Risorse iniziali aggiuntive"
+
+#. UI.CUSTOMIZATIONSCREEN.EYEOFTERROR
+msgctxt "UI.CUSTOMIZATIONSCREEN.EYEOFTERROR"
+msgid "Eye of Terror"
+msgstr "Occhio del terrore"
+
+#. UI.CUSTOMIZATIONSCREEN.FERN
+msgctxt "UI.CUSTOMIZATIONSCREEN.FERN"
+msgid "Cave Ferns"
+msgstr "Felci della grotta"
+
+#. UI.CUSTOMIZATIONSCREEN.FISHSCHOOLS
+msgctxt "UI.CUSTOMIZATIONSCREEN.FISHSCHOOLS"
+msgid "Schools of Fish"
+msgstr "Banchi di pesce"
+
+#. UI.CUSTOMIZATIONSCREEN.FISSURE
+msgctxt "UI.CUSTOMIZATIONSCREEN.FISSURE"
+msgid "Nightmare Fissures"
+msgstr "Fessure dell'incubo"
+
+#. UI.CUSTOMIZATIONSCREEN.FLINT
+msgctxt "UI.CUSTOMIZATIONSCREEN.FLINT"
+msgid "Flint"
+msgstr "Selce"
+
+#. UI.CUSTOMIZATIONSCREEN.FLOWERS
+msgctxt "UI.CUSTOMIZATIONSCREEN.FLOWERS"
+msgid "Flowers, Evil Flowers"
+msgstr "Fiori, fiori malvagi"
+
+#. UI.CUSTOMIZATIONSCREEN.FLOWERS_REGROWTH
+msgctxt "UI.CUSTOMIZATIONSCREEN.FLOWERS_REGROWTH"
+msgid "Flowers"
+msgstr "Fiori"
+
+#. UI.CUSTOMIZATIONSCREEN.FLOWER_CAVE
+msgctxt "UI.CUSTOMIZATIONSCREEN.FLOWER_CAVE"
+msgid "Light Flowers"
+msgstr "Fiori di luce"
+
+#. UI.CUSTOMIZATIONSCREEN.FLOWER_CAVE_REGROWTH
+msgctxt "UI.CUSTOMIZATIONSCREEN.FLOWER_CAVE_REGROWTH"
+msgid "Light Flower"
+msgstr "Fiore di luce"
+
+#. UI.CUSTOMIZATIONSCREEN.FROGRAIN
+msgctxt "UI.CUSTOMIZATIONSCREEN.FROGRAIN"
+msgid "Frog Rain"
+msgstr "Pioggia di rane"
+
+#. UI.CUSTOMIZATIONSCREEN.FROGS
+msgctxt "UI.CUSTOMIZATIONSCREEN.FROGS"
+msgid "Frogs"
+msgstr "Rane"
+
+#. UI.CUSTOMIZATIONSCREEN.FRUITFLY
+msgctxt "UI.CUSTOMIZATIONSCREEN.FRUITFLY"
+msgid "Lord of the Fruit Flies"
+msgstr "Il signore dei moscerini della frutta"
+
+#. UI.CUSTOMIZATIONSCREEN.GNARWAIL
+msgctxt "UI.CUSTOMIZATIONSCREEN.GNARWAIL"
+msgid "Gnarwails"
+msgstr "Narvelli"
+
+#. UI.CUSTOMIZATIONSCREEN.GOOSEMOOSE
+msgctxt "UI.CUSTOMIZATIONSCREEN.GOOSEMOOSE"
+msgid "Meese/Geese"
+msgstr "Alci/oche"
+
+#. UI.CUSTOMIZATIONSCREEN.GRASS
+msgctxt "UI.CUSTOMIZATIONSCREEN.GRASS"
+msgid "Grass"
+msgstr "Erba"
+
+#. UI.CUSTOMIZATIONSCREEN.GRASSGEKKOS
+msgctxt "UI.CUSTOMIZATIONSCREEN.GRASSGEKKOS"
+msgid "Grass Gekko Morphing"
+msgstr "Trasformazione gecco d'erba"
+
+#. UI.CUSTOMIZATIONSCREEN.HALLOWED_NIGHTS
+msgctxt "UI.CUSTOMIZATIONSCREEN.HALLOWED_NIGHTS"
+msgid "Hallowed Nights"
+msgstr "Notti di Hallowed"
+
+#. UI.CUSTOMIZATIONSCREEN.HOUNDMOUND
+msgctxt "UI.CUSTOMIZATIONSCREEN.HOUNDMOUND"
+msgid "Hound Mounds"
+msgstr "Tumuli di segugi"
+
+#. UI.CUSTOMIZATIONSCREEN.HOUNDS
+msgctxt "UI.CUSTOMIZATIONSCREEN.HOUNDS"
+msgid "Hound Attacks"
+msgstr "Attacchi del segugio"
+
+#. UI.CUSTOMIZATIONSCREEN.HOUND_MOUNDS
+msgctxt "UI.CUSTOMIZATIONSCREEN.HOUND_MOUNDS"
+msgid "Hounds"
+msgstr "Segugi"
+
+#. UI.CUSTOMIZATIONSCREEN.HUNT
+msgctxt "UI.CUSTOMIZATIONSCREEN.HUNT"
+msgid "Hunts"
+msgstr "Battute di caccia"
+
+#. UI.CUSTOMIZATIONSCREEN.ICON_TITLES.AUTUMN
+msgctxt "UI.CUSTOMIZATIONSCREEN.ICON_TITLES.AUTUMN"
+msgid "Autumn"
+msgstr "Autunno"
+
+#. UI.CUSTOMIZATIONSCREEN.ICON_TITLES.BRANCHING
+msgctxt "UI.CUSTOMIZATIONSCREEN.ICON_TITLES.BRANCHING"
+msgid "Branches"
+msgstr "Diramazione"
+
+#. UI.CUSTOMIZATIONSCREEN.ICON_TITLES.DAY
+msgctxt "UI.CUSTOMIZATIONSCREEN.ICON_TITLES.DAY"
+msgid "Day Type"
+msgstr "Tipo di giorno"
+
+#. UI.CUSTOMIZATIONSCREEN.ICON_TITLES.LOOP
+msgctxt "UI.CUSTOMIZATIONSCREEN.ICON_TITLES.LOOP"
+msgid "Loops"
+msgstr "Cicli"
+
+#. UI.CUSTOMIZATIONSCREEN.ICON_TITLES.PREFABSWAPS_START
+msgctxt "UI.CUSTOMIZATIONSCREEN.ICON_TITLES.PREFABSWAPS_START"
+msgid "Starting Resource Variety"
+msgstr "Varietà iniziale delle risorse"
+
+#. UI.CUSTOMIZATIONSCREEN.ICON_TITLES.SEASON_START
+msgctxt "UI.CUSTOMIZATIONSCREEN.ICON_TITLES.SEASON_START"
+msgid "Starting Season"
+msgstr "Stagione iniziale"
+
+#. UI.CUSTOMIZATIONSCREEN.ICON_TITLES.SPRING
+msgctxt "UI.CUSTOMIZATIONSCREEN.ICON_TITLES.SPRING"
+msgid "Spring"
+msgstr "Primavera"
+
+#. UI.CUSTOMIZATIONSCREEN.ICON_TITLES.START_LOCATION
+msgctxt "UI.CUSTOMIZATIONSCREEN.ICON_TITLES.START_LOCATION"
+msgid "Spawn Area"
+msgstr "Area di generazione"
+
+#. UI.CUSTOMIZATIONSCREEN.ICON_TITLES.SUMMER
+msgctxt "UI.CUSTOMIZATIONSCREEN.ICON_TITLES.SUMMER"
+msgid "Summer"
+msgstr "Estate"
+
+#. UI.CUSTOMIZATIONSCREEN.ICON_TITLES.TASK_SET
+msgctxt "UI.CUSTOMIZATIONSCREEN.ICON_TITLES.TASK_SET"
+msgid "Biomes"
+msgstr "Biomi"
+
+#. UI.CUSTOMIZATIONSCREEN.ICON_TITLES.WINTER
+msgctxt "UI.CUSTOMIZATIONSCREEN.ICON_TITLES.WINTER"
+msgid "Winter"
+msgstr "Inverno"
+
+#. UI.CUSTOMIZATIONSCREEN.ICON_TITLES.WORLD_SIZE
+msgctxt "UI.CUSTOMIZATIONSCREEN.ICON_TITLES.WORLD_SIZE"
+msgid "Size"
+msgstr "Dimensione"
+
+#. UI.CUSTOMIZATIONSCREEN.INVALIDSEASONCOMBO_BODY
+msgctxt "UI.CUSTOMIZATIONSCREEN.INVALIDSEASONCOMBO_BODY"
+msgid "You have set all seasons to \"None\".\nPlease turn on at least one season to continue."
+msgstr "Hai impostato tutte le stagioni su \"Nessuno\".\nAttiva almeno una stagione per continuare."
+
+#. UI.CUSTOMIZATIONSCREEN.INVALIDSEASONCOMBO_TITLE
+msgctxt "UI.CUSTOMIZATIONSCREEN.INVALIDSEASONCOMBO_TITLE"
+msgid "All Seasons Disabled"
+msgstr "Tutte le stagioni disattivate"
+
+#. UI.CUSTOMIZATIONSCREEN.KLAUS
+msgctxt "UI.CUSTOMIZATIONSCREEN.KLAUS"
+msgid "Klaus"
+msgstr "Klaus"
+
+#. UI.CUSTOMIZATIONSCREEN.KRAMPUS
+msgctxt "UI.CUSTOMIZATIONSCREEN.KRAMPUS"
+msgid "Krampii"
+msgstr "Krampii"
+
+#. UI.CUSTOMIZATIONSCREEN.LICHEN
+msgctxt "UI.CUSTOMIZATIONSCREEN.LICHEN"
+msgid "Lichen"
+msgstr "Lichene"
+
+#. UI.CUSTOMIZATIONSCREEN.LIEFS
+msgctxt "UI.CUSTOMIZATIONSCREEN.LIEFS"
+msgid "Treeguards"
+msgstr "Guardiani arborei"
+
+#. UI.CUSTOMIZATIONSCREEN.LIGHTFLIERS
+msgctxt "UI.CUSTOMIZATIONSCREEN.LIGHTFLIERS"
+msgid "Bulbous Lightbugs"
+msgstr "Luccioli bulbosi"
+
+#. UI.CUSTOMIZATIONSCREEN.LIGHTFLIER_FLOWER_REGROWTH
+msgctxt "UI.CUSTOMIZATIONSCREEN.LIGHTFLIER_FLOWER_REGROWTH"
+msgid "Lightbug Flower"
+msgstr "Fiore dei luccioli"
+
+#. UI.CUSTOMIZATIONSCREEN.LIGHTNING
+msgctxt "UI.CUSTOMIZATIONSCREEN.LIGHTNING"
+msgid "Lightning"
+msgstr "Fulmine"
+
+#. UI.CUSTOMIZATIONSCREEN.LIGHTNINGGOAT
+msgctxt "UI.CUSTOMIZATIONSCREEN.LIGHTNINGGOAT"
+msgid "Volt Goats"
+msgstr "Capre elettriche"
+
+#. UI.CUSTOMIZATIONSCREEN.LINKPRESETSTR
+msgctxt "UI.CUSTOMIZATIONSCREEN.LINKPRESETSTR"
+msgid "Link Settings and Worldgen Presets into World Presets"
+msgstr "Collega le impostazioni e le configurazioni di generazione del mondo nelle configurazioni del mondo"
+
+#. UI.CUSTOMIZATIONSCREEN.LOADPRESET
+msgctxt "UI.CUSTOMIZATIONSCREEN.LOADPRESET"
+msgid "Choose Preset"
+msgstr "Seleziona la configurazione"
+
+#. UI.CUSTOMIZATIONSCREEN.LOADPRESET_COMBINED
+msgctxt "UI.CUSTOMIZATIONSCREEN.LOADPRESET_COMBINED"
+msgid "Choose World Preset"
+msgstr "Seleziona la configurazione del mondo"
+
+#. UI.CUSTOMIZATIONSCREEN.LOADPRESET_SETINGS
+msgctxt "UI.CUSTOMIZATIONSCREEN.LOADPRESET_SETINGS"
+msgid "Choose Settings Preset"
+msgstr "Seleziona la configurazione delle impostazioni"
+
+#. UI.CUSTOMIZATIONSCREEN.LOADPRESET_WORLDGEN
+msgctxt "UI.CUSTOMIZATIONSCREEN.LOADPRESET_WORLDGEN"
+msgid "Choose Generation Preset"
+msgstr "Seleziona la configurazione della generazione"
+
+#. UI.CUSTOMIZATIONSCREEN.LOOP
+msgctxt "UI.CUSTOMIZATIONSCREEN.LOOP"
+msgid "Loops"
+msgstr "Cicli"
+
+#. UI.CUSTOMIZATIONSCREEN.LOSECHANGESBODY
+msgctxt "UI.CUSTOMIZATIONSCREEN.LOSECHANGESBODY"
+msgid "Apply a new preset and lose custom changes?"
+msgstr "Vuoi applicare una nuova configurazione e perdere le modifiche personalizzate?"
+
+#. UI.CUSTOMIZATIONSCREEN.LOSECHANGESTITLE
+msgctxt "UI.CUSTOMIZATIONSCREEN.LOSECHANGESTITLE"
+msgid "Lose Changes?"
+msgstr "Vuoi perdere le modifiche?"
+
+#. UI.CUSTOMIZATIONSCREEN.LUREPLANTS
+msgctxt "UI.CUSTOMIZATIONSCREEN.LUREPLANTS"
+msgid "Lureplants"
+msgstr "Piante adescatrici"
+
+#. UI.CUSTOMIZATIONSCREEN.MALBATROSS
+msgctxt "UI.CUSTOMIZATIONSCREEN.MALBATROSS"
+msgid "Malbatross"
+msgstr "Anatross"
+
+#. UI.CUSTOMIZATIONSCREEN.MANDRAKE
+msgctxt "UI.CUSTOMIZATIONSCREEN.MANDRAKE"
+msgid "Mandrakes"
+msgstr "Mandragole"
+
+#. UI.CUSTOMIZATIONSCREEN.MARSHBUSH
+msgctxt "UI.CUSTOMIZATIONSCREEN.MARSHBUSH"
+msgid "Spiky Bushes"
+msgstr "Cespugli irti"
+
+#. UI.CUSTOMIZATIONSCREEN.MAX_PRESETS_EXCEEDED_BODY
+msgctxt "UI.CUSTOMIZATIONSCREEN.MAX_PRESETS_EXCEEDED_BODY"
+msgid "Only 5 custom presets allowed.\nChoose one to overwrite:"
+msgstr "Sono consentite solo 5 configurazioni personalizzate.\nScegline una da sovrascrivere:"
+
+#. UI.CUSTOMIZATIONSCREEN.MAX_PRESETS_EXCEEDED_TITLE
+msgctxt "UI.CUSTOMIZATIONSCREEN.MAX_PRESETS_EXCEEDED_TITLE"
+msgid "Preset Limit Reached"
+msgstr "Limite delle configurazioni raggiunto"
+
+#. UI.CUSTOMIZATIONSCREEN.MERM
+msgctxt "UI.CUSTOMIZATIONSCREEN.MERM"
+msgid "Leaky Shack"
+msgstr "Baracca che perde"
+
+#. UI.CUSTOMIZATIONSCREEN.MERMS
+msgctxt "UI.CUSTOMIZATIONSCREEN.MERMS"
+msgid "Merms"
+msgstr "Mermi"
+
+#. UI.CUSTOMIZATIONSCREEN.METEORSHOWERS
+msgctxt "UI.CUSTOMIZATIONSCREEN.METEORSHOWERS"
+msgid "Meteor Frequency"
+msgstr "Frequenza dei meteoriti"
+
+#. UI.CUSTOMIZATIONSCREEN.METEORSPAWNER
+msgctxt "UI.CUSTOMIZATIONSCREEN.METEORSPAWNER"
+msgid "Meteor Fields"
+msgstr "Campi di meteore"
+
+#. UI.CUSTOMIZATIONSCREEN.MISSINGPRESETNAME_BODY
+msgctxt "UI.CUSTOMIZATIONSCREEN.MISSINGPRESETNAME_BODY"
+msgid "You forgot to enter a name for your preset."
+msgstr "Non hai inserito un nome per la configurazione."
+
+#. UI.CUSTOMIZATIONSCREEN.MISSINGPRESETNAME_TITLE
+msgctxt "UI.CUSTOMIZATIONSCREEN.MISSINGPRESETNAME_TITLE"
+msgid "Missing Preset Name"
+msgstr "Nome della configurazione assente"
+
+#. UI.CUSTOMIZATIONSCREEN.MOLEBATS
+msgctxt "UI.CUSTOMIZATIONSCREEN.MOLEBATS"
+msgid "Naked Mole Bats"
+msgstr "Talpistrelli glabri"
+
+#. UI.CUSTOMIZATIONSCREEN.MOLES
+msgctxt "UI.CUSTOMIZATIONSCREEN.MOLES"
+msgid "Mole Burrows"
+msgstr "Tane di talpistrelli glabri"
+
+#. UI.CUSTOMIZATIONSCREEN.MOLES_SETTING
+msgctxt "UI.CUSTOMIZATIONSCREEN.MOLES_SETTING"
+msgid "Moles"
+msgstr "Talpe"
+
+#. UI.CUSTOMIZATIONSCREEN.MONKEY
+msgctxt "UI.CUSTOMIZATIONSCREEN.MONKEY"
+msgid "Splumonkey Pods"
+msgstr "Idoli di speleoscimmie"
+
+#. UI.CUSTOMIZATIONSCREEN.MONKEY_SETTING
+msgctxt "UI.CUSTOMIZATIONSCREEN.MONKEY_SETTING"
+msgid "Splumonkeys"
+msgstr "Speleoscimmie"
+
+#. UI.CUSTOMIZATIONSCREEN.MOON_BERRYBUSH
+msgctxt "UI.CUSTOMIZATIONSCREEN.MOON_BERRYBUSH"
+msgid "Stone Fruit Bushes"
+msgstr "Cespugli di pietrafrutti"
+
+#. UI.CUSTOMIZATIONSCREEN.MOON_BULLKELP
+msgctxt "UI.CUSTOMIZATIONSCREEN.MOON_BULLKELP"
+msgid "Beached Bull Kelp"
+msgstr "Laminaria spiaggiata"
+
+#. UI.CUSTOMIZATIONSCREEN.MOON_CARROT
+msgctxt "UI.CUSTOMIZATIONSCREEN.MOON_CARROT"
+msgid "Carrats"
+msgstr "Caratti"
+
+#. UI.CUSTOMIZATIONSCREEN.MOON_FISSURE
+msgctxt "UI.CUSTOMIZATIONSCREEN.MOON_FISSURE"
+msgid "Celestial Fissures"
+msgstr "Fessure celesti"
+
+#. UI.CUSTOMIZATIONSCREEN.MOON_FRUITDRAGON
+msgctxt "UI.CUSTOMIZATIONSCREEN.MOON_FRUITDRAGON"
+msgid "Saladmander"
+msgstr "Insalamandra"
+
+#. UI.CUSTOMIZATIONSCREEN.MOON_HOTSPRING
+msgctxt "UI.CUSTOMIZATIONSCREEN.MOON_HOTSPRING"
+msgid "Hot Springs"
+msgstr "Sorgenti calde"
+
+#. UI.CUSTOMIZATIONSCREEN.MOON_ROCK
+msgctxt "UI.CUSTOMIZATIONSCREEN.MOON_ROCK"
+msgid "Lunar Rocks"
+msgstr "Rocce lunari"
+
+#. UI.CUSTOMIZATIONSCREEN.MOON_SAPLING
+msgctxt "UI.CUSTOMIZATIONSCREEN.MOON_SAPLING"
+msgid "Lunar Saplings"
+msgstr "Alberelli lunari"
+
+#. UI.CUSTOMIZATIONSCREEN.MOON_SPIDER
+msgctxt "UI.CUSTOMIZATIONSCREEN.MOON_SPIDER"
+msgid "Shattered Spiders"
+msgstr "Ragni squassati"
+
+#. UI.CUSTOMIZATIONSCREEN.MOON_SPIDERS
+msgctxt "UI.CUSTOMIZATIONSCREEN.MOON_SPIDERS"
+msgid "Shattered Spider Holes"
+msgstr "Nidi di ragni squassati"
+
+#. UI.CUSTOMIZATIONSCREEN.MOON_STARFISH
+msgctxt "UI.CUSTOMIZATIONSCREEN.MOON_STARFISH"
+msgid "Anenemies"
+msgstr "Anemonemici"
+
+#. UI.CUSTOMIZATIONSCREEN.MOON_TREE
+msgctxt "UI.CUSTOMIZATIONSCREEN.MOON_TREE"
+msgid "Lune Trees"
+msgstr "Alberi lunari"
+
+#. UI.CUSTOMIZATIONSCREEN.MOON_TREE_REGROWTH
+msgctxt "UI.CUSTOMIZATIONSCREEN.MOON_TREE_REGROWTH"
+msgid "Lune Trees"
+msgstr "Alberi lunari"
+
+#. UI.CUSTOMIZATIONSCREEN.MOSQUITOS
+msgctxt "UI.CUSTOMIZATIONSCREEN.MOSQUITOS"
+msgid "Mosquitos"
+msgstr "Zanzare"
+
+#. UI.CUSTOMIZATIONSCREEN.MUSHGNOME
+msgctxt "UI.CUSTOMIZATIONSCREEN.MUSHGNOME"
+msgid "Mush Gnomes"
+msgstr "Gnomi fungini"
+
+#. UI.CUSTOMIZATIONSCREEN.MUSHROOM
+msgctxt "UI.CUSTOMIZATIONSCREEN.MUSHROOM"
+msgid "Mushrooms"
+msgstr "Funghi"
+
+#. UI.CUSTOMIZATIONSCREEN.MUSHTREE
+msgctxt "UI.CUSTOMIZATIONSCREEN.MUSHTREE"
+msgid "Mushroom Trees"
+msgstr "Alberi del fungo"
+
+#. UI.CUSTOMIZATIONSCREEN.MUSHTREE_MOON_REGROWTH
+msgctxt "UI.CUSTOMIZATIONSCREEN.MUSHTREE_MOON_REGROWTH"
+msgid "Lunar Mushtrees"
+msgstr "Fungalberi lunari"
+
+#. UI.CUSTOMIZATIONSCREEN.MUSHTREE_REGROWTH
+msgctxt "UI.CUSTOMIZATIONSCREEN.MUSHTREE_REGROWTH"
+msgid "Mushroom Trees"
+msgstr "Alberi del fungo"
+
+#. UI.CUSTOMIZATIONSCREEN.MUTATED_HOUNDS
+msgctxt "UI.CUSTOMIZATIONSCREEN.MUTATED_HOUNDS"
+msgid "Horror Hounds"
+msgstr "Segugi orridi"
+
+#. UI.CUSTOMIZATIONSCREEN.NAMEPRESET
+msgctxt "UI.CUSTOMIZATIONSCREEN.NAMEPRESET"
+msgid "Name:"
+msgstr "Nome:"
+
+#. UI.CUSTOMIZATIONSCREEN.NEWPRESET
+msgctxt "UI.CUSTOMIZATIONSCREEN.NEWPRESET"
+msgid "Name Your Preset"
+msgstr "Dai un nome alla tua configurazione"
+
+#. UI.CUSTOMIZATIONSCREEN.NIGHTMARECREATURES
+msgctxt "UI.CUSTOMIZATIONSCREEN.NIGHTMARECREATURES"
+msgid "Ruins Nightmares"
+msgstr "Incubi delle rovine"
+
+#. UI.CUSTOMIZATIONSCREEN.NO
+msgctxt "UI.CUSTOMIZATIONSCREEN.NO"
+msgid "No"
+msgstr "No"
+
+#. UI.CUSTOMIZATIONSCREEN.OCEAN_BULLKELP
+msgctxt "UI.CUSTOMIZATIONSCREEN.OCEAN_BULLKELP"
+msgid "Bull Kelp"
+msgstr "Laminaria"
+
+#. UI.CUSTOMIZATIONSCREEN.OCEAN_SEASTACK
+msgctxt "UI.CUSTOMIZATIONSCREEN.OCEAN_SEASTACK"
+msgid "Sea Stacks"
+msgstr "Faraglioni"
+
+#. UI.CUSTOMIZATIONSCREEN.OCEAN_SHOAL
+msgctxt "UI.CUSTOMIZATIONSCREEN.OCEAN_SHOAL"
+msgid "Shoals"
+msgstr "Secche"
+
+#. UI.CUSTOMIZATIONSCREEN.OCEAN_WATERPLANT
+msgctxt "UI.CUSTOMIZATIONSCREEN.OCEAN_WATERPLANT"
+msgid "Sea Weeds"
+msgstr "Alghe"
+
+#. UI.CUSTOMIZATIONSCREEN.OCEAN_WOBSTERDEN
+msgctxt "UI.CUSTOMIZATIONSCREEN.OCEAN_WOBSTERDEN"
+msgid "Wobster Mounds"
+msgstr "Tumuli delle aragostre"
+
+#. UI.CUSTOMIZATIONSCREEN.OKAY
+msgctxt "UI.CUSTOMIZATIONSCREEN.OKAY"
+msgid "Okay"
+msgstr "Ok"
+
+#. UI.CUSTOMIZATIONSCREEN.OVERWRITE
+msgctxt "UI.CUSTOMIZATIONSCREEN.OVERWRITE"
+msgid "Overwrite"
+msgstr "Sovrascrivi"
+
+#. UI.CUSTOMIZATIONSCREEN.PENGUINS
+msgctxt "UI.CUSTOMIZATIONSCREEN.PENGUINS"
+msgid "Pengulls"
+msgstr "Pinguini"
+
+#. UI.CUSTOMIZATIONSCREEN.PENGUINS_MOON
+msgctxt "UI.CUSTOMIZATIONSCREEN.PENGUINS_MOON"
+msgid "Moonrock Pengulls"
+msgstr "Pingabbiani di lunaroccia"
+
+#. UI.CUSTOMIZATIONSCREEN.PERD
+msgctxt "UI.CUSTOMIZATIONSCREEN.PERD"
+msgid "Gobblers"
+msgstr "Tacchini"
+
+#. UI.CUSTOMIZATIONSCREEN.PETRIFICATION
+msgctxt "UI.CUSTOMIZATIONSCREEN.PETRIFICATION"
+msgid "Forest Petrification"
+msgstr "Pietrificazione della foresta"
+
+#. UI.CUSTOMIZATIONSCREEN.PIGS
+msgctxt "UI.CUSTOMIZATIONSCREEN.PIGS"
+msgid "Pig Houses"
+msgstr "Case dei maiali"
+
+#. UI.CUSTOMIZATIONSCREEN.PIGS_SETTING
+msgctxt "UI.CUSTOMIZATIONSCREEN.PIGS_SETTING"
+msgid "Pigs"
+msgstr "Maiali"
+
+#. UI.CUSTOMIZATIONSCREEN.PONDS
+msgctxt "UI.CUSTOMIZATIONSCREEN.PONDS"
+msgid "Ponds"
+msgstr "Stagni"
+
+#. UI.CUSTOMIZATIONSCREEN.PREFABSWAPS
+msgctxt "UI.CUSTOMIZATIONSCREEN.PREFABSWAPS"
+msgid "Changing Resources"
+msgstr "Modifica delle risorse"
+
+#. UI.CUSTOMIZATIONSCREEN.PREFABSWAPS_START
+msgctxt "UI.CUSTOMIZATIONSCREEN.PREFABSWAPS_START"
+msgid "Starting Resource Variety"
+msgstr "Varietà iniziale delle risorse"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETEXISTS_BODY
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETEXISTS_BODY"
+msgid "A preset with the name \"%s\" already exists, please choose a different name."
+msgstr "Esiste già una configurazione con il nome \"%s\", seleziona un altro nome."
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETEXISTS_TITLE
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETEXISTS_TITLE"
+msgid "Preset Already Exists"
+msgstr "La configurazione esiste già"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.1
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.1"
+msgid "The standard Don't Starve experience."
+msgstr "L'esperienza standard di Don't Starve."
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.10
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.10"
+msgid "The multiplayer Don't Starve experience."
+msgstr "L'esperienza multigiocatore di Don't Starve."
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.11
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.11"
+msgid "Don't Starve Together with Reign of Giants turned off."
+msgstr "Don't Starve Together con Regno dei Giganti non attivo."
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.12
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.12"
+msgid "Delve into the caves... together!"
+msgstr "Discendete nelle grotte... insieme!"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.13
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.13"
+msgid "A darker, more arachnid-y cave experience."
+msgstr "Un'esperienza nella grotta più scura e più aracnide."
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.2
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.2"
+msgid "A quicker start in a harsher world."
+msgstr "Un avvio più veloce in un mondo più duro."
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.3
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.3"
+msgid "A dark twist on the standard Don't Starve experience."
+msgstr "Una svolta oscura nell'esperienza standard di Don't Starve."
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.4
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.4"
+msgid "The standard Don't Starve Experience 4"
+msgstr "L'esperienza standard di Don't Starve 4"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.5
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.5"
+msgid "The standard Don't Starve Experience 5"
+msgstr "L'esperienza standard di Don't Starve 5"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.6
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.6"
+msgid "The standard Don't Starve Experience 6"
+msgstr "L'esperienza standard di Don't Starve 6"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.7
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.7"
+msgid "The standard Don't Starve Experience 7"
+msgstr "L'esperienza standard di Don't Starve 7"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.8
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.8"
+msgid "The standard Don't Starve Experience 8"
+msgstr "L'esperienza standard di Don't Starve 8"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.9
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.9"
+msgid "The standard Don't Starve Experience 9"
+msgstr "L'esperienza standard di Don't Starve 9"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.COMPLETE_DARKNESS
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.COMPLETE_DARKNESS"
+msgid "A dark twist on the standard Don't Starve experience."
+msgstr "Una svolta oscura nell'esperienza standard di Don't Starve."
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.DST_CAVE
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.DST_CAVE"
+msgid "Delve into the caves... together!"
+msgstr "Discendete nelle grotte... insieme!"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.DST_CAVE_PLUS
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.DST_CAVE_PLUS"
+msgid "A darker, more arachnid-y cave experience."
+msgstr "Un'esperienza nella grotta più scura e più aracnide."
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.LAVAARENA
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.LAVAARENA"
+msgid "Dare you prove yourself in The Forge?"
+msgstr "Sei pronto a metterti alla prova nella Forgia?"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.MOD_MISSING
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.MOD_MISSING"
+msgid "This preset came from a mod, but that mod isn't active right now!"
+msgstr "Questa configurazione proviene da un mod che non è attivo adesso!"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.QUAGMIRE
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.QUAGMIRE"
+msgid "Can you stand the heat in The Gorge?"
+msgstr "Puoi sopportare il calore della forra?"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.SURVIVAL_DEFAULT_PLUS
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.SURVIVAL_DEFAULT_PLUS"
+msgid "A quicker start in a harsher world."
+msgstr "Un avvio più veloce in un mondo più duro."
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.SURVIVAL_TOGETHER
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.SURVIVAL_TOGETHER"
+msgid "The standard Don't Starve experience."
+msgstr "L'esperienza standard di Don't Starve."
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.SURVIVAL_TOGETHER_CLASSIC
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.SURVIVAL_TOGETHER_CLASSIC"
+msgid "Don't Starve Together with Reign of Giants turned off."
+msgstr "Don't Starve Together con Regno dei Giganti non attivo."
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.TERRARIA
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.TERRARIA"
+msgid "Don't Starve Together, with a Terarria-inspired twist."
+msgstr "Don't Starve Together, con delle modifiche ispirate a Terraria."
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.TERRARIA_CAVE
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.TERRARIA_CAVE"
+msgid "Don't Starve Together, with a Terarria-inspired twist... in the caves!"
+msgstr "Don't Starve Together, con delle modifiche ispirate a Terraria... nelle grotte!"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.1
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.1"
+msgid "Default"
+msgstr "Predefinito"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.10
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.10"
+msgid "Together Forever"
+msgstr "Insieme per sempre"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.11
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.11"
+msgid "No Giants Here"
+msgstr "Nessun gigante qua"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.12
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.12"
+msgid "The Caves"
+msgstr "Le grotte"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.13
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.13"
+msgid "Caves Plus"
+msgstr "Grotte +"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.2
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.2"
+msgid "Together Plus"
+msgstr "Insieme +"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.3
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.3"
+msgid "Lights Out"
+msgstr "Luci spente"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.4
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.4"
+msgid "Soggy"
+msgstr "Fradicio"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.5
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.5"
+msgid "Eternal Summer"
+msgstr "Estate eterna"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.6
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.6"
+msgid "Winter you'll do next?"
+msgstr "Che cosa farai quest'inverno?"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.7
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.7"
+msgid "Island you an axe"
+msgstr "Sull'isola, tu e un'ascia"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.8
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.8"
+msgid "Crazy Eddie"
+msgstr "Eddie il folle"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.9
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.9"
+msgid "Nighttime Antics"
+msgstr "Buffonate notturne"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.COMPLETE_DARKNESS
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.COMPLETE_DARKNESS"
+msgid "Lights Out"
+msgstr "Luci spente"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.DST_CAVE
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.DST_CAVE"
+msgid "The Caves"
+msgstr "Le grotte"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.DST_CAVE_PLUS
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.DST_CAVE_PLUS"
+msgid "Caves Plus"
+msgstr "Grotte +"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.DST_CAVE_PS4
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.DST_CAVE_PS4"
+msgid "Standard Caves"
+msgstr "Grotte standard"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.LAVAARENA
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.LAVAARENA"
+msgid "The Forge"
+msgstr "La Forgia"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.MOD_MISSING
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.MOD_MISSING"
+msgid "<MOD MISSING>"
+msgstr "<MOD MANCANTE>"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.QUAGMIRE
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.QUAGMIRE"
+msgid "The Gorge"
+msgstr "La Forra"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.SURVIVAL_DEFAULT_PLUS
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.SURVIVAL_DEFAULT_PLUS"
+msgid "Forest Plus"
+msgstr "Foresta +"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.SURVIVAL_TOGETHER
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.SURVIVAL_TOGETHER"
+msgid "Standard Forest"
+msgstr "Foresta standard"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.SURVIVAL_TOGETHER_CLASSIC
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.SURVIVAL_TOGETHER_CLASSIC"
+msgid "No Giants Here"
+msgstr "Nessun gigante qua"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.SURVIVAL_TOGETHER_PS4
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.SURVIVAL_TOGETHER_PS4"
+msgid "Generic Forest"
+msgstr "Foresta generica"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.TERRARIA
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.TERRARIA"
+msgid "Taste of Terraria"
+msgstr "Assaggio di Terraria"
+
+#. UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.TERRARIA_CAVE
+msgctxt "UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.TERRARIA_CAVE"
+msgid "Caves of Terraria"
+msgstr "Grotte di Terraria"
+
+#. UI.CUSTOMIZATIONSCREEN.RABBITS
+msgctxt "UI.CUSTOMIZATIONSCREEN.RABBITS"
+msgid "Rabbit Holes"
+msgstr "Buche dei conigli"
+
+#. UI.CUSTOMIZATIONSCREEN.RABBITS_SETTING
+msgctxt "UI.CUSTOMIZATIONSCREEN.RABBITS_SETTING"
+msgid "Rabbits"
+msgstr "Conigli"
+
+#. UI.CUSTOMIZATIONSCREEN.REEDS
+msgctxt "UI.CUSTOMIZATIONSCREEN.REEDS"
+msgid "Reeds"
+msgstr "Canne"
+
+#. UI.CUSTOMIZATIONSCREEN.REGROWTH
+msgctxt "UI.CUSTOMIZATIONSCREEN.REGROWTH"
+msgid "Regrowth Multiplier"
+msgstr "Moltiplicatore della ricrescita"
+
+#. UI.CUSTOMIZATIONSCREEN.REVERTCHANGES
+msgctxt "UI.CUSTOMIZATIONSCREEN.REVERTCHANGES"
+msgid "Revert Changes"
+msgstr "Annulla modifiche"
+
+#. UI.CUSTOMIZATIONSCREEN.ROADS
+msgctxt "UI.CUSTOMIZATIONSCREEN.ROADS"
+msgid "Roads"
+msgstr "Strade"
+
+#. UI.CUSTOMIZATIONSCREEN.ROCK
+msgctxt "UI.CUSTOMIZATIONSCREEN.ROCK"
+msgid "Boulders"
+msgstr "Massi"
+
+#. UI.CUSTOMIZATIONSCREEN.ROCKY
+msgctxt "UI.CUSTOMIZATIONSCREEN.ROCKY"
+msgid "Rock Lobsters"
+msgstr "Aragoste di roccia"
+
+#. UI.CUSTOMIZATIONSCREEN.ROCKY_SETTING
+msgctxt "UI.CUSTOMIZATIONSCREEN.ROCKY_SETTING"
+msgid "Rock Lobsters"
+msgstr "Aragoste di roccia"
+
+#. UI.CUSTOMIZATIONSCREEN.ROCK_ICE
+msgctxt "UI.CUSTOMIZATIONSCREEN.ROCK_ICE"
+msgid "Mini Glaciers"
+msgstr "Mini ghiacciai"
+
+#. UI.CUSTOMIZATIONSCREEN.SALTSTACK_REGROWTH
+msgctxt "UI.CUSTOMIZATIONSCREEN.SALTSTACK_REGROWTH"
+msgid "Salt Formations"
+msgstr "Formazioni saline"
+
+#. UI.CUSTOMIZATIONSCREEN.SAPLING
+msgctxt "UI.CUSTOMIZATIONSCREEN.SAPLING"
+msgid "Saplings"
+msgstr "Alberelli"
+
+#. UI.CUSTOMIZATIONSCREEN.SAVECHANGESFAILED_BODY
+msgctxt "UI.CUSTOMIZATIONSCREEN.SAVECHANGESFAILED_BODY"
+msgid "An error occured while saving your preset, please try again."
+msgstr "Si è verificato un errore durante il salvataggio della configurazione. Riprova."
+
+#. UI.CUSTOMIZATIONSCREEN.SAVECHANGESFAILED_TITLE
+msgctxt "UI.CUSTOMIZATIONSCREEN.SAVECHANGESFAILED_TITLE"
+msgid "Failed To Save Preset"
+msgstr "Salvataggio della configurazione fallito"
+
+#. UI.CUSTOMIZATIONSCREEN.SAVEPRESET
+msgctxt "UI.CUSTOMIZATIONSCREEN.SAVEPRESET"
+msgid "Save As New Preset"
+msgstr "Salva come nuova configurazione"
+
+#. UI.CUSTOMIZATIONSCREEN.SAVEPRESETCHANGES
+msgctxt "UI.CUSTOMIZATIONSCREEN.SAVEPRESETCHANGES"
+msgid "Save Changes"
+msgstr "Salva le modifiche"
+
+#. UI.CUSTOMIZATIONSCREEN.SEASONALSTARTINGITEMS
+msgctxt "UI.CUSTOMIZATIONSCREEN.SEASONALSTARTINGITEMS"
+msgid "Seasonal Starting Items"
+msgstr "Oggetti iniziali stagionali"
+
+#. UI.CUSTOMIZATIONSCREEN.SEASON_START
+msgctxt "UI.CUSTOMIZATIONSCREEN.SEASON_START"
+msgid "Starting Season"
+msgstr "Stagione iniziale"
+
+#. UI.CUSTOMIZATIONSCREEN.SETTINGSPRESET
+msgctxt "UI.CUSTOMIZATIONSCREEN.SETTINGSPRESET"
+msgid "Settings Presets"
+msgstr "Configurazioni delle impostazioni"
+
+#. UI.CUSTOMIZATIONSCREEN.SHADOWCREATURES
+msgctxt "UI.CUSTOMIZATIONSCREEN.SHADOWCREATURES"
+msgid "Sanity Monsters"
+msgstr "Mostri della sanità"
+
+#. UI.CUSTOMIZATIONSCREEN.SHARKS
+msgctxt "UI.CUSTOMIZATIONSCREEN.SHARKS"
+msgid "Sharks"
+msgstr "Squali"
+
+#. UI.CUSTOMIZATIONSCREEN.SLURPER
+msgctxt "UI.CUSTOMIZATIONSCREEN.SLURPER"
+msgid "Slurpers"
+msgstr "Slinguazze"
+
+#. UI.CUSTOMIZATIONSCREEN.SLURTLES
+msgctxt "UI.CUSTOMIZATIONSCREEN.SLURTLES"
+msgid "Slurtle Mounds"
+msgstr "Cumuli di bavughe"
+
+#. UI.CUSTOMIZATIONSCREEN.SLURTLES_SETTING
+msgctxt "UI.CUSTOMIZATIONSCREEN.SLURTLES_SETTING"
+msgid "Slurtles"
+msgstr "Bavughe"
+
+#. UI.CUSTOMIZATIONSCREEN.SNURTLES
+msgctxt "UI.CUSTOMIZATIONSCREEN.SNURTLES"
+msgid "Snurtles"
+msgstr "Sbavughe"
+
+#. UI.CUSTOMIZATIONSCREEN.SPAWNPROTECTION
+msgctxt "UI.CUSTOMIZATIONSCREEN.SPAWNPROTECTION"
+msgid "Griefer Spawn Protection"
+msgstr "Protezione contro gli utenti dispettosi"
+
+#. UI.CUSTOMIZATIONSCREEN.SPECIALEVENT
+msgctxt "UI.CUSTOMIZATIONSCREEN.SPECIALEVENT"
+msgid "Events"
+msgstr "Eventi"
+
+#. UI.CUSTOMIZATIONSCREEN.SPIDERQUEEN
+msgctxt "UI.CUSTOMIZATIONSCREEN.SPIDERQUEEN"
+msgid "Spider Queen"
+msgstr "Regina dei ragni"
+
+#. UI.CUSTOMIZATIONSCREEN.SPIDERS
+msgctxt "UI.CUSTOMIZATIONSCREEN.SPIDERS"
+msgid "Spider Dens"
+msgstr "Nidi dei ragni"
+
+#. UI.CUSTOMIZATIONSCREEN.SPIDERS_SETTING
+msgctxt "UI.CUSTOMIZATIONSCREEN.SPIDERS_SETTING"
+msgid "Spiders"
+msgstr "Ragni"
+
+#. UI.CUSTOMIZATIONSCREEN.SPIDER_DROPPER
+msgctxt "UI.CUSTOMIZATIONSCREEN.SPIDER_DROPPER"
+msgid "Dangling Depth Dwellers"
+msgstr "Penzolanti degli anfratti"
+
+#. UI.CUSTOMIZATIONSCREEN.SPIDER_HIDER
+msgctxt "UI.CUSTOMIZATIONSCREEN.SPIDER_HIDER"
+msgid "Cave Spiders"
+msgstr "Ragni della grotta"
+
+#. UI.CUSTOMIZATIONSCREEN.SPIDER_SPITTER
+msgctxt "UI.CUSTOMIZATIONSCREEN.SPIDER_SPITTER"
+msgid "Spitter Spiders"
+msgstr "Ragni sputatori"
+
+#. UI.CUSTOMIZATIONSCREEN.SPIDER_WARRIORS
+msgctxt "UI.CUSTOMIZATIONSCREEN.SPIDER_WARRIORS"
+msgid "Spider Warriors"
+msgstr "Ragni guerrieri"
+
+#. UI.CUSTOMIZATIONSCREEN.SPRING
+msgctxt "UI.CUSTOMIZATIONSCREEN.SPRING"
+msgid "Spring"
+msgstr "Primavera"
+
+#. UI.CUSTOMIZATIONSCREEN.SQUID
+msgctxt "UI.CUSTOMIZATIONSCREEN.SQUID"
+msgid "Skittersquids"
+msgstr "Calafaretti"
+
+#. UI.CUSTOMIZATIONSCREEN.START_LOCATION
+msgctxt "UI.CUSTOMIZATIONSCREEN.START_LOCATION"
+msgid "Spawn Area"
+msgstr "Area di generazione"
+
+#. UI.CUSTOMIZATIONSCREEN.SUMMER
+msgctxt "UI.CUSTOMIZATIONSCREEN.SUMMER"
+msgid "Summer"
+msgstr "Estate"
+
+#. UI.CUSTOMIZATIONSCREEN.SUMMERHOUNDS
+msgctxt "UI.CUSTOMIZATIONSCREEN.SUMMERHOUNDS"
+msgid "Fire Hound Waves"
+msgstr "Ondate di segugi di fuoco"
+
+#. UI.CUSTOMIZATIONSCREEN.TAB_TITLE_WORLDGENERATION
+msgctxt "UI.CUSTOMIZATIONSCREEN.TAB_TITLE_WORLDGENERATION"
+msgid "World Generation"
+msgstr "Generazione del mondo"
+
+#. UI.CUSTOMIZATIONSCREEN.TAB_TITLE_WORLDSETTINGS
+msgctxt "UI.CUSTOMIZATIONSCREEN.TAB_TITLE_WORLDSETTINGS"
+msgid "World Settings"
+msgstr "Impostazioni del mondo"
+
+#. UI.CUSTOMIZATIONSCREEN.TALLBIRDS
+msgctxt "UI.CUSTOMIZATIONSCREEN.TALLBIRDS"
+msgid "Tallbirds"
+msgstr "Pennutalti"
+
+#. UI.CUSTOMIZATIONSCREEN.TASKSETNAMES.CAVE_DEFAULT
+msgctxt "UI.CUSTOMIZATIONSCREEN.TASKSETNAMES.CAVE_DEFAULT"
+msgid "Underground"
+msgstr "Sotterranea"
+
+#. UI.CUSTOMIZATIONSCREEN.TASKSETNAMES.CLASSIC
+msgctxt "UI.CUSTOMIZATIONSCREEN.TASKSETNAMES.CLASSIC"
+msgid "Classic"
+msgstr "Classico"
+
+#. UI.CUSTOMIZATIONSCREEN.TASKSETNAMES.DEFAULT
+msgctxt "UI.CUSTOMIZATIONSCREEN.TASKSETNAMES.DEFAULT"
+msgid "Together"
+msgstr "Insieme"
+
+#. UI.CUSTOMIZATIONSCREEN.TASKSETNAMES.LAVA_ARENA
+msgctxt "UI.CUSTOMIZATIONSCREEN.TASKSETNAMES.LAVA_ARENA"
+msgid "The Forge"
+msgstr "La Forgia"
+
+#. UI.CUSTOMIZATIONSCREEN.TASKSETNAMES.QUAGMIRE
+msgctxt "UI.CUSTOMIZATIONSCREEN.TASKSETNAMES.QUAGMIRE"
+msgid "The Gorge"
+msgstr "La Forra"
+
+#. UI.CUSTOMIZATIONSCREEN.TASK_SET
+msgctxt "UI.CUSTOMIZATIONSCREEN.TASK_SET"
+msgid "Biomes"
+msgstr "Biomi"
+
+#. UI.CUSTOMIZATIONSCREEN.TENTACLES
+msgctxt "UI.CUSTOMIZATIONSCREEN.TENTACLES"
+msgid "Tentacles"
+msgstr "Tentacoli"
+
+#. UI.CUSTOMIZATIONSCREEN.TERRARIUMCHEST
+msgctxt "UI.CUSTOMIZATIONSCREEN.TERRARIUMCHEST"
+msgid "Terrarium"
+msgstr "Terrario"
+
+#. UI.CUSTOMIZATIONSCREEN.TOADSTOOL
+msgctxt "UI.CUSTOMIZATIONSCREEN.TOADSTOOL"
+msgid "Toadstool"
+msgstr "Rospora"
+
+#. UI.CUSTOMIZATIONSCREEN.TOUCHSTONE
+msgctxt "UI.CUSTOMIZATIONSCREEN.TOUCHSTONE"
+msgid "Touch Stones"
+msgstr "Pietra di resurrezione"
+
+#. UI.CUSTOMIZATIONSCREEN.TREES
+msgctxt "UI.CUSTOMIZATIONSCREEN.TREES"
+msgid "Trees (All)"
+msgstr "Alberi (tutti)"
+
+#. UI.CUSTOMIZATIONSCREEN.TUMBLEWEED
+msgctxt "UI.CUSTOMIZATIONSCREEN.TUMBLEWEED"
+msgid "Tumbleweeds"
+msgstr "Rotolacampo"
+
+#. UI.CUSTOMIZATIONSCREEN.TWIGGYTREES_REGROWTH
+msgctxt "UI.CUSTOMIZATIONSCREEN.TWIGGYTREES_REGROWTH"
+msgid "Twiggy Trees"
+msgstr "Alberi esili"
+
+#. UI.CUSTOMIZATIONSCREEN.UNKNOWN_PRESET
+msgctxt "UI.CUSTOMIZATIONSCREEN.UNKNOWN_PRESET"
+msgid "Unknown Preset"
+msgstr "Configurazione sconosciuta"
+
+#. UI.CUSTOMIZATIONSCREEN.UNKNOWN_PRESET_DESC
+msgctxt "UI.CUSTOMIZATIONSCREEN.UNKNOWN_PRESET_DESC"
+msgid "This game was started with some settings we don't quite recognize."
+msgstr "Questo gioco è stato avviato con delle impostazioni che non riconosciamo."
+
+#. UI.CUSTOMIZATIONSCREEN.UNLINKPRESETSTR
+msgctxt "UI.CUSTOMIZATIONSCREEN.UNLINKPRESETSTR"
+msgid "Seperate World Presets into Settings and Worldgen Presets"
+msgstr "Separa le Configurazioni del mondo in Impostazioni e Configurazioni di generazione del mondo"
+
+#. UI.CUSTOMIZATIONSCREEN.WALRUS
+msgctxt "UI.CUSTOMIZATIONSCREEN.WALRUS"
+msgid "MacTusk Camps"
+msgstr "Accampamento MacTusk"
+
+#. UI.CUSTOMIZATIONSCREEN.WALRUS_SETTING
+msgctxt "UI.CUSTOMIZATIONSCREEN.WALRUS_SETTING"
+msgid "MacTusk"
+msgstr "MacTusk"
+
+#. UI.CUSTOMIZATIONSCREEN.WASPS
+msgctxt "UI.CUSTOMIZATIONSCREEN.WASPS"
+msgid "Killer Bees"
+msgstr "Api assassine"
+
+#. UI.CUSTOMIZATIONSCREEN.WEATHER
+msgctxt "UI.CUSTOMIZATIONSCREEN.WEATHER"
+msgid "Rain"
+msgstr "Pioggia"
+
+#. UI.CUSTOMIZATIONSCREEN.WILDFIRES
+msgctxt "UI.CUSTOMIZATIONSCREEN.WILDFIRES"
+msgid "Wildfires"
+msgstr "Incendi"
+
+#. UI.CUSTOMIZATIONSCREEN.WINTER
+msgctxt "UI.CUSTOMIZATIONSCREEN.WINTER"
+msgid "Winter"
+msgstr "Inverno"
+
+#. UI.CUSTOMIZATIONSCREEN.WINTERHOUNDS
+msgctxt "UI.CUSTOMIZATIONSCREEN.WINTERHOUNDS"
+msgid "Ice Hound Waves"
+msgstr "Ondate di segugi di ghiaccio"
+
+#. UI.CUSTOMIZATIONSCREEN.WINTERS_FEAST
+msgctxt "UI.CUSTOMIZATIONSCREEN.WINTERS_FEAST"
+msgid "Winter's Feast"
+msgstr "Festività invernali"
+
+#. UI.CUSTOMIZATIONSCREEN.WOBSTERS
+msgctxt "UI.CUSTOMIZATIONSCREEN.WOBSTERS"
+msgid "Wobsters"
+msgstr "Aragostre"
+
+#. UI.CUSTOMIZATIONSCREEN.WORLDGENPRESET
+msgctxt "UI.CUSTOMIZATIONSCREEN.WORLDGENPRESET"
+msgid "Generation Presets"
+msgstr "Configurazione della generazione"
+
+#. UI.CUSTOMIZATIONSCREEN.WORLD_SIZE
+msgctxt "UI.CUSTOMIZATIONSCREEN.WORLD_SIZE"
+msgid "World Size"
+msgstr "Dimensioni del mondo"
+
+#. UI.CUSTOMIZATIONSCREEN.WORMATTACKS
+msgctxt "UI.CUSTOMIZATIONSCREEN.WORMATTACKS"
+msgid "Cave Worm Attacks"
+msgstr "Attacchi dei vermi da grotta"
+
+#. UI.CUSTOMIZATIONSCREEN.WORMLIGHTS
+msgctxt "UI.CUSTOMIZATIONSCREEN.WORMLIGHTS"
+msgid "Glow Berries"
+msgstr "Bacche luminose"
+
+#. UI.CUSTOMIZATIONSCREEN.WORMS
+msgctxt "UI.CUSTOMIZATIONSCREEN.WORMS"
+msgid "Cave Worms"
+msgstr "Vermi della grotta"
+
+#. UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_BEEFALO
+msgctxt "UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_BEEFALO"
+msgid "Year of the Beefalo"
+msgstr "Anno del Mufalo"
+
+#. UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_CARRAT
+msgctxt "UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_CARRAT"
+msgid "Year of the Carrat"
+msgstr "Anno del caratto"
+
+#. UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_CATCOON
+msgctxt "UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_CATCOON"
+msgid "Year of the Catcoon"
+msgstr "Anno del Gattorsetto"
+
+#. UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_GOBBLER
+msgctxt "UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_GOBBLER"
+msgid "Year of the Gobbler"
+msgstr "L'anno del tacchino"
+
+#. UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_PIG
+msgctxt "UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_PIG"
+msgid "Year of the Pig King"
+msgstr "Anno del re maiale"
+
+#. UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_VARG
+msgctxt "UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_VARG"
+msgid "Year of the Varg"
+msgstr "Anno del lupo"
+
+#. UI.CUSTOMIZATIONSCREEN.YES
+msgctxt "UI.CUSTOMIZATIONSCREEN.YES"
+msgid "Yes"
+msgstr "Sì"
+

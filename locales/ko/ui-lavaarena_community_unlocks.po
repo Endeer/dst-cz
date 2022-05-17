@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.AVAILABLE_QUESTS
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.AVAILABLE_QUESTS"
+msgid "Posted Quests"
+msgstr "게시된 퀘스트"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.COMPLETED_QUESTS_FMT
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.COMPLETED_QUESTS_FMT"
+msgid "{num} Quests Completed"
+msgstr "{num}개의 퀘스트 완료함"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_MATCHES_FMT
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_MATCHES_FMT"
+msgid "{num} Daily Match Bonuses"
+msgstr "일일 매치 보너스 {num}개"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_RESET
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_RESET"
+msgid "Daily bonuses reset in: {hours}h {minutes}m"
+msgstr "일일 보너스 초기화: {hours}시간 {minutes}분"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_RESET_SOON
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_RESET_SOON"
+msgid "Daily bonuses will reset soon."
+msgstr "일일 보너스가 곧 초기화됩니다."
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_RESET_SOON_INGAME
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_RESET_SOON_INGAME"
+msgid "Daily bonuses will reset after the next match."
+msgstr "일일 보너스가 다음 매치 후에 초기화됩니다."
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_WINS_FMT
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_WINS_FMT"
+msgid "{num} Daily Victory Bonuses"
+msgstr "일일 승리 보너스 {num}개"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.DESCRIPTION
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.DESCRIPTION"
+msgid "Contribute to the community's progression by defeating the {boss}."
+msgstr "{boss}을(를) 물리침으로써 커뮤니티 진행도에 기여합니다."
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.EVERYTHING_UNLOCKED
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.EVERYTHING_UNLOCKED"
+msgid "The {boss} has arrived. Now you can forge your way to a true victory!"
+msgstr "{boss}이(가) 도착했습니다. 이제 그동안 갈고 닦은 실력으로 진정한 승리를 쟁취하세요!"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.LOCKED.BOSS
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.LOCKED.BOSS"
+msgid "Locked Creature"
+msgstr "잠긴 존재"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.LOCKED.CREATURE
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.LOCKED.CREATURE"
+msgid "Locked Creature"
+msgstr "잠긴 존재"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.LOCKED.ITEM
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.LOCKED.ITEM"
+msgid "Locked Item"
+msgstr "잠긴 아이템"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.PROGRESSION_QUERY_FAILURE
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.PROGRESSION_QUERY_FAILURE"
+msgid "Failed to retrieve community progression data."
+msgstr "커뮤니티 진행도 데이터를 가져오는 데 실패했습니다."
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_QUERY_FAILURE
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_QUERY_FAILURE"
+msgid "Failed to retrieve your quests."
+msgstr "퀘스트를 가져오는 데 실패했습니다."
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_RESET
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_RESET"
+msgid "Posting new quests in: {hours}h {minutes}m"
+msgstr "새 퀘스트 게시: {hours}시간 {minutes}분"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_RESET_SOON
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_RESET_SOON"
+msgid "New quests will be posted soon."
+msgstr "새 퀘스트가 곧 게시됩니다."
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_RESET_SOON_INGAME
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_RESET_SOON_INGAME"
+msgid "New quests will be posted after the next match."
+msgstr "새 퀘스트가 다음 매치 후에 게시됩니다."
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_TYPE_CHARACTER_FMT
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_TYPE_CHARACTER_FMT"
+msgid "{character}'s {quest_type}"
+msgstr "{character}의 {quest_type}"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_TYPE_PERSONAL
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_TYPE_PERSONAL"
+msgid "Personal Quest"
+msgstr "개인 퀘스트"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_TYPE_TEAM
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_TYPE_TEAM"
+msgid "Teamwork Quest"
+msgstr "팀워크 퀘스트"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.SYNCING_DATA
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.SYNCING_DATA"
+msgid "Syncing Data..."
+msgstr "데이터 동기화 중..."
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.TAB_TITLE
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.TAB_TITLE"
+msgid "Community Unlocks"
+msgstr "커뮤니티 잠금 해제"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNKNOWN
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNKNOWN"
+msgid "Unknown"
+msgstr "알 수 없음"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.BEETLETAUR
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.BEETLETAUR"
+msgid "Summoned to the arena for the final round!"
+msgstr "최종 라운드를 위해 투기장에 소환되었습니다!"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.BOARRIOR
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.BOARRIOR"
+msgid "Summoned to the arena while defeating the Boarillas"
+msgstr "멧돼릴라를 물리치는 동안 투기장에 소환됨"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.BOOK_ELEMENTAL
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.BOOK_ELEMENTAL"
+msgid "Summon a Magma Golem or divebomb opponents with a powerful Sky Lunge"
+msgstr "마그마 골렘을 소환하거나 하늘에서 내려 찌르기로 적을 공격하기"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPDAMAGER
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPDAMAGER"
+msgid "80% Protection, +50 Max Health,\n+20% Physical Damage"
+msgstr "80% 보호, 최대 체력 +50%,\n물리 공격력 +20%"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPEXTRAHEAVY
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPEXTRAHEAVY"
+msgid "90% Protection, +100 Max Health,\nKnockback Resistance"
+msgstr "90% 보호, 최대 체력 +100%,\n넉백 저항"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPPETMASTERY
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPPETMASTERY"
+msgid "80% Protection, +75 Max Health, Increases effectiveness of Baby Spiders, Abigail or Bernie"
+msgstr "80% 보호, 최대 체력 +75%, 새끼 거미와 아비게일과 버니의 효율 증가"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPRECHARGER
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPRECHARGER"
+msgid "80% Protection, +50 Max Health,\n+15% Faster Cooldown"
+msgstr "80% 보호, 최대 체력 +50%,\n 재사용 대기시간 15% 단축"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_FIREBOMB
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_FIREBOMB"
+msgid "Bombard your opponents with searing Hearthsfire"
+msgstr "뜨거운 화롯불로 적에게 폭격함"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_HEAVYBLADE
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_HEAVYBLADE"
+msgid "Hinder your opponents with the almighty Blacksmith's Edge"
+msgstr "강력한 대장장이의 대검으로 적을 저지함"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.RHINODRILL
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.RHINODRILL"
+msgid "Summoned to the arena when the Grand Forge Boarrior is defeated"
+msgstr "위대한 Forge의 멧투사를 무찌르면 소환됨"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_TITLE.BOOK_ELEMENTAL
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_TITLE.BOOK_ELEMENTAL"
+msgid "Tome of Beckoning & Spiral Spear"
+msgstr "소환의 서와 나선 창"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_TITLE.RHINODRILL
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_TITLE.RHINODRILL"
+msgid "Rhinocebros, Snapback and Flatbrim"
+msgstr "코뿔소 형제, 스냅백, 플랫브림"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.URL_LABEL
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.URL_LABEL"
+msgid "Community Unlocks & Leaderboards"
+msgstr "커뮤니티 잠금 해제 및 순위표"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.XP_LABEL
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.XP_LABEL"
+msgid "XP"
+msgstr "XP"
+

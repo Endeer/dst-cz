@@ -1,0 +1,300 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.PURCHASEPACKSCREEN.CURRENCY_NEEDED
+msgctxt "UI.PURCHASEPACKSCREEN.CURRENCY_NEEDED"
+msgid "You require {currency_needed} Bolts for the {chest_name}"
+msgstr "Il vous faut {currency_needed} rouleaux pour le {chest_name}"
+
+#. UI.PURCHASEPACKSCREEN.CURRENCY_OK
+msgctxt "UI.PURCHASEPACKSCREEN.CURRENCY_OK"
+msgid "You have the required Bolts for the {chest_name}"
+msgstr "Vous avez les rouleaux requis pour le {chest_name}"
+
+#. UI.PURCHASEPACKSCREEN.CURRENCY_SHORT_DESC
+msgctxt "UI.PURCHASEPACKSCREEN.CURRENCY_SHORT_DESC"
+msgid "Includes {currency} Bolts of Cloth!"
+msgstr "Comprend {currency} rouleaux de tissu !"
+
+#. UI.PURCHASEPACKSCREEN.DISCOUNT_FILTER
+msgctxt "UI.PURCHASEPACKSCREEN.DISCOUNT_FILTER"
+msgid "Discount:"
+msgstr "Réduction :"
+
+#. UI.PURCHASEPACKSCREEN.EMPTY_AFTER_FILTER
+msgctxt "UI.PURCHASEPACKSCREEN.EMPTY_AFTER_FILTER"
+msgid "There are currently no chests for sale that match your filter criteria."
+msgstr "Il n'y a actuellement aucun coffre à vendre correspondant à vos filtres de recherche."
+
+#. UI.PURCHASEPACKSCREEN.EXPIRE_DAYS_TXT
+msgctxt "UI.PURCHASEPACKSCREEN.EXPIRE_DAYS_TXT"
+msgid "Offer expires in {days} days!"
+msgstr "L'offre expire dans {days} jours !"
+
+#. UI.PURCHASEPACKSCREEN.EXPIRE_DAY_TXT
+msgctxt "UI.PURCHASEPACKSCREEN.EXPIRE_DAY_TXT"
+msgid "Offer expires in 1 day!"
+msgstr "L'offre expire dans 1 jour !"
+
+#. UI.PURCHASEPACKSCREEN.EXPIRE_HOURS_TXT
+msgctxt "UI.PURCHASEPACKSCREEN.EXPIRE_HOURS_TXT"
+msgid "Offer expires in {hours} hours!"
+msgstr "L'offre expire dans {hours} heures !"
+
+#. UI.PURCHASEPACKSCREEN.EXPIRE_HOUR_TXT
+msgctxt "UI.PURCHASEPACKSCREEN.EXPIRE_HOUR_TXT"
+msgid "Offer expires in 1 hour!"
+msgstr "L'offre expire dans 1 heure !"
+
+#. UI.PURCHASEPACKSCREEN.EXPIRE_SOON_TXT
+msgctxt "UI.PURCHASEPACKSCREEN.EXPIRE_SOON_TXT"
+msgid "Offer expires soon!"
+msgstr "L'offre expire bientôt !"
+
+#. UI.PURCHASEPACKSCREEN.FAILED_TO_LOAD
+msgctxt "UI.PURCHASEPACKSCREEN.FAILED_TO_LOAD"
+msgid "Sorry!\nThe Klei store is closed right now.\nPlease try again later."
+msgstr "Désolé !\nLa boutique Klei est fermée.\nVeuillez réessayer plus tard."
+
+#. UI.PURCHASEPACKSCREEN.FILTERS
+msgctxt "UI.PURCHASEPACKSCREEN.FILTERS"
+msgid "Filters"
+msgstr "Filtres"
+
+#. UI.PURCHASEPACKSCREEN.FILTER_ALL
+msgctxt "UI.PURCHASEPACKSCREEN.FILTER_ALL"
+msgid "All"
+msgstr "Tout"
+
+#. UI.PURCHASEPACKSCREEN.FILTER_BUNDLE
+msgctxt "UI.PURCHASEPACKSCREEN.FILTER_BUNDLE"
+msgid "Bundles"
+msgstr "Lots"
+
+#. UI.PURCHASEPACKSCREEN.FILTER_ITEMS
+msgctxt "UI.PURCHASEPACKSCREEN.FILTER_ITEMS"
+msgid "Belongings"
+msgstr "Possessions"
+
+#. UI.PURCHASEPACKSCREEN.FILTER_NEW
+msgctxt "UI.PURCHASEPACKSCREEN.FILTER_NEW"
+msgid "New"
+msgstr "Nouveau !"
+
+#. UI.PURCHASEPACKSCREEN.FILTER_SALE
+msgctxt "UI.PURCHASEPACKSCREEN.FILTER_SALE"
+msgid "Sales"
+msgstr "Ventes"
+
+#. UI.PURCHASEPACKSCREEN.FILTER_UNOWNED
+msgctxt "UI.PURCHASEPACKSCREEN.FILTER_UNOWNED"
+msgid "Unowned"
+msgstr "Inconnu"
+
+#. UI.PURCHASEPACKSCREEN.GIFT_RECEIVED_BODY
+msgctxt "UI.PURCHASEPACKSCREEN.GIFT_RECEIVED_BODY"
+msgid "Open it to receive your curios."
+msgstr "Ouvrez-le pour recevoir vos curiosités."
+
+#. UI.PURCHASEPACKSCREEN.GIFT_RECEIVED_TITLE
+msgctxt "UI.PURCHASEPACKSCREEN.GIFT_RECEIVED_TITLE"
+msgid "You got a chest!"
+msgstr "Vous avez un coffre !"
+
+#. UI.PURCHASEPACKSCREEN.GO_TO_SALES
+msgctxt "UI.PURCHASEPACKSCREEN.GO_TO_SALES"
+msgid "View Sales!"
+msgstr "Voir les offres !"
+
+#. UI.PURCHASEPACKSCREEN.INFO_BTN
+msgctxt "UI.PURCHASEPACKSCREEN.INFO_BTN"
+msgid "?"
+msgstr "?"
+
+#. UI.PURCHASEPACKSCREEN.MEGAPACK_SHORT_DESC
+msgctxt "UI.PURCHASEPACKSCREEN.MEGAPACK_SHORT_DESC"
+msgid "Includes {total_sets} skin sets! {total_items} total skins!"
+msgstr "Inclut {total_sets} ensembles d'apparences ! {total_items} apparences au total !"
+
+#. UI.PURCHASEPACKSCREEN.NOT_ENOUGH_BODY
+msgctxt "UI.PURCHASEPACKSCREEN.NOT_ENOUGH_BODY"
+msgid "Unfortunately you don't have the required Bolts of Cloth to purchase the {chest_name}. You still require {currency_needed} Bolts. Would you like to look at Bolt chests?"
+msgstr "Malheureusement, vous n'avez pas les rouleaux de tissu nécessaires pour acheter le {chest_name}. Il vous manque {currency_needed} rouleaux. Parcourir les coffres de rouleaux ?"
+
+#. UI.PURCHASEPACKSCREEN.NOT_ENOUGH_TITLE
+msgctxt "UI.PURCHASEPACKSCREEN.NOT_ENOUGH_TITLE"
+msgid "Lacking Bolts of Cloth"
+msgstr "Rouleaux de tissu insuffisants"
+
+#. UI.PURCHASEPACKSCREEN.OK
+msgctxt "UI.PURCHASEPACKSCREEN.OK"
+msgid "OK"
+msgstr "OK"
+
+#. UI.PURCHASEPACKSCREEN.OWNED_FILTER
+msgctxt "UI.PURCHASEPACKSCREEN.OWNED_FILTER"
+msgid "Owned:"
+msgstr "Possédé :"
+
+#. UI.PURCHASEPACKSCREEN.PACK_SAVINGS
+msgctxt "UI.PURCHASEPACKSCREEN.PACK_SAVINGS"
+msgid "-{savings}%"
+msgstr "-{savings} %"
+
+#. UI.PURCHASEPACKSCREEN.PACK_SHORT_DESC
+msgctxt "UI.PURCHASEPACKSCREEN.PACK_SHORT_DESC"
+msgid "Includes {total_items} skins!"
+msgstr "Inclut {total_items} apparences !"
+
+#. UI.PURCHASEPACKSCREEN.PACK_SHORT_DESC_CHAR
+msgctxt "UI.PURCHASEPACKSCREEN.PACK_SHORT_DESC_CHAR"
+msgid "Includes {total_items} Wardrobe skins!"
+msgstr "Inclut {total_items} articles d'apparence de garde-robe !"
+
+#. UI.PURCHASEPACKSCREEN.PACK_SHORT_DESC_ITEMS
+msgctxt "UI.PURCHASEPACKSCREEN.PACK_SHORT_DESC_ITEMS"
+msgid "Includes {total_items} Belongings skins!"
+msgstr "Inclut {total_items} affaires d'apparence !"
+
+#. UI.PURCHASEPACKSCREEN.PURCHASE_BTN
+msgctxt "UI.PURCHASEPACKSCREEN.PURCHASE_BTN"
+msgid "Buy Now"
+msgstr "Acheter"
+
+#. UI.PURCHASEPACKSCREEN.PURCHASE_CLOSE
+msgctxt "UI.PURCHASEPACKSCREEN.PURCHASE_CLOSE"
+msgid "Close"
+msgstr "Fermer"
+
+#. UI.PURCHASEPACKSCREEN.PURCHASE_GIFT
+msgctxt "UI.PURCHASEPACKSCREEN.PURCHASE_GIFT"
+msgid "Gift to a Friend"
+msgstr "Cadeau à un ami"
+
+#. UI.PURCHASEPACKSCREEN.PURCHASE_GIFT_INFO_BODY
+msgctxt "UI.PURCHASEPACKSCREEN.PURCHASE_GIFT_INFO_BODY"
+msgid "To purchase the {pack_name} as a gift for your friend, click on \"Add to Cart\", then \"Purchase as a gift\"."
+msgstr "Pour acheter {pack_name} et l'offrir à un ami, cliquez sur 'Ajouter au panier', puis sur 'Acheter un cadeau'."
+
+#. UI.PURCHASEPACKSCREEN.PURCHASE_GIFT_INFO_TITLE
+msgctxt "UI.PURCHASEPACKSCREEN.PURCHASE_GIFT_INFO_TITLE"
+msgid "Purchase Gift"
+msgstr "Acheter un cadeau"
+
+#. UI.PURCHASEPACKSCREEN.PURCHASE_OVERLAY_REQUIRED_BODY
+msgctxt "UI.PURCHASEPACKSCREEN.PURCHASE_OVERLAY_REQUIRED_BODY"
+msgid "Please enable the Steam Overlay to purchase clothing sets."
+msgstr "Veuillez activer le Steam Overlay pour acheter des vêtements."
+
+#. UI.PURCHASEPACKSCREEN.PURCHASE_OVERLAY_REQUIRED_BODY_RAIL
+msgctxt "UI.PURCHASEPACKSCREEN.PURCHASE_OVERLAY_REQUIRED_BODY_RAIL"
+msgid "Please enable your browser to purchase clothing sets."
+msgstr "Veuillez activer votre explorateur pour acheter des vêtements."
+
+#. UI.PURCHASEPACKSCREEN.PURCHASE_OVERLAY_REQUIRED_HELP
+msgctxt "UI.PURCHASEPACKSCREEN.PURCHASE_OVERLAY_REQUIRED_HELP"
+msgid "Help"
+msgstr "Aide"
+
+#. UI.PURCHASEPACKSCREEN.PURCHASE_OVERLAY_REQUIRED_TITLE
+msgctxt "UI.PURCHASEPACKSCREEN.PURCHASE_OVERLAY_REQUIRED_TITLE"
+msgid "Steam Overlay Required"
+msgstr "Steam Overlay requis"
+
+#. UI.PURCHASEPACKSCREEN.PURCHASE_OVERLAY_REQUIRED_TITLE_RAIL
+msgctxt "UI.PURCHASEPACKSCREEN.PURCHASE_OVERLAY_REQUIRED_TITLE_RAIL"
+msgid "Browser Required"
+msgstr "Explorateur requis"
+
+#. UI.PURCHASEPACKSCREEN.PURCHASE_VIEW_CONTENTS
+msgctxt "UI.PURCHASEPACKSCREEN.PURCHASE_VIEW_CONTENTS"
+msgid "View Contents"
+msgstr "Voir le contenu"
+
+#. UI.PURCHASEPACKSCREEN.PURCHASE_WARNING_CANCEL
+msgctxt "UI.PURCHASEPACKSCREEN.PURCHASE_WARNING_CANCEL"
+msgid "Never mind!"
+msgstr "Pas besoin !"
+
+#. UI.PURCHASEPACKSCREEN.PURCHASE_WARNING_DESC
+msgctxt "UI.PURCHASEPACKSCREEN.PURCHASE_WARNING_DESC"
+msgid "You already own all the items in this chest. Would you like to purchase it anyway?"
+msgstr "Vous possédez déjà tous les articles de ce coffre. Voulez-vous l'acheter quand même ?"
+
+#. UI.PURCHASEPACKSCREEN.PURCHASE_WARNING_OK
+msgctxt "UI.PURCHASEPACKSCREEN.PURCHASE_WARNING_OK"
+msgid "Continue Purchase"
+msgstr "Continuer l'achat"
+
+#. UI.PURCHASEPACKSCREEN.PURCHASE_WARNING_TITLE
+msgctxt "UI.PURCHASEPACKSCREEN.PURCHASE_WARNING_TITLE"
+msgid "No New Items in Chest"
+msgstr "Aucun nouvel article dans le coffre"
+
+#. UI.PURCHASEPACKSCREEN.SALE_TXT
+msgctxt "UI.PURCHASEPACKSCREEN.SALE_TXT"
+msgid "-{sale_percent}%\nSale!"
+msgstr "-{sale_percent} %\nde réduction !"
+
+#. UI.PURCHASEPACKSCREEN.SHOP_EPOCH_WRONG_BODY
+msgctxt "UI.PURCHASEPACKSCREEN.SHOP_EPOCH_WRONG_BODY"
+msgid "It looks like your date and time is incorrect. Perhaps you've been time travelling in another game?\n\nPlease verify your system date and time before purchasing."
+msgstr "Il semble que la date et l’heure soient incorrects. Peut-être avez-vous voyagé dans le temps dans un autre jeu ?\n\nVeuillez contrôler la date et l’heure de votre système avant d’effectuer un achat."
+
+#. UI.PURCHASEPACKSCREEN.SHOP_EPOCH_WRONG_TITLE
+msgctxt "UI.PURCHASEPACKSCREEN.SHOP_EPOCH_WRONG_TITLE"
+msgid "Incorrect System Time"
+msgstr "Heure de système incorrecte"
+
+#. UI.PURCHASEPACKSCREEN.TITLE
+msgctxt "UI.PURCHASEPACKSCREEN.TITLE"
+msgid "Shop"
+msgstr "Boutique"
+
+#. UI.PURCHASEPACKSCREEN.TYPE_FILTER
+msgctxt "UI.PURCHASEPACKSCREEN.TYPE_FILTER"
+msgid "Type:"
+msgstr "Type :"
+
+#. UI.PURCHASEPACKSCREEN.UNOWNED_CHARACTER_BODY
+msgctxt "UI.PURCHASEPACKSCREEN.UNOWNED_CHARACTER_BODY"
+msgid "You do not currently own {character}.\nThis chest contains skins for {character}, which will be unusable without owning them."
+msgstr "Vous ne possédez pas {character}.\nCe coffre contient des apparences pour {character}, que vous ne pourrez utiliser si vous ne possédez pas ce personnage."
+
+#. UI.PURCHASEPACKSCREEN.VIEW_CURRENCY
+msgctxt "UI.PURCHASEPACKSCREEN.VIEW_CURRENCY"
+msgid "View Bolt Chests"
+msgstr "Voir les coffres de rouleaux"
+
+#. UI.PURCHASEPACKSCREEN.VIEW_REGULAR
+msgctxt "UI.PURCHASEPACKSCREEN.VIEW_REGULAR"
+msgid "View Chests"
+msgstr "Voir les coffres"
+
+#. UI.PURCHASEPACKSCREEN.VIEW_REQUIRED
+msgctxt "UI.PURCHASEPACKSCREEN.VIEW_REQUIRED"
+msgid "View {character} Chests"
+msgstr "Voir les coffres de {character}"
+
+#. UI.PURCHASEPACKSCREEN.VIRTUAL_CURRENCY
+msgctxt "UI.PURCHASEPACKSCREEN.VIRTUAL_CURRENCY"
+msgid "Bolts of Cloth"
+msgstr "Rouleaux de tissu"
+
+#. UI.PURCHASEPACKSCREEN.VIRTUAL_CURRENCY_SHORT
+msgctxt "UI.PURCHASEPACKSCREEN.VIRTUAL_CURRENCY_SHORT"
+msgid "Bolts"
+msgstr "Rouleaux"
+
+#. UI.PURCHASEPACKSCREEN.VIRTUAL_IAP_CONFIRM_BODY
+msgctxt "UI.PURCHASEPACKSCREEN.VIRTUAL_IAP_CONFIRM_BODY"
+msgid "Are you sure you would like to spend {cost} Bolts on the {chest_name}?"
+msgstr "Voulez-vous dépenser {cost} rouleaux pour le {chest_name} ?"
+
+#. UI.PURCHASEPACKSCREEN.VIRTUAL_IAP_CONFIRM_TITLE
+msgctxt "UI.PURCHASEPACKSCREEN.VIRTUAL_IAP_CONFIRM_TITLE"
+msgid "Confirm Purchase"
+msgstr "Confirmer l'achat"
+

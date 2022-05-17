@@ -1,0 +1,735 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. PIGNAMES.1
+msgctxt "PIGNAMES.1"
+msgid "Augustus"
+msgstr "Август"
+
+#. PIGNAMES.10
+msgctxt "PIGNAMES.10"
+msgid "Titus"
+msgstr "Тит"
+
+#. PIGNAMES.100
+msgctxt "PIGNAMES.100"
+msgid "Hugo"
+msgstr "Хьюго"
+
+#. PIGNAMES.101
+msgctxt "PIGNAMES.101"
+msgid "Moon Pie"
+msgstr "Мун Пай"
+
+#. PIGNAMES.102
+msgctxt "PIGNAMES.102"
+msgid "Bagel"
+msgstr "Бейгл"
+
+#. PIGNAMES.103
+msgctxt "PIGNAMES.103"
+msgid "Biscuit"
+msgstr "Бискит"
+
+#. PIGNAMES.104
+msgctxt "PIGNAMES.104"
+msgid "Bacon"
+msgstr "Бэйкон"
+
+#. PIGNAMES.105
+msgctxt "PIGNAMES.105"
+msgid "Hamilton"
+msgstr "Хэмильтон"
+
+#. PIGNAMES.106
+msgctxt "PIGNAMES.106"
+msgid "Hamms"
+msgstr "Ветчинс"
+
+#. PIGNAMES.107
+msgctxt "PIGNAMES.107"
+msgid "Mr.P"
+msgstr "Мистер Пи"
+
+#. PIGNAMES.108
+msgctxt "PIGNAMES.108"
+msgid "Brownie"
+msgstr "Брауни"
+
+#. PIGNAMES.109
+msgctxt "PIGNAMES.109"
+msgid "Butters"
+msgstr "Баттерс"
+
+#. PIGNAMES.11
+msgctxt "PIGNAMES.11"
+msgid "Domitian"
+msgstr "Домитий"
+
+#. PIGNAMES.110
+msgctxt "PIGNAMES.110"
+msgid "Tuna"
+msgstr "Туна"
+
+#. PIGNAMES.111
+msgctxt "PIGNAMES.111"
+msgid "Clover"
+msgstr "Кловер"
+
+#. PIGNAMES.112
+msgctxt "PIGNAMES.112"
+msgid "Coco"
+msgstr "Коко"
+
+#. PIGNAMES.113
+msgctxt "PIGNAMES.113"
+msgid "Custard"
+msgstr "Заварник"
+
+#. PIGNAMES.114
+msgctxt "PIGNAMES.114"
+msgid "Dumpling"
+msgstr "Вареннинг"
+
+#. PIGNAMES.115
+msgctxt "PIGNAMES.115"
+msgid "Eggy"
+msgstr "Эгги"
+
+#. PIGNAMES.116
+msgctxt "PIGNAMES.116"
+msgid "Kiwi"
+msgstr "Киви"
+
+#. PIGNAMES.117
+msgctxt "PIGNAMES.117"
+msgid "Weiner"
+msgstr "Вайнер"
+
+#. PIGNAMES.118
+msgctxt "PIGNAMES.118"
+msgid "Waffle"
+msgstr "Ваффель"
+
+#. PIGNAMES.119
+msgctxt "PIGNAMES.119"
+msgid "Twinkie"
+msgstr "Твинки"
+
+#. PIGNAMES.12
+msgctxt "PIGNAMES.12"
+msgid "Nerva"
+msgstr "Нерва"
+
+#. PIGNAMES.120
+msgctxt "PIGNAMES.120"
+msgid "Truffle"
+msgstr "Трюффель"
+
+#. PIGNAMES.121
+msgctxt "PIGNAMES.121"
+msgid "Tater"
+msgstr "Тартер"
+
+#. PIGNAMES.122
+msgctxt "PIGNAMES.122"
+msgid "Cheddar"
+msgstr "Чеддер"
+
+#. PIGNAMES.123
+msgctxt "PIGNAMES.123"
+msgid "Pumpkin"
+msgstr "Тыквин"
+
+#. PIGNAMES.124
+msgctxt "PIGNAMES.124"
+msgid "Oatey"
+msgstr "Овсяуни"
+
+#. PIGNAMES.125
+msgctxt "PIGNAMES.125"
+msgid "Oinkey"
+msgstr "Хрюндик"
+
+#. PIGNAMES.126
+msgctxt "PIGNAMES.126"
+msgid "Nacho"
+msgstr "Начо"
+
+#. PIGNAMES.127
+msgctxt "PIGNAMES.127"
+msgid "Puffin"
+msgstr "Тупик"
+
+#. PIGNAMES.128
+msgctxt "PIGNAMES.128"
+msgid "Doughnut"
+msgstr "Пончик"
+
+#. PIGNAMES.129
+msgctxt "PIGNAMES.129"
+msgid "Cabbage"
+msgstr "Вилок"
+
+#. PIGNAMES.13
+msgctxt "PIGNAMES.13"
+msgid "Trajan"
+msgstr "Трайан"
+
+#. PIGNAMES.130
+msgctxt "PIGNAMES.130"
+msgid "Porky"
+msgstr "Порки"
+
+#. PIGNAMES.131
+msgctxt "PIGNAMES.131"
+msgid "Porkins"
+msgstr "Поркинс"
+
+#. PIGNAMES.132
+msgctxt "PIGNAMES.132"
+msgid "Porkbun"
+msgstr "Поркбунс"
+
+#. PIGNAMES.133
+msgctxt "PIGNAMES.133"
+msgid "Pepper"
+msgstr "Пеппер"
+
+#. PIGNAMES.134
+msgctxt "PIGNAMES.134"
+msgid "Gouda"
+msgstr "Гауда"
+
+#. PIGNAMES.135
+msgctxt "PIGNAMES.135"
+msgid "Eggbert"
+msgstr "Эгбер"
+
+#. PIGNAMES.136
+msgctxt "PIGNAMES.136"
+msgid "Chip"
+msgstr "Чип"
+
+#. PIGNAMES.137
+msgctxt "PIGNAMES.137"
+msgid "Berry"
+msgstr "Ягодка"
+
+#. PIGNAMES.138
+msgctxt "PIGNAMES.138"
+msgid "Crabby"
+msgstr "Крабби"
+
+#. PIGNAMES.139
+msgctxt "PIGNAMES.139"
+msgid "Reuben"
+msgstr "Рулькин"
+
+#. PIGNAMES.14
+msgctxt "PIGNAMES.14"
+msgid "Hadrian"
+msgstr "Гадрий"
+
+#. PIGNAMES.140
+msgctxt "PIGNAMES.140"
+msgid "Barley"
+msgstr "Барли"
+
+#. PIGNAMES.141
+msgctxt "PIGNAMES.141"
+msgid "Olive"
+msgstr "Олива"
+
+#. PIGNAMES.142
+msgctxt "PIGNAMES.142"
+msgid "Pickles"
+msgstr "Маринадис"
+
+#. PIGNAMES.143
+msgctxt "PIGNAMES.143"
+msgid "Wiggles"
+msgstr "Виглс"
+
+#. PIGNAMES.144
+msgctxt "PIGNAMES.144"
+msgid "Jerky"
+msgstr "Джерки"
+
+#. PIGNAMES.145
+msgctxt "PIGNAMES.145"
+msgid "Smelly"
+msgstr "Вонни"
+
+#. PIGNAMES.146
+msgctxt "PIGNAMES.146"
+msgid "Salty"
+msgstr "Солти"
+
+#. PIGNAMES.15
+msgctxt "PIGNAMES.15"
+msgid "Antonius"
+msgstr "Антоний"
+
+#. PIGNAMES.16
+msgctxt "PIGNAMES.16"
+msgid "Lucius"
+msgstr "Луций"
+
+#. PIGNAMES.17
+msgctxt "PIGNAMES.17"
+msgid "Marcus"
+msgstr "Маркус"
+
+#. PIGNAMES.18
+msgctxt "PIGNAMES.18"
+msgid "Commodus"
+msgstr "Комодий"
+
+#. PIGNAMES.19
+msgctxt "PIGNAMES.19"
+msgid "Pertinax"
+msgstr "Петринакс"
+
+#. PIGNAMES.2
+msgctxt "PIGNAMES.2"
+msgid "Tiberius"
+msgstr "Тиберий"
+
+#. PIGNAMES.20
+msgctxt "PIGNAMES.20"
+msgid "Didius"
+msgstr "Дидий"
+
+#. PIGNAMES.21
+msgctxt "PIGNAMES.21"
+msgid "Septmius"
+msgstr "Септимиус"
+
+#. PIGNAMES.22
+msgctxt "PIGNAMES.22"
+msgid "Caracalla"
+msgstr "Карацелла"
+
+#. PIGNAMES.23
+msgctxt "PIGNAMES.23"
+msgid "Geta"
+msgstr "Гета"
+
+#. PIGNAMES.24
+msgctxt "PIGNAMES.24"
+msgid "Marcrinus"
+msgstr "Маркриний"
+
+#. PIGNAMES.25
+msgctxt "PIGNAMES.25"
+msgid "Elagabalus"
+msgstr "Элагабалий"
+
+#. PIGNAMES.26
+msgctxt "PIGNAMES.26"
+msgid "Severus"
+msgstr "Северус"
+
+#. PIGNAMES.27
+msgctxt "PIGNAMES.27"
+msgid "Maximinus"
+msgstr "Максиминий"
+
+#. PIGNAMES.28
+msgctxt "PIGNAMES.28"
+msgid "Gordian"
+msgstr "Гордий"
+
+#. PIGNAMES.29
+msgctxt "PIGNAMES.29"
+msgid "Pupienus"
+msgstr "Пупиний"
+
+#. PIGNAMES.3
+msgctxt "PIGNAMES.3"
+msgid "Caligula"
+msgstr "Калигула"
+
+#. PIGNAMES.30
+msgctxt "PIGNAMES.30"
+msgid "Balbinus"
+msgstr "Бальбиний"
+
+#. PIGNAMES.31
+msgctxt "PIGNAMES.31"
+msgid "Philip"
+msgstr "Филип"
+
+#. PIGNAMES.32
+msgctxt "PIGNAMES.32"
+msgid "Hostilian"
+msgstr "Хостилий"
+
+#. PIGNAMES.33
+msgctxt "PIGNAMES.33"
+msgid "Trebonianus"
+msgstr "Требониний"
+
+#. PIGNAMES.34
+msgctxt "PIGNAMES.34"
+msgid "Aemilian"
+msgstr "Эмилий"
+
+#. PIGNAMES.35
+msgctxt "PIGNAMES.35"
+msgid "Valerian"
+msgstr "Валерий"
+
+#. PIGNAMES.36
+msgctxt "PIGNAMES.36"
+msgid "Gallienus"
+msgstr "Галиен"
+
+#. PIGNAMES.37
+msgctxt "PIGNAMES.37"
+msgid "Quintillus"
+msgstr "Квинтилий"
+
+#. PIGNAMES.38
+msgctxt "PIGNAMES.38"
+msgid "Aurelian"
+msgstr "Аурелий"
+
+#. PIGNAMES.39
+msgctxt "PIGNAMES.39"
+msgid "Tacitus"
+msgstr "Тацит"
+
+#. PIGNAMES.4
+msgctxt "PIGNAMES.4"
+msgid "Claudius"
+msgstr "Клавдий"
+
+#. PIGNAMES.40
+msgctxt "PIGNAMES.40"
+msgid "Florian"
+msgstr "Флориан"
+
+#. PIGNAMES.41
+msgctxt "PIGNAMES.41"
+msgid "Probus"
+msgstr "Проб"
+
+#. PIGNAMES.42
+msgctxt "PIGNAMES.42"
+msgid "Carus"
+msgstr "Кар"
+
+#. PIGNAMES.43
+msgctxt "PIGNAMES.43"
+msgid "Numerian"
+msgstr "Нумерий"
+
+#. PIGNAMES.44
+msgctxt "PIGNAMES.44"
+msgid "Carinus"
+msgstr "Кариний"
+
+#. PIGNAMES.45
+msgctxt "PIGNAMES.45"
+msgid "Diocletian"
+msgstr "Диоцет"
+
+#. PIGNAMES.46
+msgctxt "PIGNAMES.46"
+msgid "Maximian"
+msgstr "Максимий"
+
+#. PIGNAMES.47
+msgctxt "PIGNAMES.47"
+msgid "Constantius"
+msgstr "Константий"
+
+#. PIGNAMES.48
+msgctxt "PIGNAMES.48"
+msgid "Galerius"
+msgstr "Галерий"
+
+#. PIGNAMES.49
+msgctxt "PIGNAMES.49"
+msgid "Constantine"
+msgstr "Константин"
+
+#. PIGNAMES.5
+msgctxt "PIGNAMES.5"
+msgid "Nero"
+msgstr "Нерон"
+
+#. PIGNAMES.50
+msgctxt "PIGNAMES.50"
+msgid "Maxentius"
+msgstr "Максентий"
+
+#. PIGNAMES.51
+msgctxt "PIGNAMES.51"
+msgid "Licinius"
+msgstr "Лициний"
+
+#. PIGNAMES.52
+msgctxt "PIGNAMES.52"
+msgid "Constans"
+msgstr "Констанс"
+
+#. PIGNAMES.53
+msgctxt "PIGNAMES.53"
+msgid "Vetriano"
+msgstr "Ветриано"
+
+#. PIGNAMES.54
+msgctxt "PIGNAMES.54"
+msgid "Julian"
+msgstr "Юлиан"
+
+#. PIGNAMES.55
+msgctxt "PIGNAMES.55"
+msgid "Jovian"
+msgstr "Йовиан"
+
+#. PIGNAMES.56
+msgctxt "PIGNAMES.56"
+msgid "Valentinian"
+msgstr "Валентиний"
+
+#. PIGNAMES.57
+msgctxt "PIGNAMES.57"
+msgid "Valens"
+msgstr "Валенс"
+
+#. PIGNAMES.58
+msgctxt "PIGNAMES.58"
+msgid "Gratian"
+msgstr "Гратиан"
+
+#. PIGNAMES.59
+msgctxt "PIGNAMES.59"
+msgid "Theodosius"
+msgstr "Теодозий"
+
+#. PIGNAMES.6
+msgctxt "PIGNAMES.6"
+msgid "Galba"
+msgstr "Гальба"
+
+#. PIGNAMES.60
+msgctxt "PIGNAMES.60"
+msgid "Arcadius"
+msgstr "Аркадий"
+
+#. PIGNAMES.61
+msgctxt "PIGNAMES.61"
+msgid "Honorius"
+msgstr "Гонорий"
+
+#. PIGNAMES.62
+msgctxt "PIGNAMES.62"
+msgid "Joannes"
+msgstr "Йохан"
+
+#. PIGNAMES.63
+msgctxt "PIGNAMES.63"
+msgid "Marcian"
+msgstr "Марций"
+
+#. PIGNAMES.64
+msgctxt "PIGNAMES.64"
+msgid "Petronius"
+msgstr "Петроний"
+
+#. PIGNAMES.65
+msgctxt "PIGNAMES.65"
+msgid "Avitus"
+msgstr "Авий"
+
+#. PIGNAMES.66
+msgctxt "PIGNAMES.66"
+msgid "Majorian"
+msgstr "Махориан"
+
+#. PIGNAMES.67
+msgctxt "PIGNAMES.67"
+msgid "Libius"
+msgstr "Либий"
+
+#. PIGNAMES.68
+msgctxt "PIGNAMES.68"
+msgid "Anthemius"
+msgstr "Антемий"
+
+#. PIGNAMES.69
+msgctxt "PIGNAMES.69"
+msgid "Olybrius"
+msgstr "Олибрий"
+
+#. PIGNAMES.7
+msgctxt "PIGNAMES.7"
+msgid "Otho"
+msgstr "Отто"
+
+#. PIGNAMES.70
+msgctxt "PIGNAMES.70"
+msgid "Glycerius"
+msgstr "Глицерий"
+
+#. PIGNAMES.71
+msgctxt "PIGNAMES.71"
+msgid "Julius"
+msgstr "Юлий"
+
+#. PIGNAMES.72
+msgctxt "PIGNAMES.72"
+msgid "Romulus"
+msgstr "Ромул"
+
+#. PIGNAMES.73
+msgctxt "PIGNAMES.73"
+msgid "Leo"
+msgstr "Лео"
+
+#. PIGNAMES.74
+msgctxt "PIGNAMES.74"
+msgid "Zeno"
+msgstr "Зено"
+
+#. PIGNAMES.75
+msgctxt "PIGNAMES.75"
+msgid "Basiliscus"
+msgstr "Базилий"
+
+#. PIGNAMES.76
+msgctxt "PIGNAMES.76"
+msgid "Anatasius"
+msgstr "Анастасий"
+
+#. PIGNAMES.77
+msgctxt "PIGNAMES.77"
+msgid "Justin"
+msgstr "Юстин"
+
+#. PIGNAMES.78
+msgctxt "PIGNAMES.78"
+msgid "Justinian"
+msgstr "Юстиний"
+
+#. PIGNAMES.79
+msgctxt "PIGNAMES.79"
+msgid "Maurice"
+msgstr "Мауриций"
+
+#. PIGNAMES.8
+msgctxt "PIGNAMES.8"
+msgid "Vitellius"
+msgstr "Вителий"
+
+#. PIGNAMES.80
+msgctxt "PIGNAMES.80"
+msgid "Mickey"
+msgstr "Микки"
+
+#. PIGNAMES.81
+msgctxt "PIGNAMES.81"
+msgid "Cheeky Chris"
+msgstr "Щекастый Крис"
+
+#. PIGNAMES.82
+msgctxt "PIGNAMES.82"
+msgid "Kevin"
+msgstr "Кэвин"
+
+#. PIGNAMES.83
+msgctxt "PIGNAMES.83"
+msgid "Ju-lian"
+msgstr "Джу-лиан"
+
+#. PIGNAMES.84
+msgctxt "PIGNAMES.84"
+msgid "Alia"
+msgstr "Алия"
+
+#. PIGNAMES.85
+msgctxt "PIGNAMES.85"
+msgid "Tatham"
+msgstr "Тэтем"
+
+#. PIGNAMES.86
+msgctxt "PIGNAMES.86"
+msgid "Brook"
+msgstr "Брук"
+
+#. PIGNAMES.87
+msgctxt "PIGNAMES.87"
+msgid "Matt"
+msgstr "Мэтт"
+
+#. PIGNAMES.88
+msgctxt "PIGNAMES.88"
+msgid "Alex"
+msgstr "Алекс"
+
+#. PIGNAMES.89
+msgctxt "PIGNAMES.89"
+msgid "Kris"
+msgstr "Крис"
+
+#. PIGNAMES.9
+msgctxt "PIGNAMES.9"
+msgid "Vespasian"
+msgstr "Веспасий"
+
+#. PIGNAMES.90
+msgctxt "PIGNAMES.90"
+msgid "Kelly"
+msgstr "Келли"
+
+#. PIGNAMES.91
+msgctxt "PIGNAMES.91"
+msgid "Eugene"
+msgstr "Юджин"
+
+#. PIGNAMES.92
+msgctxt "PIGNAMES.92"
+msgid "Graham"
+msgstr "Грэхам"
+
+#. PIGNAMES.93
+msgctxt "PIGNAMES.93"
+msgid "Jamie"
+msgstr "Джейми"
+
+#. PIGNAMES.94
+msgctxt "PIGNAMES.94"
+msgid "Jeff"
+msgstr "Джефф"
+
+#. PIGNAMES.95
+msgctxt "PIGNAMES.95"
+msgid "Joe"
+msgstr "Джоуи"
+
+#. PIGNAMES.96
+msgctxt "PIGNAMES.96"
+msgid "Corey"
+msgstr "Кори"
+
+#. PIGNAMES.97
+msgctxt "PIGNAMES.97"
+msgid "Bryce"
+msgstr "Брюс"
+
+#. PIGNAMES.98
+msgctxt "PIGNAMES.98"
+msgid "Bug"
+msgstr "Баг"
+
+#. PIGNAMES.99
+msgctxt "PIGNAMES.99"
+msgid "Seth"
+msgstr "Сет"
+

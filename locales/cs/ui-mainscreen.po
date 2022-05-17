@@ -1,0 +1,1050 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.MAINSCREEN.ACCOUNTINFO
+msgctxt "UI.MAINSCREEN.ACCOUNTINFO"
+msgid "Account Info"
+msgstr ""
+
+#. UI.MAINSCREEN.ACKNOWLEDGEWARNING
+msgctxt "UI.MAINSCREEN.ACKNOWLEDGEWARNING"
+msgid "Don't Show This Again."
+msgstr ""
+
+#. UI.MAINSCREEN.ADJUST_DISPLAY_HEADER
+msgctxt "UI.MAINSCREEN.ADJUST_DISPLAY_HEADER"
+msgid "Adjust Display Area"
+msgstr ""
+
+#. UI.MAINSCREEN.ADJUST_DISPLAY_INSTRUCTIONS
+msgctxt "UI.MAINSCREEN.ADJUST_DISPLAY_INSTRUCTIONS"
+msgid "Adjust display area using <up> and <down> to the maximum screen size\nso all arrows are fully visible.\n\nPress <A> to accept the changes."
+msgstr ""
+
+#. UI.MAINSCREEN.ADJUST_DISPLAY_TEXT
+msgctxt "UI.MAINSCREEN.ADJUST_DISPLAY_TEXT"
+msgid "Parts of the game may be cut off by the edges of your screen. Do you want to check your display area now? If not, you can do this later in Settings."
+msgstr ""
+
+#. UI.MAINSCREEN.ADVENTURE
+msgctxt "UI.MAINSCREEN.ADVENTURE"
+msgid "Adventure"
+msgstr ""
+
+#. UI.MAINSCREEN.ADVGAMEDESC
+msgctxt "UI.MAINSCREEN.ADVGAMEDESC"
+msgid "NOTE: This mode is still under development.\n\nFor experienced players only!\n\nYou've decided to bring the fight to Maxwell.\nCan you survive the increasingly harsh conditions he's created, and beat him at his own game?"
+msgstr ""
+
+#. UI.MAINSCREEN.ASKQUIT
+msgctxt "UI.MAINSCREEN.ASKQUIT"
+msgid "Quit Game?"
+msgstr ""
+
+#. UI.MAINSCREEN.ASKQUITDESC
+msgctxt "UI.MAINSCREEN.ASKQUITDESC"
+msgid "Charlie will miss you."
+msgstr ""
+
+#. UI.MAINSCREEN.BACK
+msgctxt "UI.MAINSCREEN.BACK"
+msgid "Back"
+msgstr ""
+
+#. UI.MAINSCREEN.BETA_LABEL
+msgctxt "UI.MAINSCREEN.BETA_LABEL"
+msgid "The Gorge Event"
+msgstr ""
+
+#. UI.MAINSCREEN.BROADCASTING
+msgctxt "UI.MAINSCREEN.BROADCASTING"
+msgid "Broadcasting"
+msgstr ""
+
+#. UI.MAINSCREEN.BROWSE
+msgctxt "UI.MAINSCREEN.BROWSE"
+msgid "Browse Games"
+msgstr ""
+
+#. UI.MAINSCREEN.BUYDONTSTARVEMAIN
+msgctxt "UI.MAINSCREEN.BUYDONTSTARVEMAIN"
+msgid "Buy Don't Starve"
+msgstr ""
+
+#. UI.MAINSCREEN.BUYNOW
+msgctxt "UI.MAINSCREEN.BUYNOW"
+msgid "Buy Now"
+msgstr ""
+
+#. UI.MAINSCREEN.CANCEL
+msgctxt "UI.MAINSCREEN.CANCEL"
+msgid "Cancel"
+msgstr ""
+
+#. UI.MAINSCREEN.CANCELOFFLINE
+msgctxt "UI.MAINSCREEN.CANCELOFFLINE"
+msgid "Cancel"
+msgstr ""
+
+#. UI.MAINSCREEN.CANT_LOAD_ROG
+msgctxt "UI.MAINSCREEN.CANT_LOAD_ROG"
+msgid "Reign of Giants is not installed. Unable to load."
+msgstr ""
+
+#. UI.MAINSCREEN.CANT_LOAD_TITLE
+msgctxt "UI.MAINSCREEN.CANT_LOAD_TITLE"
+msgid "Load Failed"
+msgstr ""
+
+#. UI.MAINSCREEN.CHEATS
+msgctxt "UI.MAINSCREEN.CHEATS"
+msgid "Cheats"
+msgstr ""
+
+#. UI.MAINSCREEN.CHOOSEDIR
+msgctxt "UI.MAINSCREEN.CHOOSEDIR"
+msgid "Don't Starve Game Data"
+msgstr ""
+
+#. UI.MAINSCREEN.COMPENDIUM
+msgctxt "UI.MAINSCREEN.COMPENDIUM"
+msgid "Compendium"
+msgstr ""
+
+#. UI.MAINSCREEN.CONSOLE_EDITION_TEXT
+msgctxt "UI.MAINSCREEN.CONSOLE_EDITION_TEXT"
+msgid "Console Edition"
+msgstr ""
+
+#. UI.MAINSCREEN.CONTINUE
+msgctxt "UI.MAINSCREEN.CONTINUE"
+msgid "Continue"
+msgstr ""
+
+#. UI.MAINSCREEN.CONTROLLER_DETECTED_BODY
+msgctxt "UI.MAINSCREEN.CONTROLLER_DETECTED_BODY"
+msgid "Do you want to play Don't Starve Together with a controller?\nYou won't be asked again, but you can revert your settings in the Controls screen of the Option menu if you change your mind."
+msgstr ""
+
+#. UI.MAINSCREEN.CONTROLLER_DETECTED_HEADER
+msgctxt "UI.MAINSCREEN.CONTROLLER_DETECTED_HEADER"
+msgid "Controller Detected"
+msgstr ""
+
+#. UI.MAINSCREEN.CONTROLS
+msgctxt "UI.MAINSCREEN.CONTROLS"
+msgid "Controls"
+msgstr ""
+
+#. UI.MAINSCREEN.CREATE
+msgctxt "UI.MAINSCREEN.CREATE"
+msgid "Host Game"
+msgstr ""
+
+#. UI.MAINSCREEN.CREDITS
+msgctxt "UI.MAINSCREEN.CREDITS"
+msgid "Credits"
+msgstr ""
+
+#. UI.MAINSCREEN.DELETE
+msgctxt "UI.MAINSCREEN.DELETE"
+msgid "Delete"
+msgstr ""
+
+#. UI.MAINSCREEN.DISABLECONTROLLER
+msgctxt "UI.MAINSCREEN.DISABLECONTROLLER"
+msgid "Disable Controller"
+msgstr ""
+
+#. UI.MAINSCREEN.DLC_UPDATENAME
+msgctxt "UI.MAINSCREEN.DLC_UPDATENAME"
+msgid "Where There's a Wilson..."
+msgstr ""
+
+#. UI.MAINSCREEN.DST_FORGE_BETA_UPDATENAME
+msgctxt "UI.MAINSCREEN.DST_FORGE_BETA_UPDATENAME"
+msgid "The Forge Beta (v{version})"
+msgstr ""
+
+#. UI.MAINSCREEN.DST_UPDATENAME
+msgctxt "UI.MAINSCREEN.DST_UPDATENAME"
+msgid "Release"
+msgstr ""
+
+#. UI.MAINSCREEN.DYNAMICCONTENT_CLEAR
+msgctxt "UI.MAINSCREEN.DYNAMICCONTENT_CLEAR"
+msgid "Clear Dynamic Content"
+msgstr ""
+
+#. UI.MAINSCREEN.DYNAMICCONTENT_DESC
+msgctxt "UI.MAINSCREEN.DYNAMICCONTENT_DESC"
+msgid "Due to an error, dynamic content loading has been disabled."
+msgstr ""
+
+#. UI.MAINSCREEN.DYNAMICCONTENT_DISABLE
+msgctxt "UI.MAINSCREEN.DYNAMICCONTENT_DISABLE"
+msgid "Disable Dynamic Content"
+msgstr ""
+
+#. UI.MAINSCREEN.DYNAMICCONTENT_ENABLE
+msgctxt "UI.MAINSCREEN.DYNAMICCONTENT_ENABLE"
+msgid "Enable Dynamic Content"
+msgstr ""
+
+#. UI.MAINSCREEN.DYNAMICCONTENT_OK
+msgctxt "UI.MAINSCREEN.DYNAMICCONTENT_OK"
+msgid "I understand"
+msgstr ""
+
+#. UI.MAINSCREEN.DYNAMICCONTENT_RE_ENABLE
+msgctxt "UI.MAINSCREEN.DYNAMICCONTENT_RE_ENABLE"
+msgid "Re-enable"
+msgstr ""
+
+#. UI.MAINSCREEN.DYNAMICCONTENT_TITLE
+msgctxt "UI.MAINSCREEN.DYNAMICCONTENT_TITLE"
+msgid "Dynamic Content"
+msgstr ""
+
+#. UI.MAINSCREEN.ENABLECONTROLLER
+msgctxt "UI.MAINSCREEN.ENABLECONTROLLER"
+msgid "Enable Controller"
+msgstr ""
+
+#. UI.MAINSCREEN.ENTERKEY
+msgctxt "UI.MAINSCREEN.ENTERKEY"
+msgid "Enter New Key"
+msgstr ""
+
+#. UI.MAINSCREEN.ENTERPRODUCTKEY
+msgctxt "UI.MAINSCREEN.ENTERPRODUCTKEY"
+msgid "Enter Key"
+msgstr ""
+
+#. UI.MAINSCREEN.EVENT_IMMINENT
+msgctxt "UI.MAINSCREEN.EVENT_IMMINENT"
+msgid "Update imminent!"
+msgstr ""
+
+#. UI.MAINSCREEN.EVENT_UPDATEDAY
+msgctxt "UI.MAINSCREEN.EVENT_UPDATEDAY"
+msgid "Starts in 1 day!"
+msgstr ""
+
+#. UI.MAINSCREEN.EVENT_UPDATEDAYS
+msgctxt "UI.MAINSCREEN.EVENT_UPDATEDAYS"
+msgid "Starts in %d days!"
+msgstr ""
+
+#. UI.MAINSCREEN.EXIT
+msgctxt "UI.MAINSCREEN.EXIT"
+msgid "Exit"
+msgstr ""
+
+#. UI.MAINSCREEN.FAILEDMODS
+msgctxt "UI.MAINSCREEN.FAILEDMODS"
+msgid "The following mods failed to run last time and have been disabled: "
+msgstr ""
+
+#. UI.MAINSCREEN.FAMILY_SHARED
+msgctxt "UI.MAINSCREEN.FAMILY_SHARED"
+msgid "Family Sharing"
+msgstr ""
+
+#. UI.MAINSCREEN.FESTIVALEVENT.LAVAARENA
+msgctxt "UI.MAINSCREEN.FESTIVALEVENT.LAVAARENA"
+msgid "Enter the Forge"
+msgstr ""
+
+#. UI.MAINSCREEN.FESTIVALEVENT.QUAGMIRE
+msgctxt "UI.MAINSCREEN.FESTIVALEVENT.QUAGMIRE"
+msgid "Enter the Gorge"
+msgstr ""
+
+#. UI.MAINSCREEN.FORCEMODDETAIL
+msgctxt "UI.MAINSCREEN.FORCEMODDETAIL"
+msgid "You are force loading these mods from modsettings.lua. They will always be enabled:"
+msgstr ""
+
+#. UI.MAINSCREEN.FORUM
+msgctxt "UI.MAINSCREEN.FORUM"
+msgid "Forum"
+msgstr ""
+
+#. UI.MAINSCREEN.FREEPLAY
+msgctxt "UI.MAINSCREEN.FREEPLAY"
+msgid "Sandbox"
+msgstr ""
+
+#. UI.MAINSCREEN.FRESHBUILD
+msgctxt "UI.MAINSCREEN.FRESHBUILD"
+msgid "Fresh Build!"
+msgstr ""
+
+#. UI.MAINSCREEN.GAMEWIZARD
+msgctxt "UI.MAINSCREEN.GAMEWIZARD"
+msgid "Game Wizard"
+msgstr ""
+
+#. UI.MAINSCREEN.GETHELP
+msgctxt "UI.MAINSCREEN.GETHELP"
+msgid "Get More Help"
+msgstr ""
+
+#. UI.MAINSCREEN.GIFT
+msgctxt "UI.MAINSCREEN.GIFT"
+msgid "Send Gift"
+msgstr ""
+
+#. UI.MAINSCREEN.GREETING
+msgctxt "UI.MAINSCREEN.GREETING"
+msgid "Hi "
+msgstr ""
+
+#. UI.MAINSCREEN.HOST
+msgctxt "UI.MAINSCREEN.HOST"
+msgid "Host Game"
+msgstr ""
+
+#. UI.MAINSCREEN.HOSTCHAR
+msgctxt "UI.MAINSCREEN.HOSTCHAR"
+msgid "Host (CharSelect)"
+msgstr ""
+
+#. UI.MAINSCREEN.IMPORT
+msgctxt "UI.MAINSCREEN.IMPORT"
+msgid "Import"
+msgstr ""
+
+#. UI.MAINSCREEN.IMPORTFAIL
+msgctxt "UI.MAINSCREEN.IMPORTFAIL"
+msgid "Failed to load"
+msgstr ""
+
+#. UI.MAINSCREEN.IMPORTSUCCESS
+msgctxt "UI.MAINSCREEN.IMPORTSUCCESS"
+msgid "Success"
+msgstr ""
+
+#. UI.MAINSCREEN.IMPORTSUCCESSDESC
+msgctxt "UI.MAINSCREEN.IMPORTSUCCESSDESC"
+msgid "Data was imported successfully."
+msgstr ""
+
+#. UI.MAINSCREEN.INVITED_AS
+msgctxt "UI.MAINSCREEN.INVITED_AS"
+msgid "You were invited to join a game as %s"
+msgstr ""
+
+#. UI.MAINSCREEN.ISSUE
+msgctxt "UI.MAINSCREEN.ISSUE"
+msgid "Report an Issue"
+msgstr ""
+
+#. UI.MAINSCREEN.ITEMCOLLECTION_DISABLE
+msgctxt "UI.MAINSCREEN.ITEMCOLLECTION_DISABLE"
+msgid "You must be logged in to view your Profile or Item Collection."
+msgstr ""
+
+#. UI.MAINSCREEN.JOIN
+msgctxt "UI.MAINSCREEN.JOIN"
+msgid "Join IP"
+msgstr ""
+
+#. UI.MAINSCREEN.JOINCHAR
+msgctxt "UI.MAINSCREEN.JOINCHAR"
+msgid "Join (CharSelect)"
+msgstr ""
+
+#. UI.MAINSCREEN.JOIN_PLAY_TEST
+msgctxt "UI.MAINSCREEN.JOIN_PLAY_TEST"
+msgid "Join Playtest"
+msgstr ""
+
+#. UI.MAINSCREEN.LASTBUILDDAYS
+msgctxt "UI.MAINSCREEN.LASTBUILDDAYS"
+msgid "Last build %d days ago"
+msgstr ""
+
+#. UI.MAINSCREEN.LATER
+msgctxt "UI.MAINSCREEN.LATER"
+msgid "Not Now"
+msgstr ""
+
+#. UI.MAINSCREEN.LOGIN
+msgctxt "UI.MAINSCREEN.LOGIN"
+msgid "Login"
+msgstr ""
+
+#. UI.MAINSCREEN.LOGOUT
+msgctxt "UI.MAINSCREEN.LOGOUT"
+msgid "Log Out"
+msgstr ""
+
+#. UI.MAINSCREEN.MAINBANNER_BETA_TITLE
+msgctxt "UI.MAINSCREEN.MAINBANNER_BETA_TITLE"
+msgid "WX-78 Refresh\nBeta Build"
+msgstr ""
+
+#. UI.MAINSCREEN.MAINBANNER_ROT_BETA_TITLE
+msgctxt "UI.MAINSCREEN.MAINBANNER_ROT_BETA_TITLE"
+msgid "Beta Build"
+msgstr ""
+
+#. UI.MAINSCREEN.MODDETAIL
+msgctxt "UI.MAINSCREEN.MODDETAIL"
+msgid "Installed mods: "
+msgstr ""
+
+#. UI.MAINSCREEN.MODDETAIL2
+msgctxt "UI.MAINSCREEN.MODDETAIL2"
+msgid "Klei is not able to help you should issues arise while using mods. Use with caution!"
+msgstr ""
+
+#. UI.MAINSCREEN.MODFAILDETAIL
+msgctxt "UI.MAINSCREEN.MODFAILDETAIL"
+msgid "The following mod(s) have caused a failure:"
+msgstr ""
+
+#. UI.MAINSCREEN.MODFAILDETAIL2
+msgctxt "UI.MAINSCREEN.MODFAILDETAIL2"
+msgid "The mod will be disabled, re-enable it from the mods menu."
+msgstr ""
+
+#. UI.MAINSCREEN.MODFAILTITLE
+msgctxt "UI.MAINSCREEN.MODFAILTITLE"
+msgid "WARNING!"
+msgstr ""
+
+#. UI.MAINSCREEN.MODFORUMS
+msgctxt "UI.MAINSCREEN.MODFORUMS"
+msgid "Mod Forums"
+msgstr ""
+
+#. UI.MAINSCREEN.MODFORUMS_NOT_AVAILABLE_YET
+msgctxt "UI.MAINSCREEN.MODFORUMS_NOT_AVAILABLE_YET"
+msgid "Not available yet"
+msgstr ""
+
+#. UI.MAINSCREEN.MODQUIT
+msgctxt "UI.MAINSCREEN.MODQUIT"
+msgid "Disable Mods"
+msgstr ""
+
+#. UI.MAINSCREEN.MODS
+msgctxt "UI.MAINSCREEN.MODS"
+msgid "Mods"
+msgstr ""
+
+#. UI.MAINSCREEN.MODSBADLOAD
+msgctxt "UI.MAINSCREEN.MODSBADLOAD"
+msgid "The game did not start correctly last time. This was likely caused by a mod, so all client mods have been disabled.\n\nYou can try re-enabling mods from the mod settings screen."
+msgstr ""
+
+#. UI.MAINSCREEN.MODSBADTITLE
+msgctxt "UI.MAINSCREEN.MODSBADTITLE"
+msgid "All Mods Disabled"
+msgstr ""
+
+#. UI.MAINSCREEN.MODTITLE
+msgctxt "UI.MAINSCREEN.MODTITLE"
+msgid "Mods Installed!"
+msgstr ""
+
+#. UI.MAINSCREEN.MOREGAMES
+msgctxt "UI.MAINSCREEN.MOREGAMES"
+msgid "Games"
+msgstr ""
+
+#. UI.MAINSCREEN.MOTD
+msgctxt "UI.MAINSCREEN.MOTD"
+msgid "Check out the latest items in the Klei Store!"
+msgstr ""
+
+#. UI.MAINSCREEN.MOTDBUTTON
+msgctxt "UI.MAINSCREEN.MOTDBUTTON"
+msgid "Klei Store"
+msgstr ""
+
+#. UI.MAINSCREEN.MOTDTITLE
+msgctxt "UI.MAINSCREEN.MOTDTITLE"
+msgid "Klei Store"
+msgstr ""
+
+#. UI.MAINSCREEN.MOTD_ALERT_DETAILS
+msgctxt "UI.MAINSCREEN.MOTD_ALERT_DETAILS"
+msgid "View Details"
+msgstr ""
+
+#. UI.MAINSCREEN.MOTD_DOWNLOADING_IMAGE
+msgctxt "UI.MAINSCREEN.MOTD_DOWNLOADING_IMAGE"
+msgid "Downloading Image"
+msgstr ""
+
+#. UI.MAINSCREEN.MOTD_NEW_ANNOUNCEMENT
+msgctxt "UI.MAINSCREEN.MOTD_NEW_ANNOUNCEMENT"
+msgid "New!"
+msgstr ""
+
+#. UI.MAINSCREEN.MOTD_NEW_UPDATE
+msgctxt "UI.MAINSCREEN.MOTD_NEW_UPDATE"
+msgid "A new update is available\nPlease update to the latest version"
+msgstr ""
+
+#. UI.MAINSCREEN.MOTD_SALE_ANNOUNCEMENT
+msgctxt "UI.MAINSCREEN.MOTD_SALE_ANNOUNCEMENT"
+msgid "Sale!"
+msgstr ""
+
+#. UI.MAINSCREEN.MOTD_SYNCING
+msgctxt "UI.MAINSCREEN.MOTD_SYNCING"
+msgid "Syncing Notifications"
+msgstr ""
+
+#. UI.MAINSCREEN.MOTD_SYNCING_FAILED
+msgctxt "UI.MAINSCREEN.MOTD_SYNCING_FAILED"
+msgid "Unable to download notifications."
+msgstr ""
+
+#. UI.MAINSCREEN.MOVIE
+msgctxt "UI.MAINSCREEN.MOVIE"
+msgid "Theatre"
+msgstr ""
+
+#. UI.MAINSCREEN.MULTIPLAYER
+msgctxt "UI.MAINSCREEN.MULTIPLAYER"
+msgid "Multiplayer"
+msgstr ""
+
+#. UI.MAINSCREEN.MYSTERYBOX
+msgctxt "UI.MAINSCREEN.MYSTERYBOX"
+msgid "Treasury"
+msgstr ""
+
+#. UI.MAINSCREEN.NEWADVENTURE
+msgctxt "UI.MAINSCREEN.NEWADVENTURE"
+msgid "Adventure (TEST)"
+msgstr ""
+
+#. UI.MAINSCREEN.NEWADVENTURE_WARN
+msgctxt "UI.MAINSCREEN.NEWADVENTURE_WARN"
+msgid "The new adventure system is currently in active development and is provided for testing purposes only. It will probably contain bugs."
+msgstr ""
+
+#. UI.MAINSCREEN.NEWFREEPLAY
+msgctxt "UI.MAINSCREEN.NEWFREEPLAY"
+msgid "Sandbox"
+msgstr ""
+
+#. UI.MAINSCREEN.NEWFREEPLAYCUSTOM
+msgctxt "UI.MAINSCREEN.NEWFREEPLAYCUSTOM"
+msgid "Sandbox (Custom)"
+msgstr ""
+
+#. UI.MAINSCREEN.NEWGAME
+msgctxt "UI.MAINSCREEN.NEWGAME"
+msgid "Start a new game!"
+msgstr ""
+
+#. UI.MAINSCREEN.NEWGAMEDESC
+msgctxt "UI.MAINSCREEN.NEWGAMEDESC"
+msgid "This will erase your current save. Continue?"
+msgstr ""
+
+#. UI.MAINSCREEN.NEWGAMESHORT
+msgctxt "UI.MAINSCREEN.NEWGAMESHORT"
+msgid "Empty"
+msgstr ""
+
+#. UI.MAINSCREEN.NEWGAMETYPE
+msgctxt "UI.MAINSCREEN.NEWGAMETYPE"
+msgid "What kind of game would you like to play?"
+msgstr ""
+
+#. UI.MAINSCREEN.NEWGO
+msgctxt "UI.MAINSCREEN.NEWGO"
+msgid "Let's Go!"
+msgstr ""
+
+#. UI.MAINSCREEN.NEWMODDETAIL
+msgctxt "UI.MAINSCREEN.NEWMODDETAIL"
+msgid "Newly installed mods: "
+msgstr ""
+
+#. UI.MAINSCREEN.NEWMODDETAIL2
+msgctxt "UI.MAINSCREEN.NEWMODDETAIL2"
+msgid "Enable these mods from the main menu."
+msgstr ""
+
+#. UI.MAINSCREEN.NEWUSER_DETECTED_BODY
+msgctxt "UI.MAINSCREEN.NEWUSER_DETECTED_BODY"
+msgid "You might want to explore on your own for a bit and get a feel for things. Would you like to host your own private game first?"
+msgstr ""
+
+#. UI.MAINSCREEN.NEWUSER_DETECTED_HEADER
+msgctxt "UI.MAINSCREEN.NEWUSER_DETECTED_HEADER"
+msgid "New to Don't Starve?"
+msgstr ""
+
+#. UI.MAINSCREEN.NEWUSER_NO
+msgctxt "UI.MAINSCREEN.NEWUSER_NO"
+msgid "No, Browse Games"
+msgstr ""
+
+#. UI.MAINSCREEN.NEWUSER_NO_QUICKJOIN
+msgctxt "UI.MAINSCREEN.NEWUSER_NO_QUICKJOIN"
+msgid "No, Quick Join"
+msgstr ""
+
+#. UI.MAINSCREEN.NEWUSER_YES
+msgctxt "UI.MAINSCREEN.NEWUSER_YES"
+msgid "Yes, Host Game"
+msgstr ""
+
+#. UI.MAINSCREEN.NEWWORLD
+msgctxt "UI.MAINSCREEN.NEWWORLD"
+msgid "Create a new world!"
+msgstr ""
+
+#. UI.MAINSCREEN.NEWWORLDDESC
+msgctxt "UI.MAINSCREEN.NEWWORLDDESC"
+msgid "This will erase your current world and any saved games in it. Continue?"
+msgstr ""
+
+#. UI.MAINSCREEN.NEXTBUILDIMMINENT
+msgctxt "UI.MAINSCREEN.NEXTBUILDIMMINENT"
+msgid "Next build imminent!"
+msgstr ""
+
+#. UI.MAINSCREEN.NEXTUPDATEDAYS
+msgctxt "UI.MAINSCREEN.NEXTUPDATEDAYS"
+msgid "Next Update: %d days!"
+msgstr ""
+
+#. UI.MAINSCREEN.NO
+msgctxt "UI.MAINSCREEN.NO"
+msgid "No"
+msgstr ""
+
+#. UI.MAINSCREEN.NOTIFY
+msgctxt "UI.MAINSCREEN.NOTIFY"
+msgid "News"
+msgstr ""
+
+#. UI.MAINSCREEN.NOT_SIGNED_IN_TO_PSN
+msgctxt "UI.MAINSCREEN.NOT_SIGNED_IN_TO_PSN"
+msgid "Not Signed In to PlayStation™Network"
+msgstr ""
+
+#. UI.MAINSCREEN.NOT_SIGNED_IN_TO_PSN_DESC
+msgctxt "UI.MAINSCREEN.NOT_SIGNED_IN_TO_PSN_DESC"
+msgid "You are not signed in to PlayStation™Network. Characters and worlds from online games will be unavailable. Play offline?"
+msgstr ""
+
+#. UI.MAINSCREEN.NO_INTERNET_CONNECTION
+msgctxt "UI.MAINSCREEN.NO_INTERNET_CONNECTION"
+msgid "No internet connection"
+msgstr ""
+
+#. UI.MAINSCREEN.NO_INTERNET_CONNECTION_DESC
+msgctxt "UI.MAINSCREEN.NO_INTERNET_CONNECTION_DESC"
+msgid "Could not connect to the internet. Characters and worlds from online games will be unavailable. Play offline?"
+msgstr ""
+
+#. UI.MAINSCREEN.NO_PS_PLUS_MEMBERSHIP
+msgctxt "UI.MAINSCREEN.NO_PS_PLUS_MEMBERSHIP"
+msgid "PlayStation®Plus"
+msgstr ""
+
+#. UI.MAINSCREEN.NO_PS_PLUS_MEMBERSHIP_DESC
+msgctxt "UI.MAINSCREEN.NO_PS_PLUS_MEMBERSHIP_DESC"
+msgid "Online play requires an active PlayStation®Plus membership.\nCharacters and worlds from online games will be unavailable. Play offline?"
+msgstr ""
+
+#. UI.MAINSCREEN.OFFLINE
+msgctxt "UI.MAINSCREEN.OFFLINE"
+msgid "Offline"
+msgstr ""
+
+#. UI.MAINSCREEN.OFFLINEMODE
+msgctxt "UI.MAINSCREEN.OFFLINEMODE"
+msgid "Connection to Klei Failed"
+msgstr ""
+
+#. UI.MAINSCREEN.OFFLINEMODEDESC
+msgctxt "UI.MAINSCREEN.OFFLINEMODEDESC"
+msgid "Could not connect to Klei's servers. Characters and worlds from online games will be unavailable. Continue and play offline?"
+msgstr ""
+
+#. UI.MAINSCREEN.OK
+msgctxt "UI.MAINSCREEN.OK"
+msgid "OK"
+msgstr ""
+
+#. UI.MAINSCREEN.ONLINE_AGE_RESTRICTION_DESC
+msgctxt "UI.MAINSCREEN.ONLINE_AGE_RESTRICTION_DESC"
+msgid "You do not meet the age requirement to play online. Characters and worlds from online games will be unavailable."
+msgstr ""
+
+#. UI.MAINSCREEN.ONLINE_AGE_RESTRICTION_TITLE
+msgctxt "UI.MAINSCREEN.ONLINE_AGE_RESTRICTION_TITLE"
+msgid "Online Age Restriction"
+msgstr ""
+
+#. UI.MAINSCREEN.ONLINE_UGC_RESTRICTION_DESC
+msgctxt "UI.MAINSCREEN.ONLINE_UGC_RESTRICTION_DESC"
+msgid "Online play is disabled due to parental control settings for your account. Characters and worlds from online games will be unavailable."
+msgstr ""
+
+#. UI.MAINSCREEN.ONLINE_UGC_RESTRICTION_TITLE
+msgctxt "UI.MAINSCREEN.ONLINE_UGC_RESTRICTION_TITLE"
+msgid "User-Generated Media Restriction"
+msgstr ""
+
+#. UI.MAINSCREEN.OPTIONS
+msgctxt "UI.MAINSCREEN.OPTIONS"
+msgid "Options"
+msgstr ""
+
+#. UI.MAINSCREEN.PLAY
+msgctxt "UI.MAINSCREEN.PLAY"
+msgid "Play!"
+msgstr ""
+
+#. UI.MAINSCREEN.PLAYDEMO
+msgctxt "UI.MAINSCREEN.PLAYDEMO"
+msgid "Play Demo"
+msgstr ""
+
+#. UI.MAINSCREEN.PLAYMP
+msgctxt "UI.MAINSCREEN.PLAYMP"
+msgid "Play Online!"
+msgstr ""
+
+#. UI.MAINSCREEN.PLAYOFFLINE
+msgctxt "UI.MAINSCREEN.PLAYOFFLINE"
+msgid "Play Offline"
+msgstr ""
+
+#. UI.MAINSCREEN.PSN_OFFLINEMODE
+msgctxt "UI.MAINSCREEN.PSN_OFFLINEMODE"
+msgid "Connection to PlayStation™Network failed"
+msgstr ""
+
+#. UI.MAINSCREEN.PSN_OFFLINEMODEDESC
+msgctxt "UI.MAINSCREEN.PSN_OFFLINEMODEDESC"
+msgid "Couldn't connect to PlayStation™Network (scheduled maintenance or connectivity issues). Characters and worlds from online games will be unavailable. Play offline?"
+msgstr ""
+
+#. UI.MAINSCREEN.QUICKJOIN
+msgctxt "UI.MAINSCREEN.QUICKJOIN"
+msgid "Quick Join"
+msgstr ""
+
+#. UI.MAINSCREEN.QUIT
+msgctxt "UI.MAINSCREEN.QUIT"
+msgid "Quit"
+msgstr ""
+
+#. UI.MAINSCREEN.RATE
+msgctxt "UI.MAINSCREEN.RATE"
+msgid "Rate This Game"
+msgstr ""
+
+#. UI.MAINSCREEN.REDEEM
+msgctxt "UI.MAINSCREEN.REDEEM"
+msgid "Redeem"
+msgstr ""
+
+#. UI.MAINSCREEN.REGISTER_SECOND_PLAYER
+msgctxt "UI.MAINSCREEN.REGISTER_SECOND_PLAYER"
+msgid "Split Screen"
+msgstr ""
+
+#. UI.MAINSCREEN.RESETGAMEDESC
+msgctxt "UI.MAINSCREEN.RESETGAMEDESC"
+msgid "This will reset your current world. Continue?"
+msgstr ""
+
+#. UI.MAINSCREEN.RESETPROFILE
+msgctxt "UI.MAINSCREEN.RESETPROFILE"
+msgid "Reset profile!"
+msgstr ""
+
+#. UI.MAINSCREEN.RESTART
+msgctxt "UI.MAINSCREEN.RESTART"
+msgid "Restart"
+msgstr ""
+
+#. UI.MAINSCREEN.SAVE_LOCATION
+msgctxt "UI.MAINSCREEN.SAVE_LOCATION"
+msgid "Data"
+msgstr ""
+
+#. UI.MAINSCREEN.SCRIPTERRORMODWARNING
+msgctxt "UI.MAINSCREEN.SCRIPTERRORMODWARNING"
+msgid "This error may have occurred due to a mod you have enabled!\nYou have the following mods enabled:\n"
+msgstr ""
+
+#. UI.MAINSCREEN.SCRIPTERRORQUIT
+msgctxt "UI.MAINSCREEN.SCRIPTERRORQUIT"
+msgid "Exit Game"
+msgstr ""
+
+#. UI.MAINSCREEN.SCRIPTERRORRESTART
+msgctxt "UI.MAINSCREEN.SCRIPTERRORRESTART"
+msgid "Reload Save"
+msgstr ""
+
+#. UI.MAINSCREEN.SETTINGS
+msgctxt "UI.MAINSCREEN.SETTINGS"
+msgid "Settings"
+msgstr ""
+
+#. UI.MAINSCREEN.SKINS
+msgctxt "UI.MAINSCREEN.SKINS"
+msgid "Curio Cabinet"
+msgstr ""
+
+#. UI.MAINSCREEN.SLOT
+msgctxt "UI.MAINSCREEN.SLOT"
+msgid "Game Slot"
+msgstr ""
+
+#. UI.MAINSCREEN.SLOTACTION
+msgctxt "UI.MAINSCREEN.SLOTACTION"
+msgid "What would you like to do?"
+msgstr ""
+
+#. UI.MAINSCREEN.SLOT_1
+msgctxt "UI.MAINSCREEN.SLOT_1"
+msgid "1"
+msgstr ""
+
+#. UI.MAINSCREEN.SLOT_2
+msgctxt "UI.MAINSCREEN.SLOT_2"
+msgid "2"
+msgstr ""
+
+#. UI.MAINSCREEN.SLOT_3
+msgctxt "UI.MAINSCREEN.SLOT_3"
+msgid "3"
+msgstr ""
+
+#. UI.MAINSCREEN.SLOT_4
+msgctxt "UI.MAINSCREEN.SLOT_4"
+msgid "4"
+msgstr ""
+
+#. UI.MAINSCREEN.SPLITSCREEN
+msgctxt "UI.MAINSCREEN.SPLITSCREEN"
+msgid "Split Screen"
+msgstr ""
+
+#. UI.MAINSCREEN.STEAMOFFLINEMODE
+msgctxt "UI.MAINSCREEN.STEAMOFFLINEMODE"
+msgid "Connection to Steam Failed"
+msgstr ""
+
+#. UI.MAINSCREEN.STEAMOFFLINEMODEDESC
+msgctxt "UI.MAINSCREEN.STEAMOFFLINEMODEDESC"
+msgid "Couldn't connect to Steam (scheduled maintenance or connectivity issues). Characters and worlds from online games will be unavailable. Play offline?"
+msgstr ""
+
+#. UI.MAINSCREEN.SURE
+msgctxt "UI.MAINSCREEN.SURE"
+msgid "Are you sure?"
+msgstr ""
+
+#. UI.MAINSCREEN.TESTING
+msgctxt "UI.MAINSCREEN.TESTING"
+msgid "This is the testing branch!"
+msgstr ""
+
+#. UI.MAINSCREEN.TESTINGDETAIL
+msgctxt "UI.MAINSCREEN.TESTINGDETAIL"
+msgid "You may encounter bugs or broken features, and you may lose your save game when we update. Please report all problems in the forum."
+msgstr ""
+
+#. UI.MAINSCREEN.TESTINGNO
+msgctxt "UI.MAINSCREEN.TESTINGNO"
+msgid "No, thank you!"
+msgstr ""
+
+#. UI.MAINSCREEN.TESTINGYES
+msgctxt "UI.MAINSCREEN.TESTINGYES"
+msgid "I understand."
+msgstr ""
+
+#. UI.MAINSCREEN.TOOLTIP_BROWSE
+msgctxt "UI.MAINSCREEN.TOOLTIP_BROWSE"
+msgid "Browse all servers"
+msgstr ""
+
+#. UI.MAINSCREEN.TOOLTIP_COMPENDIUM
+msgctxt "UI.MAINSCREEN.TOOLTIP_COMPENDIUM"
+msgid "A summary of your adventures"
+msgstr ""
+
+#. UI.MAINSCREEN.TOOLTIP_CREDITS
+msgctxt "UI.MAINSCREEN.TOOLTIP_CREDITS"
+msgid "See who made the game"
+msgstr ""
+
+#. UI.MAINSCREEN.TOOLTIP_FESTIVALEVENT.LAVAARENA
+msgctxt "UI.MAINSCREEN.TOOLTIP_FESTIVALEVENT.LAVAARENA"
+msgid "Challenge Battlemaster Pugna's warriors in this limited-time event!"
+msgstr ""
+
+#. UI.MAINSCREEN.TOOLTIP_FESTIVALEVENT.QUAGMIRE
+msgctxt "UI.MAINSCREEN.TOOLTIP_FESTIVALEVENT.QUAGMIRE"
+msgid "Prepare offerings for the Altar of Gnaw in this limited-time event!"
+msgstr ""
+
+#. UI.MAINSCREEN.TOOLTIP_HOST
+msgctxt "UI.MAINSCREEN.TOOLTIP_HOST"
+msgid "Start your own server"
+msgstr ""
+
+#. UI.MAINSCREEN.TOOLTIP_LOGOUT
+msgctxt "UI.MAINSCREEN.TOOLTIP_LOGOUT"
+msgid "Log out so you can log back in again"
+msgstr ""
+
+#. UI.MAINSCREEN.TOOLTIP_MODS
+msgctxt "UI.MAINSCREEN.TOOLTIP_MODS"
+msgid "Customize your game"
+msgstr ""
+
+#. UI.MAINSCREEN.TOOLTIP_OPTIONS
+msgctxt "UI.MAINSCREEN.TOOLTIP_OPTIONS"
+msgid "Change your settings and controls"
+msgstr ""
+
+#. UI.MAINSCREEN.TOOLTIP_OPTIONS_PS4
+msgctxt "UI.MAINSCREEN.TOOLTIP_OPTIONS_PS4"
+msgid "Change your settings and view the controls"
+msgstr ""
+
+#. UI.MAINSCREEN.TOOLTIP_PLAYERSUMMARY
+msgctxt "UI.MAINSCREEN.TOOLTIP_PLAYERSUMMARY"
+msgid "Equip curios, craft items and view player history"
+msgstr ""
+
+#. UI.MAINSCREEN.TOOLTIP_QUICKJOIN
+msgctxt "UI.MAINSCREEN.TOOLTIP_QUICKJOIN"
+msgid "Jump in and start playing"
+msgstr ""
+
+#. UI.MAINSCREEN.TOOLTIP_QUIT
+msgctxt "UI.MAINSCREEN.TOOLTIP_QUIT"
+msgid "Scram!"
+msgstr ""
+
+#. UI.MAINSCREEN.TOOLTIP_WIZARD
+msgctxt "UI.MAINSCREEN.TOOLTIP_WIZARD"
+msgid "Let us help you drill down the list of servers"
+msgstr ""
+
+#. UI.MAINSCREEN.UNKNOWNGAME
+msgctxt "UI.MAINSCREEN.UNKNOWNGAME"
+msgid "Unknown"
+msgstr ""
+
+#. UI.MAINSCREEN.UNLOCKEVERYTHING
+msgctxt "UI.MAINSCREEN.UNLOCKEVERYTHING"
+msgid "Unlock Everything"
+msgstr ""
+
+#. UI.MAINSCREEN.UPDATENAME
+msgctxt "UI.MAINSCREEN.UPDATENAME"
+msgid "All's Well That Maxwell"
+msgstr ""
+
+#. UI.MAINSCREEN.UPDATERELEASED
+msgctxt "UI.MAINSCREEN.UPDATERELEASED"
+msgid "Now Playing:"
+msgstr ""
+
+#. UI.MAINSCREEN.VERSION_CHECKING
+msgctxt "UI.MAINSCREEN.VERSION_CHECKING"
+msgid "Checking for update"
+msgstr ""
+
+#. UI.MAINSCREEN.VERSION_ERROR
+msgctxt "UI.MAINSCREEN.VERSION_ERROR"
+msgid "Problem checking for latest version"
+msgstr ""
+
+#. UI.MAINSCREEN.VERSION_LATEST
+msgctxt "UI.MAINSCREEN.VERSION_LATEST"
+msgid "Latest Version: %s"
+msgstr ""
+
+#. UI.MAINSCREEN.VERSION_MOREINFO
+msgctxt "UI.MAINSCREEN.VERSION_MOREINFO"
+msgid "Instructions"
+msgstr ""
+
+#. UI.MAINSCREEN.VERSION_NOTUPTODATE
+msgctxt "UI.MAINSCREEN.VERSION_NOTUPTODATE"
+msgid "Update required!"
+msgstr ""
+
+#. UI.MAINSCREEN.VERSION_OUT_OF_DATE_BODY
+msgctxt "UI.MAINSCREEN.VERSION_OUT_OF_DATE_BODY"
+msgid "Your game looks like it's running an old version. We recommend that you update to the latest version."
+msgstr ""
+
+#. UI.MAINSCREEN.VERSION_OUT_OF_DATE_CANCEL
+msgctxt "UI.MAINSCREEN.VERSION_OUT_OF_DATE_CANCEL"
+msgid "Cancel"
+msgstr ""
+
+#. UI.MAINSCREEN.VERSION_OUT_OF_DATE_INSTRUCTIONS
+msgctxt "UI.MAINSCREEN.VERSION_OUT_OF_DATE_INSTRUCTIONS"
+msgid "Instructions"
+msgstr ""
+
+#. UI.MAINSCREEN.VERSION_OUT_OF_DATE_PLAY
+msgctxt "UI.MAINSCREEN.VERSION_OUT_OF_DATE_PLAY"
+msgid "Play Anyway"
+msgstr ""
+
+#. UI.MAINSCREEN.VERSION_OUT_OF_DATE_TITLE
+msgctxt "UI.MAINSCREEN.VERSION_OUT_OF_DATE_TITLE"
+msgid "Version Out of Date"
+msgstr ""
+
+#. UI.MAINSCREEN.VERSION_UPTODATE
+msgctxt "UI.MAINSCREEN.VERSION_UPTODATE"
+msgid "Up to date!"
+msgstr ""
+
+#. UI.MAINSCREEN.VERSION_YOURS
+msgctxt "UI.MAINSCREEN.VERSION_YOURS"
+msgid "Your Version: %s"
+msgstr ""
+
+#. UI.MAINSCREEN.VISITFORUM
+msgctxt "UI.MAINSCREEN.VISITFORUM"
+msgid "Visit Forum"
+msgstr ""
+
+#. UI.MAINSCREEN.WEGAMEFFLINEMODEDESC
+msgctxt "UI.MAINSCREEN.WEGAMEFFLINEMODEDESC"
+msgid "Couldn't connect to WeGame (scheduled maintenance or connectivity issues). Characters and worlds from online games will be unavailable. Play offline?"
+msgstr ""
+
+#. UI.MAINSCREEN.WEGAMEOFFLINEMODE
+msgctxt "UI.MAINSCREEN.WEGAMEOFFLINEMODE"
+msgid "Connection to WeGame Failed"
+msgstr ""
+
+#. UI.MAINSCREEN.YES
+msgctxt "UI.MAINSCREEN.YES"
+msgid "Yes"
+msgstr ""
+

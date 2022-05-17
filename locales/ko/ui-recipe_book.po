@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.RECIPE_BOOK.CRAVINGS.BREAD
+msgctxt "UI.RECIPE_BOOK.CRAVINGS.BREAD"
+msgid "Bread"
+msgstr "빵"
+
+#. UI.RECIPE_BOOK.CRAVINGS.CHEESE
+msgctxt "UI.RECIPE_BOOK.CRAVINGS.CHEESE"
+msgid "Cheese"
+msgstr "치즈"
+
+#. UI.RECIPE_BOOK.CRAVINGS.FISH
+msgctxt "UI.RECIPE_BOOK.CRAVINGS.FISH"
+msgid "Fish"
+msgstr "생선"
+
+#. UI.RECIPE_BOOK.CRAVINGS.MEAT
+msgctxt "UI.RECIPE_BOOK.CRAVINGS.MEAT"
+msgid "Meat"
+msgstr "고기"
+
+#. UI.RECIPE_BOOK.CRAVINGS.PASTA
+msgctxt "UI.RECIPE_BOOK.CRAVINGS.PASTA"
+msgid "Pasta"
+msgstr "파스타"
+
+#. UI.RECIPE_BOOK.CRAVINGS.SNACK
+msgctxt "UI.RECIPE_BOOK.CRAVINGS.SNACK"
+msgid "Snack"
+msgstr "간식"
+
+#. UI.RECIPE_BOOK.CRAVINGS.SOUP
+msgctxt "UI.RECIPE_BOOK.CRAVINGS.SOUP"
+msgid "Soup"
+msgstr "수프"
+
+#. UI.RECIPE_BOOK.CRAVINGS.SWEET
+msgctxt "UI.RECIPE_BOOK.CRAVINGS.SWEET"
+msgid "Dessert"
+msgstr "디저트"
+
+#. UI.RECIPE_BOOK.CRAVINGS.VEGGIE
+msgctxt "UI.RECIPE_BOOK.CRAVINGS.VEGGIE"
+msgid "Veggie"
+msgstr "채소"
+
+#. UI.RECIPE_BOOK.DETAILS_LABEL_CRAVING
+msgctxt "UI.RECIPE_BOOK.DETAILS_LABEL_CRAVING"
+msgid "Satisfies Craving"
+msgstr "갈망을 만족시킴"
+
+#. UI.RECIPE_BOOK.DETAILS_LABEL_CRAVINGS
+msgctxt "UI.RECIPE_BOOK.DETAILS_LABEL_CRAVINGS"
+msgid "Satisfies Cravings"
+msgstr "갈망을 만족시킴"
+
+#. UI.RECIPE_BOOK.DETAILS_LABEL_RECIPES
+msgctxt "UI.RECIPE_BOOK.DETAILS_LABEL_RECIPES"
+msgid "Recent Recipes"
+msgstr "최근 레시피"
+
+#. UI.RECIPE_BOOK.DETAILS_LABEL_STATION
+msgctxt "UI.RECIPE_BOOK.DETAILS_LABEL_STATION"
+msgid "Cooking Station"
+msgstr "조리대"
+
+#. UI.RECIPE_BOOK.DETAILS_LABEL_STATIONS
+msgctxt "UI.RECIPE_BOOK.DETAILS_LABEL_STATIONS"
+msgid "Cooking Stations"
+msgstr "조리대"
+
+#. UI.RECIPE_BOOK.DETAILS_LABEL_TRIBUTE
+msgctxt "UI.RECIPE_BOOK.DETAILS_LABEL_TRIBUTE"
+msgid "Offering"
+msgstr "제물"
+
+#. UI.RECIPE_BOOK.DETAILS_LABEL_TRIBUTE_SILVER
+msgctxt "UI.RECIPE_BOOK.DETAILS_LABEL_TRIBUTE_SILVER"
+msgid "{dish} Offering"
+msgstr "{dish} 제물"
+
+#. UI.RECIPE_BOOK.DETAILS_LABEL_TRIBUTE_SILVER_UNKNOWN
+msgctxt "UI.RECIPE_BOOK.DETAILS_LABEL_TRIBUTE_SILVER_UNKNOWN"
+msgid "Silver Dish Offering"
+msgstr "은접시 제물"
+
+#. UI.RECIPE_BOOK.DETAILS_SPINNER_CRAVING
+msgctxt "UI.RECIPE_BOOK.DETAILS_SPINNER_CRAVING"
+msgid "Craving"
+msgstr "갈망"
+
+#. UI.RECIPE_BOOK.DETAILS_SPINNER_STATION
+msgctxt "UI.RECIPE_BOOK.DETAILS_SPINNER_STATION"
+msgid "Station"
+msgstr "스테이션"
+
+#. UI.RECIPE_BOOK.DISCOVERED_RECIPES
+msgctxt "UI.RECIPE_BOOK.DISCOVERED_RECIPES"
+msgid "Discovered Recipes"
+msgstr "발견한 레시피"
+
+#. UI.RECIPE_BOOK.FILTER_ANY
+msgctxt "UI.RECIPE_BOOK.FILTER_ANY"
+msgid "Any"
+msgstr "아무"
+
+#. UI.RECIPE_BOOK.NO_CRAVING
+msgctxt "UI.RECIPE_BOOK.NO_CRAVING"
+msgid "None"
+msgstr "없음"
+
+#. UI.RECIPE_BOOK.NO_TRIBUTE_VALUE
+msgctxt "UI.RECIPE_BOOK.NO_TRIBUTE_VALUE"
+msgid "None"
+msgstr "없음"
+
+#. UI.RECIPE_BOOK.STATIONS.GRILL
+msgctxt "UI.RECIPE_BOOK.STATIONS.GRILL"
+msgid "Grill"
+msgstr "그릴"
+
+#. UI.RECIPE_BOOK.STATIONS.OVEN
+msgctxt "UI.RECIPE_BOOK.STATIONS.OVEN"
+msgid "Oven"
+msgstr "오븐"
+
+#. UI.RECIPE_BOOK.STATIONS.POT
+msgctxt "UI.RECIPE_BOOK.STATIONS.POT"
+msgid "Cookpot"
+msgstr "요리솥"
+
+#. UI.RECIPE_BOOK.SYRUP_RECIPE_ID
+msgctxt "UI.RECIPE_BOOK.SYRUP_RECIPE_ID"
+msgid "**"
+msgstr "**"
+
+#. UI.RECIPE_BOOK.TITLE
+msgctxt "UI.RECIPE_BOOK.TITLE"
+msgid "Recipe Book"
+msgstr "레시피 책"
+
+#. UI.RECIPE_BOOK.TRIBUTE_UNKNOWN
+msgctxt "UI.RECIPE_BOOK.TRIBUTE_UNKNOWN"
+msgid "Unknown"
+msgstr "알 수 없음"
+
+#. UI.RECIPE_BOOK.UNKNOWN_DATA
+msgctxt "UI.RECIPE_BOOK.UNKNOWN_DATA"
+msgid "???"
+msgstr "???"
+
+#. UI.RECIPE_BOOK.UNKNOWN_RECIPE
+msgctxt "UI.RECIPE_BOOK.UNKNOWN_RECIPE"
+msgid "Unknown"
+msgstr "알 수 없음"
+

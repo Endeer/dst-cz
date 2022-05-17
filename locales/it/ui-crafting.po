@@ -1,0 +1,645 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.CRAFTING.BUILD
+msgctxt "UI.CRAFTING.BUILD"
+msgid "Build"
+msgstr "Costruisci"
+
+#. UI.CRAFTING.CANTRESEARCH
+msgctxt "UI.CRAFTING.CANTRESEARCH"
+msgid "Some things must be discovered on your own."
+msgstr "Bisogna scoprire alcune cose da soli."
+
+#. UI.CRAFTING.CRAFT_INGREDIENT
+msgctxt "UI.CRAFTING.CRAFT_INGREDIENT"
+msgid "Craft Ingredient"
+msgstr "Crea ingrediente"
+
+#. UI.CRAFTING.DEFAULT
+msgctxt "UI.CRAFTING.DEFAULT"
+msgid "Classic"
+msgstr "Classico"
+
+#. UI.CRAFTING.GAMEPAUSED
+msgctxt "UI.CRAFTING.GAMEPAUSED"
+msgid "Unpause the game to craft this."
+msgstr "Togli dalla pausa il gioco per crearlo."
+
+#. UI.CRAFTING.NEEDALCHEMYENGINE
+msgctxt "UI.CRAFTING.NEEDALCHEMYENGINE"
+msgid "Use an Alchemy Engine to build a prototype!"
+msgstr "Usa un motore di alchimia per costruire un prototipo!"
+
+#. UI.CRAFTING.NEEDCARNIVAL_HOSTSHOP_PLAZA
+msgctxt "UI.CRAFTING.NEEDCARNIVAL_HOSTSHOP_PLAZA"
+msgid "Purchase the Cawnival Sapling to unlock!"
+msgstr "Sbloccala acquistando l'Alberello del cranevale!"
+
+#. UI.CRAFTING.NEEDPRESTIHATITATOR
+msgctxt "UI.CRAFTING.NEEDPRESTIHATITATOR"
+msgid "Use a Prestihatitator to build a prototype!"
+msgstr "Usa un cilindigitatore per costruire un prototipo!"
+
+#. UI.CRAFTING.NEEDSANCIENTALTAR_LOW
+msgctxt "UI.CRAFTING.NEEDSANCIENTALTAR_LOW"
+msgid "Find an ancient structure to craft this at."
+msgstr "Devi trovare una struttura antica per fabbricarlo."
+
+#. UI.CRAFTING.NEEDSANCIENT_FOUR
+msgctxt "UI.CRAFTING.NEEDSANCIENT_FOUR"
+msgid "Find a fully intact ancient structure to craft this at."
+msgstr "Devi trovare una struttura antica completamente intatta per fabbricarlo."
+
+#. UI.CRAFTING.NEEDSBEEFSHRINE
+msgctxt "UI.CRAFTING.NEEDSBEEFSHRINE"
+msgid "Make an offering at the Beefalo Shrine!"
+msgstr "Fai un'offerta al santuario del mufalo!"
+
+#. UI.CRAFTING.NEEDSCARNIVAL_HOSTSHOP_PLAZA
+msgctxt "UI.CRAFTING.NEEDSCARNIVAL_HOSTSHOP_PLAZA"
+msgid "Decorate a Cawnival Tree during the Cawnival!"
+msgstr "Decora un albero del cranevale durante il cranevale!"
+
+#. UI.CRAFTING.NEEDSCARNIVAL_HOSTSHOP_WANDER
+msgctxt "UI.CRAFTING.NEEDSCARNIVAL_HOSTSHOP_WANDER"
+msgid "Find Corvus Goodfeather during the Cawnival!"
+msgstr "Trova Corvus Goodfeather durante il cranevale!"
+
+#. UI.CRAFTING.NEEDSCARNIVAL_PRIZESHOP
+msgctxt "UI.CRAFTING.NEEDSCARNIVAL_PRIZESHOP"
+msgid "Purchase at the Cawnival's Prize Booth!"
+msgstr "Fai acquisti al banco dei premi di cranevale!"
+
+#. UI.CRAFTING.NEEDSCATCOONSHRINE
+msgctxt "UI.CRAFTING.NEEDSCATCOONSHRINE"
+msgid "Make an offering at the Catcoon Shrine!"
+msgstr "Fai un'offerta al santuario del gattorsetto!"
+
+#. UI.CRAFTING.NEEDSCHARACTER
+msgctxt "UI.CRAFTING.NEEDSCHARACTER"
+msgid "Another survivor knows how to craft this."
+msgstr "Un altro sopravvissuto sa come crearlo."
+
+#. UI.CRAFTING.NEEDSCIENCEMACHINE
+msgctxt "UI.CRAFTING.NEEDSCIENCEMACHINE"
+msgid "Use a Science Machine to build a prototype!"
+msgstr "Usa una macchina della scienza per costruire un prototipo!"
+
+#. UI.CRAFTING.NEEDSCREATURESCANNING
+msgctxt "UI.CRAFTING.NEEDSCREATURESCANNING"
+msgid "Scan living creatures to collect data!"
+msgstr "Scansiona le creature viventi per ottenere dei dati!"
+
+#. UI.CRAFTING.NEEDSCRITTERLAB
+msgctxt "UI.CRAFTING.NEEDSCRITTERLAB"
+msgid "Find the Rock Den to adopt this!"
+msgstr "Trova una tana nella roccia per adottarlo!"
+
+#. UI.CRAFTING.NEEDSFISHING
+msgctxt "UI.CRAFTING.NEEDSFISHING"
+msgid "Use a Tackle Receptacle to build a prototype!"
+msgstr "Usa un porta attrezzi da pesca per costruire un prototipo!"
+
+#. UI.CRAFTING.NEEDSFOODPROCESSING
+msgctxt "UI.CRAFTING.NEEDSFOODPROCESSING"
+msgid "Make a Portable Grinding Mill to get cooking!"
+msgstr "Costruisci una macina portatile per cucinare!"
+
+#. UI.CRAFTING.NEEDSHADOWMANIPULATOR
+msgctxt "UI.CRAFTING.NEEDSHADOWMANIPULATOR"
+msgid "Use a Shadow Manipulator to build a prototype!"
+msgstr "Usa un manipolatore d'ombra per costruire un prototipo!"
+
+#. UI.CRAFTING.NEEDSHALLOWED_NIGHTS
+msgctxt "UI.CRAFTING.NEEDSHALLOWED_NIGHTS"
+msgid "Available during Hallowed Nights!"
+msgstr "Disponibile durante le Notti di Hallowed!"
+
+#. UI.CRAFTING.NEEDSHERMITCRABSHOP_L1
+msgctxt "UI.CRAFTING.NEEDSHERMITCRABSHOP_L1"
+msgid "Find someone friendly enough to make this trade!"
+msgstr "Trova qualcuno abbastanza amichevole per fare questo scambio!"
+
+#. UI.CRAFTING.NEEDSHERMITCRABSHOP_L2
+msgctxt "UI.CRAFTING.NEEDSHERMITCRABSHOP_L2"
+msgid "Find someone friendly enough to make this trade!"
+msgstr "Trova qualcuno abbastanza amichevole per fare questo scambio!"
+
+#. UI.CRAFTING.NEEDSHERMITCRABSHOP_L3
+msgctxt "UI.CRAFTING.NEEDSHERMITCRABSHOP_L3"
+msgid "Find someone friendly enough to make this trade!"
+msgstr "Trova qualcuno abbastanza amichevole per fare questo scambio!"
+
+#. UI.CRAFTING.NEEDSHERMITCRABSHOP_L4
+msgctxt "UI.CRAFTING.NEEDSHERMITCRABSHOP_L4"
+msgid "Find someone friendly enough to make this trade!"
+msgstr "Trova qualcuno abbastanza amichevole per fare questo scambio!"
+
+#. UI.CRAFTING.NEEDSMADSCIENCE
+msgctxt "UI.CRAFTING.NEEDSMADSCIENCE"
+msgid "Brew at the Mad Scientist Lab!"
+msgstr "Preparalo al laboratorio da scienziato!"
+
+#. UI.CRAFTING.NEEDSPERDSHRINE
+msgctxt "UI.CRAFTING.NEEDSPERDSHRINE"
+msgid "Make an offering at the Gobbler Shrine!"
+msgstr "Fai un'offerta al santuario del tacchino!"
+
+#. UI.CRAFTING.NEEDSPIGSHRINE
+msgctxt "UI.CRAFTING.NEEDSPIGSHRINE"
+msgid "Make an offering at the Pig Shrine!"
+msgstr "Fai un'offerta al santuario del maiale!"
+
+#. UI.CRAFTING.NEEDSSEAFARING_STATION
+msgctxt "UI.CRAFTING.NEEDSSEAFARING_STATION"
+msgid "Use a Think Tank to build a prototype!"
+msgstr "Usa un serbatoio pensante per costruire un prototipo!"
+
+#. UI.CRAFTING.NEEDSSPIDERFRIENDSHIP
+msgctxt "UI.CRAFTING.NEEDSSPIDERFRIENDSHIP"
+msgid "Make friends with spiders to learn a recipe!"
+msgstr "Fai amicizia con i ragni per imparare una ricetta!"
+
+#. UI.CRAFTING.NEEDSTECH.SCULPTING
+msgctxt "UI.CRAFTING.NEEDSTECH.SCULPTING"
+msgid "Put refined stone on the wheel to create a sculpture!"
+msgstr "Metti una pietra raffinata sulla ruota per creare una scultura!"
+
+#. UI.CRAFTING.NEEDSTUFF
+msgctxt "UI.CRAFTING.NEEDSTUFF"
+msgid "Find ingredients \nto craft!"
+msgstr "Trova gli ingredienti \nper fabbricare!"
+
+#. UI.CRAFTING.NEEDSTUFF_PROTOTYPE
+msgctxt "UI.CRAFTING.NEEDSTUFF_PROTOTYPE"
+msgid "Find ingredients \nto prototype!"
+msgstr "Trova gli ingredienti \nper costruire un prototipo!"
+
+#. UI.CRAFTING.NEEDSTURFCRAFTING
+msgctxt "UI.CRAFTING.NEEDSTURFCRAFTING"
+msgid "Use a Terra Firma Tamper to build a prototype!"
+msgstr "Usa un alteratore del terreno per costruire un prototipo!"
+
+#. UI.CRAFTING.NEEDSWARGSHRINE
+msgctxt "UI.CRAFTING.NEEDSWARGSHRINE"
+msgid "Make an offering at the Varg Shrine!"
+msgstr "Fai un'offerta al santuario del varg!"
+
+#. UI.CRAFTING.NEEDSWINTERSFEASTCOOKING
+msgctxt "UI.CRAFTING.NEEDSWINTERSFEASTCOOKING"
+msgid "Cook this festive meal in the Masonry Oven!"
+msgstr "Prepara questo pasto festivo nel forno in cemento!"
+
+#. UI.CRAFTING.NEEDSWINTERS_FEAST
+msgctxt "UI.CRAFTING.NEEDSWINTERS_FEAST"
+msgid "Available during Winter's Feast!"
+msgstr "Disponibile durante le festività invernali!"
+
+#. UI.CRAFTING.NEEDSYOTB
+msgctxt "UI.CRAFTING.NEEDSYOTB"
+msgid "Available during Year of the Beefalo!"
+msgstr "Disponibile durante l'Anno del Mufalo!"
+
+#. UI.CRAFTING.NEEDSYOTC
+msgctxt "UI.CRAFTING.NEEDSYOTC"
+msgid "Available during Year of the Carrat!"
+msgstr "Disponibile durante l'Anno del caratto!"
+
+#. UI.CRAFTING.NEEDSYOTCATCOON
+msgctxt "UI.CRAFTING.NEEDSYOTCATCOON"
+msgid "Available during Year of the Catcoon!"
+msgstr "Disponibile durante l'Anno del Gattorsetto!"
+
+#. UI.CRAFTING.NEEDSYOTG
+msgctxt "UI.CRAFTING.NEEDSYOTG"
+msgid "Available during Year of the Gobbler!"
+msgstr "Disponibile durante l'Anno del tacchino!"
+
+#. UI.CRAFTING.NEEDSYOTP
+msgctxt "UI.CRAFTING.NEEDSYOTP"
+msgid "Available during Year of the Pig King!"
+msgstr "Disponibile durante l'Anno del re maiale!"
+
+#. UI.CRAFTING.NEEDSYOTV
+msgctxt "UI.CRAFTING.NEEDSYOTV"
+msgid "Available during Year of the Varg!"
+msgstr "Disponibile durante l'Anno del varg!"
+
+#. UI.CRAFTING.PLACE
+msgctxt "UI.CRAFTING.PLACE"
+msgid "Place"
+msgstr "Posiziona"
+
+#. UI.CRAFTING.PROTOTYPE
+msgctxt "UI.CRAFTING.PROTOTYPE"
+msgid "Prototype"
+msgstr "Prototipo"
+
+#. UI.CRAFTING.PROTOTYPE_INGREDIENT
+msgctxt "UI.CRAFTING.PROTOTYPE_INGREDIENT"
+msgid "Prototype Ingredient"
+msgstr "Prototipa ingrediente"
+
+#. UI.CRAFTING.RECIPEACTION.CARNIVAL_HOSTSHOP
+msgctxt "UI.CRAFTING.RECIPEACTION.CARNIVAL_HOSTSHOP"
+msgid "Purchase"
+msgstr "Acquista"
+
+#. UI.CRAFTING.RECIPEACTION.CARNIVAL_PRIZESHOP
+msgctxt "UI.CRAFTING.RECIPEACTION.CARNIVAL_PRIZESHOP"
+msgid "Purchase"
+msgstr "Acquista"
+
+#. UI.CRAFTING.RECIPEACTION.CARTOGRAPHY
+msgctxt "UI.CRAFTING.RECIPEACTION.CARTOGRAPHY"
+msgid "Scribe"
+msgstr "Trascrivi"
+
+#. UI.CRAFTING.RECIPEACTION.COOK
+msgctxt "UI.CRAFTING.RECIPEACTION.COOK"
+msgid "Cook"
+msgstr "Cucina"
+
+#. UI.CRAFTING.RECIPEACTION.MADSCIENCE
+msgctxt "UI.CRAFTING.RECIPEACTION.MADSCIENCE"
+msgid "Mix"
+msgstr "Miscela"
+
+#. UI.CRAFTING.RECIPEACTION.ORPHANAGE
+msgctxt "UI.CRAFTING.RECIPEACTION.ORPHANAGE"
+msgid "Adopt"
+msgstr "Adotta"
+
+#. UI.CRAFTING.RECIPEACTION.PERDOFFERING
+msgctxt "UI.CRAFTING.RECIPEACTION.PERDOFFERING"
+msgid "Offer"
+msgstr "Offri"
+
+#. UI.CRAFTING.RECIPEACTION.SCULPTING
+msgctxt "UI.CRAFTING.RECIPEACTION.SCULPTING"
+msgid "Create"
+msgstr "Crea"
+
+#. UI.CRAFTING.RECIPEACTION.SOCKET
+msgctxt "UI.CRAFTING.RECIPEACTION.SOCKET"
+msgid "Socket"
+msgstr "Inserisci"
+
+#. UI.CRAFTING.RESEARCH
+msgctxt "UI.CRAFTING.RESEARCH"
+msgid "Research"
+msgstr "Ricerca"
+
+#. UI.CRAFTING.TABACTION.CARNIVAL_HOSTSHOP
+msgctxt "UI.CRAFTING.TABACTION.CARNIVAL_HOSTSHOP"
+msgid "Purchase"
+msgstr "Acquista"
+
+#. UI.CRAFTING.TABACTION.CARNIVAL_PRIZESHOP
+msgctxt "UI.CRAFTING.TABACTION.CARNIVAL_PRIZESHOP"
+msgid "Purchase"
+msgstr "Acquista"
+
+#. UI.CRAFTING.TABACTION.CARTOGRAPHY
+msgctxt "UI.CRAFTING.TABACTION.CARTOGRAPHY"
+msgid "Scribe"
+msgstr "Trascrivi"
+
+#. UI.CRAFTING.TABACTION.MADSCIENCE
+msgctxt "UI.CRAFTING.TABACTION.MADSCIENCE"
+msgid "Mix"
+msgstr "Miscela"
+
+#. UI.CRAFTING.TABACTION.ORPHANAGE
+msgctxt "UI.CRAFTING.TABACTION.ORPHANAGE"
+msgid "Adopt"
+msgstr "Adotta"
+
+#. UI.CRAFTING.TABACTION.PERDOFFERING
+msgctxt "UI.CRAFTING.TABACTION.PERDOFFERING"
+msgid "Offer"
+msgstr "Offri"
+
+#. UI.CRAFTING.TABACTION.QUAGMIRE_MEALINGSTONE
+msgctxt "UI.CRAFTING.TABACTION.QUAGMIRE_MEALINGSTONE"
+msgid "Grind"
+msgstr "Macina"
+
+#. UI.CRAFTING.TABACTION.QUAGMIRE_TRADER_ELDER
+msgctxt "UI.CRAFTING.TABACTION.QUAGMIRE_TRADER_ELDER"
+msgid "Trade"
+msgstr "Scambia"
+
+#. UI.CRAFTING.TABACTION.QUAGMIRE_TRADER_KID
+msgctxt "UI.CRAFTING.TABACTION.QUAGMIRE_TRADER_KID"
+msgid "Purchase"
+msgstr "Acquista"
+
+#. UI.CRAFTING.TABACTION.QUAGMIRE_TRADER_MERM1
+msgctxt "UI.CRAFTING.TABACTION.QUAGMIRE_TRADER_MERM1"
+msgid "Purchase"
+msgstr "Acquista"
+
+#. UI.CRAFTING.TABACTION.QUAGMIRE_TRADER_MERM2
+msgctxt "UI.CRAFTING.TABACTION.QUAGMIRE_TRADER_MERM2"
+msgid "Purchase"
+msgstr "Acquista"
+
+#. UI.CRAFTING.TABACTION.QUAGMIRE_TRADER_MUM
+msgctxt "UI.CRAFTING.TABACTION.QUAGMIRE_TRADER_MUM"
+msgid "Purchase"
+msgstr "Acquista"
+
+#. UI.CRAFTING.TABACTION.SCULPTING
+msgctxt "UI.CRAFTING.TABACTION.SCULPTING"
+msgid "Create"
+msgstr "Crea"
+
+#. UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_MEALINGSTONE
+msgctxt "UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_MEALINGSTONE"
+msgid "Find ingredients \nto grind!"
+msgstr "Trova gli ingredienti \nda macinare!"
+
+#. UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_ELDER
+msgctxt "UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_ELDER"
+msgid "Find materials \nto trade!"
+msgstr "Trova materiali \nda scambiare!"
+
+#. UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_KID
+msgctxt "UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_KID"
+msgid "Earn coins to trade!"
+msgstr "Guadagna le monete da scambiare!"
+
+#. UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_MERM1
+msgctxt "UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_MERM1"
+msgid "Earn coins to trade!"
+msgstr "Guadagna le monete da scambiare!"
+
+#. UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_MERM2
+msgctxt "UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_MERM2"
+msgid "Earn coins to trade!"
+msgstr "Guadagna le monete da scambiare!"
+
+#. UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_MUM
+msgctxt "UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_MUM"
+msgid "Earn coins to trade!"
+msgstr "Guadagna le monete da scambiare!"
+
+#. UI.CRAFTING_FILTERS.ARMOUR
+msgctxt "UI.CRAFTING_FILTERS.ARMOUR"
+msgid "Armour"
+msgstr "Armature"
+
+#. UI.CRAFTING_FILTERS.CHARACTER
+msgctxt "UI.CRAFTING_FILTERS.CHARACTER"
+msgid "Survivor Items"
+msgstr "Oggetti dei sopravvissuti"
+
+#. UI.CRAFTING_FILTERS.CLOTHING
+msgctxt "UI.CRAFTING_FILTERS.CLOTHING"
+msgid "Clothing"
+msgstr "Abbigliamento"
+
+#. UI.CRAFTING_FILTERS.CONTAINERS
+msgctxt "UI.CRAFTING_FILTERS.CONTAINERS"
+msgid "Storage Solutions"
+msgstr "Soluzioni di stoccaggio"
+
+#. UI.CRAFTING_FILTERS.COOKING
+msgctxt "UI.CRAFTING_FILTERS.COOKING"
+msgid "Cooking"
+msgstr "Cottura"
+
+#. UI.CRAFTING_FILTERS.CRAFTING_STATION
+msgctxt "UI.CRAFTING_FILTERS.CRAFTING_STATION"
+msgid "All Crafting Stations"
+msgstr "Tutti i banchi da lavoro"
+
+#. UI.CRAFTING_FILTERS.DECOR
+msgctxt "UI.CRAFTING_FILTERS.DECOR"
+msgid "Decorations"
+msgstr "Decorazioni"
+
+#. UI.CRAFTING_FILTERS.EVERYTHING
+msgctxt "UI.CRAFTING_FILTERS.EVERYTHING"
+msgid "Everything"
+msgstr "Tutto"
+
+#. UI.CRAFTING_FILTERS.FAVORITES
+msgctxt "UI.CRAFTING_FILTERS.FAVORITES"
+msgid "Favorites"
+msgstr "Preferiti"
+
+#. UI.CRAFTING_FILTERS.FISHING
+msgctxt "UI.CRAFTING_FILTERS.FISHING"
+msgid "Fishing"
+msgstr "Pesca"
+
+#. UI.CRAFTING_FILTERS.GARDENING
+msgctxt "UI.CRAFTING_FILTERS.GARDENING"
+msgid "Food & Gardening"
+msgstr "Cibo e giardinaggio"
+
+#. UI.CRAFTING_FILTERS.LIGHT
+msgctxt "UI.CRAFTING_FILTERS.LIGHT"
+msgid "Light Sources"
+msgstr "Fonti di luce"
+
+#. UI.CRAFTING_FILTERS.MAGIC
+msgctxt "UI.CRAFTING_FILTERS.MAGIC"
+msgid "Shadow Magic"
+msgstr "Magia delle ombre"
+
+#. UI.CRAFTING_FILTERS.MODS
+msgctxt "UI.CRAFTING_FILTERS.MODS"
+msgid "Modded Items"
+msgstr "Oggetti moddati"
+
+#. UI.CRAFTING_FILTERS.PROTOTYPERS
+msgctxt "UI.CRAFTING_FILTERS.PROTOTYPERS"
+msgid "Prototypers & Stations"
+msgstr "Prototipatori e banchi di lavoro"
+
+#. UI.CRAFTING_FILTERS.RAIN
+msgctxt "UI.CRAFTING_FILTERS.RAIN"
+msgid "Rain Gear"
+msgstr "Oggetti per la pioggia"
+
+#. UI.CRAFTING_FILTERS.REFINE
+msgctxt "UI.CRAFTING_FILTERS.REFINE"
+msgid "Refined Materials"
+msgstr "Materiali raffinati"
+
+#. UI.CRAFTING_FILTERS.RESTORATION
+msgctxt "UI.CRAFTING_FILTERS.RESTORATION"
+msgid "Healing"
+msgstr "Guarisce"
+
+#. UI.CRAFTING_FILTERS.RIDING
+msgctxt "UI.CRAFTING_FILTERS.RIDING"
+msgid "Beefalo Riding"
+msgstr "Cavalcare i mufali"
+
+#. UI.CRAFTING_FILTERS.SEAFARING
+msgctxt "UI.CRAFTING_FILTERS.SEAFARING"
+msgid "Seafaring"
+msgstr "Marina"
+
+#. UI.CRAFTING_FILTERS.SPECIAL_EVENT
+msgctxt "UI.CRAFTING_FILTERS.SPECIAL_EVENT"
+msgid "Special Event"
+msgstr "Eventi speciali"
+
+#. UI.CRAFTING_FILTERS.STRUCTURES
+msgctxt "UI.CRAFTING_FILTERS.STRUCTURES"
+msgid "Structures"
+msgstr "Strutture"
+
+#. UI.CRAFTING_FILTERS.SUMMER
+msgctxt "UI.CRAFTING_FILTERS.SUMMER"
+msgid "Summer Items"
+msgstr "Oggetti estivi"
+
+#. UI.CRAFTING_FILTERS.TOOLS
+msgctxt "UI.CRAFTING_FILTERS.TOOLS"
+msgid "Tools"
+msgstr "Arnesi"
+
+#. UI.CRAFTING_FILTERS.WEAPONS
+msgctxt "UI.CRAFTING_FILTERS.WEAPONS"
+msgid "Weapons"
+msgstr "Armi"
+
+#. UI.CRAFTING_FILTERS.WINTER
+msgctxt "UI.CRAFTING_FILTERS.WINTER"
+msgid "Winter Items"
+msgstr "Oggetti invernali"
+
+#. UI.CRAFTING_MENU.FAVORITE_ADD
+msgctxt "UI.CRAFTING_MENU.FAVORITE_ADD"
+msgid "Add Favorite"
+msgstr "Aggiungi ai Preferiti"
+
+#. UI.CRAFTING_MENU.FAVORITE_REMOVE
+msgctxt "UI.CRAFTING_MENU.FAVORITE_REMOVE"
+msgid "Remove Favorite"
+msgstr "Rimuovi dai Preferiti"
+
+#. UI.CRAFTING_MENU.NAVIGATION
+msgctxt "UI.CRAFTING_MENU.NAVIGATION"
+msgid "Navigation"
+msgstr "Navigazione"
+
+#. UI.CRAFTING_MENU.NO_ITEMS
+msgctxt "UI.CRAFTING_MENU.NO_ITEMS"
+msgid "No items match the current filter."
+msgstr "Nessun oggetto soddisfa il filtro attuale."
+
+#. UI.CRAFTING_MENU.PIN
+msgctxt "UI.CRAFTING_MENU.PIN"
+msgid "Pin"
+msgstr "Appunta"
+
+#. UI.CRAFTING_MENU.SEARCH
+msgctxt "UI.CRAFTING_MENU.SEARCH"
+msgid "Search"
+msgstr "Ricerca"
+
+#. UI.CRAFTING_MENU.SORTING.CRAFTABLE
+msgctxt "UI.CRAFTING_MENU.SORTING.CRAFTABLE"
+msgid "Craftable"
+msgstr "Forgiabile"
+
+#. UI.CRAFTING_MENU.SORTING.DEFAULT
+msgctxt "UI.CRAFTING_MENU.SORTING.DEFAULT"
+msgid "Default"
+msgstr "Predefinito"
+
+#. UI.CRAFTING_MENU.SORTING.FAVORITE
+msgctxt "UI.CRAFTING_MENU.SORTING.FAVORITE"
+msgid "Favorite"
+msgstr "Preferiti"
+
+#. UI.CRAFTING_MENU.SORTING.NAME
+msgctxt "UI.CRAFTING_MENU.SORTING.NAME"
+msgid "Alphabetical"
+msgstr "Alfabetico"
+
+#. UI.CRAFTING_MENU.SORT_MODE_FMT
+msgctxt "UI.CRAFTING_MENU.SORT_MODE_FMT"
+msgid "Sort Mode: {mode}"
+msgstr "Modalità ordine: {mode}"
+
+#. UI.CRAFTING_MENU.UNPIN
+msgctxt "UI.CRAFTING_MENU.UNPIN"
+msgid "Unpin"
+msgstr "Spunta"
+
+#. UI.CRAFTING_STATION_FILTERS.ANCIENT
+msgctxt "UI.CRAFTING_STATION_FILTERS.ANCIENT"
+msgid "Ancient Pseudoscience"
+msgstr "Antica pseudoscienza"
+
+#. UI.CRAFTING_STATION_FILTERS.CARNIVAL_HOSTSHOP
+msgctxt "UI.CRAFTING_STATION_FILTERS.CARNIVAL_HOSTSHOP"
+msgid "Cawnival Creation"
+msgstr "Creazione del cranevale"
+
+#. UI.CRAFTING_STATION_FILTERS.CARNIVAL_PRIZESHOP
+msgctxt "UI.CRAFTING_STATION_FILTERS.CARNIVAL_PRIZESHOP"
+msgid "Trinket Trove"
+msgstr "Raccolta ninnoli"
+
+#. UI.CRAFTING_STATION_FILTERS.CARTOGRAPHY
+msgctxt "UI.CRAFTING_STATION_FILTERS.CARTOGRAPHY"
+msgid "Cartography"
+msgstr "Cartografia"
+
+#. UI.CRAFTING_STATION_FILTERS.CELESTIAL
+msgctxt "UI.CRAFTING_STATION_FILTERS.CELESTIAL"
+msgid "Celestial"
+msgstr "Celestiale"
+
+#. UI.CRAFTING_STATION_FILTERS.FOODPROCESSING
+msgctxt "UI.CRAFTING_STATION_FILTERS.FOODPROCESSING"
+msgid "Seasonings"
+msgstr "Condimenti"
+
+#. UI.CRAFTING_STATION_FILTERS.HERMITCRABSHOP
+msgctxt "UI.CRAFTING_STATION_FILTERS.HERMITCRABSHOP"
+msgid "Bottle Exchange"
+msgstr "Scambio di bottiglie"
+
+#. UI.CRAFTING_STATION_FILTERS.MADSCIENCE
+msgctxt "UI.CRAFTING_STATION_FILTERS.MADSCIENCE"
+msgid "Mad Science"
+msgstr "Scienza folle"
+
+#. UI.CRAFTING_STATION_FILTERS.ORPHANAGE
+msgctxt "UI.CRAFTING_STATION_FILTERS.ORPHANAGE"
+msgid "Critters"
+msgstr "Mostriciattoli"
+
+#. UI.CRAFTING_STATION_FILTERS.SCULPTING
+msgctxt "UI.CRAFTING_STATION_FILTERS.SCULPTING"
+msgid "Sculptures"
+msgstr "Sculture"
+
+#. UI.CRAFTING_STATION_FILTERS.SHADOW
+msgctxt "UI.CRAFTING_STATION_FILTERS.SHADOW"
+msgid "Codex Umbra"
+msgstr "Codice Umbra"
+
+#. UI.CRAFTING_STATION_FILTERS.WINTERSFEASTCOOKING
+msgctxt "UI.CRAFTING_STATION_FILTERS.WINTERSFEASTCOOKING"
+msgid "Winter's Feast Cooking"
+msgstr "Cucina per le festività invernali"
+
+#. UI.CRAFTING_STATION_FILTERS.YOT_SHRINE_DOFFERING
+msgctxt "UI.CRAFTING_STATION_FILTERS.YOT_SHRINE_DOFFERING"
+msgid "Offerings"
+msgstr "Offerte"
+

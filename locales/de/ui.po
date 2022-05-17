@@ -1,0 +1,2460 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.ACCOUNT.CANCEL
+msgctxt "UI.ACCOUNT.CANCEL"
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#. UI.ACCOUNT.CDKEY
+msgctxt "UI.ACCOUNT.CDKEY"
+msgid "Don't Starve CD-Key"
+msgstr "CD-Schlüssel für Don't Starve"
+
+#. UI.ACCOUNT.CREATE
+msgctxt "UI.ACCOUNT.CREATE"
+msgid "Create"
+msgstr "Erstellen"
+
+#. UI.ACCOUNT.EMAIL
+msgctxt "UI.ACCOUNT.EMAIL"
+msgid "Email"
+msgstr "E-Mail"
+
+#. UI.ACCOUNT.LAN
+msgctxt "UI.ACCOUNT.LAN"
+msgid "LAN"
+msgstr "LAN"
+
+#. UI.ACCOUNT.LINKSTEAMACCOUNT
+msgctxt "UI.ACCOUNT.LINKSTEAMACCOUNT"
+msgid "Link Steam Account"
+msgstr "Steam-Konto verknüpfen"
+
+#. UI.ACCOUNT.LOGIN
+msgctxt "UI.ACCOUNT.LOGIN"
+msgid "Login"
+msgstr "Anmelden"
+
+#. UI.ACCOUNT.LOGINWITHSTEAM
+msgctxt "UI.ACCOUNT.LOGINWITHSTEAM"
+msgid "Login With Steam"
+msgstr "Mit Steam anmelden"
+
+#. UI.ACCOUNT.PASSWORD
+msgctxt "UI.ACCOUNT.PASSWORD"
+msgid "Password"
+msgstr "Passwort"
+
+#. UI.ACCOUNT.REGISTER
+msgctxt "UI.ACCOUNT.REGISTER"
+msgid "Register"
+msgstr "Registrieren"
+
+#. UI.ACCOUNT.USERNAME
+msgctxt "UI.ACCOUNT.USERNAME"
+msgid "User Name"
+msgstr "Benutzername"
+
+#. UI.BARTERSCREEN.CANCEL
+msgctxt "UI.BARTERSCREEN.CANCEL"
+msgid "Never mind"
+msgstr "Egal"
+
+#. UI.BARTERSCREEN.COMMERCE_BUY
+msgctxt "UI.BARTERSCREEN.COMMERCE_BUY"
+msgid "Weave"
+msgstr "Weben"
+
+#. UI.BARTERSCREEN.COMMERCE_GRIND
+msgctxt "UI.BARTERSCREEN.COMMERCE_GRIND"
+msgid "Unravel"
+msgstr "Auflösen"
+
+#. UI.BARTERSCREEN.COMMERCE_GRIND_DUPES
+msgctxt "UI.BARTERSCREEN.COMMERCE_GRIND_DUPES"
+msgid "Unravel Duplicates"
+msgstr "Duplikate auflösen"
+
+#. UI.BARTERSCREEN.COMMERCE_INFO_BUY
+msgctxt "UI.BARTERSCREEN.COMMERCE_INFO_BUY"
+msgid "Use {doodad_value} Spools to weave this curio."
+msgstr "Verwende {doodad_value} Spulen, um diesen Curio zu weben."
+
+#. UI.BARTERSCREEN.COMMERCE_INFO_GRIND
+msgctxt "UI.BARTERSCREEN.COMMERCE_INFO_GRIND"
+msgid "This curio can be unraveled into {doodad_value} Spools."
+msgstr "Dieser Curio lässt sich in {doodad_value} Spulen auflösen."
+
+#. UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_NEVER
+msgctxt "UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_NEVER"
+msgid "This curio is not weaveable."
+msgstr "Dieser Curio kann nicht gewebt werden."
+
+#. UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_NOT_ACTIVE
+msgctxt "UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_NOT_ACTIVE"
+msgid "This curio is not currently weaveable."
+msgstr "Dieser Curio kann momentan nicht gewebt werden."
+
+#. UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_UNOWNED
+msgctxt "UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_UNOWNED"
+msgid "You must have {character} unlocked to weave this item from Spools."
+msgstr "Du musst {character} freigeschaltet haben, um diesen Gegenstand aus den Spulen zu weben."
+
+#. UI.BARTERSCREEN.COMMERCE_INFO_NOGRIND
+msgctxt "UI.BARTERSCREEN.COMMERCE_INFO_NOGRIND"
+msgid "This curio cannot be unraveled."
+msgstr "Dieser Curio kann nicht aufgelöst werden."
+
+#. UI.BARTERSCREEN.CONFIRM_BUY_FMT
+msgctxt "UI.BARTERSCREEN.CONFIRM_BUY_FMT"
+msgid "Use {doodad_count} Spools to weave item: {item_name}?\n\nYou will be left with {doodad_net} Spools.\nSpools are used to weave \"Woven\" rarity curios."
+msgstr "Verwenden {doodad_count} Spulen, um Folgendes zu weben: {item_name}?\n\nDanach bleiben dir noch {doodad_net} Spulen.\nMit Spulen lassen sich seltene \"gewebte\" Curios weben."
+
+#. UI.BARTERSCREEN.CONFIRM_GRIND_DUPES_FMT
+msgctxt "UI.BARTERSCREEN.CONFIRM_GRIND_DUPES_FMT"
+msgid "Unravel {count} duplicates into {doodad_count} Spools?\n\nYou will have a total of {doodad_net} Spools."
+msgstr "{count} Duplikate in {doodad_count} Spulen auflösen?\n\nDu erhältst {doodad_net} Spulen."
+
+#. UI.BARTERSCREEN.CONFIRM_GRIND_DUPE_FMT
+msgctxt "UI.BARTERSCREEN.CONFIRM_GRIND_DUPE_FMT"
+msgid "Unravel 1 duplicate into {doodad_count} Spools?\n\nYou will have a total of {doodad_net} Spools."
+msgstr "1 Duplikat in {doodad_count} Spulen auflösen?\n\nDu erhältst {doodad_net} Spulen."
+
+#. UI.BARTERSCREEN.CONFIRM_GRIND_FMT
+msgctxt "UI.BARTERSCREEN.CONFIRM_GRIND_FMT"
+msgid "Unravel this {item_name} into {doodad_count} Spools?\n\nYou will have a total of {doodad_net} Spools.\nSpools are used to weave \"Woven\" rarity curios."
+msgstr "Soll der Gegenstand \"{item_name}\" in {doodad_count} Spulen aufgelöst werden?\n\nDanach bleiben dir noch {doodad_net} Spulen.\nMit Spulen lassen sich seltene \"gewebte\" Curios weben."
+
+#. UI.BARTERSCREEN.FAILED_BODY
+msgctxt "UI.BARTERSCREEN.FAILED_BODY"
+msgid "Sorry!\nFailed to contact Klei Servers. Please try again."
+msgstr "Sorry!\nVerbindung zu Klei-Servern konnte nicht hergestellt werden. Versuch es noch einmal."
+
+#. UI.BARTERSCREEN.FAILED_TITLE
+msgctxt "UI.BARTERSCREEN.FAILED_TITLE"
+msgid "Connection failure"
+msgstr "Verbindungsfehler"
+
+#. UI.BARTERSCREEN.FAIL_BUY_FMT
+msgctxt "UI.BARTERSCREEN.FAIL_BUY_FMT"
+msgid "{doodad_count} Spools are required to weave item: {item_name}.\n\nYou need {doodad_net} more Spool(s) to weave this item.\nSpools can be obtained by unraveling curios."
+msgstr "Du brauchst {doodad_count} Spulen, um diesen Gegenstand zu weben: {item_name}.\n\nDu brauchst {doodad_net} weitere Spule(n), um diesen Gegenstand zu weben.\nFür Spulen musst du Curios auflösen."
+
+#. UI.BARTERSCREEN.NO_MARKET
+msgctxt "UI.BARTERSCREEN.NO_MARKET"
+msgid "This curio cannot be traded or sold."
+msgstr "Dieser Curio kann nicht getauscht oder verkauft werden."
+
+#. UI.BARTERSCREEN.OK
+msgctxt "UI.BARTERSCREEN.OK"
+msgid "OK"
+msgstr "OK"
+
+#. UI.BARTERSCREEN.TITLE
+msgctxt "UI.BARTERSCREEN.TITLE"
+msgid "The Curio Loom"
+msgstr "Curio-Webstuhl"
+
+#. UI.BARTERSCREEN.UNRAVEL_WARNING_BODY
+msgctxt "UI.BARTERSCREEN.UNRAVEL_WARNING_BODY"
+msgid "Unraveling this item will break your {ensemble_name} and cause you to lose access to the Reward item, {reward_name}."
+msgstr "Wenn du diesen Gegenstand auflöst, wird dein Ensemle {ensemble_name} zerstört und du verlierst den Bonus-Gegenstand {reward_name}."
+
+#. UI.BARTERSCREEN.UNRAVEL_WARNING_RESTRICTED_BODY
+msgctxt "UI.BARTERSCREEN.UNRAVEL_WARNING_RESTRICTED_BODY"
+msgid "You will no longer be able to play as {character} if you unravel this item. You'll also lose access to all the items you own that are character-specific to {character}, although you'll be able to unravel them, if you wish."
+msgstr "Du kannst nicht mehr als {character} spielen, wenn du diesen Gegenstand entwirrst. Du verlierst auch den Zugriff auf alle Gegenstände, die du besitzt und die charakterspezifisch für {character} sind. Du kannst sie aber entwirren, wenn du möchtest."
+
+#. UI.BARTERSCREEN.UNRAVEL_WARNING_TITLE
+msgctxt "UI.BARTERSCREEN.UNRAVEL_WARNING_TITLE"
+msgid "Warning!"
+msgstr "Warnung!"
+
+#. UI.BEARDSCREEN.BEARD_NAMES.1
+msgctxt "UI.BEARDSCREEN.BEARD_NAMES.1"
+msgid "Trimmed"
+msgstr "Gekürzt"
+
+#. UI.BEARDSCREEN.BEARD_NAMES.2
+msgctxt "UI.BEARDSCREEN.BEARD_NAMES.2"
+msgid "Groomed"
+msgstr "Frisiert"
+
+#. UI.BEARDSCREEN.BEARD_NAMES.3
+msgctxt "UI.BEARDSCREEN.BEARD_NAMES.3"
+msgid "Magnificent"
+msgstr "ausgezeichnetes"
+
+#. UI.BOAT.HEALTH
+msgctxt "UI.BOAT.HEALTH"
+msgid "Boat Health: "
+msgstr "Bootszustand: "
+
+#. UI.BOX_POPUP.OK
+msgctxt "UI.BOX_POPUP.OK"
+msgid "OK"
+msgstr "OK"
+
+#. UI.BOX_POPUP.SERVER_ERROR_BODY
+msgctxt "UI.BOX_POPUP.SERVER_ERROR_BODY"
+msgid "There was an error while opening your Chest. Please log in again to refresh your account inventory."
+msgstr "Beim Öffnen der Truhe ist ein Fehler aufgetreten. Logge dich erneut ein, um dein Inventar zu aktualisieren."
+
+#. UI.BOX_POPUP.SERVER_ERROR_TITLE
+msgctxt "UI.BOX_POPUP.SERVER_ERROR_TITLE"
+msgid "Error Opening Chest"
+msgstr "Fehler beim Öffnen der Truhe"
+
+#. UI.BOX_POPUP.SERVER_NO_ITEM_BODY
+msgctxt "UI.BOX_POPUP.SERVER_NO_ITEM_BODY"
+msgid "This Chest contained items that are not supported by your current game version. Please exit and update your game."
+msgstr "Diese Truhe enthielt Gegenstände, die von deiner aktuellen Spielversion nicht unterstützt werden. Bitte beende das Spiel und aktualisiere es."
+
+#. UI.BOX_POPUP.TITLE
+msgctxt "UI.BOX_POPUP.TITLE"
+msgid "You received..."
+msgstr "Du hast erhalten ..."
+
+#. UI.BUGREPORTSCREEN.CANCEL_SUBMIT_BODY
+msgctxt "UI.BUGREPORTSCREEN.CANCEL_SUBMIT_BODY"
+msgid "You have not submitted your report.\nAre you sure you want to cancel?"
+msgstr "Du hast keinen Bericht abgeschickt.\nMöchtest du wirklich abbrechen?"
+
+#. UI.BUGREPORTSCREEN.CANCEL_SUBMIT_HEADER
+msgctxt "UI.BUGREPORTSCREEN.CANCEL_SUBMIT_HEADER"
+msgid "Cancel Bug Report?"
+msgstr "Fehlerbericht abbrechen?"
+
+#. UI.BUGREPORTSCREEN.CHANGE_BUG_DESCRIPTION
+msgctxt "UI.BUGREPORTSCREEN.CHANGE_BUG_DESCRIPTION"
+msgid "Change Bug Description"
+msgstr "Fehlerbeschreibung ändern"
+
+#. UI.BUGREPORTSCREEN.DESCRIPTION_LABEL
+msgctxt "UI.BUGREPORTSCREEN.DESCRIPTION_LABEL"
+msgid "Please describe your issue."
+msgstr "Bitte beschreibe das Problem."
+
+#. UI.BUGREPORTSCREEN.ENTER_BUG_DESCRIPTION
+msgctxt "UI.BUGREPORTSCREEN.ENTER_BUG_DESCRIPTION"
+msgid "Enter Bug Description"
+msgstr "Fehlerbeschreibung eingeben"
+
+#. UI.BUGREPORTSCREEN.NO
+msgctxt "UI.BUGREPORTSCREEN.NO"
+msgid "No"
+msgstr "Nein"
+
+#. UI.BUGREPORTSCREEN.OK
+msgctxt "UI.BUGREPORTSCREEN.OK"
+msgid "OK"
+msgstr "OK"
+
+#. UI.BUGREPORTSCREEN.SUBMIT
+msgctxt "UI.BUGREPORTSCREEN.SUBMIT"
+msgid "Submit"
+msgstr "Absenden"
+
+#. UI.BUGREPORTSCREEN.SUBMITTING_TEXT
+msgctxt "UI.BUGREPORTSCREEN.SUBMITTING_TEXT"
+msgid "Submitting files, please wait"
+msgstr "Dateien werden gesendet. Bitte warten."
+
+#. UI.BUGREPORTSCREEN.SUBMIT_DIALOG_BODY
+msgctxt "UI.BUGREPORTSCREEN.SUBMIT_DIALOG_BODY"
+msgid "Submitting a bug report will upload your game information and saved worlds to Klei to help us analyze the issue.\n\nThis may take several minutes."
+msgstr "Wenn du einen Fehlerbericht abschickst, werden deine Spielangaben und gespeicherten Welten zu Klei hochgeladen, damit das Problem analysiert werden kann.\n\nDas kann ein paar Minuten dauern."
+
+#. UI.BUGREPORTSCREEN.SUBMIT_DIALOG_HEADER
+msgctxt "UI.BUGREPORTSCREEN.SUBMIT_DIALOG_HEADER"
+msgid "Submit Bug Report?"
+msgstr "Fehlerbericht abschicken?"
+
+#. UI.BUGREPORTSCREEN.SUBMIT_FAILURE_TEXT
+msgctxt "UI.BUGREPORTSCREEN.SUBMIT_FAILURE_TEXT"
+msgid "There was a problem uploading your files."
+msgstr "Deinen Dateien konnten nicht hochgeladen werden."
+
+#. UI.BUGREPORTSCREEN.SUBMIT_FAILURE_TITLE
+msgctxt "UI.BUGREPORTSCREEN.SUBMIT_FAILURE_TITLE"
+msgid "Error"
+msgstr "Fehler"
+
+#. UI.BUGREPORTSCREEN.SUBMIT_SUCCESS
+msgctxt "UI.BUGREPORTSCREEN.SUBMIT_SUCCESS"
+msgid "Files successfully uploaded. Thanks for the report!"
+msgstr "Dateien erfolgreich hochgeladen. Danke für den Bericht!"
+
+#. UI.BUGREPORTSCREEN.SUBMIT_SUCCESS_TITLE
+msgctxt "UI.BUGREPORTSCREEN.SUBMIT_SUCCESS_TITLE"
+msgid "Success"
+msgstr "Erfolg"
+
+#. UI.BUGREPORTSCREEN.SUBMIT_TEXT_PLACEHOLDER
+msgctxt "UI.BUGREPORTSCREEN.SUBMIT_TEXT_PLACEHOLDER"
+msgid "Please enter a description of the bug you are experiencing and any details that you feel may aid us in fixing it."
+msgstr "Bitte beschreibe das Problem und gib alles an, was uns helfen könnte, den Fehler zu beheben."
+
+#. UI.BUGREPORTSCREEN.YES
+msgctxt "UI.BUGREPORTSCREEN.YES"
+msgid "Yes"
+msgstr "Ja"
+
+#. UI.CHARACTERSELECT.APPLY
+msgctxt "UI.CHARACTERSELECT.APPLY"
+msgid "Apply"
+msgstr "Übernehmen"
+
+#. UI.CHARACTERSELECT.CANCEL
+msgctxt "UI.CHARACTERSELECT.CANCEL"
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#. UI.CHARACTERSELECT.DISCONNECT
+msgctxt "UI.CHARACTERSELECT.DISCONNECT"
+msgid "Disconnect"
+msgstr "Verbindung trennen"
+
+#. UI.CHARACTERSELECT.SELECT
+msgctxt "UI.CHARACTERSELECT.SELECT"
+msgid "Select"
+msgstr "Auswählen"
+
+#. UI.CHATINPUTSCREEN.HELP_OPEN_VIRTUAL_KEYBOARD
+msgctxt "UI.CHATINPUTSCREEN.HELP_OPEN_VIRTUAL_KEYBOARD"
+msgid "Open Keyboard"
+msgstr ""
+
+#. UI.CHATINPUTSCREEN.HELP_SAY
+msgctxt "UI.CHATINPUTSCREEN.HELP_SAY"
+msgid "Say"
+msgstr "Sagen"
+
+#. UI.CHATINPUTSCREEN.HELP_WHISPER
+msgctxt "UI.CHATINPUTSCREEN.HELP_WHISPER"
+msgid "Whisper"
+msgstr "Flüstern"
+
+#. UI.CHATINPUTSCREEN.SAY
+msgctxt "UI.CHATINPUTSCREEN.SAY"
+msgid "say:"
+msgstr "sagen:"
+
+#. UI.CHATINPUTSCREEN.STEAMDECK_MSG_PROMPT
+msgctxt "UI.CHATINPUTSCREEN.STEAMDECK_MSG_PROMPT"
+msgid "Message:"
+msgstr ""
+
+#. UI.CHATINPUTSCREEN.WHISPER
+msgctxt "UI.CHATINPUTSCREEN.WHISPER"
+msgid "whisper:"
+msgstr "flüster:"
+
+#. UI.CHATINPUTSCREEN.WHISPER_DESIGNATOR
+msgctxt "UI.CHATINPUTSCREEN.WHISPER_DESIGNATOR"
+msgid "[W]"
+msgstr "[W]"
+
+#. UI.CLOUDSERVERCREATIONSCREEN.CREATE
+msgctxt "UI.CLOUDSERVERCREATIONSCREEN.CREATE"
+msgid "Create Match"
+msgstr "Match erstellen"
+
+#. UI.CLOUDSERVERCREATIONSCREEN.TITLE
+msgctxt "UI.CLOUDSERVERCREATIONSCREEN.TITLE"
+msgid "Custom Match"
+msgstr "Benutzerdefiniertes Match"
+
+#. UI.COLLECTIONSCREEN.BEARD
+msgctxt "UI.COLLECTIONSCREEN.BEARD"
+msgid "Beards"
+msgstr "Bärte"
+
+#. UI.COLLECTIONSCREEN.EMOJI
+msgctxt "UI.COLLECTIONSCREEN.EMOJI"
+msgid "Emoticons"
+msgstr "Emoticons"
+
+#. UI.COLLECTIONSCREEN.EMOTE
+msgctxt "UI.COLLECTIONSCREEN.EMOTE"
+msgid "Emotes"
+msgstr "Gesten"
+
+#. UI.COLLECTIONSCREEN.FAILED_TO_LOAD
+msgctxt "UI.COLLECTIONSCREEN.FAILED_TO_LOAD"
+msgid "Sorry!\nWe've temporarily misplaced your curios.\nPlease try again later."
+msgstr "Sorry!\nWir finden deine Curios gerade nicht.\nVersuch es später noch einmal."
+
+#. UI.COLLECTIONSCREEN.GAMEITEM
+msgctxt "UI.COLLECTIONSCREEN.GAMEITEM"
+msgid "Belongings"
+msgstr "Eigentum"
+
+#. UI.COLLECTIONSCREEN.LOADERS
+msgctxt "UI.COLLECTIONSCREEN.LOADERS"
+msgid "Vignettes"
+msgstr "Vignetten"
+
+#. UI.COLLECTIONSCREEN.NEW
+msgctxt "UI.COLLECTIONSCREEN.NEW"
+msgid "New!"
+msgstr "Neu!"
+
+#. UI.COLLECTIONSCREEN.PORTRAITBACKGROUNDS
+msgctxt "UI.COLLECTIONSCREEN.PORTRAITBACKGROUNDS"
+msgid "Portrait Frames"
+msgstr "Profilbilderrahmen"
+
+#. UI.COLLECTIONSCREEN.PROFILEFLAIR
+msgctxt "UI.COLLECTIONSCREEN.PROFILEFLAIR"
+msgid "Profile Icons"
+msgstr "Profilsymbole"
+
+#. UI.COLLECTIONSCREEN.SET_INFO
+msgctxt "UI.COLLECTIONSCREEN.SET_INFO"
+msgid "Ensemble"
+msgstr "Ensemble"
+
+#. UI.COLLECTIONSCREEN.SKINS
+msgctxt "UI.COLLECTIONSCREEN.SKINS"
+msgid "Wardrobe"
+msgstr "Kleiderschrank"
+
+#. UI.COLLECTIONSCREEN.TITLE
+msgctxt "UI.COLLECTIONSCREEN.TITLE"
+msgid "Curio Cabinet"
+msgstr "Curio-Schrank"
+
+#. UI.COLLECTIONSCREEN.TOOLTIP_BEARD
+msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_BEARD"
+msgid "View your character beards"
+msgstr "Charakterbärte aufrufen"
+
+#. UI.COLLECTIONSCREEN.TOOLTIP_EMOJI
+msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_EMOJI"
+msgid "View your available chat icons"
+msgstr "Zeig deine verfügbaren Chat-Symbole an."
+
+#. UI.COLLECTIONSCREEN.TOOLTIP_EMOTE
+msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_EMOTE"
+msgid "View your character emotes"
+msgstr "Charaktergesten aufrufen"
+
+#. UI.COLLECTIONSCREEN.TOOLTIP_GAMEITEM
+msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_GAMEITEM"
+msgid "View your skins for craftable in-game items"
+msgstr "Skins für herstellbare Gegenstände aufrufen"
+
+#. UI.COLLECTIONSCREEN.TOOLTIP_LOADERS
+msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_LOADERS"
+msgid "Select loading screens to display between games"
+msgstr "Wähle Bildschirme an, die beim Laden zwischen den Spielen angezeigt werden sollen."
+
+#. UI.COLLECTIONSCREEN.TOOLTIP_PORTRAITBACKGROUNDS
+msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_PORTRAITBACKGROUNDS"
+msgid "Equip new backgrounds to your characters' portraits"
+msgstr "Füge neue Hintergrundbilder zu den Profilfotos deiner Charaktere hinzu."
+
+#. UI.COLLECTIONSCREEN.TOOLTIP_PROFILEFLAIR
+msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_PROFILEFLAIR"
+msgid "Select an icon for your profile"
+msgstr "Wähle ein Symbol für dein Profil aus."
+
+#. UI.COLLECTIONSCREEN.TOOLTIP_SKINS
+msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_SKINS"
+msgid "View and equip your character skins"
+msgstr "Sieh deine Charakter-Skins an und verwende sie."
+
+#. UI.COLLECTIONSCREEN.VIEW_MARKET
+msgctxt "UI.COLLECTIONSCREEN.VIEW_MARKET"
+msgid "Steam"
+msgstr "Steam"
+
+#. UI.COLOUR.Black
+msgctxt "UI.COLOUR.Black"
+msgid "Black"
+msgstr "Schwarz"
+
+#. UI.COLOUR.Blue
+msgctxt "UI.COLOUR.Blue"
+msgid "Blue"
+msgstr "Blau"
+
+#. UI.COLOUR.Brown
+msgctxt "UI.COLOUR.Brown"
+msgid "Brown"
+msgstr "Braun"
+
+#. UI.COLOUR.Green
+msgctxt "UI.COLOUR.Green"
+msgid "Green"
+msgstr "Grün"
+
+#. UI.COLOUR.Grey
+msgctxt "UI.COLOUR.Grey"
+msgid "Gray"
+msgstr "Grau"
+
+#. UI.COLOUR.Navy
+msgctxt "UI.COLOUR.Navy"
+msgid "Navy"
+msgstr "Marineblau"
+
+#. UI.COLOUR.Orange
+msgctxt "UI.COLOUR.Orange"
+msgid "Orange"
+msgstr "Orange"
+
+#. UI.COLOUR.Pink
+msgctxt "UI.COLOUR.Pink"
+msgid "Pink"
+msgstr "Pink"
+
+#. UI.COLOUR.Purple
+msgctxt "UI.COLOUR.Purple"
+msgid "Purple"
+msgstr "Lila"
+
+#. UI.COLOUR.Red
+msgctxt "UI.COLOUR.Red"
+msgid "Red"
+msgstr "Rot"
+
+#. UI.COLOUR.Tan
+msgctxt "UI.COLOUR.Tan"
+msgid "Tan"
+msgstr "Hellbraun"
+
+#. UI.COLOUR.Teal
+msgctxt "UI.COLOUR.Teal"
+msgid "Teal"
+msgstr "Blaugrün"
+
+#. UI.COLOUR.White
+msgctxt "UI.COLOUR.White"
+msgid "White"
+msgstr "Weiß"
+
+#. UI.COLOUR.Yellow
+msgctxt "UI.COLOUR.Yellow"
+msgid "Yellow"
+msgstr "Gelb"
+
+#. UI.COMMANDSSCREEN.CANCEL
+msgctxt "UI.COMMANDSSCREEN.CANCEL"
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#. UI.COMMANDSSCREEN.CONFIRMBODY
+msgctxt "UI.COMMANDSSCREEN.CONFIRMBODY"
+msgid "Are you sure?"
+msgstr "Bist du sicher?"
+
+#. UI.COMMANDSSCREEN.CONFIRMTITLE
+msgctxt "UI.COMMANDSSCREEN.CONFIRMTITLE"
+msgid "Really %s?"
+msgstr "Echt %s?"
+
+#. UI.COMMANDSSCREEN.CONFIRMTITLE_TARGET
+msgctxt "UI.COMMANDSSCREEN.CONFIRMTITLE_TARGET"
+msgid "Really %s %s?"
+msgstr "Echt %s, %s?"
+
+#. UI.COMMANDSSCREEN.HIDE_SERVERNAME
+msgctxt "UI.COMMANDSSCREEN.HIDE_SERVERNAME"
+msgid "Hide Server Name"
+msgstr "Servername ausblenden"
+
+#. UI.COMMANDSSCREEN.SERVERSUBTITLE
+msgctxt "UI.COMMANDSSCREEN.SERVERSUBTITLE"
+msgid "Actions for"
+msgstr "Aktionen für"
+
+#. UI.COMMANDSSCREEN.SERVERTITLE
+msgctxt "UI.COMMANDSSCREEN.SERVERTITLE"
+msgid "The Server"
+msgstr "Der Server"
+
+#. UI.COMMANDSSCREEN.SHOW_SERVERNAME
+msgctxt "UI.COMMANDSSCREEN.SHOW_SERVERNAME"
+msgid "Show Server Name"
+msgstr "Servername einblenden"
+
+#. UI.COMMANDSSCREEN.USERSUBTITLE
+msgctxt "UI.COMMANDSSCREEN.USERSUBTITLE"
+msgid "User Actions for"
+msgstr "Benutzeraktionen für"
+
+#. UI.COMMANDSSCREEN.VOTEFMT
+msgctxt "UI.COMMANDSSCREEN.VOTEFMT"
+msgid "%s (vote)"
+msgstr "%s (abstimmen)"
+
+#. UI.COMMANDWHEEL.EMOTES
+msgctxt "UI.COMMANDWHEEL.EMOTES"
+msgid "Emotes"
+msgstr "Gesten"
+
+#. UI.COMMANDWHEEL.INVITE
+msgctxt "UI.COMMANDWHEEL.INVITE"
+msgid "Send Invitation"
+msgstr "Einladung senden"
+
+#. UI.COMMANDWHEEL.PLAYERLIST
+msgctxt "UI.COMMANDWHEEL.PLAYERLIST"
+msgid "Player Listing"
+msgstr "Spielerliste"
+
+#. UI.COMMANDWHEEL.SAY
+msgctxt "UI.COMMANDWHEEL.SAY"
+msgid "Say"
+msgstr "Sagen"
+
+#. UI.COMMANDWHEEL.USERCOMMANDS
+msgctxt "UI.COMMANDWHEEL.USERCOMMANDS"
+msgid "Miscellaneous"
+msgstr "Sonstiges"
+
+#. UI.COMMANDWHEEL.WHISPER
+msgctxt "UI.COMMANDWHEEL.WHISPER"
+msgid "Whisper"
+msgstr "Flüstern"
+
+#. UI.COMPENDIUM.CAUSEOFDEATH_OTHER
+msgctxt "UI.COMPENDIUM.CAUSEOFDEATH_OTHER"
+msgid "Other"
+msgstr "Sonstiges"
+
+#. UI.COMPENDIUM.CHARACTERDETAILS
+msgctxt "UI.COMPENDIUM.CHARACTERDETAILS"
+msgid "Survivors"
+msgstr "Überlebende"
+
+#. UI.COMPENDIUM.CINEMATICS
+msgctxt "UI.COMPENDIUM.CINEMATICS"
+msgid "Cinematics"
+msgstr "Cinematic"
+
+#. UI.COMPENDIUM.COOKBOOKPANEL
+msgctxt "UI.COMPENDIUM.COOKBOOKPANEL"
+msgid "Cookbook"
+msgstr "Kochbuch"
+
+#. UI.COMPENDIUM.ENCOUNTERS
+msgctxt "UI.COMPENDIUM.ENCOUNTERS"
+msgid "Encounters"
+msgstr "Begegnungen"
+
+#. UI.COMPENDIUM.HISTORYOFTRAVELS
+msgctxt "UI.COMPENDIUM.HISTORYOFTRAVELS"
+msgid "History of Travels"
+msgstr "Reiseverlauf"
+
+#. UI.COMPENDIUM.OBITUARIES
+msgctxt "UI.COMPENDIUM.OBITUARIES"
+msgid "Obituaries"
+msgstr "Todesanzeigen"
+
+#. UI.COMPENDIUM.PLANTREGISTRYPANEL
+msgctxt "UI.COMPENDIUM.PLANTREGISTRYPANEL"
+msgid "Plant Registry"
+msgstr "Pflanzenregister"
+
+#. UI.COMPENDIUM.TOOLTIP_CHARACTERDETAILS
+msgctxt "UI.COMPENDIUM.TOOLTIP_CHARACTERDETAILS"
+msgid "The survivors of the Constant"
+msgstr "Überlebende der Konstanten"
+
+#. UI.COMPENDIUM.TOOLTIP_CINEMATICS
+msgctxt "UI.COMPENDIUM.TOOLTIP_CINEMATICS"
+msgid "Pretty movies!"
+msgstr "Tolle Filme!"
+
+#. UI.COMPENDIUM.TOOLTIP_COOKBOOKPANEL
+msgctxt "UI.COMPENDIUM.TOOLTIP_COOKBOOKPANEL"
+msgid "The Constant's guide to cookery"
+msgstr "Kochkunst in der Konstante"
+
+#. UI.COMPENDIUM.TOOLTIP_ENCOUNTERS
+msgctxt "UI.COMPENDIUM.TOOLTIP_ENCOUNTERS"
+msgid "A history of those you've crossed paths with"
+msgstr "Verlauf der Begegnungen"
+
+#. UI.COMPENDIUM.TOOLTIP_HISTORYOFTRAVELS
+msgctxt "UI.COMPENDIUM.TOOLTIP_HISTORYOFTRAVELS"
+msgid "A summary of your adventures"
+msgstr "Zusammenfassung deiner Abenteuer"
+
+#. UI.COMPENDIUM.TOOLTIP_OBITUARIES
+msgctxt "UI.COMPENDIUM.TOOLTIP_OBITUARIES"
+msgid "Reminisce over past mistakes"
+msgstr "Gedenken an vergangene Fehler"
+
+#. UI.COMPENDIUM.TOOLTIP_PLANTREGISTRY
+msgctxt "UI.COMPENDIUM.TOOLTIP_PLANTREGISTRY"
+msgid "The Constant gardener's almanac"
+msgstr "Almanach des Ewigen Gärtners"
+
+#. UI.CONSOLESCREEN.LOCALEXECUTE
+msgctxt "UI.CONSOLESCREEN.LOCALEXECUTE"
+msgid "Local:"
+msgstr "Lokal:"
+
+#. UI.CONSOLESCREEN.REMOTEEXECUTE
+msgctxt "UI.CONSOLESCREEN.REMOTEEXECUTE"
+msgid "Remote:"
+msgstr "Remote:"
+
+#. UI.DATACOLLECTION_LOGIN.BODY
+msgctxt "UI.DATACOLLECTION_LOGIN.BODY"
+msgid "We require the collection of user data to provide online services. Players who disable data collection will only have access to play in offline mode.\n\nSurvivors and worlds from online games will be unavailable.\n\nData Collection settings can be modified in the Options menu."
+msgstr "Für die Bereitstellung von Online-Diensten müssen wir Benutzerdaten erfassen. Spieler, die die Datenerfassung deaktivieren, können nur im Offline-Modus spielen.\n\nÜberlebende und Welten aus Online-Spielen werden nicht verfügbar sein.\n\nDie Einstellungen für die Datenerfassung können im Menü Optionen geändert werden."
+
+#. UI.DATACOLLECTION_LOGIN.CONTINUE
+msgctxt "UI.DATACOLLECTION_LOGIN.CONTINUE"
+msgid "Continue"
+msgstr "Weiter"
+
+#. UI.DATACOLLECTION_LOGIN.TITLE
+msgctxt "UI.DATACOLLECTION_LOGIN.TITLE"
+msgid "Offline Mode"
+msgstr "Offline-Modus"
+
+#. UI.DATACOLLECTION_POPUP.BODY
+msgctxt "UI.DATACOLLECTION_POPUP.BODY"
+msgid "We require the collection of user data to provide online services. Players who disable data collection will only have access to play in offline mode.\n\nFor more details on our privacy policy and how we use the data we collect, please see our official privacy policy."
+msgstr "Für die Bereitstellung von Online-Diensten benötigen wir die Erhebung von Benutzerdaten. Spieler, die die Datenerfassung deaktivieren, können nur im Offline-Modus spielen.\n\nFür weitere Informationen über unsere Datenschutzerklärung und wie wir die von uns gesammelten Daten verwenden, lies bitte unsere offizielle Datenschutzerklärung."
+
+#. UI.DATACOLLECTION_POPUP.CANCEL
+msgctxt "UI.DATACOLLECTION_POPUP.CANCEL"
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#. UI.DATACOLLECTION_POPUP.OPT_IN.CONTINUE
+msgctxt "UI.DATACOLLECTION_POPUP.OPT_IN.CONTINUE"
+msgid "Enable"
+msgstr "Aktivieren"
+
+#. UI.DATACOLLECTION_POPUP.OPT_OUT.CONTINUE
+msgctxt "UI.DATACOLLECTION_POPUP.OPT_OUT.CONTINUE"
+msgid "Disable"
+msgstr "Deaktivieren"
+
+#. UI.DATACOLLECTION_POPUP.PRIVACY_PORTAL
+msgctxt "UI.DATACOLLECTION_POPUP.PRIVACY_PORTAL"
+msgid "View Privacy Policy"
+msgstr "Datenschutzbestimmungen anzeigen"
+
+#. UI.DATACOLLECTION_POPUP.TITLE
+msgctxt "UI.DATACOLLECTION_POPUP.TITLE"
+msgid "Data Collection"
+msgstr "Datenerhebung"
+
+#. UI.DATE.MONTH_ABBR.1
+msgctxt "UI.DATE.MONTH_ABBR.1"
+msgid "Jan"
+msgstr "Jan."
+
+#. UI.DATE.MONTH_ABBR.10
+msgctxt "UI.DATE.MONTH_ABBR.10"
+msgid "Oct"
+msgstr "Okt."
+
+#. UI.DATE.MONTH_ABBR.11
+msgctxt "UI.DATE.MONTH_ABBR.11"
+msgid "Nov"
+msgstr "Nov."
+
+#. UI.DATE.MONTH_ABBR.12
+msgctxt "UI.DATE.MONTH_ABBR.12"
+msgid "Dec"
+msgstr "Dez."
+
+#. UI.DATE.MONTH_ABBR.2
+msgctxt "UI.DATE.MONTH_ABBR.2"
+msgid "Feb"
+msgstr "Feb."
+
+#. UI.DATE.MONTH_ABBR.3
+msgctxt "UI.DATE.MONTH_ABBR.3"
+msgid "Mar"
+msgstr "März"
+
+#. UI.DATE.MONTH_ABBR.4
+msgctxt "UI.DATE.MONTH_ABBR.4"
+msgid "Apr"
+msgstr "Apr."
+
+#. UI.DATE.MONTH_ABBR.5
+msgctxt "UI.DATE.MONTH_ABBR.5"
+msgid "May"
+msgstr "Mai"
+
+#. UI.DATE.MONTH_ABBR.6
+msgctxt "UI.DATE.MONTH_ABBR.6"
+msgid "Jun"
+msgstr "Juni"
+
+#. UI.DATE.MONTH_ABBR.7
+msgctxt "UI.DATE.MONTH_ABBR.7"
+msgid "Jul"
+msgstr "Juli"
+
+#. UI.DATE.MONTH_ABBR.8
+msgctxt "UI.DATE.MONTH_ABBR.8"
+msgid "Aug"
+msgstr "Aug."
+
+#. UI.DATE.MONTH_ABBR.9
+msgctxt "UI.DATE.MONTH_ABBR.9"
+msgid "Sep"
+msgstr "Sept."
+
+#. UI.DATE_FORMAT.MDY
+msgctxt "UI.DATE_FORMAT.MDY"
+msgid "{month} {day}, {year}"
+msgstr "{day}. {month}. {year}"
+
+#. UI.DAYS_FORMAT.DHM
+msgctxt "UI.DAYS_FORMAT.DHM"
+msgid "{days}d {hours}h {minutes}m"
+msgstr "{days}t {hours}h {minutes}m"
+
+#. UI.DAYS_FORMAT.HM
+msgctxt "UI.DAYS_FORMAT.HM"
+msgid "{hours}h {minutes}m"
+msgstr "{hours}h {minutes}m"
+
+#. UI.DAYS_FORMAT.M
+msgctxt "UI.DAYS_FORMAT.M"
+msgid "{minutes}m"
+msgstr "{minutes}m"
+
+#. UI.DEMOOVERDIALOG.BODY_FREEWEEKEND
+msgctxt "UI.DEMOOVERDIALOG.BODY_FREEWEEKEND"
+msgid "Buy now to get the special price!"
+msgstr "Sonderpreis: Jetzt kaufen!"
+
+#. UI.DEMOOVERDIALOG.QUIT
+msgctxt "UI.DEMOOVERDIALOG.QUIT"
+msgid "Quit"
+msgstr "Beenden"
+
+#. UI.DEMOOVERDIALOG.TITLE_FREEWEEKEND
+msgctxt "UI.DEMOOVERDIALOG.TITLE_FREEWEEKEND"
+msgid "Thank you for playing the free demo!"
+msgstr "Vielen Dank fürs Spielen der kostenlosen Demoversion!"
+
+#. UI.DRESSUP_AVATAR.DRESSED_BY_FMT
+msgctxt "UI.DRESSUP_AVATAR.DRESSED_BY_FMT"
+msgid "Dressed by {name}"
+msgstr "Eingekleidet von {name}"
+
+#. UI.DRESSUP_AVATAR.UNDRESSED_BY_FMT
+msgctxt "UI.DRESSUP_AVATAR.UNDRESSED_BY_FMT"
+msgid "Undressed by {name}"
+msgstr "Entkleidet von {name}"
+
+#. UI.EULADIALOG.ACCEPT
+msgctxt "UI.EULADIALOG.ACCEPT"
+msgid "Accept"
+msgstr "Annehmen"
+
+#. UI.EULADIALOG.AGREEMENT_UPDATED
+msgctxt "UI.EULADIALOG.AGREEMENT_UPDATED"
+msgid "The EULA has been updated and needs your review."
+msgstr "Die EULA wurde aktualisiert. Bitte lies sie dir durch."
+
+#. UI.EULADIALOG.DECLINE
+msgctxt "UI.EULADIALOG.DECLINE"
+msgid "Decline"
+msgstr "Ablehnen"
+
+#. UI.EULADIALOG.DECLINE_CONFIRMATION_BODY
+msgctxt "UI.EULADIALOG.DECLINE_CONFIRMATION_BODY"
+msgid "You will not be able to play online. Are you sure?"
+msgstr "Du wirst nicht online spielen können. Bist du sicher?"
+
+#. UI.EULADIALOG.DECLINE_CONFIRMATION_TITLE
+msgctxt "UI.EULADIALOG.DECLINE_CONFIRMATION_TITLE"
+msgid "Decline the EULA?"
+msgstr "EULA ablehnen?"
+
+#. UI.EULADIALOG.TITLE
+msgctxt "UI.EULADIALOG.TITLE"
+msgid "End User License Agreement"
+msgstr "Endbenutzer-Lizenzvereinbarung"
+
+#. UI.EVENT_QUICKJOINSCREEN.BODY
+msgctxt "UI.EVENT_QUICKJOINSCREEN.BODY"
+msgid "Searching for available matches"
+msgstr "Suche nach verfügbaren Matches"
+
+#. UI.EVENT_QUICKJOINSCREEN.CONNECTING_TO_SERVER
+msgctxt "UI.EVENT_QUICKJOINSCREEN.CONNECTING_TO_SERVER"
+msgid "Connecting to Server: {server}"
+msgstr "Verbindung zu Server: {server}"
+
+#. UI.EVENT_QUICKJOINSCREEN.JOIN_BTN
+msgctxt "UI.EVENT_QUICKJOINSCREEN.JOIN_BTN"
+msgid "Join"
+msgstr "Beitreten"
+
+#. UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_BROWSE
+msgctxt "UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_BROWSE"
+msgid "Browse"
+msgstr "Durchsuchen"
+
+#. UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_CLOSE
+msgctxt "UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_CLOSE"
+msgid "Close"
+msgstr "Schließen"
+
+#. UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_HOST
+msgctxt "UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_HOST"
+msgid "Custom Match"
+msgstr "Benutzerdefiniertes Match"
+
+#. UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_MSG
+msgctxt "UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_MSG"
+msgid "No servers could be found matching the quick match criteria."
+msgstr "Es wurden keine Server für deine Schnellbeitrittskriterien gefunden."
+
+#. UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_TITLE
+msgctxt "UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_TITLE"
+msgid "Quick Match Failed"
+msgstr "Schnell-Match fehlgeschlagen"
+
+#. UI.EVENT_QUICKJOINSCREEN.TITLE
+msgctxt "UI.EVENT_QUICKJOINSCREEN.TITLE"
+msgid "Quick Match"
+msgstr "Kurzspiel"
+
+#. UI.FOOD_TYPES.BERRY
+msgctxt "UI.FOOD_TYPES.BERRY"
+msgid "Berry"
+msgstr "Berry"
+
+#. UI.FOOD_TYPES.BURNT
+msgctxt "UI.FOOD_TYPES.BURNT"
+msgid "Burnt"
+msgstr "Verbrannt"
+
+#. UI.FOOD_TYPES.ELEMENTAL
+msgctxt "UI.FOOD_TYPES.ELEMENTAL"
+msgid "Elemental"
+msgstr "Elemente"
+
+#. UI.FOOD_TYPES.GEARS
+msgctxt "UI.FOOD_TYPES.GEARS"
+msgid "Gears"
+msgstr "Zahnräder"
+
+#. UI.FOOD_TYPES.GENERIC
+msgctxt "UI.FOOD_TYPES.GENERIC"
+msgid "Edible"
+msgstr "Essbares"
+
+#. UI.FOOD_TYPES.GOODIES
+msgctxt "UI.FOOD_TYPES.GOODIES"
+msgid "Goodies"
+msgstr "Leckereien"
+
+#. UI.FOOD_TYPES.HORRIBLE
+msgctxt "UI.FOOD_TYPES.HORRIBLE"
+msgid "Horrible"
+msgstr "abscheuliches"
+
+#. UI.FOOD_TYPES.INSECT
+msgctxt "UI.FOOD_TYPES.INSECT"
+msgid "Insect"
+msgstr "Insekt"
+
+#. UI.FOOD_TYPES.MEAT
+msgctxt "UI.FOOD_TYPES.MEAT"
+msgid "Meat"
+msgstr "Fleisch"
+
+#. UI.FOOD_TYPES.MONSTER
+msgctxt "UI.FOOD_TYPES.MONSTER"
+msgid "Monstrous"
+msgstr "Monstrosität"
+
+#. UI.FOOD_TYPES.RAW
+msgctxt "UI.FOOD_TYPES.RAW"
+msgid "Raw"
+msgstr "Roh"
+
+#. UI.FOOD_TYPES.ROUGHAGE
+msgctxt "UI.FOOD_TYPES.ROUGHAGE"
+msgid "Roughage"
+msgstr "Raufutter"
+
+#. UI.FOOD_TYPES.SEEDS
+msgctxt "UI.FOOD_TYPES.SEEDS"
+msgid "Seed"
+msgstr "Sämereien"
+
+#. UI.FOOD_TYPES.VEGGIE
+msgctxt "UI.FOOD_TYPES.VEGGIE"
+msgid "Veggie"
+msgstr "Gemüse"
+
+#. UI.FOOD_TYPES.WOOD
+msgctxt "UI.FOOD_TYPES.WOOD"
+msgid "Wood"
+msgstr "Holz."
+
+#. UI.GAMEMODES.CUSTOM
+msgctxt "UI.GAMEMODES.CUSTOM"
+msgid "Custom Game"
+msgstr "Benutzerdefiniertes Spiel"
+
+#. UI.GAMEMODES.ENDLESS
+msgctxt "UI.GAMEMODES.ENDLESS"
+msgid "Endless"
+msgstr "Endlos"
+
+#. UI.GAMEMODES.ENDLESS_DESCRIPTION
+msgctxt "UI.GAMEMODES.ENDLESS_DESCRIPTION"
+msgid "A neverending Don't Starve sandbox.\n\n* Enter the world through the Florid Postern.\n* Become a ghost when you die (no sanity drain).\n* Resurrection is always available via the Florid Postern."
+msgstr "Eine unendliche Don't Starve-Sandbox.\n\n* Betritt die Welt durch die Blütenpforte.\n* Werde zum Geist, wenn du stirbst (ohne anderen den Verstand zu rauben).\n* Durch die Blütenpforte kannst du jederzeit wieder auferstehen."
+
+#. UI.GAMEMODES.LAVAARENA
+msgctxt "UI.GAMEMODES.LAVAARENA"
+msgid "The Forge"
+msgstr "Die Schmiede"
+
+#. UI.GAMEMODES.LAVAARENA_DESCRIPTION
+msgctxt "UI.GAMEMODES.LAVAARENA_DESCRIPTION"
+msgid "Prove yourself to Battlemaster Pugna in this Gate Realm.\n* Enter the world through the Molten Gateway.\n* No hunger or sanity.\n* Use what you can find. No outside weapons in the Pit!"
+msgstr "Beweise dich vor Kampfmeister Pugna in diesem Torreich.\nBetritt die Welt durch das geschmolzene Tor.\n* Kein Hunger oder Verstand.\n* Nutze, was du findest. Keine Waffen von draußen in der Grube!"
+
+#. UI.GAMEMODES.QUAGMIRE
+msgctxt "UI.GAMEMODES.QUAGMIRE"
+msgid "The Gorge"
+msgstr "Die Schlucht"
+
+#. UI.GAMEMODES.QUAGMIRE_DESCRIPTION
+msgctxt "UI.GAMEMODES.QUAGMIRE_DESCRIPTION"
+msgid "Cook delicious dishes to appease the Eternal Gnaw in this Gate Realm.\n* Enter the world through the Mossy Gateway.\n* No nighttime.\n* Use what you can find to cook offerings for the altar!"
+msgstr "Koche köstliche Gerichte, um den ewigen Mampf in diesem Torreich zu besänftigen.\n* Betritt die Welt durch den moosbewachsenen Torbogen .\n* Keine Nacht.\n* Benutze, was du findest, um Opfergaben für den Altar zu kochen!"
+
+#. UI.GAMEMODES.SURVIVAL
+msgctxt "UI.GAMEMODES.SURVIVAL"
+msgid "Survival"
+msgstr "Überleben"
+
+#. UI.GAMEMODES.SURVIVAL_DESCRIPTION
+msgctxt "UI.GAMEMODES.SURVIVAL_DESCRIPTION"
+msgid "We survive together, we die together!\n\n* Enter the world through the Florid Postern.\n* Become a ghost when you die.\n* Ghost players cause a sanity drain for living players."
+msgstr "Wir überleben zusammen, wir sterben zusammen!\n\n* Betritt die Welt durch die Blütenpforte.\n* Werde zum Geist, wenn du stirbst.\n* Geisterspieler rauben lebenden Spielern den Verstand."
+
+#. UI.GAMEMODES.UNKNOWN
+msgctxt "UI.GAMEMODES.UNKNOWN"
+msgid "Game Mode Unknown"
+msgstr "Spielmodus unbekannt"
+
+#. UI.GAMEMODES.UNKNOWN_DESCRIPTION
+msgctxt "UI.GAMEMODES.UNKNOWN_DESCRIPTION"
+msgid "We could not retrieve the details of this game mode."
+msgstr "Die Angaben dieses Spielmodus konnten nicht abgerufen werden."
+
+#. UI.GAMEMODES.WILDERNESS
+msgctxt "UI.GAMEMODES.WILDERNESS"
+msgid "Wilderness"
+msgstr "Wildnis"
+
+#. UI.GAMEMODES.WILDERNESS_DESCRIPTION
+msgctxt "UI.GAMEMODES.WILDERNESS_DESCRIPTION"
+msgid "It's wild and dangerous out there!\n\n* Enter at a random location in the world.\n* No safety net. If you die: try, try again.\n* Those you encounter may or may not be friendly."
+msgstr "Es ist wild und gefährlich da draußen! \n\n* Betritt die Welt an einer beliebigen Stelle.\n* Kein Sicherheitsnetz. Wenn du stirbst, versuch es noch mal.\n* Deine Mitspieler können freundlich sein oder auch nicht."
+
+#. UI.GENDERSTRINGS.DEFAULT.ONE
+msgctxt "UI.GENDERSTRINGS.DEFAULT.ONE"
+msgid "they"
+msgstr "er/sie"
+
+#. UI.GENDERSTRINGS.DEFAULT.TWO
+msgctxt "UI.GENDERSTRINGS.DEFAULT.TWO"
+msgid "their"
+msgstr "seine/ihre"
+
+#. UI.GENDERSTRINGS.FEMALE.ONE
+msgctxt "UI.GENDERSTRINGS.FEMALE.ONE"
+msgid "she"
+msgstr "sie"
+
+#. UI.GENDERSTRINGS.FEMALE.TWO
+msgctxt "UI.GENDERSTRINGS.FEMALE.TWO"
+msgid "her"
+msgstr "ihre"
+
+#. UI.GENDERSTRINGS.MALE.ONE
+msgctxt "UI.GENDERSTRINGS.MALE.ONE"
+msgid "he"
+msgstr "er"
+
+#. UI.GENDERSTRINGS.MALE.TWO
+msgctxt "UI.GENDERSTRINGS.MALE.TWO"
+msgid "his"
+msgstr "seine"
+
+#. UI.GENDERSTRINGS.ROBOT.ONE
+msgctxt "UI.GENDERSTRINGS.ROBOT.ONE"
+msgid "they"
+msgstr "sie"
+
+#. UI.GENDERSTRINGS.ROBOT.TWO
+msgctxt "UI.GENDERSTRINGS.ROBOT.TWO"
+msgid "their"
+msgstr "seine/ihre"
+
+#. UI.INTENTION.ANY
+msgctxt "UI.INTENTION.ANY"
+msgid "Any"
+msgstr "Beliebig"
+
+#. UI.INTENTION.COMPETITIVE
+msgctxt "UI.INTENTION.COMPETITIVE"
+msgid "Competitive"
+msgstr "Gegeneinander"
+
+#. UI.INTENTION.COOPERATIVE
+msgctxt "UI.INTENTION.COOPERATIVE"
+msgid "Cooperative"
+msgstr "Miteinander"
+
+#. UI.INTENTION.MADNESS
+msgctxt "UI.INTENTION.MADNESS"
+msgid "Madness"
+msgstr "Wahnsinn"
+
+#. UI.INTENTION.SOCIAL
+msgctxt "UI.INTENTION.SOCIAL"
+msgid "Social"
+msgstr "Sozial"
+
+#. UI.ITEM_SCREEN.BACK
+msgctxt "UI.ITEM_SCREEN.BACK"
+msgid "Back"
+msgstr "Zurück"
+
+#. UI.ITEM_SCREEN.DISABLED_TOAST_TOOLTIP
+msgctxt "UI.ITEM_SCREEN.DISABLED_TOAST_TOOLTIP"
+msgid "This requires more science!"
+msgstr "Das erfordert mehr Wissenschaft."
+
+#. UI.ITEM_SCREEN.DISABLED_YOTB_TOOLTIP
+msgctxt "UI.ITEM_SCREEN.DISABLED_YOTB_TOOLTIP"
+msgid "New beefalo grooming option!"
+msgstr "Neue Option zum Striegeln von Beefalos!"
+
+#. UI.ITEM_SCREEN.ENABLED_TOAST_TOOLTIP
+msgctxt "UI.ITEM_SCREEN.ENABLED_TOAST_TOOLTIP"
+msgid "Open"
+msgstr "Offen"
+
+#. UI.ITEM_SCREEN.NEW_SKIN
+msgctxt "UI.ITEM_SCREEN.NEW_SKIN"
+msgid "You got a skin for %s!"
+msgstr "Du hast eine Skin für %s!"
+
+#. UI.ITEM_SCREEN.NEXT_ITEM
+msgctxt "UI.ITEM_SCREEN.NEXT_ITEM"
+msgid "Put it Away"
+msgstr "Wegpacken"
+
+#. UI.ITEM_SCREEN.NORMAL_POPUP_TITLE
+msgctxt "UI.ITEM_SCREEN.NORMAL_POPUP_TITLE"
+msgid "received..."
+msgstr "erhalten ..."
+
+#. UI.ITEM_SCREEN.OK_BUTTON
+msgctxt "UI.ITEM_SCREEN.OK_BUTTON"
+msgid "Close"
+msgstr "Schließen"
+
+#. UI.ITEM_SCREEN.OPENING
+msgctxt "UI.ITEM_SCREEN.OPENING"
+msgid "Opening"
+msgstr "Einleitung"
+
+#. UI.ITEM_SCREEN.OPEN_BUTTON
+msgctxt "UI.ITEM_SCREEN.OPEN_BUTTON"
+msgid "Open Now!"
+msgstr "Jetzt öffnen"
+
+#. UI.ITEM_SCREEN.OPEN_NEXT
+msgctxt "UI.ITEM_SCREEN.OPEN_NEXT"
+msgid "Proceed"
+msgstr "Fortfahren"
+
+#. UI.ITEM_SCREEN.RECEIVED
+msgctxt "UI.ITEM_SCREEN.RECEIVED"
+msgid "You Received"
+msgstr "Du hast erhalten:"
+
+#. UI.ITEM_SCREEN.USE_LATER
+msgctxt "UI.ITEM_SCREEN.USE_LATER"
+msgid "Use Later"
+msgstr "Später verwenden"
+
+#. UI.ITEM_SCREEN.USE_NOW
+msgctxt "UI.ITEM_SCREEN.USE_NOW"
+msgid "Use Now"
+msgstr "Jetzt verwenden"
+
+#. UI.ITEM_SERVER.CONNECT
+msgctxt "UI.ITEM_SERVER.CONNECT"
+msgid "Contacting Klei Servers"
+msgstr "Verbindungsaufbau zu Klei-Servern"
+
+#. UI.ITEM_SERVER.FAILED_DEFAULT
+msgctxt "UI.ITEM_SERVER.FAILED_DEFAULT"
+msgid "Sorry!\nFailed to contact Klei Servers. Please try again."
+msgstr "Sorry!\nVerbindung zu Klei-Servern konnte nicht hergestellt werden. Versuch es noch einmal."
+
+#. UI.ITEM_SERVER.FAILED_EVENT_TITLE
+msgctxt "UI.ITEM_SERVER.FAILED_EVENT_TITLE"
+msgid "Achievements Failure"
+msgstr "Errungenschaften Scheitern"
+
+#. UI.ITEM_SERVER.FAILED_IAP_RATE_LIMITED
+msgctxt "UI.ITEM_SERVER.FAILED_IAP_RATE_LIMITED"
+msgid "Unable to start a new transaction due to being rate limited. Please slow down and try again later."
+msgstr "Neue Transaktion kann nicht gestartet werden, da sie limitiert ist. Hab Geduld und versuch es später noch einmal."
+
+#. UI.ITEM_SERVER.FAILED_MULTIPLE_PENDING_PURCHASES
+msgctxt "UI.ITEM_SERVER.FAILED_MULTIPLE_PENDING_PURCHASES"
+msgid "Unable to start a new transaction due to having an outstanding purchase active. Please close all other purchases, and try again later."
+msgstr "Neue Transaktion kann nicht gestartet werden, da ein ausstehender Kauf aktiv ist. Schließe alle anderen Käufe und versuch es dann noch einmal."
+
+#. UI.ITEM_SERVER.FAILED_TITLE
+msgctxt "UI.ITEM_SERVER.FAILED_TITLE"
+msgid "Purchase Failure"
+msgstr "Kauf fehlgeschlagen"
+
+#. UI.ITEM_SKIN_DEFAULTS.TITLE
+msgctxt "UI.ITEM_SKIN_DEFAULTS.TITLE"
+msgid "Curios for Starting Items"
+msgstr "Curios für Startgegenstände"
+
+#. UI.LAVAARENA_QUESTS_HISTORY_PANEL.TAB_TITLE
+msgctxt "UI.LAVAARENA_QUESTS_HISTORY_PANEL.TAB_TITLE"
+msgid "Completed Quests"
+msgstr "Abgeschlossene Missionen"
+
+#. UI.LAVAARENA_SUMMARY_PANEL.LAQ_DAILYMATCH
+msgctxt "UI.LAVAARENA_SUMMARY_PANEL.LAQ_DAILYMATCH"
+msgid "Daily Match Bonus"
+msgstr "Täglicher Matchbonus"
+
+#. UI.LAVAARENA_SUMMARY_PANEL.LAQ_DAILYWIN
+msgctxt "UI.LAVAARENA_SUMMARY_PANEL.LAQ_DAILYWIN"
+msgid "Daily Victory Bonus"
+msgstr "Täglicher Sieg-Bonus"
+
+#. UI.LAVAARENA_SUMMARY_PANEL.TAB_TITLE
+msgctxt "UI.LAVAARENA_SUMMARY_PANEL.TAB_TITLE"
+msgid "The Forge"
+msgstr "Die Schmiede"
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS.TIP_DICEVOTE
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS.TIP_DICEVOTE"
+msgid "Access the Server Commands menu from the Pause Screen to start votes or roll a dice."
+msgstr "Rufe das Menü Serverbefehle im Pausenbildschirm auf, um Abstimmungen zu starten oder einen Würfel zu werfen."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS.TIP_DISABLE_TIPS
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS.TIP_DISABLE_TIPS"
+msgid "Is your mind already bursting with secret knowledge? You can turn off Loading Tips anytime in the Options menu."
+msgstr "Birst dein Kopf schon vor Geheimwissen? Du kannst die Ladetipps jederzeit im Optionsmenü ausschalten."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS.TIP_ENDLESS_MODE
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS.TIP_ENDLESS_MODE"
+msgid "When creating a new world, switch the Game Mode to Endless to allow you and your friends to revive themselves at the Florid Postern."
+msgstr "Wenn du eine neue Welt erstellst, schalte den Spielmodus auf Endlos, damit du und deine Freunde sich an der Blütenpforte wiederbeleben können."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS.TIP_HOLD_ACTION
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS.TIP_HOLD_ACTION"
+msgid "Hold {action} to automatically pick up nearby items and perform actions. Just make sure you're holding the right tool for the job!"
+msgstr "Halte {action} gedrückt, um automatisch Gegenstände in der Nähe aufzuheben und Aktionen auszuführen. Achte nur darauf, dass du das richtige Werkzeug für die Aufgabe in der Hand hältst!"
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS.TIP_HOLD_INSPECT
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS.TIP_HOLD_INSPECT"
+msgid "Hold {inspect} to inspect the world around you."
+msgstr "Halte {inspect} gedrückt, um die Welt um dich herum zu erkunden."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS.TIP_ROLLBACK
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS.TIP_ROLLBACK"
+msgid "Server hosts can roll back one day or regenerate the world by accessing the Server Commands menu in the Pause Screen."
+msgstr "Server-Hosts können einen Tag zurücksetzen oder die Welt neu generieren, indem sie das Menü Serverbefehle im Pausenbildschirm aufrufen."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS.TIP_ROTATE_CAMERA
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS.TIP_ROTATE_CAMERA"
+msgid "Press {rotateleft} & {rotateright} to rotate your view of the world."
+msgstr "Drücke {rotateleft} & {rotateright}, um deine Sicht auf die Welt zu drehen."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS.TIP_SHOW_MAP
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS.TIP_SHOW_MAP"
+msgid "Press {map} to take a quick glance at your map."
+msgstr "Drücke {map}, um einen schnellen Blick auf deine Karte zu werfen."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS.TIP_VIGNETTES
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS.TIP_VIGNETTES"
+msgid "Customize your loading screens in the Vignette section of the Curio Cabinet if you're looking for a little change of scenery."
+msgstr "Passe deine Ladebildschirme im Vignettenbereich des Curio-Schranks an, wenn du eine kleine Abwechslung brauchst."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS.TIP_WORLDGEN
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS.TIP_WORLDGEN"
+msgid "Meddle with World Gen settings in the Options menu to shape a world to your liking."
+msgstr "Du kannst die Einstellungen im Menü der Weltgenerierung verändern, um eine Welt nach deinem Geschmack zu gestalten."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_ATTACK
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_ATTACK"
+msgid "Hold {attack} to attack enemies."
+msgstr "Halte {attack}, um Feinde anzugreifen."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_BIND_CONTROLS
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_BIND_CONTROLS"
+msgid "Play with Controls Settings in the Options Menu to fit your control needs."
+msgstr "Spiele mit den Steuerungseinstellungen im Optionsmenü, um dein Kontrollbedürfnis zu befriedigen."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_CHAT
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_CHAT"
+msgid "Press {chat} to talk to other players. If you wish to speak privately, press {whisper} to whisper to someone."
+msgstr "Drücke {chat}, um mit anderen Spielern zu sprechen. Wenn du unter vier Augen sprechen möchtest, drücke {whisper}, um mit jemandem zu flüstern."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_DROP_ITEMS
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_DROP_ITEMS"
+msgid "Hold {modifier} and {secondary} to quick drop items from your inventory."
+msgstr "Halte {modifier} und {secondary} gedrückt, um schnell Gegenstände aus deinem Inventar abzulegen."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_FORCE_ATTACK
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_FORCE_ATTACK"
+msgid "Hold {modifier} + {attack} to attack anything that looks at you sideways, even friends."
+msgstr "Halte {modifier} + {attack} gedrückt, um alles anzugreifen, was dich schief anguckt, sogar Freunde."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_HALF_STACK
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_HALF_STACK"
+msgid "Hold {modifier} and {primary} on stacks of items in your inventory to quickly grab half the stack."
+msgstr "Halte {modifier} und {primary} auf Stapeln von Gegenständen in deinem Inventar, um schnell die Hälfte davon zu schnappen."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_HOLD_MOUSE
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_HOLD_MOUSE"
+msgid "Hold down {primary} to automatically harvest nearby items or attack, whatever suits your fancy!"
+msgstr "Halte {primary} gedrückt, um automatisch Gegenstände in der Nähe zu sammeln oder anzugreifen, ganz wie es dir beliebt!"
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_INSPECT_SELF
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_INSPECT_SELF"
+msgid "Press {inspectself} to take a look at which item and character skins you are using."
+msgstr "Drücke {inspectself}, um dir anzusehen, welche Gegenstands- und Charakterskins du verwendest."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_INVENTORY_SLOTS
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_INVENTORY_SLOTS"
+msgid "Press {inv_0}-{inv_9} to quickly use items carried in your main inventory."
+msgstr "Drücke {inv_0}-{inv_9}, um Gegenstände in deinem Hauptinventar schnell zu benutzen."
+
+#. UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_PLAYER_STATUS
+msgctxt "UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_PLAYER_STATUS"
+msgid "Keep tabs on your fellow Survivors by pressing the {playerstatus} key."
+msgstr "Behalte deine Mitüberlebenden im Blick, indem du die {playerstatus}-Taste drückst."
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_DARKNESS_CHARLIE
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_DARKNESS_CHARLIE"
+msgid "In the Constant, the darkness has a name. Have you met Charlie yet?"
+msgstr "In der Konstante hat die Finsternis einen Namen. Hast du Charlie schon kennengelernt?"
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_MAXWELL_PAST
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_MAXWELL_PAST"
+msgid "Maxwell (né William Carter) was once nothing more than a humble stage magician, until the discovery of a mysterious tome changed the course of his life forever."
+msgstr "Maxwell (geb. William Carter) war einst nichts weiter als ein bescheidener Bühnenmagier, bis die Entdeckung eines geheimnisvollen Buches sein Leben für immer veränderte."
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_MAXWELL_SURVIVORS
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_MAXWELL_SURVIVORS"
+msgid "Once the King of the Nightmare Throne, Maxwell now finds himself surviving alongside the very people he once tormented. Needless to say, it makes for a bit of an... awkward atmosphere."
+msgstr "Einst der König auf dem Albtraumthron, findet sich Maxwell nun an der Seite der Menschen wieder, die er einst gequält hat. Das sorgt natürlich für eine etwas ... angespannte Atmosphäre."
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_PORTALS
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_PORTALS"
+msgid "\"It seems that every time we discover a doorway out of this terrible place, it just leads to more strange worlds with new horrors to endure. Still, I can't give up hope that one day we'll find a doorway that will take us home...\" -W"
+msgstr "\"Es scheint, als ob jedes Mal, wenn wir eine Tür aus diesem schrecklichen Ort entdecken, sie nur zu weiteren seltsamen Welten mit neuen Schrecken führt. Trotzdem kann ich die Hoffnung nicht aufgeben, dass wir eines Tages eine Tür finden, die uns nach Hause bringt ...\" -W"
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_THEM
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_THEM"
+msgid "\"You can't run from Them forever. Take it from me, pal.\" -M"
+msgstr "\"Man kann nicht ewig vor Ihnen weglaufen. Glaub mir, Kumpel.\" -M"
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_TIME
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_TIME"
+msgid "Time moves differently in the Constant. Instead of a monotonous forward march, seconds and eternities seem to throw caution to the wind and do-si-do backwards and forwards as they please."
+msgstr "In der Konstante vergeht die Zeit anders. Anstatt monoton vorwärts zu marschieren, scheinen Sekunden und Ewigkeiten alle Vorsicht in den Wind zu schlagen und vorwärts und rückwärts zu gehen, wie sie wollen."
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_WALTER
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_WALTER"
+msgid "Walter's time in the Pinetree Pioneers has made him more prepared than most for surviving in the wilderness. Unfortunately, this is undermined somewhat by his blind fascination with monsters."
+msgstr "Walters Zeit bei den Kiefernpionieren hat ihn mehr als die meisten anderen auf das Überleben in der Wildnis vorbereitet. Leider wird dies durch seine blinde Faszination für Monster etwas konterkariert."
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_WARNING
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_WARNING"
+msgid "\"Nothing here is what it seems. If you're reading this, keep an eye on the rabbits, don't trust the statues, and don't mistake that thing hanging in the night sky for the moon...\" -W"
+msgstr "\"Hier ist nichts so, wie es scheint. Wenn du das liest, behalte die Kaninchen im Auge, traue den Statuen nicht und halte das Ding am Nachthimmel ja nicht für den Mond ...\" -W"
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_WEBBER
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_WEBBER"
+msgid "Once upon a time, a little boy was swallowed up whole by a big hungry spider. Now they share everything; a body, a mind, and the name Webber."
+msgstr "Es war einmal ein kleiner Junge, der von einer großen, hungrigen Spinne am Stück verschlungen wurde. Jetzt teilen sie alles: einen Körper, einen Geist und den Namen Webber."
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_WENDY
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_WENDY"
+msgid "Nothing could ever come between Wendy and her twin sister Abigail. Some bonds transcend even death."
+msgstr "Nichts könnte je zwischen Wendy und ihrer Zwillingsschwester Abigail stehen. Manche Bande überdauern selbst den Tod."
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_WICKERBOTTOM
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_WICKERBOTTOM"
+msgid "Wickerbottom is of the firm belief that the pen is mightier than the sword. Words hold great power when used correctly."
+msgstr "Wickerbottom ist der festen Überzeugung, dass die Feder mächtiger ist als das Schwert. Worte haben große Macht, wenn sie richtig eingesetzt werden."
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_WILLOW
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_WILLOW"
+msgid "Nothing brings Willow more comfort than snuggling her faithful teddy bear Bernie, and committing a playful bit of arson."
+msgstr "Nichts findet Willow tröstlicher, als mit ihrem treuen Teddybär Bernie zu kuscheln und dabei verspielt ein bisschen Brandstiftung zu betreiben."
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_WILSON_UNI
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_WILSON_UNI"
+msgid "Wilson chose the path of an independent Gentleman Scientist after finding the university environment to be too stifling for a man of his ambitions. (The enormous bill the university sent him to pay for repairs to the chemistry lab had absolutely nothing to do with this.)"
+msgstr "Wilson wählte den Weg eines unabhängigen Gentleman-Wissenschaftlers, weil er das akademische Umfeld für einen Mann mit seinen Ambitionen als zu erdrückend empfand. (Die enorme Rechnung, die ihm die Universität für die Reparatur des Chemielabors hat zukommen lassen, hatte absolut nichts damit zu tun)."
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_WINONA_CHARLIE
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_WINONA_CHARLIE"
+msgid "Growing up, Winona always looked out for her younger sister. Even now, she can't help but feel that one day she'll be able to reach out into the darkness and pull Charlie back."
+msgstr "Als sie aufwuchs, hat Winona immer auf ihre jüngere Schwester aufgepasst. Selbst jetzt kann sie sich des Gefühls nicht erwehren, dass sie eines Tages in der Lage sein wird, in die Dunkelheit zu greifen und Charlie zurückzuholen."
+
+#. UI.LOADING_SCREEN_LORE_TIPS.TIP_WOODIE
+msgctxt "UI.LOADING_SCREEN_LORE_TIPS.TIP_WOODIE"
+msgid "Even with all the steps Woodie has taken to control his were-curse, there's little that can be done on nights when the moon is at its fullest."
+msgstr "Trotz aller Maßnahmen, die Woodie ergriffen hat, um seinen Wer-Fluch unter Kontrolle zu bringen, kann er in Vollmondnächten nur wenig tun."
+
+#. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.LOCAL_PLAYER_READY_CANCEL_HELPTEXT
+msgctxt "UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.LOCAL_PLAYER_READY_CANCEL_HELPTEXT"
+msgid "Wait, I'm not ready!"
+msgstr "Warte, ich bin nicht bereit!"
+
+#. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.LOCAL_PLAYER_READY_TO_START
+msgctxt "UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.LOCAL_PLAYER_READY_TO_START"
+msgid "Ready to start"
+msgstr "Bereit zum Start"
+
+#. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.LOCAL_PLAYER_VOTE_TO_START
+msgctxt "UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.LOCAL_PLAYER_VOTE_TO_START"
+msgid "Vote to start with {num}/{max} players"
+msgstr "Abstimmung über Start mit {num}/{max} Spielern"
+
+#. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.PLAYER_READY_TO_START
+msgctxt "UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.PLAYER_READY_TO_START"
+msgid "Ready"
+msgstr "Bereit"
+
+#. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.PLAYER_VOTED_TO_FORCE_START
+msgctxt "UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.PLAYER_VOTED_TO_FORCE_START"
+msgid "Voted To Start"
+msgstr "Abstimmung für Start"
+
+#. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.SPAWN_DELAY
+msgctxt "UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.SPAWN_DELAY"
+msgid "Match starts in {time}"
+msgstr "Match beginnt in {time}"
+
+#. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.VOTE_POPUP_BODY
+msgctxt "UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.VOTE_POPUP_BODY"
+msgid "You are voting to start the match without a full server.\nThe difficulty does not scale based on the number of players.\nThis will be a more challenging experience."
+msgstr "Du stimmst dafür, das Spiel ohne vollen Server zu starten.\nDer Schwierigkeitsgrad richtet sich nicht nach der Anzahl der Spieler.\nDas wird eine größere Herausforderung sein."
+
+#. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.VOTE_POPUP_CANCEL
+msgctxt "UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.VOTE_POPUP_CANCEL"
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.VOTE_POPUP_CONTINUE
+msgctxt "UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.VOTE_POPUP_CONTINUE"
+msgid "Vote"
+msgstr "Abstimmen"
+
+#. UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.VOTE_POPUP_TITLE
+msgctxt "UI.LOBBY_WAITING_FOR_PLAYERS_SCREEN.VOTE_POPUP_TITLE"
+msgid "Voting to Start"
+msgstr "Abstimmung für Start"
+
+#. UI.MYSTERYBOXSCREEN.BOXES
+msgctxt "UI.MYSTERYBOXSCREEN.BOXES"
+msgid "My Chests"
+msgstr "Meine Truhen"
+
+#. UI.MYSTERYBOXSCREEN.OK
+msgctxt "UI.MYSTERYBOXSCREEN.OK"
+msgid "OK"
+msgstr "OK"
+
+#. UI.MYSTERYBOXSCREEN.OPEN_BOX
+msgctxt "UI.MYSTERYBOXSCREEN.OPEN_BOX"
+msgid "Open Chest"
+msgstr "Offene Truhe"
+
+#. UI.MYSTERYBOXSCREEN.OUT_OF_BOXES_BODY
+msgctxt "UI.MYSTERYBOXSCREEN.OUT_OF_BOXES_BODY"
+msgid "You have no chests in your treasury.\nStart playing to earn some!"
+msgstr "Du hast keine Truhen in deiner Schatzkammer.\nFang an zu spielen, um welche zu verdienen!"
+
+#. UI.MYSTERYBOXSCREEN.OUT_OF_BOXES_BODY_NO_EVENT
+msgctxt "UI.MYSTERYBOXSCREEN.OUT_OF_BOXES_BODY_NO_EVENT"
+msgid "You have no chests in your treasury."
+msgstr "Du hast keine Truhen in deiner Schatzkammer."
+
+#. UI.MYSTERYBOXSCREEN.TITLE
+msgctxt "UI.MYSTERYBOXSCREEN.TITLE"
+msgid "The Treasury"
+msgstr "Die Schatzkammer"
+
+#. UI.MYSTERYBOXSCREEN.TOOLTIP_BOXES
+msgctxt "UI.MYSTERYBOXSCREEN.TOOLTIP_BOXES"
+msgid "View the chests in your inventory"
+msgstr "Schau dir die Truhen in deinem Inventar an"
+
+#. UI.PLAYER_AVATAR.AGE_DAY
+msgctxt "UI.PLAYER_AVATAR.AGE_DAY"
+msgid "Day"
+msgstr "Tag"
+
+#. UI.PLAYER_AVATAR.AGE_DAYS
+msgctxt "UI.PLAYER_AVATAR.AGE_DAYS"
+msgid "Days"
+msgstr "Tage"
+
+#. UI.PLAYER_AVATAR.AGE_SURVIVED
+msgctxt "UI.PLAYER_AVATAR.AGE_SURVIVED"
+msgid "Survived"
+msgstr "Überlebt"
+
+#. UI.PLAYER_AVATAR.CHOOSING
+msgctxt "UI.PLAYER_AVATAR.CHOOSING"
+msgid "is choosing their survivor"
+msgstr "wählt einen Überlebenden aus"
+
+#. UI.PLAYER_AVATAR.CLOSE
+msgctxt "UI.PLAYER_AVATAR.CLOSE"
+msgid "Close"
+msgstr "Schließen"
+
+#. UI.PLAYER_AVATAR.STEAM
+msgctxt "UI.PLAYER_AVATAR.STEAM"
+msgid "View Profile"
+msgstr "Profil anzeigen"
+
+#. UI.POPUPDIALOG.BODY.DEFAULT
+msgctxt "UI.POPUPDIALOG.BODY.DEFAULT"
+msgid "You have received an alert. Don't let this happen again."
+msgstr "Du hast eine Warnung erhalten. Lass das nicht noch einmal passieren."
+
+#. UI.POPUPDIALOG.BODY.DIRECT_JOIN_FAILED
+msgctxt "UI.POPUPDIALOG.BODY.DIRECT_JOIN_FAILED"
+msgid "Something went wrong while trying to direct join a server."
+msgstr "Beim Versuch eines Server-Direktbeitritts ist ein Fehler aufgetreten."
+
+#. UI.POPUPDIALOG.BODY.SERVER_ERROR_BANNED_GAME
+msgctxt "UI.POPUPDIALOG.BODY.SERVER_ERROR_BANNED_GAME"
+msgid "Your server will not be joinable until the name or description has been changed. Repeated violations will result in a permanent ban."
+msgstr "Niemand kann deinem Server beitreten, bis der Name oder die Beschreibung geändert wurden. Wiederholte Verstöße haben eine permanente Sperre zur Folge."
+
+#. UI.POPUPDIALOG.BODY.SERVER_ERROR_BANNED_GAME_DESC
+msgctxt "UI.POPUPDIALOG.BODY.SERVER_ERROR_BANNED_GAME_DESC"
+msgid "Your server will not be joinable until the description has been changed. Repeated violations will result in a permanent ban."
+msgstr "Niemand kann deinem Server beitreten, bis die Beschreibung geändert wurde. Wiederholte Verstöße haben eine permanente Sperre zur Folge."
+
+#. UI.POPUPDIALOG.BODY.SERVER_ERROR_BANNED_GAME_NAME
+msgctxt "UI.POPUPDIALOG.BODY.SERVER_ERROR_BANNED_GAME_NAME"
+msgid "Your server will not be joinable until the name has been changed. Repeated violations will result in a permanent ban."
+msgstr "Niemand kann deinem Server beitreten, bis der Name geändert wurde. Wiederholte Verstöße haben eine permanente Sperre zur Folge."
+
+#. UI.POPUPDIALOG.OK
+msgctxt "UI.POPUPDIALOG.OK"
+msgid "OK"
+msgstr "OK"
+
+#. UI.POPUPDIALOG.TITLE.DEFAULT
+msgctxt "UI.POPUPDIALOG.TITLE.DEFAULT"
+msgid "Alert!"
+msgstr "Alarm!"
+
+#. UI.POPUPDIALOG.TITLE.DIRECT_JOIN_FAILED
+msgctxt "UI.POPUPDIALOG.TITLE.DIRECT_JOIN_FAILED"
+msgid "Failed to Direct Join Game"
+msgstr "Direktbeitritt zu Spiel fehlgeschlagen"
+
+#. UI.POPUPDIALOG.TITLE.SERVER_ERROR_BANNED_GAME
+msgctxt "UI.POPUPDIALOG.TITLE.SERVER_ERROR_BANNED_GAME"
+msgid "Terms of Service Violation"
+msgstr "Verstoß gegen Nutzungsbedingungen"
+
+#. UI.POPUPDIALOG.TITLE.SERVER_ERROR_BANNED_GAME_DESC
+msgctxt "UI.POPUPDIALOG.TITLE.SERVER_ERROR_BANNED_GAME_DESC"
+msgid "Terms of Service Violation - Description"
+msgstr "Verstoß gegen Nutzungsbedingungen - Beschreibung"
+
+#. UI.POPUPDIALOG.TITLE.SERVER_ERROR_BANNED_GAME_NAME
+msgctxt "UI.POPUPDIALOG.TITLE.SERVER_ERROR_BANNED_GAME_NAME"
+msgid "Terms of Service Violation - Name"
+msgstr "Verstoß gegen Nutzungsbedingungen - Name"
+
+#. UI.PORTRAIT.DIFFICULTY
+msgctxt "UI.PORTRAIT.DIFFICULTY"
+msgid "Difficulty"
+msgstr "Schwierigkeit"
+
+#. UI.PORTRAIT.HP
+msgctxt "UI.PORTRAIT.HP"
+msgid "HP"
+msgstr "HP"
+
+#. UI.PORTRAIT.ITEMS
+msgctxt "UI.PORTRAIT.ITEMS"
+msgid "Items"
+msgstr "Gegenstände"
+
+#. UI.PRESENCE.INVITATION
+msgctxt "UI.PRESENCE.INVITATION"
+msgid "Let's play Don't Starve Together.... together!"
+msgstr "Los, spielen wir Don't Starve Together ... zusammen!"
+
+#. UI.PRESENCE.PLAY_TOGETHER_BODY
+msgctxt "UI.PRESENCE.PLAY_TOGETHER_BODY"
+msgid "You can join a server or host your own. Invitations will be sent to the rest of your party once you are in the game."
+msgstr "Du kannst einem Server beitreten oder deinen eigenen hosten. Einladungen werden an die anderen verschickt, sobald du im Spiel bist."
+
+#. UI.PRESENCE.PLAY_TOGETHER_TITLE
+msgctxt "UI.PRESENCE.PLAY_TOGETHER_TITLE"
+msgid "Play Together"
+msgstr "Zusammen spielen"
+
+#. UI.PRESENCE.SESSION_NOT_FOUND_BODY
+msgctxt "UI.PRESENCE.SESSION_NOT_FOUND_BODY"
+msgid "The session you are trying to join is no longer available"
+msgstr "Die Session, der du beitreten möchtest, ist nicht mehr verfügbar"
+
+#. UI.PRESENCE.SESSION_NOT_FOUND_TITLE
+msgctxt "UI.PRESENCE.SESSION_NOT_FOUND_TITLE"
+msgid "Session Not Found"
+msgstr "Session nicht gefunden"
+
+#. UI.QUICKJOINSCREEN.BODY
+msgctxt "UI.QUICKJOINSCREEN.BODY"
+msgid "Searching for servers"
+msgstr "Server werden gesucht"
+
+#. UI.QUICKJOINSCREEN.CONNECTING_TO_SERVER
+msgctxt "UI.QUICKJOINSCREEN.CONNECTING_TO_SERVER"
+msgid "Connecting to Server: {server}"
+msgstr "Verbindung zu Server: {server}"
+
+#. UI.QUICKJOINSCREEN.JOIN_BTN
+msgctxt "UI.QUICKJOINSCREEN.JOIN_BTN"
+msgid "Join"
+msgstr "Beitreten"
+
+#. UI.QUICKJOINSCREEN.NO_SERVERS_BROWSE
+msgctxt "UI.QUICKJOINSCREEN.NO_SERVERS_BROWSE"
+msgid "Browse Games"
+msgstr "Spiele durchsuchen"
+
+#. UI.QUICKJOINSCREEN.NO_SERVERS_CLOSE
+msgctxt "UI.QUICKJOINSCREEN.NO_SERVERS_CLOSE"
+msgid "Close"
+msgstr "Schließen"
+
+#. UI.QUICKJOINSCREEN.NO_SERVERS_HOST
+msgctxt "UI.QUICKJOINSCREEN.NO_SERVERS_HOST"
+msgid "Host Game"
+msgstr "Spiel ausrichten"
+
+#. UI.QUICKJOINSCREEN.NO_SERVERS_MSG
+msgctxt "UI.QUICKJOINSCREEN.NO_SERVERS_MSG"
+msgid "No servers could be found matching the quick join criteria."
+msgstr "Es wurden keine Server für einen Schnellbeitritt gefunden."
+
+#. UI.QUICKJOINSCREEN.NO_SERVERS_TITLE
+msgctxt "UI.QUICKJOINSCREEN.NO_SERVERS_TITLE"
+msgid "Quick Join Failed"
+msgstr "Schnellbeitritt fehlgeschlagen"
+
+#. UI.QUICKJOINSCREEN.TITLE
+msgctxt "UI.QUICKJOINSCREEN.TITLE"
+msgid "Quick Join"
+msgstr "Schnellbeitritt"
+
+#. UI.QUITTING
+msgctxt "UI.QUITTING"
+msgid "Packing up the science."
+msgstr "Packe die Wissenschaft zusammen."
+
+#. UI.QUITTINGTITLE
+msgctxt "UI.QUITTINGTITLE"
+msgid "Quitting!"
+msgstr "Beenden!"
+
+#. UI.RARITY.Character
+msgctxt "UI.RARITY.Character"
+msgid "Character"
+msgstr "Charakter"
+
+#. UI.RARITY.CharacterModifier
+msgctxt "UI.RARITY.CharacterModifier"
+msgid ""
+msgstr ""
+
+#. UI.RARITY.Classy
+msgctxt "UI.RARITY.Classy"
+msgid "Classy"
+msgstr "Edel"
+
+#. UI.RARITY.Common
+msgctxt "UI.RARITY.Common"
+msgid "Common"
+msgstr "Gewöhnlich"
+
+#. UI.RARITY.Complimentary
+msgctxt "UI.RARITY.Complimentary"
+msgid "Complimentary"
+msgstr "Gratis"
+
+#. UI.RARITY.Distinguished
+msgctxt "UI.RARITY.Distinguished"
+msgid "Distinguished"
+msgstr "Exklusiv"
+
+#. UI.RARITY.Elegant
+msgctxt "UI.RARITY.Elegant"
+msgid "Elegant"
+msgstr "Elegant"
+
+#. UI.RARITY.Event
+msgctxt "UI.RARITY.Event"
+msgid "Event (Limited-Time Use)"
+msgstr "Ereignis (zeitlich begrenzt)"
+
+#. UI.RARITY.HeirloomClassy
+msgctxt "UI.RARITY.HeirloomClassy"
+msgid "Heirloom Classy"
+msgstr "Stilvolles Erbstück"
+
+#. UI.RARITY.HeirloomDistinguished
+msgctxt "UI.RARITY.HeirloomDistinguished"
+msgid "Heirloom Distinguished"
+msgstr "Ausgezeichnetes Erbstück"
+
+#. UI.RARITY.HeirloomElegant
+msgctxt "UI.RARITY.HeirloomElegant"
+msgid "Heirloom Elegant"
+msgstr "Elegantes Erbstück"
+
+#. UI.RARITY.HeirloomSpiffy
+msgctxt "UI.RARITY.HeirloomSpiffy"
+msgid "Heirloom Spiffy"
+msgstr "Schickes Erbstück"
+
+#. UI.RARITY.Inspired
+msgctxt "UI.RARITY.Inspired"
+msgid "Inspired - "
+msgstr "Inspiriert - "
+
+#. UI.RARITY.Loyal
+msgctxt "UI.RARITY.Loyal"
+msgid "Loyal"
+msgstr "Treu"
+
+#. UI.RARITY.ProofOfPurchase
+msgctxt "UI.RARITY.ProofOfPurchase"
+msgid "Proof Of Purchase"
+msgstr "Kaufnachweis"
+
+#. UI.RARITY.Reward
+msgctxt "UI.RARITY.Reward"
+msgid "Reward"
+msgstr "Belohnung"
+
+#. UI.RARITY.Spiffy
+msgctxt "UI.RARITY.Spiffy"
+msgid "Spiffy"
+msgstr "Schick"
+
+#. UI.RARITY.Timeless
+msgctxt "UI.RARITY.Timeless"
+msgid "Timeless"
+msgstr "Zeitlos"
+
+#. UI.RARITY.Woven
+msgctxt "UI.RARITY.Woven"
+msgid "Woven - "
+msgstr "Gewebt - "
+
+#. UI.REDEEMDIALOG.ACCEPTED
+msgctxt "UI.REDEEMDIALOG.ACCEPTED"
+msgid "Success: Code Accepted!"
+msgstr "Erfolg: Code angenommen!"
+
+#. UI.REDEEMDIALOG.ALREADY_REDEEMED
+msgctxt "UI.REDEEMDIALOG.ALREADY_REDEEMED"
+msgid "This code has already been redeemed. Maybe by you?"
+msgstr "Dieser Code wurde bereits eingelöst. Vielleicht von dir?"
+
+#. UI.REDEEMDIALOG.CANCEL
+msgctxt "UI.REDEEMDIALOG.CANCEL"
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#. UI.REDEEMDIALOG.CURRENCY_FMT
+msgctxt "UI.REDEEMDIALOG.CURRENCY_FMT"
+msgid "{currency_amt} {currency}!"
+msgstr "{currency_amt} {currency}!"
+
+#. UI.REDEEMDIALOG.FAILED_TO_CONTACT
+msgctxt "UI.REDEEMDIALOG.FAILED_TO_CONTACT"
+msgid "Sorry, it looks like the server's not answering right now. Please try again later."
+msgstr "Der Server antwortet im Moment nicht. Versuch es später noch einmal."
+
+#. UI.REDEEMDIALOG.INVALID_CODE
+msgctxt "UI.REDEEMDIALOG.INVALID_CODE"
+msgid "That code wasn't quite right. Please try again."
+msgstr "Der Code stimmt nicht ganz. Versuch es noch einmal."
+
+#. UI.REDEEMDIALOG.LEGALESE
+msgctxt "UI.REDEEMDIALOG.LEGALESE"
+msgid "Delivery time may vary due to temporal portal anomalies. Wilson is not responsible for emotional injuries caused by waiting. Gifts may result in bragging, unexpected delight, and/or enhanced gameplay experiences."
+msgstr "Die Lieferzeiten können aufgrund vorübergehender Anomalien im Portal variieren. Wilson ist für emotionale Schäden wegen der Wartezeit nicht verantwortlich. Geschenke können zu Prahlerei, unerwarteten Freudenausbrüchen und/oder einer gesteigerten Spielfreude führen."
+
+#. UI.REDEEMDIALOG.MENU_BUTTON_DESC
+msgctxt "UI.REDEEMDIALOG.MENU_BUTTON_DESC"
+msgid "Transmute some codes into something useful."
+msgstr "Verwandle einige Codes in etwas Nützliches."
+
+#. UI.REDEEMDIALOG.MENU_BUTTON_TITLE
+msgctxt "UI.REDEEMDIALOG.MENU_BUTTON_TITLE"
+msgid "Redeem Codes"
+msgstr "Codes einlösen"
+
+#. UI.REDEEMDIALOG.SUBMIT
+msgctxt "UI.REDEEMDIALOG.SUBMIT"
+msgid "Submit"
+msgstr "Absenden"
+
+#. UI.REDEEMDIALOG.TITLE
+msgctxt "UI.REDEEMDIALOG.TITLE"
+msgid "Enter Your Code"
+msgstr "Gib deinen Code ein"
+
+#. UI.SAVELOAD.CANCEL
+msgctxt "UI.SAVELOAD.CANCEL"
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#. UI.SAVELOAD.DATA_DAMAGED
+msgctxt "UI.SAVELOAD.DATA_DAMAGED"
+msgid "Oh no! Your save data has become corrupt and cannot be used."
+msgstr "Ach nein! Deine gespeicherten Daten wurden beschädigt werden und können nicht mehr verwendet werden."
+
+#. UI.SAVELOAD.DATA_DAMAGED_BODY
+msgctxt "UI.SAVELOAD.DATA_DAMAGED_BODY"
+msgid "Your save data is damaged and cannot be used."
+msgstr "Deine gespeicherten Daten sind beschädigt und können nicht verwendet werden."
+
+#. UI.SAVELOAD.DATA_DAMAGED_PS4
+msgctxt "UI.SAVELOAD.DATA_DAMAGED_PS4"
+msgid "Damaged save data"
+msgstr "Speicherdaten beschädigt"
+
+#. UI.SAVELOAD.DELETE_FAILED
+msgctxt "UI.SAVELOAD.DELETE_FAILED"
+msgid "An error occurred while deleting your data."
+msgstr "Beim Löschen deiner Daten ist ein Fehler aufgetreten."
+
+#. UI.SAVELOAD.DISABLE
+msgctxt "UI.SAVELOAD.DISABLE"
+msgid "Disable Save"
+msgstr "Speichern deaktivieren"
+
+#. UI.SAVELOAD.DISABLE_AUTOSAVE
+msgctxt "UI.SAVELOAD.DISABLE_AUTOSAVE"
+msgid "Are you sure you want to\ndisable the auto-save feature?"
+msgstr "Bist du dir sicher, dass du die automatische\nSpeicherung deaktivieren möchtest?"
+
+#. UI.SAVELOAD.DISABLE_AUTOSAVE_PS4
+msgctxt "UI.SAVELOAD.DISABLE_AUTOSAVE_PS4"
+msgid "Are you sure you want to\ndisable the save feature?"
+msgstr "Möchtest du die Speicher-\nfunktion wirklich deaktivieren?"
+
+#. UI.SAVELOAD.LOAD_FAILED
+msgctxt "UI.SAVELOAD.LOAD_FAILED"
+msgid "An error occurred while loading your data."
+msgstr "Beim Laden deiner Daten ist ein Fehler aufgetreten."
+
+#. UI.SAVELOAD.NO
+msgctxt "UI.SAVELOAD.NO"
+msgid "No"
+msgstr "Nein"
+
+#. UI.SAVELOAD.OVERWRITE
+msgctxt "UI.SAVELOAD.OVERWRITE"
+msgid "Overwrite"
+msgstr "Überschreiben"
+
+#. UI.SAVELOAD.OVERWRITE_SAVEDATA_BODY
+msgctxt "UI.SAVELOAD.OVERWRITE_SAVEDATA_BODY"
+msgid "Are you sure you want to overwrite your save data? Your settings and worlds will be lost. This process can not be undone."
+msgstr "Sollen die gespeicherten Daten wirklich überschrieben werden? Deine Einstellungen und Welten gehen dabei verloren. Dieser Vorgang kann nicht rückgängig gemacht werden."
+
+#. UI.SAVELOAD.OVERWRITE_SAVEDATA_TITLE
+msgctxt "UI.SAVELOAD.OVERWRITE_SAVEDATA_TITLE"
+msgid "Overwrite save data"
+msgstr "Gespeicherte Daten überschreiben"
+
+#. UI.SAVELOAD.RESTOREBACKUP_FAILED
+msgctxt "UI.SAVELOAD.RESTOREBACKUP_FAILED"
+msgid "An error occurred while\nrestoring your data."
+msgstr "Fehler beim Wiederherstellen deiner Daten."
+
+#. UI.SAVELOAD.RESTORE_BACKUP
+msgctxt "UI.SAVELOAD.RESTORE_BACKUP"
+msgid "Restore Backup"
+msgstr "Backup wiederherstellen"
+
+#. UI.SAVELOAD.RESTORE_BACKUP_BODY
+msgctxt "UI.SAVELOAD.RESTORE_BACKUP_BODY"
+msgid "Are you sure you want to restore from the last available backup? This process can not be undone."
+msgstr "Bist du sicher, dass du das letzte verfügbare Backup wiederherstellen möchtest? Dieser Vorgang kann nicht rückgängig gemacht werden."
+
+#. UI.SAVELOAD.RETRY
+msgctxt "UI.SAVELOAD.RETRY"
+msgid "Retry"
+msgstr "Erneut versuchen"
+
+#. UI.SAVELOAD.SAVE_FAILED
+msgctxt "UI.SAVELOAD.SAVE_FAILED"
+msgid "An error occurred while saving your data."
+msgstr "Beim Speichern deiner Daten ist ein Fehler ist aufgetreten."
+
+#. UI.SAVELOAD.YES
+msgctxt "UI.SAVELOAD.YES"
+msgid "Yes"
+msgstr "Ja"
+
+#. UI.SETPOPUP.NEXT_SET
+msgctxt "UI.SETPOPUP.NEXT_SET"
+msgid "Next Set"
+msgstr "Nächster Satz"
+
+#. UI.SETPOPUP.OK
+msgctxt "UI.SETPOPUP.OK"
+msgid "OK"
+msgstr "OK"
+
+#. UI.SETPOPUP.PREV_SET
+msgctxt "UI.SETPOPUP.PREV_SET"
+msgid "Previous Set"
+msgstr "Vorheriger Satz"
+
+#. UI.SETPOPUP.REWARD
+msgctxt "UI.SETPOPUP.REWARD"
+msgid "Reward:"
+msgstr "Belohnung:"
+
+#. UI.SKIN_PRESETS.TITLE
+msgctxt "UI.SKIN_PRESETS.TITLE"
+msgid "Clothing Presets"
+msgstr "Kleidungsvoreinstellungen"
+
+#. UI.SPECIAL_EVENT_NAMES.CROW_CARNIVAL
+msgctxt "UI.SPECIAL_EVENT_NAMES.CROW_CARNIVAL"
+msgid "Midsummer Cawnival"
+msgstr "Mittsommer-Krähneval"
+
+#. UI.SPECIAL_EVENT_NAMES.HALLOWED_NIGHTS
+msgctxt "UI.SPECIAL_EVENT_NAMES.HALLOWED_NIGHTS"
+msgid "Hallowed Nights"
+msgstr "Heilige Nächte"
+
+#. UI.SPECIAL_EVENT_NAMES.MULTIPLE_EVENTS
+msgctxt "UI.SPECIAL_EVENT_NAMES.MULTIPLE_EVENTS"
+msgid "Special Events"
+msgstr "Spezialevents"
+
+#. UI.SPECIAL_EVENT_NAMES.WINTERS_FEAST
+msgctxt "UI.SPECIAL_EVENT_NAMES.WINTERS_FEAST"
+msgid "Winter's Feast"
+msgstr "Winterfest"
+
+#. UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_BEEFALO
+msgctxt "UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_BEEFALO"
+msgid "Year of the Beefalo"
+msgstr "Jahr des Beefalos"
+
+#. UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_CARRAT
+msgctxt "UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_CARRAT"
+msgid "Year of the Carrat"
+msgstr "Jahr der Karatte"
+
+#. UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_CATCOON
+msgctxt "UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_CATCOON"
+msgid "Year of the Catcoon"
+msgstr "Jahr des Catcoons"
+
+#. UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_GOBBLER
+msgctxt "UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_GOBBLER"
+msgid "Year of the Gobbler"
+msgstr "Jahr des Truthahns"
+
+#. UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_PIG
+msgctxt "UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_PIG"
+msgid "Year of the Pig King"
+msgstr "Jahr des Schweinekönigs"
+
+#. UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_VARG
+msgctxt "UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_VARG"
+msgid "Year of the Varg"
+msgstr "Jahr des Varg"
+
+#. UI.SPLITSCREEN_REGISTRATION.KICK_PLAYER_POSTFIX
+msgctxt "UI.SPLITSCREEN_REGISTRATION.KICK_PLAYER_POSTFIX"
+msgid " from split screen"
+msgstr " von geteiltem Bildschirm"
+
+#. UI.SPLITSCREEN_REGISTRATION.KICK_PLAYER_PREFIX
+msgctxt "UI.SPLITSCREEN_REGISTRATION.KICK_PLAYER_PREFIX"
+msgid "Kick "
+msgstr "Rauswerfen "
+
+#. UI.SPLITSCREEN_REGISTRATION.PLAYER_2_PRESS_START_POSTFIX
+msgctxt "UI.SPLITSCREEN_REGISTRATION.PLAYER_2_PRESS_START_POSTFIX"
+msgid "TO JOIN"
+msgstr "UM BEIZUTRETEN"
+
+#. UI.SPLITSCREEN_REGISTRATION.PLAYER_2_PRESS_START_PREFIX
+msgctxt "UI.SPLITSCREEN_REGISTRATION.PLAYER_2_PRESS_START_PREFIX"
+msgid "PRESS"
+msgstr "DRÜCKE"
+
+#. UI.SPLITSCREEN_REGISTRATION.STATUS_OFFLINE
+msgctxt "UI.SPLITSCREEN_REGISTRATION.STATUS_OFFLINE"
+msgid "Offline"
+msgstr "Offline"
+
+#. UI.SPLITSCREEN_REGISTRATION.STATUS_ONLINE
+msgctxt "UI.SPLITSCREEN_REGISTRATION.STATUS_ONLINE"
+msgid "Signed In"
+msgstr "Angemeldet"
+
+#. UI.SPLITSCREEN_REGISTRATION.TITLE_PLAYER_1
+msgctxt "UI.SPLITSCREEN_REGISTRATION.TITLE_PLAYER_1"
+msgid "Player 1"
+msgstr "Spieler 1"
+
+#. UI.SPLITSCREEN_REGISTRATION.TITLE_PLAYER_2
+msgctxt "UI.SPLITSCREEN_REGISTRATION.TITLE_PLAYER_2"
+msgid "Player 2"
+msgstr "Spieler 2"
+
+#. UI.STARTADVENTURE.BODY
+msgctxt "UI.STARTADVENTURE.BODY"
+msgid "You are about to embark on a long, arduous expedition to locate Maxwell. You will need to survive five randomly generated worlds, each presenting you with a unique challenge.\n\nShould you die you will be transported safely back to this portal, but lose all your progress on the adventure."
+msgstr "Du stehst vor einer langen, beschwerlichen Expedition, um Maxwell zu finden. Du musst fünf zufällig generierte Welten überleben, die alle eine ganz besondere Herausforderung präsentieren.\n\nWenn du stirbst, wirst du wieder sicher zu diesem Portal transportiert, aber alles, was du im Spiel erreicht hast, geht verloren."
+
+#. UI.STARTADVENTURE.BODY_TEST
+msgctxt "UI.STARTADVENTURE.BODY_TEST"
+msgid "If you die during adventure mode, you will return back to this portal where you may restart the adventure.\n\nYou are about to embark on a long, arduous expedition to locate Maxwell. You will need to survive five randomly generated worlds, each presenting you with a unique challenge."
+msgstr "Wenn du im Abenteuer-Modus stirbst, wirst du zu diesem Portal zurückkehren, wo du das Abenteuer neu beginnen kannst.\n\nDu stehst vor einer langen, beschwerlichen Expedition, um Maxwell zu finden. Du musst fünf zufällig generierte Welten überleben, die alle eine ganz besondere Herausforderung präsentieren."
+
+#. UI.STARTADVENTURE.NO
+msgctxt "UI.STARTADVENTURE.NO"
+msgid "Not Yet"
+msgstr "Nicht jetzt"
+
+#. UI.STARTADVENTURE.TITLE
+msgctxt "UI.STARTADVENTURE.TITLE"
+msgid "Doorway to Adventure!"
+msgstr "Zugang zum Abenteuer!"
+
+#. UI.STARTADVENTURE.YES
+msgctxt "UI.STARTADVENTURE.YES"
+msgid "Let's Go!"
+msgstr "Los geht's!"
+
+#. UI.STATSPANEL.MOTD_BODY
+msgctxt "UI.STATSPANEL.MOTD_BODY"
+msgid "Character and item skin sets now available for purchase!"
+msgstr "Charakter- und Gegestandssätze jetzt zum Kauf verfügbar!"
+
+#. UI.STATSPANEL.MOTD_TITLE
+msgctxt "UI.STATSPANEL.MOTD_TITLE"
+msgid "Now Available!"
+msgstr "Jetzt verfügbar!"
+
+#. UI.TELEPORTBODY_ADVENTURE
+msgctxt "UI.TELEPORTBODY_ADVENTURE"
+msgid "This will REMOVE ALL YOUR ITEMS and destroy your current world. Only items placed in the machine will appear in the next world."
+msgstr "Dies wird all deine Gegenstände entfernen und die aktuelle Welt zerstören. Nur Dinge, die in der Maschine liegen, bleiben erhalten."
+
+#. UI.TELEPORTBODY_SURVIVAL
+msgctxt "UI.TELEPORTBODY_SURVIVAL"
+msgid "This will destroy your current world, but you will retain your inventory contents."
+msgstr "Dadurch wird die aktuelle Welt zerstört, aber die Dinge in deinem Inventar bleiben erhalten."
+
+#. UI.TELEPORTNO
+msgctxt "UI.TELEPORTNO"
+msgid "Stay here."
+msgstr "Hierbleiben."
+
+#. UI.TELEPORTTITLE
+msgctxt "UI.TELEPORTTITLE"
+msgid "Journey onwards?"
+msgstr "Reise fortsetzen?"
+
+#. UI.TELEPORTYES
+msgctxt "UI.TELEPORTYES"
+msgid "Let's Go!"
+msgstr "Los geht's!"
+
+#. UI.TIME_FORMAT.HHMMSS
+msgctxt "UI.TIME_FORMAT.HHMMSS"
+msgid "{hours}:{minutes}:{seconds}"
+msgstr "{hours}:{minutes}:{seconds}"
+
+#. UI.TIME_FORMAT.MMSS
+msgctxt "UI.TIME_FORMAT.MMSS"
+msgid "{minutes}:{seconds}"
+msgstr "{minutes}:{seconds}"
+
+#. UI.UNLOCKMAXWELL.BODY1
+msgctxt "UI.UNLOCKMAXWELL.BODY1"
+msgid "The key looks like it will fit. You can free "
+msgstr "Der Schlüssel sieht aus, als würde er passen. Du kannst "
+
+#. UI.UNLOCKMAXWELL.BODY2
+msgctxt "UI.UNLOCKMAXWELL.BODY2"
+msgid ", but I doubt %s captors will be pleased..."
+msgstr " befreien, aber ich glaube, %s Entführer werden zufrieden sein."
+
+#. UI.UNLOCKMAXWELL.NO
+msgctxt "UI.UNLOCKMAXWELL.NO"
+msgid "No"
+msgstr "Nein"
+
+#. UI.UNLOCKMAXWELL.TITLE
+msgctxt "UI.UNLOCKMAXWELL.TITLE"
+msgid "Take pity?"
+msgstr "Hast du Mitleid?"
+
+#. UI.UNLOCKMAXWELL.YES
+msgctxt "UI.UNLOCKMAXWELL.YES"
+msgid "Yes"
+msgstr "Ja"
+
+#. UI.USERCOMMANDS.BADTARGETFMT
+msgctxt "UI.USERCOMMANDS.BADTARGETFMT"
+msgid "You can't run '%s' on %s."
+msgstr "Du kannst '%s' nicht auf %s verwenden."
+
+#. UI.USERCOMMANDS.BADUSERFMT
+msgctxt "UI.USERCOMMANDS.BADUSERFMT"
+msgid "There is no one on the server by the name of '%s'. Open the scoreboard to view all current players."
+msgstr "Auf diesem Server gibt es keinen Spieler mit dem Namen '%s'. Ruf das Scoreboard auf, um alle aktuellen Spieler anzuzeigen."
+
+#. UI.USERCOMMANDS.DISABLEDFMT
+msgctxt "UI.USERCOMMANDS.DISABLEDFMT"
+msgid "You can't run '%s' right now."
+msgstr "Du kannst '%s' momentan nicht verwenden."
+
+#. UI.USERCOMMANDS.FAILEDFMT
+msgctxt "UI.USERCOMMANDS.FAILEDFMT"
+msgid "You can't run '%s' right now."
+msgstr "Du kannst '%s' momentan nicht verwenden."
+
+#. UI.USERCOMMANDS.MISSINGPARAMSFMT
+msgctxt "UI.USERCOMMANDS.MISSINGPARAMSFMT"
+msgid "Missing parameters! Type /help %s for more info."
+msgstr "Fehlende Parameter! Gib /help %s ein, um mehr zu erfahren."
+
+#. UI.USERCOMMANDS.NOTALLOWEDFMT
+msgctxt "UI.USERCOMMANDS.NOTALLOWEDFMT"
+msgid "You don't have permission to run '%s'."
+msgstr "Um %s auszuführen, fehlen dir die nötigen Benutzerrechte."
+
+#. UI.USERCOMMANDS.SQUELCHEDFMT
+msgctxt "UI.USERCOMMANDS.SQUELCHEDFMT"
+msgid "You aren't allowed to start a '%s' vote right now."
+msgstr "Du kannst momentan keine %s-Abstimmung starten."
+
+#. UI.VOTEDIALOG.CANCEL
+msgctxt "UI.VOTEDIALOG.CANCEL"
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#. UI.VOTEDIALOG.NO
+msgctxt "UI.VOTEDIALOG.NO"
+msgid "No"
+msgstr "Nein"
+
+#. UI.VOTEDIALOG.TIME_REMAINING
+msgctxt "UI.VOTEDIALOG.TIME_REMAINING"
+msgid "Time Remaining: %d"
+msgstr "Verbleibende Zeit: %d"
+
+#. UI.VOTEDIALOG.VOTE
+msgctxt "UI.VOTEDIALOG.VOTE"
+msgid "Vote"
+msgstr "Abstimmen"
+
+#. UI.VOTEDIALOG.YES
+msgctxt "UI.VOTEDIALOG.YES"
+msgid "Yes"
+msgstr "Ja"
+
+#. UI.WARDROBESCREEN.ACCEPT
+msgctxt "UI.WARDROBESCREEN.ACCEPT"
+msgid "Accept Outfit"
+msgstr "Outfit annehmen"
+
+#. UI.WARDROBESCREEN.BASE
+msgctxt "UI.WARDROBESCREEN.BASE"
+msgid "Head"
+msgstr "Kopf"
+
+#. UI.WARDROBESCREEN.BODY
+msgctxt "UI.WARDROBESCREEN.BODY"
+msgid "Body"
+msgstr "Körper"
+
+#. UI.WARDROBESCREEN.CYCLE_VIEW
+msgctxt "UI.WARDROBESCREEN.CYCLE_VIEW"
+msgid "Cycle View"
+msgstr "Ansichten durchschalten"
+
+#. UI.WARDROBESCREEN.FEET
+msgctxt "UI.WARDROBESCREEN.FEET"
+msgid "Feet"
+msgstr "Füße"
+
+#. UI.WARDROBESCREEN.FILTER_OFF
+msgctxt "UI.WARDROBESCREEN.FILTER_OFF"
+msgid "Off"
+msgstr "Aus"
+
+#. UI.WARDROBESCREEN.FILTER_ON
+msgctxt "UI.WARDROBESCREEN.FILTER_ON"
+msgid "On"
+msgstr "An"
+
+#. UI.WARDROBESCREEN.HAND
+msgctxt "UI.WARDROBESCREEN.HAND"
+msgid "Hands"
+msgstr "Hände"
+
+#. UI.WARDROBESCREEN.LEGS
+msgctxt "UI.WARDROBESCREEN.LEGS"
+msgid "Legs"
+msgstr "Beine"
+
+#. UI.WARDROBESCREEN.OWNED_FILTER_FMT
+msgctxt "UI.WARDROBESCREEN.OWNED_FILTER_FMT"
+msgid "Owned Filter: {mode}"
+msgstr "Eigener Filter: {mode}"
+
+#. UI.WARDROBESCREEN.RESET
+msgctxt "UI.WARDROBESCREEN.RESET"
+msgid "Undo Changes"
+msgstr "Änderungen rückg."
+
+#. UI.WARDROBESCREEN.SEARCH
+msgctxt "UI.WARDROBESCREEN.SEARCH"
+msgid "Search"
+msgstr "Suche"
+
+#. UI.WARDROBESCREEN.SORT_COUNT
+msgctxt "UI.WARDROBESCREEN.SORT_COUNT"
+msgid "Owned Count"
+msgstr "Anzahl in Besitz"
+
+#. UI.WARDROBESCREEN.SORT_MODE_FMT
+msgctxt "UI.WARDROBESCREEN.SORT_MODE_FMT"
+msgid "Sort Mode: {mode}"
+msgstr "Sortiermodus: {mode}"
+
+#. UI.WARDROBESCREEN.SORT_NAME
+msgctxt "UI.WARDROBESCREEN.SORT_NAME"
+msgid "Name"
+msgstr "Name"
+
+#. UI.WARDROBESCREEN.SORT_RARITY
+msgctxt "UI.WARDROBESCREEN.SORT_RARITY"
+msgid "Rarity"
+msgstr "Seltenheit"
+
+#. UI.WARDROBESCREEN.SORT_RELEASE
+msgctxt "UI.WARDROBESCREEN.SORT_RELEASE"
+msgid "Release Date"
+msgstr "Veröffentlichungsdatum"
+
+#. UI.WARDROBESCREEN.SURVIVOR_FILTER_FMT
+msgctxt "UI.WARDROBESCREEN.SURVIVOR_FILTER_FMT"
+msgid "Survivor Filter: {mode}"
+msgstr "Überlebende-Filter: {mode}"
+
+#. UI.WARDROBESCREEN.TITLE
+msgctxt "UI.WARDROBESCREEN.TITLE"
+msgid "Wardrobe"
+msgstr "Kleiderschrank"
+
+#. UI.WARDROBESCREEN.TOOLTIP_BASE
+msgctxt "UI.WARDROBESCREEN.TOOLTIP_BASE"
+msgid "Equip a head item"
+msgstr "Gegenstand für Kopf ausrüsten"
+
+#. UI.WARDROBESCREEN.TOOLTIP_BODY
+msgctxt "UI.WARDROBESCREEN.TOOLTIP_BODY"
+msgid "Equip a body item"
+msgstr "Gegenstand für Körper ausrüsten"
+
+#. UI.WARDROBESCREEN.TOOLTIP_FEET
+msgctxt "UI.WARDROBESCREEN.TOOLTIP_FEET"
+msgid "Equip a foot item"
+msgstr "Gegenstand für Fuß ausrüsten"
+
+#. UI.WARDROBESCREEN.TOOLTIP_HAND
+msgctxt "UI.WARDROBESCREEN.TOOLTIP_HAND"
+msgid "Equip a hand item"
+msgstr "Gegenstand für Hand ausrüsten"
+
+#. UI.WARDROBESCREEN.TOOLTIP_LEGS
+msgctxt "UI.WARDROBESCREEN.TOOLTIP_LEGS"
+msgid "Equip a leg item"
+msgstr "Gegenstand für Bein ausrüsten"
+
+#. UI.WARDROBESCREEN.WEAVEABLE_FILTER_FMT
+msgctxt "UI.WARDROBESCREEN.WEAVEABLE_FILTER_FMT"
+msgid "Weaveable Filter: {mode}"
+msgstr "Gewebefilter: {mode}"
+
+#. UI.WARDROBE_POPUP.CANCEL
+msgctxt "UI.WARDROBE_POPUP.CANCEL"
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#. UI.WARDROBE_POPUP.RESET
+msgctxt "UI.WARDROBE_POPUP.RESET"
+msgid "Reset Outfit"
+msgstr "Outfit zurücksetzen"
+
+#. UI.WARDROBE_POPUP.SET
+msgctxt "UI.WARDROBE_POPUP.SET"
+msgid "Confirm Outfit"
+msgstr "Outfit bestätigen"
+
+#. UI.WORDPREDICTIONWIDET.DISMISS
+msgctxt "UI.WORDPREDICTIONWIDET.DISMISS"
+msgid "Dismiss"
+msgstr "Verwerfen"
+
+#. UI.WORLDRESETDIALOG.BUTTONPROMPT1
+msgctxt "UI.WORLDRESETDIALOG.BUTTONPROMPT1"
+msgid "Hold "
+msgstr "Halte "
+
+#. UI.WORLDRESETDIALOG.BUTTONPROMPT2
+msgctxt "UI.WORLDRESETDIALOG.BUTTONPROMPT2"
+msgid "to Reset Now"
+msgstr "jetzt zum Zurücksetzen"
+
+#. UI.WORLDRESETDIALOG.RESET_BUTTON
+msgctxt "UI.WORLDRESETDIALOG.RESET_BUTTON"
+msgid "Reset Now"
+msgstr "Zurücksetzen"
+
+#. UI.WORLDRESETDIALOG.RESET_MSG
+msgctxt "UI.WORLDRESETDIALOG.RESET_MSG"
+msgid "World will reset in: %d"
+msgstr "Welt wird zurückgesetzt in: %d"
+
+#. UI.WORLDRESETDIALOG.SURVIVED_MSG
+msgctxt "UI.WORLDRESETDIALOG.SURVIVED_MSG"
+msgid "Survived %d Days"
+msgstr "%d Tage überlebt"
+
+#. UI.WORLDRESETDIALOG.SURVIVED_MSG_1_DAY
+msgctxt "UI.WORLDRESETDIALOG.SURVIVED_MSG_1_DAY"
+msgid "Survived %d Day"
+msgstr "%d Tag überlebt"
+
+#. UI.WORLDRESETDIALOG.TITLE
+msgctxt "UI.WORLDRESETDIALOG.TITLE"
+msgid "Day %d: Everyone is dead"
+msgstr "Tag %d: Alle sind tot"
+
+#. UI.WORLDRESETDIALOG.TITLE_LATEJOIN
+msgctxt "UI.WORLDRESETDIALOG.TITLE_LATEJOIN"
+msgid "Day %d: Everyone else is dead. Save them!"
+msgstr "Tag %d: Alle anderen sind tot. Rette sie!"
+
+#. UI.XB1_USER_DIALOG.CONTROLLER_2_DISCONNECTED
+msgctxt "UI.XB1_USER_DIALOG.CONTROLLER_2_DISCONNECTED"
+msgid "Player 2's controller disconnected"
+msgstr "Der Controller von Player 2 ist nicht angeschlossen."
+
+#. UI.XB1_USER_DIALOG.MAIN_CONTROLLER_DISCONNECTED
+msgctxt "UI.XB1_USER_DIALOG.MAIN_CONTROLLER_DISCONNECTED"
+msgid "Main controller disconnected."
+msgstr "Hauptcontroller nicht angeschlossen."
+
+#. UI.XB1_USER_DIALOG.PRESS_A_ON_NEW
+msgctxt "UI.XB1_USER_DIALOG.PRESS_A_ON_NEW"
+msgid "Press A on a new one to continue."
+msgstr "Drücke A auf einem neuen, um fortzufahren."
+
+#. UI.XB1_USER_DIALOG.PRESS_A_TO_SWAP_USER
+msgctxt "UI.XB1_USER_DIALOG.PRESS_A_TO_SWAP_USER"
+msgid "Press A to connect as the main user."
+msgstr "Drücke A, um dich als Hauptbenutzer zu verbinden."
+
+#. UI.XB1_USER_DIALOG.SIGN_IN
+msgctxt "UI.XB1_USER_DIALOG.SIGN_IN"
+msgid "Sign In"
+msgstr "Anmelden"
+
+#. UI.XB1_USER_DIALOG.SIGN_IN_TO_CONTINUE
+msgctxt "UI.XB1_USER_DIALOG.SIGN_IN_TO_CONTINUE"
+msgid "You must sign in again to continue."
+msgstr "Du musst dich anmelden, um fortzufahren."
+
+#. UI.XB1_USER_DIALOG.USER_1_CHANGED
+msgctxt "UI.XB1_USER_DIALOG.USER_1_CHANGED"
+msgid "Main profile changed"
+msgstr "Hauptprofil geändert"
+
+#. UI.XB1_USER_DIALOG.USER_2_CHANGED
+msgctxt "UI.XB1_USER_DIALOG.USER_2_CHANGED"
+msgid "Player 2's profile changed"
+msgstr "Profil von Spieler 2 geändert"
+
+#. UI.XB1_USER_DIALOG.USER_2_HAS_TO_REJOIN
+msgctxt "UI.XB1_USER_DIALOG.USER_2_HAS_TO_REJOIN"
+msgid "Player 2 will need to join the game again."
+msgstr "Spieler 2 muss dem Spiel erneut beitreten."
+
+#. UI.XB1_USER_DIALOG.USER_2_MUST_BE_DIFFERENT
+msgctxt "UI.XB1_USER_DIALOG.USER_2_MUST_BE_DIFFERENT"
+msgid "Player 2's profile must be\ndifferent from Player 1's."
+msgstr "Die Profile von Spieler 2 und\nSpieler 1 müssen sich unterscheiden."
+
+#. UI.XPUTILS.XPPROGRESS
+msgctxt "UI.XPUTILS.XPPROGRESS"
+msgid "{num}/{max}"
+msgstr "{num}/{max}"
+

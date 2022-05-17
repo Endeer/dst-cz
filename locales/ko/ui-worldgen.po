@@ -1,0 +1,330 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.WORLDGEN.CAVETITLE
+msgctxt "UI.WORLDGEN.CAVETITLE"
+msgid "CARVING OUT CAVE"
+msgstr "동굴 파는 중"
+
+#. UI.WORLDGEN.NOUNS.1
+msgctxt "UI.WORLDGEN.NOUNS.1"
+msgid "trees..."
+msgstr "나무"
+
+#. UI.WORLDGEN.NOUNS.10
+msgctxt "UI.WORLDGEN.NOUNS.10"
+msgid "Abigail's ectoplasm..."
+msgstr "아비게일의 엑토플라즘"
+
+#. UI.WORLDGEN.NOUNS.11
+msgctxt "UI.WORLDGEN.NOUNS.11"
+msgid "Webber's fur..."
+msgstr "웨버의 털가죽"
+
+#. UI.WORLDGEN.NOUNS.12
+msgctxt "UI.WORLDGEN.NOUNS.12"
+msgid "Wolfgang's moustache..."
+msgstr "볼프강의 콧수염"
+
+#. UI.WORLDGEN.NOUNS.13
+msgctxt "UI.WORLDGEN.NOUNS.13"
+msgid "Wickerbottom's glasses..."
+msgstr "위커바텀의 안경"
+
+#. UI.WORLDGEN.NOUNS.14
+msgctxt "UI.WORLDGEN.NOUNS.14"
+msgid "Wigfrid's umlauts..."
+msgstr "위그프리드의 움라우트"
+
+#. UI.WORLDGEN.NOUNS.15
+msgctxt "UI.WORLDGEN.NOUNS.15"
+msgid "Willow's teddy bear..."
+msgstr "윌로우의 곰인형"
+
+#. UI.WORLDGEN.NOUNS.16
+msgctxt "UI.WORLDGEN.NOUNS.16"
+msgid "Woodie's plaid..."
+msgstr "우디의 플레드 셔츠"
+
+#. UI.WORLDGEN.NOUNS.17
+msgctxt "UI.WORLDGEN.NOUNS.17"
+msgid "WX-78's gears..."
+msgstr "WX-78의 톱니바퀴"
+
+#. UI.WORLDGEN.NOUNS.18
+msgctxt "UI.WORLDGEN.NOUNS.18"
+msgid "Winona's tools..."
+msgstr "위노나의 도구들"
+
+#. UI.WORLDGEN.NOUNS.19
+msgctxt "UI.WORLDGEN.NOUNS.19"
+msgid "Wortox's hooves..."
+msgstr "워톡스의 발굽"
+
+#. UI.WORLDGEN.NOUNS.2
+msgctxt "UI.WORLDGEN.NOUNS.2"
+msgid "pathos..."
+msgstr "비통함"
+
+#. UI.WORLDGEN.NOUNS.20
+msgctxt "UI.WORLDGEN.NOUNS.20"
+msgid "Wormwood's leaves..."
+msgstr "웜우드의 나뭇잎..."
+
+#. UI.WORLDGEN.NOUNS.21
+msgctxt "UI.WORLDGEN.NOUNS.21"
+msgid "Warly's spices..."
+msgstr "왈리의 양념..."
+
+#. UI.WORLDGEN.NOUNS.22
+msgctxt "UI.WORLDGEN.NOUNS.22"
+msgid "a monarch's sorrow..."
+msgstr "군주의 슬픔..."
+
+#. UI.WORLDGEN.NOUNS.23
+msgctxt "UI.WORLDGEN.NOUNS.23"
+msgid "an inescapable nostalgia..."
+msgstr "피할 수 없는 향수..."
+
+#. UI.WORLDGEN.NOUNS.24
+msgctxt "UI.WORLDGEN.NOUNS.24"
+msgid "gold and marble..."
+msgstr "금과 대리석..."
+
+#. UI.WORLDGEN.NOUNS.25
+msgctxt "UI.WORLDGEN.NOUNS.25"
+msgid "thorns..."
+msgstr "가시..."
+
+#. UI.WORLDGEN.NOUNS.26
+msgctxt "UI.WORLDGEN.NOUNS.26"
+msgid "unbreakable bonds..."
+msgstr "끊을 수 없는 고리..."
+
+#. UI.WORLDGEN.NOUNS.27
+msgctxt "UI.WORLDGEN.NOUNS.27"
+msgid "intense friendship..."
+msgstr "강렬한 우정..."
+
+#. UI.WORLDGEN.NOUNS.28
+msgctxt "UI.WORLDGEN.NOUNS.28"
+msgid "common goals..."
+msgstr "공동의 목표..."
+
+#. UI.WORLDGEN.NOUNS.29
+msgctxt "UI.WORLDGEN.NOUNS.29"
+msgid "a comforting togetherness..."
+msgstr "안락한 연대감..."
+
+#. UI.WORLDGEN.NOUNS.3
+msgctxt "UI.WORLDGEN.NOUNS.3"
+msgid "pines..."
+msgstr "솔방울"
+
+#. UI.WORLDGEN.NOUNS.30
+msgctxt "UI.WORLDGEN.NOUNS.30"
+msgid "buckets and buckets of loot..."
+msgstr "산더미 같은 전리품..."
+
+#. UI.WORLDGEN.NOUNS.31
+msgctxt "UI.WORLDGEN.NOUNS.31"
+msgid "game theory..."
+msgstr "게임 이론..."
+
+#. UI.WORLDGEN.NOUNS.32
+msgctxt "UI.WORLDGEN.NOUNS.32"
+msgid "poignant tragedy..."
+msgstr "사무치는 비극..."
+
+#. UI.WORLDGEN.NOUNS.33
+msgctxt "UI.WORLDGEN.NOUNS.33"
+msgid "a hint of shadow..."
+msgstr "그림자의 흔적..."
+
+#. UI.WORLDGEN.NOUNS.34
+msgctxt "UI.WORLDGEN.NOUNS.34"
+msgid "food..."
+msgstr "음식..."
+
+#. UI.WORLDGEN.NOUNS.35
+msgctxt "UI.WORLDGEN.NOUNS.35"
+msgid "lovely roses..."
+msgstr "사랑스러운 장미..."
+
+#. UI.WORLDGEN.NOUNS.36
+msgctxt "UI.WORLDGEN.NOUNS.36"
+msgid "gems..."
+msgstr "보석..."
+
+#. UI.WORLDGEN.NOUNS.37
+msgctxt "UI.WORLDGEN.NOUNS.37"
+msgid "souls..."
+msgstr "영혼..."
+
+#. UI.WORLDGEN.NOUNS.38
+msgctxt "UI.WORLDGEN.NOUNS.38"
+msgid "unspeakable things..."
+msgstr "말할 수 없는 것..."
+
+#. UI.WORLDGEN.NOUNS.39
+msgctxt "UI.WORLDGEN.NOUNS.39"
+msgid "primal instincts..."
+msgstr "원시 본능..."
+
+#. UI.WORLDGEN.NOUNS.4
+msgctxt "UI.WORLDGEN.NOUNS.4"
+msgid "spiders..."
+msgstr "거미"
+
+#. UI.WORLDGEN.NOUNS.40
+msgctxt "UI.WORLDGEN.NOUNS.40"
+msgid "terrible darkness..."
+msgstr "끔찍한 어둠..."
+
+#. UI.WORLDGEN.NOUNS.41
+msgctxt "UI.WORLDGEN.NOUNS.41"
+msgid "a touch of magic..."
+msgstr "마법의 손길..."
+
+#. UI.WORLDGEN.NOUNS.5
+msgctxt "UI.WORLDGEN.NOUNS.5"
+msgid "monsters..."
+msgstr "몬스터"
+
+#. UI.WORLDGEN.NOUNS.6
+msgctxt "UI.WORLDGEN.NOUNS.6"
+msgid "a keen sense of despair..."
+msgstr "처절한 절망감"
+
+#. UI.WORLDGEN.NOUNS.7
+msgctxt "UI.WORLDGEN.NOUNS.7"
+msgid "Wilson's beard..."
+msgstr "윌슨의 수염"
+
+#. UI.WORLDGEN.NOUNS.8
+msgctxt "UI.WORLDGEN.NOUNS.8"
+msgid "Maxwell's pocket squares..."
+msgstr "맥스웰의 손수건"
+
+#. UI.WORLDGEN.NOUNS.9
+msgctxt "UI.WORLDGEN.NOUNS.9"
+msgid "Wendy's pigtails..."
+msgstr "웬디의 피그테일"
+
+#. UI.WORLDGEN.TITLE
+msgctxt "UI.WORLDGEN.TITLE"
+msgid "GENERATING WORLD"
+msgstr "세계 생성 중"
+
+#. UI.WORLDGEN.VERBS.1
+msgctxt "UI.WORLDGEN.VERBS.1"
+msgid "Wrangling"
+msgstr "논쟁 중인"
+
+#. UI.WORLDGEN.VERBS.10
+msgctxt "UI.WORLDGEN.VERBS.10"
+msgid "Crafting"
+msgstr "제작 중..."
+
+#. UI.WORLDGEN.VERBS.11
+msgctxt "UI.WORLDGEN.VERBS.11"
+msgid "Imbuing"
+msgstr "부여 중..."
+
+#. UI.WORLDGEN.VERBS.12
+msgctxt "UI.WORLDGEN.VERBS.12"
+msgid "Randomizing"
+msgstr "무작위 배정 중..."
+
+#. UI.WORLDGEN.VERBS.13
+msgctxt "UI.WORLDGEN.VERBS.13"
+msgid "Redecorating"
+msgstr "다시 장식하는 중..."
+
+#. UI.WORLDGEN.VERBS.14
+msgctxt "UI.WORLDGEN.VERBS.14"
+msgid "Sprucing up"
+msgstr "때 빼고 광 내는 중..."
+
+#. UI.WORLDGEN.VERBS.15
+msgctxt "UI.WORLDGEN.VERBS.15"
+msgid "Manifesting"
+msgstr "발현 중..."
+
+#. UI.WORLDGEN.VERBS.16
+msgctxt "UI.WORLDGEN.VERBS.16"
+msgid "Summoning"
+msgstr "소환 중..."
+
+#. UI.WORLDGEN.VERBS.17
+msgctxt "UI.WORLDGEN.VERBS.17"
+msgid "Compiling"
+msgstr "컴파일 중..."
+
+#. UI.WORLDGEN.VERBS.18
+msgctxt "UI.WORLDGEN.VERBS.18"
+msgid "Building"
+msgstr "건설 중..."
+
+#. UI.WORLDGEN.VERBS.19
+msgctxt "UI.WORLDGEN.VERBS.19"
+msgid "Spawning"
+msgstr "스폰 중..."
+
+#. UI.WORLDGEN.VERBS.2
+msgctxt "UI.WORLDGEN.VERBS.2"
+msgid "Generating"
+msgstr "생성 중..."
+
+#. UI.WORLDGEN.VERBS.20
+msgctxt "UI.WORLDGEN.VERBS.20"
+msgid "Rendering"
+msgstr "렌더링 중..."
+
+#. UI.WORLDGEN.VERBS.21
+msgctxt "UI.WORLDGEN.VERBS.21"
+msgid "Enchanting"
+msgstr "마법 부여 중..."
+
+#. UI.WORLDGEN.VERBS.22
+msgctxt "UI.WORLDGEN.VERBS.22"
+msgid "Solving"
+msgstr "해결하는 중..."
+
+#. UI.WORLDGEN.VERBS.3
+msgctxt "UI.WORLDGEN.VERBS.3"
+msgid "Herding"
+msgstr "모으고 있는 중..."
+
+#. UI.WORLDGEN.VERBS.4
+msgctxt "UI.WORLDGEN.VERBS.4"
+msgid "Embiggening"
+msgstr "크게 만드는 중..."
+
+#. UI.WORLDGEN.VERBS.5
+msgctxt "UI.WORLDGEN.VERBS.5"
+msgid "Iterating upon"
+msgstr "반복 작업 중..."
+
+#. UI.WORLDGEN.VERBS.6
+msgctxt "UI.WORLDGEN.VERBS.6"
+msgid "Insinuating"
+msgstr "암시 작업 중..."
+
+#. UI.WORLDGEN.VERBS.7
+msgctxt "UI.WORLDGEN.VERBS.7"
+msgid "Reticulating"
+msgstr "그물 치는 중..."
+
+#. UI.WORLDGEN.VERBS.8
+msgctxt "UI.WORLDGEN.VERBS.8"
+msgid "Inserting"
+msgstr "삽입하는 중..."
+
+#. UI.WORLDGEN.VERBS.9
+msgctxt "UI.WORLDGEN.VERBS.9"
+msgid "Framing"
+msgstr "액자 씌우는 중..."
+

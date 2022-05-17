@@ -1,0 +1,715 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.SANDBOXMENU.ADDLEVEL
+msgctxt "UI.SANDBOXMENU.ADDLEVEL"
+msgid "Add %s"
+msgstr "%s 추가"
+
+#. UI.SANDBOXMENU.ADDLEVEL_EXISTINGWARNING
+msgctxt "UI.SANDBOXMENU.ADDLEVEL_EXISTINGWARNING"
+msgid "This change is permanent and cannot be undone. Are you sure you want to continue?"
+msgstr "이 변경은 영구적이며 실행 취소할 수 없습니다. 정말 이대로 진행하시겠습니까?"
+
+#. UI.SANDBOXMENU.ADDLEVEL_WARNING
+msgctxt "UI.SANDBOXMENU.ADDLEVEL_WARNING"
+msgid "This requires running multiple servers at the same time.\nIs your computer up to the task?"
+msgstr "이 작업은 동시에 여러 서버를 실행해야 합니다.\n당신의 컴퓨터가 이를 실행할 수 있습니까?"
+
+#. UI.SANDBOXMENU.ADVENTURELEVELS.1
+msgctxt "UI.SANDBOXMENU.ADVENTURELEVELS.1"
+msgid "A Cold Reception"
+msgstr "차가운 응대"
+
+#. UI.SANDBOXMENU.ADVENTURELEVELS.2
+msgctxt "UI.SANDBOXMENU.ADVENTURELEVELS.2"
+msgid "The King of Winter"
+msgstr "겨울의 왕"
+
+#. UI.SANDBOXMENU.ADVENTURELEVELS.3
+msgctxt "UI.SANDBOXMENU.ADVENTURELEVELS.3"
+msgid "The Game is Afoot"
+msgstr "본격적인 게임 시작"
+
+#. UI.SANDBOXMENU.ADVENTURELEVELS.4
+msgctxt "UI.SANDBOXMENU.ADVENTURELEVELS.4"
+msgid "Archipelago"
+msgstr "군도"
+
+#. UI.SANDBOXMENU.ADVENTURELEVELS.5
+msgctxt "UI.SANDBOXMENU.ADVENTURELEVELS.5"
+msgid "Two Worlds"
+msgstr "두 세계"
+
+#. UI.SANDBOXMENU.ADVENTURELEVELS.6
+msgctxt "UI.SANDBOXMENU.ADVENTURELEVELS.6"
+msgid "Darkness"
+msgstr "암흑"
+
+#. UI.SANDBOXMENU.ADVENTURELEVELS.7
+msgctxt "UI.SANDBOXMENU.ADVENTURELEVELS.7"
+msgid "Checkmate"
+msgstr "외통 장군"
+
+#. UI.SANDBOXMENU.ALWAYS
+msgctxt "UI.SANDBOXMENU.ALWAYS"
+msgid "Always"
+msgstr "항상"
+
+#. UI.SANDBOXMENU.AUTOADDLEVEL
+msgctxt "UI.SANDBOXMENU.AUTOADDLEVEL"
+msgid "Always Add %s"
+msgstr "항상 %s 추가"
+
+#. UI.SANDBOXMENU.AUTUMN
+msgctxt "UI.SANDBOXMENU.AUTUMN"
+msgid "Autumn"
+msgstr "가을"
+
+#. UI.SANDBOXMENU.AUTUMN_SPRING
+msgctxt "UI.SANDBOXMENU.AUTUMN_SPRING"
+msgid "Autumn or Spring"
+msgstr "가을 또는 봄"
+
+#. UI.SANDBOXMENU.BRANCHINGANY
+msgctxt "UI.SANDBOXMENU.BRANCHINGANY"
+msgid "Default"
+msgstr "기본값"
+
+#. UI.SANDBOXMENU.BRANCHINGLEAST
+msgctxt "UI.SANDBOXMENU.BRANCHINGLEAST"
+msgid "Least"
+msgstr "최소"
+
+#. UI.SANDBOXMENU.BRANCHINGMOST
+msgctxt "UI.SANDBOXMENU.BRANCHINGMOST"
+msgid "Most"
+msgstr "최대"
+
+#. UI.SANDBOXMENU.BRANCHINGNEVER
+msgctxt "UI.SANDBOXMENU.BRANCHINGNEVER"
+msgid "Never"
+msgstr "안 함"
+
+#. UI.SANDBOXMENU.CAVESTART
+msgctxt "UI.SANDBOXMENU.CAVESTART"
+msgid "Caves"
+msgstr "동굴"
+
+#. UI.SANDBOXMENU.CHAPTERS.1
+msgctxt "UI.SANDBOXMENU.CHAPTERS.1"
+msgid "Chapter 1 of 5"
+msgstr "5장 중 제1장"
+
+#. UI.SANDBOXMENU.CHAPTERS.2
+msgctxt "UI.SANDBOXMENU.CHAPTERS.2"
+msgid "Chapter 2 of 5"
+msgstr "5장 중 제2장"
+
+#. UI.SANDBOXMENU.CHAPTERS.3
+msgctxt "UI.SANDBOXMENU.CHAPTERS.3"
+msgid "Chapter 3 of 5"
+msgstr "5장 중 제3장"
+
+#. UI.SANDBOXMENU.CHAPTERS.4
+msgctxt "UI.SANDBOXMENU.CHAPTERS.4"
+msgid "Chapter 4 of 5"
+msgstr "5장 중 제4장"
+
+#. UI.SANDBOXMENU.CHAPTERS.5
+msgctxt "UI.SANDBOXMENU.CHAPTERS.5"
+msgid "Chapter 5 of 5"
+msgstr "5장 중 제5장"
+
+#. UI.SANDBOXMENU.CHAPTERS.6
+msgctxt "UI.SANDBOXMENU.CHAPTERS.6"
+msgid "Epilogue"
+msgstr "에필로그"
+
+#. UI.SANDBOXMENU.CHOICEAMTDAY
+msgctxt "UI.SANDBOXMENU.CHOICEAMTDAY"
+msgid "Amount of Day"
+msgstr "일수"
+
+#. UI.SANDBOXMENU.CHOICEANIMALS
+msgctxt "UI.SANDBOXMENU.CHOICEANIMALS"
+msgid "Animals"
+msgstr "동물"
+
+#. UI.SANDBOXMENU.CHOICECOOKED
+msgctxt "UI.SANDBOXMENU.CHOICECOOKED"
+msgid "Prepared Food"
+msgstr "요리한 음식"
+
+#. UI.SANDBOXMENU.CHOICEEVENTS
+msgctxt "UI.SANDBOXMENU.CHOICEEVENTS"
+msgid "Events"
+msgstr "이벤트"
+
+#. UI.SANDBOXMENU.CHOICEFOOD
+msgctxt "UI.SANDBOXMENU.CHOICEFOOD"
+msgid "Food"
+msgstr "음식"
+
+#. UI.SANDBOXMENU.CHOICEGIANTS
+msgctxt "UI.SANDBOXMENU.CHOICEGIANTS"
+msgid "Giants"
+msgstr "거대"
+
+#. UI.SANDBOXMENU.CHOICEGLOBAL
+msgctxt "UI.SANDBOXMENU.CHOICEGLOBAL"
+msgid "Global"
+msgstr "글로벌"
+
+#. UI.SANDBOXMENU.CHOICEMISC
+msgctxt "UI.SANDBOXMENU.CHOICEMISC"
+msgid "World"
+msgstr "세계"
+
+#. UI.SANDBOXMENU.CHOICEMONSTERS
+msgctxt "UI.SANDBOXMENU.CHOICEMONSTERS"
+msgid "Monsters"
+msgstr "몬스터"
+
+#. UI.SANDBOXMENU.CHOICEOCEAN
+msgctxt "UI.SANDBOXMENU.CHOICEOCEAN"
+msgid "Ocean"
+msgstr "대양"
+
+#. UI.SANDBOXMENU.CHOICERESOURCES
+msgctxt "UI.SANDBOXMENU.CHOICERESOURCES"
+msgid "Resources"
+msgstr "자원"
+
+#. UI.SANDBOXMENU.CHOICESURVIVORS
+msgctxt "UI.SANDBOXMENU.CHOICESURVIVORS"
+msgid "Survivors"
+msgstr "생존자"
+
+#. UI.SANDBOXMENU.CLASSIC
+msgctxt "UI.SANDBOXMENU.CLASSIC"
+msgid "Classic"
+msgstr "클래식"
+
+#. UI.SANDBOXMENU.DARKSTART
+msgctxt "UI.SANDBOXMENU.DARKSTART"
+msgid "Dark"
+msgstr "어둠"
+
+#. UI.SANDBOXMENU.DAY
+msgctxt "UI.SANDBOXMENU.DAY"
+msgid "Day"
+msgstr "일"
+
+#. UI.SANDBOXMENU.DAY_10
+msgctxt "UI.SANDBOXMENU.DAY_10"
+msgid "After Day 10"
+msgstr "10일 후"
+
+#. UI.SANDBOXMENU.DAY_15
+msgctxt "UI.SANDBOXMENU.DAY_15"
+msgid "After Day 15"
+msgstr "15일 후"
+
+#. UI.SANDBOXMENU.DAY_20
+msgctxt "UI.SANDBOXMENU.DAY_20"
+msgid "After Day 20"
+msgstr "20일 후"
+
+#. UI.SANDBOXMENU.DAY_5
+msgctxt "UI.SANDBOXMENU.DAY_5"
+msgid "After Day 5"
+msgstr "5일차 이후"
+
+#. UI.SANDBOXMENU.DEFAULT
+msgctxt "UI.SANDBOXMENU.DEFAULT"
+msgid "Autumn"
+msgstr "가을"
+
+#. UI.SANDBOXMENU.DEFAULTSTART
+msgctxt "UI.SANDBOXMENU.DEFAULTSTART"
+msgid "Default"
+msgstr "기본값"
+
+#. UI.SANDBOXMENU.DETECT_ALWAYS
+msgctxt "UI.SANDBOXMENU.DETECT_ALWAYS"
+msgid "Always"
+msgstr "항상"
+
+#. UI.SANDBOXMENU.DETECT_AUTO
+msgctxt "UI.SANDBOXMENU.DETECT_AUTO"
+msgid "Auto Detect"
+msgstr "자동 감지"
+
+#. UI.SANDBOXMENU.DETECT_NEVER
+msgctxt "UI.SANDBOXMENU.DETECT_NEVER"
+msgid "Never"
+msgstr "안 함"
+
+#. UI.SANDBOXMENU.DISABLED
+msgctxt "UI.SANDBOXMENU.DISABLED"
+msgid "Disabled"
+msgstr "꺼짐"
+
+#. UI.SANDBOXMENU.DISABLEDLEVEL
+msgctxt "UI.SANDBOXMENU.DISABLEDLEVEL"
+msgid "No %s"
+msgstr "%s 없음"
+
+#. UI.SANDBOXMENU.DUSK
+msgctxt "UI.SANDBOXMENU.DUSK"
+msgid "Dusk"
+msgstr "황혼"
+
+#. UI.SANDBOXMENU.EASY
+msgctxt "UI.SANDBOXMENU.EASY"
+msgid "Not Easy"
+msgstr "쉽지 않음"
+
+#. UI.SANDBOXMENU.ENABLED
+msgctxt "UI.SANDBOXMENU.ENABLED"
+msgid "Enabled"
+msgstr "켜짐"
+
+#. UI.SANDBOXMENU.EVERYTHING
+msgctxt "UI.SANDBOXMENU.EVERYTHING"
+msgid "Everything"
+msgstr "전부"
+
+#. UI.SANDBOXMENU.EXCLUDE
+msgctxt "UI.SANDBOXMENU.EXCLUDE"
+msgid "No"
+msgstr "아니오"
+
+#. UI.SANDBOXMENU.GENERATE
+msgctxt "UI.SANDBOXMENU.GENERATE"
+msgid "OK"
+msgstr "확인"
+
+#. UI.SANDBOXMENU.HARD
+msgctxt "UI.SANDBOXMENU.HARD"
+msgid "Overly Taxing"
+msgstr "과도하게 어려움"
+
+#. UI.SANDBOXMENU.HIGHLYRANDOM
+msgctxt "UI.SANDBOXMENU.HIGHLYRANDOM"
+msgid "Highly Random"
+msgstr "고도의 무작위"
+
+#. UI.SANDBOXMENU.LOCATION.CAVE
+msgctxt "UI.SANDBOXMENU.LOCATION.CAVE"
+msgid "Cave"
+msgstr "동굴"
+
+#. UI.SANDBOXMENU.LOCATION.FOREST
+msgctxt "UI.SANDBOXMENU.LOCATION.FOREST"
+msgid "Forest"
+msgstr "숲"
+
+#. UI.SANDBOXMENU.LOCATION.LAVAARENA
+msgctxt "UI.SANDBOXMENU.LOCATION.LAVAARENA"
+msgid "The Forge"
+msgstr "The Forge"
+
+#. UI.SANDBOXMENU.LOCATION.QUAGMIRE
+msgctxt "UI.SANDBOXMENU.LOCATION.QUAGMIRE"
+msgid "The Gorge"
+msgstr "The Gorge"
+
+#. UI.SANDBOXMENU.LOCATION.UNKNOWN
+msgctxt "UI.SANDBOXMENU.LOCATION.UNKNOWN"
+msgid "Some"
+msgstr "약간"
+
+#. UI.SANDBOXMENU.LOCATIONTABNAME.CAVE
+msgctxt "UI.SANDBOXMENU.LOCATIONTABNAME.CAVE"
+msgid "Caves"
+msgstr "동굴"
+
+#. UI.SANDBOXMENU.LOCATIONTABNAME.FOREST
+msgctxt "UI.SANDBOXMENU.LOCATIONTABNAME.FOREST"
+msgid "Forest"
+msgstr "숲"
+
+#. UI.SANDBOXMENU.LOCATIONTABNAME.LAVAARENA
+msgctxt "UI.SANDBOXMENU.LOCATIONTABNAME.LAVAARENA"
+msgid "The Forge"
+msgstr "The Forge"
+
+#. UI.SANDBOXMENU.LOCATIONTABNAME.QUAGMIRE
+msgctxt "UI.SANDBOXMENU.LOCATIONTABNAME.QUAGMIRE"
+msgid "The Gorge"
+msgstr "The Gorge"
+
+#. UI.SANDBOXMENU.LOCATIONTABNAME.UNKNOWN
+msgctxt "UI.SANDBOXMENU.LOCATIONTABNAME.UNKNOWN"
+msgid "???"
+msgstr "???"
+
+#. UI.SANDBOXMENU.LOOPALWAYS
+msgctxt "UI.SANDBOXMENU.LOOPALWAYS"
+msgid "Always"
+msgstr "항상"
+
+#. UI.SANDBOXMENU.LOOPNEVER
+msgctxt "UI.SANDBOXMENU.LOOPNEVER"
+msgid "Never"
+msgstr "안 함"
+
+#. UI.SANDBOXMENU.LOOPRANDOM
+msgctxt "UI.SANDBOXMENU.LOOPRANDOM"
+msgid "Default"
+msgstr "기본값"
+
+#. UI.SANDBOXMENU.MAINMENU
+msgctxt "UI.SANDBOXMENU.MAINMENU"
+msgid "Cancel"
+msgstr "취소"
+
+#. UI.SANDBOXMENU.MEDIUM
+msgctxt "UI.SANDBOXMENU.MEDIUM"
+msgid "Quite Difficult"
+msgstr "꽤 어려움"
+
+#. UI.SANDBOXMENU.MODIFYTASKS
+msgctxt "UI.SANDBOXMENU.MODIFYTASKS"
+msgid "Modify Tasks"
+msgstr "작업 수정"
+
+#. UI.SANDBOXMENU.NIGHT
+msgctxt "UI.SANDBOXMENU.NIGHT"
+msgid "Night"
+msgstr "밤"
+
+#. UI.SANDBOXMENU.NO
+msgctxt "UI.SANDBOXMENU.NO"
+msgid "No"
+msgstr "아니오"
+
+#. UI.SANDBOXMENU.NONE
+msgctxt "UI.SANDBOXMENU.NONE"
+msgid "None"
+msgstr "없음"
+
+#. UI.SANDBOXMENU.NONEAVAILABLE
+msgctxt "UI.SANDBOXMENU.NONEAVAILABLE"
+msgid "None Available"
+msgstr "아무것도 사용 불가"
+
+#. UI.SANDBOXMENU.PLUSSTART
+msgctxt "UI.SANDBOXMENU.PLUSSTART"
+msgid "Plus"
+msgstr "플러스"
+
+#. UI.SANDBOXMENU.PS4_SLIDESMALL
+msgctxt "UI.SANDBOXMENU.PS4_SLIDESMALL"
+msgid "Default"
+msgstr "기본값"
+
+#. UI.SANDBOXMENU.PS4_SLIDESMEDIUM
+msgctxt "UI.SANDBOXMENU.PS4_SLIDESMEDIUM"
+msgid "Big"
+msgstr "큼"
+
+#. UI.SANDBOXMENU.QTYALL
+msgctxt "UI.SANDBOXMENU.QTYALL"
+msgid "All"
+msgstr "모두"
+
+#. UI.SANDBOXMENU.QTYFEW
+msgctxt "UI.SANDBOXMENU.QTYFEW"
+msgid "Few"
+msgstr "적음"
+
+#. UI.SANDBOXMENU.QTYMANY
+msgctxt "UI.SANDBOXMENU.QTYMANY"
+msgid "Many"
+msgstr "많음"
+
+#. UI.SANDBOXMENU.QTYMAX
+msgctxt "UI.SANDBOXMENU.QTYMAX"
+msgid "Maximum"
+msgstr "최대"
+
+#. UI.SANDBOXMENU.QTYMEDIUM
+msgctxt "UI.SANDBOXMENU.QTYMEDIUM"
+msgid "Medium"
+msgstr "중간"
+
+#. UI.SANDBOXMENU.QTYNONE
+msgctxt "UI.SANDBOXMENU.QTYNONE"
+msgid "None"
+msgstr "없음"
+
+#. UI.SANDBOXMENU.QTYNORMAL
+msgctxt "UI.SANDBOXMENU.QTYNORMAL"
+msgid "Normal"
+msgstr "보통"
+
+#. UI.SANDBOXMENU.RANDOM
+msgctxt "UI.SANDBOXMENU.RANDOM"
+msgid "Random"
+msgstr "무작위"
+
+#. UI.SANDBOXMENU.REMOVELEVEL
+msgctxt "UI.SANDBOXMENU.REMOVELEVEL"
+msgid "Remove %s"
+msgstr "%s 제거"
+
+#. UI.SANDBOXMENU.REMOVELEVEL_WARNING
+msgctxt "UI.SANDBOXMENU.REMOVELEVEL_WARNING"
+msgid "Do you want to remove %s from this server?"
+msgstr "%s을(를) 이 서버에서 제거하시겠습니까?"
+
+#. UI.SANDBOXMENU.SLIDEALL
+msgctxt "UI.SANDBOXMENU.SLIDEALL"
+msgid "Only"
+msgstr "이것만"
+
+#. UI.SANDBOXMENU.SLIDEALWAYS
+msgctxt "UI.SANDBOXMENU.SLIDEALWAYS"
+msgid "Tons"
+msgstr "많음"
+
+#. UI.SANDBOXMENU.SLIDECOMPLEX
+msgctxt "UI.SANDBOXMENU.SLIDECOMPLEX"
+msgid "Complex"
+msgstr "복잡함"
+
+#. UI.SANDBOXMENU.SLIDEDEFAULT
+msgctxt "UI.SANDBOXMENU.SLIDEDEFAULT"
+msgid "Default"
+msgstr "기본값"
+
+#. UI.SANDBOXMENU.SLIDEFAST
+msgctxt "UI.SANDBOXMENU.SLIDEFAST"
+msgid "Fast"
+msgstr "빠름"
+
+#. UI.SANDBOXMENU.SLIDEINSANE
+msgctxt "UI.SANDBOXMENU.SLIDEINSANE"
+msgid "Insane"
+msgstr "미치광이"
+
+#. UI.SANDBOXMENU.SLIDELONG
+msgctxt "UI.SANDBOXMENU.SLIDELONG"
+msgid "Long"
+msgstr "긺"
+
+#. UI.SANDBOXMENU.SLIDEMOSTLY
+msgctxt "UI.SANDBOXMENU.SLIDEMOSTLY"
+msgid "Lots"
+msgstr "많음"
+
+#. UI.SANDBOXMENU.SLIDENEVER
+msgctxt "UI.SANDBOXMENU.SLIDENEVER"
+msgid "None"
+msgstr "없음"
+
+#. UI.SANDBOXMENU.SLIDEOFTEN
+msgctxt "UI.SANDBOXMENU.SLIDEOFTEN"
+msgid "More"
+msgstr "더 자주"
+
+#. UI.SANDBOXMENU.SLIDERARE
+msgctxt "UI.SANDBOXMENU.SLIDERARE"
+msgid "Little"
+msgstr "조그마한"
+
+#. UI.SANDBOXMENU.SLIDESHORT
+msgctxt "UI.SANDBOXMENU.SLIDESHORT"
+msgid "Short"
+msgstr "짧음"
+
+#. UI.SANDBOXMENU.SLIDESHUGE
+msgctxt "UI.SANDBOXMENU.SLIDESHUGE"
+msgid "Huge"
+msgstr "매우 큼"
+
+#. UI.SANDBOXMENU.SLIDESIMPLE
+msgctxt "UI.SANDBOXMENU.SLIDESIMPLE"
+msgid "Simple"
+msgstr "간단함"
+
+#. UI.SANDBOXMENU.SLIDESLARGE
+msgctxt "UI.SANDBOXMENU.SLIDESLARGE"
+msgid "Large"
+msgstr "큼"
+
+#. UI.SANDBOXMENU.SLIDESLOW
+msgctxt "UI.SANDBOXMENU.SLIDESLOW"
+msgid "Slow"
+msgstr "느림"
+
+#. UI.SANDBOXMENU.SLIDESMALL
+msgctxt "UI.SANDBOXMENU.SLIDESMALL"
+msgid "Small"
+msgstr "작은"
+
+#. UI.SANDBOXMENU.SLIDESMEDIUM
+msgctxt "UI.SANDBOXMENU.SLIDESMEDIUM"
+msgid "Medium"
+msgstr "중간"
+
+#. UI.SANDBOXMENU.SLIDETINY
+msgctxt "UI.SANDBOXMENU.SLIDETINY"
+msgid "Tiny"
+msgstr "매우 작은"
+
+#. UI.SANDBOXMENU.SLIDEUNCOMMON
+msgctxt "UI.SANDBOXMENU.SLIDEUNCOMMON"
+msgid "Less"
+msgstr "덜"
+
+#. UI.SANDBOXMENU.SLIDEVERYCOMPLEX
+msgctxt "UI.SANDBOXMENU.SLIDEVERYCOMPLEX"
+msgid "Very Complex"
+msgstr "매우 복잡함"
+
+#. UI.SANDBOXMENU.SLIDEVERYFAST
+msgctxt "UI.SANDBOXMENU.SLIDEVERYFAST"
+msgid "Very Fast"
+msgstr "매우 빠름"
+
+#. UI.SANDBOXMENU.SLIDEVERYLONG
+msgctxt "UI.SANDBOXMENU.SLIDEVERYLONG"
+msgid "Very Long"
+msgstr "매우 긺"
+
+#. UI.SANDBOXMENU.SLIDEVERYSHORT
+msgctxt "UI.SANDBOXMENU.SLIDEVERYSHORT"
+msgid "Very Short"
+msgstr "매우 짧음"
+
+#. UI.SANDBOXMENU.SLIDEVERYSIMPLE
+msgctxt "UI.SANDBOXMENU.SLIDEVERYSIMPLE"
+msgid "Very Simple"
+msgstr "매우 단순함"
+
+#. UI.SANDBOXMENU.SLIDEVERYSLOW
+msgctxt "UI.SANDBOXMENU.SLIDEVERYSLOW"
+msgid "Very Slow"
+msgstr "매우 느림"
+
+#. UI.SANDBOXMENU.SPECIAL_EVENTS.CARNIVAL
+msgctxt "UI.SANDBOXMENU.SPECIAL_EVENTS.CARNIVAL"
+msgid "Midsummer Cawnival"
+msgstr "한여름의 까아악제"
+
+#. UI.SANDBOXMENU.SPECIAL_EVENTS.DEFAULT
+msgctxt "UI.SANDBOXMENU.SPECIAL_EVENTS.DEFAULT"
+msgid "Auto"
+msgstr "자동"
+
+#. UI.SANDBOXMENU.SPECIAL_EVENTS.HALLOWED_NIGHTS
+msgctxt "UI.SANDBOXMENU.SPECIAL_EVENTS.HALLOWED_NIGHTS"
+msgid "Hallowed Nights"
+msgstr "Hallowed Nights"
+
+#. UI.SANDBOXMENU.SPECIAL_EVENTS.WINTERS_FEAST
+msgctxt "UI.SANDBOXMENU.SPECIAL_EVENTS.WINTERS_FEAST"
+msgid "Winter's Feast"
+msgstr "겨울 축제"
+
+#. UI.SANDBOXMENU.SPECIAL_EVENTS.YOTB
+msgctxt "UI.SANDBOXMENU.SPECIAL_EVENTS.YOTB"
+msgid "Year of the Beefalo"
+msgstr "비팔로의 해"
+
+#. UI.SANDBOXMENU.SPECIAL_EVENTS.YOTC
+msgctxt "UI.SANDBOXMENU.SPECIAL_EVENTS.YOTC"
+msgid "Year of the Carrat"
+msgstr "당근이쥐의 해"
+
+#. UI.SANDBOXMENU.SPECIAL_EVENTS.YOTG
+msgctxt "UI.SANDBOXMENU.SPECIAL_EVENTS.YOTG"
+msgid "Year of the Gobbler"
+msgstr "칠면조의 해"
+
+#. UI.SANDBOXMENU.SPECIAL_EVENTS.YOTP
+msgctxt "UI.SANDBOXMENU.SPECIAL_EVENTS.YOTP"
+msgid "Year of the Pig King"
+msgstr "돼지 왕의 해"
+
+#. UI.SANDBOXMENU.SPECIAL_EVENTS.YOTV
+msgctxt "UI.SANDBOXMENU.SPECIAL_EVENTS.YOTV"
+msgid "Year of the Varg"
+msgstr "바르그의 해"
+
+#. UI.SANDBOXMENU.SPECIAL_EVENTS.YOT_CATCOON
+msgctxt "UI.SANDBOXMENU.SPECIAL_EVENTS.YOT_CATCOON"
+msgid "Year of the Catcoon"
+msgstr "냥냥쿤의 해"
+
+#. UI.SANDBOXMENU.SPRING
+msgctxt "UI.SANDBOXMENU.SPRING"
+msgid "Spring"
+msgstr "봄"
+
+#. UI.SANDBOXMENU.SUMMER
+msgctxt "UI.SANDBOXMENU.SUMMER"
+msgid "Summer"
+msgstr "여름"
+
+#. UI.SANDBOXMENU.TITLE
+msgctxt "UI.SANDBOXMENU.TITLE"
+msgid "World Customization"
+msgstr "세계 커스터마이징"
+
+#. UI.SANDBOXMENU.TITLEDETAIL
+msgctxt "UI.SANDBOXMENU.TITLEDETAIL"
+msgid ""
+msgstr ""
+
+#. UI.SANDBOXMENU.USEPRESETS
+msgctxt "UI.SANDBOXMENU.USEPRESETS"
+msgid "Presets"
+msgstr "프리셋"
+
+#. UI.SANDBOXMENU.USEPRESETS_LOCATION
+msgctxt "UI.SANDBOXMENU.USEPRESETS_LOCATION"
+msgid "%s Presets"
+msgstr "%s 프리셋"
+
+#. UI.SANDBOXMENU.WINTER
+msgctxt "UI.SANDBOXMENU.WINTER"
+msgid "Winter"
+msgstr "겨울"
+
+#. UI.SANDBOXMENU.WINTER_SUMMER
+msgctxt "UI.SANDBOXMENU.WINTER_SUMMER"
+msgid "Winter or Summer"
+msgstr "겨울 또는 여름"
+
+#. UI.SANDBOXMENU.WORLDGENERATION_ANIMALS
+msgctxt "UI.SANDBOXMENU.WORLDGENERATION_ANIMALS"
+msgid "Creatures and Spawners"
+msgstr "생물과 산란기"
+
+#. UI.SANDBOXMENU.WORLDGENERATION_HOSTILE_CREATURES
+msgctxt "UI.SANDBOXMENU.WORLDGENERATION_HOSTILE_CREATURES"
+msgid "Hostile Creatures and Spawners"
+msgstr "적대적인 생물과 산란기"
+
+#. UI.SANDBOXMENU.WORLDSETTINGS_ANIMALS
+msgctxt "UI.SANDBOXMENU.WORLDSETTINGS_ANIMALS"
+msgid "Creatures"
+msgstr "생물"
+
+#. UI.SANDBOXMENU.WORLDSETTINGS_HOSTILE_CREATURES
+msgctxt "UI.SANDBOXMENU.WORLDSETTINGS_HOSTILE_CREATURES"
+msgid "Hostile Creatures"
+msgstr "적대적인 생물"
+
+#. UI.SANDBOXMENU.WORLDSETTINGS_RESOURCEREGROWTH
+msgctxt "UI.SANDBOXMENU.WORLDSETTINGS_RESOURCEREGROWTH"
+msgid "Resource Regrowth"
+msgstr "자원 재생"
+
+#. UI.SANDBOXMENU.YES
+msgctxt "UI.SANDBOXMENU.YES"
+msgid "Yes"
+msgstr "예"
+

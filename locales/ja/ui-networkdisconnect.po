@@ -1,0 +1,650 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.NETWORKDISCONNECT.ACCOUNTS
+msgctxt "UI.NETWORKDISCONNECT.ACCOUNTS"
+msgid "Account Page"
+msgstr "アカウントページ"
+
+#. UI.NETWORKDISCONNECT.BODY.APP_OWNERSHIP_CHECK_FAILED
+msgctxt "UI.NETWORKDISCONNECT.BODY.APP_OWNERSHIP_CHECK_FAILED"
+msgid "The server says you don't own the game. But you do... right?"
+msgstr "サーバー側はあなたがゲームを所有していないと判断しました。ゲームは所有していますか？"
+
+#. UI.NETWORKDISCONNECT.BODY.DEFAULT
+msgctxt "UI.NETWORKDISCONNECT.BODY.DEFAULT"
+msgid "You have been disconnected. We're not sure why... Sorry!"
+msgstr "なんらかの原因により、サーバーとの通信が切断されました。"
+
+#. UI.NETWORKDISCONNECT.BODY.E_BANNED
+msgctxt "UI.NETWORKDISCONNECT.BODY.E_BANNED"
+msgid "Your account has been banned for violating the terms of use. Please visit accounts.klei.com to review this issue."
+msgstr "このアカウントは、利用規約に違反したため利用停止になっています。この問題について詳細を確認したい場合、accounts.klei.comまでごアクセスください。"
+
+#. UI.NETWORKDISCONNECT.BODY.E_DELETED
+msgctxt "UI.NETWORKDISCONNECT.BODY.E_DELETED"
+msgid "Your account has been marked for deletion and cannot be used anymore."
+msgstr "あなたのアカウントは削除されており、これ以上使用できません。"
+
+#. UI.NETWORKDISCONNECT.BODY.E_UPGRADE
+msgctxt "UI.NETWORKDISCONNECT.BODY.E_UPGRADE"
+msgid "A new version is available.\nPlease update Don't Starve Together."
+msgstr "「Don't Starve Together」最新版の配信が開始\nされました。アップデートしてください。"
+
+#. UI.NETWORKDISCONNECT.BODY.FAILED_TO_AUTOJOIN_LAN
+msgctxt "UI.NETWORKDISCONNECT.BODY.FAILED_TO_AUTOJOIN_LAN"
+msgid "Unable to join a LAN server.\nAre you sure it exists?"
+msgstr "LANサーバーに参加できません。\n作成されているか確認して下さい。"
+
+#. UI.NETWORKDISCONNECT.BODY.FORCE_DISCONNECTION
+msgctxt "UI.NETWORKDISCONNECT.BODY.FORCE_DISCONNECTION"
+msgid "The connection has been forcibly closed by the engine."
+msgstr "システムにより、強制的に通信が切断されました。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_ALREADY_CONNECTED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_ALREADY_CONNECTED"
+msgid "You are already connected to this server."
+msgstr "すでにこのサーバーに接続済みです。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_CONNECTION_ATTEMPT_FAILED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_CONNECTION_ATTEMPT_FAILED"
+msgid "The server is not responding. Please try again."
+msgstr "サーバーが応答しません。もう一度お試しください。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_CONNECTION_BANNED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_CONNECTION_BANNED"
+msgid "You have been banned from this server."
+msgstr "このサーバーから永久追放されています。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_CONNECTION_LOST
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_CONNECTION_LOST"
+msgid "You have lost connection to the server."
+msgstr "サーバーとの通信が切断されました。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DISCONNECTION_NOTIFICATION
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DISCONNECTION_NOTIFICATION"
+msgid "You have been disconnected from the server."
+msgstr "サーバーとの通信が切断されました。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_DEDICATED_SERVER_STARTUP_FAILED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_DEDICATED_SERVER_STARTUP_FAILED"
+msgid "There was some sort of trouble starting the server. Please try again."
+msgstr "サーバー開始中に問題が発生しました。もう一度お試しください。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_DESTINATION_CONNECTION_ATTEMPT_FAILED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_DESTINATION_CONNECTION_ATTEMPT_FAILED"
+msgid "The destination server is not responding. Please try again."
+msgstr "接続先のサーバーが応答しません。もう一度お試しください。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_DESTINATION_SERVER_NOT_AVAILABLE
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_DESTINATION_SERVER_NOT_AVAILABLE"
+msgid "The server you were playing on is unavailable. Please try again later."
+msgstr "接続していたサーバーは使用できなくなっています。しばらくたってからお試しください。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_FRIENDS_ONLY_SERVER
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_FRIENDS_ONLY_SERVER"
+msgid "Attempted to join a \"friends only\" server, but you're not friends with the host."
+msgstr "このサーバーは「フレンドのみ」に設定されています。ホストプレイヤーのフレンドではないため、参加できません。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_GAME_SESSION_AUTH_FAILED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_GAME_SESSION_AUTH_FAILED"
+msgid "Authentication failed. Please try again."
+msgstr "認証に失敗しました。もう一度お試しください。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_IDLE_TIMEOUT
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_IDLE_TIMEOUT"
+msgid "You have lost connection to the server."
+msgstr "サーバーとの通信が切断されました。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_INCOMING_CONNECTIONS_DISABLED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_INCOMING_CONNECTIONS_DISABLED"
+msgid "The server is not accepting new connections temporarily. Please wait a moment and try again."
+msgstr "現在、一時的にサーバーに接続できなくなっています。しばらくたってからもう一度お試しください。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_INCOMPATIBLE_PROTOCOL_VERSION
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_INCOMPATIBLE_PROTOCOL_VERSION"
+msgid "The server has a different version than you do. Please check that your game version is up-to-date."
+msgstr "ご利用のゲームのバージョンがサーバーと異なります。最新版にアップデートしてください。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_INITIALIZATION_FAILED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_INITIALIZATION_FAILED"
+msgid "Networking did not initialize properly. Please try again."
+msgstr "ネットワークが正常に開始されませんでした。もう一度お試しください。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_LOGGED_IN_SOMEWHERE_ELSE
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_LOGGED_IN_SOMEWHERE_ELSE"
+msgid "This account has been logged in from another location."
+msgstr "このアカウントには、別の場所からすでにログインしています。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_NETWORK_CONNECTION_LOST
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_NETWORK_CONNECTION_LOST"
+msgid "Check your connection and try again."
+msgstr "接続を確認して、もう一度試してみてください。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_NOT_ACCEPTING_NEW_PLAYERS
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_NOT_ACCEPTING_NEW_PLAYERS"
+msgid "The server is not accepting new players."
+msgstr "サーバーは新規プレイヤーを受け付けていません。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_NO_FREE_PLAYER_SLOTS
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_NO_FREE_PLAYER_SLOTS"
+msgid "The server is full."
+msgstr "サーバーが満員です。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_SAVE_FILE_DAMAGED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_SAVE_FILE_DAMAGED"
+msgid "Your world is damaged and cannot be loaded."
+msgstr "あなたのワールドが破損しており読み込めません。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_SERVER_IS_CLAN_ONLY
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_SERVER_IS_CLAN_ONLY"
+msgid "You must be a member of this server's Steam Group to connect."
+msgstr "このサーバーのSteamグループメンバーになって接続してください。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_SERVER_IS_LAN_ONLY
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_SERVER_IS_LAN_ONLY"
+msgid "This server only allows players from their same local network."
+msgstr "このサーバーは、同一ローカルネットワーク上のユーザー専用です。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_SLOT_RESERVATION
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_SLOT_RESERVATION"
+msgid "Attempt to join server failed because remaining player slots are reserved. Please try again once a slot frees up."
+msgstr "サーバーに参加できません。空きスロットがすでに予約されています。空きができてから、もう一度お試しください。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_STEAM_NET_CONNECTION_TIMEOUT
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_STEAM_NET_CONNECTION_TIMEOUT"
+msgid "You have lost connection to the server."
+msgstr "サーバーとの通信が切断されました。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_USER_BANNED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_USER_BANNED"
+msgid "You have been banned from this server."
+msgstr "このサーバーから永久追放されています。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_USER_CONNECTION_FAILED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_USER_CONNECTION_FAILED"
+msgid "Something went awry while connecting. Please try again."
+msgstr "接続中に問題が発生しました。もう一度お試しください。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_USER_KICKED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_USER_KICKED"
+msgid "You have been kicked from this server."
+msgstr "このサーバーから一時的に追放されています。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_INCOMPATIBLE_PROTOCOL_VERSION
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_INCOMPATIBLE_PROTOCOL_VERSION"
+msgid "The server has a different version than you do. Please check that your game version is up-to-date."
+msgstr "ご利用のゲームのバージョンがサーバーと異なります。最新版にアップデートしてください。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_INVALID_PASSWORD
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_INVALID_PASSWORD"
+msgid "Whoops! The password you entered was incorrect."
+msgstr "入力されたパスワードが間違っています。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_NAT_CONNECTION_TO_TARGET_LOST
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_NAT_CONNECTION_TO_TARGET_LOST"
+msgid "Unable to connect to the server."
+msgstr "サーバーに接続できません。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_NAT_PUNCHTHROUGH_FAILED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_NAT_PUNCHTHROUGH_FAILED"
+msgid "Unable to connect to the server."
+msgstr "サーバーに接続できません。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_NAT_TARGET_NOT_CONNECTED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_NAT_TARGET_NOT_CONNECTED"
+msgid "Unable to connect to the server."
+msgstr "サーバーに接続できません。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_NAT_TARGET_UNRESPONSIVE
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_NAT_TARGET_UNRESPONSIVE"
+msgid "Unable to connect to the server."
+msgstr "サーバーに接続できません。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_NO_FREE_INCOMING_CONNECTIONS
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_NO_FREE_INCOMING_CONNECTIONS"
+msgid "The server is full."
+msgstr "サーバーが満員です。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_INGAME_PLAYER1_SIGNED_OUT_OF_PSN
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_INGAME_PLAYER1_SIGNED_OUT_OF_PSN"
+msgid "Player 1 has signed out of PlayStation™Network in the middle of a game!"
+msgstr "プレイヤー1がゲームの途中でPlayStation™Networkからサインアウトしました！"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_INGAME_PLAYER2_SIGNED_OUT_OF_PS4
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_INGAME_PLAYER2_SIGNED_OUT_OF_PS4"
+msgid "Your split-screen partner logged out in the middle of a game!"
+msgstr "分割画面のパートナーがゲームの途中でログアウトしました！"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_INGAME_PLAYER2_SIGNED_OUT_OF_PSN
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_INGAME_PLAYER2_SIGNED_OUT_OF_PSN"
+msgid "Player 2 has signed out of PlayStation™Network in the middle of a game!"
+msgstr "プレイヤー2がゲームの途中でPlayStation™Networkからサインアウトしました！"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_UI_PLAYER1_SIGNED_OUT_OF_PSN
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_UI_PLAYER1_SIGNED_OUT_OF_PSN"
+msgid "You have signed out of PlayStation™Network. Now we have to set everything back up again..."
+msgstr "PlayStation™Networkからサインアウトしました。もう一度すべてをセットアップしなければなりません..."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_UI_PLAYER2_SIGNED_OUT_OF_PS4
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_UI_PLAYER2_SIGNED_OUT_OF_PS4"
+msgid "Your split-screen partner logged out. Return to the main menu to find another."
+msgstr "分割画面のパートナーがログアウトしました。メインメニューに戻り、別の相手を探します。"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_UI_PLAYER2_SIGNED_OUT_OF_PSN
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_UI_PLAYER2_SIGNED_OUT_OF_PSN"
+msgid "Your split-screen partner signed out. Return to the main menu to find another."
+msgstr "分割画面のパートナーがサインアウトしました。メインメニューに戻り、別の相手を探します。"
+
+#. UI.NETWORKDISCONNECT.BODY.INVALID_CLIENT_TOKEN
+msgctxt "UI.NETWORKDISCONNECT.BODY.INVALID_CLIENT_TOKEN"
+msgid "A token error occurred. Please try again."
+msgstr "トークンエラーが発生しました。もう一度お試しください。"
+
+#. UI.NETWORKDISCONNECT.BODY.INVALID_GAME_SESSION_TOKEN
+msgctxt "UI.NETWORKDISCONNECT.BODY.INVALID_GAME_SESSION_TOKEN"
+msgid "Unable to reach the Klei server. Please try again."
+msgstr "Kleiのサーバーに接続できませんでした。もう一度お試しください。"
+
+#. UI.NETWORKDISCONNECT.BODY.PLATFORM_MISMATCH
+msgctxt "UI.NETWORKDISCONNECT.BODY.PLATFORM_MISMATCH"
+msgid "This server is incompatible with your version. Please try another server."
+msgstr "このサーバーはあなたのバージョンと互換性がありません。別のサーバーを試してみてください。"
+
+#. UI.NETWORKDISCONNECT.BODY.SERVER_MODS_NOT_ON_WORKSHOP
+msgctxt "UI.NETWORKDISCONNECT.BODY.SERVER_MODS_NOT_ON_WORKSHOP"
+msgid "This server requires mods that are not available on the Steam Workshop. You will need to manually download the missing mods."
+msgstr "このサーバーでは、Steam Workshopに未対応のMODを要求しています。足りないMODを手動でダウンロードしてください。"
+
+#. UI.NETWORKDISCONNECT.BODY.SERVER_MODS_NOT_ON_WORKSHOP_RAIL
+msgctxt "UI.NETWORKDISCONNECT.BODY.SERVER_MODS_NOT_ON_WORKSHOP_RAIL"
+msgid "This server requires mods that are not available. You will need to manually download the missing mods."
+msgstr "このサーバーでは、未対応のMODを要求しています。足りないMODを手動でダウンロードしてください。"
+
+#. UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_ACCESS_DENIED
+msgctxt "UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_ACCESS_DENIED"
+msgid "Download of the required mods from the Steam Workshop failed because one or more mods is not visible to you."
+msgstr "1つ以上のMODが利用できないため、Steam Workshopから必要MODのダウンロードに失敗しました。"
+
+#. UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_ACCESS_DENIED_RAIL
+msgctxt "UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_ACCESS_DENIED_RAIL"
+msgid "Download of the required mods failed because one or more mods is not visible to you."
+msgstr "1つ以上のMODが利用できないため、必要MODのダウンロードに失敗しました。"
+
+#. UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_FAILURE
+msgctxt "UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_FAILURE"
+msgid "Download of the required mods from the Steam Workshop failed. Please try again."
+msgstr "Steam Workshopから必要MODのダウンロードに失敗しました。もう1度お試しください。"
+
+#. UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_FAILURE_RAIL
+msgctxt "UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_FAILURE_RAIL"
+msgid "Download of the required mods failed. Please try again."
+msgstr "必要MODのダウンロードに失敗しました。もう1度お試しください。"
+
+#. UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_VERSION_MISMATCH
+msgctxt "UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_VERSION_MISMATCH"
+msgid "The server is running mods with an old version. The server owner must update the mods for new players to join."
+msgstr "サーバーのMODが旧バージョンです。サーバーのホストがMODを最新版にアップデートすれば、他のプレイヤーが参加できます。"
+
+#. UI.NETWORKDISCONNECT.BODY.VERSION_HANDSHAKE_FAILED
+msgctxt "UI.NETWORKDISCONNECT.BODY.VERSION_HANDSHAKE_FAILED"
+msgid "The server is on a different version than you. Please check that your game version is up-to-date."
+msgstr "ご利用のゲームのバージョンがサーバーと異なります。最新版にアップデートしてください。"
+
+#. UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_ARNBETA
+msgctxt "UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_ARNBETA"
+msgid "The server is running the A New Reign Beta version. You'll need to opt into the beta to play on this server."
+msgstr "このサーバーでは、新世ベータ版が稼働しています。このサーバーでプレイするにはベータ版を選択する必要があります。"
+
+#. UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_OLD_CLIENT
+msgctxt "UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_OLD_CLIENT"
+msgid "This server is on a newer version than you. Please download the latest update to connect."
+msgstr "ご利用のゲームのバージョンがサーバーと異なるため、参加できません。ゲームを最新版にアップデートしてください。"
+
+#. UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_OLD_SERVER
+msgctxt "UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_OLD_SERVER"
+msgid "This server is on an older version than you."
+msgstr "サーバーのバージョンが古いです"
+
+#. UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_PUBLIC_BETA
+msgctxt "UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_PUBLIC_BETA"
+msgid "The server is running a public beta world. You'll need to opt into the beta to play on this server."
+msgstr "このサーバーはパブリックベータ版の世界を運営しています。このサーバーでプレイするにはベータ版に参加する必要があります。"
+
+#. UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_ROTBETA
+msgctxt "UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_ROTBETA"
+msgid "The server is running the Return of Them Beta version. You'll need to opt into the beta to play on this server."
+msgstr "このサーバーはReturn of Themベータ版を実行しています。このサーバーでプレイするにはベータ版を選択する必要があります。"
+
+#. UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_UPDATEBETA
+msgctxt "UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_UPDATEBETA"
+msgid "The server is running the Beta Branch version. You'll need to opt into the beta to play on this server."
+msgstr "このサーバーでは、ベータブランチ版が稼働しています。このサーバーでプレイするにはベータ版を選択する必要があります。"
+
+#. UI.NETWORKDISCONNECT.OK
+msgctxt "UI.NETWORKDISCONNECT.OK"
+msgid "OK"
+msgstr "OK"
+
+#. UI.NETWORKDISCONNECT.TITLE.APP_OWNERSHIP_CHECK_FAILED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.APP_OWNERSHIP_CHECK_FAILED"
+msgid "Game Ownership Check Failed"
+msgstr "ゲームの所有権確認に失敗"
+
+#. UI.NETWORKDISCONNECT.TITLE.DEFAULT
+msgctxt "UI.NETWORKDISCONNECT.TITLE.DEFAULT"
+msgid "Disconnected"
+msgstr "通信切断"
+
+#. UI.NETWORKDISCONNECT.TITLE.E_BANNED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.E_BANNED"
+msgid "Account Banned"
+msgstr "利用停止"
+
+#. UI.NETWORKDISCONNECT.TITLE.E_DELETED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.E_DELETED"
+msgid "Account Deleted"
+msgstr "アカウント削除"
+
+#. UI.NETWORKDISCONNECT.TITLE.E_UPGRADE
+msgctxt "UI.NETWORKDISCONNECT.TITLE.E_UPGRADE"
+msgid "Version Out of Date"
+msgstr "旧バージョン"
+
+#. UI.NETWORKDISCONNECT.TITLE.FAILED_TO_AUTOJOIN_LAN
+msgctxt "UI.NETWORKDISCONNECT.TITLE.FAILED_TO_AUTOJOIN_LAN"
+msgid "LAN Join Failed"
+msgstr "LANへの参加失敗"
+
+#. UI.NETWORKDISCONNECT.TITLE.FORCE_DISCONNECTION
+msgctxt "UI.NETWORKDISCONNECT.TITLE.FORCE_DISCONNECTION"
+msgid "Force Disconnection"
+msgstr "強制的に切断"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_ALREADY_CONNECTED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_ALREADY_CONNECTED"
+msgid "Duplicate Connection"
+msgstr "二重接続"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_CONNECTION_ATTEMPT_FAILED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_CONNECTION_ATTEMPT_FAILED"
+msgid "Server Not Responding"
+msgstr "応答なし"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_CONNECTION_BANNED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_CONNECTION_BANNED"
+msgid "Banned"
+msgstr "追放"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_CONNECTION_LOST
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_CONNECTION_LOST"
+msgid "Disconnected"
+msgstr "通信切断"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DISCONNECTION_NOTIFICATION
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DISCONNECTION_NOTIFICATION"
+msgid "Disconnected"
+msgstr "通信切断"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_DEDICATED_SERVER_STARTUP_FAILED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_DEDICATED_SERVER_STARTUP_FAILED"
+msgid "Dedicated Server Failed To Start"
+msgstr "専用サーバー開始失敗"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_DESTINATION_CONNECTION_ATTEMPT_FAILED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_DESTINATION_CONNECTION_ATTEMPT_FAILED"
+msgid "Destination Not Responding"
+msgstr "接続先サーバー応答なし"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_DESTINATION_SERVER_NOT_AVAILABLE
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_DESTINATION_SERVER_NOT_AVAILABLE"
+msgid "Server not available"
+msgstr "サーバー使用不可"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_FRIENDS_ONLY_SERVER
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_FRIENDS_ONLY_SERVER"
+msgid "Friends Only"
+msgstr "フレンドのみ"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_GAME_SESSION_AUTH_FAILED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_GAME_SESSION_AUTH_FAILED"
+msgid "Authentication Failed"
+msgstr "認証失敗"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_IDLE_TIMEOUT
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_IDLE_TIMEOUT"
+msgid "Disconnected"
+msgstr "通信切断"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_INCOMING_CONNECTIONS_DISABLED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_INCOMING_CONNECTIONS_DISABLED"
+msgid "Failed To Connect"
+msgstr "接続失敗"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_INCOMPATIBLE_PROTOCOL_VERSION
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_INCOMPATIBLE_PROTOCOL_VERSION"
+msgid "Version Mismatch"
+msgstr "バージョン不一致"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_INITIALIZATION_FAILED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_INITIALIZATION_FAILED"
+msgid "Networking Failed To Start"
+msgstr "ネットワーク開始失敗"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_LOGGED_IN_SOMEWHERE_ELSE
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_LOGGED_IN_SOMEWHERE_ELSE"
+msgid "Duplicate Login"
+msgstr "二重ログイン"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_NETWORK_CONNECTION_LOST
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_NETWORK_CONNECTION_LOST"
+msgid "Network Connection Lost"
+msgstr "ネットワーク接続が切断されました"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_NOT_ACCEPTING_NEW_PLAYERS
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_NOT_ACCEPTING_NEW_PLAYERS"
+msgid "Disconnected"
+msgstr "通信切断"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_NO_FREE_PLAYER_SLOTS
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_NO_FREE_PLAYER_SLOTS"
+msgid "Server Full"
+msgstr "サーバーが満員"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_SAVE_FILE_DAMAGED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_SAVE_FILE_DAMAGED"
+msgid "Load failed"
+msgstr "ロードに失敗しました"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_SERVER_IS_CLAN_ONLY
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_SERVER_IS_CLAN_ONLY"
+msgid "Not a member of the server's clan"
+msgstr "非グループメンバー"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_SERVER_IS_LAN_ONLY
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_SERVER_IS_LAN_ONLY"
+msgid "Local Connection Server Only"
+msgstr "ローカル接続専用"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_SERVER_STARTUP_FAILED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_SERVER_STARTUP_FAILED"
+msgid "Server Failed To Start"
+msgstr "サーバーの起動に失敗しました"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_SLOT_RESERVATION
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_SLOT_RESERVATION"
+msgid "Slot Reserved"
+msgstr "スロット予約済み"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_STEAM_NET_CONNECTION_TIMEOUT
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_STEAM_NET_CONNECTION_TIMEOUT"
+msgid "Disconnected"
+msgstr "通信切断"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_USER_BANNED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_USER_BANNED"
+msgid "Banned"
+msgstr "追放"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_USER_CONNECTION_FAILED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_USER_CONNECTION_FAILED"
+msgid "Connection Failed"
+msgstr "接続失敗"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_USER_KICKED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_USER_KICKED"
+msgid "Kicked"
+msgstr "一時追放"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_INCOMPATIBLE_PROTOCOL_VERSION
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_INCOMPATIBLE_PROTOCOL_VERSION"
+msgid "Version Mismatch"
+msgstr "バージョン不一致"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_INVALID_PASSWORD
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_INVALID_PASSWORD"
+msgid "Bad Password"
+msgstr "パスワード無効"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_NAT_CONNECTION_TO_TARGET_LOST
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_NAT_CONNECTION_TO_TARGET_LOST"
+msgid "Could Not Connect"
+msgstr "接続失敗"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_NAT_PUNCHTHROUGH_FAILED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_NAT_PUNCHTHROUGH_FAILED"
+msgid "Could Not Connect"
+msgstr "接続失敗"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_NAT_TARGET_NOT_CONNECTED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_NAT_TARGET_NOT_CONNECTED"
+msgid "Could Not Connect"
+msgstr "接続失敗"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_NAT_TARGET_UNRESPONSIVE
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_NAT_TARGET_UNRESPONSIVE"
+msgid "Could Not Connect"
+msgstr "接続失敗"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_NO_FREE_INCOMING_CONNECTIONS
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_NO_FREE_INCOMING_CONNECTIONS"
+msgid "Server Full"
+msgstr "サーバーが満員"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_INGAME_PLAYER1_SIGNED_OUT_OF_PSN
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_INGAME_PLAYER1_SIGNED_OUT_OF_PSN"
+msgid "Player 1 Signed Out"
+msgstr "プレイヤー1がサインアウトしました。"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_INGAME_PLAYER2_SIGNED_OUT_OF_PS4
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_INGAME_PLAYER2_SIGNED_OUT_OF_PS4"
+msgid "Player 2 Logged Out"
+msgstr "プレイヤー2がログアウトしました。"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_INGAME_PLAYER2_SIGNED_OUT_OF_PSN
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_INGAME_PLAYER2_SIGNED_OUT_OF_PSN"
+msgid "Player 2 Signed Out"
+msgstr "プレイヤー2がサインアウトしました。"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_UI_PLAYER1_SIGNED_OUT_OF_PSN
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_UI_PLAYER1_SIGNED_OUT_OF_PSN"
+msgid "Player 1 Signed Out"
+msgstr "プレイヤー1がサインアウトしました。"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_UI_PLAYER2_SIGNED_OUT_OF_PS4
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_UI_PLAYER2_SIGNED_OUT_OF_PS4"
+msgid "Player 2 Logged Out"
+msgstr "プレイヤー2がログアウトしました。"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_UI_PLAYER2_SIGNED_OUT_OF_PSN
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_UI_PLAYER2_SIGNED_OUT_OF_PSN"
+msgid "Player 2 Signed Out"
+msgstr "プレイヤー2がサインアウトしました。"
+
+#. UI.NETWORKDISCONNECT.TITLE.INVALID_CLIENT_TOKEN
+msgctxt "UI.NETWORKDISCONNECT.TITLE.INVALID_CLIENT_TOKEN"
+msgid "Invalid Client Token"
+msgstr "無効なクライアントトークン"
+
+#. UI.NETWORKDISCONNECT.TITLE.INVALID_GAME_SESSION_TOKEN
+msgctxt "UI.NETWORKDISCONNECT.TITLE.INVALID_GAME_SESSION_TOKEN"
+msgid "Could Not Connect"
+msgstr "接続失敗"
+
+#. UI.NETWORKDISCONNECT.TITLE.PLATFORM_MISMATCH
+msgctxt "UI.NETWORKDISCONNECT.TITLE.PLATFORM_MISMATCH"
+msgid "Version Mismatch"
+msgstr "バージョン不一致"
+
+#. UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_NOT_ON_WORKSHOP
+msgctxt "UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_NOT_ON_WORKSHOP"
+msgid "Disconnected Due To Missing Mods"
+msgstr "MOD未インストールのため切断"
+
+#. UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_NOT_ON_WORKSHOP_RAIL
+msgctxt "UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_NOT_ON_WORKSHOP_RAIL"
+msgid "Disconnected Due To Missing Mods"
+msgstr "MOD未インストールのため切断"
+
+#. UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_ACCESS_DENIED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_ACCESS_DENIED"
+msgid "Disconnected Due To Missing Mods"
+msgstr "MOD未インストールのため切断"
+
+#. UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_ACCESS_DENIED_RAIL
+msgctxt "UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_ACCESS_DENIED_RAIL"
+msgid "Disconnected Due To Missing Mods"
+msgstr "MOD未インストールのため切断"
+
+#. UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_FAILURE
+msgctxt "UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_FAILURE"
+msgid "Disconnected Due To Missing Mods"
+msgstr "MOD未インストールのため切断"
+
+#. UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_FAILURE_RAIL
+msgctxt "UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_FAILURE_RAIL"
+msgid "Disconnected Due To Missing Mods"
+msgstr "MOD未インストールのため切断"
+
+#. UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_VERSION_MISMATCH
+msgctxt "UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_VERSION_MISMATCH"
+msgid "Disconnected Due To Missing Mods"
+msgstr "MOD未インストールのため切断"
+
+#. UI.NETWORKDISCONNECT.TITLE.VERSION_HANDSHAKE_FAILED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.VERSION_HANDSHAKE_FAILED"
+msgid "Version Mismatch"
+msgstr "バージョン不一致"
+
+#. UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_ARNBETA
+msgctxt "UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_ARNBETA"
+msgid "A New Reign Beta"
+msgstr "ニューリーンベータ(A New Reign Beta)"
+
+#. UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_OLD_CLIENT
+msgctxt "UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_OLD_CLIENT"
+msgid "Version Mismatch"
+msgstr "バージョン不一致"
+
+#. UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_OLD_SERVER
+msgctxt "UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_OLD_SERVER"
+msgid "Version Mismatch"
+msgstr "バージョン不一致"
+
+#. UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_PUBLIC_BETA
+msgctxt "UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_PUBLIC_BETA"
+msgid "Public Beta Server"
+msgstr "パブリックベータサーバー"
+
+#. UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_ROTBETA
+msgctxt "UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_ROTBETA"
+msgid "Return of Them Beta"
+msgstr "Return of Themベータ版"
+
+#. UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_UPDATEBETA
+msgctxt "UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_UPDATEBETA"
+msgid "Beta Branch"
+msgstr "ベータブランチ"
+

@@ -1,0 +1,660 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. YOTB_ALREADY_GOT_YOURS
+msgctxt "YOTB_ALREADY_GOT_YOURS"
+msgid "You already got yours. No double dipping."
+msgstr "이미 자신의 것이 있잖아요. 두 번 찍으면 안됩니다."
+
+#. YOTB_APPRAISE_END
+msgctxt "YOTB_APPRAISE_END"
+msgid "Wonderful item you've got there."
+msgstr "거기에 있는 멋진 아이템이요."
+
+#. YOTB_APPRAISE_START
+msgctxt "YOTB_APPRAISE_START"
+msgid "Let's see what you have there."
+msgstr "무엇을 가지고 있는지 봅시다."
+
+#. YOTB_COLLECT_PRIZE_QUICK
+msgctxt "YOTB_COLLECT_PRIZE_QUICK"
+msgid "Things are getting out of hand, hurry up and collect your prizes!"
+msgstr "상황이 급박해졌습니다. 서둘러 경품을 받으세요!"
+
+#. YOTB_CONGRATS_WINNER
+msgctxt "YOTB_CONGRATS_WINNER"
+msgid "Congrats little guy! You win!"
+msgstr "축하해요 꼬마 친구! 이겼어요!"
+
+#. YOTB_CONGRATS_WINNER_SECOND
+msgctxt "YOTB_CONGRATS_WINNER_SECOND"
+msgid "Congratulations!"
+msgstr "축하합니다!"
+
+#. YOTB_CONGRATS_WINNER_THIRD
+msgctxt "YOTB_CONGRATS_WINNER_THIRD"
+msgid "Take a bow!"
+msgstr "인사하세요!"
+
+#. YOTB_CONSOLE_PRIZES
+msgctxt "YOTB_CONSOLE_PRIZES"
+msgid "Everyone gets to take something home."
+msgstr "누구나 집에 무언가를 가져갈 수 있습니다."
+
+#. YOTB_CONTEST_BEGIN
+msgctxt "YOTB_CONTEST_BEGIN"
+msgid "OK, lets get this show going..."
+msgstr "좋아요, 이 쇼를 진행합시다..."
+
+#. YOTB_CONTEST_END
+msgctxt "YOTB_CONTEST_END"
+msgid "Very nice, I think we're done."
+msgstr "아주 좋습니다. 끝난 것 같아요."
+
+#. YOTB_CONTEST_FEARSOME_EXTREMEHIGH.1
+msgctxt "YOTB_CONTEST_FEARSOME_EXTREMEHIGH.1"
+msgid "This one is much too fearsome."
+msgstr "이것은 너무 무섭습니다."
+
+#. YOTB_CONTEST_FEARSOME_EXTREMEHIGH.2
+msgctxt "YOTB_CONTEST_FEARSOME_EXTREMEHIGH.2"
+msgid "This beefalo's fierceness is well beyond my taste today."
+msgstr "이 비팔로의 맹렬함을 보니 오늘 제 입맛이 사라졌어요."
+
+#. YOTB_CONTEST_FEARSOME_EXTREMELOW.1
+msgctxt "YOTB_CONTEST_FEARSOME_EXTREMELOW.1"
+msgid "Today's beefalo needs to be a lot more fierce than this teddy bear."
+msgstr "오늘의 비팔로는 이 테디베어보다 훨씬 더 사나워야 해요."
+
+#. YOTB_CONTEST_FEARSOME_EXTREMELOW.2
+msgctxt "YOTB_CONTEST_FEARSOME_EXTREMELOW.2"
+msgid "I'm looking for something way more fearsome today."
+msgstr "오늘은 더 무서운 것을 찾고 있습니다."
+
+#. YOTB_CONTEST_FEARSOME_HIGH.1
+msgctxt "YOTB_CONTEST_FEARSOME_HIGH.1"
+msgid "This beefalo is just a little fiercer than I want."
+msgstr "이 비팔로는 원하는 것보다 조금 더 강렬합니다."
+
+#. YOTB_CONTEST_FEARSOME_HIGH.2
+msgctxt "YOTB_CONTEST_FEARSOME_HIGH.2"
+msgid "Being a little too fierce can be good, but not today."
+msgstr "약간 지나치게 사나운 게 좋을 수 있지만 오늘은 아닙니다."
+
+#. YOTB_CONTEST_FEARSOME_LOW.1
+msgctxt "YOTB_CONTEST_FEARSOME_LOW.1"
+msgid "Maybe this beefalo could be a little more fierce."
+msgstr "아마도 이 비팔로는 조금 더 치열할 수 있습니다."
+
+#. YOTB_CONTEST_FEARSOME_LOW.2
+msgctxt "YOTB_CONTEST_FEARSOME_LOW.2"
+msgid "This beefalo is not as fierce as I'd like, but it's close."
+msgstr "이 비팔로는 제가 원하는 만큼 치열하지 않지만 비슷해요."
+
+#. YOTB_CONTEST_FEARSOME_PERFECT.1
+msgctxt "YOTB_CONTEST_FEARSOME_PERFECT.1"
+msgid "I like this one's ferocity."
+msgstr "이 녀석의 사나움이 좋군요."
+
+#. YOTB_CONTEST_FEARSOME_PERFECT.2
+msgctxt "YOTB_CONTEST_FEARSOME_PERFECT.2"
+msgid "This beefalo fills me with just the right amount of fear."
+msgstr "이 비팔로는 적절하게 두렵게 하네요."
+
+#. YOTB_CONTEST_FEARSOME_TARGET_EXTREMEHIGH.1
+msgctxt "YOTB_CONTEST_FEARSOME_TARGET_EXTREMEHIGH.1"
+msgid "Finally, I'm in the mood for a good scare. Let's see your most fearsome beefalo!"
+msgstr "마지막으로 제대로 무섭네요. 가장 무서운 비팔로를 봅시다!"
+
+#. YOTB_CONTEST_FEARSOME_TARGET_EXTREMELOW.1
+msgctxt "YOTB_CONTEST_FEARSOME_TARGET_EXTREMELOW.1"
+msgid "Finally, today's winner needs to be a teddy bear. My heart can't take a scare."
+msgstr "결국 오늘의 승자는 테디베어가 되어야 해요. 저는 두려움을 감수할 수 없습니다."
+
+#. YOTB_CONTEST_FEARSOME_TARGET_HIGH.1
+msgctxt "YOTB_CONTEST_FEARSOME_TARGET_HIGH.1"
+msgid "Finally, today's winner will be only mildly more fearsome than friendly."
+msgstr "마지막으로, 오늘의 승자는 우호적인 것보다 약간 더 무서운 것일 뿐입니다."
+
+#. YOTB_CONTEST_FEARSOME_TARGET_LOW.1
+msgctxt "YOTB_CONTEST_FEARSOME_TARGET_LOW.1"
+msgid "Finally, I'd like to see a beefalo that's just a bit more friendly than scary."
+msgstr "마지막으로 무서운 것보다 조금 더 친근한 비팔로를 보고 싶군요."
+
+#. YOTB_CONTEST_FEARSOME_TARGET_PERFECT.1
+msgctxt "YOTB_CONTEST_FEARSOME_TARGET_PERFECT.1"
+msgid "Finally, I can't quite decide. Show me a good balance of fearsome and friendly."
+msgstr "마침내 확실히 결정할 수 없네요. 무시무시하면서도 친근한 균형을 보여주세요."
+
+#. YOTB_CONTEST_FEARSOME_TARGET_VERYHIGH.1
+msgctxt "YOTB_CONTEST_FEARSOME_TARGET_VERYHIGH.1"
+msgid "Finally, I'm looking for something quite fierce."
+msgstr "마지막으로, 나는 꽤 치열한 것을 찾고 있습니다."
+
+#. YOTB_CONTEST_FEARSOME_TARGET_VERYHIGH.2
+msgctxt "YOTB_CONTEST_FEARSOME_TARGET_VERYHIGH.2"
+msgid "Finally, I want something quite fearsome looking."
+msgstr "마지막으로, 나는 꽤 무서운 모습을 원합니다."
+
+#. YOTB_CONTEST_FEARSOME_TARGET_VERYLOW.1
+msgctxt "YOTB_CONTEST_FEARSOME_TARGET_VERYLOW.1"
+msgid "Finally, I'm looking for only the tiniest hint of ferocity."
+msgstr "마지막으로, 나는 힌트로 가장 조금 흉포한 것만을 찾고 있습니다."
+
+#. YOTB_CONTEST_FEARSOME_TARGET_VERYLOW.2
+msgctxt "YOTB_CONTEST_FEARSOME_TARGET_VERYLOW.2"
+msgid "Finally, today I want to see a little ferocity, but just a touch."
+msgstr "마지막으로, 오늘은 약간 사나운 모습을 보고 싶습니다."
+
+#. YOTB_CONTEST_FEARSOME_VERYHIGH.1
+msgctxt "YOTB_CONTEST_FEARSOME_VERYHIGH.1"
+msgid "This specimen is more fierce than I want."
+msgstr "이 표본은 내가 원하는 것보다 더 치열합니다."
+
+#. YOTB_CONTEST_FEARSOME_VERYHIGH.2
+msgctxt "YOTB_CONTEST_FEARSOME_VERYHIGH.2"
+msgid "I respect how fearsome this beefalo is, but it's more than I like."
+msgstr "나는 이 비팔로가 얼마나 무서운지 존중하지만, 그것은 내가 좋아하는 정도를 넘어 섰어요."
+
+#. YOTB_CONTEST_FEARSOME_VERYLOW.1
+msgctxt "YOTB_CONTEST_FEARSOME_VERYLOW.1"
+msgid "I'd like my beefalo to be a fair bit more fearsome than this."
+msgstr "내 비팔로가 이것보다 조금 더 두려운 것을 원합니다."
+
+#. YOTB_CONTEST_FEARSOME_VERYLOW.2
+msgctxt "YOTB_CONTEST_FEARSOME_VERYLOW.2"
+msgid "This one is not quite fierce enough, by a good margin."
+msgstr "이것은 좋은 마진으로 충분히 치열하지 않습니다."
+
+#. YOTB_CONTEST_FESTIVE_EXTREMEHIGH.1
+msgctxt "YOTB_CONTEST_FESTIVE_EXTREMEHIGH.1"
+msgid "This one is much too festive."
+msgstr "이것은 너무 축제처럼 흥겹군요."
+
+#. YOTB_CONTEST_FESTIVE_EXTREMEHIGH.2
+msgctxt "YOTB_CONTEST_FESTIVE_EXTREMEHIGH.2"
+msgid "This beefalo's festiveness is well beyond my taste today."
+msgstr "이 비팔로의 축제성은 오늘 내 취향을 훨씬 뛰어 넘습니다."
+
+#. YOTB_CONTEST_FESTIVE_EXTREMELOW.1
+msgctxt "YOTB_CONTEST_FESTIVE_EXTREMELOW.1"
+msgid "Today's beefalo needs to be a lot more festive than this curmudgeon."
+msgstr "오늘의 비팔로는 이 괴짜보다 훨씬 더 축제에 어울려야 해요."
+
+#. YOTB_CONTEST_FESTIVE_EXTREMELOW.2
+msgctxt "YOTB_CONTEST_FESTIVE_EXTREMELOW.2"
+msgid "I'm looking for something way more festive today."
+msgstr "나는 오늘 좀 더 축제에 어울리는 것을 찾고 있습니다."
+
+#. YOTB_CONTEST_FESTIVE_HIGH.1
+msgctxt "YOTB_CONTEST_FESTIVE_HIGH.1"
+msgid "This beefalo is just a little more festive than I want."
+msgstr "이 비팔로는 내가 원하는 것보다 조금 더 축제에 어울립니다."
+
+#. YOTB_CONTEST_FESTIVE_HIGH.2
+msgctxt "YOTB_CONTEST_FESTIVE_HIGH.2"
+msgid "Being a little too festive can be good, but not today."
+msgstr "좀 지나치게 축제를 즐기는 게 좋겠지만 오늘은 아닙니다."
+
+#. YOTB_CONTEST_FESTIVE_LOW.1
+msgctxt "YOTB_CONTEST_FESTIVE_LOW.1"
+msgid "Maybe this beefalo could be a little more festive."
+msgstr "어쩌면 이 비팔로가 조금 더 축제에 어룰릴 수도 있습니다."
+
+#. YOTB_CONTEST_FESTIVE_LOW.2
+msgctxt "YOTB_CONTEST_FESTIVE_LOW.2"
+msgid "This beefalo is not as festive as I'd like, but it's close."
+msgstr "이 비팔로는 내가 원하는 만큼 축제에 어울리지는 않지만 가깝습니다."
+
+#. YOTB_CONTEST_FESTIVE_PERFECT.1
+msgctxt "YOTB_CONTEST_FESTIVE_PERFECT.1"
+msgid "I like this one's festivity."
+msgstr "이 녀석은 축제와 잘 어울리는 군요."
+
+#. YOTB_CONTEST_FESTIVE_PERFECT.2
+msgctxt "YOTB_CONTEST_FESTIVE_PERFECT.2"
+msgid "This beefalo is just festive enough."
+msgstr "이 비팔로는 충분히 축제와 어울려요."
+
+#. YOTB_CONTEST_FESTIVE_TARGET_EXTREMEHIGH.1
+msgctxt "YOTB_CONTEST_FESTIVE_TARGET_EXTREMEHIGH.1"
+msgid "Also, the winner should be the most festive of beasts."
+msgstr "또한 승자는 가장 축제와 어울리는 짐승이어야 합니다."
+
+#. YOTB_CONTEST_FESTIVE_TARGET_EXTREMELOW.1
+msgctxt "YOTB_CONTEST_FESTIVE_TARGET_EXTREMELOW.1"
+msgid "Also, I don't want to see even a hint of festivity in today's Champion."
+msgstr "또한 오늘의 챔피언에게서 축제의 흔적조차 보고 싶지 않습니다."
+
+#. YOTB_CONTEST_FESTIVE_TARGET_EXTREMELOW.2
+msgctxt "YOTB_CONTEST_FESTIVE_TARGET_EXTREMELOW.2"
+msgid "Also, I'm in no mood for festivity today. I'd better not see a trace of it!"
+msgstr "또한, 저는 오늘 축제할 기분이 아니네요. 그 흔적조차 보지 않는 게 좋겠어요!"
+
+#. YOTB_CONTEST_FESTIVE_TARGET_HIGH.1
+msgctxt "YOTB_CONTEST_FESTIVE_TARGET_HIGH.1"
+msgid "Also, there should be a lot of festivity, with just a dash of somberness."
+msgstr "또한 약간의 침울함과 함께 축제가 많이 열려야 해요."
+
+#. YOTB_CONTEST_FESTIVE_TARGET_LOW.1
+msgctxt "YOTB_CONTEST_FESTIVE_TARGET_LOW.1"
+msgid "Also, today's winner will be a bit more somber than festive."
+msgstr "또한 오늘의 승자는 축제보다 조금 더 우울할 것입니다."
+
+#. YOTB_CONTEST_FESTIVE_TARGET_PERFECT.1
+msgctxt "YOTB_CONTEST_FESTIVE_TARGET_PERFECT.1"
+msgid "Also, I'm looking for a tasteful mix of festivity and somberness."
+msgstr "또한, 나는 축제와 침울함의 세련된 혼합을 찾고 있습니다."
+
+#. YOTB_CONTEST_FESTIVE_TARGET_PERFECT.2
+msgctxt "YOTB_CONTEST_FESTIVE_TARGET_PERFECT.2"
+msgid "Also, today's champion will be a perfect balance of somber and festive."
+msgstr "또한, 오늘의 챔피언은 우울함과 축제의 완벽한 조화가 될 것입니다."
+
+#. YOTB_CONTEST_FESTIVE_TARGET_VERYHIGH.1
+msgctxt "YOTB_CONTEST_FESTIVE_TARGET_VERYHIGH.1"
+msgid "Also, I'm looking for quite a lot of festivity today."
+msgstr "또한, 나는 오늘 축제를 꽤 많이 찾고 있습니다."
+
+#. YOTB_CONTEST_FESTIVE_TARGET_VERYLOW.1
+msgctxt "YOTB_CONTEST_FESTIVE_TARGET_VERYLOW.1"
+msgid "Also, I only want to see the tiniest hint of festivity."
+msgstr "또한 축제의 가장 작은 힌트만 보고 싶습니다."
+
+#. YOTB_CONTEST_FESTIVE_VERYHIGH.1
+msgctxt "YOTB_CONTEST_FESTIVE_VERYHIGH.1"
+msgid "This fella is more festive than I want."
+msgstr "이 친구는 내가 원하는 것보다 더 축제에 어울립니다."
+
+#. YOTB_CONTEST_FESTIVE_VERYHIGH.2
+msgctxt "YOTB_CONTEST_FESTIVE_VERYHIGH.2"
+msgid "I respect how festive this beefalo is, but it's more than I like."
+msgstr "나는 이 비팔로가 얼마나 축제적인지 존중하지만 내가 좋아하는 것 이상입니다."
+
+#. YOTB_CONTEST_FESTIVE_VERYLOW.1
+msgctxt "YOTB_CONTEST_FESTIVE_VERYLOW.1"
+msgid "I'd like my beefalo to be a fair bit more festive than this."
+msgstr "내 비팔로가 조금 더 축제와 어울렸으면 좋겠어요."
+
+#. YOTB_CONTEST_FESTIVE_VERYLOW.2
+msgctxt "YOTB_CONTEST_FESTIVE_VERYLOW.2"
+msgid "This one is not quite festive enough, by a good margin."
+msgstr "이것은 충분히 축제와 어울리지 않고 좀 차이가 있네요."
+
+#. YOTB_CONTEST_FIGHT_END
+msgctxt "YOTB_CONTEST_FIGHT_END"
+msgid "Alright, contest over for now folks!"
+msgstr "자, 이제 대회는 끝났어요. 여러분!"
+
+#. YOTB_CONTEST_FIRST_PLACE
+msgctxt "YOTB_CONTEST_FIRST_PLACE"
+msgid "Finally, my first place pick is..."
+msgstr "마지막으로 제 1순위는..."
+
+#. YOTB_CONTEST_FORMAL_EXTREMEHIGH.1
+msgctxt "YOTB_CONTEST_FORMAL_EXTREMEHIGH.1"
+msgid "This one is much too formal."
+msgstr "이것은 너무 형식적입니다."
+
+#. YOTB_CONTEST_FORMAL_EXTREMEHIGH.2
+msgctxt "YOTB_CONTEST_FORMAL_EXTREMEHIGH.2"
+msgid "This beefalo's formalness is well beyond my taste today."
+msgstr "이 비팔로의 포멀함은 오늘날 내 취향을 훨씬 뛰어넘습니다."
+
+#. YOTB_CONTEST_FORMAL_EXTREMELOW.1
+msgctxt "YOTB_CONTEST_FORMAL_EXTREMELOW.1"
+msgid "Today's beefalo needs to be a lot more formal than this ragamuffin."
+msgstr "오늘날의 비팔로는 이 라가머핀보다 훨씬 더 격식을 차려야 합니다."
+
+#. YOTB_CONTEST_FORMAL_EXTREMELOW.2
+msgctxt "YOTB_CONTEST_FORMAL_EXTREMELOW.2"
+msgid "I'm looking for something way more formal today."
+msgstr "나는 오늘 좀 더 형식적인 것을 찾고 있습니다."
+
+#. YOTB_CONTEST_FORMAL_HIGH.1
+msgctxt "YOTB_CONTEST_FORMAL_HIGH.1"
+msgid "This beefalo is just a little more formal than I want."
+msgstr "이 비팔로는 내가 원하는 것보다 조금 더 형식적입니다."
+
+#. YOTB_CONTEST_FORMAL_HIGH.2
+msgctxt "YOTB_CONTEST_FORMAL_HIGH.2"
+msgid "Being a little too formal can be good, but not today."
+msgstr "너무 형식적인 것은 좋을 수 있지만 오늘은 아닙니다."
+
+#. YOTB_CONTEST_FORMAL_LOW.1
+msgctxt "YOTB_CONTEST_FORMAL_LOW.1"
+msgid "Maybe this beefalo could be a little more formal."
+msgstr "어쩌면 이 비팔로는 좀 더 형식적일 수 있습니다."
+
+#. YOTB_CONTEST_FORMAL_LOW.2
+msgctxt "YOTB_CONTEST_FORMAL_LOW.2"
+msgid "This beefalo is not as formal as I'd like, but it's close."
+msgstr "이 비팔로는 내가 원하는 만큼 형식적이지 않지만 가깝습니다."
+
+#. YOTB_CONTEST_FORMAL_PERFECT.1
+msgctxt "YOTB_CONTEST_FORMAL_PERFECT.1"
+msgid "I like this one's formalness."
+msgstr "이 녀셕의 형식이 맘에 드네요."
+
+#. YOTB_CONTEST_FORMAL_PERFECT.2
+msgctxt "YOTB_CONTEST_FORMAL_PERFECT.2"
+msgid "This beefalo is just formal enough."
+msgstr "이 비팔로는 충분히 형식적입니다."
+
+#. YOTB_CONTEST_FORMAL_TARGET_EXTREMEHIGH.1
+msgctxt "YOTB_CONTEST_FORMAL_TARGET_EXTREMEHIGH.1"
+msgid "Everything about today's winner should scream \"formality.\""
+msgstr "오늘의 승자에 대한 모든 것은 \"형식\"을 외쳐야 합니다."
+
+#. YOTB_CONTEST_FORMAL_TARGET_EXTREMELOW.1
+msgctxt "YOTB_CONTEST_FORMAL_TARGET_EXTREMELOW.1"
+msgid "My taste today is for a complete lack of formality."
+msgstr "오늘 내 취향은 형식이 완전히 결여되어 있습니다."
+
+#. YOTB_CONTEST_FORMAL_TARGET_HIGH.1
+msgctxt "YOTB_CONTEST_FORMAL_TARGET_HIGH.1"
+msgid "Today's beefalo should have a slight edge of formality."
+msgstr "오늘날의 비팔로는 약간의 격식을 갖추어야 합니다."
+
+#. YOTB_CONTEST_FORMAL_TARGET_LOW.1
+msgctxt "YOTB_CONTEST_FORMAL_TARGET_LOW.1"
+msgid "My pick for today will be a bit more unconventional than formal."
+msgstr "오늘의 선택은 형식적인 것보다 조금 더 파격적일 것입니다."
+
+#. YOTB_CONTEST_FORMAL_TARGET_PERFECT.1
+msgctxt "YOTB_CONTEST_FORMAL_TARGET_PERFECT.1"
+msgid "I want to see a perfect blend of unconventional and formal."
+msgstr "나는 틀에 얽매이지 않는 것과 형식적인 것의 완벽한 조화를 보고 싶어요."
+
+#. YOTB_CONTEST_FORMAL_TARGET_VERYHIGH.1
+msgctxt "YOTB_CONTEST_FORMAL_TARGET_VERYHIGH.1"
+msgid "I'd like to see the high end of formality today, with just a dash of disorder."
+msgstr "나는 오늘 약간의 무질서와 함께 격식의 고단함을 보고 싶습니다."
+
+#. YOTB_CONTEST_FORMAL_TARGET_VERYLOW.1
+msgctxt "YOTB_CONTEST_FORMAL_TARGET_VERYLOW.1"
+msgid "I want to see something mostly unconventional, with just a whiff of formality."
+msgstr "나는 형식의 가미와 함께 대부분 틀에 얽매이지 않는 것을보고 싶습니다."
+
+#. YOTB_CONTEST_FORMAL_VERYHIGH.1
+msgctxt "YOTB_CONTEST_FORMAL_VERYHIGH.1"
+msgid "This specimen is more formal than I want."
+msgstr "이 표본은 내가 원하는 것보다 더 형식적입니다."
+
+#. YOTB_CONTEST_FORMAL_VERYHIGH.2
+msgctxt "YOTB_CONTEST_FORMAL_VERYHIGH.2"
+msgid "I respect how formal this beefalo is, but it's more than I like."
+msgstr "나는 이 비팔로가 얼마나 형식적인지 존중하지만 내가 좋아하는 것 이상입니다."
+
+#. YOTB_CONTEST_FORMAL_VERYLOW.1
+msgctxt "YOTB_CONTEST_FORMAL_VERYLOW.1"
+msgid "I'd like my beefalo to be a fair bit more formal than this."
+msgstr "내 비팔로가 이것보다 좀 더 포멀했으면 좋겠어요."
+
+#. YOTB_CONTEST_FORMAL_VERYLOW.2
+msgctxt "YOTB_CONTEST_FORMAL_VERYLOW.2"
+msgid "This one is not quite formal enough, by a good margin."
+msgstr "이것은 좋은 마진으로 충분히 형식적이지 않습니다."
+
+#. YOTB_CONTEST_SECOND_PLACE
+msgctxt "YOTB_CONTEST_SECOND_PLACE"
+msgid "And In second place..."
+msgstr "그리고 2위에는..."
+
+#. YOTB_CONTEST_START
+msgctxt "YOTB_CONTEST_START"
+msgid "Well well well, lemme get a look at the menagerie."
+msgstr "글쎄요, 그럼 동물원에 대해 알아보겠습니다."
+
+#. YOTB_CONTEST_TARGET_PARAMS
+msgctxt "YOTB_CONTEST_TARGET_PARAMS"
+msgid "My perfect beefalo changes from day to day..."
+msgstr "나의 완벽한 비팔로는 나날이 변하고 있어요..."
+
+#. YOTB_CONTEST_THIRD_PLACE
+msgctxt "YOTB_CONTEST_THIRD_PLACE"
+msgid "Alright, my pick for third place is..."
+msgstr "좋아, 내가 선택한 3위는..."
+
+#. YOTB_DOLL_FEARSOME_TARGET_EXTREMEHIGH.1
+msgctxt "YOTB_DOLL_FEARSOME_TARGET_EXTREMEHIGH.1"
+msgid "Finally, this is the most fearsome of dolls!"
+msgstr "마지막으로 가장 무서운 인형입니다!"
+
+#. YOTB_DOLL_FEARSOME_TARGET_EXTREMELOW.1
+msgctxt "YOTB_DOLL_FEARSOME_TARGET_EXTREMELOW.1"
+msgid "Finally, this is like a teddy bear. My heart is at ease."
+msgstr "마지막으로 이것은 테디베어 같네요. 마음이 편안합니다."
+
+#. YOTB_DOLL_FEARSOME_TARGET_HIGH.1
+msgctxt "YOTB_DOLL_FEARSOME_TARGET_HIGH.1"
+msgid "Finally, it's only mildly more fearsome than friendly."
+msgstr "마지막으로 우호적이기보다 약간 더 무섭습니다."
+
+#. YOTB_DOLL_FEARSOME_TARGET_LOW.1
+msgctxt "YOTB_DOLL_FEARSOME_TARGET_LOW.1"
+msgid "Finally, this is just a bit more friendly than scary."
+msgstr "마지막으로 이것은 무서운 것보다는 조금 더 친근합니다."
+
+#. YOTB_DOLL_FEARSOME_TARGET_PERFECT.1
+msgctxt "YOTB_DOLL_FEARSOME_TARGET_PERFECT.1"
+msgid "Finally, it has a good balance of fearsome and friendly."
+msgstr "마지막으로, 그것은 두려움과 친근함 사이에서 균형을 잘 유지하고 있습니다."
+
+#. YOTB_DOLL_FEARSOME_TARGET_VERYHIGH.1
+msgctxt "YOTB_DOLL_FEARSOME_TARGET_VERYHIGH.1"
+msgid "Finally, it's quite fierce."
+msgstr "마지막으로 상당히 치열합니다."
+
+#. YOTB_DOLL_FEARSOME_TARGET_VERYHIGH.2
+msgctxt "YOTB_DOLL_FEARSOME_TARGET_VERYHIGH.2"
+msgid "Finally, this is quite fearsome looking."
+msgstr "마지막으로, 이것은 상당히 무서운 모습입니다."
+
+#. YOTB_DOLL_FEARSOME_TARGET_VERYLOW.1
+msgctxt "YOTB_DOLL_FEARSOME_TARGET_VERYLOW.1"
+msgid "Finally, it has the tiniest hint of ferocity."
+msgstr "마지막으로, 아주 조금 흉포함을 암시하고 있습니다."
+
+#. YOTB_DOLL_FEARSOME_TARGET_VERYLOW.2
+msgctxt "YOTB_DOLL_FEARSOME_TARGET_VERYLOW.2"
+msgid "Finally, I can see a little ferocity, but just a touch."
+msgstr "마지막으로 약간의 포악함을 볼 수 있지만 한 번 만지는 걸로 족해요."
+
+#. YOTB_DOLL_FESTIVE_TARGET_EXTREMEHIGH.1
+msgctxt "YOTB_DOLL_FESTIVE_TARGET_EXTREMEHIGH.1"
+msgid "Also, it's the most festive of dolls."
+msgstr "또한, 그것은 인형 중 가장 축제에 어울립니다."
+
+#. YOTB_DOLL_FESTIVE_TARGET_EXTREMELOW.1
+msgctxt "YOTB_DOLL_FESTIVE_TARGET_EXTREMELOW.1"
+msgid "Also, I don't see even a hint of festivity in this."
+msgstr "또한 여기에는 축제의 흔적조차 보이지 않습니다."
+
+#. YOTB_DOLL_FESTIVE_TARGET_HIGH.1
+msgctxt "YOTB_DOLL_FESTIVE_TARGET_HIGH.1"
+msgid "Also, it has a lot of festivity, with just a dash of somberness."
+msgstr "또한, 약간의 침울함이 공존하며 축제와 잘 어울립니다."
+
+#. YOTB_DOLL_FESTIVE_TARGET_LOW.1
+msgctxt "YOTB_DOLL_FESTIVE_TARGET_LOW.1"
+msgid "Also, this is a bit more somber than festive."
+msgstr "또한 이것은 축제보다 조금 더 우울합니다."
+
+#. YOTB_DOLL_FESTIVE_TARGET_PERFECT.1
+msgctxt "YOTB_DOLL_FESTIVE_TARGET_PERFECT.1"
+msgid "Also, this is tasteful mix of festivity and somberness."
+msgstr "또한 이것은 축제와 침울함을 세련되게 버무렸습니다."
+
+#. YOTB_DOLL_FESTIVE_TARGET_PERFECT.2
+msgctxt "YOTB_DOLL_FESTIVE_TARGET_PERFECT.2"
+msgid "Also, it's a perfect balance of somber and festive."
+msgstr "또한, 그것은 침울함과 축제의 완벽한 균형이죠."
+
+#. YOTB_DOLL_FESTIVE_TARGET_VERYHIGH.1
+msgctxt "YOTB_DOLL_FESTIVE_TARGET_VERYHIGH.1"
+msgid "Also, it has quite a lot of festivity."
+msgstr "게다가 축제도 꽤 많습니다."
+
+#. YOTB_DOLL_FESTIVE_TARGET_VERYLOW.1
+msgctxt "YOTB_DOLL_FESTIVE_TARGET_VERYLOW.1"
+msgid "Also, it has only the tiniest hint of festivity."
+msgstr "또한, 그것은 축제에 관해 가장 작은 힌트만을 가지고 있습니다."
+
+#. YOTB_DOLL_FORMAL_TARGET_EXTREMEHIGH.1
+msgctxt "YOTB_DOLL_FORMAL_TARGET_EXTREMEHIGH.1"
+msgid "Everything about this screams \"formality.\""
+msgstr "모든 것이 \"공식적\"이라고 비명을 지르고 있습니다."
+
+#. YOTB_DOLL_FORMAL_TARGET_EXTREMELOW.1
+msgctxt "YOTB_DOLL_FORMAL_TARGET_EXTREMELOW.1"
+msgid "It has a complete lack of formality."
+msgstr "형식이 완전히 결여되어 있습니다."
+
+#. YOTB_DOLL_FORMAL_TARGET_HIGH.1
+msgctxt "YOTB_DOLL_FORMAL_TARGET_HIGH.1"
+msgid "This has a slight edge of formality."
+msgstr "형식이 살짝 걸쳐져 있죠"
+
+#. YOTB_DOLL_FORMAL_TARGET_LOW.1
+msgctxt "YOTB_DOLL_FORMAL_TARGET_LOW.1"
+msgid "This a bit more unconventional than formal."
+msgstr "형식적이라기보다는 조금 더 파격적입니다."
+
+#. YOTB_DOLL_FORMAL_TARGET_PERFECT.1
+msgctxt "YOTB_DOLL_FORMAL_TARGET_PERFECT.1"
+msgid "It's a perfect blend of unconventional and formal."
+msgstr "파격과 형식의 완벽한 조화입니다."
+
+#. YOTB_DOLL_FORMAL_TARGET_VERYHIGH.1
+msgctxt "YOTB_DOLL_FORMAL_TARGET_VERYHIGH.1"
+msgid "This is the high end of formality, with just a dash of disorder."
+msgstr "이것은 약간의 무질서가 있는 형식의 최고 수준입니다."
+
+#. YOTB_DOLL_FORMAL_TARGET_VERYLOW.1
+msgctxt "YOTB_DOLL_FORMAL_TARGET_VERYLOW.1"
+msgid "This is mostly unconventional, with just a whiff of formality."
+msgstr "이것은 형식의 냄새만 풍길 뿐 대부분의 틀에 얽매이지 않습니다."
+
+#. YOTB_EXTRA_BEEF
+msgctxt "YOTB_EXTRA_BEEF"
+msgid "Let's round up some locals to make things interesting."
+msgstr "재미있는 일을 하기 위해 지역 주민을 모아 보겠습니다."
+
+#. YOTB_GIVE_PRIZE_BIG
+msgctxt "YOTB_GIVE_PRIZE_BIG"
+msgid "Congrats! Don't spend it all in once place."
+msgstr "축하 해요! 한곳에서 다 쓰지 마세요."
+
+#. YOTB_GIVE_PRIZE_SMALL
+msgctxt "YOTB_GIVE_PRIZE_SMALL"
+msgid "Here you go, well done you."
+msgstr "여기 있습니다. 수고하셨어요."
+
+#. YOTB_GUESS_WHO_1
+msgctxt "YOTB_GUESS_WHO_1"
+msgid "Alright, which of these beauties do you think is today's winner!?"
+msgstr "자, 여러분은 이 예쁜이들 중 오늘의 승자는 누구라고 생각하시나요!?"
+
+#. YOTB_GUESS_WHO_2
+msgctxt "YOTB_GUESS_WHO_2"
+msgid "Take your time, choose wisely."
+msgstr "시간을 갖고 현명하게 선택하세요."
+
+#. YOTB_GUESS_WHO_3
+msgctxt "YOTB_GUESS_WHO_3"
+msgid "OK, now hurry up..."
+msgstr "알았어요, 이제 서두르세요..."
+
+#. YOTB_GUESS_WHO_4
+msgctxt "YOTB_GUESS_WHO_4"
+msgid "Time's up!"
+msgstr "시간은 끝났어요!"
+
+#. YOTB_GUESS_WHO_5
+msgctxt "YOTB_GUESS_WHO_5"
+msgid "Alright, my pick for today's contest is..."
+msgstr "자, 오늘의 대회의 선택은..."
+
+#. YOTB_HEY.1
+msgctxt "YOTB_HEY.1"
+msgid "Hiya!"
+msgstr "히야!"
+
+#. YOTB_HEY.2
+msgctxt "YOTB_HEY.2"
+msgid "Hey!"
+msgstr "어이!"
+
+#. YOTB_HEY.3
+msgctxt "YOTB_HEY.3"
+msgid "Howdy!"
+msgstr "안녕!"
+
+#. YOTB_HEY.4
+msgctxt "YOTB_HEY.4"
+msgid "Greetings!"
+msgstr "안녕!"
+
+#. YOTB_HURRY_PRIZE
+msgctxt "YOTB_HURRY_PRIZE"
+msgid "Come get your prize, I won't wait all day."
+msgstr "경품을 받으러 오세요. 하루 종일 기다리지는 않아요."
+
+#. YOTB_NOTHING_FOR_YOU
+msgctxt "YOTB_NOTHING_FOR_YOU"
+msgid "Sorry, you didn't win anything this time."
+msgstr "죄송합니다. 이번에는 아무것도 얻지 못했습니다."
+
+#. YOTB_NO_EXTRA_BEEF
+msgctxt "YOTB_NO_EXTRA_BEEF"
+msgid "What an eclectic looking bunch."
+msgstr "이 얼마나 절충적으로 보이는 무리인지."
+
+#. YOTB_NO_PRIZE
+msgctxt "YOTB_NO_PRIZE"
+msgid "No one guessed right today! There's always tomorrow."
+msgstr "아무도 오늘을 추측하지 못했어요! 언제나 내일이 있죠."
+
+#. YOTB_PATTERNS
+msgctxt "YOTB_PATTERNS"
+msgid "Everyone, enjoy some complimentary fashion scraps!"
+msgstr "여러분, 무료 패션 스크랩을 즐기세요!"
+
+#. YOTB_PRIZE
+msgctxt "YOTB_PRIZE"
+msgid "Only one winner! Don't spend it all in one place!"
+msgstr "겨울은 단 한번 뿐입니다! 한 곳에서 모두 써버리지 마세요!"
+
+#. YOTB_PRIZES
+msgctxt "YOTB_PRIZES"
+msgid "Here's your prizes, winners!"
+msgstr "여기 당신의 상품이 있습니다, 승자여!"
+
+#. YOTB_START_FAIL_DANGER
+msgctxt "YOTB_START_FAIL_DANGER"
+msgid "Sorry, it's not safe enough around here!"
+msgstr "죄송합니다. 이곳은 안전하지 않습니다!"
+
+#. YOTB_START_FAIL_LATE
+msgctxt "YOTB_START_FAIL_LATE"
+msgid "Sorry, it's too late to start today."
+msgstr "미안해요, 오늘은 시작하기에 너무 늦었어요."
+
+#. YOTB_START_FAIL_NOT_ENOUGH_POSTS
+msgctxt "YOTB_START_FAIL_NOT_ENOUGH_POSTS"
+msgid "I don't see enough Stages out yet."
+msgstr "밖에 스테이지가 충분한 것 같지 않아 보입니다."
+
+#. YOTB_START_FAIL_NO_CONTESTANTS
+msgctxt "YOTB_START_FAIL_NO_CONTESTANTS"
+msgid "I don't see any contestants to judge, do you?"
+msgstr "심사할 참가자가 보이지 않네요, 보여요?"
+
+#. YOTB_TOO_LATE_PRIZE
+msgctxt "YOTB_TOO_LATE_PRIZE"
+msgid "Sorry, can't wait any longer. Bye now."
+msgstr "미안해요, 더 기다릴 수 없어요. 이제 안녕."
+

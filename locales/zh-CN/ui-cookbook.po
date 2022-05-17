@@ -1,0 +1,285 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.COOKBOOK.COOKINGTIME_AVERAGE
+msgctxt "UI.COOKBOOK.COOKINGTIME_AVERAGE"
+msgid "Average"
+msgstr "平均"
+
+#. UI.COOKBOOK.COOKINGTIME_LONG
+msgctxt "UI.COOKBOOK.COOKINGTIME_LONG"
+msgid "Long"
+msgstr "长"
+
+#. UI.COOKBOOK.COOKINGTIME_SHORT
+msgctxt "UI.COOKBOOK.COOKINGTIME_SHORT"
+msgid "Short"
+msgstr "短"
+
+#. UI.COOKBOOK.COOKINGTIME_TITLE
+msgctxt "UI.COOKBOOK.COOKINGTIME_TITLE"
+msgid "Cooking Time"
+msgstr "烹饪时间"
+
+#. UI.COOKBOOK.COOKINGTIME_UNKNOWN
+msgctxt "UI.COOKBOOK.COOKINGTIME_UNKNOWN"
+msgid "Unknown"
+msgstr "未知"
+
+#. UI.COOKBOOK.COOKINGTIME_VERY_LONG
+msgctxt "UI.COOKBOOK.COOKINGTIME_VERY_LONG"
+msgid "Very Long"
+msgstr "极长"
+
+#. UI.COOKBOOK.DISCOVERED_RECIPES
+msgctxt "UI.COOKBOOK.DISCOVERED_RECIPES"
+msgid "Recipes Discovered"
+msgstr "已发现的食谱"
+
+#. UI.COOKBOOK.FILTER_ALL
+msgctxt "UI.COOKBOOK.FILTER_ALL"
+msgid "All"
+msgstr "全部"
+
+#. UI.COOKBOOK.FILTER_INCOMPLETE
+msgctxt "UI.COOKBOOK.FILTER_INCOMPLETE"
+msgid "Incomplete"
+msgstr "不完整"
+
+#. UI.COOKBOOK.FILTER_MEAT
+msgctxt "UI.COOKBOOK.FILTER_MEAT"
+msgid "Meats"
+msgstr "肉"
+
+#. UI.COOKBOOK.FILTER_OTHER
+msgctxt "UI.COOKBOOK.FILTER_OTHER"
+msgid "Other"
+msgstr "其他"
+
+#. UI.COOKBOOK.FILTER_SIDE_EFFECTS
+msgctxt "UI.COOKBOOK.FILTER_SIDE_EFFECTS"
+msgid "Side Effects"
+msgstr "副作用"
+
+#. UI.COOKBOOK.FILTER_SPINNERLABEL
+msgctxt "UI.COOKBOOK.FILTER_SPINNERLABEL"
+msgid "Filter By"
+msgstr "筛选条件"
+
+#. UI.COOKBOOK.FILTER_VEGGIE
+msgctxt "UI.COOKBOOK.FILTER_VEGGIE"
+msgid "Veggies"
+msgstr "素食"
+
+#. UI.COOKBOOK.FOOD_EFFECTS_COLD_FOOD
+msgctxt "UI.COOKBOOK.FOOD_EFFECTS_COLD_FOOD"
+msgid "Cools the body"
+msgstr "为身体降温"
+
+#. UI.COOKBOOK.FOOD_EFFECTS_DRY
+msgctxt "UI.COOKBOOK.FOOD_EFFECTS_DRY"
+msgid "Dissipates moisture"
+msgstr "去湿"
+
+#. UI.COOKBOOK.FOOD_EFFECTS_DUST_MOTH_FOOD
+msgctxt "UI.COOKBOOK.FOOD_EFFECTS_DUST_MOTH_FOOD"
+msgid "Thulecite's secret ingredient"
+msgstr "铥矿的秘密原料"
+
+#. UI.COOKBOOK.FOOD_EFFECTS_ELECTRIC_ATTACK
+msgctxt "UI.COOKBOOK.FOOD_EFFECTS_ELECTRIC_ATTACK"
+msgid "Attacks deal electric damage"
+msgstr "攻击造成电流伤害"
+
+#. UI.COOKBOOK.FOOD_EFFECTS_GLOW
+msgctxt "UI.COOKBOOK.FOOD_EFFECTS_GLOW"
+msgid "Gives off a healthy glow"
+msgstr "散发出健康的光彩"
+
+#. UI.COOKBOOK.FOOD_EFFECTS_HEALTH_REGEN
+msgctxt "UI.COOKBOOK.FOOD_EFFECTS_HEALTH_REGEN"
+msgid "Restores health over time"
+msgstr "在一段时间内恢复生命值"
+
+#. UI.COOKBOOK.FOOD_EFFECTS_HOT_FOOD
+msgctxt "UI.COOKBOOK.FOOD_EFFECTS_HOT_FOOD"
+msgid "Warms the body"
+msgstr "让身体变暖"
+
+#. UI.COOKBOOK.FOOD_EFFECTS_HOT_SANITY_REGEN
+msgctxt "UI.COOKBOOK.FOOD_EFFECTS_HOT_SANITY_REGEN"
+msgid "Warms the body and mind"
+msgstr "温暖思想和身体"
+
+#. UI.COOKBOOK.FOOD_EFFECTS_HUNGER_REGEN
+msgctxt "UI.COOKBOOK.FOOD_EFFECTS_HUNGER_REGEN"
+msgid "Restores hunger over time"
+msgstr "逐渐恢复饥饿值"
+
+#. UI.COOKBOOK.FOOD_EFFECTS_NONE
+msgctxt "UI.COOKBOOK.FOOD_EFFECTS_NONE"
+msgid "None"
+msgstr "无"
+
+#. UI.COOKBOOK.FOOD_EFFECTS_SANITY_REGEN
+msgctxt "UI.COOKBOOK.FOOD_EFFECTS_SANITY_REGEN"
+msgid "Restores sanity over time"
+msgstr "在一段时间内恢复理智值"
+
+#. UI.COOKBOOK.FOOD_EFFECTS_SLEEP_RESISTANCE
+msgctxt "UI.COOKBOOK.FOOD_EFFECTS_SLEEP_RESISTANCE"
+msgid "Wards off sleep"
+msgstr "驱赶睡意"
+
+#. UI.COOKBOOK.FOOD_EFFECTS_SWAP_HEALTH_AND_SANITY
+msgctxt "UI.COOKBOOK.FOOD_EFFECTS_SWAP_HEALTH_AND_SANITY"
+msgid "Swaps sanity and health"
+msgstr "对调理智值与生命值"
+
+#. UI.COOKBOOK.FOOD_EFFECTS_TITLE
+msgctxt "UI.COOKBOOK.FOOD_EFFECTS_TITLE"
+msgid "Side Effects"
+msgstr "副作用"
+
+#. UI.COOKBOOK.FOOD_TYPE_TITLE
+msgctxt "UI.COOKBOOK.FOOD_TYPE_TITLE"
+msgid "Type"
+msgstr "种类"
+
+#. UI.COOKBOOK.FOOD_TYPE_UNKNOWN
+msgctxt "UI.COOKBOOK.FOOD_TYPE_UNKNOWN"
+msgid "?"
+msgstr "？"
+
+#. UI.COOKBOOK.LOCKED_RECIPE.cookpot
+msgctxt "UI.COOKBOOK.LOCKED_RECIPE.cookpot"
+msgid "Experiment with ingredients in the Crock Pot to discover new recipes and expand your cookbook."
+msgstr "用烹饪锅中的食材进行实验，发现新的食谱，拓展你的烹饪指南。"
+
+#. UI.COOKBOOK.LOCKED_RECIPE.portablecookpot
+msgctxt "UI.COOKBOOK.LOCKED_RECIPE.portablecookpot"
+msgid "Experiment with ingredients in Warly's Portable Crock Pot to discover new recipes and expand your cookbook."
+msgstr "用沃利的烹饪锅中的食材进行实验，发现新的食谱，拓展你的烹饪指南。"
+
+#. UI.COOKBOOK.LOCKED_STATS
+msgctxt "UI.COOKBOOK.LOCKED_STATS"
+msgid "This food requires a taste test to learn more."
+msgstr "需要试吃这种食物才能了解更多。"
+
+#. UI.COOKBOOK.NO_RECIPES_DESC
+msgctxt "UI.COOKBOOK.NO_RECIPES_DESC"
+msgid "Experiment with different ingredients to discover a recipe."
+msgstr "用不同的材料进行实验来发现一个食谱。"
+
+#. UI.COOKBOOK.NO_RECIPES_TITLE
+msgctxt "UI.COOKBOOK.NO_RECIPES_TITLE"
+msgid "Recipes"
+msgstr "食谱"
+
+#. UI.COOKBOOK.ONLINE_DATA_DOWNLOAD_FAILED
+msgctxt "UI.COOKBOOK.ONLINE_DATA_DOWNLOAD_FAILED"
+msgid "Failed to sync online cookbook data."
+msgstr "同步在线烹饪指南数据失败。"
+
+#. UI.COOKBOOK.ONLINE_DATA_USER_OFFLINE
+msgctxt "UI.COOKBOOK.ONLINE_DATA_USER_OFFLINE"
+msgid "Login to retrieve online cookbook data."
+msgstr "登录后可查看在线烹饪指南数据。"
+
+#. UI.COOKBOOK.PERISH_AVERAGE
+msgctxt "UI.COOKBOOK.PERISH_AVERAGE"
+msgid "Average"
+msgstr "平均"
+
+#. UI.COOKBOOK.PERISH_NEVER
+msgctxt "UI.COOKBOOK.PERISH_NEVER"
+msgid "Never"
+msgstr "从不"
+
+#. UI.COOKBOOK.PERISH_QUICKLY
+msgctxt "UI.COOKBOOK.PERISH_QUICKLY"
+msgid "Quickly"
+msgstr "迅速"
+
+#. UI.COOKBOOK.PERISH_RATE_TITLE
+msgctxt "UI.COOKBOOK.PERISH_RATE_TITLE"
+msgid "Spoils"
+msgstr "变质速度"
+
+#. UI.COOKBOOK.PERISH_SLOWLY
+msgctxt "UI.COOKBOOK.PERISH_SLOWLY"
+msgid "Slowly"
+msgstr "缓慢"
+
+#. UI.COOKBOOK.PERISH_VERY_SLOWLY
+msgctxt "UI.COOKBOOK.PERISH_VERY_SLOWLY"
+msgid "Very Slowly"
+msgstr "非常缓慢"
+
+#. UI.COOKBOOK.SORT_ALPHABETICAL
+msgctxt "UI.COOKBOOK.SORT_ALPHABETICAL"
+msgid "Alphabetical"
+msgstr "按英文字母排序"
+
+#. UI.COOKBOOK.SORT_DEFAULT
+msgctxt "UI.COOKBOOK.SORT_DEFAULT"
+msgid "Default"
+msgstr "默认"
+
+#. UI.COOKBOOK.SORT_HEALTH
+msgctxt "UI.COOKBOOK.SORT_HEALTH"
+msgid "Health"
+msgstr "生命值"
+
+#. UI.COOKBOOK.SORT_HUNGER
+msgctxt "UI.COOKBOOK.SORT_HUNGER"
+msgid "Hunger"
+msgstr "饥饿"
+
+#. UI.COOKBOOK.SORT_SANITY
+msgctxt "UI.COOKBOOK.SORT_SANITY"
+msgid "Sanity"
+msgstr "理智"
+
+#. UI.COOKBOOK.SORT_SIDE_EFFECTS
+msgctxt "UI.COOKBOOK.SORT_SIDE_EFFECTS"
+msgid "Side Effects"
+msgstr "副作用"
+
+#. UI.COOKBOOK.SORT_SPINNERLABEL
+msgctxt "UI.COOKBOOK.SORT_SPINNERLABEL"
+msgid "Sort By"
+msgstr "排序"
+
+#. UI.COOKBOOK.STAT_UNKNOWN
+msgctxt "UI.COOKBOOK.STAT_UNKNOWN"
+msgid "?"
+msgstr "？"
+
+#. UI.COOKBOOK.TAB_TITLE_COOKPOT
+msgctxt "UI.COOKBOOK.TAB_TITLE_COOKPOT"
+msgid "Crock Pot Recipes"
+msgstr "烹饪锅食谱"
+
+#. UI.COOKBOOK.TAB_TITLE_MOD_RECIPES
+msgctxt "UI.COOKBOOK.TAB_TITLE_MOD_RECIPES"
+msgid "Mod Recipes"
+msgstr "模组食谱"
+
+#. UI.COOKBOOK.TAB_TITLE_PORTABLECOOKPOT
+msgctxt "UI.COOKBOOK.TAB_TITLE_PORTABLECOOKPOT"
+msgid "Chef's Specials"
+msgstr "大厨特色菜"
+
+#. UI.COOKBOOK.UNKNOWN_FOOD_NAME
+msgctxt "UI.COOKBOOK.UNKNOWN_FOOD_NAME"
+msgid "Unknown '{food}'"
+msgstr "未知 '{food}'"
+
+#. UI.COOKBOOK.UNKNOWN_INGREDIENT_NAME
+msgctxt "UI.COOKBOOK.UNKNOWN_INGREDIENT_NAME"
+msgid "Unknown Ingredient '{ingredient}'"
+msgstr "未知原料 '{ingredient}'"
+

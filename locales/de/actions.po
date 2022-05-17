@@ -1,0 +1,1680 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. ACTIONS.ABANDON
+msgctxt "ACTIONS.ABANDON"
+msgid "Abandon"
+msgstr "Verlassen"
+
+#. ACTIONS.ABANDON_QUEST
+msgctxt "ACTIONS.ABANDON_QUEST"
+msgid "Abandon"
+msgstr "Verlassen"
+
+#. ACTIONS.ABANDON_SHIP
+msgctxt "ACTIONS.ABANDON_SHIP"
+msgid "Abandon Ship"
+msgstr "Schiff verlassen"
+
+#. ACTIONS.ACTIVATE.ACCOMPLISH
+msgctxt "ACTIONS.ACTIVATE.ACCOMPLISH"
+msgid "Wind"
+msgstr "Aufziehen"
+
+#. ACTIONS.ACTIVATE.CLIMB
+msgctxt "ACTIONS.ACTIVATE.CLIMB"
+msgid "Climb"
+msgstr "Klettern"
+
+#. ACTIONS.ACTIVATE.CLOSE
+msgctxt "ACTIONS.ACTIVATE.CLOSE"
+msgid "Close"
+msgstr "Schließen"
+
+#. ACTIONS.ACTIVATE.DEACTIVATE
+msgctxt "ACTIONS.ACTIVATE.DEACTIVATE"
+msgid "Deactivate"
+msgstr "Deaktivieren"
+
+#. ACTIONS.ACTIVATE.GENERIC
+msgctxt "ACTIONS.ACTIVATE.GENERIC"
+msgid "Activate"
+msgstr "Aktiviere"
+
+#. ACTIONS.ACTIVATE.HIDEANDSEEK
+msgctxt "ACTIONS.ACTIVATE.HIDEANDSEEK"
+msgid "Play Hide and Seek"
+msgstr "Verstecken spielen"
+
+#. ACTIONS.ACTIVATE.INVESTIGATE
+msgctxt "ACTIONS.ACTIVATE.INVESTIGATE"
+msgid "Investigate"
+msgstr "Untersuchen"
+
+#. ACTIONS.ACTIVATE.OPEN
+msgctxt "ACTIONS.ACTIVATE.OPEN"
+msgid "Open"
+msgstr "Offen"
+
+#. ACTIONS.ACTIVATE.PICK
+msgctxt "ACTIONS.ACTIVATE.PICK"
+msgid "Choose"
+msgstr "Wählen"
+
+#. ACTIONS.ACTIVATE.RANSACK
+msgctxt "ACTIONS.ACTIVATE.RANSACK"
+msgid "Ransack"
+msgstr "Plündern"
+
+#. ACTIONS.ACTIVATE.SPELUNK
+msgctxt "ACTIONS.ACTIVATE.SPELUNK"
+msgid "Spelunk"
+msgstr "Erforsche"
+
+#. ACTIONS.ACTIVATE.SUMMONHOST
+msgctxt "ACTIONS.ACTIVATE.SUMMONHOST"
+msgid "Ring"
+msgstr "Klingeln"
+
+#. ACTIONS.ACTIVATE.TOUCH
+msgctxt "ACTIONS.ACTIVATE.TOUCH"
+msgid "Touch"
+msgstr "Berühren:"
+
+#. ACTIONS.ACTIVATE.TURN
+msgctxt "ACTIONS.ACTIVATE.TURN"
+msgid "Turn"
+msgstr "Ziehen"
+
+#. ACTIONS.ADDCOMPOSTABLE
+msgctxt "ACTIONS.ADDCOMPOSTABLE"
+msgid "Give"
+msgstr "Geben"
+
+#. ACTIONS.ADDFUEL
+msgctxt "ACTIONS.ADDFUEL"
+msgid "Add Fuel"
+msgstr "Anheizen"
+
+#. ACTIONS.ADDWETFUEL
+msgctxt "ACTIONS.ADDWETFUEL"
+msgid "Add Wet Fuel"
+msgstr "Anheizen"
+
+#. ACTIONS.ADVANCE_TREE_GROWTH
+msgctxt "ACTIONS.ADVANCE_TREE_GROWTH"
+msgid "Apply"
+msgstr "Übernehmen"
+
+#. ACTIONS.APPLYCONSTRUCTION
+msgctxt "ACTIONS.APPLYCONSTRUCTION"
+msgid "Build"
+msgstr "Bauen"
+
+#. ACTIONS.APPLYMODULE
+msgctxt "ACTIONS.APPLYMODULE"
+msgid "Plug In"
+msgstr "Einstecken"
+
+#. ACTIONS.APPLYPRESERVATIVE.GENERIC
+msgctxt "ACTIONS.APPLYPRESERVATIVE.GENERIC"
+msgid "Preserve"
+msgstr "Konservieren"
+
+#. ACTIONS.APPLYPRESERVATIVE.SALT
+msgctxt "ACTIONS.APPLYPRESERVATIVE.SALT"
+msgid "Preserve"
+msgstr "Konservieren"
+
+#. ACTIONS.APPRAISE
+msgctxt "ACTIONS.APPRAISE"
+msgid "Appraise"
+msgstr "Schätzen"
+
+#. ACTIONS.ASSESSPLANTHAPPINESS.GENERIC
+msgctxt "ACTIONS.ASSESSPLANTHAPPINESS.GENERIC"
+msgid "Assess Happiness"
+msgstr "Glückseligkeit bewerten"
+
+#. ACTIONS.ASSESSPLANTHAPPINESS.GENERIC_FMT
+msgctxt "ACTIONS.ASSESSPLANTHAPPINESS.GENERIC_FMT"
+msgid "Assess {plant}'s Happiness"
+msgstr "Glückseligkeit von {plant} bewerten"
+
+#. ACTIONS.ATTACK.GENERIC
+msgctxt "ACTIONS.ATTACK.GENERIC"
+msgid "Attack"
+msgstr "Angriff"
+
+#. ACTIONS.ATTACK.PROP
+msgctxt "ACTIONS.ATTACK.PROP"
+msgid "Smack"
+msgstr "Schlagen"
+
+#. ACTIONS.ATTACK.RANGEDLIGHT
+msgctxt "ACTIONS.ATTACK.RANGEDLIGHT"
+msgid "Light"
+msgstr "Anzünden"
+
+#. ACTIONS.ATTACK.RANGEDSMOTHER
+msgctxt "ACTIONS.ATTACK.RANGEDSMOTHER"
+msgid "Extinguish"
+msgstr "Löschen"
+
+#. ACTIONS.ATTACK.SMASHABLE
+msgctxt "ACTIONS.ATTACK.SMASHABLE"
+msgid "Smash"
+msgstr "Zerschlagen:"
+
+#. ACTIONS.ATTACK.WHACK
+msgctxt "ACTIONS.ATTACK.WHACK"
+msgid "Whack"
+msgstr "Verhauen"
+
+#. ACTIONS.ATTUNE
+msgctxt "ACTIONS.ATTUNE"
+msgid "Attune"
+msgstr "Binden"
+
+#. ACTIONS.BAIT
+msgctxt "ACTIONS.BAIT"
+msgid "Bait"
+msgstr "Ködern:"
+
+#. ACTIONS.BATHBOMB
+msgctxt "ACTIONS.BATHBOMB"
+msgid "Toss In"
+msgstr "Reinwerfen"
+
+#. ACTIONS.BEDAZZLE
+msgctxt "ACTIONS.BEDAZZLE"
+msgid "Decorate"
+msgstr "Schmücken"
+
+#. ACTIONS.BEGIN_QUEST
+msgctxt "ACTIONS.BEGIN_QUEST"
+msgid "Assist"
+msgstr "Helfen"
+
+#. ACTIONS.BLINK.GENERIC
+msgctxt "ACTIONS.BLINK.GENERIC"
+msgid "Telepoof"
+msgstr "Telepoof"
+
+#. ACTIONS.BLINK.SOUL
+msgctxt "ACTIONS.BLINK.SOUL"
+msgid "Soul Hop"
+msgstr "Seelensprung"
+
+#. ACTIONS.BRUSH
+msgctxt "ACTIONS.BRUSH"
+msgid "Brush"
+msgstr "Streifen"
+
+#. ACTIONS.BUILD
+msgctxt "ACTIONS.BUILD"
+msgid "Build"
+msgstr "Bauen"
+
+#. ACTIONS.BUNDLE
+msgctxt "ACTIONS.BUNDLE"
+msgid "Use"
+msgstr "Verwenden"
+
+#. ACTIONS.BUNDLESTORE.CONSTRUCT
+msgctxt "ACTIONS.BUNDLESTORE.CONSTRUCT"
+msgid "Add Material"
+msgstr "Material hinzufügen"
+
+#. ACTIONS.BUNDLESTORE.GENERIC
+msgctxt "ACTIONS.BUNDLESTORE.GENERIC"
+msgid "Store"
+msgstr "Lagern"
+
+#. ACTIONS.BURY
+msgctxt "ACTIONS.BURY"
+msgid "Bury"
+msgstr "Vergrabe"
+
+#. ACTIONS.CARNIVALGAME_FEED
+msgctxt "ACTIONS.CARNIVALGAME_FEED"
+msgid "Feed"
+msgstr "Füttern"
+
+#. ACTIONS.CASTAOE.BLOWDART_LAVA
+msgctxt "ACTIONS.CASTAOE.BLOWDART_LAVA"
+msgid "Barrage"
+msgstr "Sperre"
+
+#. ACTIONS.CASTAOE.BLOWDART_LAVA2
+msgctxt "ACTIONS.CASTAOE.BLOWDART_LAVA2"
+msgid "Molten Bolt"
+msgstr "Geschmolzener Blitz"
+
+#. ACTIONS.CASTAOE.BOOK_ELEMENTAL
+msgctxt "ACTIONS.CASTAOE.BOOK_ELEMENTAL"
+msgid "Summon Magma Golem"
+msgstr "Magma-Golem beschören"
+
+#. ACTIONS.CASTAOE.BOOK_FOSSIL
+msgctxt "ACTIONS.CASTAOE.BOOK_FOSSIL"
+msgid "Petrify"
+msgstr "Versteinern"
+
+#. ACTIONS.CASTAOE.FIREBALLSTAFF
+msgctxt "ACTIONS.CASTAOE.FIREBALLSTAFF"
+msgid "Call Cataclysm"
+msgstr "Kataklysmus aufrufen"
+
+#. ACTIONS.CASTAOE.GENERIC
+msgctxt "ACTIONS.CASTAOE.GENERIC"
+msgid "Cast Spell"
+msgstr "Zauber wirken"
+
+#. ACTIONS.CASTAOE.HAMMER_MJOLNIR
+msgctxt "ACTIONS.CASTAOE.HAMMER_MJOLNIR"
+msgid "Anvil Strike"
+msgstr "Amboss-Schlag"
+
+#. ACTIONS.CASTAOE.HEALINGSTAFF
+msgctxt "ACTIONS.CASTAOE.HEALINGSTAFF"
+msgid "Cast Life Blossom"
+msgstr "Lebensblüte"
+
+#. ACTIONS.CASTAOE.LAVAARENA_FIREBOMB
+msgctxt "ACTIONS.CASTAOE.LAVAARENA_FIREBOMB"
+msgid "Hearthsfire Bomb"
+msgstr "Feuerstellenbombe"
+
+#. ACTIONS.CASTAOE.LAVAARENA_HEAVYBLADE
+msgctxt "ACTIONS.CASTAOE.LAVAARENA_HEAVYBLADE"
+msgid "Parry"
+msgstr "Abwehren"
+
+#. ACTIONS.CASTAOE.LAVAARENA_LUCY
+msgctxt "ACTIONS.CASTAOE.LAVAARENA_LUCY"
+msgid "Chuck Lucy"
+msgstr "Lucy werfen"
+
+#. ACTIONS.CASTAOE.SPEAR_GUNGNIR
+msgctxt "ACTIONS.CASTAOE.SPEAR_GUNGNIR"
+msgid "Pyre Poker"
+msgstr "Schürhaken"
+
+#. ACTIONS.CASTAOE.SPEAR_LANCE
+msgctxt "ACTIONS.CASTAOE.SPEAR_LANCE"
+msgid "Sky Lunge"
+msgstr "Himmelssprung"
+
+#. ACTIONS.CASTSPELL.GENERIC
+msgctxt "ACTIONS.CASTSPELL.GENERIC"
+msgid "Cast Spell"
+msgstr "Zauber wirken"
+
+#. ACTIONS.CASTSPELL.MUSIC
+msgctxt "ACTIONS.CASTSPELL.MUSIC"
+msgid "Play"
+msgstr "Spielen"
+
+#. ACTIONS.CASTSPELL.RESKIN
+msgctxt "ACTIONS.CASTSPELL.RESKIN"
+msgid "Sweep"
+msgstr "Putzen"
+
+#. ACTIONS.CASTSPELL.SCIENCE
+msgctxt "ACTIONS.CASTSPELL.SCIENCE"
+msgid "Use Gadget"
+msgstr "Gegenstand benutzen"
+
+#. ACTIONS.CASTSUMMON
+msgctxt "ACTIONS.CASTSUMMON"
+msgid "Summon"
+msgstr "Beschwören"
+
+#. ACTIONS.CASTUNSUMMON
+msgctxt "ACTIONS.CASTUNSUMMON"
+msgid "Return"
+msgstr "Vermögens"
+
+#. ACTIONS.CAST_NET
+msgctxt "ACTIONS.CAST_NET"
+msgid "Cast Net"
+msgstr "Netz auswerfen"
+
+#. ACTIONS.CAST_POCKETWATCH.GENERIC
+msgctxt "ACTIONS.CAST_POCKETWATCH.GENERIC"
+msgid "Activate"
+msgstr "Aktiviere"
+
+#. ACTIONS.CAST_POCKETWATCH.RECALL_MARK
+msgctxt "ACTIONS.CAST_POCKETWATCH.RECALL_MARK"
+msgid "Set Time In Space"
+msgstr "Zeit im Raum einstellen"
+
+#. ACTIONS.CAST_POCKETWATCH.REVIVER
+msgctxt "ACTIONS.CAST_POCKETWATCH.REVIVER"
+msgid "Revive"
+msgstr "Wiederbeleben"
+
+#. ACTIONS.CATCH
+msgctxt "ACTIONS.CATCH"
+msgid "Catch"
+msgstr "Fangen"
+
+#. ACTIONS.CHANGEIN.DRESSUP
+msgctxt "ACTIONS.CHANGEIN.DRESSUP"
+msgid "Dress Up"
+msgstr "Anziehen"
+
+#. ACTIONS.CHANGEIN.GENERIC
+msgctxt "ACTIONS.CHANGEIN.GENERIC"
+msgid "Use"
+msgstr "Verwenden"
+
+#. ACTIONS.CHANGE_TACKLE.AMMO
+msgctxt "ACTIONS.CHANGE_TACKLE.AMMO"
+msgid "Set Ammo"
+msgstr "Munition verwenden"
+
+#. ACTIONS.CHANGE_TACKLE.GENERIC
+msgctxt "ACTIONS.CHANGE_TACKLE.GENERIC"
+msgid "Attach Tackle"
+msgstr "Zubehör anbringen"
+
+#. ACTIONS.CHANGE_TACKLE.REMOVE
+msgctxt "ACTIONS.CHANGE_TACKLE.REMOVE"
+msgid "Remove"
+msgstr "Entfernen"
+
+#. ACTIONS.CHARGE_FROM
+msgctxt "ACTIONS.CHARGE_FROM"
+msgid "Charge At"
+msgstr "Laden über"
+
+#. ACTIONS.CHECKTRAP
+msgctxt "ACTIONS.CHECKTRAP"
+msgid "Check"
+msgstr "Prüfe"
+
+#. ACTIONS.CHOP
+msgctxt "ACTIONS.CHOP"
+msgid "Chop"
+msgstr "Fälle"
+
+#. ACTIONS.COMBINESTACK
+msgctxt "ACTIONS.COMBINESTACK"
+msgid "Combine Stack"
+msgstr "Stapel kombinieren"
+
+#. ACTIONS.COMMUNEWITHSUMMONED.MAKE_AGGRESSIVE
+msgctxt "ACTIONS.COMMUNEWITHSUMMONED.MAKE_AGGRESSIVE"
+msgid "Rile Up"
+msgstr "Reizen"
+
+#. ACTIONS.COMMUNEWITHSUMMONED.MAKE_DEFENSIVE
+msgctxt "ACTIONS.COMMUNEWITHSUMMONED.MAKE_DEFENSIVE"
+msgid "Soothe"
+msgstr "Beruhigen"
+
+#. ACTIONS.COMPARE_WEIGHABLE
+msgctxt "ACTIONS.COMPARE_WEIGHABLE"
+msgid "Give"
+msgstr "Geben"
+
+#. ACTIONS.CONSTRUCT.GENERIC
+msgctxt "ACTIONS.CONSTRUCT.GENERIC"
+msgid "Build"
+msgstr "Bauen"
+
+#. ACTIONS.CONSTRUCT.GENERIC_FMT
+msgctxt "ACTIONS.CONSTRUCT.GENERIC_FMT"
+msgid "Build {name}"
+msgstr "{name} bauen"
+
+#. ACTIONS.CONSTRUCT.STORE
+msgctxt "ACTIONS.CONSTRUCT.STORE"
+msgid "Add Material"
+msgstr "Material hinzufügen"
+
+#. ACTIONS.COOK
+msgctxt "ACTIONS.COOK"
+msgid "Cook"
+msgstr "Kochen"
+
+#. ACTIONS.CRAFT
+msgctxt "ACTIONS.CRAFT"
+msgid "Craft"
+msgstr "Herstellen"
+
+#. ACTIONS.CYCLE.GENERIC
+msgctxt "ACTIONS.CYCLE.GENERIC"
+msgid "Cycle"
+msgstr "Wechseln"
+
+#. ACTIONS.CYCLE.TUNE
+msgctxt "ACTIONS.CYCLE.TUNE"
+msgid "Hit"
+msgstr "Anschlagen"
+
+#. ACTIONS.DANCE
+msgctxt "ACTIONS.DANCE"
+msgid "Dance"
+msgstr "Tanzen"
+
+#. ACTIONS.DECORATEVASE
+msgctxt "ACTIONS.DECORATEVASE"
+msgid "Decorate"
+msgstr "Schmücken"
+
+#. ACTIONS.DEPLOY.DEPLOY
+msgctxt "ACTIONS.DEPLOY.DEPLOY"
+msgid "Deploy"
+msgstr "Entwickeln"
+
+#. ACTIONS.DEPLOY.FENCE
+msgctxt "ACTIONS.DEPLOY.FENCE"
+msgid "Build Fence"
+msgstr "Zaun bauen"
+
+#. ACTIONS.DEPLOY.FERTILIZE_GROUND
+msgctxt "ACTIONS.DEPLOY.FERTILIZE_GROUND"
+msgid "Fertilize Plot"
+msgstr "Feld düngen"
+
+#. ACTIONS.DEPLOY.GATE
+msgctxt "ACTIONS.DEPLOY.GATE"
+msgid "Build Gate"
+msgstr "Tor bauen"
+
+#. ACTIONS.DEPLOY.GENERIC
+msgctxt "ACTIONS.DEPLOY.GENERIC"
+msgid "Plant"
+msgstr "Pflanze"
+
+#. ACTIONS.DEPLOY.GROUNDTILE
+msgctxt "ACTIONS.DEPLOY.GROUNDTILE"
+msgid "Place Ground"
+msgstr "Platzieren"
+
+#. ACTIONS.DEPLOY.PORTABLE
+msgctxt "ACTIONS.DEPLOY.PORTABLE"
+msgid "Place"
+msgstr "Plätzchen"
+
+#. ACTIONS.DEPLOY.TURRET
+msgctxt "ACTIONS.DEPLOY.TURRET"
+msgid "Place"
+msgstr "Platziere"
+
+#. ACTIONS.DEPLOY.WALL
+msgctxt "ACTIONS.DEPLOY.WALL"
+msgid "Build Wall"
+msgstr "Baue"
+
+#. ACTIONS.DEPLOY.WATER
+msgctxt "ACTIONS.DEPLOY.WATER"
+msgid "Launch"
+msgstr "Zu Wasser lassen"
+
+#. ACTIONS.DIG
+msgctxt "ACTIONS.DIG"
+msgid "Dig"
+msgstr "Ausgraben"
+
+#. ACTIONS.DISMANTLE
+msgctxt "ACTIONS.DISMANTLE"
+msgid "Dismantle"
+msgstr "Zerlegen"
+
+#. ACTIONS.DISMANTLE_POCKETWATCH
+msgctxt "ACTIONS.DISMANTLE_POCKETWATCH"
+msgid "Take Apart"
+msgstr "Auseinandernehmen"
+
+#. ACTIONS.DISMOUNT
+msgctxt "ACTIONS.DISMOUNT"
+msgid "Dismount"
+msgstr "Absteigen"
+
+#. ACTIONS.DISMOUNT_PLANK
+msgctxt "ACTIONS.DISMOUNT_PLANK"
+msgid "Dismount"
+msgstr "Absteigen"
+
+#. ACTIONS.DRAW
+msgctxt "ACTIONS.DRAW"
+msgid "Draw On"
+msgstr "Zeichnen"
+
+#. ACTIONS.DRAWITEM
+msgctxt "ACTIONS.DRAWITEM"
+msgid "Draw {item}"
+msgstr "{item} zeichnen"
+
+#. ACTIONS.DROP.FREESOUL
+msgctxt "ACTIONS.DROP.FREESOUL"
+msgid "Release Soul"
+msgstr "Seele freigeben"
+
+#. ACTIONS.DROP.GENERIC
+msgctxt "ACTIONS.DROP.GENERIC"
+msgid "Drop"
+msgstr "Absetzen"
+
+#. ACTIONS.DROP.PLACELANTERN
+msgctxt "ACTIONS.DROP.PLACELANTERN"
+msgid "Place"
+msgstr "Platziere"
+
+#. ACTIONS.DROP.SETMINE
+msgctxt "ACTIONS.DROP.SETMINE"
+msgid "Set Mine"
+msgstr "Mine platzieren"
+
+#. ACTIONS.DROP.SETTRAP
+msgctxt "ACTIONS.DROP.SETTRAP"
+msgid "Set Trap"
+msgstr "Falle auslegen"
+
+#. ACTIONS.DROP.YOTC_ENTERRACE
+msgctxt "ACTIONS.DROP.YOTC_ENTERRACE"
+msgid "Enter Race"
+msgstr "An Rennen teilnehmen"
+
+#. ACTIONS.DRY
+msgctxt "ACTIONS.DRY"
+msgid "Dry"
+msgstr "Trocknen"
+
+#. ACTIONS.EAT
+msgctxt "ACTIONS.EAT"
+msgid "Eat"
+msgstr "Essen"
+
+#. ACTIONS.ENTER_GYM
+msgctxt "ACTIONS.ENTER_GYM"
+msgid "Enter"
+msgstr "Betreten"
+
+#. ACTIONS.EQUIP
+msgctxt "ACTIONS.EQUIP"
+msgid "Equip"
+msgstr "Verwenden"
+
+#. ACTIONS.EXTEND_PLANK
+msgctxt "ACTIONS.EXTEND_PLANK"
+msgid "Extend"
+msgstr "Rausschieben"
+
+#. ACTIONS.EXTINGUISH
+msgctxt "ACTIONS.EXTINGUISH"
+msgid "Extinguish"
+msgstr "Löschen"
+
+#. ACTIONS.FAN
+msgctxt "ACTIONS.FAN"
+msgid "Fan"
+msgstr "Fächeln"
+
+#. ACTIONS.FEED
+msgctxt "ACTIONS.FEED"
+msgid "Feed"
+msgstr "Füttern"
+
+#. ACTIONS.FEEDPLAYER
+msgctxt "ACTIONS.FEEDPLAYER"
+msgid "Feed"
+msgstr "Füttern"
+
+#. ACTIONS.FERTILIZE
+msgctxt "ACTIONS.FERTILIZE"
+msgid "Fertilize"
+msgstr "Düngen"
+
+#. ACTIONS.FILL
+msgctxt "ACTIONS.FILL"
+msgid "Fill"
+msgstr "Füllen"
+
+#. ACTIONS.FISH
+msgctxt "ACTIONS.FISH"
+msgid "Fish"
+msgstr "Fischen"
+
+#. ACTIONS.FISH_OCEAN
+msgctxt "ACTIONS.FISH_OCEAN"
+msgid "Fish"
+msgstr "Fischen"
+
+#. ACTIONS.GIVE.APPLY
+msgctxt "ACTIONS.GIVE.APPLY"
+msgid "Apply {item}"
+msgstr "{item} verwenden"
+
+#. ACTIONS.GIVE.CELESTIAL
+msgctxt "ACTIONS.GIVE.CELESTIAL"
+msgid "Offer"
+msgstr "Opfergabe"
+
+#. ACTIONS.GIVE.GENERIC
+msgctxt "ACTIONS.GIVE.GENERIC"
+msgid "Give"
+msgstr "Geben"
+
+#. ACTIONS.GIVE.NOTREADY
+msgctxt "ACTIONS.GIVE.NOTREADY"
+msgid "Place"
+msgstr "Platziere"
+
+#. ACTIONS.GIVE.PLACE_ITEM
+msgctxt "ACTIONS.GIVE.PLACE_ITEM"
+msgid "Place {item}"
+msgstr "{item} platzieren"
+
+#. ACTIONS.GIVE.QUAGMIRE_ALTAR.BOWL
+msgctxt "ACTIONS.GIVE.QUAGMIRE_ALTAR.BOWL"
+msgid "Snackrifice Bowl of {food}"
+msgstr "Opfersnack-Schüssel {food}"
+
+#. ACTIONS.GIVE.QUAGMIRE_ALTAR.GENERIC
+msgctxt "ACTIONS.GIVE.QUAGMIRE_ALTAR.GENERIC"
+msgid "Snackrifice {food}"
+msgstr "Opfersnack {food}"
+
+#. ACTIONS.GIVE.QUAGMIRE_ALTAR.PLATE
+msgctxt "ACTIONS.GIVE.QUAGMIRE_ALTAR.PLATE"
+msgid "Snackrifice Plate of {food}"
+msgstr "Opfersnack-Teller {food}"
+
+#. ACTIONS.GIVE.QUAGMIRE_OVEN
+msgctxt "ACTIONS.GIVE.QUAGMIRE_OVEN"
+msgid "Place {item}"
+msgstr "{item} platzieren"
+
+#. ACTIONS.GIVE.QUAGMIRE_POT_HANGER
+msgctxt "ACTIONS.GIVE.QUAGMIRE_POT_HANGER"
+msgid "Hang {item}"
+msgstr "{item} aufhängen"
+
+#. ACTIONS.GIVE.READY
+msgctxt "ACTIONS.GIVE.READY"
+msgid "Sacrifice"
+msgstr "Opfern"
+
+#. ACTIONS.GIVE.SOCKET
+msgctxt "ACTIONS.GIVE.SOCKET"
+msgid "Socket"
+msgstr "Einstecken"
+
+#. ACTIONS.GIVEALLTOPLAYER
+msgctxt "ACTIONS.GIVEALLTOPLAYER"
+msgid "Give All"
+msgstr "Alles geben"
+
+#. ACTIONS.GIVETOPLAYER
+msgctxt "ACTIONS.GIVETOPLAYER"
+msgid "Give"
+msgstr "Gib"
+
+#. ACTIONS.GIVE_TACKLESKETCH
+msgctxt "ACTIONS.GIVE_TACKLESKETCH"
+msgid "Give"
+msgstr "Geben"
+
+#. ACTIONS.GNAW
+msgctxt "ACTIONS.GNAW"
+msgid "Gnaw"
+msgstr "Nagen"
+
+#. ACTIONS.GOHOME
+msgctxt "ACTIONS.GOHOME"
+msgid "Go Home"
+msgstr "Zur Startseite"
+
+#. ACTIONS.HALLOWEENMOONMUTATE
+msgctxt "ACTIONS.HALLOWEENMOONMUTATE"
+msgid "Mutate"
+msgstr "Mutieren"
+
+#. ACTIONS.HAMMER
+msgctxt "ACTIONS.HAMMER"
+msgid "Hammer"
+msgstr "Hämmern:"
+
+#. ACTIONS.HARVEST
+msgctxt "ACTIONS.HARVEST"
+msgid "Harvest"
+msgstr "Ernten"
+
+#. ACTIONS.HARVEST_TREE
+msgctxt "ACTIONS.HARVEST_TREE"
+msgid "Harvest"
+msgstr "Ernten:"
+
+#. ACTIONS.HAUNT
+msgctxt "ACTIONS.HAUNT"
+msgid "Haunt"
+msgstr "Heimsuchen:"
+
+#. ACTIONS.HEAL.GENERIC
+msgctxt "ACTIONS.HEAL.GENERIC"
+msgid "Heal"
+msgstr "Heilen"
+
+#. ACTIONS.HEAL.SELF
+msgctxt "ACTIONS.HEAL.SELF"
+msgid "Heal Self"
+msgstr "Selbstheilung"
+
+#. ACTIONS.HERD_FOLLOWERS
+msgctxt "ACTIONS.HERD_FOLLOWERS"
+msgid "Herd Spiders"
+msgstr "Spinnen hüten"
+
+#. ACTIONS.HIDEANSEEK_FIND
+msgctxt "ACTIONS.HIDEANSEEK_FIND"
+msgid "Investigate"
+msgstr "Untersuchen"
+
+#. ACTIONS.HITCHUP
+msgctxt "ACTIONS.HITCHUP"
+msgid "Hitch to"
+msgstr "Anpflocken an"
+
+#. ACTIONS.INSTALL
+msgctxt "ACTIONS.INSTALL"
+msgid "Install"
+msgstr "Installieren"
+
+#. ACTIONS.INTERACT_WITH.FARM_PLANT
+msgctxt "ACTIONS.INTERACT_WITH.FARM_PLANT"
+msgid "Talk To"
+msgstr "Sprechen mit"
+
+#. ACTIONS.INTERACT_WITH.GENERIC
+msgctxt "ACTIONS.INTERACT_WITH.GENERIC"
+msgid "Use"
+msgstr "Verwenden"
+
+#. ACTIONS.JUMPIN.GENERIC
+msgctxt "ACTIONS.JUMPIN.GENERIC"
+msgid "Jump In"
+msgstr "Reinspringen"
+
+#. ACTIONS.JUMPIN.HAUNT
+msgctxt "ACTIONS.JUMPIN.HAUNT"
+msgid "Haunt"
+msgstr "Heimsuchen:"
+
+#. ACTIONS.LEAVE_GYM
+msgctxt "ACTIONS.LEAVE_GYM"
+msgid "Stop"
+msgstr "Aufhören"
+
+#. ACTIONS.LIFT_DUMBBELL
+msgctxt "ACTIONS.LIFT_DUMBBELL"
+msgid "Lift"
+msgstr "Heben"
+
+#. ACTIONS.LIFT_GYM
+msgctxt "ACTIONS.LIFT_GYM"
+msgid "Lift"
+msgstr "Heben"
+
+#. ACTIONS.LIFT_GYM_FAIL
+msgctxt "ACTIONS.LIFT_GYM_FAIL"
+msgid "Lift"
+msgstr "Heben"
+
+#. ACTIONS.LIFT_GYM_SUCCEED
+msgctxt "ACTIONS.LIFT_GYM_SUCCEED"
+msgid "Lift"
+msgstr "Heben"
+
+#. ACTIONS.LIFT_GYM_SUCCEED_PERFECT
+msgctxt "ACTIONS.LIFT_GYM_SUCCEED_PERFECT"
+msgid "Lift"
+msgstr "Heben"
+
+#. ACTIONS.LIGHT
+msgctxt "ACTIONS.LIGHT"
+msgid "Light"
+msgstr "Anzünden"
+
+#. ACTIONS.LOOKAT
+msgctxt "ACTIONS.LOOKAT"
+msgid "Examine"
+msgstr "Untersuchen:"
+
+#. ACTIONS.LOWER_ANCHOR
+msgctxt "ACTIONS.LOWER_ANCHOR"
+msgid "Lower"
+msgstr "Ankern"
+
+#. ACTIONS.LOWER_SAIL
+msgctxt "ACTIONS.LOWER_SAIL"
+msgid "Hoist Sail"
+msgstr "Segel hissen"
+
+#. ACTIONS.LOWER_SAIL_BOOST.1
+msgctxt "ACTIONS.LOWER_SAIL_BOOST.1"
+msgid "Heave!"
+msgstr "Hau..."
+
+#. ACTIONS.LOWER_SAIL_BOOST.2
+msgctxt "ACTIONS.LOWER_SAIL_BOOST.2"
+msgid "Ho!"
+msgstr "...ruck!"
+
+#. ACTIONS.MAKEBALLOON
+msgctxt "ACTIONS.MAKEBALLOON"
+msgid "Inflate"
+msgstr "Aufblasen"
+
+#. ACTIONS.MANUALEXTINGUISH
+msgctxt "ACTIONS.MANUALEXTINGUISH"
+msgid "Extinguish"
+msgstr "Löschen"
+
+#. ACTIONS.MARK.GENERIC
+msgctxt "ACTIONS.MARK.GENERIC"
+msgid "Choose This Beefalo"
+msgstr "Dieses Beefalo auswählen"
+
+#. ACTIONS.MARK.UNMARK
+msgctxt "ACTIONS.MARK.UNMARK"
+msgid "Take Back"
+msgstr "Rückgängig"
+
+#. ACTIONS.MIGRATE
+msgctxt "ACTIONS.MIGRATE"
+msgid "Travel via"
+msgstr "Reisen via"
+
+#. ACTIONS.MINE
+msgctxt "ACTIONS.MINE"
+msgid "Mine"
+msgstr "Abbauen"
+
+#. ACTIONS.MIX
+msgctxt "ACTIONS.MIX"
+msgid "Mix"
+msgstr "Mischen"
+
+#. ACTIONS.MOUNT
+msgctxt "ACTIONS.MOUNT"
+msgid "Mount"
+msgstr "Besteigen"
+
+#. ACTIONS.MOUNT_PLANK
+msgctxt "ACTIONS.MOUNT_PLANK"
+msgid "Mount"
+msgstr "Besteigen"
+
+#. ACTIONS.MURDER
+msgctxt "ACTIONS.MURDER"
+msgid "Murder"
+msgstr "Töte"
+
+#. ACTIONS.MUTATE_SPIDER
+msgctxt "ACTIONS.MUTATE_SPIDER"
+msgid "Feed"
+msgstr "Füttern"
+
+#. ACTIONS.NET
+msgctxt "ACTIONS.NET"
+msgid "Catch"
+msgstr "Fangen"
+
+#. ACTIONS.OCEAN_FISHING_CAST
+msgctxt "ACTIONS.OCEAN_FISHING_CAST"
+msgid "Cast"
+msgstr "Auswerfen"
+
+#. ACTIONS.OCEAN_FISHING_CATCH
+msgctxt "ACTIONS.OCEAN_FISHING_CATCH"
+msgid "Catch"
+msgstr "Fangen"
+
+#. ACTIONS.OCEAN_FISHING_POND
+msgctxt "ACTIONS.OCEAN_FISHING_POND"
+msgid "Cast"
+msgstr "Auswerfen"
+
+#. ACTIONS.OCEAN_FISHING_REEL.GENERIC
+msgctxt "ACTIONS.OCEAN_FISHING_REEL.GENERIC"
+msgid "Reel"
+msgstr "Einholen"
+
+#. ACTIONS.OCEAN_FISHING_REEL.SETHOOK
+msgctxt "ACTIONS.OCEAN_FISHING_REEL.SETHOOK"
+msgid "Set Hook"
+msgstr "Haken anbringen"
+
+#. ACTIONS.OCEAN_FISHING_STOP
+msgctxt "ACTIONS.OCEAN_FISHING_STOP"
+msgid "Stop"
+msgstr "Aufhören"
+
+#. ACTIONS.OCEAN_TOSS
+msgctxt "ACTIONS.OCEAN_TOSS"
+msgid "Toss"
+msgstr "Wegwerfen"
+
+#. ACTIONS.OPEN_CRAFTING.CARTOGRAPHY
+msgctxt "ACTIONS.OPEN_CRAFTING.CARTOGRAPHY"
+msgid "Draw at"
+msgstr "Zeichnen am"
+
+#. ACTIONS.OPEN_CRAFTING.COOKING
+msgctxt "ACTIONS.OPEN_CRAFTING.COOKING"
+msgid "Cook with"
+msgstr "Kochen mit"
+
+#. ACTIONS.OPEN_CRAFTING.CRITTERS
+msgctxt "ACTIONS.OPEN_CRAFTING.CRITTERS"
+msgid "Look in"
+msgstr "Hineinsehen"
+
+#. ACTIONS.OPEN_CRAFTING.EXPERIEMENT
+msgctxt "ACTIONS.OPEN_CRAFTING.EXPERIEMENT"
+msgid "Brew with"
+msgstr "Brauen mit"
+
+#. ACTIONS.OPEN_CRAFTING.GENERIC
+msgctxt "ACTIONS.OPEN_CRAFTING.GENERIC"
+msgid "Research at"
+msgstr "Forschen bei"
+
+#. ACTIONS.OPEN_CRAFTING.OFFERING
+msgctxt "ACTIONS.OPEN_CRAFTING.OFFERING"
+msgid "Make offering at"
+msgstr "Opfergabe machen bei"
+
+#. ACTIONS.OPEN_CRAFTING.READ
+msgctxt "ACTIONS.OPEN_CRAFTING.READ"
+msgid "Read"
+msgstr "Lesen"
+
+#. ACTIONS.OPEN_CRAFTING.SCULPTING
+msgctxt "ACTIONS.OPEN_CRAFTING.SCULPTING"
+msgid "Sculpt at"
+msgstr "Modellieren bei"
+
+#. ACTIONS.OPEN_CRAFTING.TRADE
+msgctxt "ACTIONS.OPEN_CRAFTING.TRADE"
+msgid "Trade with"
+msgstr "Tauschen mit"
+
+#. ACTIONS.OPEN_CRAFTING.USE
+msgctxt "ACTIONS.OPEN_CRAFTING.USE"
+msgid "Use"
+msgstr "Verwenden"
+
+#. ACTIONS.PET
+msgctxt "ACTIONS.PET"
+msgid "Pet"
+msgstr "Streicheln"
+
+#. ACTIONS.PICK.GENERIC
+msgctxt "ACTIONS.PICK.GENERIC"
+msgid "Pick"
+msgstr "Pflücke"
+
+#. ACTIONS.PICK.HARVEST
+msgctxt "ACTIONS.PICK.HARVEST"
+msgid "Harvest"
+msgstr "Ernten"
+
+#. ACTIONS.PICKUP.GENERIC
+msgctxt "ACTIONS.PICKUP.GENERIC"
+msgid "Pick up"
+msgstr "Nehmen"
+
+#. ACTIONS.PICKUP.HEAVY
+msgctxt "ACTIONS.PICKUP.HEAVY"
+msgid "Carry"
+msgstr "Tragen"
+
+#. ACTIONS.PLANT.GENERIC
+msgctxt "ACTIONS.PLANT.GENERIC"
+msgid "Plant"
+msgstr "Pflanzen"
+
+#. ACTIONS.PLANT.PLANTER
+msgctxt "ACTIONS.PLANT.PLANTER"
+msgid "Put"
+msgstr "Ablegen"
+
+#. ACTIONS.PLANTREGISTRY_RESEARCH
+msgctxt "ACTIONS.PLANTREGISTRY_RESEARCH"
+msgid "Research"
+msgstr "Forschen"
+
+#. ACTIONS.PLANTREGISTRY_RESEARCH_FAIL
+msgctxt "ACTIONS.PLANTREGISTRY_RESEARCH_FAIL"
+msgid "Research"
+msgstr "Forschen"
+
+#. ACTIONS.PLANTSOIL
+msgctxt "ACTIONS.PLANTSOIL"
+msgid "Plant"
+msgstr "Pflanzen"
+
+#. ACTIONS.PLAY
+msgctxt "ACTIONS.PLAY"
+msgid "Play"
+msgstr "Spielen"
+
+#. ACTIONS.POLLINATE
+msgctxt "ACTIONS.POLLINATE"
+msgid "Pollinate"
+msgstr "Befruchten"
+
+#. ACTIONS.POUR_WATER.EXTINGUISH
+msgctxt "ACTIONS.POUR_WATER.EXTINGUISH"
+msgid "Extinguish"
+msgstr "Löschen"
+
+#. ACTIONS.POUR_WATER.GENERIC
+msgctxt "ACTIONS.POUR_WATER.GENERIC"
+msgid "Water"
+msgstr "Bewässern"
+
+#. ACTIONS.QUOTE
+msgctxt "ACTIONS.QUOTE"
+msgid "Recite"
+msgstr "Rezitieren"
+
+#. ACTIONS.RAISE_ANCHOR
+msgctxt "ACTIONS.RAISE_ANCHOR"
+msgid "Raise"
+msgstr "Anker lichten"
+
+#. ACTIONS.RAISE_SAIL
+msgctxt "ACTIONS.RAISE_SAIL"
+msgid "Release Sail"
+msgstr "Segel reffen"
+
+#. ACTIONS.READ
+msgctxt "ACTIONS.READ"
+msgid "Read"
+msgstr "Lesen"
+
+#. ACTIONS.REEL.CANCEL
+msgctxt "ACTIONS.REEL.CANCEL"
+msgid "Stop Fishing"
+msgstr "Angeln beenden"
+
+#. ACTIONS.REEL.GENERIC
+msgctxt "ACTIONS.REEL.GENERIC"
+msgid "Hook"
+msgstr "Angeln"
+
+#. ACTIONS.REEL.REEL
+msgctxt "ACTIONS.REEL.REEL"
+msgid "Reel In"
+msgstr "Einholen"
+
+#. ACTIONS.REMOTERESURRECT
+msgctxt "ACTIONS.REMOTERESURRECT"
+msgid "Resurrect"
+msgstr "Wiederbeleben"
+
+#. ACTIONS.REMOVEMODULES
+msgctxt "ACTIONS.REMOVEMODULES"
+msgid "Unplug"
+msgstr "Herausziehen"
+
+#. ACTIONS.REPAIR.GENERIC
+msgctxt "ACTIONS.REPAIR.GENERIC"
+msgid "Repair"
+msgstr "Reparieren"
+
+#. ACTIONS.REPAIR.SOCKET
+msgctxt "ACTIONS.REPAIR.SOCKET"
+msgid "Socket"
+msgstr "Einstecken"
+
+#. ACTIONS.REPAIR_LEAK
+msgctxt "ACTIONS.REPAIR_LEAK"
+msgid "Repair Leak"
+msgstr "Leck reparieren"
+
+#. ACTIONS.REPEL
+msgctxt "ACTIONS.REPEL"
+msgid "Shoo Spiders"
+msgstr "Spinnen verscheuchen"
+
+#. ACTIONS.REPLATE.FMT
+msgctxt "ACTIONS.REPLATE.FMT"
+msgid "Change {dish}"
+msgstr "{dish} wechseln"
+
+#. ACTIONS.REPLATE.GENERIC
+msgctxt "ACTIONS.REPLATE.GENERIC"
+msgid "Change Plating"
+msgstr "Teller wechseln"
+
+#. ACTIONS.RESEARCH
+msgctxt "ACTIONS.RESEARCH"
+msgid "Research"
+msgstr "Forschen"
+
+#. ACTIONS.RESETMINE
+msgctxt "ACTIONS.RESETMINE"
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#. ACTIONS.RETRACT_PLANK
+msgctxt "ACTIONS.RETRACT_PLANK"
+msgid "Retract"
+msgstr "Zurückziehen"
+
+#. ACTIONS.RETURN_FOLLOWER
+msgctxt "ACTIONS.RETURN_FOLLOWER"
+msgid "Send Home"
+msgstr "Nach Hause senden"
+
+#. ACTIONS.REVIVE_CORPSE
+msgctxt "ACTIONS.REVIVE_CORPSE"
+msgid "Revive"
+msgstr "Wiederbeleben"
+
+#. ACTIONS.ROW
+msgctxt "ACTIONS.ROW"
+msgid "Row"
+msgstr "Rudern"
+
+#. ACTIONS.ROW_CONTROLLER
+msgctxt "ACTIONS.ROW_CONTROLLER"
+msgid "Row"
+msgstr "Rudern"
+
+#. ACTIONS.ROW_FAIL
+msgctxt "ACTIONS.ROW_FAIL"
+msgid "Row"
+msgstr "Rudern"
+
+#. ACTIONS.RUMMAGE.CLOSE
+msgctxt "ACTIONS.RUMMAGE.CLOSE"
+msgid "Close"
+msgstr "Schließen"
+
+#. ACTIONS.RUMMAGE.DECORATE
+msgctxt "ACTIONS.RUMMAGE.DECORATE"
+msgid "Decorate"
+msgstr "Schmücken"
+
+#. ACTIONS.RUMMAGE.GENERIC
+msgctxt "ACTIONS.RUMMAGE.GENERIC"
+msgid "Open"
+msgstr "Öffnen"
+
+#. ACTIONS.SADDLE
+msgctxt "ACTIONS.SADDLE"
+msgid "Saddle"
+msgstr "Satteln"
+
+#. ACTIONS.SET_HEADING
+msgctxt "ACTIONS.SET_HEADING"
+msgid "Set Heading"
+msgstr "Kurs festlegen"
+
+#. ACTIONS.SEW.GENERIC
+msgctxt "ACTIONS.SEW.GENERIC"
+msgid "Sew"
+msgstr "Nähen"
+
+#. ACTIONS.SEW.PATCH
+msgctxt "ACTIONS.SEW.PATCH"
+msgid "Patch"
+msgstr "Flicken"
+
+#. ACTIONS.SHAVE.GENERIC
+msgctxt "ACTIONS.SHAVE.GENERIC"
+msgid "Shave"
+msgstr "Rasieren"
+
+#. ACTIONS.SHAVE.SELF
+msgctxt "ACTIONS.SHAVE.SELF"
+msgid "Shave Self"
+msgstr "Mich selbst rasieren"
+
+#. ACTIONS.SING
+msgctxt "ACTIONS.SING"
+msgid "Sing"
+msgstr "Singen"
+
+#. ACTIONS.SLAUGHTER.BUTCHER
+msgctxt "ACTIONS.SLAUGHTER.BUTCHER"
+msgid "Politely Butcher"
+msgstr "Höflich schlachten"
+
+#. ACTIONS.SLAUGHTER.DISEMBOWEL
+msgctxt "ACTIONS.SLAUGHTER.DISEMBOWEL"
+msgid "Gently Disembowel"
+msgstr "Vorsichtig ausnehmen"
+
+#. ACTIONS.SLAUGHTER.EVISCERATE
+msgctxt "ACTIONS.SLAUGHTER.EVISCERATE"
+msgid "Softly Eviscerate"
+msgstr "Sanft ausweiden"
+
+#. ACTIONS.SLAUGHTER.KILL
+msgctxt "ACTIONS.SLAUGHTER.KILL"
+msgid "Delicately Kill"
+msgstr "Ganz sanft töten"
+
+#. ACTIONS.SLAUGHTER.MURDER
+msgctxt "ACTIONS.SLAUGHTER.MURDER"
+msgid "Tastefully Murder"
+msgstr "Elegant töten"
+
+#. ACTIONS.SLAUGHTER.SLAUGHTER
+msgctxt "ACTIONS.SLAUGHTER.SLAUGHTER"
+msgid "Gingerly Slaughter"
+msgstr "Sachte schlachten"
+
+#. ACTIONS.SLEEPIN
+msgctxt "ACTIONS.SLEEPIN"
+msgid "Sleep"
+msgstr "Schlummern"
+
+#. ACTIONS.SMOTHER
+msgctxt "ACTIONS.SMOTHER"
+msgid "Extinguish"
+msgstr "Löschen"
+
+#. ACTIONS.SPICE
+msgctxt "ACTIONS.SPICE"
+msgid "Season"
+msgstr "Würzen"
+
+#. ACTIONS.STARTCHANNELING.GENERIC
+msgctxt "ACTIONS.STARTCHANNELING.GENERIC"
+msgid "Touch"
+msgstr "Berühren"
+
+#. ACTIONS.STARTCHANNELING.PUMP
+msgctxt "ACTIONS.STARTCHANNELING.PUMP"
+msgid "Pump"
+msgstr "Pumpen"
+
+#. ACTIONS.START_CARRAT_RACE
+msgctxt "ACTIONS.START_CARRAT_RACE"
+msgid "Start the Carrat Race"
+msgstr "Karattenrennen starten"
+
+#. ACTIONS.STEER_BOAT
+msgctxt "ACTIONS.STEER_BOAT"
+msgid "Steer"
+msgstr "Steuern"
+
+#. ACTIONS.STOPCHANNELING
+msgctxt "ACTIONS.STOPCHANNELING"
+msgid "Stop Channeling"
+msgstr "Mit dem Kanalisieren aufhören"
+
+#. ACTIONS.STOPCONSTRUCTION.GENERIC
+msgctxt "ACTIONS.STOPCONSTRUCTION.GENERIC"
+msgid "Stop Building"
+msgstr "Aufhören zu bauen"
+
+#. ACTIONS.STOPCONSTRUCTION.GENERIC_FMT
+msgctxt "ACTIONS.STOPCONSTRUCTION.GENERIC_FMT"
+msgid "Stop Building {name}"
+msgstr "Aufhören {name} zu bauen"
+
+#. ACTIONS.STOPUSINGITEM.BEEF_BELL
+msgctxt "ACTIONS.STOPUSINGITEM.BEEF_BELL"
+msgid "Break Bond"
+msgstr "Bindung lösen"
+
+#. ACTIONS.STOPUSINGITEM.GENERIC
+msgctxt "ACTIONS.STOPUSINGITEM.GENERIC"
+msgid "Stop"
+msgstr "Aufhören"
+
+#. ACTIONS.STOP_LIFT_DUMBBELL
+msgctxt "ACTIONS.STOP_LIFT_DUMBBELL"
+msgid "Stop Lifting"
+msgstr "Heben beenden"
+
+#. ACTIONS.STOP_STEERING_BOAT
+msgctxt "ACTIONS.STOP_STEERING_BOAT"
+msgid "Stop Steering"
+msgstr "Nicht mehr steuern"
+
+#. ACTIONS.STORE.COOK
+msgctxt "ACTIONS.STORE.COOK"
+msgid "Cook"
+msgstr "Kochen"
+
+#. ACTIONS.STORE.DECORATE
+msgctxt "ACTIONS.STORE.DECORATE"
+msgid "Decorate"
+msgstr "Schmücken"
+
+#. ACTIONS.STORE.GENERIC
+msgctxt "ACTIONS.STORE.GENERIC"
+msgid "Store"
+msgstr "Lagern"
+
+#. ACTIONS.STORE.IMPRISON
+msgctxt "ACTIONS.STORE.IMPRISON"
+msgid "Imprison"
+msgstr "Einsperren"
+
+#. ACTIONS.STORE.SPICE
+msgctxt "ACTIONS.STORE.SPICE"
+msgid "Season"
+msgstr "Würzen"
+
+#. ACTIONS.TACKLE
+msgctxt "ACTIONS.TACKLE"
+msgid "Charge"
+msgstr "Mit Köder versehen"
+
+#. ACTIONS.TAKEITEM.BIRDCAGE
+msgctxt "ACTIONS.TAKEITEM.BIRDCAGE"
+msgid "Muck Out"
+msgstr "Ausmisten"
+
+#. ACTIONS.TAKEITEM.GENERIC
+msgctxt "ACTIONS.TAKEITEM.GENERIC"
+msgid "Take Item"
+msgstr "Aufnehmen"
+
+#. ACTIONS.TAKEITEM.ITEM
+msgctxt "ACTIONS.TAKEITEM.ITEM"
+msgid "Take {item}"
+msgstr "{item} nehmen"
+
+#. ACTIONS.TALKTO
+msgctxt "ACTIONS.TALKTO"
+msgid "Talk to"
+msgstr "Sprechen mit:"
+
+#. ACTIONS.TAPTREE.GENERIC
+msgctxt "ACTIONS.TAPTREE.GENERIC"
+msgid "Tap"
+msgstr "Anzapfen"
+
+#. ACTIONS.TAPTREE.UNTAP
+msgctxt "ACTIONS.TAPTREE.UNTAP"
+msgid "Untap"
+msgstr "Lösen"
+
+#. ACTIONS.TEACH.GENERIC
+msgctxt "ACTIONS.TEACH.GENERIC"
+msgid "Learn"
+msgstr "Lernen"
+
+#. ACTIONS.TEACH.READ
+msgctxt "ACTIONS.TEACH.READ"
+msgid "Read"
+msgstr "Lesen"
+
+#. ACTIONS.TELEPORT.GENERIC
+msgctxt "ACTIONS.TELEPORT.GENERIC"
+msgid "Use"
+msgstr "Verwenden"
+
+#. ACTIONS.TELEPORT.TOWNPORTAL
+msgctxt "ACTIONS.TELEPORT.TOWNPORTAL"
+msgid "Touch"
+msgstr "Berühren"
+
+#. ACTIONS.TELLSTORY
+msgctxt "ACTIONS.TELLSTORY"
+msgid "Tell Story"
+msgstr "Geschichte erzählen"
+
+#. ACTIONS.TERRAFORM
+msgctxt "ACTIONS.TERRAFORM"
+msgid "Dig"
+msgstr "Ausgraben"
+
+#. ACTIONS.TILL
+msgctxt "ACTIONS.TILL"
+msgid "Till"
+msgstr "Beackern"
+
+#. ACTIONS.TOGGLE_DEPLOY_MODE.DEPLOY
+msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.DEPLOY"
+msgid "Deploy"
+msgstr "Entwickeln"
+
+#. ACTIONS.TOGGLE_DEPLOY_MODE.FENCE
+msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.FENCE"
+msgid "Build Fence"
+msgstr "Zaun bauen"
+
+#. ACTIONS.TOGGLE_DEPLOY_MODE.FERTILIZE_GROUND
+msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.FERTILIZE_GROUND"
+msgid "Fertilize Plot"
+msgstr "Feld düngen"
+
+#. ACTIONS.TOGGLE_DEPLOY_MODE.GATE
+msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.GATE"
+msgid "Build Gate"
+msgstr "Tor bauen"
+
+#. ACTIONS.TOGGLE_DEPLOY_MODE.GENERIC
+msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.GENERIC"
+msgid "Plant"
+msgstr "Pflanzen"
+
+#. ACTIONS.TOGGLE_DEPLOY_MODE.GROUNDTILE
+msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.GROUNDTILE"
+msgid "Place Ground"
+msgstr "Platzieren"
+
+#. ACTIONS.TOGGLE_DEPLOY_MODE.PORTABLE
+msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.PORTABLE"
+msgid "Place"
+msgstr "Plätzchen"
+
+#. ACTIONS.TOGGLE_DEPLOY_MODE.TURRET
+msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.TURRET"
+msgid "Place"
+msgstr "Platziere"
+
+#. ACTIONS.TOGGLE_DEPLOY_MODE.WALL
+msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.WALL"
+msgid "Build Wall"
+msgstr "Mauer bauen"
+
+#. ACTIONS.TOGGLE_DEPLOY_MODE.WATER
+msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.WATER"
+msgid "Launch"
+msgstr "Zu Wasser lassen"
+
+#. ACTIONS.TOSS
+msgctxt "ACTIONS.TOSS"
+msgid "Toss"
+msgstr "Wegwerfen"
+
+#. ACTIONS.TRAVEL
+msgctxt "ACTIONS.TRAVEL"
+msgid "Travel"
+msgstr "Reisen"
+
+#. ACTIONS.TURNOFF.EMERGENCY
+msgctxt "ACTIONS.TURNOFF.EMERGENCY"
+msgid "Emergency Mode"
+msgstr "Notfallmodus"
+
+#. ACTIONS.TURNOFF.GENERIC
+msgctxt "ACTIONS.TURNOFF.GENERIC"
+msgid "Turn Off"
+msgstr "Ausschalten"
+
+#. ACTIONS.TURNON
+msgctxt "ACTIONS.TURNON"
+msgid "Turn On"
+msgstr "Einschalten"
+
+#. ACTIONS.UNEQUIP.GENERIC
+msgctxt "ACTIONS.UNEQUIP.GENERIC"
+msgid "Unequip"
+msgstr "Ablegen"
+
+#. ACTIONS.UNEQUIP.HEAVY
+msgctxt "ACTIONS.UNEQUIP.HEAVY"
+msgid "Drop"
+msgstr "Absetzen"
+
+#. ACTIONS.UNHITCH
+msgctxt "ACTIONS.UNHITCH"
+msgid "Unhitch from"
+msgstr "Abpflocken von"
+
+#. ACTIONS.UNLOAD_GYM
+msgctxt "ACTIONS.UNLOAD_GYM"
+msgid "Unload"
+msgstr "Entladen"
+
+#. ACTIONS.UNLOAD_WINCH
+msgctxt "ACTIONS.UNLOAD_WINCH"
+msgid "Drop Overboard"
+msgstr "Über Bord werfen"
+
+#. ACTIONS.UNLOCK.GENERIC
+msgctxt "ACTIONS.UNLOCK.GENERIC"
+msgid "Unlock"
+msgstr "Entriegeln"
+
+#. ACTIONS.UNLOCK.LOCK
+msgctxt "ACTIONS.UNLOCK.LOCK"
+msgid "Lock"
+msgstr "Verriegeln"
+
+#. ACTIONS.UNPIN
+msgctxt "ACTIONS.UNPIN"
+msgid "Unstick"
+msgstr "Lösen"
+
+#. ACTIONS.UNSADDLE
+msgctxt "ACTIONS.UNSADDLE"
+msgid "Unsaddle"
+msgstr "Absatteln"
+
+#. ACTIONS.UNWRAP
+msgctxt "ACTIONS.UNWRAP"
+msgid "Unwrap"
+msgstr "Auspacken"
+
+#. ACTIONS.UPGRADE.GENERIC
+msgctxt "ACTIONS.UPGRADE.GENERIC"
+msgid "Upgrade"
+msgstr "Aktualisierung"
+
+#. ACTIONS.UPGRADE.WATERPLANT
+msgctxt "ACTIONS.UPGRADE.WATERPLANT"
+msgid "Plant"
+msgstr "Pflanzen"
+
+#. ACTIONS.USEDOOR.CLOSE
+msgctxt "ACTIONS.USEDOOR.CLOSE"
+msgid "Close"
+msgstr "Schließen"
+
+#. ACTIONS.USEDOOR.OPEN
+msgctxt "ACTIONS.USEDOOR.OPEN"
+msgid "Open"
+msgstr "Offen"
+
+#. ACTIONS.USEITEM
+msgctxt "ACTIONS.USEITEM"
+msgid "Use"
+msgstr "Verwenden"
+
+#. ACTIONS.USEITEMON.BEEF_BELL
+msgctxt "ACTIONS.USEITEMON.BEEF_BELL"
+msgid "Bond"
+msgstr "Binden"
+
+#. ACTIONS.USEITEMON.GENERIC
+msgctxt "ACTIONS.USEITEMON.GENERIC"
+msgid "Use On"
+msgstr "Verwenden an"
+
+#. ACTIONS.USEITEMON.KITCOON_NAMETAG
+msgctxt "ACTIONS.USEITEMON.KITCOON_NAMETAG"
+msgid "Name"
+msgstr "Benennen"
+
+#. ACTIONS.USEKLAUSSACKKEY
+msgctxt "ACTIONS.USEKLAUSSACKKEY"
+msgid "Unlock"
+msgstr "Entriegeln"
+
+#. ACTIONS.USE_HEAVY_OBSTACLE.GENERIC
+msgctxt "ACTIONS.USE_HEAVY_OBSTACLE.GENERIC"
+msgid "Use"
+msgstr "Verwenden"
+
+#. ACTIONS.USE_HEAVY_OBSTACLE.LOAD_GYM
+msgctxt "ACTIONS.USE_HEAVY_OBSTACLE.LOAD_GYM"
+msgid "Load Gym"
+msgstr "Trainingsgerät laden"
+
+#. ACTIONS.USE_HEAVY_OBSTACLE.LOAD_WINCH
+msgctxt "ACTIONS.USE_HEAVY_OBSTACLE.LOAD_WINCH"
+msgid "Load Winch"
+msgstr "Winde laden"
+
+#. ACTIONS.USE_WINCH
+msgctxt "ACTIONS.USE_WINCH"
+msgid "Drop"
+msgstr "Absetzen"
+
+#. ACTIONS.WALKTO
+msgctxt "ACTIONS.WALKTO"
+msgid "Walk To"
+msgstr "Gehen zu:"
+
+#. ACTIONS.WAX
+msgctxt "ACTIONS.WAX"
+msgid "Wax"
+msgstr "Wachsen"
+
+#. ACTIONS.WEIGH_ITEM
+msgctxt "ACTIONS.WEIGH_ITEM"
+msgid "Weigh"
+msgstr "Wiegen"
+
+#. ACTIONS.WINTERSFEAST_FEAST
+msgctxt "ACTIONS.WINTERSFEAST_FEAST"
+msgid "Feast"
+msgstr "Schmausen"
+
+#. ACTIONS.WRAPBUNDLE
+msgctxt "ACTIONS.WRAPBUNDLE"
+msgid "Wrap"
+msgstr "Einpacken"
+
+#. ACTIONS.WRITE
+msgctxt "ACTIONS.WRITE"
+msgid "Write On"
+msgstr "Darauf schreiben"
+
+#. ACTIONS.YOTB_SEW
+msgctxt "ACTIONS.YOTB_SEW"
+msgid "Sew"
+msgstr "Nähen"
+
+#. ACTIONS.YOTB_STARTCONTEST
+msgctxt "ACTIONS.YOTB_STARTCONTEST"
+msgid "Start the Contest"
+msgstr "Wettbewerb beginnen"
+
+#. ACTIONS.YOTB_UNLOCKSKIN
+msgctxt "ACTIONS.YOTB_UNLOCKSKIN"
+msgid "Learn Costume"
+msgstr "Kostüm lernen"
+

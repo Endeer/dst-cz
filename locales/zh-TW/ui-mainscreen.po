@@ -1,0 +1,1050 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.MAINSCREEN.ACCOUNTINFO
+msgctxt "UI.MAINSCREEN.ACCOUNTINFO"
+msgid "Account Info"
+msgstr "帳號資訊"
+
+#. UI.MAINSCREEN.ACKNOWLEDGEWARNING
+msgctxt "UI.MAINSCREEN.ACKNOWLEDGEWARNING"
+msgid "Don't Show This Again."
+msgstr "不再提示"
+
+#. UI.MAINSCREEN.ADJUST_DISPLAY_HEADER
+msgctxt "UI.MAINSCREEN.ADJUST_DISPLAY_HEADER"
+msgid "Adjust Display Area"
+msgstr "調整顯示區域。"
+
+#. UI.MAINSCREEN.ADJUST_DISPLAY_INSTRUCTIONS
+msgctxt "UI.MAINSCREEN.ADJUST_DISPLAY_INSTRUCTIONS"
+msgid "Adjust display area using <up> and <down> to the maximum screen size\nso all arrows are fully visible.\n\nPress <A> to accept the changes."
+msgstr "用<up>和<down>將顯示區域調整到螢幕最大尺寸，\n使所有箭頭完全可見。\n\n按<A>接受挑戰。"
+
+#. UI.MAINSCREEN.ADJUST_DISPLAY_TEXT
+msgctxt "UI.MAINSCREEN.ADJUST_DISPLAY_TEXT"
+msgid "Parts of the game may be cut off by the edges of your screen. Do you want to check your display area now? If not, you can do this later in Settings."
+msgstr "遊戲的一部分可能被你的螢幕邊緣阻隔。你希望現在檢查你的顯示區域嗎？如果不希望，你可以稍後在設置中檢查。"
+
+#. UI.MAINSCREEN.ADVENTURE
+msgctxt "UI.MAINSCREEN.ADVENTURE"
+msgid "Adventure"
+msgstr "冒險"
+
+#. UI.MAINSCREEN.ADVGAMEDESC
+msgctxt "UI.MAINSCREEN.ADVGAMEDESC"
+msgid "NOTE: This mode is still under development.\n\nFor experienced players only!\n\nYou've decided to bring the fight to Maxwell.\nCan you survive the increasingly harsh conditions he's created, and beat him at his own game?"
+msgstr "備註：這個模式仍在開發中。\n\n僅對經驗豐富的玩家開放。\n\n你已經決定把戰火蔓延到 Maxwell。\n你能夠在你創造的這個越來越惡劣的條件下生存下來嗎，並且在他自己的遊戲裡打敗他？"
+
+#. UI.MAINSCREEN.ASKQUIT
+msgctxt "UI.MAINSCREEN.ASKQUIT"
+msgid "Quit Game?"
+msgstr "是否退出遊戲？"
+
+#. UI.MAINSCREEN.ASKQUITDESC
+msgctxt "UI.MAINSCREEN.ASKQUITDESC"
+msgid "Charlie will miss you."
+msgstr "查理會想你的。"
+
+#. UI.MAINSCREEN.BACK
+msgctxt "UI.MAINSCREEN.BACK"
+msgid "Back"
+msgstr "返回"
+
+#. UI.MAINSCREEN.BETA_LABEL
+msgctxt "UI.MAINSCREEN.BETA_LABEL"
+msgid "The Gorge Event"
+msgstr "暴食"
+
+#. UI.MAINSCREEN.BROADCASTING
+msgctxt "UI.MAINSCREEN.BROADCASTING"
+msgid "Broadcasting"
+msgstr "廣播"
+
+#. UI.MAINSCREEN.BROWSE
+msgctxt "UI.MAINSCREEN.BROWSE"
+msgid "Browse Games"
+msgstr "流覽遊戲"
+
+#. UI.MAINSCREEN.BUYDONTSTARVEMAIN
+msgctxt "UI.MAINSCREEN.BUYDONTSTARVEMAIN"
+msgid "Buy Don't Starve"
+msgstr "購買《饑荒》"
+
+#. UI.MAINSCREEN.BUYNOW
+msgctxt "UI.MAINSCREEN.BUYNOW"
+msgid "Buy Now"
+msgstr "立即購買"
+
+#. UI.MAINSCREEN.CANCEL
+msgctxt "UI.MAINSCREEN.CANCEL"
+msgid "Cancel"
+msgstr "取消"
+
+#. UI.MAINSCREEN.CANCELOFFLINE
+msgctxt "UI.MAINSCREEN.CANCELOFFLINE"
+msgid "Cancel"
+msgstr "取消"
+
+#. UI.MAINSCREEN.CANT_LOAD_ROG
+msgctxt "UI.MAINSCREEN.CANT_LOAD_ROG"
+msgid "Reign of Giants is not installed. Unable to load."
+msgstr "《巨人國》未安裝。無法載入。"
+
+#. UI.MAINSCREEN.CANT_LOAD_TITLE
+msgctxt "UI.MAINSCREEN.CANT_LOAD_TITLE"
+msgid "Load Failed"
+msgstr "載入失敗"
+
+#. UI.MAINSCREEN.CHEATS
+msgctxt "UI.MAINSCREEN.CHEATS"
+msgid "Cheats"
+msgstr "秘技"
+
+#. UI.MAINSCREEN.CHOOSEDIR
+msgctxt "UI.MAINSCREEN.CHOOSEDIR"
+msgid "Don't Starve Game Data"
+msgstr "《饑荒》遊戲數據"
+
+#. UI.MAINSCREEN.COMPENDIUM
+msgctxt "UI.MAINSCREEN.COMPENDIUM"
+msgid "Compendium"
+msgstr "資料"
+
+#. UI.MAINSCREEN.CONSOLE_EDITION_TEXT
+msgctxt "UI.MAINSCREEN.CONSOLE_EDITION_TEXT"
+msgid "Console Edition"
+msgstr "控制台版本"
+
+#. UI.MAINSCREEN.CONTINUE
+msgctxt "UI.MAINSCREEN.CONTINUE"
+msgid "Continue"
+msgstr "繼續"
+
+#. UI.MAINSCREEN.CONTROLLER_DETECTED_BODY
+msgctxt "UI.MAINSCREEN.CONTROLLER_DETECTED_BODY"
+msgid "Do you want to play Don't Starve Together with a controller?\nYou won't be asked again, but you can revert your settings in the Controls screen of the Option menu if you change your mind."
+msgstr "你想要用控制器玩《饑荒：連線版》這個遊戲嗎？\n 你不會被問第二次，但是要是你改變主意了，你可以在選項功能表的控制螢幕上恢復設置。"
+
+#. UI.MAINSCREEN.CONTROLLER_DETECTED_HEADER
+msgctxt "UI.MAINSCREEN.CONTROLLER_DETECTED_HEADER"
+msgid "Controller Detected"
+msgstr "檢測到遊戲手柄"
+
+#. UI.MAINSCREEN.CONTROLS
+msgctxt "UI.MAINSCREEN.CONTROLS"
+msgid "Controls"
+msgstr "控制"
+
+#. UI.MAINSCREEN.CREATE
+msgctxt "UI.MAINSCREEN.CREATE"
+msgid "Host Game"
+msgstr "創建遊戲"
+
+#. UI.MAINSCREEN.CREDITS
+msgctxt "UI.MAINSCREEN.CREDITS"
+msgid "Credits"
+msgstr "主創人員"
+
+#. UI.MAINSCREEN.DELETE
+msgctxt "UI.MAINSCREEN.DELETE"
+msgid "Delete"
+msgstr "刪除"
+
+#. UI.MAINSCREEN.DISABLECONTROLLER
+msgctxt "UI.MAINSCREEN.DISABLECONTROLLER"
+msgid "Disable Controller"
+msgstr "禁用遊戲手柄"
+
+#. UI.MAINSCREEN.DLC_UPDATENAME
+msgctxt "UI.MAINSCREEN.DLC_UPDATENAME"
+msgid "Where There's a Wilson..."
+msgstr "有威爾遜的地方..."
+
+#. UI.MAINSCREEN.DST_FORGE_BETA_UPDATENAME
+msgctxt "UI.MAINSCREEN.DST_FORGE_BETA_UPDATENAME"
+msgid "The Forge Beta (v{version})"
+msgstr "《熔爐》(The Forge) 測試版 (v{version})"
+
+#. UI.MAINSCREEN.DST_UPDATENAME
+msgctxt "UI.MAINSCREEN.DST_UPDATENAME"
+msgid "Release"
+msgstr "版本"
+
+#. UI.MAINSCREEN.DYNAMICCONTENT_CLEAR
+msgctxt "UI.MAINSCREEN.DYNAMICCONTENT_CLEAR"
+msgid "Clear Dynamic Content"
+msgstr "清空動態內容"
+
+#. UI.MAINSCREEN.DYNAMICCONTENT_DESC
+msgctxt "UI.MAINSCREEN.DYNAMICCONTENT_DESC"
+msgid "Due to an error, dynamic content loading has been disabled."
+msgstr "發生錯誤，動態內容載入已失效。"
+
+#. UI.MAINSCREEN.DYNAMICCONTENT_DISABLE
+msgctxt "UI.MAINSCREEN.DYNAMICCONTENT_DISABLE"
+msgid "Disable Dynamic Content"
+msgstr "關閉動態內容"
+
+#. UI.MAINSCREEN.DYNAMICCONTENT_ENABLE
+msgctxt "UI.MAINSCREEN.DYNAMICCONTENT_ENABLE"
+msgid "Enable Dynamic Content"
+msgstr "啟用動態內容"
+
+#. UI.MAINSCREEN.DYNAMICCONTENT_OK
+msgctxt "UI.MAINSCREEN.DYNAMICCONTENT_OK"
+msgid "I understand"
+msgstr "我明白"
+
+#. UI.MAINSCREEN.DYNAMICCONTENT_RE_ENABLE
+msgctxt "UI.MAINSCREEN.DYNAMICCONTENT_RE_ENABLE"
+msgid "Re-enable"
+msgstr "重新開啟"
+
+#. UI.MAINSCREEN.DYNAMICCONTENT_TITLE
+msgctxt "UI.MAINSCREEN.DYNAMICCONTENT_TITLE"
+msgid "Dynamic Content"
+msgstr "動態內容"
+
+#. UI.MAINSCREEN.ENABLECONTROLLER
+msgctxt "UI.MAINSCREEN.ENABLECONTROLLER"
+msgid "Enable Controller"
+msgstr "啟用遊戲手柄"
+
+#. UI.MAINSCREEN.ENTERKEY
+msgctxt "UI.MAINSCREEN.ENTERKEY"
+msgid "Enter New Key"
+msgstr "輸入新金鑰"
+
+#. UI.MAINSCREEN.ENTERPRODUCTKEY
+msgctxt "UI.MAINSCREEN.ENTERPRODUCTKEY"
+msgid "Enter Key"
+msgstr "輸入金鑰"
+
+#. UI.MAINSCREEN.EVENT_IMMINENT
+msgctxt "UI.MAINSCREEN.EVENT_IMMINENT"
+msgid "Update imminent!"
+msgstr "即將升級！"
+
+#. UI.MAINSCREEN.EVENT_UPDATEDAY
+msgctxt "UI.MAINSCREEN.EVENT_UPDATEDAY"
+msgid "Starts in 1 day!"
+msgstr "1天后開始！"
+
+#. UI.MAINSCREEN.EVENT_UPDATEDAYS
+msgctxt "UI.MAINSCREEN.EVENT_UPDATEDAYS"
+msgid "Starts in %d days!"
+msgstr "%d 天后開始!"
+
+#. UI.MAINSCREEN.EXIT
+msgctxt "UI.MAINSCREEN.EXIT"
+msgid "Exit"
+msgstr "退出"
+
+#. UI.MAINSCREEN.FAILEDMODS
+msgctxt "UI.MAINSCREEN.FAILEDMODS"
+msgid "The following mods failed to run last time and have been disabled: "
+msgstr "下列模組上次未能運行，現在已禁用："
+
+#. UI.MAINSCREEN.FAMILY_SHARED
+msgctxt "UI.MAINSCREEN.FAMILY_SHARED"
+msgid "Family Sharing"
+msgstr "家庭分享"
+
+#. UI.MAINSCREEN.FESTIVALEVENT.LAVAARENA
+msgctxt "UI.MAINSCREEN.FESTIVALEVENT.LAVAARENA"
+msgid "Enter the Forge"
+msgstr "進入熔爐"
+
+#. UI.MAINSCREEN.FESTIVALEVENT.QUAGMIRE
+msgctxt "UI.MAINSCREEN.FESTIVALEVENT.QUAGMIRE"
+msgid "Enter the Gorge"
+msgstr "進入暴食"
+
+#. UI.MAINSCREEN.FORCEMODDETAIL
+msgctxt "UI.MAINSCREEN.FORCEMODDETAIL"
+msgid "You are force loading these mods from modsettings.lua. They will always be enabled:"
+msgstr "根據modsettings.lua，會強制載入以下模組。它們會始終處於啟用狀態："
+
+#. UI.MAINSCREEN.FORUM
+msgctxt "UI.MAINSCREEN.FORUM"
+msgid "Forum"
+msgstr "論壇"
+
+#. UI.MAINSCREEN.FREEPLAY
+msgctxt "UI.MAINSCREEN.FREEPLAY"
+msgid "Sandbox"
+msgstr "沙箱模式"
+
+#. UI.MAINSCREEN.FRESHBUILD
+msgctxt "UI.MAINSCREEN.FRESHBUILD"
+msgid "Fresh Build!"
+msgstr "最新版！"
+
+#. UI.MAINSCREEN.GAMEWIZARD
+msgctxt "UI.MAINSCREEN.GAMEWIZARD"
+msgid "Game Wizard"
+msgstr "Game Wizard"
+
+#. UI.MAINSCREEN.GETHELP
+msgctxt "UI.MAINSCREEN.GETHELP"
+msgid "Get More Help"
+msgstr "獲得更多幫助"
+
+#. UI.MAINSCREEN.GIFT
+msgctxt "UI.MAINSCREEN.GIFT"
+msgid "Send Gift"
+msgstr "贈送禮物"
+
+#. UI.MAINSCREEN.GREETING
+msgctxt "UI.MAINSCREEN.GREETING"
+msgid "Hi "
+msgstr "你好 "
+
+#. UI.MAINSCREEN.HOST
+msgctxt "UI.MAINSCREEN.HOST"
+msgid "Host Game"
+msgstr "創建遊戲"
+
+#. UI.MAINSCREEN.HOSTCHAR
+msgctxt "UI.MAINSCREEN.HOSTCHAR"
+msgid "Host (CharSelect)"
+msgstr "Host (CharSelect)"
+
+#. UI.MAINSCREEN.IMPORT
+msgctxt "UI.MAINSCREEN.IMPORT"
+msgid "Import"
+msgstr "導入"
+
+#. UI.MAINSCREEN.IMPORTFAIL
+msgctxt "UI.MAINSCREEN.IMPORTFAIL"
+msgid "Failed to load"
+msgstr "載入失敗"
+
+#. UI.MAINSCREEN.IMPORTSUCCESS
+msgctxt "UI.MAINSCREEN.IMPORTSUCCESS"
+msgid "Success"
+msgstr "成功"
+
+#. UI.MAINSCREEN.IMPORTSUCCESSDESC
+msgctxt "UI.MAINSCREEN.IMPORTSUCCESSDESC"
+msgid "Data was imported successfully."
+msgstr "資料成功導入。"
+
+#. UI.MAINSCREEN.INVITED_AS
+msgctxt "UI.MAINSCREEN.INVITED_AS"
+msgid "You were invited to join a game as %s"
+msgstr "你被邀請加入遊戲，作為 %s"
+
+#. UI.MAINSCREEN.ISSUE
+msgctxt "UI.MAINSCREEN.ISSUE"
+msgid "Report an Issue"
+msgstr "報告問題"
+
+#. UI.MAINSCREEN.ITEMCOLLECTION_DISABLE
+msgctxt "UI.MAINSCREEN.ITEMCOLLECTION_DISABLE"
+msgid "You must be logged in to view your Profile or Item Collection."
+msgstr "你必須登錄才能查看你的檔案或物品收藏。"
+
+#. UI.MAINSCREEN.JOIN
+msgctxt "UI.MAINSCREEN.JOIN"
+msgid "Join IP"
+msgstr "加入IP"
+
+#. UI.MAINSCREEN.JOINCHAR
+msgctxt "UI.MAINSCREEN.JOINCHAR"
+msgid "Join (CharSelect)"
+msgstr "Join (CharSelect)"
+
+#. UI.MAINSCREEN.JOIN_PLAY_TEST
+msgctxt "UI.MAINSCREEN.JOIN_PLAY_TEST"
+msgid "Join Playtest"
+msgstr "加入試玩"
+
+#. UI.MAINSCREEN.LASTBUILDDAYS
+msgctxt "UI.MAINSCREEN.LASTBUILDDAYS"
+msgid "Last build %d days ago"
+msgstr "上一次更新在%d天前"
+
+#. UI.MAINSCREEN.LATER
+msgctxt "UI.MAINSCREEN.LATER"
+msgid "Not Now"
+msgstr "現在不要"
+
+#. UI.MAINSCREEN.LOGIN
+msgctxt "UI.MAINSCREEN.LOGIN"
+msgid "Login"
+msgstr "登錄"
+
+#. UI.MAINSCREEN.LOGOUT
+msgctxt "UI.MAINSCREEN.LOGOUT"
+msgid "Log Out"
+msgstr "退出"
+
+#. UI.MAINSCREEN.MAINBANNER_BETA_TITLE
+msgctxt "UI.MAINSCREEN.MAINBANNER_BETA_TITLE"
+msgid "WX-78 Refresh\nBeta Build"
+msgstr "WX-78人物重做\n測試版本"
+
+#. UI.MAINSCREEN.MAINBANNER_ROT_BETA_TITLE
+msgctxt "UI.MAINSCREEN.MAINBANNER_ROT_BETA_TITLE"
+msgid "Beta Build"
+msgstr "測試版本"
+
+#. UI.MAINSCREEN.MODDETAIL
+msgctxt "UI.MAINSCREEN.MODDETAIL"
+msgid "Installed mods: "
+msgstr "已安裝的模組："
+
+#. UI.MAINSCREEN.MODDETAIL2
+msgctxt "UI.MAINSCREEN.MODDETAIL2"
+msgid "Klei is not able to help you should issues arise while using mods. Use with caution!"
+msgstr "如果在使用模組時出現問題，科雷將無法為你提供幫助。請謹慎使用！"
+
+#. UI.MAINSCREEN.MODFAILDETAIL
+msgctxt "UI.MAINSCREEN.MODFAILDETAIL"
+msgid "The following mod(s) have caused a failure:"
+msgstr "下列模組導致了故障："
+
+#. UI.MAINSCREEN.MODFAILDETAIL2
+msgctxt "UI.MAINSCREEN.MODFAILDETAIL2"
+msgid "The mod will be disabled, re-enable it from the mods menu."
+msgstr "該模組將被禁用，請從模組菜單重新啟用。"
+
+#. UI.MAINSCREEN.MODFAILTITLE
+msgctxt "UI.MAINSCREEN.MODFAILTITLE"
+msgid "WARNING!"
+msgstr "警告！"
+
+#. UI.MAINSCREEN.MODFORUMS
+msgctxt "UI.MAINSCREEN.MODFORUMS"
+msgid "Mod Forums"
+msgstr "模組論壇"
+
+#. UI.MAINSCREEN.MODFORUMS_NOT_AVAILABLE_YET
+msgctxt "UI.MAINSCREEN.MODFORUMS_NOT_AVAILABLE_YET"
+msgid "Not available yet"
+msgstr "尚未可用"
+
+#. UI.MAINSCREEN.MODQUIT
+msgctxt "UI.MAINSCREEN.MODQUIT"
+msgid "Disable Mods"
+msgstr "禁用模組"
+
+#. UI.MAINSCREEN.MODS
+msgctxt "UI.MAINSCREEN.MODS"
+msgid "Mods"
+msgstr "模組"
+
+#. UI.MAINSCREEN.MODSBADLOAD
+msgctxt "UI.MAINSCREEN.MODSBADLOAD"
+msgid "The game did not start correctly last time. This was likely caused by a mod, so all client mods have been disabled.\n\nYou can try re-enabling mods from the mod settings screen."
+msgstr "遊戲上次未正常啟動。這可能是由於某個模組所致，因此所有本地模組已禁用。\n\n你可以從模組設置畫面嘗試重新啟用這些模組。"
+
+#. UI.MAINSCREEN.MODSBADTITLE
+msgctxt "UI.MAINSCREEN.MODSBADTITLE"
+msgid "All Mods Disabled"
+msgstr "所有模組已禁用"
+
+#. UI.MAINSCREEN.MODTITLE
+msgctxt "UI.MAINSCREEN.MODTITLE"
+msgid "Mods Installed!"
+msgstr "模組已安裝！"
+
+#. UI.MAINSCREEN.MOREGAMES
+msgctxt "UI.MAINSCREEN.MOREGAMES"
+msgid "Games"
+msgstr "遊戲"
+
+#. UI.MAINSCREEN.MOTD
+msgctxt "UI.MAINSCREEN.MOTD"
+msgid "Check out the latest items in the Klei Store!"
+msgstr "快來看看Klei商店最新上架的好東西吧！"
+
+#. UI.MAINSCREEN.MOTDBUTTON
+msgctxt "UI.MAINSCREEN.MOTDBUTTON"
+msgid "Klei Store"
+msgstr "Klei商店"
+
+#. UI.MAINSCREEN.MOTDTITLE
+msgctxt "UI.MAINSCREEN.MOTDTITLE"
+msgid "Klei Store"
+msgstr "Klei商店"
+
+#. UI.MAINSCREEN.MOTD_ALERT_DETAILS
+msgctxt "UI.MAINSCREEN.MOTD_ALERT_DETAILS"
+msgid "View Details"
+msgstr "查看詳情"
+
+#. UI.MAINSCREEN.MOTD_DOWNLOADING_IMAGE
+msgctxt "UI.MAINSCREEN.MOTD_DOWNLOADING_IMAGE"
+msgid "Downloading Image"
+msgstr "正在下載圖片"
+
+#. UI.MAINSCREEN.MOTD_NEW_ANNOUNCEMENT
+msgctxt "UI.MAINSCREEN.MOTD_NEW_ANNOUNCEMENT"
+msgid "New!"
+msgstr "新內容！"
+
+#. UI.MAINSCREEN.MOTD_NEW_UPDATE
+msgctxt "UI.MAINSCREEN.MOTD_NEW_UPDATE"
+msgid "A new update is available\nPlease update to the latest version"
+msgstr "有新的更新可用\n請升級到最新版本"
+
+#. UI.MAINSCREEN.MOTD_SALE_ANNOUNCEMENT
+msgctxt "UI.MAINSCREEN.MOTD_SALE_ANNOUNCEMENT"
+msgid "Sale!"
+msgstr "促銷！"
+
+#. UI.MAINSCREEN.MOTD_SYNCING
+msgctxt "UI.MAINSCREEN.MOTD_SYNCING"
+msgid "Syncing Notifications"
+msgstr "正在同步通知"
+
+#. UI.MAINSCREEN.MOTD_SYNCING_FAILED
+msgctxt "UI.MAINSCREEN.MOTD_SYNCING_FAILED"
+msgid "Unable to download notifications."
+msgstr "通知下載失敗"
+
+#. UI.MAINSCREEN.MOVIE
+msgctxt "UI.MAINSCREEN.MOVIE"
+msgid "Theatre"
+msgstr "電影院"
+
+#. UI.MAINSCREEN.MULTIPLAYER
+msgctxt "UI.MAINSCREEN.MULTIPLAYER"
+msgid "Multiplayer"
+msgstr "多玩家"
+
+#. UI.MAINSCREEN.MYSTERYBOX
+msgctxt "UI.MAINSCREEN.MYSTERYBOX"
+msgid "Treasury"
+msgstr "寶庫"
+
+#. UI.MAINSCREEN.NEWADVENTURE
+msgctxt "UI.MAINSCREEN.NEWADVENTURE"
+msgid "Adventure (TEST)"
+msgstr "冒險模式（測試）"
+
+#. UI.MAINSCREEN.NEWADVENTURE_WARN
+msgctxt "UI.MAINSCREEN.NEWADVENTURE_WARN"
+msgid "The new adventure system is currently in active development and is provided for testing purposes only. It will probably contain bugs."
+msgstr "新冒險系統目前正在開發中，僅出於測試目的提供給玩家。它很可能包含Bug。"
+
+#. UI.MAINSCREEN.NEWFREEPLAY
+msgctxt "UI.MAINSCREEN.NEWFREEPLAY"
+msgid "Sandbox"
+msgstr "沙箱模式"
+
+#. UI.MAINSCREEN.NEWFREEPLAYCUSTOM
+msgctxt "UI.MAINSCREEN.NEWFREEPLAYCUSTOM"
+msgid "Sandbox (Custom)"
+msgstr "沙箱模式（自訂）"
+
+#. UI.MAINSCREEN.NEWGAME
+msgctxt "UI.MAINSCREEN.NEWGAME"
+msgid "Start a new game!"
+msgstr "開始新遊戲！"
+
+#. UI.MAINSCREEN.NEWGAMEDESC
+msgctxt "UI.MAINSCREEN.NEWGAMEDESC"
+msgid "This will erase your current save. Continue?"
+msgstr "這將刪除你目前的存檔。是否繼續？"
+
+#. UI.MAINSCREEN.NEWGAMESHORT
+msgctxt "UI.MAINSCREEN.NEWGAMESHORT"
+msgid "Empty"
+msgstr "空"
+
+#. UI.MAINSCREEN.NEWGAMETYPE
+msgctxt "UI.MAINSCREEN.NEWGAMETYPE"
+msgid "What kind of game would you like to play?"
+msgstr "你喜歡玩什麼類型的遊戲？"
+
+#. UI.MAINSCREEN.NEWGO
+msgctxt "UI.MAINSCREEN.NEWGO"
+msgid "Let's Go!"
+msgstr "出發！"
+
+#. UI.MAINSCREEN.NEWMODDETAIL
+msgctxt "UI.MAINSCREEN.NEWMODDETAIL"
+msgid "Newly installed mods: "
+msgstr "最新安裝的模組："
+
+#. UI.MAINSCREEN.NEWMODDETAIL2
+msgctxt "UI.MAINSCREEN.NEWMODDETAIL2"
+msgid "Enable these mods from the main menu."
+msgstr "在主菜單中啟用這些模組。"
+
+#. UI.MAINSCREEN.NEWUSER_DETECTED_BODY
+msgctxt "UI.MAINSCREEN.NEWUSER_DETECTED_BODY"
+msgid "You might want to explore on your own for a bit and get a feel for things. Would you like to host your own private game first?"
+msgstr "你可能有點想要自己探索並且要切身體驗下。你想先創建自己的私人遊戲嗎？"
+
+#. UI.MAINSCREEN.NEWUSER_DETECTED_HEADER
+msgctxt "UI.MAINSCREEN.NEWUSER_DETECTED_HEADER"
+msgid "New to Don't Starve?"
+msgstr "不熟悉《饑荒》嗎？"
+
+#. UI.MAINSCREEN.NEWUSER_NO
+msgctxt "UI.MAINSCREEN.NEWUSER_NO"
+msgid "No, Browse Games"
+msgstr "不，流覽遊戲。"
+
+#. UI.MAINSCREEN.NEWUSER_NO_QUICKJOIN
+msgctxt "UI.MAINSCREEN.NEWUSER_NO_QUICKJOIN"
+msgid "No, Quick Join"
+msgstr "不，快速加入"
+
+#. UI.MAINSCREEN.NEWUSER_YES
+msgctxt "UI.MAINSCREEN.NEWUSER_YES"
+msgid "Yes, Host Game"
+msgstr "是的，創建遊戲"
+
+#. UI.MAINSCREEN.NEWWORLD
+msgctxt "UI.MAINSCREEN.NEWWORLD"
+msgid "Create a new world!"
+msgstr "創建新世界！"
+
+#. UI.MAINSCREEN.NEWWORLDDESC
+msgctxt "UI.MAINSCREEN.NEWWORLDDESC"
+msgid "This will erase your current world and any saved games in it. Continue?"
+msgstr "這會刪除你當前的世界和其中保存的任何遊戲內容。是否繼續？"
+
+#. UI.MAINSCREEN.NEXTBUILDIMMINENT
+msgctxt "UI.MAINSCREEN.NEXTBUILDIMMINENT"
+msgid "Next build imminent!"
+msgstr "下一次更新即將發佈！"
+
+#. UI.MAINSCREEN.NEXTUPDATEDAYS
+msgctxt "UI.MAINSCREEN.NEXTUPDATEDAYS"
+msgid "Next Update: %d days!"
+msgstr "下次更新：%d 天后"
+
+#. UI.MAINSCREEN.NO
+msgctxt "UI.MAINSCREEN.NO"
+msgid "No"
+msgstr "否"
+
+#. UI.MAINSCREEN.NOTIFY
+msgctxt "UI.MAINSCREEN.NOTIFY"
+msgid "News"
+msgstr "新聞"
+
+#. UI.MAINSCREEN.NOT_SIGNED_IN_TO_PSN
+msgctxt "UI.MAINSCREEN.NOT_SIGNED_IN_TO_PSN"
+msgid "Not Signed In to PlayStation™Network"
+msgstr "尚未登錄 PlayStation™Network"
+
+#. UI.MAINSCREEN.NOT_SIGNED_IN_TO_PSN_DESC
+msgctxt "UI.MAINSCREEN.NOT_SIGNED_IN_TO_PSN_DESC"
+msgid "You are not signed in to PlayStation™Network. Characters and worlds from online games will be unavailable. Play offline?"
+msgstr "你沒有登錄 PlayStation™Network。線上遊戲的角色和世界不可用。是否進行離線遊戲？"
+
+#. UI.MAINSCREEN.NO_INTERNET_CONNECTION
+msgctxt "UI.MAINSCREEN.NO_INTERNET_CONNECTION"
+msgid "No internet connection"
+msgstr "無網路連接"
+
+#. UI.MAINSCREEN.NO_INTERNET_CONNECTION_DESC
+msgctxt "UI.MAINSCREEN.NO_INTERNET_CONNECTION_DESC"
+msgid "Could not connect to the internet. Characters and worlds from online games will be unavailable. Play offline?"
+msgstr "無法連接到互聯網。線上遊戲的人物和世界不可用。是否離線遊戲？"
+
+#. UI.MAINSCREEN.NO_PS_PLUS_MEMBERSHIP
+msgctxt "UI.MAINSCREEN.NO_PS_PLUS_MEMBERSHIP"
+msgid "PlayStation®Plus"
+msgstr "PlayStation®Plus"
+
+#. UI.MAINSCREEN.NO_PS_PLUS_MEMBERSHIP_DESC
+msgctxt "UI.MAINSCREEN.NO_PS_PLUS_MEMBERSHIP_DESC"
+msgid "Online play requires an active PlayStation®Plus membership.\nCharacters and worlds from online games will be unavailable. Play offline?"
+msgstr "進行線上遊戲必須擁有 PlayStation®Plus 會員身份。\n線上遊戲的角色和世界不可用。是否進行離線遊戲？"
+
+#. UI.MAINSCREEN.OFFLINE
+msgctxt "UI.MAINSCREEN.OFFLINE"
+msgid "Offline"
+msgstr "線下"
+
+#. UI.MAINSCREEN.OFFLINEMODE
+msgctxt "UI.MAINSCREEN.OFFLINEMODE"
+msgid "Connection to Klei Failed"
+msgstr "無法連接到 Klei"
+
+#. UI.MAINSCREEN.OFFLINEMODEDESC
+msgctxt "UI.MAINSCREEN.OFFLINEMODEDESC"
+msgid "Could not connect to Klei's servers. Characters and worlds from online games will be unavailable. Continue and play offline?"
+msgstr "無法連接到 科雷伺服器。線上遊戲的人物和世界不可用。是否繼續並離線遊戲？"
+
+#. UI.MAINSCREEN.OK
+msgctxt "UI.MAINSCREEN.OK"
+msgid "OK"
+msgstr "確定"
+
+#. UI.MAINSCREEN.ONLINE_AGE_RESTRICTION_DESC
+msgctxt "UI.MAINSCREEN.ONLINE_AGE_RESTRICTION_DESC"
+msgid "You do not meet the age requirement to play online. Characters and worlds from online games will be unavailable."
+msgstr "您沒有達到玩線上遊戲的最低要求。您將無法獲取線上遊戲的角色和世界。"
+
+#. UI.MAINSCREEN.ONLINE_AGE_RESTRICTION_TITLE
+msgctxt "UI.MAINSCREEN.ONLINE_AGE_RESTRICTION_TITLE"
+msgid "Online Age Restriction"
+msgstr "線上年齡限制"
+
+#. UI.MAINSCREEN.ONLINE_UGC_RESTRICTION_DESC
+msgctxt "UI.MAINSCREEN.ONLINE_UGC_RESTRICTION_DESC"
+msgid "Online play is disabled due to parental control settings for your account. Characters and worlds from online games will be unavailable."
+msgstr "由於您的帳戶設置中的家長控制，您無法線上玩遊戲。您將無法獲取線上遊戲的角色和世界。"
+
+#. UI.MAINSCREEN.ONLINE_UGC_RESTRICTION_TITLE
+msgctxt "UI.MAINSCREEN.ONLINE_UGC_RESTRICTION_TITLE"
+msgid "User-Generated Media Restriction"
+msgstr "用戶創造的媒體限制"
+
+#. UI.MAINSCREEN.OPTIONS
+msgctxt "UI.MAINSCREEN.OPTIONS"
+msgid "Options"
+msgstr "選項"
+
+#. UI.MAINSCREEN.PLAY
+msgctxt "UI.MAINSCREEN.PLAY"
+msgid "Play!"
+msgstr "開始遊戲！"
+
+#. UI.MAINSCREEN.PLAYDEMO
+msgctxt "UI.MAINSCREEN.PLAYDEMO"
+msgid "Play Demo"
+msgstr "開始試玩"
+
+#. UI.MAINSCREEN.PLAYMP
+msgctxt "UI.MAINSCREEN.PLAYMP"
+msgid "Play Online!"
+msgstr "離線遊戲！"
+
+#. UI.MAINSCREEN.PLAYOFFLINE
+msgctxt "UI.MAINSCREEN.PLAYOFFLINE"
+msgid "Play Offline"
+msgstr "離線遊戲"
+
+#. UI.MAINSCREEN.PSN_OFFLINEMODE
+msgctxt "UI.MAINSCREEN.PSN_OFFLINEMODE"
+msgid "Connection to PlayStation™Network failed"
+msgstr "與 PlayStation™Network 連接失敗"
+
+#. UI.MAINSCREEN.PSN_OFFLINEMODEDESC
+msgctxt "UI.MAINSCREEN.PSN_OFFLINEMODEDESC"
+msgid "Couldn't connect to PlayStation™Network (scheduled maintenance or connectivity issues). Characters and worlds from online games will be unavailable. Play offline?"
+msgstr "無法連接到 PlayStation™Network （因為正在進行定期維護或存在連接問題）。線上遊戲的角色和世界不可用。是否進行離線遊戲？"
+
+#. UI.MAINSCREEN.QUICKJOIN
+msgctxt "UI.MAINSCREEN.QUICKJOIN"
+msgid "Quick Join"
+msgstr "快速加入"
+
+#. UI.MAINSCREEN.QUIT
+msgctxt "UI.MAINSCREEN.QUIT"
+msgid "Quit"
+msgstr "退出"
+
+#. UI.MAINSCREEN.RATE
+msgctxt "UI.MAINSCREEN.RATE"
+msgid "Rate This Game"
+msgstr "給本遊戲打分"
+
+#. UI.MAINSCREEN.REDEEM
+msgctxt "UI.MAINSCREEN.REDEEM"
+msgid "Redeem"
+msgstr "兌換"
+
+#. UI.MAINSCREEN.REGISTER_SECOND_PLAYER
+msgctxt "UI.MAINSCREEN.REGISTER_SECOND_PLAYER"
+msgid "Split Screen"
+msgstr "分區螢幕"
+
+#. UI.MAINSCREEN.RESETGAMEDESC
+msgctxt "UI.MAINSCREEN.RESETGAMEDESC"
+msgid "This will reset your current world. Continue?"
+msgstr "這會重置你當前的世界。是否繼續？"
+
+#. UI.MAINSCREEN.RESETPROFILE
+msgctxt "UI.MAINSCREEN.RESETPROFILE"
+msgid "Reset profile!"
+msgstr "重置檔案！"
+
+#. UI.MAINSCREEN.RESTART
+msgctxt "UI.MAINSCREEN.RESTART"
+msgid "Restart"
+msgstr "重新開始"
+
+#. UI.MAINSCREEN.SAVE_LOCATION
+msgctxt "UI.MAINSCREEN.SAVE_LOCATION"
+msgid "Data"
+msgstr "數據"
+
+#. UI.MAINSCREEN.SCRIPTERRORMODWARNING
+msgctxt "UI.MAINSCREEN.SCRIPTERRORMODWARNING"
+msgid "This error may have occurred due to a mod you have enabled!\nYou have the following mods enabled:\n"
+msgstr "此錯誤可能是由於你啟用的某個模組所致！\n你啟用了下列模組：\n"
+
+#. UI.MAINSCREEN.SCRIPTERRORQUIT
+msgctxt "UI.MAINSCREEN.SCRIPTERRORQUIT"
+msgid "Exit Game"
+msgstr "退出遊戲"
+
+#. UI.MAINSCREEN.SCRIPTERRORRESTART
+msgctxt "UI.MAINSCREEN.SCRIPTERRORRESTART"
+msgid "Reload Save"
+msgstr "重新記載存檔"
+
+#. UI.MAINSCREEN.SETTINGS
+msgctxt "UI.MAINSCREEN.SETTINGS"
+msgid "Settings"
+msgstr "設置"
+
+#. UI.MAINSCREEN.SKINS
+msgctxt "UI.MAINSCREEN.SKINS"
+msgid "Curio Cabinet"
+msgstr "珍寶櫃"
+
+#. UI.MAINSCREEN.SLOT
+msgctxt "UI.MAINSCREEN.SLOT"
+msgid "Game Slot"
+msgstr "遊戲存檔欄"
+
+#. UI.MAINSCREEN.SLOTACTION
+msgctxt "UI.MAINSCREEN.SLOTACTION"
+msgid "What would you like to do?"
+msgstr "你想做什麼？"
+
+#. UI.MAINSCREEN.SLOT_1
+msgctxt "UI.MAINSCREEN.SLOT_1"
+msgid "1"
+msgstr "1"
+
+#. UI.MAINSCREEN.SLOT_2
+msgctxt "UI.MAINSCREEN.SLOT_2"
+msgid "2"
+msgstr "2"
+
+#. UI.MAINSCREEN.SLOT_3
+msgctxt "UI.MAINSCREEN.SLOT_3"
+msgid "3"
+msgstr "3"
+
+#. UI.MAINSCREEN.SLOT_4
+msgctxt "UI.MAINSCREEN.SLOT_4"
+msgid "4"
+msgstr "4"
+
+#. UI.MAINSCREEN.SPLITSCREEN
+msgctxt "UI.MAINSCREEN.SPLITSCREEN"
+msgid "Split Screen"
+msgstr "分區螢幕"
+
+#. UI.MAINSCREEN.STEAMOFFLINEMODE
+msgctxt "UI.MAINSCREEN.STEAMOFFLINEMODE"
+msgid "Connection to Steam Failed"
+msgstr "無法連接到 Steam"
+
+#. UI.MAINSCREEN.STEAMOFFLINEMODEDESC
+msgctxt "UI.MAINSCREEN.STEAMOFFLINEMODEDESC"
+msgid "Couldn't connect to Steam (scheduled maintenance or connectivity issues). Characters and worlds from online games will be unavailable. Play offline?"
+msgstr "無法連接到 Steam 伺服器（進行維修或者是連接的問題）。線上遊戲的人物和世界不可用。要線下玩遊戲嗎？"
+
+#. UI.MAINSCREEN.SURE
+msgctxt "UI.MAINSCREEN.SURE"
+msgid "Are you sure?"
+msgstr "你確定嗎？"
+
+#. UI.MAINSCREEN.TESTING
+msgctxt "UI.MAINSCREEN.TESTING"
+msgid "This is the testing branch!"
+msgstr "這是測試分支！"
+
+#. UI.MAINSCREEN.TESTINGDETAIL
+msgctxt "UI.MAINSCREEN.TESTINGDETAIL"
+msgid "You may encounter bugs or broken features, and you may lose your save game when we update. Please report all problems in the forum."
+msgstr "當我們更新時，你可能會遇到Bug或無法使用的功能，而且可能會丟失遊戲存檔。請在論壇中報告所有問題。"
+
+#. UI.MAINSCREEN.TESTINGNO
+msgctxt "UI.MAINSCREEN.TESTINGNO"
+msgid "No, thank you!"
+msgstr "不，謝謝！"
+
+#. UI.MAINSCREEN.TESTINGYES
+msgctxt "UI.MAINSCREEN.TESTINGYES"
+msgid "I understand."
+msgstr "我明白。"
+
+#. UI.MAINSCREEN.TOOLTIP_BROWSE
+msgctxt "UI.MAINSCREEN.TOOLTIP_BROWSE"
+msgid "Browse all servers"
+msgstr "流覽所有伺服器"
+
+#. UI.MAINSCREEN.TOOLTIP_COMPENDIUM
+msgctxt "UI.MAINSCREEN.TOOLTIP_COMPENDIUM"
+msgid "A summary of your adventures"
+msgstr "冒險摘要"
+
+#. UI.MAINSCREEN.TOOLTIP_CREDITS
+msgctxt "UI.MAINSCREEN.TOOLTIP_CREDITS"
+msgid "See who made the game"
+msgstr "看看是誰創造的遊戲"
+
+#. UI.MAINSCREEN.TOOLTIP_FESTIVALEVENT.LAVAARENA
+msgctxt "UI.MAINSCREEN.TOOLTIP_FESTIVALEVENT.LAVAARENA"
+msgid "Challenge Battlemaster Pugna's warriors in this limited-time event!"
+msgstr "在此限時事件內挑戰戰鬥大師普格納的戰士！"
+
+#. UI.MAINSCREEN.TOOLTIP_FESTIVALEVENT.QUAGMIRE
+msgctxt "UI.MAINSCREEN.TOOLTIP_FESTIVALEVENT.QUAGMIRE"
+msgid "Prepare offerings for the Altar of Gnaw in this limited-time event!"
+msgstr "在這項限時遊戲裡，為饕餮祭壇準備祭品！"
+
+#. UI.MAINSCREEN.TOOLTIP_HOST
+msgctxt "UI.MAINSCREEN.TOOLTIP_HOST"
+msgid "Start your own server"
+msgstr "啟動你自己的伺服器"
+
+#. UI.MAINSCREEN.TOOLTIP_LOGOUT
+msgctxt "UI.MAINSCREEN.TOOLTIP_LOGOUT"
+msgid "Log out so you can log back in again"
+msgstr "註銷後再次登錄"
+
+#. UI.MAINSCREEN.TOOLTIP_MODS
+msgctxt "UI.MAINSCREEN.TOOLTIP_MODS"
+msgid "Customize your game"
+msgstr "自訂遊戲"
+
+#. UI.MAINSCREEN.TOOLTIP_OPTIONS
+msgctxt "UI.MAINSCREEN.TOOLTIP_OPTIONS"
+msgid "Change your settings and controls"
+msgstr "改變設置和控制"
+
+#. UI.MAINSCREEN.TOOLTIP_OPTIONS_PS4
+msgctxt "UI.MAINSCREEN.TOOLTIP_OPTIONS_PS4"
+msgid "Change your settings and view the controls"
+msgstr "改變設置和查看控制"
+
+#. UI.MAINSCREEN.TOOLTIP_PLAYERSUMMARY
+msgctxt "UI.MAINSCREEN.TOOLTIP_PLAYERSUMMARY"
+msgid "Equip curios, craft items and view player history"
+msgstr "裝備珍寶、製作物品、查看玩家歷史"
+
+#. UI.MAINSCREEN.TOOLTIP_QUICKJOIN
+msgctxt "UI.MAINSCREEN.TOOLTIP_QUICKJOIN"
+msgid "Jump in and start playing"
+msgstr "立即開始遊戲"
+
+#. UI.MAINSCREEN.TOOLTIP_QUIT
+msgctxt "UI.MAINSCREEN.TOOLTIP_QUIT"
+msgid "Scram!"
+msgstr "離開！"
+
+#. UI.MAINSCREEN.TOOLTIP_WIZARD
+msgctxt "UI.MAINSCREEN.TOOLTIP_WIZARD"
+msgid "Let us help you drill down the list of servers"
+msgstr "讓我們幫你看下伺服器列表"
+
+#. UI.MAINSCREEN.UNKNOWNGAME
+msgctxt "UI.MAINSCREEN.UNKNOWNGAME"
+msgid "Unknown"
+msgstr "未知"
+
+#. UI.MAINSCREEN.UNLOCKEVERYTHING
+msgctxt "UI.MAINSCREEN.UNLOCKEVERYTHING"
+msgid "Unlock Everything"
+msgstr "解鎖全部內容"
+
+#. UI.MAINSCREEN.UPDATENAME
+msgctxt "UI.MAINSCREEN.UPDATENAME"
+msgid "All's Well That Maxwell"
+msgstr "麥斯威爾一切都好"
+
+#. UI.MAINSCREEN.UPDATERELEASED
+msgctxt "UI.MAINSCREEN.UPDATERELEASED"
+msgid "Now Playing:"
+msgstr "現在玩遊戲："
+
+#. UI.MAINSCREEN.VERSION_CHECKING
+msgctxt "UI.MAINSCREEN.VERSION_CHECKING"
+msgid "Checking for update"
+msgstr "檢查更新"
+
+#. UI.MAINSCREEN.VERSION_ERROR
+msgctxt "UI.MAINSCREEN.VERSION_ERROR"
+msgid "Problem checking for latest version"
+msgstr "檢查最新版本出現的問題"
+
+#. UI.MAINSCREEN.VERSION_LATEST
+msgctxt "UI.MAINSCREEN.VERSION_LATEST"
+msgid "Latest Version: %s"
+msgstr "最新版：%s"
+
+#. UI.MAINSCREEN.VERSION_MOREINFO
+msgctxt "UI.MAINSCREEN.VERSION_MOREINFO"
+msgid "Instructions"
+msgstr "指示"
+
+#. UI.MAINSCREEN.VERSION_NOTUPTODATE
+msgctxt "UI.MAINSCREEN.VERSION_NOTUPTODATE"
+msgid "Update required!"
+msgstr "需要更新！"
+
+#. UI.MAINSCREEN.VERSION_OUT_OF_DATE_BODY
+msgctxt "UI.MAINSCREEN.VERSION_OUT_OF_DATE_BODY"
+msgid "Your game looks like it's running an old version. We recommend that you update to the latest version."
+msgstr "你的遊戲看起來是舊版本。我們建議你更新到最新的版本。"
+
+#. UI.MAINSCREEN.VERSION_OUT_OF_DATE_CANCEL
+msgctxt "UI.MAINSCREEN.VERSION_OUT_OF_DATE_CANCEL"
+msgid "Cancel"
+msgstr "取消"
+
+#. UI.MAINSCREEN.VERSION_OUT_OF_DATE_INSTRUCTIONS
+msgctxt "UI.MAINSCREEN.VERSION_OUT_OF_DATE_INSTRUCTIONS"
+msgid "Instructions"
+msgstr "指示"
+
+#. UI.MAINSCREEN.VERSION_OUT_OF_DATE_PLAY
+msgctxt "UI.MAINSCREEN.VERSION_OUT_OF_DATE_PLAY"
+msgid "Play Anyway"
+msgstr "仍然遊戲"
+
+#. UI.MAINSCREEN.VERSION_OUT_OF_DATE_TITLE
+msgctxt "UI.MAINSCREEN.VERSION_OUT_OF_DATE_TITLE"
+msgid "Version Out of Date"
+msgstr "版本過期"
+
+#. UI.MAINSCREEN.VERSION_UPTODATE
+msgctxt "UI.MAINSCREEN.VERSION_UPTODATE"
+msgid "Up to date!"
+msgstr "最新！"
+
+#. UI.MAINSCREEN.VERSION_YOURS
+msgctxt "UI.MAINSCREEN.VERSION_YOURS"
+msgid "Your Version: %s"
+msgstr "你的版本：%s"
+
+#. UI.MAINSCREEN.VISITFORUM
+msgctxt "UI.MAINSCREEN.VISITFORUM"
+msgid "Visit Forum"
+msgstr "訪問論壇"
+
+#. UI.MAINSCREEN.WEGAMEFFLINEMODEDESC
+msgctxt "UI.MAINSCREEN.WEGAMEFFLINEMODEDESC"
+msgid "Couldn't connect to WeGame (scheduled maintenance or connectivity issues). Characters and worlds from online games will be unavailable. Play offline?"
+msgstr "無法連接到WeGame（因為正在進行定期維護或存在連接問題）。線上遊戲的人物和世界不可用。是否進行離線遊戲？"
+
+#. UI.MAINSCREEN.WEGAMEOFFLINEMODE
+msgctxt "UI.MAINSCREEN.WEGAMEOFFLINEMODE"
+msgid "Connection to WeGame Failed"
+msgstr "無法連接到WeGame"
+
+#. UI.MAINSCREEN.YES
+msgctxt "UI.MAINSCREEN.YES"
+msgid "Yes"
+msgstr "是"
+

@@ -1,0 +1,745 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. SIGNS.ADDITIONS.1
+msgctxt "SIGNS.ADDITIONS.1"
+msgid "of Perilousness"
+msgstr "de periculosidade"
+
+#. SIGNS.ADDITIONS.10
+msgctxt "SIGNS.ADDITIONS.10"
+msgid "of Happiness"
+msgstr "de felicidade"
+
+#. SIGNS.ADDITIONS.11
+msgctxt "SIGNS.ADDITIONS.11"
+msgid "of Dreariness"
+msgstr "de tédio"
+
+#. SIGNS.ADDITIONS.12
+msgctxt "SIGNS.ADDITIONS.12"
+msgid "of Death"
+msgstr "da morte"
+
+#. SIGNS.ADDITIONS.13
+msgctxt "SIGNS.ADDITIONS.13"
+msgid "full of Bees"
+msgstr "cheio(as) de abelhas"
+
+#. SIGNS.ADDITIONS.2
+msgctxt "SIGNS.ADDITIONS.2"
+msgid "of Horribleness"
+msgstr "de horripilância"
+
+#. SIGNS.ADDITIONS.3
+msgctxt "SIGNS.ADDITIONS.3"
+msgid "of Loneliness"
+msgstr "de solidão"
+
+#. SIGNS.ADDITIONS.4
+msgctxt "SIGNS.ADDITIONS.4"
+msgid "of Sorrow"
+msgstr "de tristeza"
+
+#. SIGNS.ADDITIONS.5
+msgctxt "SIGNS.ADDITIONS.5"
+msgid "of Danger"
+msgstr "de perigo"
+
+#. SIGNS.ADDITIONS.6
+msgctxt "SIGNS.ADDITIONS.6"
+msgid "of Hunger"
+msgstr "de fome"
+
+#. SIGNS.ADDITIONS.7
+msgctxt "SIGNS.ADDITIONS.7"
+msgid "of Shadows"
+msgstr "das sombras"
+
+#. SIGNS.ADDITIONS.8
+msgctxt "SIGNS.ADDITIONS.8"
+msgid "infested with Monsters"
+msgstr "infestado(as) de monstros"
+
+#. SIGNS.ADDITIONS.9
+msgctxt "SIGNS.ADDITIONS.9"
+msgid "crawling with Horrors"
+msgstr "repleto(as) de horrores"
+
+#. SIGNS.ADJECTIVES.1
+msgctxt "SIGNS.ADJECTIVES.1"
+msgid "Sunny"
+msgstr "Ensolarado(as)"
+
+#. SIGNS.ADJECTIVES.10
+msgctxt "SIGNS.ADJECTIVES.10"
+msgid "Perilous"
+msgstr "Temerário(as)"
+
+#. SIGNS.ADJECTIVES.11
+msgctxt "SIGNS.ADJECTIVES.11"
+msgid "Dangerous"
+msgstr "Perigoso(as)"
+
+#. SIGNS.ADJECTIVES.12
+msgctxt "SIGNS.ADJECTIVES.12"
+msgid "Hazardous"
+msgstr "Arriscado(as)"
+
+#. SIGNS.ADJECTIVES.13
+msgctxt "SIGNS.ADJECTIVES.13"
+msgid "Creepy"
+msgstr "Assustador(as)"
+
+#. SIGNS.ADJECTIVES.14
+msgctxt "SIGNS.ADJECTIVES.14"
+msgid "Empty"
+msgstr "Vazio(as)"
+
+#. SIGNS.ADJECTIVES.15
+msgctxt "SIGNS.ADJECTIVES.15"
+msgid "Lonely"
+msgstr "Solitário(as)"
+
+#. SIGNS.ADJECTIVES.16
+msgctxt "SIGNS.ADJECTIVES.16"
+msgid "Wet"
+msgstr "Molhado(as)"
+
+#. SIGNS.ADJECTIVES.17
+msgctxt "SIGNS.ADJECTIVES.17"
+msgid "Dry"
+msgstr "Secar"
+
+#. SIGNS.ADJECTIVES.18
+msgctxt "SIGNS.ADJECTIVES.18"
+msgid "Huge"
+msgstr "Enorme"
+
+#. SIGNS.ADJECTIVES.19
+msgctxt "SIGNS.ADJECTIVES.19"
+msgid "Small"
+msgstr "Pequeno(as)"
+
+#. SIGNS.ADJECTIVES.2
+msgctxt "SIGNS.ADJECTIVES.2"
+msgid "Danker"
+msgstr "Úmido(as)"
+
+#. SIGNS.ADJECTIVES.20
+msgctxt "SIGNS.ADJECTIVES.20"
+msgid "Little"
+msgstr "Diminuto(as)"
+
+#. SIGNS.ADJECTIVES.21
+msgctxt "SIGNS.ADJECTIVES.21"
+msgid "Picturesque"
+msgstr "Pitoresco(as)"
+
+#. SIGNS.ADJECTIVES.22
+msgctxt "SIGNS.ADJECTIVES.22"
+msgid "Hideous"
+msgstr "Horrendo(as)"
+
+#. SIGNS.ADJECTIVES.23
+msgctxt "SIGNS.ADJECTIVES.23"
+msgid "Dreary"
+msgstr "Sacal"
+
+#. SIGNS.ADJECTIVES.24
+msgctxt "SIGNS.ADJECTIVES.24"
+msgid "Repulsive"
+msgstr "Repulsivo(as)"
+
+#. SIGNS.ADJECTIVES.25
+msgctxt "SIGNS.ADJECTIVES.25"
+msgid "Boring"
+msgstr "Entediante"
+
+#. SIGNS.ADJECTIVES.26
+msgctxt "SIGNS.ADJECTIVES.26"
+msgid "Good"
+msgstr "Bom/Boa"
+
+#. SIGNS.ADJECTIVES.27
+msgctxt "SIGNS.ADJECTIVES.27"
+msgid "Striking"
+msgstr "Impressionante"
+
+#. SIGNS.ADJECTIVES.28
+msgctxt "SIGNS.ADJECTIVES.28"
+msgid "Uninteresting"
+msgstr "Desinteressante"
+
+#. SIGNS.ADJECTIVES.29
+msgctxt "SIGNS.ADJECTIVES.29"
+msgid "Fascinating"
+msgstr "Fascinante"
+
+#. SIGNS.ADJECTIVES.3
+msgctxt "SIGNS.ADJECTIVES.3"
+msgid "Dark"
+msgstr "Escuro(as)"
+
+#. SIGNS.ADJECTIVES.30
+msgctxt "SIGNS.ADJECTIVES.30"
+msgid "Magnificent"
+msgstr "Magnífico(as)"
+
+#. SIGNS.ADJECTIVES.31
+msgctxt "SIGNS.ADJECTIVES.31"
+msgid "Soulless"
+msgstr "Desumano(as)"
+
+#. SIGNS.ADJECTIVES.32
+msgctxt "SIGNS.ADJECTIVES.32"
+msgid "Echoing"
+msgstr "Ecoante"
+
+#. SIGNS.ADJECTIVES.33
+msgctxt "SIGNS.ADJECTIVES.33"
+msgid "Sleepy"
+msgstr "Sonolento(as)"
+
+#. SIGNS.ADJECTIVES.34
+msgctxt "SIGNS.ADJECTIVES.34"
+msgid "Smelly"
+msgstr "Fedorilson"
+
+#. SIGNS.ADJECTIVES.35
+msgctxt "SIGNS.ADJECTIVES.35"
+msgid "Mediocre"
+msgstr "Medíocre"
+
+#. SIGNS.ADJECTIVES.36
+msgctxt "SIGNS.ADJECTIVES.36"
+msgid "Awesome"
+msgstr "Incrível"
+
+#. SIGNS.ADJECTIVES.37
+msgctxt "SIGNS.ADJECTIVES.37"
+msgid "Brilliant"
+msgstr "Brilhante"
+
+#. SIGNS.ADJECTIVES.38
+msgctxt "SIGNS.ADJECTIVES.38"
+msgid "Excellent"
+msgstr "Excelente"
+
+#. SIGNS.ADJECTIVES.4
+msgctxt "SIGNS.ADJECTIVES.4"
+msgid "Morose"
+msgstr "Melancólico(as)"
+
+#. SIGNS.ADJECTIVES.5
+msgctxt "SIGNS.ADJECTIVES.5"
+msgid "Morbid"
+msgstr "Mórbido(as)"
+
+#. SIGNS.ADJECTIVES.6
+msgctxt "SIGNS.ADJECTIVES.6"
+msgid "Awful"
+msgstr "Péssimo(as)"
+
+#. SIGNS.ADJECTIVES.7
+msgctxt "SIGNS.ADJECTIVES.7"
+msgid "Horrible"
+msgstr "Horrível"
+
+#. SIGNS.ADJECTIVES.8
+msgctxt "SIGNS.ADJECTIVES.8"
+msgid "Perfectly Normal"
+msgstr "Perfeitamente normal"
+
+#. SIGNS.ADJECTIVES.9
+msgctxt "SIGNS.ADJECTIVES.9"
+msgid "Ordinary"
+msgstr "Comum"
+
+#. SIGNS.ADJ_NOUN_ADD_FMT
+msgctxt "SIGNS.ADJ_NOUN_ADD_FMT"
+msgid "{adjective} {noun} {addition}"
+msgstr "{noun} {adjective} e {addition}"
+
+#. SIGNS.ADJ_NOUN_FMT
+msgctxt "SIGNS.ADJ_NOUN_FMT"
+msgid "{adjective} {noun}"
+msgstr "{noun} {adjective}"
+
+#. SIGNS.DEFAULT_NOUNS.1
+msgctxt "SIGNS.DEFAULT_NOUNS.1"
+msgid "Spot"
+msgstr "Local"
+
+#. SIGNS.DEFAULT_NOUNS.2
+msgctxt "SIGNS.DEFAULT_NOUNS.2"
+msgid "Area"
+msgstr "Área"
+
+#. SIGNS.DEFAULT_NOUNS.3
+msgctxt "SIGNS.DEFAULT_NOUNS.3"
+msgid "Region"
+msgstr "Região"
+
+#. SIGNS.DEFAULT_NOUNS.4
+msgctxt "SIGNS.DEFAULT_NOUNS.4"
+msgid "Point"
+msgstr "Ponto"
+
+#. SIGNS.DEFAULT_NOUNS.5
+msgctxt "SIGNS.DEFAULT_NOUNS.5"
+msgid "Locality"
+msgstr "Localidade"
+
+#. SIGNS.DEFAULT_NOUNS.6
+msgctxt "SIGNS.DEFAULT_NOUNS.6"
+msgid "Site"
+msgstr "Sítio"
+
+#. SIGNS.MENU.ACCEPT
+msgctxt "SIGNS.MENU.ACCEPT"
+msgid "Write it!"
+msgstr "Escreva!"
+
+#. SIGNS.MENU.CANCEL
+msgctxt "SIGNS.MENU.CANCEL"
+msgid "Cancel"
+msgstr "Cancelar"
+
+#. SIGNS.MENU.FILTERING
+msgctxt "SIGNS.MENU.FILTERING"
+msgid "Validating Message..."
+msgstr "Validando mensagem..."
+
+#. SIGNS.MENU.PROMPT
+msgctxt "SIGNS.MENU.PROMPT"
+msgid "Write on the sign"
+msgstr "Escreva na placa"
+
+#. SIGNS.MENU.PROMPT_BEEFALO
+msgctxt "SIGNS.MENU.PROMPT_BEEFALO"
+msgid "Name This Beef"
+msgstr "Nomear esse Bife"
+
+#. SIGNS.MENU.RANDOM
+msgctxt "SIGNS.MENU.RANDOM"
+msgid "Random"
+msgstr "Aleatório"
+
+#. SIGNS.NOUNS.10.1
+msgctxt "SIGNS.NOUNS.10.1"
+msgid "Place"
+msgstr "Lugar"
+
+#. SIGNS.NOUNS.10.2
+msgctxt "SIGNS.NOUNS.10.2"
+msgid "Corner"
+msgstr "Canto"
+
+#. SIGNS.NOUNS.10.3
+msgctxt "SIGNS.NOUNS.10.3"
+msgid "Spot"
+msgstr "Local"
+
+#. SIGNS.NOUNS.10.4
+msgctxt "SIGNS.NOUNS.10.4"
+msgid "Base"
+msgstr "Base"
+
+#. SIGNS.NOUNS.10.5
+msgctxt "SIGNS.NOUNS.10.5"
+msgid "Hidey-Hole"
+msgstr "Esconderijo"
+
+#. SIGNS.NOUNS.11.1
+msgctxt "SIGNS.NOUNS.11.1"
+msgid "Place"
+msgstr "Lugar"
+
+#. SIGNS.NOUNS.11.2
+msgctxt "SIGNS.NOUNS.11.2"
+msgid "Corner"
+msgstr "Canto"
+
+#. SIGNS.NOUNS.11.3
+msgctxt "SIGNS.NOUNS.11.3"
+msgid "Spot"
+msgstr "Local"
+
+#. SIGNS.NOUNS.11.4
+msgctxt "SIGNS.NOUNS.11.4"
+msgid "Base"
+msgstr "Base"
+
+#. SIGNS.NOUNS.11.5
+msgctxt "SIGNS.NOUNS.11.5"
+msgid "Hidey-Hole"
+msgstr "Esconderijo"
+
+#. SIGNS.NOUNS.11.6
+msgctxt "SIGNS.NOUNS.11.6"
+msgid "Carpet"
+msgstr "Carpete"
+
+#. SIGNS.NOUNS.11.7
+msgctxt "SIGNS.NOUNS.11.7"
+msgid "Rug"
+msgstr "Tapete"
+
+#. SIGNS.NOUNS.12.1
+msgctxt "SIGNS.NOUNS.12.1"
+msgid "Place"
+msgstr "Lugar"
+
+#. SIGNS.NOUNS.12.2
+msgctxt "SIGNS.NOUNS.12.2"
+msgid "Corner"
+msgstr "Canto"
+
+#. SIGNS.NOUNS.12.3
+msgctxt "SIGNS.NOUNS.12.3"
+msgid "Spot"
+msgstr "Local"
+
+#. SIGNS.NOUNS.12.4
+msgctxt "SIGNS.NOUNS.12.4"
+msgid "Base"
+msgstr "Base"
+
+#. SIGNS.NOUNS.12.5
+msgctxt "SIGNS.NOUNS.12.5"
+msgid "Checkerboard"
+msgstr "Tabuleiro de damas"
+
+#. SIGNS.NOUNS.12.6
+msgctxt "SIGNS.NOUNS.12.6"
+msgid "Zone"
+msgstr "Zona"
+
+#. SIGNS.NOUNS.13.1
+msgctxt "SIGNS.NOUNS.13.1"
+msgid "Cave"
+msgstr "Caverna"
+
+#. SIGNS.NOUNS.14.1
+msgctxt "SIGNS.NOUNS.14.1"
+msgid "Cave"
+msgstr "Caverna"
+
+#. SIGNS.NOUNS.15.1
+msgctxt "SIGNS.NOUNS.15.1"
+msgid "Cave"
+msgstr "Caverna"
+
+#. SIGNS.NOUNS.16.1
+msgctxt "SIGNS.NOUNS.16.1"
+msgid "Cave"
+msgstr "Caverna"
+
+#. SIGNS.NOUNS.17.1
+msgctxt "SIGNS.NOUNS.17.1"
+msgid "Cave"
+msgstr "Caverna"
+
+#. SIGNS.NOUNS.18.1
+msgctxt "SIGNS.NOUNS.18.1"
+msgid "Cave"
+msgstr "Caverna"
+
+#. SIGNS.NOUNS.19.1
+msgctxt "SIGNS.NOUNS.19.1"
+msgid "Cave"
+msgstr "Caverna"
+
+#. SIGNS.NOUNS.2.1
+msgctxt "SIGNS.NOUNS.2.1"
+msgid "Road"
+msgstr "Estrada"
+
+#. SIGNS.NOUNS.2.2
+msgctxt "SIGNS.NOUNS.2.2"
+msgid "Path"
+msgstr "Caminho"
+
+#. SIGNS.NOUNS.20.1
+msgctxt "SIGNS.NOUNS.20.1"
+msgid "Cave"
+msgstr "Caverna"
+
+#. SIGNS.NOUNS.21.1
+msgctxt "SIGNS.NOUNS.21.1"
+msgid "Cave"
+msgstr "Caverna"
+
+#. SIGNS.NOUNS.22.1
+msgctxt "SIGNS.NOUNS.22.1"
+msgid "Cave"
+msgstr "Caverna"
+
+#. SIGNS.NOUNS.23.1
+msgctxt "SIGNS.NOUNS.23.1"
+msgid "Cave"
+msgstr "Caverna"
+
+#. SIGNS.NOUNS.24.1
+msgctxt "SIGNS.NOUNS.24.1"
+msgid "Cave"
+msgstr "Caverna"
+
+#. SIGNS.NOUNS.25.1
+msgctxt "SIGNS.NOUNS.25.1"
+msgid "Cave"
+msgstr "Caverna"
+
+#. SIGNS.NOUNS.3.1
+msgctxt "SIGNS.NOUNS.3.1"
+msgid "Crag"
+msgstr "Despenhadeiro"
+
+#. SIGNS.NOUNS.3.2
+msgctxt "SIGNS.NOUNS.3.2"
+msgid "Area"
+msgstr "Área"
+
+#. SIGNS.NOUNS.3.3
+msgctxt "SIGNS.NOUNS.3.3"
+msgid "Region"
+msgstr "Região"
+
+#. SIGNS.NOUNS.3.4
+msgctxt "SIGNS.NOUNS.3.4"
+msgid "Rocky Place"
+msgstr "Lugar rochoso"
+
+#. SIGNS.NOUNS.30.1
+msgctxt "SIGNS.NOUNS.30.1"
+msgid "Forest"
+msgstr "Floresta"
+
+#. SIGNS.NOUNS.30.2
+msgctxt "SIGNS.NOUNS.30.2"
+msgid "Woods"
+msgstr "Bosque"
+
+#. SIGNS.NOUNS.30.3
+msgctxt "SIGNS.NOUNS.30.3"
+msgid "Thicket"
+msgstr "Matagal"
+
+#. SIGNS.NOUNS.30.4
+msgctxt "SIGNS.NOUNS.30.4"
+msgid "Grove"
+msgstr "Arvoredo"
+
+#. SIGNS.NOUNS.31.1
+msgctxt "SIGNS.NOUNS.31.1"
+msgid "Desert"
+msgstr "Deserto"
+
+#. SIGNS.NOUNS.31.2
+msgctxt "SIGNS.NOUNS.31.2"
+msgid "Badlands"
+msgstr "Local ermo"
+
+#. SIGNS.NOUNS.31.3
+msgctxt "SIGNS.NOUNS.31.3"
+msgid "Flats"
+msgstr "Planície"
+
+#. SIGNS.NOUNS.32.1
+msgctxt "SIGNS.NOUNS.32.1"
+msgid "Place"
+msgstr "Lugar"
+
+#. SIGNS.NOUNS.32.2
+msgctxt "SIGNS.NOUNS.32.2"
+msgid "Corner"
+msgstr "Canto"
+
+#. SIGNS.NOUNS.32.3
+msgctxt "SIGNS.NOUNS.32.3"
+msgid "Spot"
+msgstr "Local"
+
+#. SIGNS.NOUNS.32.4
+msgctxt "SIGNS.NOUNS.32.4"
+msgid "Base"
+msgstr "Base"
+
+#. SIGNS.NOUNS.32.5
+msgctxt "SIGNS.NOUNS.32.5"
+msgid "Hidey-Hole"
+msgstr "Esconderijo"
+
+#. SIGNS.NOUNS.32.6
+msgctxt "SIGNS.NOUNS.32.6"
+msgid "Zone"
+msgstr "Zona"
+
+#. SIGNS.NOUNS.32.7
+msgctxt "SIGNS.NOUNS.32.7"
+msgid "Scale"
+msgstr "Escala"
+
+#. SIGNS.NOUNS.4.1
+msgctxt "SIGNS.NOUNS.4.1"
+msgid "Patch"
+msgstr "Remendar"
+
+#. SIGNS.NOUNS.4.2
+msgctxt "SIGNS.NOUNS.4.2"
+msgid "Turf"
+msgstr "Tufo"
+
+#. SIGNS.NOUNS.4.3
+msgctxt "SIGNS.NOUNS.4.3"
+msgid "Area"
+msgstr "Área"
+
+#. SIGNS.NOUNS.4.4
+msgctxt "SIGNS.NOUNS.4.4"
+msgid "Tract"
+msgstr "Extensão"
+
+#. SIGNS.NOUNS.5.1
+msgctxt "SIGNS.NOUNS.5.1"
+msgid "Savannah"
+msgstr "Savana"
+
+#. SIGNS.NOUNS.5.2
+msgctxt "SIGNS.NOUNS.5.2"
+msgid "Grassland"
+msgstr "Campina"
+
+#. SIGNS.NOUNS.5.3
+msgctxt "SIGNS.NOUNS.5.3"
+msgid "Prairie"
+msgstr "Pradaria"
+
+#. SIGNS.NOUNS.6.1
+msgctxt "SIGNS.NOUNS.6.1"
+msgid "Field"
+msgstr "Campo"
+
+#. SIGNS.NOUNS.6.2
+msgctxt "SIGNS.NOUNS.6.2"
+msgid "Pasture"
+msgstr "Pastagem"
+
+#. SIGNS.NOUNS.6.3
+msgctxt "SIGNS.NOUNS.6.3"
+msgid "Meadow"
+msgstr "Prado"
+
+#. SIGNS.NOUNS.6.4
+msgctxt "SIGNS.NOUNS.6.4"
+msgid "Garden"
+msgstr "Jardim"
+
+#. SIGNS.NOUNS.7.1
+msgctxt "SIGNS.NOUNS.7.1"
+msgid "Forest"
+msgstr "Floresta"
+
+#. SIGNS.NOUNS.7.2
+msgctxt "SIGNS.NOUNS.7.2"
+msgid "Woods"
+msgstr "Bosque"
+
+#. SIGNS.NOUNS.7.3
+msgctxt "SIGNS.NOUNS.7.3"
+msgid "Thicket"
+msgstr "Matagal"
+
+#. SIGNS.NOUNS.7.4
+msgctxt "SIGNS.NOUNS.7.4"
+msgid "Grove"
+msgstr "Arvoredo"
+
+#. SIGNS.NOUNS.8.1
+msgctxt "SIGNS.NOUNS.8.1"
+msgid "Marsh"
+msgstr "Charco"
+
+#. SIGNS.NOUNS.8.2
+msgctxt "SIGNS.NOUNS.8.2"
+msgid "Swamp"
+msgstr "Pântano"
+
+#. SIGNS.NOUNS.8.3
+msgctxt "SIGNS.NOUNS.8.3"
+msgid "Bog"
+msgstr "Atoleiro"
+
+#. SIGNS.NOUNS.8.4
+msgctxt "SIGNS.NOUNS.8.4"
+msgid "Fen"
+msgstr "Brejo"
+
+#. SIGNS.NOUNS.9.1
+msgctxt "SIGNS.NOUNS.9.1"
+msgid "Web"
+msgstr "Teia"
+
+#. SIGNS.NOUNS.9.2
+msgctxt "SIGNS.NOUNS.9.2"
+msgid "Cobweb"
+msgstr "Teia de sujeira"
+
+#. SIGNS.QUANTIFIERS.1
+msgctxt "SIGNS.QUANTIFIERS.1"
+msgid "Really"
+msgstr "Mesmo"
+
+#. SIGNS.QUANTIFIERS.2
+msgctxt "SIGNS.QUANTIFIERS.2"
+msgid "Very"
+msgstr "Muito(as)"
+
+#. SIGNS.QUANTIFIERS.3
+msgctxt "SIGNS.QUANTIFIERS.3"
+msgid "Quite"
+msgstr "Bastante"
+
+#. SIGNS.QUANTIFIERS.4
+msgctxt "SIGNS.QUANTIFIERS.4"
+msgid "Very Very"
+msgstr "Muitíssimo"
+
+#. SIGNS.QUANTIFIERS.5
+msgctxt "SIGNS.QUANTIFIERS.5"
+msgid "Extremely"
+msgstr "Extremamente"
+
+#. SIGNS.QUANTIFIERS.6
+msgctxt "SIGNS.QUANTIFIERS.6"
+msgid "Moderately"
+msgstr "Moderadamente"
+
+#. SIGNS.QUANTIFIERS.7
+msgctxt "SIGNS.QUANTIFIERS.7"
+msgid "Minimally"
+msgstr "Minimamente"
+
+#. SIGNS.QUANTIFIERS.8
+msgctxt "SIGNS.QUANTIFIERS.8"
+msgid "Sort of"
+msgstr "Mais ou menos"
+
+#. SIGNS.QUANTIFIERS.9
+msgctxt "SIGNS.QUANTIFIERS.9"
+msgid "Totally"
+msgstr "Totalmente"
+
+#. SIGNS.QUANT_ADJ_NOUN_ADD_FMT
+msgctxt "SIGNS.QUANT_ADJ_NOUN_ADD_FMT"
+msgid "{quantifier} {adjective} {noun} {addition}"
+msgstr "{quantifier} {noun} {adjective} e {addition}"
+
+#. SIGNS.QUANT_ADJ_NOUN_FMT
+msgctxt "SIGNS.QUANT_ADJ_NOUN_FMT"
+msgid "{quantifier} {adjective} {noun}"
+msgstr "{quantifier} {noun} {adjective}"
+

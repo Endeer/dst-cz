@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.HELP.ACCEPT
+msgctxt "UI.HELP.ACCEPT"
+msgid "Accept Changes"
+msgstr "変更を承認"
+
+#. UI.HELP.APPLY
+msgctxt "UI.HELP.APPLY"
+msgid "Apply"
+msgstr "適用"
+
+#. UI.HELP.BACK
+msgctxt "UI.HELP.BACK"
+msgid "Back"
+msgstr "戻る"
+
+#. UI.HELP.CANCEL
+msgctxt "UI.HELP.CANCEL"
+msgid "Cancel"
+msgstr "キャンセル"
+
+#. UI.HELP.CHANGECHARACTER
+msgctxt "UI.HELP.CHANGECHARACTER"
+msgid "Change Character"
+msgstr "キャラクター変更"
+
+#. UI.HELP.CHANGEPAGE
+msgctxt "UI.HELP.CHANGEPAGE"
+msgid "Change Page"
+msgstr "ページ変更"
+
+#. UI.HELP.CHANGEVALUE
+msgctxt "UI.HELP.CHANGEVALUE"
+msgid "Change Value"
+msgstr "値の変更"
+
+#. UI.HELP.CHANGE_MESSAGE
+msgctxt "UI.HELP.CHANGE_MESSAGE"
+msgid "Change Message"
+msgstr "メッセージ変更"
+
+#. UI.HELP.CHANGE_TAB
+msgctxt "UI.HELP.CHANGE_TAB"
+msgid "Change Tab"
+msgstr "タブ変更"
+
+#. UI.HELP.CHANGE_TEXT
+msgctxt "UI.HELP.CHANGE_TEXT"
+msgid "Change Text"
+msgstr "テキスト変更"
+
+#. UI.HELP.CLOSE
+msgctxt "UI.HELP.CLOSE"
+msgid "Close"
+msgstr "閉める"
+
+#. UI.HELP.CONFIGURE
+msgctxt "UI.HELP.CONFIGURE"
+msgid "Configure"
+msgstr "設定"
+
+#. UI.HELP.ENTER_TEXT
+msgctxt "UI.HELP.ENTER_TEXT"
+msgid "Enter Text"
+msgstr "テキスト入力"
+
+#. UI.HELP.NEXT
+msgctxt "UI.HELP.NEXT"
+msgid "Next"
+msgstr "次へ"
+
+#. UI.HELP.NEXTPAGE
+msgctxt "UI.HELP.NEXTPAGE"
+msgid "Next Page"
+msgstr "次のページ"
+
+#. UI.HELP.NEXTVALUE
+msgctxt "UI.HELP.NEXTVALUE"
+msgid "Next Value"
+msgstr "次の数値"
+
+#. UI.HELP.PREV
+msgctxt "UI.HELP.PREV"
+msgid "Previous"
+msgstr "戻る"
+
+#. UI.HELP.PREVPAGE
+msgctxt "UI.HELP.PREVPAGE"
+msgid "Prev. Page"
+msgstr "前のページ"
+
+#. UI.HELP.PREVVALUE
+msgctxt "UI.HELP.PREVVALUE"
+msgid "Previous Value"
+msgstr "以前の数値"
+
+#. UI.HELP.RANDOM
+msgctxt "UI.HELP.RANDOM"
+msgid "Random"
+msgstr "ランダム"
+
+#. UI.HELP.REVERT
+msgctxt "UI.HELP.REVERT"
+msgid "Revert Changes"
+msgstr "変更を取り消す"
+
+#. UI.HELP.ROTATE_LEFT
+msgctxt "UI.HELP.ROTATE_LEFT"
+msgid "Rotate Left"
+msgstr "左に回転"
+
+#. UI.HELP.ROTATE_RIGHT
+msgctxt "UI.HELP.ROTATE_RIGHT"
+msgid "Rotate Right"
+msgstr "右に回転"
+
+#. UI.HELP.SAVEPRESET
+msgctxt "UI.HELP.SAVEPRESET"
+msgid "Save Preset"
+msgstr "プリセット保存"
+
+#. UI.HELP.SCROLL
+msgctxt "UI.HELP.SCROLL"
+msgid "Scroll"
+msgstr "スクロール"
+
+#. UI.HELP.SCROLLBACK
+msgctxt "UI.HELP.SCROLLBACK"
+msgid "Scroll Up"
+msgstr "上へスクロール"
+
+#. UI.HELP.SCROLLFWD
+msgctxt "UI.HELP.SCROLLFWD"
+msgid "Scroll Down"
+msgstr "下へスクロール"
+
+#. UI.HELP.SELECT
+msgctxt "UI.HELP.SELECT"
+msgid "Select"
+msgstr "選択"
+
+#. UI.HELP.SERVERACTIONS
+msgctxt "UI.HELP.SERVERACTIONS"
+msgid "More Server Actions"
+msgstr "その他のサーバーアクション"
+
+#. UI.HELP.SHOWCHAT
+msgctxt "UI.HELP.SHOWCHAT"
+msgid "Show the Chat Tab"
+msgstr "チャットタブを表示"
+
+#. UI.HELP.SHOWPLAYERS
+msgctxt "UI.HELP.SHOWPLAYERS"
+msgid "Show the Players Tab"
+msgstr "プレイヤータブを表示"
+
+#. UI.HELP.TOGGLE
+msgctxt "UI.HELP.TOGGLE"
+msgid "Toggle"
+msgstr "トグル"
+
+#. UI.HELP.VIEWGROUP
+msgctxt "UI.HELP.VIEWGROUP"
+msgid "View Group Page"
+msgstr "グループページを表示"
+
+#. UI.HELP.ZOOM_IN
+msgctxt "UI.HELP.ZOOM_IN"
+msgid "Zoom In"
+msgstr "ズームイン"
+
+#. UI.HELP.ZOOM_OUT
+msgctxt "UI.HELP.ZOOM_OUT"
+msgid "Zoom Out"
+msgstr "ズームアウト"
+

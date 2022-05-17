@@ -1,0 +1,285 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.COOKBOOK.COOKINGTIME_AVERAGE
+msgctxt "UI.COOKBOOK.COOKINGTIME_AVERAGE"
+msgid "Average"
+msgstr "Moyen"
+
+#. UI.COOKBOOK.COOKINGTIME_LONG
+msgctxt "UI.COOKBOOK.COOKINGTIME_LONG"
+msgid "Long"
+msgstr "Long"
+
+#. UI.COOKBOOK.COOKINGTIME_SHORT
+msgctxt "UI.COOKBOOK.COOKINGTIME_SHORT"
+msgid "Short"
+msgstr "Court"
+
+#. UI.COOKBOOK.COOKINGTIME_TITLE
+msgctxt "UI.COOKBOOK.COOKINGTIME_TITLE"
+msgid "Cooking Time"
+msgstr "Temps de cuisson"
+
+#. UI.COOKBOOK.COOKINGTIME_UNKNOWN
+msgctxt "UI.COOKBOOK.COOKINGTIME_UNKNOWN"
+msgid "Unknown"
+msgstr "Inconnu"
+
+#. UI.COOKBOOK.COOKINGTIME_VERY_LONG
+msgctxt "UI.COOKBOOK.COOKINGTIME_VERY_LONG"
+msgid "Very Long"
+msgstr "Très long"
+
+#. UI.COOKBOOK.DISCOVERED_RECIPES
+msgctxt "UI.COOKBOOK.DISCOVERED_RECIPES"
+msgid "Recipes Discovered"
+msgstr "Recettes découvertes"
+
+#. UI.COOKBOOK.FILTER_ALL
+msgctxt "UI.COOKBOOK.FILTER_ALL"
+msgid "All"
+msgstr "Tout"
+
+#. UI.COOKBOOK.FILTER_INCOMPLETE
+msgctxt "UI.COOKBOOK.FILTER_INCOMPLETE"
+msgid "Incomplete"
+msgstr "Incomplet"
+
+#. UI.COOKBOOK.FILTER_MEAT
+msgctxt "UI.COOKBOOK.FILTER_MEAT"
+msgid "Meats"
+msgstr "Viandes"
+
+#. UI.COOKBOOK.FILTER_OTHER
+msgctxt "UI.COOKBOOK.FILTER_OTHER"
+msgid "Other"
+msgstr "Autre"
+
+#. UI.COOKBOOK.FILTER_SIDE_EFFECTS
+msgctxt "UI.COOKBOOK.FILTER_SIDE_EFFECTS"
+msgid "Side Effects"
+msgstr "Effets secondaires"
+
+#. UI.COOKBOOK.FILTER_SPINNERLABEL
+msgctxt "UI.COOKBOOK.FILTER_SPINNERLABEL"
+msgid "Filter By"
+msgstr "Filtre"
+
+#. UI.COOKBOOK.FILTER_VEGGIE
+msgctxt "UI.COOKBOOK.FILTER_VEGGIE"
+msgid "Veggies"
+msgstr "Légumes"
+
+#. UI.COOKBOOK.FOOD_EFFECTS_COLD_FOOD
+msgctxt "UI.COOKBOOK.FOOD_EFFECTS_COLD_FOOD"
+msgid "Cools the body"
+msgstr "Refroidit le corps"
+
+#. UI.COOKBOOK.FOOD_EFFECTS_DRY
+msgctxt "UI.COOKBOOK.FOOD_EFFECTS_DRY"
+msgid "Dissipates moisture"
+msgstr "Chasse l'humidité"
+
+#. UI.COOKBOOK.FOOD_EFFECTS_DUST_MOTH_FOOD
+msgctxt "UI.COOKBOOK.FOOD_EFFECTS_DUST_MOTH_FOOD"
+msgid "Thulecite's secret ingredient"
+msgstr "Ingrédient secret de thulécite"
+
+#. UI.COOKBOOK.FOOD_EFFECTS_ELECTRIC_ATTACK
+msgctxt "UI.COOKBOOK.FOOD_EFFECTS_ELECTRIC_ATTACK"
+msgid "Attacks deal electric damage"
+msgstr "Les attaques infligent des dégâts électriques"
+
+#. UI.COOKBOOK.FOOD_EFFECTS_GLOW
+msgctxt "UI.COOKBOOK.FOOD_EFFECTS_GLOW"
+msgid "Gives off a healthy glow"
+msgstr "Confère une aura saine"
+
+#. UI.COOKBOOK.FOOD_EFFECTS_HEALTH_REGEN
+msgctxt "UI.COOKBOOK.FOOD_EFFECTS_HEALTH_REGEN"
+msgid "Restores health over time"
+msgstr "Régénère de la vie progressivement"
+
+#. UI.COOKBOOK.FOOD_EFFECTS_HOT_FOOD
+msgctxt "UI.COOKBOOK.FOOD_EFFECTS_HOT_FOOD"
+msgid "Warms the body"
+msgstr "Réchauffe le corps"
+
+#. UI.COOKBOOK.FOOD_EFFECTS_HOT_SANITY_REGEN
+msgctxt "UI.COOKBOOK.FOOD_EFFECTS_HOT_SANITY_REGEN"
+msgid "Warms the body and mind"
+msgstr "Réchauffe le corps et l'esprit"
+
+#. UI.COOKBOOK.FOOD_EFFECTS_HUNGER_REGEN
+msgctxt "UI.COOKBOOK.FOOD_EFFECTS_HUNGER_REGEN"
+msgid "Restores hunger over time"
+msgstr "Apaise progressivement la faim"
+
+#. UI.COOKBOOK.FOOD_EFFECTS_NONE
+msgctxt "UI.COOKBOOK.FOOD_EFFECTS_NONE"
+msgid "None"
+msgstr "Aucun"
+
+#. UI.COOKBOOK.FOOD_EFFECTS_SANITY_REGEN
+msgctxt "UI.COOKBOOK.FOOD_EFFECTS_SANITY_REGEN"
+msgid "Restores sanity over time"
+msgstr "Régénère progressivement la santé mentale"
+
+#. UI.COOKBOOK.FOOD_EFFECTS_SLEEP_RESISTANCE
+msgctxt "UI.COOKBOOK.FOOD_EFFECTS_SLEEP_RESISTANCE"
+msgid "Wards off sleep"
+msgstr "Empêche d'avoir sommeil"
+
+#. UI.COOKBOOK.FOOD_EFFECTS_SWAP_HEALTH_AND_SANITY
+msgctxt "UI.COOKBOOK.FOOD_EFFECTS_SWAP_HEALTH_AND_SANITY"
+msgid "Swaps sanity and health"
+msgstr "Échange la santé mentale et la vie"
+
+#. UI.COOKBOOK.FOOD_EFFECTS_TITLE
+msgctxt "UI.COOKBOOK.FOOD_EFFECTS_TITLE"
+msgid "Side Effects"
+msgstr "Effets secondaires"
+
+#. UI.COOKBOOK.FOOD_TYPE_TITLE
+msgctxt "UI.COOKBOOK.FOOD_TYPE_TITLE"
+msgid "Type"
+msgstr "Type"
+
+#. UI.COOKBOOK.FOOD_TYPE_UNKNOWN
+msgctxt "UI.COOKBOOK.FOOD_TYPE_UNKNOWN"
+msgid "?"
+msgstr "?"
+
+#. UI.COOKBOOK.LOCKED_RECIPE.cookpot
+msgctxt "UI.COOKBOOK.LOCKED_RECIPE.cookpot"
+msgid "Experiment with ingredients in the Crock Pot to discover new recipes and expand your cookbook."
+msgstr "Essayez de combiner différents ingrédients dans la marmite pour découvrir de nouvelles recettes et compléter votre livre de recettes."
+
+#. UI.COOKBOOK.LOCKED_RECIPE.portablecookpot
+msgctxt "UI.COOKBOOK.LOCKED_RECIPE.portablecookpot"
+msgid "Experiment with ingredients in Warly's Portable Crock Pot to discover new recipes and expand your cookbook."
+msgstr "Essayez de combiner différents ingrédients dans la marmite portable de Warly pour découvrir de nouvelles recettes et compléter votre livre de recettes."
+
+#. UI.COOKBOOK.LOCKED_STATS
+msgctxt "UI.COOKBOOK.LOCKED_STATS"
+msgid "This food requires a taste test to learn more."
+msgstr "Cette nourriture doit être goûtée pour en savoir plus."
+
+#. UI.COOKBOOK.NO_RECIPES_DESC
+msgctxt "UI.COOKBOOK.NO_RECIPES_DESC"
+msgid "Experiment with different ingredients to discover a recipe."
+msgstr "Testez différents ingrédients pour découvrir une recette."
+
+#. UI.COOKBOOK.NO_RECIPES_TITLE
+msgctxt "UI.COOKBOOK.NO_RECIPES_TITLE"
+msgid "Recipes"
+msgstr "Recettes"
+
+#. UI.COOKBOOK.ONLINE_DATA_DOWNLOAD_FAILED
+msgctxt "UI.COOKBOOK.ONLINE_DATA_DOWNLOAD_FAILED"
+msgid "Failed to sync online cookbook data."
+msgstr "Échec de la synchronisation en ligne des données du livre de recettes."
+
+#. UI.COOKBOOK.ONLINE_DATA_USER_OFFLINE
+msgctxt "UI.COOKBOOK.ONLINE_DATA_USER_OFFLINE"
+msgid "Login to retrieve online cookbook data."
+msgstr "Connectez-vous pour récupérer les données en ligne du livre de recettes."
+
+#. UI.COOKBOOK.PERISH_AVERAGE
+msgctxt "UI.COOKBOOK.PERISH_AVERAGE"
+msgid "Average"
+msgstr "Moyenne"
+
+#. UI.COOKBOOK.PERISH_NEVER
+msgctxt "UI.COOKBOOK.PERISH_NEVER"
+msgid "Never"
+msgstr "Jamais"
+
+#. UI.COOKBOOK.PERISH_QUICKLY
+msgctxt "UI.COOKBOOK.PERISH_QUICKLY"
+msgid "Quickly"
+msgstr "Courte"
+
+#. UI.COOKBOOK.PERISH_RATE_TITLE
+msgctxt "UI.COOKBOOK.PERISH_RATE_TITLE"
+msgid "Spoils"
+msgstr "Durée de conservation"
+
+#. UI.COOKBOOK.PERISH_SLOWLY
+msgctxt "UI.COOKBOOK.PERISH_SLOWLY"
+msgid "Slowly"
+msgstr "Longue"
+
+#. UI.COOKBOOK.PERISH_VERY_SLOWLY
+msgctxt "UI.COOKBOOK.PERISH_VERY_SLOWLY"
+msgid "Very Slowly"
+msgstr "Très longue"
+
+#. UI.COOKBOOK.SORT_ALPHABETICAL
+msgctxt "UI.COOKBOOK.SORT_ALPHABETICAL"
+msgid "Alphabetical"
+msgstr "Alphabétique"
+
+#. UI.COOKBOOK.SORT_DEFAULT
+msgctxt "UI.COOKBOOK.SORT_DEFAULT"
+msgid "Default"
+msgstr "Par défaut"
+
+#. UI.COOKBOOK.SORT_HEALTH
+msgctxt "UI.COOKBOOK.SORT_HEALTH"
+msgid "Health"
+msgstr "Vie"
+
+#. UI.COOKBOOK.SORT_HUNGER
+msgctxt "UI.COOKBOOK.SORT_HUNGER"
+msgid "Hunger"
+msgstr "Faim"
+
+#. UI.COOKBOOK.SORT_SANITY
+msgctxt "UI.COOKBOOK.SORT_SANITY"
+msgid "Sanity"
+msgstr "Santé mentale"
+
+#. UI.COOKBOOK.SORT_SIDE_EFFECTS
+msgctxt "UI.COOKBOOK.SORT_SIDE_EFFECTS"
+msgid "Side Effects"
+msgstr "Effets secondaires"
+
+#. UI.COOKBOOK.SORT_SPINNERLABEL
+msgctxt "UI.COOKBOOK.SORT_SPINNERLABEL"
+msgid "Sort By"
+msgstr "Trier"
+
+#. UI.COOKBOOK.STAT_UNKNOWN
+msgctxt "UI.COOKBOOK.STAT_UNKNOWN"
+msgid "?"
+msgstr "?"
+
+#. UI.COOKBOOK.TAB_TITLE_COOKPOT
+msgctxt "UI.COOKBOOK.TAB_TITLE_COOKPOT"
+msgid "Crock Pot Recipes"
+msgstr "Recettes de marmite"
+
+#. UI.COOKBOOK.TAB_TITLE_MOD_RECIPES
+msgctxt "UI.COOKBOOK.TAB_TITLE_MOD_RECIPES"
+msgid "Mod Recipes"
+msgstr "Recettes de mods"
+
+#. UI.COOKBOOK.TAB_TITLE_PORTABLECOOKPOT
+msgctxt "UI.COOKBOOK.TAB_TITLE_PORTABLECOOKPOT"
+msgid "Chef's Specials"
+msgstr "Spécialités du chef"
+
+#. UI.COOKBOOK.UNKNOWN_FOOD_NAME
+msgctxt "UI.COOKBOOK.UNKNOWN_FOOD_NAME"
+msgid "Unknown '{food}'"
+msgstr "Inconnu '{food}'"
+
+#. UI.COOKBOOK.UNKNOWN_INGREDIENT_NAME
+msgctxt "UI.COOKBOOK.UNKNOWN_INGREDIENT_NAME"
+msgid "Unknown Ingredient '{ingredient}'"
+msgstr "Ingrédient inconnu '{ingredient}'"
+

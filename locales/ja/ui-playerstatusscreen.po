@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.PLAYERSTATUSSCREEN.ADMIN
+msgctxt "UI.PLAYERSTATUSSCREEN.ADMIN"
+msgid "Admin"
+msgstr "管理者"
+
+#. UI.PLAYERSTATUSSCREEN.AFK
+msgctxt "UI.PLAYERSTATUSSCREEN.AFK"
+msgid "Away"
+msgstr "離席中"
+
+#. UI.PLAYERSTATUSSCREEN.AGE_DAY
+msgctxt "UI.PLAYERSTATUSSCREEN.AGE_DAY"
+msgid " Day"
+msgstr " 日目"
+
+#. UI.PLAYERSTATUSSCREEN.AGE_DAYS
+msgctxt "UI.PLAYERSTATUSSCREEN.AGE_DAYS"
+msgid " Days"
+msgstr " 日目"
+
+#. UI.PLAYERSTATUSSCREEN.AGE_PREFIX
+msgctxt "UI.PLAYERSTATUSSCREEN.AGE_PREFIX"
+msgid "Day "
+msgstr "日目"
+
+#. UI.PLAYERSTATUSSCREEN.BAN
+msgctxt "UI.PLAYERSTATUSSCREEN.BAN"
+msgid "Ban"
+msgstr "追放"
+
+#. UI.PLAYERSTATUSSCREEN.BANCONFIRM_BODY
+msgctxt "UI.PLAYERSTATUSSCREEN.BANCONFIRM_BODY"
+msgid "Are you sure you want to ban and kick"
+msgstr "このプレイヤーを本当に追放しますか？："
+
+#. UI.PLAYERSTATUSSCREEN.BANCONFIRM_TITLE
+msgctxt "UI.PLAYERSTATUSSCREEN.BANCONFIRM_TITLE"
+msgid "Ban"
+msgstr "追放"
+
+#. UI.PLAYERSTATUSSCREEN.CANCEL
+msgctxt "UI.PLAYERSTATUSSCREEN.CANCEL"
+msgid "Cancel"
+msgstr "キャンセル"
+
+#. UI.PLAYERSTATUSSCREEN.CLEAR
+msgctxt "UI.PLAYERSTATUSSCREEN.CLEAR"
+msgid "Remove Player"
+msgstr "プレイヤーをクリア"
+
+#. UI.PLAYERSTATUSSCREEN.COMMANDCANNOTSTART.COOLDOWN
+msgctxt "UI.PLAYERSTATUSSCREEN.COMMANDCANNOTSTART.COOLDOWN"
+msgid "You cannot use this command again yet."
+msgstr "このコマンドを再度使用するには、もうしばらくお待ちください。"
+
+#. UI.PLAYERSTATUSSCREEN.EMPTY_SERVER
+msgctxt "UI.PLAYERSTATUSSCREEN.EMPTY_SERVER"
+msgid "The server is empty."
+msgstr "このサーバーは無人です。"
+
+#. UI.PLAYERSTATUSSCREEN.ENDLESS
+msgctxt "UI.PLAYERSTATUSSCREEN.ENDLESS"
+msgid "Endless"
+msgstr "エンドレス"
+
+#. UI.PLAYERSTATUSSCREEN.KICK
+msgctxt "UI.PLAYERSTATUSSCREEN.KICK"
+msgid "Kick"
+msgstr "一時追放"
+
+#. UI.PLAYERSTATUSSCREEN.KICKCONFIRM_BODY
+msgctxt "UI.PLAYERSTATUSSCREEN.KICKCONFIRM_BODY"
+msgid "Are you sure you want to kick"
+msgstr "このプレイヤーを本当に一時追放しますか？："
+
+#. UI.PLAYERSTATUSSCREEN.KICKCONFIRM_TITLE
+msgctxt "UI.PLAYERSTATUSSCREEN.KICKCONFIRM_TITLE"
+msgid "Kick"
+msgstr "一時追放"
+
+#. UI.PLAYERSTATUSSCREEN.LAVAARENA_SERVER_MODE
+msgctxt "UI.PLAYERSTATUSSCREEN.LAVAARENA_SERVER_MODE"
+msgid "{mode} - Round {num}"
+msgstr "{mode} -ラウンド{num}"
+
+#. UI.PLAYERSTATUSSCREEN.LOBBY_PERF_LEVELS.1
+msgctxt "UI.PLAYERSTATUSSCREEN.LOBBY_PERF_LEVELS.1"
+msgid "Connection: Good"
+msgstr "接続:良い"
+
+#. UI.PLAYERSTATUSSCREEN.LOBBY_PERF_LEVELS.2
+msgctxt "UI.PLAYERSTATUSSCREEN.LOBBY_PERF_LEVELS.2"
+msgid "Connection: Okay"
+msgstr "接続:OK"
+
+#. UI.PLAYERSTATUSSCREEN.LOBBY_PERF_LEVELS.3
+msgctxt "UI.PLAYERSTATUSSCREEN.LOBBY_PERF_LEVELS.3"
+msgid "Connection: Bad"
+msgstr "接続:悪い"
+
+#. UI.PLAYERSTATUSSCREEN.MODSLISTPRE
+msgctxt "UI.PLAYERSTATUSSCREEN.MODSLISTPRE"
+msgid "Mods:"
+msgstr "MOD："
+
+#. UI.PLAYERSTATUSSCREEN.MUTE
+msgctxt "UI.PLAYERSTATUSSCREEN.MUTE"
+msgid "Mute"
+msgstr "ミュート"
+
+#. UI.PLAYERSTATUSSCREEN.OK
+msgctxt "UI.PLAYERSTATUSSCREEN.OK"
+msgid "Do it!"
+msgstr "OK"
+
+#. UI.PLAYERSTATUSSCREEN.PERF_CLIENT_LEVELS.1
+msgctxt "UI.PLAYERSTATUSSCREEN.PERF_CLIENT_LEVELS.1"
+msgid "Client Performance: Good"
+msgstr "クライアントパフォーマンス：良い"
+
+#. UI.PLAYERSTATUSSCREEN.PERF_CLIENT_LEVELS.2
+msgctxt "UI.PLAYERSTATUSSCREEN.PERF_CLIENT_LEVELS.2"
+msgid "Client Performance: Okay"
+msgstr "クライアントパフォーマンス：OK"
+
+#. UI.PLAYERSTATUSSCREEN.PERF_CLIENT_LEVELS.3
+msgctxt "UI.PLAYERSTATUSSCREEN.PERF_CLIENT_LEVELS.3"
+msgid "Client Performance: Bad"
+msgstr "クライアントパフォーマンス：悪い"
+
+#. UI.PLAYERSTATUSSCREEN.PERF_CLIENT_LEVEL_UNKNOWN
+msgctxt "UI.PLAYERSTATUSSCREEN.PERF_CLIENT_LEVEL_UNKNOWN"
+msgid "Client Performance: Unknown"
+msgstr "クライアントパフォーマンス：不明"
+
+#. UI.PLAYERSTATUSSCREEN.PERF_HOST_LEVELS.1
+msgctxt "UI.PLAYERSTATUSSCREEN.PERF_HOST_LEVELS.1"
+msgid "Host Performance: Good"
+msgstr "ホストパフォーマンス：良い"
+
+#. UI.PLAYERSTATUSSCREEN.PERF_HOST_LEVELS.2
+msgctxt "UI.PLAYERSTATUSSCREEN.PERF_HOST_LEVELS.2"
+msgid "Host Performance: Okay"
+msgstr "ホストパフォーマンス：OK"
+
+#. UI.PLAYERSTATUSSCREEN.PERF_HOST_LEVELS.3
+msgctxt "UI.PLAYERSTATUSSCREEN.PERF_HOST_LEVELS.3"
+msgid "Host Performance: Bad"
+msgstr "ホストパフォーマンス：悪い"
+
+#. UI.PLAYERSTATUSSCREEN.SURVIVAL
+msgctxt "UI.PLAYERSTATUSSCREEN.SURVIVAL"
+msgid "Survival"
+msgstr "サバイバル"
+
+#. UI.PLAYERSTATUSSCREEN.UNMUTE
+msgctxt "UI.PLAYERSTATUSSCREEN.UNMUTE"
+msgid "Unmute"
+msgstr "ミュート解除"
+
+#. UI.PLAYERSTATUSSCREEN.USERACTIONS
+msgctxt "UI.PLAYERSTATUSSCREEN.USERACTIONS"
+msgid "More Actions..."
+msgstr "その他のアクション…"
+
+#. UI.PLAYERSTATUSSCREEN.VIEWGAMERCARD
+msgctxt "UI.PLAYERSTATUSSCREEN.VIEWGAMERCARD"
+msgid "Show Gamercard"
+msgstr "ゲームカードを表示"
+
+#. UI.PLAYERSTATUSSCREEN.VIEWPROFILE
+msgctxt "UI.PLAYERSTATUSSCREEN.VIEWPROFILE"
+msgid "View Player"
+msgstr "プレイヤー情報を確認"
+
+#. UI.PLAYERSTATUSSCREEN.VOTEACTIVEHOVER
+msgctxt "UI.PLAYERSTATUSSCREEN.VOTEACTIVEHOVER"
+msgid "Vote In Progress"
+msgstr "投票中"
+
+#. UI.PLAYERSTATUSSCREEN.VOTECANNOTSTART.MINPLAYERS
+msgctxt "UI.PLAYERSTATUSSCREEN.VOTECANNOTSTART.MINPLAYERS"
+msgid "Not enough players to start a vote."
+msgstr "プレイヤー数が足りないため、投票を開始できません。"
+
+#. UI.PLAYERSTATUSSCREEN.VOTECANNOTSTART.MINSTARTAGE
+msgctxt "UI.PLAYERSTATUSSCREEN.VOTECANNOTSTART.MINSTARTAGE"
+msgid "You have not played long enough to start a vote."
+msgstr "プレイ開始直後のため、投票を開始できません。"
+
+#. UI.PLAYERSTATUSSCREEN.VOTEHOVERFMT
+msgctxt "UI.PLAYERSTATUSSCREEN.VOTEHOVERFMT"
+msgid "Vote to %s"
+msgstr "%sの投票"
+
+#. UI.PLAYERSTATUSSCREEN.VOTESQUELCHEDHOVER
+msgctxt "UI.PLAYERSTATUSSCREEN.VOTESQUELCHEDHOVER"
+msgid "You are currently on timeout for failed votes."
+msgstr "投票が否決されたため、しばらく新規の投票を開始できません。"
+
+#. UI.PLAYERSTATUSSCREEN.WILDERNESS
+msgctxt "UI.PLAYERSTATUSSCREEN.WILDERNESS"
+msgid "Wilderness"
+msgstr "ワイルドワールド"
+

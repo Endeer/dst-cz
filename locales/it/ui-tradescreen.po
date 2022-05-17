@@ -1,0 +1,1200 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.TRADESCREEN.ACCEPT
+msgctxt "UI.TRADESCREEN.ACCEPT"
+msgid "Accept"
+msgstr "Accetta"
+
+#. UI.TRADESCREEN.BACK
+msgctxt "UI.TRADESCREEN.BACK"
+msgid "Back"
+msgstr "Indietro"
+
+#. UI.TRADESCREEN.BASE
+msgctxt "UI.TRADESCREEN.BASE"
+msgid "Head"
+msgstr "Testa"
+
+#. UI.TRADESCREEN.BIRDS
+msgctxt "UI.TRADESCREEN.BIRDS"
+msgid "Curiosities"
+msgstr "Curiosità"
+
+#. UI.TRADESCREEN.BIRDS_TITLE_SUB
+msgctxt "UI.TRADESCREEN.BIRDS_TITLE_SUB"
+msgid "(Curio Collector Games)"
+msgstr "(Giochi Collezionista di curiosità)"
+
+#. UI.TRADESCREEN.BODY
+msgctxt "UI.TRADESCREEN.BODY"
+msgid "Body"
+msgstr "Corpo"
+
+#. UI.TRADESCREEN.CANCEL
+msgctxt "UI.TRADESCREEN.CANCEL"
+msgid "Cancel"
+msgstr "Annulla"
+
+#. UI.TRADESCREEN.CHECK
+msgctxt "UI.TRADESCREEN.CHECK"
+msgid "Warning!"
+msgstr "Attenzione!"
+
+#. UI.TRADESCREEN.CROW
+msgctxt "UI.TRADESCREEN.CROW"
+msgid "Chase Crow"
+msgstr "Scaccia corvo"
+
+#. UI.TRADESCREEN.CROWKID_GAME.GAME_OVER_POPUP_BODY_100
+msgctxt "UI.TRADESCREEN.CROWKID_GAME.GAME_OVER_POPUP_BODY_100"
+msgid "You've collected all of the junk. Thanks a million."
+msgstr "Hai trovato tutta la spazzatura. Grazie infinite."
+
+#. UI.TRADESCREEN.CROWKID_GAME.GAME_OVER_POPUP_BODY_25
+msgctxt "UI.TRADESCREEN.CROWKID_GAME.GAME_OVER_POPUP_BODY_25"
+msgid "You've collected 25 pieces of junk. That's a good start."
+msgstr "Hai trovato 25 pezzi di spazzatura. È un buon inizio."
+
+#. UI.TRADESCREEN.CROWKID_GAME.GAME_OVER_POPUP_TITLE
+msgctxt "UI.TRADESCREEN.CROWKID_GAME.GAME_OVER_POPUP_TITLE"
+msgid "Thanks for tidyin'"
+msgstr "Grazie per aver fatto pulizia"
+
+#. UI.TRADESCREEN.CROWKID_GAME.GAME_SCORE
+msgctxt "UI.TRADESCREEN.CROWKID_GAME.GAME_SCORE"
+msgid "Junk Found: "
+msgstr "Spazzatura trovata: "
+
+#. UI.TRADESCREEN.CROWKID_GAME.HELP
+msgctxt "UI.TRADESCREEN.CROWKID_GAME.HELP"
+msgid "Help"
+msgstr "Aiuto"
+
+#. UI.TRADESCREEN.CROWKID_GAME.HELP_BODY
+msgctxt "UI.TRADESCREEN.CROWKID_GAME.HELP_BODY"
+msgid "The Crows left a mess in the maze after last year's Cawnival. Move around the maze to pick up all of the leftover junk."
+msgstr "Dopo il cranevale dell'anno scorso, i corvi hanno lasciato il labirinto in condizioni pietose. Cammina al suo interno per prendere tutta la spazzatura rimasta."
+
+#. UI.TRADESCREEN.CROWKID_GAME.HELP_TITLE
+msgctxt "UI.TRADESCREEN.CROWKID_GAME.HELP_TITLE"
+msgid "A Mess of a Maze"
+msgstr "Labirinto nello scompiglio"
+
+#. UI.TRADESCREEN.CROWKID_GAME.OPEN_GIFT
+msgctxt "UI.TRADESCREEN.CROWKID_GAME.OPEN_GIFT"
+msgid "Open Gift"
+msgstr "Apri regalo"
+
+#. UI.TRADESCREEN.CROWKID_GAME.REPORTING
+msgctxt "UI.TRADESCREEN.CROWKID_GAME.REPORTING"
+msgid "Reporting tidying up'..."
+msgstr "Rapporto sulle pulizie..."
+
+#. UI.TRADESCREEN.CROWKID_GAME.STEPS
+msgctxt "UI.TRADESCREEN.CROWKID_GAME.STEPS"
+msgid "Steps Taken: "
+msgstr "Passi effettuati: "
+
+#. UI.TRADESCREEN.CROWKID_GAME.THANKS
+msgctxt "UI.TRADESCREEN.CROWKID_GAME.THANKS"
+msgid "Thanks for tidyin'"
+msgstr "Grazie per aver fatto pulizia"
+
+#. UI.TRADESCREEN.CROW_GAME.GAME_OVER_POPUP_BODY
+msgctxt "UI.TRADESCREEN.CROW_GAME.GAME_OVER_POPUP_BODY"
+msgid "Great job tidyin' up.\nYou completed {moves} moves, for a score of {score}!"
+msgstr "Hai riordinato tutto, ottimo lavoro.\nHai completato {moves} mosse, per un punteggio di {score}!"
+
+#. UI.TRADESCREEN.CROW_GAME.GAME_OVER_POPUP_TITLE
+msgctxt "UI.TRADESCREEN.CROW_GAME.GAME_OVER_POPUP_TITLE"
+msgid "All done tidyin'"
+msgstr "Non c'è più niente da riordinare"
+
+#. UI.TRADESCREEN.CROW_GAME.GAME_SCORE
+msgctxt "UI.TRADESCREEN.CROW_GAME.GAME_SCORE"
+msgid "Game Score: "
+msgstr "Punteggio di gioco: "
+
+#. UI.TRADESCREEN.CROW_GAME.HELP
+msgctxt "UI.TRADESCREEN.CROW_GAME.HELP"
+msgid "Help"
+msgstr "Aiuto"
+
+#. UI.TRADESCREEN.CROW_GAME.HELP_BODY
+msgctxt "UI.TRADESCREEN.CROW_GAME.HELP_BODY"
+msgid "Oh crow!\nA murder of feathered fiends has gotten their claws into the Curio Collector's prized collection of candy wrappers!\n\nHelp him scare away the crows by matching adjacent pairs of wrappers. Use tools to help clear big groups of wrappers and crows to improve your score. Clearing 10 or more tiles will grant you a bonus tool."
+msgstr "Mannaggia ai corvi!\nUno stormo di demoni piumati ha messo gli artigli sulla preziosa collezione di incarti di caramelle del Collezionista di curiosità!\n\nAiutalo a spaventarli e a farli scappare via creando coppie di incarti vicini. Usa gli utensili per eliminare grossi gruppi di incarti e corvi, e migliorare così il tuo punteggio. Se eliminerai 10 o più tessere otterrai un utensile bonus."
+
+#. UI.TRADESCREEN.CROW_GAME.HELP_TITLE
+msgctxt "UI.TRADESCREEN.CROW_GAME.HELP_TITLE"
+msgid "Ravin' Wrapper Raiders"
+msgstr "Scarta i corvi"
+
+#. UI.TRADESCREEN.CROW_GAME.HIGH_SCORE
+msgctxt "UI.TRADESCREEN.CROW_GAME.HIGH_SCORE"
+msgid "High Score: "
+msgstr "Record: "
+
+#. UI.TRADESCREEN.CROW_GAME.MOVE_SCORE
+msgctxt "UI.TRADESCREEN.CROW_GAME.MOVE_SCORE"
+msgid "Last Move Score: "
+msgstr "Punteggio ultima mossa: "
+
+#. UI.TRADESCREEN.CROW_GAME.OPEN_GIFT
+msgctxt "UI.TRADESCREEN.CROW_GAME.OPEN_GIFT"
+msgid "Open Gift"
+msgstr "Apri regalo"
+
+#. UI.TRADESCREEN.CROW_GAME.POWERUP_NAME.cane
+msgctxt "UI.TRADESCREEN.CROW_GAME.POWERUP_NAME.cane"
+msgid "Cane"
+msgstr "Bastone"
+
+#. UI.TRADESCREEN.CROW_GAME.POWERUP_NAME.gunpowder
+msgctxt "UI.TRADESCREEN.CROW_GAME.POWERUP_NAME.gunpowder"
+msgid "Gunpowder"
+msgstr "Polvere da sparo"
+
+#. UI.TRADESCREEN.CROW_GAME.POWERUP_NAME.seeds
+msgctxt "UI.TRADESCREEN.CROW_GAME.POWERUP_NAME.seeds"
+msgid "Seeds"
+msgstr "Semi"
+
+#. UI.TRADESCREEN.CROW_GAME.POWERUP_NAME.shovel
+msgctxt "UI.TRADESCREEN.CROW_GAME.POWERUP_NAME.shovel"
+msgid "Shovel"
+msgstr "Pala"
+
+#. UI.TRADESCREEN.CROW_GAME.POWERUP_NAME.spear
+msgctxt "UI.TRADESCREEN.CROW_GAME.POWERUP_NAME.spear"
+msgid "Spear"
+msgstr "Lancia"
+
+#. UI.TRADESCREEN.CROW_GAME.REPORTING
+msgctxt "UI.TRADESCREEN.CROW_GAME.REPORTING"
+msgid "Reporting wrapper tidyin'..."
+msgstr "Rapporto sugli incarti..."
+
+#. UI.TRADESCREEN.CROW_GAME.THANKS
+msgctxt "UI.TRADESCREEN.CROW_GAME.THANKS"
+msgid "Thanks for tidyin' up!"
+msgstr "Grazie per aver riordinato tutto!"
+
+#. UI.TRADESCREEN.DAYS_REMAINING
+msgctxt "UI.TRADESCREEN.DAYS_REMAINING"
+msgid "Days Remaining"
+msgstr "Giorni rimasti"
+
+#. UI.TRADESCREEN.DAY_REMAINING
+msgctxt "UI.TRADESCREEN.DAY_REMAINING"
+msgid "Day Remaining"
+msgstr "Giorno rimasto"
+
+#. UI.TRADESCREEN.ENDING_SOON
+msgctxt "UI.TRADESCREEN.ENDING_SOON"
+msgid "Ending Soon"
+msgstr "Termina subito"
+
+#. UI.TRADESCREEN.EQUIPPED
+msgctxt "UI.TRADESCREEN.EQUIPPED"
+msgid "Last one!"
+msgstr "L'ultimo!"
+
+#. UI.TRADESCREEN.FEET
+msgctxt "UI.TRADESCREEN.FEET"
+msgid "Feet"
+msgstr "Piedi"
+
+#. UI.TRADESCREEN.HAND
+msgctxt "UI.TRADESCREEN.HAND"
+msgid "Hands"
+msgstr "Mani"
+
+#. UI.TRADESCREEN.KITCOON_GAME.ABANDONED_BODY
+msgctxt "UI.TRADESCREEN.KITCOON_GAME.ABANDONED_BODY"
+msgid "Sadly, {name} was feeling neglected. They went looking for the affection, food and tidier home that they felt they deserved."
+msgstr "Purtroppo, {name} si sentiva trascurato. È andato a cercare l'affetto, il cibo e una casa più ordinata che pensa di meritare."
+
+#. UI.TRADESCREEN.KITCOON_GAME.ABANDONED_TITLE
+msgctxt "UI.TRADESCREEN.KITCOON_GAME.ABANDONED_TITLE"
+msgid "{name} has abandoned you."
+msgstr "{name} ti ha abbandonato."
+
+#. UI.TRADESCREEN.KITCOON_GAME.CLEAR_POOP
+msgctxt "UI.TRADESCREEN.KITCOON_GAME.CLEAR_POOP"
+msgid "Clear Poop"
+msgstr "Pulisci la cacca"
+
+#. UI.TRADESCREEN.KITCOON_GAME.FEED
+msgctxt "UI.TRADESCREEN.KITCOON_GAME.FEED"
+msgid "Feed {name}"
+msgstr "Nutri {name}"
+
+#. UI.TRADESCREEN.KITCOON_GAME.HELP_TITLE
+msgctxt "UI.TRADESCREEN.KITCOON_GAME.HELP_TITLE"
+msgid "Collar Me Impressed"
+msgstr "Un collare da favola"
+
+#. UI.TRADESCREEN.KITCOON_GAME.HIBERNATE
+msgctxt "UI.TRADESCREEN.KITCOON_GAME.HIBERNATE"
+msgid "Send {name} to hibernate"
+msgstr "Manda {name} in letargo"
+
+#. UI.TRADESCREEN.KITCOON_GAME.HIBERNATING
+msgctxt "UI.TRADESCREEN.KITCOON_GAME.HIBERNATING"
+msgid "{name} is hibernating."
+msgstr "{name} è in letargo."
+
+#. UI.TRADESCREEN.KITCOON_GAME.NAME_AGE
+msgctxt "UI.TRADESCREEN.KITCOON_GAME.NAME_AGE"
+msgid "{name} is {age} days old."
+msgstr "{name} ha {age} giorni."
+
+#. UI.TRADESCREEN.KITCOON_GAME.NAME_POPUP_BODY
+msgctxt "UI.TRADESCREEN.KITCOON_GAME.NAME_POPUP_BODY"
+msgid "Any name is great, but pick one that is meaningful to you!"
+msgstr "Qualsiasi nome va bene, ma scegline uno che trovi significativo!"
+
+#. UI.TRADESCREEN.KITCOON_GAME.NAME_POPUP_TITLE
+msgctxt "UI.TRADESCREEN.KITCOON_GAME.NAME_POPUP_TITLE"
+msgid "Name your Kitcoon"
+msgstr "Dai un nome al tuo miciorsetto"
+
+#. UI.TRADESCREEN.KITCOON_GAME.OKAY
+msgctxt "UI.TRADESCREEN.KITCOON_GAME.OKAY"
+msgid "Okay"
+msgstr "Ok"
+
+#. UI.TRADESCREEN.KITCOON_GAME.PICKUP_NAMETAG
+msgctxt "UI.TRADESCREEN.KITCOON_GAME.PICKUP_NAMETAG"
+msgid "Pick up Kit Collar"
+msgstr "Prendi il collare per miciorsetto"
+
+#. UI.TRADESCREEN.KITCOON_GAME.PLAY_WITH
+msgctxt "UI.TRADESCREEN.KITCOON_GAME.PLAY_WITH"
+msgid "Play with {name}"
+msgstr "Gioca con {name}"
+
+#. UI.TRADESCREEN.KITCOON_GAME.WAKE
+msgctxt "UI.TRADESCREEN.KITCOON_GAME.WAKE"
+msgid "Wake {name} from hibernation"
+msgstr "Sveglia {name} dal letargo"
+
+#. UI.TRADESCREEN.LEGS
+msgctxt "UI.TRADESCREEN.LEGS"
+msgid "Legs"
+msgstr "Gambe"
+
+#. UI.TRADESCREEN.LESS_THAN_DAY
+msgctxt "UI.TRADESCREEN.LESS_THAN_DAY"
+msgid "Less Than A Day Remaining"
+msgstr "Meno di un giorno rimasto"
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.HAND.1
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.HAND.1"
+msgid "Test"
+msgstr "Prova"
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.1
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.1"
+msgid "It seems you've a few admirers lurking in the shadows."
+msgstr "Sembra che tu abbia degli ammiratori in agguato nell'ombra."
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.10
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.10"
+msgid "Be at ease, mortal. We exist outside time, here."
+msgstr "Stai tranquillo, mortale. Esistiamo fuori dal tempo, qui."
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.11
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.11"
+msgid "I'll admit, I've always found Chesters endearing."
+msgstr "Lo ammetto, ho sempre avuto simpatia per i Chester."
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.12
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.12"
+msgid "[Chortle] You mortals have been quite enamored with the throne, haven't you?"
+msgstr "[Chortle] Voi mortali avete sempre avuto una passione per il trono, vero?"
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.13
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.13"
+msgid "[The shadow murmurs something, but you cannot comprehend the words.]"
+msgstr "[L'ombra mormora qualcosa, ma non puoi comprendere le parole.]"
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.2
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.2"
+msgid "Do you ever tire of that ratty old mortal body?"
+msgstr "Ti sei mai stancato di quel vecchio corpo mortale?"
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.3
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.3"
+msgid "[Sigh] Immortality is such a burden."
+msgstr "[Ahimè] L'immortalità è un tale fardello."
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.4
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.4"
+msgid "You're a long way from home are you not, little mortal?"
+msgstr "Sei molto lontano da casa, vero, piccolo mortale?"
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.5
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.5"
+msgid "You must recount your corporeal stories to me some time, mortal."
+msgstr "Un giorno devi raccontarmi le tue storie corporee, mortale."
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.6
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.6"
+msgid "Fear the dark, little mortal."
+msgstr "Temi l'oscurità, piccolo mortale."
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.7
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.7"
+msgid "[Chortle] Have you met her yet?"
+msgstr "[Chortle] L'hai già incontrata?"
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.8
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.8"
+msgid "Your realm is a bit frazzled around the edges, hm?"
+msgstr "Il tuo reame è un po' rovinato ai confini, eh?"
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.9
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.9"
+msgid "Tell me, have you traveled through the Gateway yet?"
+msgstr "Dimmi, hai già attraversato il Portale?"
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.START.1
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.START.1"
+msgid "Greetings, mortal. Have you brought chests? I'll be happy to reveal your gifts, if so."
+msgstr "Saluti, mortale. Hai portato gli scrigni? In tal caso, sarò felice di rivelare i tuoi doni."
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.START.2
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.START.2"
+msgid "Greetings, mortal. I sense a chest in your possession! Please, be my guest."
+msgstr "Saluti, mortale. Sento che possiedi uno scrigno! Prego, accomodati."
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.START.3
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.START.3"
+msgid "Greetings, mortal. Come to receive gifts from the Shadow realm? You need only open your chests."
+msgstr "Saluti, mortale. Vieni per ricevere doni dal regno delle ombre? Devi solo aprire il tuo scrigno."
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.START_EMPTY.1
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.START_EMPTY.1"
+msgid "Greetings, mortal. No chests today? A shame."
+msgstr "Saluti, mortale. Nessuno scrigno oggi? Che peccato."
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.START_EMPTY.2
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.START_EMPTY.2"
+msgid "Greetings, mortal. I sense you have no chests. You have been adventuring, yes?"
+msgstr "Saluti, mortale. Sento che non hai scrigni. Non hai dedicato il tuo tempo all'avventura?"
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.START_EMPTY.3
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.START_EMPTY.3"
+msgid "Greetings, mortal. Chests to find their way to you on your travels. I'll be here, until then."
+msgstr "Saluti, mortale. Degli scrigni giungeranno a te nei tuoi viaggi. Quando accadrà, sarò qui."
+
+#. UI.TRADESCREEN.MARKET
+msgctxt "UI.TRADESCREEN.MARKET"
+msgid "Steam"
+msgstr "Steam"
+
+#. UI.TRADESCREEN.NEXT
+msgctxt "UI.TRADESCREEN.NEXT"
+msgid "Next Special"
+msgstr "Prossima offerta speciale"
+
+#. UI.TRADESCREEN.NOSPECIALS
+msgctxt "UI.TRADESCREEN.NOSPECIALS"
+msgid "Unspecials"
+msgstr "Offerte non speciali"
+
+#. UI.TRADESCREEN.NO_RECIPES
+msgctxt "UI.TRADESCREEN.NO_RECIPES"
+msgid "No offers"
+msgstr "Nessuna offerta"
+
+#. UI.TRADESCREEN.OK
+msgctxt "UI.TRADESCREEN.OK"
+msgid "OK"
+msgstr "OK"
+
+#. UI.TRADESCREEN.PREV
+msgctxt "UI.TRADESCREEN.PREV"
+msgid "Prev. Special"
+msgstr "Offerta speciale precedente"
+
+#. UI.TRADESCREEN.RECIPE_INGREDIENT_ITEM
+msgctxt "UI.TRADESCREEN.RECIPE_INGREDIENT_ITEM"
+msgid "<number> <rarity> <colour><item><plural>"
+msgstr "<number> <item> <rarity> e di colore <colour>"
+
+#. UI.TRADESCREEN.RECIPE_INGREDIENT_RARITY
+msgctxt "UI.TRADESCREEN.RECIPE_INGREDIENT_RARITY"
+msgid "Any <number> <rarity> Item<plural>"
+msgstr "Qualsiasi di <number> oggetto/i <rarity>"
+
+#. UI.TRADESCREEN.RECIPE_INGREDIENT_TAGS
+msgctxt "UI.TRADESCREEN.RECIPE_INGREDIENT_TAGS"
+msgid "<number> <rarity> <tags>Item<plural>"
+msgstr "<number> oggetto/i <tags> di categoria <rarity>"
+
+#. UI.TRADESCREEN.RECIPE_TITLE
+msgctxt "UI.TRADESCREEN.RECIPE_TITLE"
+msgid "Wanted: <rarity> Items"
+msgstr "Ricercato: oggetti <rarity>"
+
+#. UI.TRADESCREEN.REDBIRD_GAME.EGG_TIMER
+msgctxt "UI.TRADESCREEN.REDBIRD_GAME.EGG_TIMER"
+msgid "Egg Timer:"
+msgstr "Timer uovo:"
+
+#. UI.TRADESCREEN.REDBIRD_GAME.EGG_TIMER_OVER
+msgctxt "UI.TRADESCREEN.REDBIRD_GAME.EGG_TIMER_OVER"
+msgid "Game Over"
+msgstr "Game over"
+
+#. UI.TRADESCREEN.REDBIRD_GAME.EGG_TIMER_SPOILED
+msgctxt "UI.TRADESCREEN.REDBIRD_GAME.EGG_TIMER_SPOILED"
+msgid "The egg is rotten!"
+msgstr "L'uovo è marcio!"
+
+#. UI.TRADESCREEN.REDBIRD_GAME.GAME_OVER_POPUP_BODY
+msgctxt "UI.TRADESCREEN.REDBIRD_GAME.GAME_OVER_POPUP_BODY"
+msgid "Great job countin'.\nYou completed {eggs} eggs for a total of {score} points!"
+msgstr "Hai contato correttamente.\nHai completato {eggs} uova per un totale di {score} punti!"
+
+#. UI.TRADESCREEN.REDBIRD_GAME.GAME_OVER_POPUP_BODY_SINGULAR
+msgctxt "UI.TRADESCREEN.REDBIRD_GAME.GAME_OVER_POPUP_BODY_SINGULAR"
+msgid "Great job countin'.\nYou completed 1 egg for a total of {score} points!"
+msgstr "Hai contato correttamente.\nHai completato 1 uovo per un totale di {score} punti!"
+
+#. UI.TRADESCREEN.REDBIRD_GAME.GAME_OVER_POPUP_TITLE
+msgctxt "UI.TRADESCREEN.REDBIRD_GAME.GAME_OVER_POPUP_TITLE"
+msgid "All done countin'"
+msgstr "Non c'è più niente da contare"
+
+#. UI.TRADESCREEN.REDBIRD_GAME.GAME_SCORE
+msgctxt "UI.TRADESCREEN.REDBIRD_GAME.GAME_SCORE"
+msgid "Score: "
+msgstr "Punteggio: "
+
+#. UI.TRADESCREEN.REDBIRD_GAME.HELP
+msgctxt "UI.TRADESCREEN.REDBIRD_GAME.HELP"
+msgid "Help"
+msgstr "Aiuto"
+
+#. UI.TRADESCREEN.REDBIRD_GAME.HELP_BODY
+msgctxt "UI.TRADESCREEN.REDBIRD_GAME.HELP_BODY"
+msgid "Combine tiles to add up to 100. Completing a tile with a value of 100 earns you a large amount of points. The faster you add, the more points you'll receive.\n\nGood luck!"
+msgstr "Abbina le tessere per ottenere 100. Se riuscirai ad arrivare a 100 otterrai moltissimi punti. Più velocemente ci arriverai, più punti otterrai.\n\nBuona fortuna!"
+
+#. UI.TRADESCREEN.REDBIRD_GAME.HELP_TITLE
+msgctxt "UI.TRADESCREEN.REDBIRD_GAME.HELP_TITLE"
+msgid "An Eggy Tally"
+msgstr "Addizioni numeruovose"
+
+#. UI.TRADESCREEN.REDBIRD_GAME.HIGH_SCORE
+msgctxt "UI.TRADESCREEN.REDBIRD_GAME.HIGH_SCORE"
+msgid "High Score: "
+msgstr "Record: "
+
+#. UI.TRADESCREEN.REDBIRD_GAME.OPEN_GIFT
+msgctxt "UI.TRADESCREEN.REDBIRD_GAME.OPEN_GIFT"
+msgid "Open Gift"
+msgstr "Apri regalo"
+
+#. UI.TRADESCREEN.REDBIRD_GAME.REPORTING
+msgctxt "UI.TRADESCREEN.REDBIRD_GAME.REPORTING"
+msgid "Reporting Eggy sums..."
+msgstr "Rapporto sulle addizioni..."
+
+#. UI.TRADESCREEN.REDBIRD_GAME.THANKS
+msgctxt "UI.TRADESCREEN.REDBIRD_GAME.THANKS"
+msgid "Thanks for playing!"
+msgstr "Grazie per aver giocato!"
+
+#. UI.TRADESCREEN.REMOVE_ITEM
+msgctxt "UI.TRADESCREEN.REMOVE_ITEM"
+msgid "Remove Item"
+msgstr "Rimuovi oggetto"
+
+#. UI.TRADESCREEN.RESET
+msgctxt "UI.TRADESCREEN.RESET"
+msgid "Reset"
+msgstr "Reimposta"
+
+#. UI.TRADESCREEN.SELECT
+msgctxt "UI.TRADESCREEN.SELECT"
+msgid "Select"
+msgstr "Seleziona"
+
+#. UI.TRADESCREEN.SELECT_TITLE
+msgctxt "UI.TRADESCREEN.SELECT_TITLE"
+msgid "Choose Items To Swap"
+msgstr "Scegli un articolo da scambiare"
+
+#. UI.TRADESCREEN.SERVER_ERROR_BODY
+msgctxt "UI.TRADESCREEN.SERVER_ERROR_BODY"
+msgid "There was an error trading your items. Please login again to refresh your account inventory."
+msgstr "Si è verificato un errore nello scambio dei tuoi oggetti. Accedi di nuovo per aggiornare l'inventario del tuo account."
+
+#. UI.TRADESCREEN.SERVER_ERROR_TITLE
+msgctxt "UI.TRADESCREEN.SERVER_ERROR_TITLE"
+msgid "Error Trading Items"
+msgstr "Errore nello scambio di oggetti"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORE.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORE.1"
+msgid "Help a poor old trader out with a few more <rarity> items and I'll give ya a higher quality item in exchange. Guaranteed."
+msgstr "Aiuta un povero vecchio commerciante con qualche altro oggetto <rarity> e ti darò un oggetto di qualità superiore in cambio. Garantito."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORE.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORE.2"
+msgid "I'm gonna need a few more <rarity> items to make a trade. I gotta cover my overhead, ya know? But ya'll get a better item in exchange."
+msgstr "Mi servirà qualche altro oggetto <rarity> per fare uno scambio. Devo coprire le mie spese, capisci? Ma avrai un oggetto migliore in cambio."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORE.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORE.3"
+msgid "Tha's it, fill tha machine on up with <rarity> items and ya'll get a higher quality item back out."
+msgstr "Ecco, riempi la macchina con gli oggetti <rarity> e sarai ricambiato con un oggetto di qualità superiore."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORE.4
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORE.4"
+msgid "Tha's tha ticket. Just bang a few more a those <rarity> items in tha machine to get a better item!"
+msgstr "Ecco il biglietto. Ti basta infilare qualche altro oggetto <rarity> nella macchina per ottenere un oggetto migliore!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORESPECIALS.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORESPECIALS.1"
+msgid "Ya got tha rest of tha stuff I'm lookin' for? If not, come back in a few days an' there might be a new deal."
+msgstr "Hai il resto della roba che cerco? Altrimenti torna tra qualche giorno e potrebbe esserci una nuova offerta."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORESPECIALS.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORESPECIALS.2"
+msgid "I just need tha rest of tha items on tha list. Bang 'em on in tha machine an' it'll spit out a higher quality item for ya."
+msgstr "Mi serve solo il resto degli oggetti su quella lista. Dalli in pasto a quella macchina e sputerà fuori un oggetto di qualità superiore per te."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.HAND.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.HAND.1"
+msgid "Pleased ta meecha."
+msgstr "Felice di fare la tua conoscenza."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.HAND.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.HAND.2"
+msgid "Pleasure doin' business with ya."
+msgstr "Felice di fare affari con te."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.1"
+msgid "Ya may not feel young, but I've been tradin' longer than ya been around, young pup."
+msgstr "Credi forse di essere un veterano, ma io sono nel commercio da molto prima che tu nascessi, pivello."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.2"
+msgid "I've always been a loner, me. Tha boss mostly lets me alone, which suits me fine."
+msgstr "Sono sempre stato un po' orso. Il capo mi lascia in pace, e va bene così."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.3"
+msgid "Take y'er time. I can stand here yammerin' all day."
+msgstr "Prenditi tutto il tempo che ti serve. Posso rimanere qui a lagnarmi tutto il giorno."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.4
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.4"
+msgid "My wagon's pulled by a nox. 'Es a good 'un, but 'e can't hold a candle to my old mule, Shadow."
+msgstr "Il mio carro è tirato da un nobue. Sa il fatto suo, ma non tiene il confronto con il mio vecchio mulo, Ombra."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.5
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.5"
+msgid "Once, when I was but a young shaver... ah, but ya don' wanna listen to an old trader's stories."
+msgstr "Un tempo, quando ero uno sbarbatello... ah, ma non vuoi stare a sentire le storie di un vecchio commerciante."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.6
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.6"
+msgid "What's a nox? Well, I don't know as I can rightly describe it. It's kinda like an ox, but not."
+msgstr "Che cos'è un nobue? Beh, non lo so visto che non riesco a descriverlo. È come un bue, ma anche no."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.JOYSTICK.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.JOYSTICK.1"
+msgid "Ya can bang on that joystick all ya want but it won't do ya no good."
+msgstr "Puoi smanettare con quel joystick quanto vuoi, ma non ti servirà a nulla."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.JOYSTICK.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.JOYSTICK.2"
+msgid "Don't ya go breakin' tha joystick, now. Ya don' need it anyhow."
+msgstr "Cerca di non rompere quel joystick, adesso. Tanto non ti serve comunque."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.JOYSTICK.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.JOYSTICK.3"
+msgid "Up, down, left, right, tha joystick don' do nothin'."
+msgstr "Su, giù, sinistra, destra, quel joystick non serve a niente."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.RESULT.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.RESULT.1"
+msgid "Here ya go, one very fine <item>!"
+msgstr "<item> di ottima fattura!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.RESULT.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.RESULT.2"
+msgid "Look a' that, ya won a <item>. C'mon back anytime, now."
+msgstr "Guarda qua, hai vinto un <item>. Adesso torna quando vuoi."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.RESULT.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.RESULT.3"
+msgid "There ya go, ya got this here <item>."
+msgstr "Ecco qua, ti ritrovi con questo oggetto: <item>."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.RESULT_LUCKY.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.RESULT_LUCKY.1"
+msgid "Hey, ya struck it rich! Look at that <item>. Ya must be extra lucky today."
+msgstr "Ehi, hai fatto tredici! Dai un'occhiata a quel <item>. Oggi sei superfortunato."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.RESULT_LUCKY.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.RESULT_LUCKY.2"
+msgid "Here ya go, one bran' new <item>. Jus' remember I can't afford to give ya items this good all tha time."
+msgstr "Ecco, un <item> nuovo di zecca. Ricorda solo che non mi posso permettere di darti oggetti così belli tutte le volte."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.RESULT_LUCKY.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.RESULT_LUCKY.3"
+msgid "Well, I guess me & tha machine are feelin' gen'rous today. Ya won a <item>!"
+msgstr "Beh, suppongo che entrambi - io e quella macchina - siamo generosi quest'oggi. Hai vinto un <item>!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.RESULT_LUCKY.4
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.RESULT_LUCKY.4"
+msgid "Ain't that just tha koalefant's toenails! Ya got one very purty <item>."
+msgstr "Non sono mica unghie del piede di un koalefante! Ti ritrovi proprio con un bell'oggetto: <item>."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.SPECIALRECIPE.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.SPECIALRECIPE.1"
+msgid "If ya give me tha items on tha list, I'll give ya a higher quality item in exchange."
+msgstr "Se mi dai gli oggetti in quella lista, in cambio ti darò un oggetto di qualità superiore."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.SPECIALRECIPE.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.SPECIALRECIPE.2"
+msgid "Take a look at tha list. Get me all tha things on it and I'll give ya a better item."
+msgstr "Dai un'occhiata a quella lista. Procurami tutte le cose elencate e ti darò un oggetto migliore."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.SPECIALRECIPE.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.SPECIALRECIPE.3"
+msgid "Ya got tha items on tha list? Stick 'em in there and ya'll get a better item out 'o tha machine."
+msgstr "Hai quegli oggetti su quella lista? Infilali lì e quella macchina ti procurerà un oggetto migliore."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.SPECIALS.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.SPECIALS.1"
+msgid "These're my special deals. Gimme tha stuff I'm looking for and I'll give ya a better item in exchange."
+msgstr "Questi sono i miei oggetti speciali. Dammi la merce che cerco e ti darò in cambio un oggetto migliore."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.SPECIALS.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.SPECIALS.2"
+msgid "I'm lookin' for some particular things right now. If ya can give 'em to me, I'll give ya a new one of higher quality."
+msgstr "Sto cercando delle cose particolari al momento. Se puoi procurarmele, te ne darò una nuova di qualità superiore."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.SPECIALS.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.SPECIALS.3"
+msgid "Tha special deals are cheaper than tha normal ones, but ya gotta give me tha exact things I'm lookin' for."
+msgstr "Le offerte speciali sono più convenienti di quelle normali, ma devi darmi esattamente le cose che cerco."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START.1"
+msgid "Ya got a heap 'o items? Want better items? Well, ya come to tha right place! Put 'em in that thar machine!"
+msgstr "Hai un bel mucchio di oggetti? Vuoi oggetti migliori? Beh, sei nel posto giusto! Infilali in quella macchina!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START.2"
+msgid "Got too many items? I can help ya with that problem! Stick 'em in my machine an' trade 'em for somethin' better!"
+msgstr "Hai troppi oggetti? Ti posso aiutare a risolvere il problema! Infilali nella mia macchina e scambiali con qualcosa di meglio!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START.3"
+msgid "Lookin' for new items? Trade in some old items and get a bran' new one of higher quality!"
+msgstr "Cerchi nuovi oggetti? Scambia alcuni di quelli vecchi e avrai un nuovissimo oggetto di qualità superiore!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START.4
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START.4"
+msgid "Lookin' to trade? Ya come to the right place. Put your items in tha machine to get somethin' better!"
+msgstr "Vuoi fare uno scambio? Sei nel posto giusto. Metti i tuoi oggetti in quella macchina per ottenere qualcosa di meglio!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START_EMPTY.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START_EMPTY.1"
+msgid "C'mon back when ya got something ta trade!"
+msgstr "Torna quando avrai qualcosa da scambiare!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START_EMPTY.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START_EMPTY.2"
+msgid "Sorry, but I can't give ya something for nothing, ya know."
+msgstr "Mi spiace, ma non ti posso dare qualcosa in cambio di niente, capisci."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START_EMPTY.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START_EMPTY.3"
+msgid "If ya find any items while y'er adventuring around out there, ya can bring the ones ya don't need ta me."
+msgstr "Se trovi degli oggetti mentre ti avventuri là fuori, puoi portare a me quelli che non ti servono."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADE.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADE.1"
+msgid "It'll be here in a jiffy."
+msgstr "Sarò qui in un baleno."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADE.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADE.2"
+msgid "I bet ya can't wait to see what comes out!"
+msgstr "Scommetto che non vedi l'ora di vedere che cosa esce!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADE.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADE.3"
+msgid "It should be here real soon now."
+msgstr "Dovrei essere qui al più presto."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADEAVAIL.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADEAVAIL.1"
+msgid "All right, kid. Give tha button a push to getcher item!"
+msgstr "D'accordo, ragazzino. Premi quel pulsante per avere il tuo oggetto!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADEAVAIL.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADEAVAIL.2"
+msgid "Just push tha button to start tha trade!"
+msgstr "Devi soltanto premere quel pulsante per avviare lo scambio!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADEAVAIL.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADEAVAIL.3"
+msgid "If ya wanna make tha trade, just push tha green button."
+msgstr "Se vuoi fare lo scambio, ti basta premere quel pulsante verde."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.WARNING.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.WARNING.1"
+msgid "Slow down there, greenhorn. Are ya sure ya wanna gimme your last one 'o those? Ya won't be able ta use it anymore if ya do."
+msgstr "Rallenta un attimo, novellino. Sei sicuro di volermi dare l'ultimo esemplare di quelli? In tal caso, non sarai più in grado di usarlo."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.WARNING.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.WARNING.2"
+msgid "Wait jest a tick there. Tha's your last one o' those things. Ya won't be able to use it anymore if ya trade it away."
+msgstr "Aspetta solo un attimo. Quello è l'ultimo esemplare. Non sarai più in grado di usarlo se lo vendi."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.WARNING.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.WARNING.3"
+msgid "Ya ain't got no more o' those. Ya sure ya wanna get rid o' it? Not that I won't take it, o' course."
+msgstr "Non hai altri esemplari di quelli. Sei sicuro di volertene liberare? Non che non voglia prenderlo, ovviamente."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.CLEARED_CROW_LOTS.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.CLEARED_CROW_LOTS.1"
+msgid "Yeehaw! Get on out of here!"
+msgstr "Grande! Li hai fatti scappare!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.CLEARED_CROW_LOTS.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.CLEARED_CROW_LOTS.2"
+msgid "Hah! Those are my wrappers!"
+msgstr "Ehi! Quelli sono i miei incarti!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.CLEARED_CROW_LOTS.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.CLEARED_CROW_LOTS.3"
+msgid "Seein' those crows scatter is sweeter than my favourite candy!"
+msgstr "Vedere i corvi che scappano via è più bello che trovare un incarto raro!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.CLEARED_LOTS
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.CLEARED_LOTS"
+msgid "Great work clearin' {tiles_cleared} tiles! Here, I've got something for ya. Take this {powerup}."
+msgstr "Hai eliminato {tiles_cleared} tessere, ottimo lavoro! Ho qualcosa per te! Ecco: {powerup}."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.GAME_OVER.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.GAME_OVER.1"
+msgid "Looks like y'er all out of options!"
+msgstr "Temo che tu non abbia più altre possibilità!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.GAME_OVER.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.GAME_OVER.2"
+msgid "Try again! There's many more wrappers in my collection to tidy up."
+msgstr "Riprova! Nella mia collezione ci sono tanti altri incarti da riordinare."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.GAME_OVER.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.GAME_OVER.3"
+msgid "Thanks for helpin', but I can't give you a better trade. I've got mouths to feed, ya'know."
+msgstr "Ti ringrazio per avermi dato una mano, ma non posso fare più di così. Ho tante bocche da sfamare."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.GAME_OVER.4
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.GAME_OVER.4"
+msgid "All done for now, but ya made some progress tidyin' up my wrapper collection. "
+msgstr "Per il momento basta così, ma ho visto che hai fatto tanti progressi con la mia collezione di incarti. "
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.POWERUP_SELECTED.cane.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.POWERUP_SELECTED.cane.1"
+msgid "That'll help ya get around and collect all look-alike wrappers."
+msgstr "Questo ti aiuterà a raccogliere tutti gli incarti simili."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.POWERUP_SELECTED.gunpowder.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.POWERUP_SELECTED.gunpowder.1"
+msgid "Careful! That stuff will blow away everythin' near it!"
+msgstr "Attenzione! Quella cosa soffierà via tutto ciò che le sta vicino!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.POWERUP_SELECTED.seeds.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.POWERUP_SELECTED.seeds.1"
+msgid "What are ya doing with those seeds!? Y'er supposed to be chasing the crows away, not attractin' 'em!"
+msgstr "Che stai facendo con quei semi?! Devi scacciare i corvi, non attirarli!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.POWERUP_SELECTED.shovel.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.POWERUP_SELECTED.shovel.1"
+msgid "Cleaning up a whole row. That's smart!"
+msgstr "Hai eliminato un'intera riga. Bella trovata!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.POWERUP_SELECTED.spear.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.POWERUP_SELECTED.spear.1"
+msgid "Sharp and precise!"
+msgstr "Che precisione!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.START.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.START.1"
+msgid "Help me scare off these crows. Don't get any funny ideas though, I won't give you a better deal for helping."
+msgstr "Dammi una mano a scacciare questi corvi. Però non farti strane idee, anche se mi aiuti non posso darti granché in cambio."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.START.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.START.2"
+msgid "Ack! These crows won't leave my wrappers alone."
+msgstr "Argh! Quei corvi non lasciano stare i miei incarti."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.START.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.START.3"
+msgid "Knew I shouldn't'a left the my wrappers just lyin' around... now these crows are all over my collection!"
+msgstr "Sapevo che non avrei dovuto lasciare in giro i miei incarti... Ora quei corvi hanno messo in disordine tutta la collezione!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.START.4
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.START.4"
+msgid "I've done witnessed a murder! And they're stealin' all my hard-earned candy wrappers!"
+msgstr "Non ce la faccio più ad assistere a questo spettacolo! Mi stanno rubando tutti i miei preziosissimi incarti!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.START.5
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.START.5"
+msgid "Gimme a hand gettin' rid of these crows, will ya?"
+msgstr "Mi dai una mano con questi corvi, per favore?"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.START.6
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.START.6"
+msgid "Wanna play a game? Help me pick up my wrappers and get rid of those dang crows. Doesn't that sound fun?"
+msgstr "Vuoi fare un giochetto? Aiutami a raccogliere gli incarti e a liberarmi di quei fastidiosissimi corvi. Non ti sembra divertente?"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.START.7
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.START.7"
+msgid "What, ya got something better to do? Help me get these crows outta here!"
+msgstr "Cos'hai di meglio da fare? Aiutami a scacciare tutti quei corvi!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.USE_POWERUP.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.USE_POWERUP.1"
+msgid "Looks like y'er stuck kid. Maybe ya ought to use one of those tools."
+msgstr "Sembra proprio che tu non riesca ad andare avanti. Che ne dici di usare uno di quegli utensili?"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.USE_POWERUP.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.USE_POWERUP.2"
+msgid "Y'er out of moves, try using a tool to help ya out."
+msgstr "Hai finito le mosse, eh? Uno degli utensili ti aiuterà."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.GAME_OVER_100.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.GAME_OVER_100.1"
+msgid "Amazin' work! I can't see a single piece of junk anymore!"
+msgstr "Ottimo lavoro! Non riesco a vedere neanche un po' di spazzatura!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.GAME_OVER_100.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.GAME_OVER_100.2"
+msgid "All tidy, just like it was before those pesky crows arrived."
+msgstr "È tutto pulito, come prima che arrivassero quei corvacci."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.GAME_OVER_25.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.GAME_OVER_25.1"
+msgid "Thanks for cleaning up, I got winded just watchin' ya."
+msgstr "Grazie per aver fatto pulizia, è stato stancante anche solo guardarti."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.GAME_OVER_25.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.GAME_OVER_25.2"
+msgid "The place looks much better. Mighty obliged."
+msgstr "Questo posto ha un aspetto molto migliore. Te ne sono riconoscente."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.MORE.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.MORE.1"
+msgid "Keep goin', y'er doin' great!"
+msgstr "Continua così, stai andando alla grande!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.MORE.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.MORE.2"
+msgid "Don't stop now, ya missed a few over there!"
+msgstr "Non fermarti, ce n'è ancora un po' laggiù!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.START.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.START.1"
+msgid "Those pesky crows always leave a mess! Mind tidying up?"
+msgstr "Quei corvacci si lasciano sempre alle spalle un gran caos! Ti dispiacerebbe fare pulizia?"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.START.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.START.2"
+msgid "Those birdbrains left their Cawnival stuff all over the place! Go clear it out, would ya?"
+msgstr "Quei cervelli di gallina hanno lasciato ovunque le loro cose del cranevale! Potresti andare a fare pulizia?"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.START.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.START.3"
+msgid "This place is littered with old Cawnival junk. Mind taking care of it for me?"
+msgstr "Questo posto è pieno di spazzatura del cranevale. Potresti pulirlo per me?"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE.1"
+msgid "Eggcellent! That's worth {points} points!"
+msgstr "Meruoviglioso! Ottieni {points} punti!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE.2"
+msgid "Well done! Just the way I like my eggs. That's worth {points} points!"
+msgstr "Ottimo lavoro! Io adoro le uova. Ottieni {points} punti!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE.3"
+msgid "So many mouths to feed, another egg will help. {points} points earned!"
+msgstr "Ci sono così tante bocche da sfamare, che un uovo in più torna sempre utile. {points} punti ottenuti!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE.4
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE.4"
+msgid "Y'er brain is gettin' some eggsercise. I'll give ya {points} points."
+msgstr "Devi fare numeruovosi tentativi prima di riuscirci. Ti darò {points} punti."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE.5
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE.5"
+msgid "That's worth {points} points! I need half-a-dozen eggs, think ya can get me more?"
+msgstr "Ottieni {points} punti! Mi servono sei uova, credi di riuscire a ottenerne delle altre?"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE_ROTTEN.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE_ROTTEN.1"
+msgid "Yuck! No one is going to want to eat that egg."
+msgstr "Chi schifo! Nessuno vorrà mangiare quell'uovo."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE_ROTTEN.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE_ROTTEN.2"
+msgid "What's that smell? My nose is tellin' me tha' egg is rotten."
+msgstr "Che odore è? Il mio olfatto mi dice che quell'uovo è marcio."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE_ROTTEN.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE_ROTTEN.3"
+msgid "It's startin' to smell like a hot spring."
+msgstr "Comincia ad avere uno strano odore di zolfo."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE_ROTTEN.4
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE_ROTTEN.4"
+msgid "Y'er gonna have to work faster than that!"
+msgstr "Devi essere più veloce di così!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE_ROTTEN.5
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE_ROTTEN.5"
+msgid "Ya might be eggshausted, but keep going!"
+msgstr "So che non ce la fai più, ma devi continuare!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE_ROTTEN.6
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE_ROTTEN.6"
+msgid "I like to eggsperiment with my cookin', but that's just gross."
+msgstr "A me piace fare esperimenti in cucina, ma questo è davvero disgustoso."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.GAME_OVER.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.GAME_OVER.1"
+msgid "Try again! Ya can do better, I know it!"
+msgstr "Riprova! Puoi fare molto meglio, lo so!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.GAME_OVER.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.GAME_OVER.2"
+msgid "Y'er all done!"
+msgstr "Finito!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.GAME_OVER_EGG.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.GAME_OVER_EGG.1"
+msgid "Thanks for the eggs! I certainly do appreciate y'er effort."
+msgstr "Grazie per le uova! Apprezzo molto lo sforzo."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.GAME_OVER_REDBIRD.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.GAME_OVER_REDBIRD.1"
+msgid "Amazin' work! Ya deserve a special prize for that."
+msgstr "Davvero incredibile! Ti meriti un premio speciale."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.GAME_OVER_ROTTEN.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.GAME_OVER_ROTTEN.1"
+msgid "Well, ya delivered some eggs. Though I'm not sure how useful they'll be."
+msgstr "Beh, hai ottenuto delle uova. Anche se non so quanto utili potranno essere."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.START.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.START.1"
+msgid "I've got a challenge for ya! Add tiles up to 100. Let's see how many points ya can score!"
+msgstr "Ho una sfida da proporti! Abbina le tessere per ottenere 100. Vediamo quanti punti riesci a fare!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.START.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.START.2"
+msgid "Can ya get me half-a-dozen eggs? A full dozen would be grand!"
+msgstr "Riesci a portarmi sei uova? Se ne recuperi dodici ancora meglio!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.START.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.START.3"
+msgid "Better be quick getting those eggs for me. I can't use any rotten ones."
+msgstr "Meglio sbrigarti a ottenere le uova. Quelle marce non posso usarle."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.START.4
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.START.4"
+msgid "Use y'er noggin to add up numbers. Get to 100 exactly and a Redbird will lay an egg!"
+msgstr "Usa la materia grigia per fare le addizioni. Se ottieni precisamente 100, un cardinale rosso deporrà un uovo!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.START.5
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.START.5"
+msgid "Countin' is my specialty. Let's see how good ya can do."
+msgstr "Contare è la mia specialità. Vediamo come te la cavi tu."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.ADD_LIFE.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.ADD_LIFE.1"
+msgid "Yeehaw! I'll give you another guess for that."
+msgstr "Grande! Per questo ti concederò un altro tentativo."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.ADD_LIFE.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.ADD_LIFE.2"
+msgid "They sure want in on our feast! Scare 'em away!"
+msgstr "Non hanno alcuna intenzione di andarsene, eh? Scacciali via!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.ADD_LIFE.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.ADD_LIFE.3"
+msgid "Tha birds are after my favorite! Tha sweet Pumpkin Pie."
+msgstr "Hanno messo gli occhi sul mio preferito! Quello della caramella al gusto Torta di zucca."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.ADD_LIFE.4
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.ADD_LIFE.4"
+msgid "It's a festive time for sharin' but not with those bothersome birds."
+msgstr "È vero che durante le feste dobbiamo essere tutti più buoni, ma non con quegli uccelli fastidiosi."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.ADD_LIFE.5
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.ADD_LIFE.5"
+msgid "I've got mouths to feed. Tha birds will have to find their own feast."
+msgstr "Ho un sacco di bocche da sfamare. Quegli uccelli dovranno trovarsi un altro posto dove andare."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.ADD_LIFE.6
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.ADD_LIFE.6"
+msgid "Ya'll can come back when tha feast is over!"
+msgstr "Potete tornare quando il banchetto sarà finito!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.GAME_OVER.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.GAME_OVER.1"
+msgid "Y'er all out of guesses!"
+msgstr "Non hai altre possibilità!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.GAME_OVER.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.GAME_OVER.2"
+msgid "Try again! Ya can do better, I know it!"
+msgstr "Riprova! Puoi fare molto meglio, lo so!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.GAME_OVER.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.GAME_OVER.3"
+msgid "Y'er all done!"
+msgstr "Finito!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.START.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.START.1"
+msgid "Let's play a game! Use that big brain to match pairs of food from the feast!"
+msgstr "Facciamo un gioco! Usa il cervello per abbinare le coppie di piatti del banchetto!"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.START.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.START.2"
+msgid "Use y'er noggin to remember pairs. Chase off any pesky snowbirds while y'er at it."
+msgstr "Usa il cervello per ricordarti le coppie. E intanto che ci sei, scaccia anche quei fastidiosissimi zigoli delle nevi."
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.START.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.START.3"
+msgid "My ol' pops taught me this game. Try to remember and match pairs."
+msgstr "È stato mio padre a insegnarmi questo gioco. Ora prova a ricordare e a trovare le coppie."
+
+#. UI.TRADESCREEN.SNOWBIRD
+msgctxt "UI.TRADESCREEN.SNOWBIRD"
+msgid "Chase Snowbird"
+msgstr "Scaccia zigolo delle nevi"
+
+#. UI.TRADESCREEN.SNOW_GAME.GAME_OVER_POPUP_BODY
+msgctxt "UI.TRADESCREEN.SNOW_GAME.GAME_OVER_POPUP_BODY"
+msgid "Great job matching'.\nYou completed {score} pairs!"
+msgstr "Ottimo lavoro con le coppie.\nNe hai trovate {score}!"
+
+#. UI.TRADESCREEN.SNOW_GAME.GAME_OVER_POPUP_TITLE
+msgctxt "UI.TRADESCREEN.SNOW_GAME.GAME_OVER_POPUP_TITLE"
+msgid "All done rememberin'"
+msgstr "Non c'è più niente da ricordare"
+
+#. UI.TRADESCREEN.SNOW_GAME.GAME_SCORE
+msgctxt "UI.TRADESCREEN.SNOW_GAME.GAME_SCORE"
+msgid "Score: "
+msgstr "Punteggio: "
+
+#. UI.TRADESCREEN.SNOW_GAME.HELP
+msgctxt "UI.TRADESCREEN.SNOW_GAME.HELP"
+msgid "Help"
+msgstr "Aiuto"
+
+#. UI.TRADESCREEN.SNOW_GAME.HELP_BODY
+msgctxt "UI.TRADESCREEN.SNOW_GAME.HELP_BODY"
+msgid "Match pairs of food tiles from the feast. Clearing a pair will cause the tiles above to drop down, so be sure to remember what foods were there. Matching a pair of snowbirds will grant you an extra guess.\n\nGood luck!"
+msgstr "Abbina le tessere con i piatti del banchetto. Quando troverai una coppia, questa si eliminerà e le tessere sopra di essa cadranno giù, perciò cerca di ricordare quali piatti c'erano. Quando abbini una coppia di zigoli delle nevi otterrai un tentativo in più.\n\nBuona fortuna!"
+
+#. UI.TRADESCREEN.SNOW_GAME.HELP_TITLE
+msgctxt "UI.TRADESCREEN.SNOW_GAME.HELP_TITLE"
+msgid "A Feastin' Pair of Birds"
+msgstr "Pennuti per le feste"
+
+#. UI.TRADESCREEN.SNOW_GAME.HIGH_SCORE
+msgctxt "UI.TRADESCREEN.SNOW_GAME.HIGH_SCORE"
+msgid "High Score: "
+msgstr "Record: "
+
+#. UI.TRADESCREEN.SNOW_GAME.LIVES
+msgctxt "UI.TRADESCREEN.SNOW_GAME.LIVES"
+msgid "Guesses Remaining: "
+msgstr "Tentativi rimasti: "
+
+#. UI.TRADESCREEN.SNOW_GAME.OPEN_GIFT
+msgctxt "UI.TRADESCREEN.SNOW_GAME.OPEN_GIFT"
+msgid "Open Gift"
+msgstr "Apri regalo"
+
+#. UI.TRADESCREEN.SNOW_GAME.REPORTING
+msgctxt "UI.TRADESCREEN.SNOW_GAME.REPORTING"
+msgid "Reporting feast memories'..."
+msgstr "Rapporto ricordi del banchetto..."
+
+#. UI.TRADESCREEN.SNOW_GAME.THANKS
+msgctxt "UI.TRADESCREEN.SNOW_GAME.THANKS"
+msgid "Thanks for playing!"
+msgstr "Grazie per aver giocato!"
+
+#. UI.TRADESCREEN.SOLD_OUT
+msgctxt "UI.TRADESCREEN.SOLD_OUT"
+msgid "Sold Out"
+msgstr "Esaurito"
+
+#. UI.TRADESCREEN.SPECIALS
+msgctxt "UI.TRADESCREEN.SPECIALS"
+msgid "Specials"
+msgstr "Offerte speciali"
+
+#. UI.TRADESCREEN.SPECIALS_TITLE
+msgctxt "UI.TRADESCREEN.SPECIALS_TITLE"
+msgid "Specials"
+msgstr "Offerte speciali"
+
+#. UI.TRADESCREEN.START
+msgctxt "UI.TRADESCREEN.START"
+msgid "Start"
+msgstr "Avvia"
+
+#. UI.TRADESCREEN.TEMPORARILY_CLOSED_BODY
+msgctxt "UI.TRADESCREEN.TEMPORARILY_CLOSED_BODY"
+msgid "The Trade Inn is closed for a bit.\n\nBe back soon, okay?"
+msgstr "Il negozio Scambi è chiuso per un po'.\n\nTornerò subito, ok?"
+
+#. UI.TRADESCREEN.TITLE
+msgctxt "UI.TRADESCREEN.TITLE"
+msgid "Trade Inn"
+msgstr "Scambia"
+
+#. UI.TRADESCREEN.TRADE
+msgctxt "UI.TRADESCREEN.TRADE"
+msgid "Trade"
+msgstr "Scambia"
+
+#. UI.TRADESCREEN.WARNING
+msgctxt "UI.TRADESCREEN.WARNING"
+msgid "You won't be able to wear an item if you give your last one away! Do you really want to trade these items?"
+msgstr "Non sarai in grado di indossare un oggetto se rinunci all'ultimo che ti è rimasto! Vuoi davvero scambiare questi oggetti?"
+
+#. UI.TRADESCREEN.WARNING_SINGLE
+msgctxt "UI.TRADESCREEN.WARNING_SINGLE"
+msgid "You won't be able to wear an item if you give your last one away! Do you really want to trade this item?"
+msgstr "Non sarai in grado di indossare un oggetto se rinunci all'ultimo che ti è rimasto! Vuoi davvero scambiare questo oggetto?"
+

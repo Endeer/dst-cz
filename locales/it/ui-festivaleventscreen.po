@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.FESTIVALEVENTSCREEN.BROWSE
+msgctxt "UI.FESTIVALEVENTSCREEN.BROWSE"
+msgid "Browse Servers"
+msgstr "Sfoglia i server"
+
+#. UI.FESTIVALEVENTSCREEN.HOST
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST"
+msgid "Custom Match"
+msgstr "Personalizza partita"
+
+#. UI.FESTIVALEVENTSCREEN.HOST_CONNECTINGTOSERVER
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_CONNECTINGTOSERVER"
+msgid "Connecting to server"
+msgstr "Collegamento al server in corso"
+
+#. UI.FESTIVALEVENTSCREEN.HOST_DETERMININGREGION
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_DETERMININGREGION"
+msgid "Determining region"
+msgstr "Determinazione della regione"
+
+#. UI.FESTIVALEVENTSCREEN.HOST_FAILED
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_FAILED"
+msgid "Network Error"
+msgstr "Errore di rete"
+
+#. UI.FESTIVALEVENTSCREEN.HOST_FAILED_BODY
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_FAILED_BODY"
+msgid "Failed to connect to event server."
+msgstr "Impossibile connettersi al server dell'evento."
+
+#. UI.FESTIVALEVENTSCREEN.HOST_GETTINGREGIONS
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_GETTINGREGIONS"
+msgid "Getting regions"
+msgstr "Acquisizione delle regioni"
+
+#. UI.FESTIVALEVENTSCREEN.HOST_NO_SERVERS_BODY
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_NO_SERVERS_BODY"
+msgid "No servers are currently available for your game version. Please update and try again."
+msgstr "Nessun server attualmente disponibile per la tua versione di gioco. Effettua l'aggiornamento e riprova."
+
+#. UI.FESTIVALEVENTSCREEN.HOST_PINGS_FAILED_BODY
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_PINGS_FAILED_BODY"
+msgid "Unable to contact Klei servers.\nPlease check your network connection and try again."
+msgstr "Impossibile contattare i server di Klei.\nControlla la tua connessione di rete e riprova."
+
+#. UI.FESTIVALEVENTSCREEN.HOST_REQUESTINGSERVER
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_REQUESTINGSERVER"
+msgid "Requesting server"
+msgstr "Richiesta di server"
+
+#. UI.FESTIVALEVENTSCREEN.HOST_WAITINGFORWORLD
+msgctxt "UI.FESTIVALEVENTSCREEN.HOST_WAITINGFORWORLD"
+msgid "Waiting for world"
+msgstr "In attesa del mondo"
+
+#. UI.FESTIVALEVENTSCREEN.MODS_POPUP_BODY
+msgctxt "UI.FESTIVALEVENTSCREEN.MODS_POPUP_BODY"
+msgid "Warning!\nClient mods are unsupported in {event}.\nDisabling all mods is recommended."
+msgstr "Attenzione!\nI mod del client non sono supportati in: {event}.\nSi consiglia di disattivare tutti i mod."
+
+#. UI.FESTIVALEVENTSCREEN.MODS_POPUP_CANCEL
+msgctxt "UI.FESTIVALEVENTSCREEN.MODS_POPUP_CANCEL"
+msgid "Cancel"
+msgstr "Annulla"
+
+#. UI.FESTIVALEVENTSCREEN.MODS_POPUP_CONTINUE
+msgctxt "UI.FESTIVALEVENTSCREEN.MODS_POPUP_CONTINUE"
+msgid "Continue"
+msgstr "Continua"
+
+#. UI.FESTIVALEVENTSCREEN.MODS_POPUP_DISABLE_MODS
+msgctxt "UI.FESTIVALEVENTSCREEN.MODS_POPUP_DISABLE_MODS"
+msgid "Disable All Mods"
+msgstr "Disabilita tutti i mod"
+
+#. UI.FESTIVALEVENTSCREEN.MODS_POPUP_TITLE
+msgctxt "UI.FESTIVALEVENTSCREEN.MODS_POPUP_TITLE"
+msgid "Mods Detected!"
+msgstr "Mod rilevati!"
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BACK
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BACK"
+msgid "Back"
+msgstr "Indietro"
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY.lavaarena
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY.lavaarena"
+msgid "You must be logged in to challenge\nBattlemaster Pugna's warriors."
+msgstr "Devi aver fatto l'accesso per sfidare\ni guerrieri di Pugna, il mastro d'armi."
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY.quagmire
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY.quagmire"
+msgid "You must be logged in to prepare\nofferings for the Altar of Gnaw."
+msgstr "Devi aver effettuato l'accesso per\npreparare le offerte all'altare del Masticatore."
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY_CONSOLE.lavaarena
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY_CONSOLE.lavaarena"
+msgid "All players must be online to challenge\nBattlemaster Pugna's warriors."
+msgstr "Tutti i giocatori devono essere online per sfidare\ni guerrieri del mastro d'armi Pugna."
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY_CONSOLE.quagmire
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY_CONSOLE.quagmire"
+msgid "All players must be online to prepare\nofferings for the Altar of Gnaw."
+msgstr "Tutti i giocatori devono essere online per\npreparare le offerte all'altare del Masticatore."
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_LOGIN
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_LOGIN"
+msgid "Log In"
+msgstr "Accedi"
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_TITLE
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_TITLE"
+msgid "Offline"
+msgstr "Offline"
+
+#. UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_TITLE_CONSOLE
+msgctxt "UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_TITLE_CONSOLE"
+msgid "You are in offline mode"
+msgstr "Sei in modalità offline"
+
+#. UI.FESTIVALEVENTSCREEN.QUICKMATCH
+msgctxt "UI.FESTIVALEVENTSCREEN.QUICKMATCH"
+msgid "Quick Match"
+msgstr "Partita rapida"
+
+#. UI.FESTIVALEVENTSCREEN.TITLE.LAVAARENA
+msgctxt "UI.FESTIVALEVENTSCREEN.TITLE.LAVAARENA"
+msgid "The Forge"
+msgstr "La Forgia"
+
+#. UI.FESTIVALEVENTSCREEN.TITLE.LAVAARENA2
+msgctxt "UI.FESTIVALEVENTSCREEN.TITLE.LAVAARENA2"
+msgid "The Forge - Season 2"
+msgstr "La Forgia - Stagione 2"
+
+#. UI.FESTIVALEVENTSCREEN.TITLE.QUAGMIRE
+msgctxt "UI.FESTIVALEVENTSCREEN.TITLE.QUAGMIRE"
+msgid "The Gorge"
+msgstr "La Forra"
+
+#. UI.FESTIVALEVENTSCREEN.TOGGLE_PLAYER
+msgctxt "UI.FESTIVALEVENTSCREEN.TOGGLE_PLAYER"
+msgid "Toggle player"
+msgstr "Cambia giocatore"
+
+#. UI.FESTIVALEVENTSCREEN.TOOLTIP_BROWSE
+msgctxt "UI.FESTIVALEVENTSCREEN.TOOLTIP_BROWSE"
+msgid "Browse all event servers"
+msgstr "Sfoglia tutti i server dell'evento"
+
+#. UI.FESTIVALEVENTSCREEN.TOOLTIP_HOST
+msgctxt "UI.FESTIVALEVENTSCREEN.TOOLTIP_HOST"
+msgid "Start your own event server"
+msgstr "Avvia il tuo server dell'evento personale"
+
+#. UI.FESTIVALEVENTSCREEN.TOOLTIP_QUICKMATCH
+msgctxt "UI.FESTIVALEVENTSCREEN.TOOLTIP_QUICKMATCH"
+msgid "Hop in to the first available match"
+msgstr "Passa alla prima partita disponibile"
+

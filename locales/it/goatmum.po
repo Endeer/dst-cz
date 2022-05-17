@@ -1,0 +1,430 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. GOATMUM_CRAVING_HINTS.1
+msgctxt "GOATMUM_CRAVING_HINTS.1"
+msgid "The Gnaw craves {craving}... {part2}"
+msgstr "Il Masticatore brama {craving}... {part2}"
+
+#. GOATMUM_CRAVING_HINTS.2
+msgctxt "GOATMUM_CRAVING_HINTS.2"
+msgid "The Gnaw hungers for {craving}... {part2}"
+msgstr "Il masticatore ha fame di {craving}... {part2}"
+
+#. GOATMUM_CRAVING_HINTS.3
+msgctxt "GOATMUM_CRAVING_HINTS.3"
+msgid "The Gnaw desires {craving}... {part2}"
+msgstr "Il Masticatore desidera {craving}... {part2}"
+
+#. GOATMUM_CRAVING_HINTS.4
+msgctxt "GOATMUM_CRAVING_HINTS.4"
+msgid "The Gnaw wants {craving}... {part2}"
+msgstr "Il Masticatore vuole {craving}... {part2}"
+
+#. GOATMUM_CRAVING_HINTS.5
+msgctxt "GOATMUM_CRAVING_HINTS.5"
+msgid "The Gnaw craves {craving}!"
+msgstr "Il Masticatore brama {craving}!"
+
+#. GOATMUM_CRAVING_HINTS.6
+msgctxt "GOATMUM_CRAVING_HINTS.6"
+msgid "The Gnaw desires {craving}!"
+msgstr "Il Masticatore desidera {craving}!"
+
+#. GOATMUM_CRAVING_HINTS.7
+msgctxt "GOATMUM_CRAVING_HINTS.7"
+msgid "The Gnaw hungers for {craving}!"
+msgstr "Il Masticatore ha fame di {craving}!"
+
+#. GOATMUM_CRAVING_HINTS_PART2.1
+msgctxt "GOATMUM_CRAVING_HINTS_PART2.1"
+msgid "I can tell, baa."
+msgstr "Posso dire, bee."
+
+#. GOATMUM_CRAVING_HINTS_PART2.2
+msgctxt "GOATMUM_CRAVING_HINTS_PART2.2"
+msgid "I feel it."
+msgstr "Lo sento."
+
+#. GOATMUM_CRAVING_HINTS_PART2.3
+msgctxt "GOATMUM_CRAVING_HINTS_PART2.3"
+msgid "It's time to cook."
+msgstr "È il momento di cucinare."
+
+#. GOATMUM_CRAVING_HINTS_PART2.4
+msgctxt "GOATMUM_CRAVING_HINTS_PART2.4"
+msgid "baa."
+msgstr "bee."
+
+#. GOATMUM_CRAVING_HINTS_PART2.5
+msgctxt "GOATMUM_CRAVING_HINTS_PART2.5"
+msgid "I'm certain of it."
+msgstr "Ne sono sicuro."
+
+#. GOATMUM_CRAVING_HINTS_PART2.6
+msgctxt "GOATMUM_CRAVING_HINTS_PART2.6"
+msgid "You must oblige."
+msgstr "Devi obbedire."
+
+#. GOATMUM_CRAVING_HINTS_PART2_IMPATIENT.1
+msgctxt "GOATMUM_CRAVING_HINTS_PART2_IMPATIENT.1"
+msgid "or anything! Hurry, BAAA!"
+msgstr "o qualsiasi cosa! In fretta, BEEE!"
+
+#. GOATMUM_CRAVING_HINTS_PART2_IMPATIENT.2
+msgctxt "GOATMUM_CRAVING_HINTS_PART2_IMPATIENT.2"
+msgid "or whatever! Quick, BAAA!"
+msgstr "o qualunque cosa! Presto, BEEE!"
+
+#. GOATMUM_CRAVING_HINTS_PART2_IMPATIENT.3
+msgctxt "GOATMUM_CRAVING_HINTS_PART2_IMPATIENT.3"
+msgid "BAAA! Hurry!"
+msgstr "BEEE! Sbrigati!"
+
+#. GOATMUM_CRAVING_HINTS_PART2_IMPATIENT.4
+msgctxt "GOATMUM_CRAVING_HINTS_PART2_IMPATIENT.4"
+msgid "there's no time!"
+msgstr "non c'è tempo!"
+
+#. GOATMUM_CRAVING_HINTS_PART2_IMPATIENT.5
+msgctxt "GOATMUM_CRAVING_HINTS_PART2_IMPATIENT.5"
+msgid "give it something! Anything!"
+msgstr "dagli qualcosa! Qualunque cosa!"
+
+#. GOATMUM_CRAVING_MAP.BREAD
+msgctxt "GOATMUM_CRAVING_MAP.BREAD"
+msgid "a meal on BREAD"
+msgstr "un pasto con il PANE"
+
+#. GOATMUM_CRAVING_MAP.CHEESE
+msgctxt "GOATMUM_CRAVING_MAP.CHEESE"
+msgid "a meal with CHEESE"
+msgstr "un pasto con il FORMAGGIO"
+
+#. GOATMUM_CRAVING_MAP.FISH
+msgctxt "GOATMUM_CRAVING_MAP.FISH"
+msgid "FISH"
+msgstr "PESCE"
+
+#. GOATMUM_CRAVING_MAP.MEAT
+msgctxt "GOATMUM_CRAVING_MAP.MEAT"
+msgid "MEAT"
+msgstr "CARNE"
+
+#. GOATMUM_CRAVING_MAP.PASTA
+msgctxt "GOATMUM_CRAVING_MAP.PASTA"
+msgid "PASTA"
+msgstr "PASTA"
+
+#. GOATMUM_CRAVING_MAP.SNACK
+msgctxt "GOATMUM_CRAVING_MAP.SNACK"
+msgid "a SNACK"
+msgstr "uno SPUNTINO"
+
+#. GOATMUM_CRAVING_MAP.SOUP
+msgctxt "GOATMUM_CRAVING_MAP.SOUP"
+msgid "SOUP"
+msgstr "ZUPPA"
+
+#. GOATMUM_CRAVING_MAP.SWEET
+msgctxt "GOATMUM_CRAVING_MAP.SWEET"
+msgid "a DESSERT"
+msgstr "un DOLCE"
+
+#. GOATMUM_CRAVING_MAP.VEGGIE
+msgctxt "GOATMUM_CRAVING_MAP.VEGGIE"
+msgid "a VEGETABLE dish"
+msgstr "un piatto di VERDURE"
+
+#. GOATMUM_CRAVING_MATCH.1
+msgctxt "GOATMUM_CRAVING_MATCH.1"
+msgid "Oh yes, {craving}! That'll buy you some time."
+msgstr "Oh sì, {craving}! Ti farà guadagnare tempo."
+
+#. GOATMUM_CRAVING_MATCH.2
+msgctxt "GOATMUM_CRAVING_MATCH.2"
+msgid "Yes, yes, {craving}! That should sate the beast."
+msgstr "Oh sì, {craving}! Dovrebbe saziare la bestia."
+
+#. GOATMUM_CRAVING_MATCH.3
+msgctxt "GOATMUM_CRAVING_MATCH.3"
+msgid "You found what the Gnaw craved!"
+msgstr "Hai trovato quello che brama il Masticatore!"
+
+#. GOATMUM_CRAVING_MATCH.4
+msgctxt "GOATMUM_CRAVING_MATCH.4"
+msgid "The Gnaw's pleased with your offering."
+msgstr "Il Masticatore è soddisfatto della tua offerta."
+
+#. GOATMUM_CRAVING_MATCH.5
+msgctxt "GOATMUM_CRAVING_MATCH.5"
+msgid "Mighty Gnaw! Feast now upon on {craving}!"
+msgstr "Grande Masticatore! Banchetta adesso con {craving}!"
+
+#. GOATMUM_CRAVING_MISMATCH.1
+msgctxt "GOATMUM_CRAVING_MISMATCH.1"
+msgid "Well, it wasn't {craving}. But better than nothing!"
+msgstr "Ecco, non era {craving}. Ma meglio di niente!"
+
+#. GOATMUM_CRAVING_MISMATCH.2
+msgctxt "GOATMUM_CRAVING_MISMATCH.2"
+msgid "That wasn't what the Gnaw craved, but we'll make do."
+msgstr "Non era quello che il Masticatore bramava, ma andrà bene lo stesso."
+
+#. GOATMUM_CRAVING_MISMATCH.3
+msgctxt "GOATMUM_CRAVING_MISMATCH.3"
+msgid "I wouldn't call that {craving}, but oh well."
+msgstr "Non lo chiamerei proprio {craving}, ma pazienza."
+
+#. GOATMUM_LOST.1
+msgctxt "GOATMUM_LOST.1"
+msgid "It's over."
+msgstr "È finita."
+
+#. GOATMUM_LOST.2
+msgctxt "GOATMUM_LOST.2"
+msgid "The Gnaw's plague is upon you."
+msgstr "La piaga del Masticatore è su di noi."
+
+#. GOATMUM_LOST.3
+msgctxt "GOATMUM_LOST.3"
+msgid "I'm sorry I couldn't help more."
+msgstr "Mi dispiace di non aver potuto essere di aiuto."
+
+#. GOATMUM_LOST.4
+msgctxt "GOATMUM_LOST.4"
+msgid "Goodbye."
+msgstr "Addio."
+
+#. GOATMUM_TALK_GREETING.1
+msgctxt "GOATMUM_TALK_GREETING.1"
+msgid "If you can earn the Gnaw's favor... you might escape."
+msgstr "Se puoi guadagnare il favore del Masticatore... potresti riuscire a scappare."
+
+#. GOATMUM_TALK_GREETING.2
+msgctxt "GOATMUM_TALK_GREETING.2"
+msgid "The Gnaw's been around since I was just a lamb."
+msgstr "Il Masticatore è in giro da quando ero un agnellino."
+
+#. GOATMUM_TALK_GREETING.3
+msgctxt "GOATMUM_TALK_GREETING.3"
+msgid "Another of your kind passed through here once."
+msgstr "Un altro della tua specie è passato da qua una volta."
+
+#. GOATMUM_TALK_GREETING.4
+msgctxt "GOATMUM_TALK_GREETING.4"
+msgid "Favor from the Gnaw might recharge the old key."
+msgstr "Un favore del Masticatore potrebbe ricaricare la vecchia chiave."
+
+#. GOATMUM_TALK_GREETING.5
+msgctxt "GOATMUM_TALK_GREETING.5"
+msgid "You must cook, or you will perish."
+msgstr "Devi cucinare, o perirai."
+
+#. GOATMUM_TALK_GREETING.6
+msgctxt "GOATMUM_TALK_GREETING.6"
+msgid "Your presence here distracts it from Billy and I."
+msgstr "La tua presenza lo distrae da me e Billy."
+
+#. GOATMUM_TALK_GREETING.7
+msgctxt "GOATMUM_TALK_GREETING.7"
+msgid "Are you... Gatekeepers, by chance?"
+msgstr "Siete… guardiani per caso?"
+
+#. GOATMUM_TALK_GREETING_URGENT.1
+msgctxt "GOATMUM_TALK_GREETING_URGENT.1"
+msgid "Hurry, please!"
+msgstr "Sbrigatevi, per favore!"
+
+#. GOATMUM_TALK_GREETING_URGENT.2
+msgctxt "GOATMUM_TALK_GREETING_URGENT.2"
+msgid "The Gnaw is growing impatient!"
+msgstr "Il Masticatore sta diventando impaziente."
+
+#. GOATMUM_TALK_GREETING_URGENT.3
+msgctxt "GOATMUM_TALK_GREETING_URGENT.3"
+msgid "It must be fed, at all costs."
+msgstr "Deve essere nutrito ad ogni costo."
+
+#. GOATMUM_TALK_GREETING_URGENT.4
+msgctxt "GOATMUM_TALK_GREETING_URGENT.4"
+msgid "The Gnaw's demands know no end."
+msgstr "Le richieste del Masticatore non hanno fine."
+
+#. GOATMUM_TALK_GREETING_URGENT.5
+msgctxt "GOATMUM_TALK_GREETING_URGENT.5"
+msgid "I believe in you. You can do this."
+msgstr "Credo in te. Ce la puoi fare."
+
+#. GOATMUM_TALK_GREETING_URGENT.6
+msgctxt "GOATMUM_TALK_GREETING_URGENT.6"
+msgid "Don't give up."
+msgstr "Non arrenderti."
+
+#. GOATMUM_TALK_GREETING_URGENT.7
+msgctxt "GOATMUM_TALK_GREETING_URGENT.7"
+msgid "The Gnaw will cast down its plague if not fed!"
+msgstr "Il Masticatore lancerà la sua piaga se non viene nutrito!"
+
+#. GOATMUM_TALK_START_BECKON.1
+msgctxt "GOATMUM_TALK_START_BECKON.1"
+msgid "Come a little closer."
+msgstr "Vieni un po' più vicino."
+
+#. GOATMUM_TALK_START_BECKON.2
+msgctxt "GOATMUM_TALK_START_BECKON.2"
+msgid "Yoo-hoo, over here! Baa."
+msgstr "Iuu-huu, laggiù! Bee."
+
+#. GOATMUM_TALK_START_BECKON.3
+msgctxt "GOATMUM_TALK_START_BECKON.3"
+msgid "Over here, dear!"
+msgstr "Da questa parte, caro!"
+
+#. GOATMUM_TALK_START_BECKON.4
+msgctxt "GOATMUM_TALK_START_BECKON.4"
+msgid "Wait! You need cookware!"
+msgstr "Aspetta! Hai bisogno degli utensili da cucina!"
+
+#. GOATMUM_TALK_START_BECKON.5
+msgctxt "GOATMUM_TALK_START_BECKON.5"
+msgid "My dear, come closer."
+msgstr "Mio caro, avvicinati."
+
+#. GOATMUM_TALK_START_BECKON.6
+msgctxt "GOATMUM_TALK_START_BECKON.6"
+msgid "There's no time to waste!"
+msgstr "Non c'è tempo da perdere!"
+
+#. GOATMUM_TALK_START_BECKON.7
+msgctxt "GOATMUM_TALK_START_BECKON.7"
+msgid "Where are you going?"
+msgstr "Dove stai andando?"
+
+#. GOATMUM_TALK_START_CHOICE.1
+msgctxt "GOATMUM_TALK_START_CHOICE.1"
+msgid "You'll need one of my cookware kits."
+msgstr "Avrai bisogno dei miei utensili da cucina."
+
+#. GOATMUM_TALK_START_CHOICE.2
+msgctxt "GOATMUM_TALK_START_CHOICE.2"
+msgid "Baa. Let's trade."
+msgstr "Bee. Facciamo uno scambio."
+
+#. GOATMUM_TALK_START_CHOICE.3
+msgctxt "GOATMUM_TALK_START_CHOICE.3"
+msgid "I have some spare cookware for trade."
+msgstr "Ho degli utensili da cucina da vendere."
+
+#. GOATMUM_TALK_START_CHOICE.4
+msgctxt "GOATMUM_TALK_START_CHOICE.4"
+msgid "Would you like a pot, an oven or a grill?"
+msgstr "Vuoi una pentola, un forno o una griglia?"
+
+#. GOATMUM_TALK_START_CHOICE.5
+msgctxt "GOATMUM_TALK_START_CHOICE.5"
+msgid "Use those coins to trade with me, okay?"
+msgstr "Usa quelle monete per fare scambi con me, va bene?"
+
+#. GOATMUM_TALK_START_CHOICE.6
+msgctxt "GOATMUM_TALK_START_CHOICE.6"
+msgid "Let's trade. I'll get you set up."
+msgstr "Iniziamo lo scambio. Ti metterò in condizione di farlo."
+
+#. GOATMUM_TALK_START_CHOICE.7
+msgctxt "GOATMUM_TALK_START_CHOICE.7"
+msgid "I hope you're good in the kitchen, dear."
+msgstr "Spero tu sia bravo in cucina, caro."
+
+#. GOATMUM_TALK_START_PURCHASE.1
+msgctxt "GOATMUM_TALK_START_PURCHASE.1"
+msgid "Wonderful choice, baa! Now, let's see..."
+msgstr "Ottima scelta, bee! Adesso vediamo..."
+
+#. GOATMUM_TALK_TRADE.1
+msgctxt "GOATMUM_TALK_TRADE.1"
+msgid "Thank-you, dear."
+msgstr "Grazie, caro."
+
+#. GOATMUM_TALK_TRADE.2
+msgctxt "GOATMUM_TALK_TRADE.2"
+msgid "I hope it helps."
+msgstr "Spero sia d'aiuto."
+
+#. GOATMUM_TALK_TRADE.3
+msgctxt "GOATMUM_TALK_TRADE.3"
+msgid "You're welcome, baa."
+msgstr "Non c'è di che, bee."
+
+#. GOATMUM_TALK_TRADE.4
+msgctxt "GOATMUM_TALK_TRADE.4"
+msgid "Good luck, dear."
+msgstr "Buona fortuna, caro."
+
+#. GOATMUM_TALK_TRADE.5
+msgctxt "GOATMUM_TALK_TRADE.5"
+msgid "Take care, baa."
+msgstr "Abbia cura di te, bee."
+
+#. GOATMUM_TALK_TRADE.6
+msgctxt "GOATMUM_TALK_TRADE.6"
+msgid "Thank-you."
+msgstr "Grazie."
+
+#. GOATMUM_TALK_TRADE.7
+msgctxt "GOATMUM_TALK_TRADE.7"
+msgid "Anything you need, dear."
+msgstr "Qualsiasi cosa di cui tu abbia bisogno, caro."
+
+#. GOATMUM_VICTORY.1
+msgctxt "GOATMUM_VICTORY.1"
+msgid "Baa! The way is open!"
+msgstr "Bee! La via è aperta!"
+
+#. GOATMUM_VICTORY.2
+msgctxt "GOATMUM_VICTORY.2"
+msgid "Quickly, make haste to your world."
+msgstr "Presto, metti fretta al tuo mondo."
+
+#. GOATMUM_VICTORY.3
+msgctxt "GOATMUM_VICTORY.3"
+msgid "Billy and I'll follow soon behind."
+msgstr "Io e Billy ti seguiremo."
+
+#. GOATMUM_VICTORY.4
+msgctxt "GOATMUM_VICTORY.4"
+msgid "May we all leave this plague behind us."
+msgstr "Lasciamoci questa piaga alle spalle."
+
+#. GOATMUM_VICTORY.5
+msgctxt "GOATMUM_VICTORY.5"
+msgid "Good luck, kind strangers!"
+msgstr "Buona fortuna, gentili stranieri!"
+
+#. GOATMUM_WELCOME_INTRO.1
+msgctxt "GOATMUM_WELCOME_INTRO.1"
+msgid "BAAA! Who are you?"
+msgstr "BEEE! Tu chi sei?"
+
+#. GOATMUM_WELCOME_INTRO.2
+msgctxt "GOATMUM_WELCOME_INTRO.2"
+msgid "No, there's no time for pleasantries!"
+msgstr "No, non c'è tempo per i convenevoli!"
+
+#. GOATMUM_WELCOME_INTRO.3
+msgctxt "GOATMUM_WELCOME_INTRO.3"
+msgid "You've got to get cooking, or you'll anger the beast!"
+msgstr "Devi cucinare, o farai arrabbiare la bestia!"
+
+#. GOATMUM_WELCOME_INTRO.4
+msgctxt "GOATMUM_WELCOME_INTRO.4"
+msgid "I'll help how I can."
+msgstr "Aiuterò come posso."
+
+#. GOATMUM_WELCOME_INTRO.5
+msgctxt "GOATMUM_WELCOME_INTRO.5"
+msgid "Take these coins and see me when you're ready."
+msgstr "Prendi queste monete e vieni da me quando sei pronto."
+

@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.PLAYERSUMMARYSCREEN.CURRENCY_EXPLAIN
+msgctxt "UI.PLAYERSUMMARYSCREEN.CURRENCY_EXPLAIN"
+msgid "Items can be unraveled into Spools to weave special items."
+msgstr ""
+
+#. UI.PLAYERSUMMARYSCREEN.CURRENCY_LABEL
+msgctxt "UI.PLAYERSUMMARYSCREEN.CURRENCY_LABEL"
+msgid "Spools"
+msgstr ""
+
+#. UI.PLAYERSUMMARYSCREEN.ENCOUNTER_COUNT_FMT
+msgctxt "UI.PLAYERSUMMARYSCREEN.ENCOUNTER_COUNT_FMT"
+msgid "Time played with: {time}"
+msgstr ""
+
+#. UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_BODY
+msgctxt "UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_BODY"
+msgid "Unfortunately you failed to download your item collection, would you like you try again?"
+msgstr ""
+
+#. UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_NO
+msgctxt "UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_NO"
+msgid "No"
+msgstr ""
+
+#. UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_TITLE
+msgctxt "UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_TITLE"
+msgid "Item Collection Download Failed"
+msgstr ""
+
+#. UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_YES
+msgctxt "UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_YES"
+msgid "Yes"
+msgstr ""
+
+#. UI.PLAYERSUMMARYSCREEN.FESTIVAL_HISTORY
+msgctxt "UI.PLAYERSUMMARYSCREEN.FESTIVAL_HISTORY"
+msgid "Through the Gateway"
+msgstr ""
+
+#. UI.PLAYERSUMMARYSCREEN.GET_INVENTORY
+msgctxt "UI.PLAYERSUMMARYSCREEN.GET_INVENTORY"
+msgid "Downloading Item Collection"
+msgstr ""
+
+#. UI.PLAYERSUMMARYSCREEN.LEVEL_ACHIEVED_FMT
+msgctxt "UI.PLAYERSUMMARYSCREEN.LEVEL_ACHIEVED_FMT"
+msgid "{event_title} level accomplished:"
+msgstr ""
+
+#. UI.PLAYERSUMMARYSCREEN.LOADING_STUFF
+msgctxt "UI.PLAYERSUMMARYSCREEN.LOADING_STUFF"
+msgid "Loading Discoveries..."
+msgstr ""
+
+#. UI.PLAYERSUMMARYSCREEN.MOST_COMMON_DEATH
+msgctxt "UI.PLAYERSUMMARYSCREEN.MOST_COMMON_DEATH"
+msgid "Often Killed By"
+msgstr ""
+
+#. UI.PLAYERSUMMARYSCREEN.MOST_COMMON_FRIEND
+msgctxt "UI.PLAYERSUMMARYSCREEN.MOST_COMMON_FRIEND"
+msgid "Friendliest Friend"
+msgstr ""
+
+#. UI.PLAYERSUMMARYSCREEN.MOST_COMMON_FRIENDS
+msgctxt "UI.PLAYERSUMMARYSCREEN.MOST_COMMON_FRIENDS"
+msgid "Friendliest Friends"
+msgstr ""
+
+#. UI.PLAYERSUMMARYSCREEN.NEW_STUFF
+msgctxt "UI.PLAYERSUMMARYSCREEN.NEW_STUFF"
+msgid "Recent Discoveries"
+msgstr ""
+
+#. UI.PLAYERSUMMARYSCREEN.NO_DEATHS
+msgctxt "UI.PLAYERSUMMARYSCREEN.NO_DEATHS"
+msgid "No survivor deaths on record."
+msgstr ""
+
+#. UI.PLAYERSUMMARYSCREEN.NO_FRIENDS
+msgctxt "UI.PLAYERSUMMARYSCREEN.NO_FRIENDS"
+msgid "Play online and make some friends."
+msgstr ""
+
+#. UI.PLAYERSUMMARYSCREEN.NO_ITEMS
+msgctxt "UI.PLAYERSUMMARYSCREEN.NO_ITEMS"
+msgid "Start playing to earn items!"
+msgstr ""
+
+#. UI.PLAYERSUMMARYSCREEN.OFFLINE_NO_ITEMS
+msgctxt "UI.PLAYERSUMMARYSCREEN.OFFLINE_NO_ITEMS"
+msgid "Log in to starting earning items."
+msgstr ""
+
+#. UI.PLAYERSUMMARYSCREEN.POINTS_LABEL
+msgctxt "UI.PLAYERSUMMARYSCREEN.POINTS_LABEL"
+msgid "Klei Points"
+msgstr ""
+
+#. UI.PLAYERSUMMARYSCREEN.PURCHASE
+msgctxt "UI.PLAYERSUMMARYSCREEN.PURCHASE"
+msgid "Shop"
+msgstr ""
+
+#. UI.PLAYERSUMMARYSCREEN.TITLE
+msgctxt "UI.PLAYERSUMMARYSCREEN.TITLE"
+msgid "Item Collection"
+msgstr ""
+
+#. UI.PLAYERSUMMARYSCREEN.TOOLTIP_HISTORY
+msgctxt "UI.PLAYERSUMMARYSCREEN.TOOLTIP_HISTORY"
+msgid "View missed connections and revisit past lives"
+msgstr ""
+
+#. UI.PLAYERSUMMARYSCREEN.TOOLTIP_MYSTERYBOX
+msgctxt "UI.PLAYERSUMMARYSCREEN.TOOLTIP_MYSTERYBOX"
+msgid "Open chests to receive new curios"
+msgstr ""
+
+#. UI.PLAYERSUMMARYSCREEN.TOOLTIP_PURCHASE
+msgctxt "UI.PLAYERSUMMARYSCREEN.TOOLTIP_PURCHASE"
+msgid "Browse purchasable skin sets"
+msgstr ""
+
+#. UI.PLAYERSUMMARYSCREEN.TOOLTIP_SKINS
+msgctxt "UI.PLAYERSUMMARYSCREEN.TOOLTIP_SKINS"
+msgid "View and equip your curios"
+msgstr ""
+
+#. UI.PLAYERSUMMARYSCREEN.TOOLTIP_TRADE
+msgctxt "UI.PLAYERSUMMARYSCREEN.TOOLTIP_TRADE"
+msgid "Trade your old items in for something new!"
+msgstr ""
+
+#. UI.PLAYERSUMMARYSCREEN.TRADING
+msgctxt "UI.PLAYERSUMMARYSCREEN.TRADING"
+msgid "Trade Inn"
+msgstr ""
+
+#. UI.PLAYERSUMMARYSCREEN.UNOPENED_BOXES_FMT
+msgctxt "UI.PLAYERSUMMARYSCREEN.UNOPENED_BOXES_FMT"
+msgid "{num_boxes} unopened Chests"
+msgstr ""
+
+#. UI.PLAYERSUMMARYSCREEN.XP_LABEL
+msgctxt "UI.PLAYERSUMMARYSCREEN.XP_LABEL"
+msgid "XP Earned"
+msgstr ""
+

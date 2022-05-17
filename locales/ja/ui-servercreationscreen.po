@@ -1,0 +1,630 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.SERVERCREATIONSCREEN.ADMIN
+msgctxt "UI.SERVERCREATIONSCREEN.ADMIN"
+msgid "Manage Server"
+msgstr "サーバーの管理"
+
+#. UI.SERVERCREATIONSCREEN.BACK
+msgctxt "UI.SERVERCREATIONSCREEN.BACK"
+msgid "Back"
+msgstr "戻る"
+
+#. UI.SERVERCREATIONSCREEN.BANS
+msgctxt "UI.SERVERCREATIONSCREEN.BANS"
+msgid "Bans"
+msgstr "追放"
+
+#. UI.SERVERCREATIONSCREEN.CANCEL
+msgctxt "UI.SERVERCREATIONSCREEN.CANCEL"
+msgid "Cancel"
+msgstr "キャンセル"
+
+#. UI.SERVERCREATIONSCREEN.CANCEL_BODY
+msgctxt "UI.SERVERCREATIONSCREEN.CANCEL_BODY"
+msgid "Do you want to save your changes?"
+msgstr "変更をセーブしますか？"
+
+#. UI.SERVERCREATIONSCREEN.CANCEL_TITLE
+msgctxt "UI.SERVERCREATIONSCREEN.CANCEL_TITLE"
+msgid "Save Changes?"
+msgstr "変更をリセット？"
+
+#. UI.SERVERCREATIONSCREEN.CAVEWORLD
+msgctxt "UI.SERVERCREATIONSCREEN.CAVEWORLD"
+msgid "Cave World"
+msgstr "洞窟の世界"
+
+#. UI.SERVERCREATIONSCREEN.CLANADMIN
+msgctxt "UI.SERVERCREATIONSCREEN.CLANADMIN"
+msgid "Auto Group Admins:"
+msgstr "グループメンバーを自動で管理者に設定："
+
+#. UI.SERVERCREATIONSCREEN.CLANID
+msgctxt "UI.SERVERCREATIONSCREEN.CLANID"
+msgid "Group ID:"
+msgstr "グループID："
+
+#. UI.SERVERCREATIONSCREEN.CLANONLY
+msgctxt "UI.SERVERCREATIONSCREEN.CLANONLY"
+msgid "Members Only:"
+msgstr "メンバー専用："
+
+#. UI.SERVERCREATIONSCREEN.CLAN_CLOSED
+msgctxt "UI.SERVERCREATIONSCREEN.CLAN_CLOSED"
+msgid "Members Only"
+msgstr "メンバー専用"
+
+#. UI.SERVERCREATIONSCREEN.CLAN_OPEN
+msgctxt "UI.SERVERCREATIONSCREEN.CLAN_OPEN"
+msgid "Open"
+msgstr "開ける"
+
+#. UI.SERVERCREATIONSCREEN.CLONE
+msgctxt "UI.SERVERCREATIONSCREEN.CLONE"
+msgid "Duplicate World"
+msgstr "ワールドを複製"
+
+#. UI.SERVERCREATIONSCREEN.CLUSTERSLOT
+msgctxt "UI.SERVERCREATIONSCREEN.CLUSTERSLOT"
+msgid "Save Folder"
+msgstr "セーブフォルダ"
+
+#. UI.SERVERCREATIONSCREEN.CONTINUE
+msgctxt "UI.SERVERCREATIONSCREEN.CONTINUE"
+msgid "Continue"
+msgstr "コンティニュー"
+
+#. UI.SERVERCREATIONSCREEN.CONVERTCLOUDTOLOCAL
+msgctxt "UI.SERVERCREATIONSCREEN.CONVERTCLOUDTOLOCAL"
+msgid "Convert To Local Save"
+msgstr "ローカルセーブに変換"
+
+#. UI.SERVERCREATIONSCREEN.CONVERTLOCALTOCLOUD
+msgctxt "UI.SERVERCREATIONSCREEN.CONVERTLOCALTOCLOUD"
+msgid "Convert To Cloud Save"
+msgstr "クラウドセーブに変換"
+
+#. UI.SERVERCREATIONSCREEN.CONVERT_CLOUD
+msgctxt "UI.SERVERCREATIONSCREEN.CONVERT_CLOUD"
+msgid "cloud"
+msgstr "クラウド"
+
+#. UI.SERVERCREATIONSCREEN.CONVERT_LOCAL
+msgctxt "UI.SERVERCREATIONSCREEN.CONVERT_LOCAL"
+msgid "local"
+msgstr "ローカル"
+
+#. UI.SERVERCREATIONSCREEN.COPY_OF_SLOT_NAME
+msgctxt "UI.SERVERCREATIONSCREEN.COPY_OF_SLOT_NAME"
+msgid "Copy of {worldname}"
+msgstr "{worldname}のコピー"
+
+#. UI.SERVERCREATIONSCREEN.CREATE
+msgctxt "UI.SERVERCREATIONSCREEN.CREATE"
+msgid "Generate World"
+msgstr "ワールドを作成"
+
+#. UI.SERVERCREATIONSCREEN.CREATENEWGAME
+msgctxt "UI.SERVERCREATIONSCREEN.CREATENEWGAME"
+msgid "Create New World"
+msgstr "新しい世界を作成する"
+
+#. UI.SERVERCREATIONSCREEN.DELETE
+msgctxt "UI.SERVERCREATIONSCREEN.DELETE"
+msgid "Delete"
+msgstr "削除"
+
+#. UI.SERVERCREATIONSCREEN.DELETE_SLOT
+msgctxt "UI.SERVERCREATIONSCREEN.DELETE_SLOT"
+msgid "Delete World"
+msgstr "ワールドを削除"
+
+#. UI.SERVERCREATIONSCREEN.DISCARDCHANGES
+msgctxt "UI.SERVERCREATIONSCREEN.DISCARDCHANGES"
+msgid "Discard Changes"
+msgstr "変更を取り消す"
+
+#. UI.SERVERCREATIONSCREEN.EVENT
+msgctxt "UI.SERVERCREATIONSCREEN.EVENT"
+msgid "Event:"
+msgstr "イベント："
+
+#. UI.SERVERCREATIONSCREEN.FAILED_CONVERT_DIALOG_FMT
+msgctxt "UI.SERVERCREATIONSCREEN.FAILED_CONVERT_DIALOG_FMT"
+msgid "Failed to convert world to {type} save, please try again later."
+msgstr "{type}セーブへの変換に失敗しました。時間をおいて再度お試しください。"
+
+#. UI.SERVERCREATIONSCREEN.FAILED_COPYORCONVERT_TITLE
+msgctxt "UI.SERVERCREATIONSCREEN.FAILED_COPYORCONVERT_TITLE"
+msgid "Error"
+msgstr "エラー発生"
+
+#. UI.SERVERCREATIONSCREEN.FAILED_COPY_DIALOG
+msgctxt "UI.SERVERCREATIONSCREEN.FAILED_COPY_DIALOG"
+msgid "Failed to duplicate world, please try again later."
+msgstr "ワールドの複製に失敗しました。時間をおいて再度お試しください。"
+
+#. UI.SERVERCREATIONSCREEN.FORESTANDCAVES
+msgctxt "UI.SERVERCREATIONSCREEN.FORESTANDCAVES"
+msgid "Forest And Caves"
+msgstr "森と洞窟"
+
+#. UI.SERVERCREATIONSCREEN.FORESTONLY
+msgctxt "UI.SERVERCREATIONSCREEN.FORESTONLY"
+msgid "Forest Only"
+msgstr "洞窟のみ"
+
+#. UI.SERVERCREATIONSCREEN.FORESTWORLD
+msgctxt "UI.SERVERCREATIONSCREEN.FORESTWORLD"
+msgid "Forest World"
+msgstr "森の世界"
+
+#. UI.SERVERCREATIONSCREEN.FULLSLOTSBODY
+msgctxt "UI.SERVERCREATIONSCREEN.FULLSLOTSBODY"
+msgid "All of your server slots are currently full. You must either select a slot to load from, or delete a slot and start a new world."
+msgstr "現在、すべてのサーバースロットを使用中です。いずれかのスロットを選択してロードするか、スロットを削除してから新規のワールドを作成してください。"
+
+#. UI.SERVERCREATIONSCREEN.FULLSLOTSTITLE
+msgctxt "UI.SERVERCREATIONSCREEN.FULLSLOTSTITLE"
+msgid "No Slots Available"
+msgstr "空きスロットなし"
+
+#. UI.SERVERCREATIONSCREEN.GAMEMODE
+msgctxt "UI.SERVERCREATIONSCREEN.GAMEMODE"
+msgid "Game Mode:"
+msgstr "ゲームモード："
+
+#. UI.SERVERCREATIONSCREEN.HOST_GAME
+msgctxt "UI.SERVERCREATIONSCREEN.HOST_GAME"
+msgid "Host Game"
+msgstr "ゲームをホスト"
+
+#. UI.SERVERCREATIONSCREEN.INTENTION_BUTTON
+msgctxt "UI.SERVERCREATIONSCREEN.INTENTION_BUTTON"
+msgid "Set Intention"
+msgstr "プレイスタイルを設定"
+
+#. UI.SERVERCREATIONSCREEN.INTENTION_DESC.COMPETITIVE
+msgctxt "UI.SERVERCREATIONSCREEN.INTENTION_DESC.COMPETITIVE"
+msgid "This server is the perfect arena for a fair fight. Everyone needs a place to prove who's the best at surviving, fighting, building, or... whatever."
+msgstr "他のプレイヤーと腕を競いたい人向け。サバイバルスキル、戦闘力、物づくりの技術…自由なテーマで対決して、チャンピオンを決めよう。"
+
+#. UI.SERVERCREATIONSCREEN.INTENTION_DESC.COOPERATIVE
+msgctxt "UI.SERVERCREATIONSCREEN.INTENTION_DESC.COOPERATIVE"
+msgid "Surviving's more fun when you do it as a team. On this server we want to work together and do our best to tame the hostile world."
+msgstr "みんなで力を合わせれば、サバイバルはもっと楽しくなる！息の合ったチームワークで、過酷な世界に立ち向かおう。"
+
+#. UI.SERVERCREATIONSCREEN.INTENTION_DESC.MADNESS
+msgctxt "UI.SERVERCREATIONSCREEN.INTENTION_DESC.MADNESS"
+msgid "Anything goes on this server! Forests will be burned, food will be nommed, and backs will be unceremoniously stabbed. Be prepared!"
+msgstr "森を焼き払っても、勝手に食料を食べ尽くしても、突然誰かを裏切ってもOK。参加するなら、それなりの覚悟で！"
+
+#. UI.SERVERCREATIONSCREEN.INTENTION_DESC.SOCIAL
+msgctxt "UI.SERVERCREATIONSCREEN.INTENTION_DESC.SOCIAL"
+msgid "This server is a place for friendly chatter, a relaxed playstyle, and getting to know people. Everyone's welcome here!"
+msgstr "楽しくおしゃべりしながら、まったり遊びたい人向け。誰でも気軽に参加OKの、フレンドリーなプレイスタイル。"
+
+#. UI.SERVERCREATIONSCREEN.INTENTION_LABEL
+msgctxt "UI.SERVERCREATIONSCREEN.INTENTION_LABEL"
+msgid "Server Playstyle:"
+msgstr "サーバーのプレイスタイル："
+
+#. UI.SERVERCREATIONSCREEN.INTENTION_TITLE
+msgctxt "UI.SERVERCREATIONSCREEN.INTENTION_TITLE"
+msgid "What's your server's playstyle?"
+msgstr "サーバーのプレイスタイルを選んでください。"
+
+#. UI.SERVERCREATIONSCREEN.INVALIDCLANSETTINGS_BODY
+msgctxt "UI.SERVERCREATIONSCREEN.INVALIDCLANSETTINGS_BODY"
+msgid "You have to specify the Steam Group you belong to! Please verify the group number."
+msgstr "所属するSteamグループの指定が必要です。グループ番号を認証してください。"
+
+#. UI.SERVERCREATIONSCREEN.INVALIDCLANSETTINGS_TITLE
+msgctxt "UI.SERVERCREATIONSCREEN.INVALIDCLANSETTINGS_TITLE"
+msgid "Bad Group ID"
+msgstr "無効なグループID"
+
+#. UI.SERVERCREATIONSCREEN.INVALIDINTENTIONSETTINGS_BODY
+msgctxt "UI.SERVERCREATIONSCREEN.INVALIDINTENTIONSETTINGS_BODY"
+msgid "You forgot to choose a playstyle for your server!"
+msgstr "サーバーのプレイスタイルが設定されていません。"
+
+#. UI.SERVERCREATIONSCREEN.INVALIDINTENTIONSETTINGS_TITLE
+msgctxt "UI.SERVERCREATIONSCREEN.INVALIDINTENTIONSETTINGS_TITLE"
+msgid "Missing Server Intention"
+msgstr "プレイスタイル未設定"
+
+#. UI.SERVERCREATIONSCREEN.INVALIDNEWHOST_BODY
+msgctxt "UI.SERVERCREATIONSCREEN.INVALIDNEWHOST_BODY"
+msgid "We recommend trying the game alone in a private world while you learn the ropes and get the hang of not starving. But it's totally up to you!"
+msgstr "まずは非公開のワールドを作成して、ソロプレイでゲームのコツをつかむことをおすすめします。(もちろん、いきなりマルチプレイに挑戦してもOKです)"
+
+#. UI.SERVERCREATIONSCREEN.INVALIDNEWHOST_TITLE
+msgctxt "UI.SERVERCREATIONSCREEN.INVALIDNEWHOST_TITLE"
+msgid "Creating your first world?"
+msgstr "初めてのワールドを作成しますか？"
+
+#. UI.SERVERCREATIONSCREEN.INVALIDPASSWORD_BODY
+msgctxt "UI.SERVERCREATIONSCREEN.INVALIDPASSWORD_BODY"
+msgid "Password cannot have spaces at the beginning or at the end!"
+msgstr "パスワードの先頭または末尾にスペースを含めることはできません。"
+
+#. UI.SERVERCREATIONSCREEN.INVALIDPASSWORD_TITLE
+msgctxt "UI.SERVERCREATIONSCREEN.INVALIDPASSWORD_TITLE"
+msgid "Bad Password"
+msgstr "パスワード無効"
+
+#. UI.SERVERCREATIONSCREEN.INVALIDSERVERNAME_BODY
+msgctxt "UI.SERVERCREATIONSCREEN.INVALIDSERVERNAME_BODY"
+msgid "No one will be able to find you if you don't have a name!"
+msgstr "サーバー名を設定してください。(他のプレイヤーは、サーバー名でサーバーを検索します)"
+
+#. UI.SERVERCREATIONSCREEN.INVALIDSERVERNAME_TITLE
+msgctxt "UI.SERVERCREATIONSCREEN.INVALIDSERVERNAME_TITLE"
+msgid "Missing Server Name"
+msgstr "サーバー名未設定"
+
+#. UI.SERVERCREATIONSCREEN.MANAGE_ACCOUNT
+msgctxt "UI.SERVERCREATIONSCREEN.MANAGE_ACCOUNT"
+msgid "Account"
+msgstr "アカウント"
+
+#. UI.SERVERCREATIONSCREEN.MANAGE_SLOT
+msgctxt "UI.SERVERCREATIONSCREEN.MANAGE_SLOT"
+msgid "Manage World"
+msgstr "ワールドを管理"
+
+#. UI.SERVERCREATIONSCREEN.MANAGE_TEXT
+msgctxt "UI.SERVERCREATIONSCREEN.MANAGE_TEXT"
+msgid "Local world files are available at:\nSAVEDATA:/{folder}/"
+msgstr "ローカルワールドのファイルを閲覧：\nSAVEDATA:/{folder}/"
+
+#. UI.SERVERCREATIONSCREEN.MAXPLAYERS
+msgctxt "UI.SERVERCREATIONSCREEN.MAXPLAYERS"
+msgid "Players:"
+msgstr "最大プレイヤー数："
+
+#. UI.SERVERCREATIONSCREEN.MODSDISABLEDWARNINGBODY
+msgctxt "UI.SERVERCREATIONSCREEN.MODSDISABLEDWARNINGBODY"
+msgid "Some mods used on this save are disabled, which could cause issues. Continue?"
+msgstr "このセーブデータで使用されているMODが一部無効になっているため、問題が発生する可能性があります。続けますか？"
+
+#. UI.SERVERCREATIONSCREEN.MODSDISABLEDWARNINGTITLE
+msgctxt "UI.SERVERCREATIONSCREEN.MODSDISABLEDWARNINGTITLE"
+msgid "WARNING - Mods Disabled"
+msgstr "注意：MODが無効"
+
+#. UI.SERVERCREATIONSCREEN.MODSOUTOFDATEWARNINGBODY
+msgctxt "UI.SERVERCREATIONSCREEN.MODSOUTOFDATEWARNINGBODY"
+msgid "Some enabled mods are out of date, which could cause issues. Continue?"
+msgstr "有効になっているMODの一部が旧バージョンのため、問題が発生する可能性があります。続けますか？"
+
+#. UI.SERVERCREATIONSCREEN.MODSOUTOFDATEWARNINGTITLE
+msgctxt "UI.SERVERCREATIONSCREEN.MODSOUTOFDATEWARNINGTITLE"
+msgid "WARNING - Mods Out of Date"
+msgstr "注意：MODが旧バージョン"
+
+#. UI.SERVERCREATIONSCREEN.NAME_DUPLICATE_SLOT
+msgctxt "UI.SERVERCREATIONSCREEN.NAME_DUPLICATE_SLOT"
+msgid "Duplicate World Name:"
+msgstr "ワールド名を複製："
+
+#. UI.SERVERCREATIONSCREEN.NEWGAME
+msgctxt "UI.SERVERCREATIONSCREEN.NEWGAME"
+msgid "New World"
+msgstr "新しいワールド"
+
+#. UI.SERVERCREATIONSCREEN.NEWGAME_FMT
+msgctxt "UI.SERVERCREATIONSCREEN.NEWGAME_FMT"
+msgid "{name}'s World"
+msgstr "{name}の世界"
+
+#. UI.SERVERCREATIONSCREEN.NEWGAME_SUFFIX
+msgctxt "UI.SERVERCREATIONSCREEN.NEWGAME_SUFFIX"
+msgid "'s World"
+msgstr "のワールド"
+
+#. UI.SERVERCREATIONSCREEN.NEWHOST_DESC.ALONE
+msgctxt "UI.SERVERCREATIONSCREEN.NEWHOST_DESC.ALONE"
+msgid "Play alone in a private world where you can collect your bearings and get the hang of not starving. This is recommended for your first time playing."
+msgstr "非公開のワールドでテストプレイしながら、ゲームのコツをつかめます。このゲームを初めてプレイする人におすすめ。"
+
+#. UI.SERVERCREATIONSCREEN.NEWHOST_DESC.TOGETHER
+msgctxt "UI.SERVERCREATIONSCREEN.NEWHOST_DESC.TOGETHER"
+msgid "Start an online world where other players can join in your adventures. It's up to you whether your world is open to everyone, or just your friends."
+msgstr "他のプレイヤーも参加できるオンラインサーバーを立ち上げます。誰でも参加できるようにすることも、フレンドだけを招待することもできます。"
+
+#. UI.SERVERCREATIONSCREEN.NEWHOST_TITLE
+msgctxt "UI.SERVERCREATIONSCREEN.NEWHOST_TITLE"
+msgid "Creating your first world?"
+msgstr "最初のワールドを作成しますか？"
+
+#. UI.SERVERCREATIONSCREEN.NEWHOST_TYPE.ALONE
+msgctxt "UI.SERVERCREATIONSCREEN.NEWHOST_TYPE.ALONE"
+msgid "Alone"
+msgstr "ソロ"
+
+#. UI.SERVERCREATIONSCREEN.NEWHOST_TYPE.TOGETHER
+msgctxt "UI.SERVERCREATIONSCREEN.NEWHOST_TYPE.TOGETHER"
+msgid "Together"
+msgstr "Together"
+
+#. UI.SERVERCREATIONSCREEN.NO
+msgctxt "UI.SERVERCREATIONSCREEN.NO"
+msgid "No"
+msgstr "いいえ"
+
+#. UI.SERVERCREATIONSCREEN.NONAMEGAME
+msgctxt "UI.SERVERCREATIONSCREEN.NONAMEGAME"
+msgid "[No Name]"
+msgstr "[名前なし]"
+
+#. UI.SERVERCREATIONSCREEN.NO_MATCHING_SERVERS
+msgctxt "UI.SERVERCREATIONSCREEN.NO_MATCHING_SERVERS"
+msgid "No save games match your search."
+msgstr "検索に一致するセーブデータは見つかりませんでした。"
+
+#. UI.SERVERCREATIONSCREEN.OFF
+msgctxt "UI.SERVERCREATIONSCREEN.OFF"
+msgid "Off"
+msgstr "OFF"
+
+#. UI.SERVERCREATIONSCREEN.OFFLINEMODEBODYCREATE
+msgctxt "UI.SERVERCREATIONSCREEN.OFFLINEMODEBODYCREATE"
+msgid "Are you sure you want to create an offline world? This is a limited mode where only players on your Local Area Network can join. Players will not be able to receive or use Collection Items in this world."
+msgstr "オフラインのワールドには、同一ローカルエリアネットワーク上のプレイヤー以外は参加できません。また、コレクションアイテムの取得や使用もできません。オフラインのワールドを作成しますか？"
+
+#. UI.SERVERCREATIONSCREEN.OFFLINEMODEBODYRESUME
+msgctxt "UI.SERVERCREATIONSCREEN.OFFLINEMODEBODYRESUME"
+msgid "You are resuming an offline world. Only users on your Local Area Network will be able to join this world. Players will not be able to receive or use Collection Items in this world."
+msgstr "オフラインのワールドを再開します。このワールドには、同一ローカルエリアネットワーク上のプレイヤー以外は参加できません。また、コレクションアイテムの取得や使用もできません。"
+
+#. UI.SERVERCREATIONSCREEN.OFFLINEMODETITLE
+msgctxt "UI.SERVERCREATIONSCREEN.OFFLINEMODETITLE"
+msgid "Offline Mode"
+msgstr "オフラインモード"
+
+#. UI.SERVERCREATIONSCREEN.OFFLINE_WORLD
+msgctxt "UI.SERVERCREATIONSCREEN.OFFLINE_WORLD"
+msgid "Offline"
+msgstr "オフライン"
+
+#. UI.SERVERCREATIONSCREEN.OK
+msgctxt "UI.SERVERCREATIONSCREEN.OK"
+msgid "OK"
+msgstr "OK"
+
+#. UI.SERVERCREATIONSCREEN.ON
+msgctxt "UI.SERVERCREATIONSCREEN.ON"
+msgid "On"
+msgstr "ON"
+
+#. UI.SERVERCREATIONSCREEN.ONLINEONLYBODY
+msgctxt "UI.SERVERCREATIONSCREEN.ONLINEONLYBODY"
+msgid "You can only resume an online world when you have a connection to Steam and Klei. Please log in and try again."
+msgstr "オンラインのワールドを再開できるのは、SteamとKleiに接続中のときだけです。ログインしてもう一度お試しください。"
+
+#. UI.SERVERCREATIONSCREEN.ONLINEONLYBODY_PS4
+msgctxt "UI.SERVERCREATIONSCREEN.ONLINEONLYBODY_PS4"
+msgid "You are currently in offline mode and cannot resume an online world. Please log in and try again."
+msgstr "現在オフラインモードであり、オンライン世界を再開できません。ログインして再試行してください。"
+
+#. UI.SERVERCREATIONSCREEN.ONLINEONLYBODY_RAIL
+msgctxt "UI.SERVERCREATIONSCREEN.ONLINEONLYBODY_RAIL"
+msgid "You can only resume an online world when you have a connection to the game servers. Please log in and try again."
+msgstr "オンラインのワールドを再開できるのは、ゲームサーバーに接続中のときだけです。ログインしてもう一度お試しください。"
+
+#. UI.SERVERCREATIONSCREEN.ONLINEONLYBODY_SPLITSCREEN
+msgctxt "UI.SERVERCREATIONSCREEN.ONLINEONLYBODY_SPLITSCREEN"
+msgid "You are currently in offline mode and cannot resume an online world. Please log in and try again."
+msgstr "現在オフラインモードであり、オンライン世界を再開できません。ログインして再試行してください。"
+
+#. UI.SERVERCREATIONSCREEN.ONLINEONYTITLE
+msgctxt "UI.SERVERCREATIONSCREEN.ONLINEONYTITLE"
+msgid "Online World"
+msgstr "オンラインのワールド"
+
+#. UI.SERVERCREATIONSCREEN.ONLINE_MODE
+msgctxt "UI.SERVERCREATIONSCREEN.ONLINE_MODE"
+msgid "Server Mode:"
+msgstr "サーバーモード："
+
+#. UI.SERVERCREATIONSCREEN.OPENSAVEFOLDER
+msgctxt "UI.SERVERCREATIONSCREEN.OPENSAVEFOLDER"
+msgid "Open World Folder"
+msgstr "ワールドフォルダを開く"
+
+#. UI.SERVERCREATIONSCREEN.PRIVACY.CLAN
+msgctxt "UI.SERVERCREATIONSCREEN.PRIVACY.CLAN"
+msgid "Steam Group"
+msgstr "Steamグループ"
+
+#. UI.SERVERCREATIONSCREEN.PRIVACY.FRIENDS
+msgctxt "UI.SERVERCREATIONSCREEN.PRIVACY.FRIENDS"
+msgid "Friends Only"
+msgstr "フレンドのみ"
+
+#. UI.SERVERCREATIONSCREEN.PRIVACY.LOCAL
+msgctxt "UI.SERVERCREATIONSCREEN.PRIVACY.LOCAL"
+msgid "Local Only"
+msgstr "ローカルのみ"
+
+#. UI.SERVERCREATIONSCREEN.PRIVACY.PUBLIC
+msgctxt "UI.SERVERCREATIONSCREEN.PRIVACY.PUBLIC"
+msgid "Public"
+msgstr "パブリック"
+
+#. UI.SERVERCREATIONSCREEN.PRIVACY_LABEL
+msgctxt "UI.SERVERCREATIONSCREEN.PRIVACY_LABEL"
+msgid "Privacy:"
+msgstr "プライバシー:"
+
+#. UI.SERVERCREATIONSCREEN.PVP
+msgctxt "UI.SERVERCREATIONSCREEN.PVP"
+msgid "PvP:"
+msgstr "PvP："
+
+#. UI.SERVERCREATIONSCREEN.RESUME
+msgctxt "UI.SERVERCREATIONSCREEN.RESUME"
+msgid "Resume World"
+msgstr "ワールドを再開"
+
+#. UI.SERVERCREATIONSCREEN.SAVECHANGES
+msgctxt "UI.SERVERCREATIONSCREEN.SAVECHANGES"
+msgid "Save Changes"
+msgstr "変更をセーブ"
+
+#. UI.SERVERCREATIONSCREEN.SAVE_TYPE
+msgctxt "UI.SERVERCREATIONSCREEN.SAVE_TYPE"
+msgid "Save Type:"
+msgstr "セーブの種類："
+
+#. UI.SERVERCREATIONSCREEN.SAVE_TYPE_CLOUD
+msgctxt "UI.SERVERCREATIONSCREEN.SAVE_TYPE_CLOUD"
+msgid "Steam Cloud Save"
+msgstr "Steamクラウドセーブ"
+
+#. UI.SERVERCREATIONSCREEN.SAVE_TYPE_LOCAL
+msgctxt "UI.SERVERCREATIONSCREEN.SAVE_TYPE_LOCAL"
+msgid "Local Save"
+msgstr "ローカルセーブ"
+
+#. UI.SERVERCREATIONSCREEN.SEARCH
+msgctxt "UI.SERVERCREATIONSCREEN.SEARCH"
+msgid "Search"
+msgstr "検索"
+
+#. UI.SERVERCREATIONSCREEN.SELECT_SLOT
+msgctxt "UI.SERVERCREATIONSCREEN.SELECT_SLOT"
+msgid "Select Slot"
+msgstr "スロットを選択"
+
+#. UI.SERVERCREATIONSCREEN.SERVERDAY
+msgctxt "UI.SERVERCREATIONSCREEN.SERVERDAY"
+msgid "Day"
+msgstr "日"
+
+#. UI.SERVERCREATIONSCREEN.SERVERDAY_NEW
+msgctxt "UI.SERVERCREATIONSCREEN.SERVERDAY_NEW"
+msgid "A Whole New World"
+msgstr "新規作成"
+
+#. UI.SERVERCREATIONSCREEN.SERVERDAY_SEASON_V2
+msgctxt "UI.SERVERCREATIONSCREEN.SERVERDAY_SEASON_V2"
+msgid "{season} Day {day_count}"
+msgstr "{season}{day_count}日目"
+
+#. UI.SERVERCREATIONSCREEN.SERVERDAY_V2
+msgctxt "UI.SERVERCREATIONSCREEN.SERVERDAY_V2"
+msgid "Day {day_count}"
+msgstr "{day_count}日目"
+
+#. UI.SERVERCREATIONSCREEN.SERVERDESC
+msgctxt "UI.SERVERCREATIONSCREEN.SERVERDESC"
+msgid "Description:"
+msgstr "説明："
+
+#. UI.SERVERCREATIONSCREEN.SERVERNAME
+msgctxt "UI.SERVERCREATIONSCREEN.SERVERNAME"
+msgid "Name:"
+msgstr "名前："
+
+#. UI.SERVERCREATIONSCREEN.SERVERPASSWORD
+msgctxt "UI.SERVERCREATIONSCREEN.SERVERPASSWORD"
+msgid "Password:"
+msgstr "パスワード："
+
+#. UI.SERVERCREATIONSCREEN.SERVERSETTINGS
+msgctxt "UI.SERVERCREATIONSCREEN.SERVERSETTINGS"
+msgid "Settings"
+msgstr "設定"
+
+#. UI.SERVERCREATIONSCREEN.SERVERSETTINGS_LONG
+msgctxt "UI.SERVERCREATIONSCREEN.SERVERSETTINGS_LONG"
+msgid "Server Settings"
+msgstr "サーバー設定"
+
+#. UI.SERVERCREATIONSCREEN.SLOT
+msgctxt "UI.SERVERCREATIONSCREEN.SLOT"
+msgid "Server Slot"
+msgstr "サーバースロット"
+
+#. UI.SERVERCREATIONSCREEN.SNAPSHOTS
+msgctxt "UI.SERVERCREATIONSCREEN.SNAPSHOTS"
+msgid "Rollback"
+msgstr "ロールバック"
+
+#. UI.SERVERCREATIONSCREEN.SORT_DATECREATED
+msgctxt "UI.SERVERCREATIONSCREEN.SORT_DATECREATED"
+msgid "Date Created"
+msgstr "作成日時"
+
+#. UI.SERVERCREATIONSCREEN.SORT_LASTPLAYED
+msgctxt "UI.SERVERCREATIONSCREEN.SORT_LASTPLAYED"
+msgid "Last Played"
+msgstr "最終プレイ日時"
+
+#. UI.SERVERCREATIONSCREEN.SORT_MODE_FMT
+msgctxt "UI.SERVERCREATIONSCREEN.SORT_MODE_FMT"
+msgid "Sort Mode: {mode}"
+msgstr "並べ替えモード：{mode}"
+
+#. UI.SERVERCREATIONSCREEN.SORT_MOSTDAYS
+msgctxt "UI.SERVERCREATIONSCREEN.SORT_MOSTDAYS"
+msgid "Days Played"
+msgstr "プレイ日数"
+
+#. UI.SERVERCREATIONSCREEN.SURE
+msgctxt "UI.SERVERCREATIONSCREEN.SURE"
+msgid "Are you sure?"
+msgstr "本当に？"
+
+#. UI.SERVERCREATIONSCREEN.TOOLTIP_BANS
+msgctxt "UI.SERVERCREATIONSCREEN.TOOLTIP_BANS"
+msgid "See which players you've blocked from joining your servers"
+msgstr "サーバーへの参加をブロックしているプレーヤーを確認する"
+
+#. UI.SERVERCREATIONSCREEN.UGC_BLOCKED_DESCRIPTION_POSTFIX
+msgctxt "UI.SERVERCREATIONSCREEN.UGC_BLOCKED_DESCRIPTION_POSTFIX"
+msgid "'s World\" with a blank description."
+msgstr "説明の無い誰かの世界"
+
+#. UI.SERVERCREATIONSCREEN.UGC_BLOCKED_DESCRIPTION_PREFIX
+msgctxt "UI.SERVERCREATIONSCREEN.UGC_BLOCKED_DESCRIPTION_PREFIX"
+msgid "Use of user-generated media is not allowed for your account.\nOnline players will see your server name as \""
+msgstr "ユーザーが作成したメディアはあなたのアカウントで使用できません。\nオンラインプレイヤーにはあなたのサーバー名が\"\"と表示されます。"
+
+#. UI.SERVERCREATIONSCREEN.UGC_BLOCKED_DESCRIPTION_PREFIX_SPLITSCREEN
+msgctxt "UI.SERVERCREATIONSCREEN.UGC_BLOCKED_DESCRIPTION_PREFIX_SPLITSCREEN"
+msgid "Use of user-generated media is not allowed for the signed in accounts.\nOnline players will see your server name as \""
+msgstr "ユーザーが作成したメディアはサインインされたアカウントで使用できません。\nオンラインプレイヤーにはあなたのサーバー名が\"\"と表示されます。"
+
+#. UI.SERVERCREATIONSCREEN.VIEWBANS
+msgctxt "UI.SERVERCREATIONSCREEN.VIEWBANS"
+msgid "View Bans"
+msgstr "追放者を表示"
+
+#. UI.SERVERCREATIONSCREEN.VIEWWORLD
+msgctxt "UI.SERVERCREATIONSCREEN.VIEWWORLD"
+msgid "View World"
+msgstr "ワールドの詳細"
+
+#. UI.SERVERCREATIONSCREEN.WORLD
+msgctxt "UI.SERVERCREATIONSCREEN.WORLD"
+msgid "World"
+msgstr "ワールド"
+
+#. UI.SERVERCREATIONSCREEN.WORLD_LONG_FMT
+msgctxt "UI.SERVERCREATIONSCREEN.WORLD_LONG_FMT"
+msgid "World: {location}"
+msgstr "世界:{location}"
+
+#. UI.SERVERCREATIONSCREEN.YES
+msgctxt "UI.SERVERCREATIONSCREEN.YES"
+msgid "Yes"
+msgstr "はい"
+

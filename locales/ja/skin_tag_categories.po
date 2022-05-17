@@ -1,0 +1,1175 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. SKIN_TAG_CATEGORIES.BEEFCLOTHINGTYPE.BEEFALO_BODY
+msgctxt "SKIN_TAG_CATEGORIES.BEEFCLOTHINGTYPE.BEEFALO_BODY"
+msgid "Beefalo Body"
+msgstr "ビーファロの体"
+
+#. SKIN_TAG_CATEGORIES.BEEFCLOTHINGTYPE.BEEFALO_FEET
+msgctxt "SKIN_TAG_CATEGORIES.BEEFCLOTHINGTYPE.BEEFALO_FEET"
+msgid "Beefalo Feet"
+msgstr "ビーファロの足"
+
+#. SKIN_TAG_CATEGORIES.BEEFCLOTHINGTYPE.BEEFALO_HEAD
+msgctxt "SKIN_TAG_CATEGORIES.BEEFCLOTHINGTYPE.BEEFALO_HEAD"
+msgid "Beefalo Head"
+msgstr "ビーファロの頭"
+
+#. SKIN_TAG_CATEGORIES.BEEFCLOTHINGTYPE.BEEFALO_HORN
+msgctxt "SKIN_TAG_CATEGORIES.BEEFCLOTHINGTYPE.BEEFALO_HORN"
+msgid "Beefalo Horn"
+msgstr "ビ－ファローの角"
+
+#. SKIN_TAG_CATEGORIES.BEEFCLOTHINGTYPE.BEEFALO_TAIL
+msgctxt "SKIN_TAG_CATEGORIES.BEEFCLOTHINGTYPE.BEEFALO_TAIL"
+msgid "Beefalo Tail"
+msgstr "ビーファロの尻尾"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WALTER
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WALTER"
+msgid "Walter"
+msgstr "ウォルター"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WANDA
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WANDA"
+msgid "Wanda"
+msgstr "ワンダ"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WARLY
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WARLY"
+msgid "Warly"
+msgstr "ワーリー"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WATHGRITHR
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WATHGRITHR"
+msgid "Wigfrid"
+msgstr "ウィグフリド"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WAXWELL
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WAXWELL"
+msgid "Maxwell"
+msgstr "マクスウェル"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WEBBER
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WEBBER"
+msgid "Webber"
+msgstr "ウェバー"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WENDY
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WENDY"
+msgid "Wendy"
+msgstr "ウェンディ"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WES
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WES"
+msgid "Wes"
+msgstr "ウェス"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WICKERBOTTOM
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WICKERBOTTOM"
+msgid "Wickerbottom"
+msgstr "ウィッカーボトム"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WILLOW
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WILLOW"
+msgid "Willow"
+msgstr "ウィロー"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WILSON
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WILSON"
+msgid "Wilson"
+msgstr "ウィルソン"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WINONA
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WINONA"
+msgid "Winona"
+msgstr "ウィノナ"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WOLFGANG
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WOLFGANG"
+msgid "Wolfgang"
+msgstr "ボルフガング"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WOODIE
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WOODIE"
+msgid "Woodie"
+msgstr "ウッディ"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WORMWOOD
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WORMWOOD"
+msgid "Wormwood"
+msgstr "ワームウッド"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WORTOX
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WORTOX"
+msgid "Wortox"
+msgstr "ウォルトックス"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WURT
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WURT"
+msgid "Wurt"
+msgstr "ワート"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WX78
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WX78"
+msgid "WX-78"
+msgstr "WX-78"
+
+#. SKIN_TAG_CATEGORIES.CLOTHINGTYPE.CLOTHING_BODY
+msgctxt "SKIN_TAG_CATEGORIES.CLOTHINGTYPE.CLOTHING_BODY"
+msgid "Body"
+msgstr "胴"
+
+#. SKIN_TAG_CATEGORIES.CLOTHINGTYPE.CLOTHING_FEET
+msgctxt "SKIN_TAG_CATEGORIES.CLOTHINGTYPE.CLOTHING_FEET"
+msgid "Feet"
+msgstr "足"
+
+#. SKIN_TAG_CATEGORIES.CLOTHINGTYPE.CLOTHING_HAND
+msgctxt "SKIN_TAG_CATEGORIES.CLOTHINGTYPE.CLOTHING_HAND"
+msgid "Hand"
+msgstr "ハンド"
+
+#. SKIN_TAG_CATEGORIES.CLOTHINGTYPE.CLOTHING_LEGS
+msgctxt "SKIN_TAG_CATEGORIES.CLOTHINGTYPE.CLOTHING_LEGS"
+msgid "Legs"
+msgstr "脚"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.ANCIENT
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.ANCIENT"
+msgid "Ancient Collection"
+msgstr "古代コレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.BOY
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.BOY"
+msgid "Farmhand Collection"
+msgstr "ファームハンドコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.CACTUS
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.CACTUS"
+msgid "Oasis Bound Collection"
+msgstr "オアシスバウンドコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.CAVE
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.CAVE"
+msgid "Abyssal Collection"
+msgstr "アビーサルコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.CHEF
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.CHEF"
+msgid "Head Chef Collection"
+msgstr "ヘッドシェフコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.CIRCUS
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.CIRCUS"
+msgid "Side Show Collection"
+msgstr "サイドショーコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.COOK
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.COOK"
+msgid "Line Cook Collection"
+msgstr "コックさんコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.COSTUME
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.COSTUME"
+msgid "Costume Collection"
+msgstr "カスタムコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.COTTAGE
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.COTTAGE"
+msgid "Cottage Collection"
+msgstr "田園コレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.CRYSTAL
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.CRYSTAL"
+msgid "Crystalline Collection"
+msgstr "クリスタルコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.DETECTIVE
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.DETECTIVE"
+msgid "Detective Collection"
+msgstr "探偵コレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.FANTASY
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.FANTASY"
+msgid "Fantasmical Collection"
+msgstr "空想コレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.FISHERMAN
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.FISHERMAN"
+msgid "Trawler Collection"
+msgstr "トロールコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.FOOLS
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.FOOLS"
+msgid "Fool's Collection"
+msgstr "フールコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.FORMAL
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.FORMAL"
+msgid "Formal Collection"
+msgstr "フォーマルコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.GOTHIC
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.GOTHIC"
+msgid "Gothic Collection"
+msgstr "ゴシックコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.HALLOWED
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.HALLOWED"
+msgid "Hallowed Nights Collection"
+msgstr "聖夜コレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.HANDMEDOWN
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.HANDMEDOWN"
+msgid "Hand-me-down Collection"
+msgstr "ハンドミーダウンコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.HAUNTEDDOLL
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.HAUNTEDDOLL"
+msgid "Forlorn Doll Collection"
+msgstr "孤独な人形コレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.HEART
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.HEART"
+msgid "Heart Collection"
+msgstr "ハートコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.HOCKEY
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.HOCKEY"
+msgid "Canadiana Collection"
+msgstr "カナディアンコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.ICE
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.ICE"
+msgid "Snowfallen Collection"
+msgstr "スノーフォールンコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.INVISIBLE
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.INVISIBLE"
+msgid "Pantomime Collection"
+msgstr "パントマイムコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.LAVA
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.LAVA"
+msgid "Forge Collection"
+msgstr "フォージコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.LUNAR
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.LUNAR"
+msgid "Lunar Collection"
+msgstr "ルナコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.MIGHTY
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.MIGHTY"
+msgid "Musclebound Collection"
+msgstr "筋骨隆々コレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.MINOTAUR
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.MINOTAUR"
+msgid "Minotaur Collection"
+msgstr "ミノタウロスコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.MUSHROOM
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.MUSHROOM"
+msgid "Hollow Collection"
+msgstr "ホローコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.NAUTICAL
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.NAUTICAL"
+msgid "Nautical Collection"
+msgstr "航海備品コレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.NEXTKIN
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.NEXTKIN"
+msgid "Next of Kin Collection"
+msgstr "ネクストオブキンコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.ORIGINAL
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.ORIGINAL"
+msgid "Uncorrupted Collection"
+msgstr "壊れないコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.PROMOTION
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.PROMOTION"
+msgid "Promotional Collection"
+msgstr "プロモーションコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.RETRO
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.RETRO"
+msgid "Experimental Collection"
+msgstr "実験のコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.ROSE
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.ROSE"
+msgid "Rose Collection"
+msgstr "ローズコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.SEASIDE
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.SEASIDE"
+msgid "Seaside Collection"
+msgstr "シーサイドコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.SHADOW
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.SHADOW"
+msgid "Shadow Collection"
+msgstr "シャドウコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.SHORTS
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.SHORTS"
+msgid "Shorts Collection"
+msgstr "ショートコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.STEAMPUNK
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.STEAMPUNK"
+msgid "Tinkersmith Collection"
+msgstr "時計職人コレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.STRONGMAN
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.STRONGMAN"
+msgid "Strongman Collection"
+msgstr "凄腕の男コレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.SURVIVOR
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.SURVIVOR"
+msgid "Survivor Collection"
+msgstr "サバイバーコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.T_UPDATE
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.T_UPDATE"
+msgid "An Eye for an Eye Collection"
+msgstr "目には目をコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.VALKYRIE
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.VALKYRIE"
+msgid "Winged Victory Collection"
+msgstr "翼の栄光コレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.VARG
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.VARG"
+msgid "Year of the Varg Collection"
+msgstr "ヴァーグの年コレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.VICTORIAN
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.VICTORIAN"
+msgid "Victorian Collection"
+msgstr "ビクトリアンコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.WINTER
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.WINTER"
+msgid "Winter Collection"
+msgstr "ウィンターコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.YOTC
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.YOTC"
+msgid "Year of the Carrat Collection"
+msgstr "カラットの年コレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.YOTP
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.YOTP"
+msgid "Year of the Pig King Collection"
+msgstr "豚王の年コレクション"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.YULE
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.YULE"
+msgid "Merrymaker Collection"
+msgstr "メリーメーカーコレクション"
+
+#. SKIN_TAG_CATEGORIES.COLOR.BLACK
+msgctxt "SKIN_TAG_CATEGORIES.COLOR.BLACK"
+msgid "Black"
+msgstr "ブラック"
+
+#. SKIN_TAG_CATEGORIES.COLOR.BLUE
+msgctxt "SKIN_TAG_CATEGORIES.COLOR.BLUE"
+msgid "Blue"
+msgstr "ブルー"
+
+#. SKIN_TAG_CATEGORIES.COLOR.BROWN
+msgctxt "SKIN_TAG_CATEGORIES.COLOR.BROWN"
+msgid "Brown"
+msgstr "ブラウン"
+
+#. SKIN_TAG_CATEGORIES.COLOR.GREEN
+msgctxt "SKIN_TAG_CATEGORIES.COLOR.GREEN"
+msgid "Green"
+msgstr "グリーン"
+
+#. SKIN_TAG_CATEGORIES.COLOR.GREY
+msgctxt "SKIN_TAG_CATEGORIES.COLOR.GREY"
+msgid "Gray"
+msgstr "グレー"
+
+#. SKIN_TAG_CATEGORIES.COLOR.NAVY
+msgctxt "SKIN_TAG_CATEGORIES.COLOR.NAVY"
+msgid "Navy"
+msgstr "ネイビー"
+
+#. SKIN_TAG_CATEGORIES.COLOR.ORANGE
+msgctxt "SKIN_TAG_CATEGORIES.COLOR.ORANGE"
+msgid "Orange"
+msgstr "オレンジ"
+
+#. SKIN_TAG_CATEGORIES.COLOR.PINK
+msgctxt "SKIN_TAG_CATEGORIES.COLOR.PINK"
+msgid "Pink"
+msgstr "ピンク"
+
+#. SKIN_TAG_CATEGORIES.COLOR.PURPLE
+msgctxt "SKIN_TAG_CATEGORIES.COLOR.PURPLE"
+msgid "Purple"
+msgstr "パープル"
+
+#. SKIN_TAG_CATEGORIES.COLOR.RED
+msgctxt "SKIN_TAG_CATEGORIES.COLOR.RED"
+msgid "Red"
+msgstr "レッド"
+
+#. SKIN_TAG_CATEGORIES.COLOR.TAN
+msgctxt "SKIN_TAG_CATEGORIES.COLOR.TAN"
+msgid "Tan"
+msgstr "ベージュ"
+
+#. SKIN_TAG_CATEGORIES.COLOR.TEAL
+msgctxt "SKIN_TAG_CATEGORIES.COLOR.TEAL"
+msgid "Teal"
+msgstr "ライトブルー"
+
+#. SKIN_TAG_CATEGORIES.COLOR.WHITE
+msgctxt "SKIN_TAG_CATEGORIES.COLOR.WHITE"
+msgid "White"
+msgstr "ホワイト"
+
+#. SKIN_TAG_CATEGORIES.COLOR.YELLOW
+msgctxt "SKIN_TAG_CATEGORIES.COLOR.YELLOW"
+msgid "Yellow"
+msgstr "イエロー"
+
+#. SKIN_TAG_CATEGORIES.ITEM.ABIGAIL
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.ABIGAIL"
+msgid "Abigail"
+msgstr "Abigail"
+
+#. SKIN_TAG_CATEGORIES.ITEM.ALCHEMY
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.ALCHEMY"
+msgid "Alchemy Engine"
+msgstr "秘術のエンジン"
+
+#. SKIN_TAG_CATEGORIES.ITEM.ALTERGUARDIANHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.ALTERGUARDIANHAT"
+msgid "Enlightened Crown"
+msgstr "啓発の王冠"
+
+#. SKIN_TAG_CATEGORIES.ITEM.AMULET_RED
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.AMULET_RED"
+msgid "Life Giving Amulet"
+msgstr "命を与えるお守り"
+
+#. SKIN_TAG_CATEGORIES.ITEM.ARMORGRASS
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.ARMORGRASS"
+msgid "Grass Suit"
+msgstr "草のスーツ"
+
+#. SKIN_TAG_CATEGORIES.ITEM.ARMORMARBLE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.ARMORMARBLE"
+msgid "Marble Suit"
+msgstr "大理石のスーツ"
+
+#. SKIN_TAG_CATEGORIES.ITEM.ARMORRUINS
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.ARMORRUINS"
+msgid "Thulecite Suit"
+msgstr "スーラサイトのスーツ"
+
+#. SKIN_TAG_CATEGORIES.ITEM.ARMORSKELETON
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.ARMORSKELETON"
+msgid "Bone Armor"
+msgstr "ボーンアーマー"
+
+#. SKIN_TAG_CATEGORIES.ITEM.ARMORWOOD
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.ARMORWOOD"
+msgid "Log Suit"
+msgstr "丸太のスーツ"
+
+#. SKIN_TAG_CATEGORIES.ITEM.ARMOR_SANITY
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.ARMOR_SANITY"
+msgid "Night Armor"
+msgstr "夜のよろい"
+
+#. SKIN_TAG_CATEGORIES.ITEM.ARROWSIGN_POST
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.ARROWSIGN_POST"
+msgid "Directional Sign"
+msgstr "矢印看板"
+
+#. SKIN_TAG_CATEGORIES.ITEM.AXE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.AXE"
+msgid "Axe"
+msgstr "斧"
+
+#. SKIN_TAG_CATEGORIES.ITEM.BACKPACK
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.BACKPACK"
+msgid "Backpack"
+msgstr "バックパック"
+
+#. SKIN_TAG_CATEGORIES.ITEM.BEDROLL
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.BEDROLL"
+msgid "Bed Roll"
+msgstr "ベッドロール"
+
+#. SKIN_TAG_CATEGORIES.ITEM.BEEBOX
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.BEEBOX"
+msgid "Bee Box"
+msgstr "養蜂箱"
+
+#. SKIN_TAG_CATEGORIES.ITEM.BEEFALOHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.BEEFALOHAT"
+msgid "Beefalo Hat"
+msgstr "ビーファロハット"
+
+#. SKIN_TAG_CATEGORIES.ITEM.BEEHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.BEEHAT"
+msgid "Beekeeper Hat"
+msgstr "養蜂家の帽子"
+
+#. SKIN_TAG_CATEGORIES.ITEM.BEEMINE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.BEEMINE"
+msgid "Bee Mine"
+msgstr "蜂地雷"
+
+#. SKIN_TAG_CATEGORIES.ITEM.BERNIE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.BERNIE"
+msgid "Bernie"
+msgstr "バーニー"
+
+#. SKIN_TAG_CATEGORIES.ITEM.BIRDCAGE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.BIRDCAGE"
+msgid "Birdcage"
+msgstr "鳥かご"
+
+#. SKIN_TAG_CATEGORIES.ITEM.BOOK_BRIMSTONE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.BOOK_BRIMSTONE"
+msgid "The End is Nigh!"
+msgstr "終わりに近づいている！"
+
+#. SKIN_TAG_CATEGORIES.ITEM.BOOMERANG
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.BOOMERANG"
+msgid "Boomerang"
+msgstr "ブーメラン"
+
+#. SKIN_TAG_CATEGORIES.ITEM.BUGNET
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.BUGNET"
+msgid "Bug Net"
+msgstr "害虫ネット"
+
+#. SKIN_TAG_CATEGORIES.ITEM.BUNDLE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.BUNDLE"
+msgid "Bundled Supplies"
+msgstr "束ねた荷物"
+
+#. SKIN_TAG_CATEGORIES.ITEM.CAMPFIRE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.CAMPFIRE"
+msgid "Campfire"
+msgstr "キャンプファイアー"
+
+#. SKIN_TAG_CATEGORIES.ITEM.CANE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.CANE"
+msgid "Cane"
+msgstr "杖"
+
+#. SKIN_TAG_CATEGORIES.ITEM.CATCOONHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.CATCOONHAT"
+msgid "Cat Cap"
+msgstr "キャットキャップ"
+
+#. SKIN_TAG_CATEGORIES.ITEM.CAVEIN_BOULDER
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.CAVEIN_BOULDER"
+msgid "Boulder"
+msgstr "大岩"
+
+#. SKIN_TAG_CATEGORIES.ITEM.CHEST
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.CHEST"
+msgid "Chest"
+msgstr "収納箱"
+
+#. SKIN_TAG_CATEGORIES.ITEM.CHESTER
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.CHESTER"
+msgid "Chester"
+msgstr "チェスター"
+
+#. SKIN_TAG_CATEGORIES.ITEM.COLDFIREPIT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.COLDFIREPIT"
+msgid "Endothermic Fire Pit"
+msgstr "吸熱炉"
+
+#. SKIN_TAG_CATEGORIES.ITEM.CROCKPOT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.CROCKPOT"
+msgid "Crock Pot"
+msgstr "電気鍋"
+
+#. SKIN_TAG_CATEGORIES.ITEM.DRAGONFLYCHEST
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.DRAGONFLYCHEST"
+msgid "Scaled Chest"
+msgstr "ウロコ飾り収納箱"
+
+#. SKIN_TAG_CATEGORIES.ITEM.DRAGONFLY_FURNACE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.DRAGONFLY_FURNACE"
+msgid "Scaled Furnace"
+msgstr "スケール炉"
+
+#. SKIN_TAG_CATEGORIES.ITEM.EARMUFFSHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.EARMUFFSHAT"
+msgid "Rabbit Earmuffs"
+msgstr "ウサギの耳当て"
+
+#. SKIN_TAG_CATEGORIES.ITEM.ENDTABLE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.ENDTABLE"
+msgid "End Table"
+msgstr "エンドテーブル"
+
+#. SKIN_TAG_CATEGORIES.ITEM.EYEBRELLAHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.EYEBRELLAHAT"
+msgid "Eyebrella"
+msgstr "アイブレラ"
+
+#. SKIN_TAG_CATEGORIES.ITEM.FARM_HOE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.FARM_HOE"
+msgid "Garden Hoe"
+msgstr "くわ"
+
+#. SKIN_TAG_CATEGORIES.ITEM.FEATHERFAN
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.FEATHERFAN"
+msgid "Luxury Fan"
+msgstr "ぜいたくな扇"
+
+#. SKIN_TAG_CATEGORIES.ITEM.FEATHERHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.FEATHERHAT"
+msgid "Feather Hat"
+msgstr "羽毛の帽子"
+
+#. SKIN_TAG_CATEGORIES.ITEM.FENCE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.FENCE"
+msgid "Wood Fence"
+msgstr "木製フェンス"
+
+#. SKIN_TAG_CATEGORIES.ITEM.FENCE_GATE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.FENCE_GATE"
+msgid "Wood Gate"
+msgstr "木製ゲート"
+
+#. SKIN_TAG_CATEGORIES.ITEM.FIREPIT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.FIREPIT"
+msgid "Fire Pit"
+msgstr "炉"
+
+#. SKIN_TAG_CATEGORIES.ITEM.FIRESTAFF
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.FIRESTAFF"
+msgid "Fire Staff"
+msgstr "火付け人"
+
+#. SKIN_TAG_CATEGORIES.ITEM.FIRESUPPRESSOR
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.FIRESUPPRESSOR"
+msgid "Ice Flingomatic"
+msgstr "アイス・オートピッチャー"
+
+#. SKIN_TAG_CATEGORIES.ITEM.FISHBOX
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.FISHBOX"
+msgid "Tin Fishin' Bin "
+msgstr "ブリキの魚入れ "
+
+#. SKIN_TAG_CATEGORIES.ITEM.FLOWERHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.FLOWERHAT"
+msgid "Garland"
+msgstr "花冠"
+
+#. SKIN_TAG_CATEGORIES.ITEM.FOOTBALLHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.FOOTBALLHAT"
+msgid "Football Helmet"
+msgstr "フットボールヘルメット"
+
+#. SKIN_TAG_CATEGORIES.ITEM.GLASSCUTTER
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.GLASSCUTTER"
+msgid "Glass Cutter"
+msgstr "ガラスカッター"
+
+#. SKIN_TAG_CATEGORIES.ITEM.GLOMMER
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.GLOMMER"
+msgid "Glommer"
+msgstr "Glommer"
+
+#. SKIN_TAG_CATEGORIES.ITEM.GOLDENAXE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.GOLDENAXE"
+msgid "Luxury Axe"
+msgstr "高級な斧"
+
+#. SKIN_TAG_CATEGORIES.ITEM.GOLDENFARMHOE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.GOLDENFARMHOE"
+msgid "Splendid Garden Hoe"
+msgstr "豪華なくわ"
+
+#. SKIN_TAG_CATEGORIES.ITEM.GOLDENPICKAXE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.GOLDENPICKAXE"
+msgid "Opulent Pickaxe"
+msgstr "豪勢なつるはし"
+
+#. SKIN_TAG_CATEGORIES.ITEM.GOLDENSHOVEL
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.GOLDENSHOVEL"
+msgid "Regal Shovel"
+msgstr "王者のシャベル"
+
+#. SKIN_TAG_CATEGORIES.ITEM.GRASS_UMBRELLA
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.GRASS_UMBRELLA"
+msgid "Pretty Parasol"
+msgstr "すてきパラソル"
+
+#. SKIN_TAG_CATEGORIES.ITEM.GREENSTAFF
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.GREENSTAFF"
+msgid "Deconstruction Staff"
+msgstr "非建設的な杖"
+
+#. SKIN_TAG_CATEGORIES.ITEM.HAMBAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.HAMBAT"
+msgid "Ham Bat"
+msgstr "ハムのバット"
+
+#. SKIN_TAG_CATEGORIES.ITEM.HAMMER
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.HAMMER"
+msgid "Hammer"
+msgstr "ハンマー"
+
+#. SKIN_TAG_CATEGORIES.ITEM.HEATROCK
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.HEATROCK"
+msgid "Thermal Stone"
+msgstr "ヒートロック"
+
+#. SKIN_TAG_CATEGORIES.ITEM.HUTCH
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.HUTCH"
+msgid "Hutch"
+msgstr "ハッチ"
+
+#. SKIN_TAG_CATEGORIES.ITEM.ICEBOX
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.ICEBOX"
+msgid "Ice Box"
+msgstr "アイスボックス"
+
+#. SKIN_TAG_CATEGORIES.ITEM.ICESTAFF
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.ICESTAFF"
+msgid "Ice Staff"
+msgstr "アイススタッフ"
+
+#. SKIN_TAG_CATEGORIES.ITEM.KRAMPUS_SACK
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.KRAMPUS_SACK"
+msgid "Krampus Sack"
+msgstr "クランプスの袋"
+
+#. SKIN_TAG_CATEGORIES.ITEM.LANTERN
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.LANTERN"
+msgid "Lantern"
+msgstr "ランタン"
+
+#. SKIN_TAG_CATEGORIES.ITEM.LIGHTER
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.LIGHTER"
+msgid "Willow's Lighter"
+msgstr "ウィローのライター"
+
+#. SKIN_TAG_CATEGORIES.ITEM.LIGHTNING_ROD
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.LIGHTNING_ROD"
+msgid "Lightning Rod"
+msgstr "光る棒"
+
+#. SKIN_TAG_CATEGORIES.ITEM.LUREPLANT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.LUREPLANT"
+msgid "Lureplant"
+msgstr "ルアプラント"
+
+#. SKIN_TAG_CATEGORIES.ITEM.MANIPULATOR
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.MANIPULATOR"
+msgid "Shadow Manipulator"
+msgstr "影の操縦者"
+
+#. SKIN_TAG_CATEGORIES.ITEM.MAST
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.MAST"
+msgid "Mast"
+msgstr "マスト"
+
+#. SKIN_TAG_CATEGORIES.ITEM.MASTUPGRADE_LAMP
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.MASTUPGRADE_LAMP"
+msgid "Deck Illuminator"
+msgstr "デッキ用照明器"
+
+#. SKIN_TAG_CATEGORIES.ITEM.MASTUPGRADE_ROD
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.MASTUPGRADE_ROD"
+msgid "Lightning Conductor"
+msgstr "雷伝導体"
+
+#. SKIN_TAG_CATEGORIES.ITEM.MEATRACK
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.MEATRACK"
+msgid "Drying Rack"
+msgstr "乾燥棚"
+
+#. SKIN_TAG_CATEGORIES.ITEM.MERMHOUSE_CRAFTED
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.MERMHOUSE_CRAFTED"
+msgid "Craftsmerm House"
+msgstr "職人の家"
+
+#. SKIN_TAG_CATEGORIES.ITEM.MINISIGN
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.MINISIGN"
+msgid "Mini Sign"
+msgstr "ミニ看板"
+
+#. SKIN_TAG_CATEGORIES.ITEM.MULTITOOL_AXE_PICKAXE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.MULTITOOL_AXE_PICKAXE"
+msgid "Pick/Axe"
+msgstr "取る／斧"
+
+#. SKIN_TAG_CATEGORIES.ITEM.MUSHROOM_LIGHT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.MUSHROOM_LIGHT"
+msgid "Mushlight"
+msgstr "マッシュライト"
+
+#. SKIN_TAG_CATEGORIES.ITEM.MUSHROOM_LIGHT2
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.MUSHROOM_LIGHT2"
+msgid "Glowcap"
+msgstr "グローキャップ"
+
+#. SKIN_TAG_CATEGORIES.ITEM.NIGHTSWORD
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.NIGHTSWORD"
+msgid "Dark Sword"
+msgstr "闇の剣"
+
+#. SKIN_TAG_CATEGORIES.ITEM.OAR
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.OAR"
+msgid "Oar"
+msgstr "オール"
+
+#. SKIN_TAG_CATEGORIES.ITEM.OARDRIFTWOOD
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.OARDRIFTWOOD"
+msgid "Driftwood Oar"
+msgstr "流木のオール"
+
+#. SKIN_TAG_CATEGORIES.ITEM.OCEANFISHINGROD
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.OCEANFISHINGROD"
+msgid "Sea Fishing Rod"
+msgstr "海釣り竿"
+
+#. SKIN_TAG_CATEGORIES.ITEM.ORANGESTAFF
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.ORANGESTAFF"
+msgid "The Lazy Explorer"
+msgstr "怠け者探検者の杖"
+
+#. SKIN_TAG_CATEGORIES.ITEM.PANFLUTE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.PANFLUTE"
+msgid "Pan Flute"
+msgstr "パンフルート"
+
+#. SKIN_TAG_CATEGORIES.ITEM.PICKAXE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.PICKAXE"
+msgid "Pickaxe"
+msgstr "つるはし"
+
+#. SKIN_TAG_CATEGORIES.ITEM.PIGGYBACK
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.PIGGYBACK"
+msgid "Piggyback"
+msgstr "おんぶ"
+
+#. SKIN_TAG_CATEGORIES.ITEM.PIGHOUSE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.PIGHOUSE"
+msgid "Pig House"
+msgstr "ブタ屋敷"
+
+#. SKIN_TAG_CATEGORIES.ITEM.PITCHFORK
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.PITCHFORK"
+msgid "Pitchfork"
+msgstr "熊手"
+
+#. SKIN_TAG_CATEGORIES.ITEM.RABBITHOUSE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.RABBITHOUSE"
+msgid "Rabbit Hutch"
+msgstr "ウサギ小屋"
+
+#. SKIN_TAG_CATEGORIES.ITEM.RAINOMETER
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.RAINOMETER"
+msgid "Rainometer"
+msgstr "雨量計"
+
+#. SKIN_TAG_CATEGORIES.ITEM.RAZOR
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.RAZOR"
+msgid "Razor"
+msgstr "かみそり"
+
+#. SKIN_TAG_CATEGORIES.ITEM.RESKIN
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.RESKIN"
+msgid "Clean Sweeper"
+msgstr "掃除機"
+
+#. SKIN_TAG_CATEGORIES.ITEM.REVIVER
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.REVIVER"
+msgid "Telltale Heart"
+msgstr "裏切りの心臓"
+
+#. SKIN_TAG_CATEGORIES.ITEM.RUINSHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.RUINSHAT"
+msgid "Thulecite Crown"
+msgstr "スーラサイトの王冠"
+
+#. SKIN_TAG_CATEGORIES.ITEM.RUINS_BAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.RUINS_BAT"
+msgid "Thulecite Club"
+msgstr "スーラサイトクラブ"
+
+#. SKIN_TAG_CATEGORIES.ITEM.SADDLE_BASIC
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.SADDLE_BASIC"
+msgid "Saddle"
+msgstr "くら"
+
+#. SKIN_TAG_CATEGORIES.ITEM.SALTBOX
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.SALTBOX"
+msgid "Salt Box"
+msgstr "塩の箱"
+
+#. SKIN_TAG_CATEGORIES.ITEM.SCIENCEMACHINE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.SCIENCEMACHINE"
+msgid "Science Machine"
+msgstr "科学機械"
+
+#. SKIN_TAG_CATEGORIES.ITEM.SCULPTINGTABLE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.SCULPTINGTABLE"
+msgid "Potter's Wheel"
+msgstr "陶芸家のろくろ"
+
+#. SKIN_TAG_CATEGORIES.ITEM.SEAFARINGPROTO
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.SEAFARINGPROTO"
+msgid "Think Tank"
+msgstr "シンクタンク"
+
+#. SKIN_TAG_CATEGORIES.ITEM.SEEDPOUCH
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.SEEDPOUCH"
+msgid "Seed Pack-It"
+msgstr "種入れ"
+
+#. SKIN_TAG_CATEGORIES.ITEM.SHOVEL
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.SHOVEL"
+msgid "Shovel"
+msgstr "シャベル"
+
+#. SKIN_TAG_CATEGORIES.ITEM.SKELETONHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.SKELETONHAT"
+msgid "Bone Helm"
+msgstr "ボーンヘルム"
+
+#. SKIN_TAG_CATEGORIES.ITEM.SPEAR
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.SPEAR"
+msgid "Spear"
+msgstr "槍"
+
+#. SKIN_TAG_CATEGORIES.ITEM.SPEAR_WATHGRITHR
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.SPEAR_WATHGRITHR"
+msgid "Battle Spear"
+msgstr "戦闘槍"
+
+#. SKIN_TAG_CATEGORIES.ITEM.STEERINGWHEEL
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.STEERINGWHEEL"
+msgid "Steering Wheel"
+msgstr "ハンドル"
+
+#. SKIN_TAG_CATEGORIES.ITEM.STRAWHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.STRAWHAT"
+msgid "Straw Hat"
+msgstr "麦わら帽子"
+
+#. SKIN_TAG_CATEGORIES.ITEM.SUPERTACKLECONTAINER
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.SUPERTACKLECONTAINER"
+msgid "Spectackler Box"
+msgstr "豪華な釣り道具箱"
+
+#. SKIN_TAG_CATEGORIES.ITEM.TACKLECONTAINER
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.TACKLECONTAINER"
+msgid "Tackle Box"
+msgstr "釣り道具箱"
+
+#. SKIN_TAG_CATEGORIES.ITEM.TELEBASE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.TELEBASE"
+msgid "Telelocator Focus"
+msgstr "テレロケーター・フォーカス"
+
+#. SKIN_TAG_CATEGORIES.ITEM.TELESTAFF
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.TELESTAFF"
+msgid "Telelocator Staff"
+msgstr "テレロケーターの杖"
+
+#. SKIN_TAG_CATEGORIES.ITEM.TENT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.TENT"
+msgid "Tent"
+msgstr "テント"
+
+#. SKIN_TAG_CATEGORIES.ITEM.TOPHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.TOPHAT"
+msgid "Top Hat"
+msgstr "シルクハット"
+
+#. SKIN_TAG_CATEGORIES.ITEM.TORCH
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.TORCH"
+msgid "Torch"
+msgstr "たいまつ"
+
+#. SKIN_TAG_CATEGORIES.ITEM.TRAP
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.TRAP"
+msgid "Trap"
+msgstr "罠"
+
+#. SKIN_TAG_CATEGORIES.ITEM.TRAP_TEETH
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.TRAP_TEETH"
+msgid "Tooth Trap"
+msgstr "歯の罠"
+
+#. SKIN_TAG_CATEGORIES.ITEM.UMBRELLA
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.UMBRELLA"
+msgid "Umbrella"
+msgstr "傘"
+
+#. SKIN_TAG_CATEGORIES.ITEM.WALL_MOONROCK
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.WALL_MOONROCK"
+msgid "Moon Rock Wall"
+msgstr "いん石の壁"
+
+#. SKIN_TAG_CATEGORIES.ITEM.WALL_RUINS
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.WALL_RUINS"
+msgid "Thulecite Wall"
+msgstr "スーラサイトの塀"
+
+#. SKIN_TAG_CATEGORIES.ITEM.WALL_STONE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.WALL_STONE"
+msgid "Stone Wall"
+msgstr "石の塀"
+
+#. SKIN_TAG_CATEGORIES.ITEM.WALRUSHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.WALRUSHAT"
+msgid "Tam o' Shanter"
+msgstr "タモシャンター"
+
+#. SKIN_TAG_CATEGORIES.ITEM.WALTERHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.WALTERHAT"
+msgid "Pinetree Pioneer Hat"
+msgstr "マツワケ隊の帽子"
+
+#. SKIN_TAG_CATEGORIES.ITEM.WARDROBE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.WARDROBE"
+msgid "Wardrobe"
+msgstr "洋服ダンス"
+
+#. SKIN_TAG_CATEGORIES.ITEM.WATERINGCAN
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.WATERINGCAN"
+msgid "Watering Can"
+msgstr "ジョウロ"
+
+#. SKIN_TAG_CATEGORIES.ITEM.WATERMELONHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.WATERMELONHAT"
+msgid "Fashion Melon"
+msgstr "スタイリッシュスイカ"
+
+#. SKIN_TAG_CATEGORIES.ITEM.WATHGRITHRHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.WATHGRITHRHAT"
+msgid "Battle Helm"
+msgstr "戦いの指令"
+
+#. SKIN_TAG_CATEGORIES.ITEM.WEBBER_BEARD
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.WEBBER_BEARD"
+msgid "Webber's Beard"
+msgstr "ウェバーのヒゲ"
+
+#. SKIN_TAG_CATEGORIES.ITEM.WHIP
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.WHIP"
+msgid "Tail o' Three Cats"
+msgstr "3匹の猫むち"
+
+#. SKIN_TAG_CATEGORIES.ITEM.WILSON_BEARD
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.WILSON_BEARD"
+msgid "Wilson's Beard"
+msgstr "ウィルソンのヒゲ"
+
+#. SKIN_TAG_CATEGORIES.ITEM.WINTERHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.WINTERHAT"
+msgid "Winter Hat"
+msgstr "冬用の帽子"
+
+#. SKIN_TAG_CATEGORIES.ITEM.WINTEROMETER
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.WINTEROMETER"
+msgid "Thermal Measurer"
+msgstr "周囲温度検測器"
+
+#. SKIN_TAG_CATEGORIES.ITEM.WORMHOLE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.WORMHOLE"
+msgid "Worm Hole"
+msgstr "ミミズの穴"
+
+#. SKIN_TAG_CATEGORIES.ITEM.YELLOWSTAFF
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.YELLOWSTAFF"
+msgid "Star Caller's Staff"
+msgstr "星召喚者の杖"
+
+#. SKIN_TAG_CATEGORIES.TYPE.BASE
+msgctxt "SKIN_TAG_CATEGORIES.TYPE.BASE"
+msgid "Head/Base"
+msgstr "ヘッド/ベース"
+
+#. SKIN_TAG_CATEGORIES.TYPE.BEEFALO
+msgctxt "SKIN_TAG_CATEGORIES.TYPE.BEEFALO"
+msgid "Beefalo Clothing"
+msgstr "ビーファロの衣装"
+
+#. SKIN_TAG_CATEGORIES.TYPE.CHARACTER
+msgctxt "SKIN_TAG_CATEGORIES.TYPE.CHARACTER"
+msgid "Character"
+msgstr "キャラクター"
+
+#. SKIN_TAG_CATEGORIES.TYPE.CLOTHING
+msgctxt "SKIN_TAG_CATEGORIES.TYPE.CLOTHING"
+msgid "Clothing"
+msgstr "コスチューム"
+
+#. SKIN_TAG_CATEGORIES.TYPE.CRAFTABLE
+msgctxt "SKIN_TAG_CATEGORIES.TYPE.CRAFTABLE"
+msgid "Craftable"
+msgstr "クラフト可能"
+
+#. SKIN_TAG_CATEGORIES.TYPE.CUP
+msgctxt "SKIN_TAG_CATEGORIES.TYPE.CUP"
+msgid "Cup"
+msgstr "カップ"
+
+#. SKIN_TAG_CATEGORIES.TYPE.EMOJI
+msgctxt "SKIN_TAG_CATEGORIES.TYPE.EMOJI"
+msgid "Emoticon"
+msgstr "絵文字"
+
+#. SKIN_TAG_CATEGORIES.TYPE.EMOTE
+msgctxt "SKIN_TAG_CATEGORIES.TYPE.EMOTE"
+msgid "Emote"
+msgstr "エモート"
+
+#. SKIN_TAG_CATEGORIES.TYPE.LOADING
+msgctxt "SKIN_TAG_CATEGORIES.TYPE.LOADING"
+msgid "Loading Image"
+msgstr "画像読み込み中"
+
+#. SKIN_TAG_CATEGORIES.TYPE.MYSTERYBOX
+msgctxt "SKIN_TAG_CATEGORIES.TYPE.MYSTERYBOX"
+msgid "Mystery Box"
+msgstr "謎の箱"
+
+#. SKIN_TAG_CATEGORIES.TYPE.PET
+msgctxt "SKIN_TAG_CATEGORIES.TYPE.PET"
+msgid "Critter"
+msgstr "獣"
+
+#. SKIN_TAG_CATEGORIES.TYPE.PLAYERPORTRAIT
+msgctxt "SKIN_TAG_CATEGORIES.TYPE.PLAYERPORTRAIT"
+msgid "Player Portrait"
+msgstr "選手の肖像画"
+
+#. SKIN_TAG_CATEGORIES.TYPE.PROFILEFLAIR
+msgctxt "SKIN_TAG_CATEGORIES.TYPE.PROFILEFLAIR"
+msgid "Profile Icon"
+msgstr "プロフィールアイコン"
+

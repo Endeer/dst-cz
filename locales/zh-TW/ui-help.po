@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.HELP.ACCEPT
+msgctxt "UI.HELP.ACCEPT"
+msgid "Accept Changes"
+msgstr "接受更改"
+
+#. UI.HELP.APPLY
+msgctxt "UI.HELP.APPLY"
+msgid "Apply"
+msgstr "應用"
+
+#. UI.HELP.BACK
+msgctxt "UI.HELP.BACK"
+msgid "Back"
+msgstr "返回"
+
+#. UI.HELP.CANCEL
+msgctxt "UI.HELP.CANCEL"
+msgid "Cancel"
+msgstr "取消"
+
+#. UI.HELP.CHANGECHARACTER
+msgctxt "UI.HELP.CHANGECHARACTER"
+msgid "Change Character"
+msgstr "更換角色"
+
+#. UI.HELP.CHANGEPAGE
+msgctxt "UI.HELP.CHANGEPAGE"
+msgid "Change Page"
+msgstr "改變頁面"
+
+#. UI.HELP.CHANGEVALUE
+msgctxt "UI.HELP.CHANGEVALUE"
+msgid "Change Value"
+msgstr "改變值"
+
+#. UI.HELP.CHANGE_MESSAGE
+msgctxt "UI.HELP.CHANGE_MESSAGE"
+msgid "Change Message"
+msgstr "切換信息"
+
+#. UI.HELP.CHANGE_TAB
+msgctxt "UI.HELP.CHANGE_TAB"
+msgid "Change Tab"
+msgstr "更改選項卡"
+
+#. UI.HELP.CHANGE_TEXT
+msgctxt "UI.HELP.CHANGE_TEXT"
+msgid "Change Text"
+msgstr "改變文本"
+
+#. UI.HELP.CLOSE
+msgctxt "UI.HELP.CLOSE"
+msgid "Close"
+msgstr "關閉"
+
+#. UI.HELP.CONFIGURE
+msgctxt "UI.HELP.CONFIGURE"
+msgid "Configure"
+msgstr "配置"
+
+#. UI.HELP.ENTER_TEXT
+msgctxt "UI.HELP.ENTER_TEXT"
+msgid "Enter Text"
+msgstr "輸入文本"
+
+#. UI.HELP.NEXT
+msgctxt "UI.HELP.NEXT"
+msgid "Next"
+msgstr "下一步"
+
+#. UI.HELP.NEXTPAGE
+msgctxt "UI.HELP.NEXTPAGE"
+msgid "Next Page"
+msgstr "下一頁"
+
+#. UI.HELP.NEXTVALUE
+msgctxt "UI.HELP.NEXTVALUE"
+msgid "Next Value"
+msgstr "下一個值"
+
+#. UI.HELP.PREV
+msgctxt "UI.HELP.PREV"
+msgid "Previous"
+msgstr "上一步"
+
+#. UI.HELP.PREVPAGE
+msgctxt "UI.HELP.PREVPAGE"
+msgid "Prev. Page"
+msgstr "上一頁"
+
+#. UI.HELP.PREVVALUE
+msgctxt "UI.HELP.PREVVALUE"
+msgid "Previous Value"
+msgstr "上一個值"
+
+#. UI.HELP.RANDOM
+msgctxt "UI.HELP.RANDOM"
+msgid "Random"
+msgstr "隨機"
+
+#. UI.HELP.REVERT
+msgctxt "UI.HELP.REVERT"
+msgid "Revert Changes"
+msgstr "還原更改"
+
+#. UI.HELP.ROTATE_LEFT
+msgctxt "UI.HELP.ROTATE_LEFT"
+msgid "Rotate Left"
+msgstr "向左旋轉"
+
+#. UI.HELP.ROTATE_RIGHT
+msgctxt "UI.HELP.ROTATE_RIGHT"
+msgid "Rotate Right"
+msgstr "向右旋轉"
+
+#. UI.HELP.SAVEPRESET
+msgctxt "UI.HELP.SAVEPRESET"
+msgid "Save Preset"
+msgstr "保存預設"
+
+#. UI.HELP.SCROLL
+msgctxt "UI.HELP.SCROLL"
+msgid "Scroll"
+msgstr "滾動"
+
+#. UI.HELP.SCROLLBACK
+msgctxt "UI.HELP.SCROLLBACK"
+msgid "Scroll Up"
+msgstr "向上滾動"
+
+#. UI.HELP.SCROLLFWD
+msgctxt "UI.HELP.SCROLLFWD"
+msgid "Scroll Down"
+msgstr "向下滾動"
+
+#. UI.HELP.SELECT
+msgctxt "UI.HELP.SELECT"
+msgid "Select"
+msgstr "選擇"
+
+#. UI.HELP.SERVERACTIONS
+msgctxt "UI.HELP.SERVERACTIONS"
+msgid "More Server Actions"
+msgstr "更多伺服器操作"
+
+#. UI.HELP.SHOWCHAT
+msgctxt "UI.HELP.SHOWCHAT"
+msgid "Show the Chat Tab"
+msgstr "顯示聊天選項卡"
+
+#. UI.HELP.SHOWPLAYERS
+msgctxt "UI.HELP.SHOWPLAYERS"
+msgid "Show the Players Tab"
+msgstr "顯示玩家選項卡"
+
+#. UI.HELP.TOGGLE
+msgctxt "UI.HELP.TOGGLE"
+msgid "Toggle"
+msgstr "切換"
+
+#. UI.HELP.VIEWGROUP
+msgctxt "UI.HELP.VIEWGROUP"
+msgid "View Group Page"
+msgstr "查看群組頁面"
+
+#. UI.HELP.ZOOM_IN
+msgctxt "UI.HELP.ZOOM_IN"
+msgid "Zoom In"
+msgstr "放大"
+
+#. UI.HELP.ZOOM_OUT
+msgctxt "UI.HELP.ZOOM_OUT"
+msgid "Zoom Out"
+msgstr "縮小"
+

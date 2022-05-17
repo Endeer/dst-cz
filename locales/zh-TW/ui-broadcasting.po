@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.BROADCASTING.ACCEPT
+msgctxt "UI.BROADCASTING.ACCEPT"
+msgid "Accept"
+msgstr "接受"
+
+#. UI.BROADCASTING.ACCEPTBODY
+msgctxt "UI.BROADCASTING.ACCEPTBODY"
+msgid "Do you wish to accept these changes?"
+msgstr "要接受這些更改嗎？"
+
+#. UI.BROADCASTING.ACCEPTGRAPHICSBODY
+msgctxt "UI.BROADCASTING.ACCEPTGRAPHICSBODY"
+msgid "Do you wish to accept these changes?"
+msgstr "要接受這些更改嗎？"
+
+#. UI.BROADCASTING.ACCEPTGRAPHICSTITLE
+msgctxt "UI.BROADCASTING.ACCEPTGRAPHICSTITLE"
+msgid "Accept Changes"
+msgstr "接受更改"
+
+#. UI.BROADCASTING.ACCEPTTITLE
+msgctxt "UI.BROADCASTING.ACCEPTTITLE"
+msgid "Accept Changes"
+msgstr "接受更改"
+
+#. UI.BROADCASTING.APPLY
+msgctxt "UI.BROADCASTING.APPLY"
+msgid "Apply"
+msgstr "應用"
+
+#. UI.BROADCASTING.AUDIO
+msgctxt "UI.BROADCASTING.AUDIO"
+msgid "Audio"
+msgstr "音訊"
+
+#. UI.BROADCASTING.BACKBODY
+msgctxt "UI.BROADCASTING.BACKBODY"
+msgid "Do you want to throw out your changes?"
+msgstr "要放棄更改嗎？"
+
+#. UI.BROADCASTING.BACKTITLE
+msgctxt "UI.BROADCASTING.BACKTITLE"
+msgid "Lose Changes?"
+msgstr "放棄更改？"
+
+#. UI.BROADCASTING.BANDWIDTH
+msgctxt "UI.BROADCASTING.BANDWIDTH"
+msgid "Bandwidth"
+msgstr "頻寬"
+
+#. UI.BROADCASTING.BROADCASTINGENABLED
+msgctxt "UI.BROADCASTING.BROADCASTINGENABLED"
+msgid "Broadcasting Enabled"
+msgstr "廣播已啟用"
+
+#. UI.BROADCASTING.CANCEL
+msgctxt "UI.BROADCASTING.CANCEL"
+msgid "Cancel"
+msgstr "取消"
+
+#. UI.BROADCASTING.CLOSE
+msgctxt "UI.BROADCASTING.CLOSE"
+msgid "Close"
+msgstr "關閉"
+
+#. UI.BROADCASTING.FORGET
+msgctxt "UI.BROADCASTING.FORGET"
+msgid "Forget Account"
+msgstr "忘記帳戶"
+
+#. UI.BROADCASTING.FRAMERATE
+msgctxt "UI.BROADCASTING.FRAMERATE"
+msgid "Frame Rate"
+msgstr "幀率"
+
+#. UI.BROADCASTING.HELP
+msgctxt "UI.BROADCASTING.HELP"
+msgid "Help"
+msgstr "幫助"
+
+#. UI.BROADCASTING.LOGIN
+msgctxt "UI.BROADCASTING.LOGIN"
+msgid "Login"
+msgstr "登錄"
+
+#. UI.BROADCASTING.LOGOUT
+msgctxt "UI.BROADCASTING.LOGOUT"
+msgid "Logout"
+msgstr "退出"
+
+#. UI.BROADCASTING.MICROPHONE
+msgctxt "UI.BROADCASTING.MICROPHONE"
+msgid "Microphone"
+msgstr "麥克風"
+
+#. UI.BROADCASTING.NO
+msgctxt "UI.BROADCASTING.NO"
+msgid "No"
+msgstr "否"
+
+#. UI.BROADCASTING.REVERT
+msgctxt "UI.BROADCASTING.REVERT"
+msgid "Revert Changes"
+msgstr "還原更改"
+
+#. UI.BROADCASTING.SIGNUP
+msgctxt "UI.BROADCASTING.SIGNUP"
+msgid "Sign Up"
+msgstr "註冊"
+
+#. UI.BROADCASTING.SMOOTHSCALING
+msgctxt "UI.BROADCASTING.SMOOTHSCALING"
+msgid "Smooth Scaling"
+msgstr "平滑縮放"
+
+#. UI.BROADCASTING.STARTSTREAM
+msgctxt "UI.BROADCASTING.STARTSTREAM"
+msgid "Start Stream"
+msgstr "開始直播"
+
+#. UI.BROADCASTING.STOPSTREAM
+msgctxt "UI.BROADCASTING.STOPSTREAM"
+msgid "Stop Stream"
+msgstr "停止直播"
+
+#. UI.BROADCASTING.SYSTEMSOUND
+msgctxt "UI.BROADCASTING.SYSTEMSOUND"
+msgid "System Sound"
+msgstr "系統聲音"
+
+#. UI.BROADCASTING.TWITCHCHAT
+msgctxt "UI.BROADCASTING.TWITCHCHAT"
+msgid "Twitch Chat"
+msgstr "Twitch聊天"
+
+#. UI.BROADCASTING.VIEWSTREAM
+msgctxt "UI.BROADCASTING.VIEWSTREAM"
+msgid "View Stream"
+msgstr "觀看直播"
+
+#. UI.BROADCASTING.WEBCAM
+msgctxt "UI.BROADCASTING.WEBCAM"
+msgid "Webcam Enabled"
+msgstr "攝像頭已啟用"
+
+#. UI.BROADCASTING.WEBCAMALPHA
+msgctxt "UI.BROADCASTING.WEBCAMALPHA"
+msgid "Webcam Alpha"
+msgstr "攝像頭透明度"
+
+#. UI.BROADCASTING.YES
+msgctxt "UI.BROADCASTING.YES"
+msgid "Yes"
+msgstr "是"
+

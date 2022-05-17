@@ -1,0 +1,725 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. MERM1_TALK_GREETING.1
+msgctxt "MERM1_TALK_GREETING.1"
+msgid "Thoughts don't come to me like they used to."
+msgstr "Pensamentos não me vêm como antigamente."
+
+#. MERM1_TALK_GREETING.2
+msgctxt "MERM1_TALK_GREETING.2"
+msgid "Who's Mumsy again? Ah, right. Nice lady."
+msgstr "Quem é a Mumsy, mesmo? Ah, certo. Boa senhora."
+
+#. MERM1_TALK_GREETING.3
+msgctxt "MERM1_TALK_GREETING.3"
+msgid "Been havin' odd cravings for fish lately. Hmf."
+msgstr "Tenho tido desejos estranhos de peixe ultimamente. Hunf."
+
+#. MERM1_TALK_GREETING.4
+msgctxt "MERM1_TALK_GREETING.4"
+msgid "Pip's too uptight. Always worryin' about me."
+msgstr "O Pip está muito nervoso. Sempre se preocupando comigo."
+
+#. MERM1_TALK_GREETING.5
+msgctxt "MERM1_TALK_GREETING.5"
+msgid "Hey, trade with ol'Sammy!"
+msgstr "Ei, negocie com o velho Sammy!"
+
+#. MERM1_TALK_GREETING.6
+msgctxt "MERM1_TALK_GREETING.6"
+msgid "SEEDS! SEEDS HERE!"
+msgstr "SEMENTES! SEMENTES AQUI!"
+
+#. MERM1_TALK_GREETING.7
+msgctxt "MERM1_TALK_GREETING.7"
+msgid "What was I doing? ...Oh, SEEDS HERE!"
+msgstr "O que eu estava fazendo? ...Ah, SEMENTES AQUI!"
+
+#. MERM1_TALK_TRADE.1
+msgctxt "MERM1_TALK_TRADE.1"
+msgid "Alright, alright, get a move on."
+msgstr "Tudo bem, tudo bem, vamos em frente."
+
+#. MERM1_TALK_TRADE.2
+msgctxt "MERM1_TALK_TRADE.2"
+msgid "'Pleasure."
+msgstr "Foi um prazer."
+
+#. MERM1_TALK_TRADE.3
+msgctxt "MERM1_TALK_TRADE.3"
+msgid "Always in a rush, you lot."
+msgstr "Vocês, sempre com pressa."
+
+#. MERM1_TALK_TRADE.4
+msgctxt "MERM1_TALK_TRADE.4"
+msgid "The plague ain't so bad, y'know."
+msgstr "A praga não é tão ruim, sabe."
+
+#. MERM1_TALK_TRADE.5
+msgctxt "MERM1_TALK_TRADE.5"
+msgid "Come back now, y'hear?"
+msgstr "Volte agora, está me ouvindo?"
+
+#. MERM1_TALK_TRADE.6
+msgctxt "MERM1_TALK_TRADE.6"
+msgid "Who're you again?"
+msgstr "Quem é você mesmo?"
+
+#. MERM1_TALK_TRADE.7
+msgctxt "MERM1_TALK_TRADE.7"
+msgid "Thanks, stranger."
+msgstr "Obrigado, estranho."
+
+#. MERM2_TALK_GREETING.1
+msgctxt "MERM2_TALK_GREETING.1"
+msgid "Good afternoon! Care to trade?"
+msgstr "Boa tarde! Gostaria de negociar?"
+
+#. MERM2_TALK_GREETING.2
+msgctxt "MERM2_TALK_GREETING.2"
+msgid "At least the sickness didn't take my moustache. Ho ho!"
+msgstr "Pelo menos a doença não levou meu bigode. Ho, ho!"
+
+#. MERM2_TALK_GREETING.3
+msgctxt "MERM2_TALK_GREETING.3"
+msgid "Sammy's faculties are slipping, but you didn't hear it from me."
+msgstr "A consciência de Sammy está definhando, mas não fui eu quem disse."
+
+#. MERM2_TALK_GREETING.4
+msgctxt "MERM2_TALK_GREETING.4"
+msgid "Many of our sick disappeared into the sea. Odd, that."
+msgstr "Muitos de nossos doentes desapareceram no mar. Isso é estranho."
+
+#. MERM2_TALK_GREETING.5
+msgctxt "MERM2_TALK_GREETING.5"
+msgid "Shame you couldn't see the town in its glory days."
+msgstr "Que pena que não puderam ver a cidade em seus dias de glória."
+
+#. MERM2_TALK_GREETING.6
+msgctxt "MERM2_TALK_GREETING.6"
+msgid "I've only the finest goods for sale."
+msgstr "Tenho apenas os melhores produtos para venda."
+
+#. MERM2_TALK_GREETING.7
+msgctxt "MERM2_TALK_GREETING.7"
+msgid "This is a dreadful place for a kid to grow up in."
+msgstr "Esse é um lugar horrível pra se criar uma criança."
+
+#. MERM2_TALK_TRADE.1
+msgctxt "MERM2_TALK_TRADE.1"
+msgid "In a hurry, then?"
+msgstr "Com pressa, é?"
+
+#. MERM2_TALK_TRADE.2
+msgctxt "MERM2_TALK_TRADE.2"
+msgid "Don't tarry now, friend."
+msgstr "Não se demora, amigo."
+
+#. MERM2_TALK_TRADE.3
+msgctxt "MERM2_TALK_TRADE.3"
+msgid "I'll not waste anymore of your time."
+msgstr "Não desperdiçarei mais de seu tempo."
+
+#. MERM2_TALK_TRADE.4
+msgctxt "MERM2_TALK_TRADE.4"
+msgid "I tip my hat to you."
+msgstr "Tiro meu chapéu para você."
+
+#. MERM2_TALK_TRADE.5
+msgctxt "MERM2_TALK_TRADE.5"
+msgid "It's been a pleasure."
+msgstr "Foi um prazer."
+
+#. MERM2_TALK_TRADE.6
+msgctxt "MERM2_TALK_TRADE.6"
+msgid "Gnaw smile on you."
+msgstr "Gnaw sorri para você."
+
+#. MERMNAMES.1
+msgctxt "MERMNAMES.1"
+msgid "Flargle"
+msgstr "Flargle"
+
+#. MERMNAMES.10
+msgctxt "MERMNAMES.10"
+msgid "Glogh"
+msgstr "Glogh"
+
+#. MERMNAMES.11
+msgctxt "MERMNAMES.11"
+msgid "Glop"
+msgstr "Molusqui"
+
+#. MERMNAMES.12
+msgctxt "MERMNAMES.12"
+msgid "Glot"
+msgstr "Mropt"
+
+#. MERMNAMES.13
+msgctxt "MERMNAMES.13"
+msgid "Glugh"
+msgstr "Glugh"
+
+#. MERMNAMES.14
+msgctxt "MERMNAMES.14"
+msgid "Glup"
+msgstr "Glup"
+
+#. MERMNAMES.15
+msgctxt "MERMNAMES.15"
+msgid "Glurp"
+msgstr "Glurp"
+
+#. MERMNAMES.16
+msgctxt "MERMNAMES.16"
+msgid "Glurt"
+msgstr "Blort"
+
+#. MERMNAMES.17
+msgctxt "MERMNAMES.17"
+msgid "Glurble"
+msgstr "Glurble"
+
+#. MERMNAMES.18
+msgctxt "MERMNAMES.18"
+msgid "Gogh"
+msgstr "Gogh"
+
+#. MERMNAMES.19
+msgctxt "MERMNAMES.19"
+msgid "Gop"
+msgstr "Gop"
+
+#. MERMNAMES.2
+msgctxt "MERMNAMES.2"
+msgid "Flop"
+msgstr "Glópio"
+
+#. MERMNAMES.20
+msgctxt "MERMNAMES.20"
+msgid "Gopt"
+msgstr "Gopt"
+
+#. MERMNAMES.21
+msgctxt "MERMNAMES.21"
+msgid "Gorp"
+msgstr "Glipn"
+
+#. MERMNAMES.22
+msgctxt "MERMNAMES.22"
+msgid "Gort"
+msgstr "Gleto"
+
+#. MERMNAMES.23
+msgctxt "MERMNAMES.23"
+msgid "Gugh"
+msgstr "Gugh"
+
+#. MERMNAMES.24
+msgctxt "MERMNAMES.24"
+msgid "Gup"
+msgstr "Gup"
+
+#. MERMNAMES.25
+msgctxt "MERMNAMES.25"
+msgid "Gupt"
+msgstr "Gupt"
+
+#. MERMNAMES.26
+msgctxt "MERMNAMES.26"
+msgid "Gurble"
+msgstr "Gurble"
+
+#. MERMNAMES.27
+msgctxt "MERMNAMES.27"
+msgid "Gurp"
+msgstr "Gurp"
+
+#. MERMNAMES.28
+msgctxt "MERMNAMES.28"
+msgid "Gurt"
+msgstr "Gurt"
+
+#. MERMNAMES.29
+msgctxt "MERMNAMES.29"
+msgid "Audrey"
+msgstr "Audrey"
+
+#. MERMNAMES.3
+msgctxt "MERMNAMES.3"
+msgid "Flot"
+msgstr "Flot"
+
+#. MERMNAMES.30
+msgctxt "MERMNAMES.30"
+msgid "Jeffrey"
+msgstr "Jeffrey"
+
+#. MERMNAMES.31
+msgctxt "MERMNAMES.31"
+msgid "Johnny"
+msgstr "Johnny"
+
+#. MERMNAMES.32
+msgctxt "MERMNAMES.32"
+msgid "Isabella"
+msgstr "Isabella"
+
+#. MERMNAMES.33
+msgctxt "MERMNAMES.33"
+msgid "Madeline"
+msgstr "Madeline"
+
+#. MERMNAMES.34
+msgctxt "MERMNAMES.34"
+msgid "Michael"
+msgstr "Miguel"
+
+#. MERMNAMES.35
+msgctxt "MERMNAMES.35"
+msgid "Penelope"
+msgstr "Penélope"
+
+#. MERMNAMES.36
+msgctxt "MERMNAMES.36"
+msgid "Sarah"
+msgstr "Sarah"
+
+#. MERMNAMES.37
+msgctxt "MERMNAMES.37"
+msgid "Simon"
+msgstr "Simon"
+
+#. MERMNAMES.38
+msgctxt "MERMNAMES.38"
+msgid "Trevor"
+msgstr "Trevor"
+
+#. MERMNAMES.4
+msgctxt "MERMNAMES.4"
+msgid "Flugh"
+msgstr "Flugh"
+
+#. MERMNAMES.5
+msgctxt "MERMNAMES.5"
+msgid "Flupt"
+msgstr "Flupt"
+
+#. MERMNAMES.6
+msgctxt "MERMNAMES.6"
+msgid "Flurgle"
+msgstr "Flurgle"
+
+#. MERMNAMES.7
+msgctxt "MERMNAMES.7"
+msgid "Fopt"
+msgstr "Fopt"
+
+#. MERMNAMES.8
+msgctxt "MERMNAMES.8"
+msgid "Furp"
+msgstr "Furp"
+
+#. MERMNAMES.9
+msgctxt "MERMNAMES.9"
+msgid "Furt"
+msgstr "Furt"
+
+#. MERM_BATTLECRY.1.1
+msgctxt "MERM_BATTLECRY.1.1"
+msgid "Glorp! Go away!"
+msgstr "Glorp! Vá embora!"
+
+#. MERM_BATTLECRY.1.2
+msgctxt "MERM_BATTLECRY.1.2"
+msgid "Glorp! Glorpy glup!"
+msgstr "Glorp! Glorpy glup!"
+
+#. MERM_BATTLECRY.2.1
+msgctxt "MERM_BATTLECRY.2.1"
+msgid "Destroy you!"
+msgstr "Destruir você!"
+
+#. MERM_BATTLECRY.2.2
+msgctxt "MERM_BATTLECRY.2.2"
+msgid "Wult glut!"
+msgstr "Wult glut!"
+
+#. MERM_GUARD_BATTLECRY.1.1
+msgctxt "MERM_GUARD_BATTLECRY.1.1"
+msgid "To battle!"
+msgstr "À batalha!"
+
+#. MERM_GUARD_BATTLECRY.1.2
+msgctxt "MERM_GUARD_BATTLECRY.1.2"
+msgid "Wult flrot!"
+msgstr "Wult flrot!"
+
+#. MERM_GUARD_BATTLECRY.2.1
+msgctxt "MERM_GUARD_BATTLECRY.2.1"
+msgid "For glory of Mermfolk!"
+msgstr "Pela glória do povo-peixe!"
+
+#. MERM_GUARD_BATTLECRY.2.2
+msgctxt "MERM_GUARD_BATTLECRY.2.2"
+msgid "Flort Glurtsu flut!"
+msgstr "Flort Glurtsu flut!"
+
+#. MERM_GUARD_BATTLECRY.3.1
+msgctxt "MERM_GUARD_BATTLECRY.3.1"
+msgid "ATTAAAACK!!"
+msgstr "ATACAR!!"
+
+#. MERM_GUARD_BATTLECRY.3.2
+msgctxt "MERM_GUARD_BATTLECRY.3.2"
+msgid "GLOT FLOOOORPH!!"
+msgstr "GLOT FLOOOORPH!!"
+
+#. MERM_GUARD_BATTLECRY.4.1
+msgctxt "MERM_GUARD_BATTLECRY.4.1"
+msgid "Defend King!"
+msgstr "Defender rei!"
+
+#. MERM_GUARD_BATTLECRY.4.2
+msgctxt "MERM_GUARD_BATTLECRY.4.2"
+msgid "Glurph Glurtsen!"
+msgstr "Glurph Glurtsen!"
+
+#. MERM_KING_TALK_HUNGER_CLOSE_STARVING
+msgctxt "MERM_KING_TALK_HUNGER_CLOSE_STARVING"
+msgid "Treachery... villainy! To let King waste away like this..."
+msgstr "Traição... perversidade! Deixar o rei definhar desse jeito..."
+
+#. MERM_KING_TALK_HUNGER_FULL
+msgctxt "MERM_KING_TALK_HUNGER_FULL"
+msgid "Have done well. Now go."
+msgstr "Fez bom trabalho. Agora vá."
+
+#. MERM_KING_TALK_HUNGER_HUNGRISH
+msgctxt "MERM_KING_TALK_HUNGER_HUNGRISH"
+msgid "King feeling a bit peckish..."
+msgstr "Rei se sentindo um tanto faminto..."
+
+#. MERM_KING_TALK_HUNGER_HUNGRY
+msgctxt "MERM_KING_TALK_HUNGER_HUNGRY"
+msgid "King desires food!"
+msgstr "Rei deseja comida!"
+
+#. MERM_KING_TALK_HUNGER_STARVING
+msgctxt "MERM_KING_TALK_HUNGER_STARVING"
+msgid "Hungry... HUNGRY! HUNGRYYYY!!!"
+msgstr "Fome... FOME! FOMEEEE!!!"
+
+#. MERM_KING_TALK_HUNGER_VERY_HUNGRY
+msgctxt "MERM_KING_TALK_HUNGER_VERY_HUNGRY"
+msgid "What take so long? Make offerings to your King!"
+msgstr "Por que a demora? Faça oferendas ao seu rei!"
+
+#. MERM_TALK_CLOSED.1
+msgctxt "MERM_TALK_CLOSED.1"
+msgid "Ya talk to ol'Mumsy yet?"
+msgstr "Já falou com a Mumsy?"
+
+#. MERM_TALK_CLOSED.2
+msgctxt "MERM_TALK_CLOSED.2"
+msgid "I ain't taking business right now."
+msgstr "Não estou aceitando negócios no momento."
+
+#. MERM_TALK_CLOSED.3
+msgctxt "MERM_TALK_CLOSED.3"
+msgid "Don't keep the lady waiting."
+msgstr "Não deixe a senhora esperando."
+
+#. MERM_TALK_CLOSED.4
+msgctxt "MERM_TALK_CLOSED.4"
+msgid "Speak with Mumsy. Hurry on, then."
+msgstr "Fale com a Mumsy. Depressa, então."
+
+#. MERM_TALK_CONTEST_OOOH.1
+msgctxt "MERM_TALK_CONTEST_OOOH.1"
+msgid "Such taste."
+msgstr "Que bom gosto."
+
+#. MERM_TALK_CONTEST_OOOH.2
+msgctxt "MERM_TALK_CONTEST_OOOH.2"
+msgid "Nicely done."
+msgstr "Ficou ótimo."
+
+#. MERM_TALK_CONTEST_OOOH.3
+msgctxt "MERM_TALK_CONTEST_OOOH.3"
+msgid "Such beauty."
+msgstr "Quanta beleza."
+
+#. MERM_TALK_CONTEST_PANIC.1
+msgctxt "MERM_TALK_CONTEST_PANIC.1"
+msgid "Must choose!"
+msgstr "Preciso escolher!"
+
+#. MERM_TALK_CONTEST_PANIC.2
+msgctxt "MERM_TALK_CONTEST_PANIC.2"
+msgid "How decide?!"
+msgstr "Como decidir?"
+
+#. MERM_TALK_FIND_FOOD.1.1
+msgctxt "MERM_TALK_FIND_FOOD.1.1"
+msgid "Will come with you."
+msgstr "Vou com você."
+
+#. MERM_TALK_FIND_FOOD.1.2
+msgctxt "MERM_TALK_FIND_FOOD.1.2"
+msgid "Flort glut."
+msgstr "Flort glut."
+
+#. MERM_TALK_FIND_FOOD.2.1
+msgctxt "MERM_TALK_FIND_FOOD.2.1"
+msgid "Make Mermfolk strong!"
+msgstr "Deixa povo-peixe forte!"
+
+#. MERM_TALK_FIND_FOOD.2.2
+msgctxt "MERM_TALK_FIND_FOOD.2.2"
+msgid "Blut gloppy Glurtsu!"
+msgstr "Blut gloppy Glurtsu!"
+
+#. MERM_TALK_FIND_FOOD.3.1
+msgctxt "MERM_TALK_FIND_FOOD.3.1"
+msgid "This do fine."
+msgstr "Isso vai servir."
+
+#. MERM_TALK_FIND_FOOD.3.2
+msgctxt "MERM_TALK_FIND_FOOD.3.2"
+msgid "Glort grolt flut."
+msgstr "Glort grolt flut."
+
+#. MERM_TALK_FIND_FOOD.4.1
+msgctxt "MERM_TALK_FIND_FOOD.4.1"
+msgid "Find something tasty!"
+msgstr "Encontre algo saboroso!"
+
+#. MERM_TALK_FIND_FOOD.4.2
+msgctxt "MERM_TALK_FIND_FOOD.4.2"
+msgid "Glurt florpy flut!"
+msgstr "Glurt florpy flut!"
+
+#. MERM_TALK_FOLLOWWILSON.1.1
+msgctxt "MERM_TALK_FOLLOWWILSON.1.1"
+msgid "Will come with you."
+msgstr "Vou com você."
+
+#. MERM_TALK_FOLLOWWILSON.1.2
+msgctxt "MERM_TALK_FOLLOWWILSON.1.2"
+msgid "Flort glut."
+msgstr "Flort glut."
+
+#. MERM_TALK_FOLLOWWILSON.2.1
+msgctxt "MERM_TALK_FOLLOWWILSON.2.1"
+msgid "Make Mermfolk strong!"
+msgstr "Deixa povo-peixe forte!"
+
+#. MERM_TALK_FOLLOWWILSON.2.2
+msgctxt "MERM_TALK_FOLLOWWILSON.2.2"
+msgid "Blut gloppy Glurtsu!"
+msgstr "Blut gloppy Glurtsu!"
+
+#. MERM_TALK_FOLLOWWILSON.3.1
+msgctxt "MERM_TALK_FOLLOWWILSON.3.1"
+msgid "You help Mermfolk!"
+msgstr "Você ajuda povo-peixe!"
+
+#. MERM_TALK_FOLLOWWILSON.3.2
+msgctxt "MERM_TALK_FOLLOWWILSON.3.2"
+msgid "Glut Glurtsu flopt!"
+msgstr "Glut Glurtsu flopt!"
+
+#. MERM_TALK_FOLLOWWILSON.4.1
+msgctxt "MERM_TALK_FOLLOWWILSON.4.1"
+msgid "You okay."
+msgstr "Você é legal."
+
+#. MERM_TALK_FOLLOWWILSON.4.2
+msgctxt "MERM_TALK_FOLLOWWILSON.4.2"
+msgid "Florpy flort."
+msgstr "Florpy flort."
+
+#. MERM_TALK_HELP_CHOP_WOOD.1.1
+msgctxt "MERM_TALK_HELP_CHOP_WOOD.1.1"
+msgid "Will come with you."
+msgstr "Vou com você."
+
+#. MERM_TALK_HELP_CHOP_WOOD.1.2
+msgctxt "MERM_TALK_HELP_CHOP_WOOD.1.2"
+msgid "Flort glut."
+msgstr "Flort glut."
+
+#. MERM_TALK_HELP_CHOP_WOOD.2.1
+msgctxt "MERM_TALK_HELP_CHOP_WOOD.2.1"
+msgid "Make Mermfolk strong!"
+msgstr "Deixa povo-peixe forte!"
+
+#. MERM_TALK_HELP_CHOP_WOOD.2.2
+msgctxt "MERM_TALK_HELP_CHOP_WOOD.2.2"
+msgid "Blut gloppy Glurtsu!"
+msgstr "Blut gloppy Glurtsu!"
+
+#. MERM_TALK_HELP_CHOP_WOOD.3.1
+msgctxt "MERM_TALK_HELP_CHOP_WOOD.3.1"
+msgid "Chop, choppy, chop!"
+msgstr "Corta, cortar, corta!"
+
+#. MERM_TALK_HELP_CHOP_WOOD.3.2
+msgctxt "MERM_TALK_HELP_CHOP_WOOD.3.2"
+msgid "Grop, groppy, grop!"
+msgstr "Grop, groppy, grop!"
+
+#. MERM_TALK_HELP_CHOP_WOOD.4.1
+msgctxt "MERM_TALK_HELP_CHOP_WOOD.4.1"
+msgid "Work hard, florp!"
+msgstr "Trabalhar duro, florp!"
+
+#. MERM_TALK_HELP_CHOP_WOOD.4.2
+msgctxt "MERM_TALK_HELP_CHOP_WOOD.4.2"
+msgid "Glort blut, florp!"
+msgstr "Glort blut, florp!"
+
+#. MERM_TALK_HELP_HAMMER.1.1
+msgctxt "MERM_TALK_HELP_HAMMER.1.1"
+msgid "Will come with you."
+msgstr "Vou com você."
+
+#. MERM_TALK_HELP_HAMMER.1.2
+msgctxt "MERM_TALK_HELP_HAMMER.1.2"
+msgid "Flort glut."
+msgstr "Flort glut."
+
+#. MERM_TALK_HELP_HAMMER.2.1
+msgctxt "MERM_TALK_HELP_HAMMER.2.1"
+msgid "Make Mermfolk strong!"
+msgstr "Deixa povo-peixe forte!"
+
+#. MERM_TALK_HELP_HAMMER.2.2
+msgctxt "MERM_TALK_HELP_HAMMER.2.2"
+msgid "Blut gloppy Glurtsu!"
+msgstr "Blut gloppy Glurtsu!"
+
+#. MERM_TALK_HELP_HAMMER.3.1
+msgctxt "MERM_TALK_HELP_HAMMER.3.1"
+msgid "Smash! Smash!"
+msgstr "Esmaga! Esmaga!"
+
+#. MERM_TALK_HELP_HAMMER.3.2
+msgctxt "MERM_TALK_HELP_HAMMER.3.2"
+msgid "Florph! Florph!"
+msgstr "Florph! Florph!"
+
+#. MERM_TALK_HELP_HAMMER.4.1
+msgctxt "MERM_TALK_HELP_HAMMER.4.1"
+msgid "Work hard, florp!"
+msgstr "Trabalhar duro, florp!"
+
+#. MERM_TALK_HELP_HAMMER.4.2
+msgctxt "MERM_TALK_HELP_HAMMER.4.2"
+msgid "Glort blut, florp!"
+msgstr "Glort blut, florp!"
+
+#. MERM_TALK_HELP_MINE_ROCK.1.1
+msgctxt "MERM_TALK_HELP_MINE_ROCK.1.1"
+msgid "Will come with you."
+msgstr "Vou com você."
+
+#. MERM_TALK_HELP_MINE_ROCK.1.2
+msgctxt "MERM_TALK_HELP_MINE_ROCK.1.2"
+msgid "Flort glut."
+msgstr "Flort glut."
+
+#. MERM_TALK_HELP_MINE_ROCK.2.1
+msgctxt "MERM_TALK_HELP_MINE_ROCK.2.1"
+msgid "Make Mermfolk strong!"
+msgstr "Deixa povo-peixe forte!"
+
+#. MERM_TALK_HELP_MINE_ROCK.2.2
+msgctxt "MERM_TALK_HELP_MINE_ROCK.2.2"
+msgid "Blut gloppy Glurtsu!"
+msgstr "Blut gloppy Glurtsu!"
+
+#. MERM_TALK_HELP_MINE_ROCK.3.1
+msgctxt "MERM_TALK_HELP_MINE_ROCK.3.1"
+msgid "Break rock, easy!"
+msgstr "Quebrar rocha, fácil!"
+
+#. MERM_TALK_HELP_MINE_ROCK.3.2
+msgctxt "MERM_TALK_HELP_MINE_ROCK.3.2"
+msgid "Wult wop, florty flort!"
+msgstr "Wult wop, florty flort!"
+
+#. MERM_TALK_HELP_MINE_ROCK.4.1
+msgctxt "MERM_TALK_HELP_MINE_ROCK.4.1"
+msgid "Work hard, florp!"
+msgstr "Trabalhar duro, florp!"
+
+#. MERM_TALK_HELP_MINE_ROCK.4.2
+msgctxt "MERM_TALK_HELP_MINE_ROCK.4.2"
+msgid "Glort blut, florp!"
+msgstr "Glort blut, florp!"
+
+#. MERM_TALK_PANICBOSS.1.1
+msgctxt "MERM_TALK_PANICBOSS.1.1"
+msgid "Something coming!"
+msgstr "Tem algo vindo aí!"
+
+#. MERM_TALK_PANICBOSS.1.2
+msgctxt "MERM_TALK_PANICBOSS.1.2"
+msgid "Gloppy flort!"
+msgstr "Gloppy flort!"
+
+#. MERM_TALK_PANICBOSS.2.1
+msgctxt "MERM_TALK_PANICBOSS.2.1"
+msgid "Aaah!! Bad thing! Bad thing!"
+msgstr "Aaah!! Coisa ruim! Coisa ruim!"
+
+#. MERM_TALK_PANICBOSS.2.2
+msgctxt "MERM_TALK_PANICBOSS.2.2"
+msgid "Gloooorph!! Glurph glot! Glurph glot!"
+msgstr "Gloooorph!! Glurph glot! Glurph glot!"
+
+#. MERM_TALK_PANICBOSS.3.1
+msgctxt "MERM_TALK_PANICBOSS.3.1"
+msgid "It come to destroy us!"
+msgstr "Vai vir destruir a gente!"
+
+#. MERM_TALK_PANICBOSS.3.2
+msgctxt "MERM_TALK_PANICBOSS.3.2"
+msgid "Flort wult Glurtsu!"
+msgstr "Flort wult Glurtsu!"
+
+#. MERM_TALK_PANICBOSS_KING.1.1
+msgctxt "MERM_TALK_PANICBOSS_KING.1.1"
+msgid "Rally to King!"
+msgstr "Se juntar em torno do rei!"
+
+#. MERM_TALK_PANICBOSS_KING.1.2
+msgctxt "MERM_TALK_PANICBOSS_KING.1.2"
+msgid "Glurtsen blut flort!"
+msgstr "Glurtsen blut flort!"
+
+#. MERM_TALK_PANICBOSS_KING.2.1
+msgctxt "MERM_TALK_PANICBOSS_KING.2.1"
+msgid "Hurry! Protect kingdom!"
+msgstr "Depressa! Proteger reino!"
+
+#. MERM_TALK_PANICBOSS_KING.2.2
+msgctxt "MERM_TALK_PANICBOSS_KING.2.2"
+msgid "Flurph flrot! Gloppy Glurtsam!"
+msgstr "Flurph flrot! Gloppy Glurtsam!"
+
+#. MERM_TALK_PANICBOSS_KING.3.1
+msgctxt "MERM_TALK_PANICBOSS_KING.3.1"
+msgid "S-stay brave!!"
+msgstr "T-tenha coragem!!"
+
+#. MERM_TALK_PANICBOSS_KING.3.2
+msgctxt "MERM_TALK_PANICBOSS_KING.3.2"
+msgid "G-glop blut flrot!!"
+msgstr "G-glop blut flrot!!"
+

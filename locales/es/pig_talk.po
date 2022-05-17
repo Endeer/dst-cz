@@ -1,0 +1,395 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. PIG_TALK_ATTEMPT_TRADE.1
+msgctxt "PIG_TALK_ATTEMPT_TRADE.1"
+msgid "WHAT YOU GOT?"
+msgstr "¿QUÉ TENER?"
+
+#. PIG_TALK_ATTEMPT_TRADE.2
+msgctxt "PIG_TALK_ATTEMPT_TRADE.2"
+msgid "BETTER BE GOOD."
+msgstr "MEJOR SER BUENO."
+
+#. PIG_TALK_CONTEST_OOOH.1
+msgctxt "PIG_TALK_CONTEST_OOOH.1"
+msgid "OOOH"
+msgstr "OOOH"
+
+#. PIG_TALK_CONTEST_OOOH.2
+msgctxt "PIG_TALK_CONTEST_OOOH.2"
+msgid "WOW"
+msgstr "HALA"
+
+#. PIG_TALK_CONTEST_OOOH.3
+msgctxt "PIG_TALK_CONTEST_OOOH.3"
+msgid "IS BEAUTY"
+msgstr "BELLEZA"
+
+#. PIG_TALK_CONTEST_PANIC.1
+msgctxt "PIG_TALK_CONTEST_PANIC.1"
+msgid "MUST CHOOSE!"
+msgstr "¡A ELEGIR!"
+
+#. PIG_TALK_CONTEST_PANIC.2
+msgctxt "PIG_TALK_CONTEST_PANIC.2"
+msgid "CHOICE HARD!"
+msgstr "¡DIFÍCIL ELEGIR!"
+
+#. PIG_TALK_EAT_MEAT.1
+msgctxt "PIG_TALK_EAT_MEAT.1"
+msgid "NOM NOM NOM"
+msgstr "ÑAM, ÑAM, ÑAM"
+
+#. PIG_TALK_EAT_MEAT.2
+msgctxt "PIG_TALK_EAT_MEAT.2"
+msgid "YUM!"
+msgstr "¡ÑAM!"
+
+#. PIG_TALK_FIGHT.1
+msgctxt "PIG_TALK_FIGHT.1"
+msgid "I KILL NOW!"
+msgstr "¡MATAR AHORA!"
+
+#. PIG_TALK_FIGHT.2
+msgctxt "PIG_TALK_FIGHT.2"
+msgid "YOU GO SMASH!"
+msgstr "¡APLASTAR!"
+
+#. PIG_TALK_FIGHT.3
+msgctxt "PIG_TALK_FIGHT.3"
+msgid "RAAAWR!"
+msgstr "¡RAAAWR!"
+
+#. PIG_TALK_FIND_LIGHT.1
+msgctxt "PIG_TALK_FIND_LIGHT.1"
+msgid "SCARY"
+msgstr "MIEDO"
+
+#. PIG_TALK_FIND_LIGHT.2
+msgctxt "PIG_TALK_FIND_LIGHT.2"
+msgid "NO LIKE DARK"
+msgstr "NO GUSTAR OSCURIDAD"
+
+#. PIG_TALK_FIND_LIGHT.3
+msgctxt "PIG_TALK_FIND_LIGHT.3"
+msgid "WHERE IS SUN?"
+msgstr "¿DÓNDE ESTAR SOL?"
+
+#. PIG_TALK_FIND_LIGHT.4
+msgctxt "PIG_TALK_FIND_LIGHT.4"
+msgid "STAY NEAR FIRE"
+msgstr "QUEDAR CERCA DE FUEGO"
+
+#. PIG_TALK_FIND_LIGHT.5
+msgctxt "PIG_TALK_FIND_LIGHT.5"
+msgid "FIRE IS GOOD"
+msgstr "FUEGO BUENO"
+
+#. PIG_TALK_FIND_MEAT.1
+msgctxt "PIG_TALK_FIND_MEAT.1"
+msgid "ME HUNGRY!"
+msgstr "¡HAMBRE!"
+
+#. PIG_TALK_FIND_MEAT.2
+msgctxt "PIG_TALK_FIND_MEAT.2"
+msgid "YUM!"
+msgstr "¡ÑAM!"
+
+#. PIG_TALK_FIND_MEAT.3
+msgctxt "PIG_TALK_FIND_MEAT.3"
+msgid "I EAT FOOD!"
+msgstr "¡COMER COMIDA!"
+
+#. PIG_TALK_FIND_MEAT.4
+msgctxt "PIG_TALK_FIND_MEAT.4"
+msgid "TIME FOR FOOD!"
+msgstr "¡HORA DE COMIDA!"
+
+#. PIG_TALK_FOLLOWWILSON.1
+msgctxt "PIG_TALK_FOLLOWWILSON.1"
+msgid "YOU FRIEND"
+msgstr "TÚ AMIGO"
+
+#. PIG_TALK_FOLLOWWILSON.2
+msgctxt "PIG_TALK_FOLLOWWILSON.2"
+msgid "I LOVE FRIEND"
+msgstr "AMAR AMIGO"
+
+#. PIG_TALK_FOLLOWWILSON.3
+msgctxt "PIG_TALK_FOLLOWWILSON.3"
+msgid "YOU IS GOOD"
+msgstr "TÚ BUENO"
+
+#. PIG_TALK_FOLLOWWILSON.4
+msgctxt "PIG_TALK_FOLLOWWILSON.4"
+msgid "I FOLLOW!"
+msgstr "¡YO SEGUIR!"
+
+#. PIG_TALK_GAME_CHEER.1
+msgctxt "PIG_TALK_GAME_CHEER.1"
+msgid "SMASH! SMASH!"
+msgstr "¡APLASTAR! ¡APLASTAR!"
+
+#. PIG_TALK_GAME_CHEER.2
+msgctxt "PIG_TALK_GAME_CHEER.2"
+msgid "BASH!"
+msgstr "¡GOLPEAR!"
+
+#. PIG_TALK_GAME_CHEER.3
+msgctxt "PIG_TALK_GAME_CHEER.3"
+msgid "GO PIGS!"
+msgstr "¡YA, CERDOS!"
+
+#. PIG_TALK_GAME_CHEER.4
+msgctxt "PIG_TALK_GAME_CHEER.4"
+msgid "RAAAWR!"
+msgstr "¡RAAAWR!"
+
+#. PIG_TALK_GAME_CHEER.5
+msgctxt "PIG_TALK_GAME_CHEER.5"
+msgid "YOU STINK!"
+msgstr "¡APESTAR!"
+
+#. PIG_TALK_GAME_CHEER.6
+msgctxt "PIG_TALK_GAME_CHEER.6"
+msgid "GET GOLD!"
+msgstr "¡CONSEGUIR ORO!"
+
+#. PIG_TALK_GAME_CHEER.7
+msgctxt "PIG_TALK_GAME_CHEER.7"
+msgid "BASH 'EM IN HEAD!"
+msgstr "¡APLASTAR EN LA CABEZA!"
+
+#. PIG_TALK_GAME_GOTO.1
+msgctxt "PIG_TALK_GAME_GOTO.1"
+msgid "IT STARTING!"
+msgstr "¡EMPEZAR!"
+
+#. PIG_TALK_GAME_GOTO.2
+msgctxt "PIG_TALK_GAME_GOTO.2"
+msgid "THIS MY FAVORITE!"
+msgstr "¡MI FAVORITO!"
+
+#. PIG_TALK_GAME_GOTO.3
+msgctxt "PIG_TALK_GAME_GOTO.3"
+msgid "YAY!"
+msgstr "¡SÍ!"
+
+#. PIG_TALK_GIVE_GIFT.1
+msgctxt "PIG_TALK_GIVE_GIFT.1"
+msgid "YOU HAVE THIS"
+msgstr "TÚ TENER ESTO"
+
+#. PIG_TALK_GIVE_GIFT.2
+msgctxt "PIG_TALK_GIVE_GIFT.2"
+msgid "FOR FRIEND"
+msgstr "PARA AMIGO"
+
+#. PIG_TALK_GO_HOME.1
+msgctxt "PIG_TALK_GO_HOME.1"
+msgid "HOME TIME!"
+msgstr "¡HORA DE CASA!"
+
+#. PIG_TALK_GO_HOME.2
+msgctxt "PIG_TALK_GO_HOME.2"
+msgid "HOME! HOME!"
+msgstr "¡CASA! ¡CASA!"
+
+#. PIG_TALK_HELP_CHOP_WOOD.1
+msgctxt "PIG_TALK_HELP_CHOP_WOOD.1"
+msgid "KILL TREE!"
+msgstr "¡MATAR ÁRBOL!"
+
+#. PIG_TALK_HELP_CHOP_WOOD.2
+msgctxt "PIG_TALK_HELP_CHOP_WOOD.2"
+msgid "SMASH MEAN TREE!"
+msgstr "¡APLASTAR ÁRBOL MALO!"
+
+#. PIG_TALK_HELP_CHOP_WOOD.3
+msgctxt "PIG_TALK_HELP_CHOP_WOOD.3"
+msgid "I PUNCH TREE!"
+msgstr "¡GOLPEAR ÁRBOL!"
+
+#. PIG_TALK_LOOKATWILSON.1
+msgctxt "PIG_TALK_LOOKATWILSON.1"
+msgid "WHO ARE YOU?"
+msgstr "¿QUIÉN ERES?"
+
+#. PIG_TALK_LOOKATWILSON.2
+msgctxt "PIG_TALK_LOOKATWILSON.2"
+msgid "YOU NOT PIG"
+msgstr "TÚ NO CERDO"
+
+#. PIG_TALK_LOOKATWILSON.3
+msgctxt "PIG_TALK_LOOKATWILSON.3"
+msgid "YOU HAS MEAT?"
+msgstr "¿TÚ TENER CARNE?"
+
+#. PIG_TALK_MISC_GAME_CHEER.1
+msgctxt "PIG_TALK_MISC_GAME_CHEER.1"
+msgid "GO! GO! GO!"
+msgstr "¡VAMOS! ¡VAMOS! ¡VAMOS!"
+
+#. PIG_TALK_MISC_GAME_CHEER.2
+msgctxt "PIG_TALK_MISC_GAME_CHEER.2"
+msgid "SNORT!"
+msgstr "¡BUF!"
+
+#. PIG_TALK_MISC_GAME_GOTO.1
+msgctxt "PIG_TALK_MISC_GAME_GOTO.1"
+msgid "IT STARTING!"
+msgstr "¡EMPEZAR!"
+
+#. PIG_TALK_MISC_GAME_GOTO.2
+msgctxt "PIG_TALK_MISC_GAME_GOTO.2"
+msgid "OUT OF MY WAY!"
+msgstr "¡LARGO!"
+
+#. PIG_TALK_MISC_GAME_GOTO.3
+msgctxt "PIG_TALK_MISC_GAME_GOTO.3"
+msgid "YAY!"
+msgstr "¡SÍ!"
+
+#. PIG_TALK_PANIC.1
+msgctxt "PIG_TALK_PANIC.1"
+msgid "NOOOOO!"
+msgstr "¡NOOOOO!"
+
+#. PIG_TALK_PANIC.2
+msgctxt "PIG_TALK_PANIC.2"
+msgid "TOO DARK! TOO DARK!"
+msgstr "¡MUY OSCURO! ¡MUY OSCURO!"
+
+#. PIG_TALK_PANIC.3
+msgctxt "PIG_TALK_PANIC.3"
+msgid "AAAAAAAAAH!!"
+msgstr "¡¡AAAAAAAAAH!!"
+
+#. PIG_TALK_PANICBOSS.1
+msgctxt "PIG_TALK_PANICBOSS.1"
+msgid "AHHHH"
+msgstr "AHHHH"
+
+#. PIG_TALK_PANICBOSS.2
+msgctxt "PIG_TALK_PANICBOSS.2"
+msgid "UH OH!"
+msgstr "¡OH, OH!"
+
+#. PIG_TALK_PANICBOSS.3
+msgctxt "PIG_TALK_PANICBOSS.3"
+msgid "ME SCARED"
+msgstr "YO ASUSTAR"
+
+#. PIG_TALK_PANICBOSS.4
+msgctxt "PIG_TALK_PANICBOSS.4"
+msgid "BAD!"
+msgstr "¡MALO!"
+
+#. PIG_TALK_PANICBOSS.5
+msgctxt "PIG_TALK_PANICBOSS.5"
+msgid "OHHH!"
+msgstr "¡OHHH!"
+
+#. PIG_TALK_PANICFIRE.1
+msgctxt "PIG_TALK_PANICFIRE.1"
+msgid "HOT HOT HOT!"
+msgstr "¡CALIENTE, CALIENTE, CALIENTE!"
+
+#. PIG_TALK_PANICFIRE.2
+msgctxt "PIG_TALK_PANICFIRE.2"
+msgid "OWWWWW!"
+msgstr "¡AHHHHH!"
+
+#. PIG_TALK_PANICFIRE.3
+msgctxt "PIG_TALK_PANICFIRE.3"
+msgid "IT BURNS!"
+msgstr "¡QUEMAR!"
+
+#. PIG_TALK_PANICHAUNT.1
+msgctxt "PIG_TALK_PANICHAUNT.1"
+msgid "SPOOKY!"
+msgstr "¡MIEDO!"
+
+#. PIG_TALK_PANICHAUNT.2
+msgctxt "PIG_TALK_PANICHAUNT.2"
+msgid "AAAAH!!"
+msgstr "¡¡AAAAH!!"
+
+#. PIG_TALK_PANICHAUNT.3
+msgctxt "PIG_TALK_PANICHAUNT.3"
+msgid "A GHOST! A GHOST!"
+msgstr "¡UN FANTASMA! ¡UN FANTASMA!"
+
+#. PIG_TALK_PANICHOUSEFIRE.1
+msgctxt "PIG_TALK_PANICHOUSEFIRE.1"
+msgid "HOUSE BURNS!"
+msgstr "¡CASA ARDER!"
+
+#. PIG_TALK_PANICHOUSEFIRE.2
+msgctxt "PIG_TALK_PANICHOUSEFIRE.2"
+msgid "MY STUFF!"
+msgstr "¡MIS COSAS!"
+
+#. PIG_TALK_PANICHOUSEFIRE.3
+msgctxt "PIG_TALK_PANICHOUSEFIRE.3"
+msgid "AAAH! FIRE!"
+msgstr "¡AHHH! ¡FUEGO!"
+
+#. PIG_TALK_PANICHOUSEFIRE.4
+msgctxt "PIG_TALK_PANICHOUSEFIRE.4"
+msgid "PANIC!"
+msgstr "¡PÁNICO!"
+
+#. PIG_TALK_RESCUE.1
+msgctxt "PIG_TALK_RESCUE.1"
+msgid "I HELP YOU!"
+msgstr "¡AYUDARTE!"
+
+#. PIG_TALK_RESCUE.2
+msgctxt "PIG_TALK_RESCUE.2"
+msgid "OOH! OOH!"
+msgstr "¡OH! ¡AY!"
+
+#. PIG_TALK_RESCUE.3
+msgctxt "PIG_TALK_RESCUE.3"
+msgid "ME HELP!"
+msgstr "¡YO AYUDAR!"
+
+#. PIG_TALK_RUNAWAY_WILSON.1
+msgctxt "PIG_TALK_RUNAWAY_WILSON.1"
+msgid "TOO CLOSE!"
+msgstr "¡DEMASIADO CERCA!"
+
+#. PIG_TALK_RUNAWAY_WILSON.2
+msgctxt "PIG_TALK_RUNAWAY_WILSON.2"
+msgid "STAY AWAY!"
+msgstr "¡ALÉJATE!"
+
+#. PIG_TALK_RUNAWAY_WILSON.3
+msgctxt "PIG_TALK_RUNAWAY_WILSON.3"
+msgid "YOU BACK OFF!"
+msgstr "¡LARGO!"
+
+#. PIG_TALK_RUNAWAY_WILSON.4
+msgctxt "PIG_TALK_RUNAWAY_WILSON.4"
+msgid "THAT MY SPACE."
+msgstr "ESE SER MI ESPACIO."
+
+#. PIG_TALK_RUN_FROM_SPIDER.1
+msgctxt "PIG_TALK_RUN_FROM_SPIDER.1"
+msgid "SPIDER BAD!"
+msgstr "¡ARAÑA MALA!"
+
+#. PIG_TALK_RUN_FROM_SPIDER.2
+msgctxt "PIG_TALK_RUN_FROM_SPIDER.2"
+msgid "NO LIKE SPIDER!"
+msgstr "¡NO GUSTAR ARAÑA!"
+
+#. PIG_TALK_RUN_FROM_SPIDER.3
+msgctxt "PIG_TALK_RUN_FROM_SPIDER.3"
+msgid "SCARY SPIDER!"
+msgstr "¡ARAÑA DAR MIEDO!"
+

@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. TABS.ANCIENT
+msgctxt "TABS.ANCIENT"
+msgid "Ancient"
+msgstr "Starożytność"
+
+#. TABS.BALLOONOMANCY
+msgctxt "TABS.BALLOONOMANCY"
+msgid "Balloonomancy"
+msgstr "Balonomancja"
+
+#. TABS.BATTLESONGS
+msgctxt "TABS.BATTLESONGS"
+msgid "Stagecraft"
+msgstr "Technika teatralna"
+
+#. TABS.BOOKS
+msgctxt "TABS.BOOKS"
+msgid "Books"
+msgstr "Książki"
+
+#. TABS.CARNIVAL_HOSTSHOP
+msgctxt "TABS.CARNIVAL_HOSTSHOP"
+msgid "Cawnival Creation"
+msgstr "Tworzenie kranawału"
+
+#. TABS.CARNIVAL_PRIZESHOP
+msgctxt "TABS.CARNIVAL_PRIZESHOP"
+msgid "Trinket Trove"
+msgstr "Skarbnica błyskotek"
+
+#. TABS.CARTOGRAPHY
+msgctxt "TABS.CARTOGRAPHY"
+msgid "Cartography"
+msgstr "Kartografia"
+
+#. TABS.CELESTIAL
+msgctxt "TABS.CELESTIAL"
+msgid "Celestial"
+msgstr "Niebiańskie"
+
+#. TABS.CLOCKMAKER
+msgctxt "TABS.CLOCKMAKER"
+msgid "Clocksmithy"
+msgstr "Zakład zegarmistrzowski"
+
+#. TABS.DRESS
+msgctxt "TABS.DRESS"
+msgid "Dress"
+msgstr "Ubrania"
+
+#. TABS.ELIXIRBREWING
+msgctxt "TABS.ELIXIRBREWING"
+msgid "Ectoherbology"
+msgstr "Ektozielarstwo"
+
+#. TABS.ENGINEERING
+msgctxt "TABS.ENGINEERING"
+msgid "Engineering"
+msgstr "Inżynieria"
+
+#. TABS.FARM
+msgctxt "TABS.FARM"
+msgid "Food"
+msgstr "Jedzenie"
+
+#. TABS.FISHING
+msgctxt "TABS.FISHING"
+msgid "Fishing"
+msgstr "Wędkarstwo"
+
+#. TABS.FOODPROCESSING
+msgctxt "TABS.FOODPROCESSING"
+msgid "Seasonings"
+msgstr "Przyprawy"
+
+#. TABS.GEMOLOGY
+msgctxt "TABS.GEMOLOGY"
+msgid "Gemology"
+msgstr "Gemmologia"
+
+#. TABS.HERMITCRABSHOP
+msgctxt "TABS.HERMITCRABSHOP"
+msgid "Bottle Exchange"
+msgstr "Wymiana butelek"
+
+#. TABS.LIGHT
+msgctxt "TABS.LIGHT"
+msgid "Light"
+msgstr "Światło"
+
+#. TABS.MADSCIENCE
+msgctxt "TABS.MADSCIENCE"
+msgid "Mad Science"
+msgstr "Szalona Nauka"
+
+#. TABS.MAGIC
+msgctxt "TABS.MAGIC"
+msgid "Magic"
+msgstr "Magia"
+
+#. TABS.MOON_ALTAR
+msgctxt "TABS.MOON_ALTAR"
+msgid "Celestial"
+msgstr "Niebiańskie"
+
+#. TABS.NATURE
+msgctxt "TABS.NATURE"
+msgid "Green Thumb"
+msgstr "Ogrodnictwo"
+
+#. TABS.ORPHANAGE
+msgctxt "TABS.ORPHANAGE"
+msgid "Critters"
+msgstr "Stworzenia"
+
+#. TABS.PERDOFFERING
+msgctxt "TABS.PERDOFFERING"
+msgid "Offerings"
+msgstr "Ofiary"
+
+#. TABS.QUAGMIRE_MEALINGSTONE
+msgctxt "TABS.QUAGMIRE_MEALINGSTONE"
+msgid "Mealing Stone"
+msgstr "Kamień młyński"
+
+#. TABS.QUAGMIRE_TRADER_ELDER
+msgctxt "TABS.QUAGMIRE_TRADER_ELDER"
+msgid "Swamp Pig Elder"
+msgstr "Starszy świniaków bagiennych"
+
+#. TABS.QUAGMIRE_TRADER_KID
+msgctxt "TABS.QUAGMIRE_TRADER_KID"
+msgid "Billy"
+msgstr "Billy"
+
+#. TABS.QUAGMIRE_TRADER_MERM1
+msgctxt "TABS.QUAGMIRE_TRADER_MERM1"
+msgid "Sammy"
+msgstr "Heniek"
+
+#. TABS.QUAGMIRE_TRADER_MERM2
+msgctxt "TABS.QUAGMIRE_TRADER_MERM2"
+msgid "Pipton"
+msgstr "Pipton"
+
+#. TABS.QUAGMIRE_TRADER_MUM
+msgctxt "TABS.QUAGMIRE_TRADER_MUM"
+msgid "Mumsy"
+msgstr "Mamusia"
+
+#. TABS.REFINE
+msgctxt "TABS.REFINE"
+msgid "Refine"
+msgstr "Udoskonalenia"
+
+#. TABS.ROBOTMODULECRAFT
+msgctxt "TABS.ROBOTMODULECRAFT"
+msgid "Circuitry"
+msgstr "Obwody elektryczne"
+
+#. TABS.SCIENCE
+msgctxt "TABS.SCIENCE"
+msgid "Science"
+msgstr "Nauka"
+
+#. TABS.SCULPTING
+msgctxt "TABS.SCULPTING"
+msgid "Sculptures"
+msgstr "Rzeźby"
+
+#. TABS.SEAFARING
+msgctxt "TABS.SEAFARING"
+msgid "Seafaring"
+msgstr "Żeglarstwo"
+
+#. TABS.SHADOW
+msgctxt "TABS.SHADOW"
+msgid "Shadow"
+msgstr "Cień"
+
+#. TABS.SLINGSHOTAMMO
+msgctxt "TABS.SLINGSHOTAMMO"
+msgid "Slingshot Ammo"
+msgstr "Pociski do procy"
+
+#. TABS.SPIDERCRAFT
+msgctxt "TABS.SPIDERCRAFT"
+msgid "Spider Care"
+msgstr "Pielęgnacja pająków"
+
+#. TABS.STRONGMAN
+msgctxt "TABS.STRONGMAN"
+msgid "Strongman"
+msgstr "Siłacz"
+
+#. TABS.SURVIVAL
+msgctxt "TABS.SURVIVAL"
+msgid "Survival"
+msgstr "Survival"
+
+#. TABS.TOOLS
+msgctxt "TABS.TOOLS"
+msgid "Tools"
+msgstr "Narzędzia"
+
+#. TABS.TOWN
+msgctxt "TABS.TOWN"
+msgid "Structures"
+msgstr "Struktury"
+
+#. TABS.TURFCRAFTING
+msgctxt "TABS.TURFCRAFTING"
+msgid "Landscaping"
+msgstr "Architektura krajobrazu"
+
+#. TABS.WAR
+msgctxt "TABS.WAR"
+msgid "Fight"
+msgstr "Walka"
+
+#. TABS.WINTERSFEASTCOOKING
+msgctxt "TABS.WINTERSFEASTCOOKING"
+msgid "Feast"
+msgstr "Uczta"
+

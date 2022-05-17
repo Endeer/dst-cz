@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.AVAILABLE_QUESTS
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.AVAILABLE_QUESTS"
+msgid "Posted Quests"
+msgstr "已发布任务"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.COMPLETED_QUESTS_FMT
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.COMPLETED_QUESTS_FMT"
+msgid "{num} Quests Completed"
+msgstr "已完成 {num} 个任务"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_MATCHES_FMT
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_MATCHES_FMT"
+msgid "{num} Daily Match Bonuses"
+msgstr "{num} 个每日比赛奖励"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_RESET
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_RESET"
+msgid "Daily bonuses reset in: {hours}h {minutes}m"
+msgstr "每日奖励将在：{hours}小时{minutes}分钟之后重置"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_RESET_SOON
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_RESET_SOON"
+msgid "Daily bonuses will reset soon."
+msgstr "每日奖励很快即将重置。"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_RESET_SOON_INGAME
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_RESET_SOON_INGAME"
+msgid "Daily bonuses will reset after the next match."
+msgstr "每日奖励将会在下一场比赛之后重置。"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_WINS_FMT
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_WINS_FMT"
+msgid "{num} Daily Victory Bonuses"
+msgstr "{num}个每日胜利奖励"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.DESCRIPTION
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.DESCRIPTION"
+msgid "Contribute to the community's progression by defeating the {boss}."
+msgstr "打败{boss}，为社区的进展做贡献。"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.EVERYTHING_UNLOCKED
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.EVERYTHING_UNLOCKED"
+msgid "The {boss} has arrived. Now you can forge your way to a true victory!"
+msgstr "{boss} 来了。现在你可以铸造真正的胜利之路了！"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.LOCKED.BOSS
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.LOCKED.BOSS"
+msgid "Locked Creature"
+msgstr "已锁定生物"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.LOCKED.CREATURE
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.LOCKED.CREATURE"
+msgid "Locked Creature"
+msgstr "已锁定生物"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.LOCKED.ITEM
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.LOCKED.ITEM"
+msgid "Locked Item"
+msgstr "已锁定物品"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.PROGRESSION_QUERY_FAILURE
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.PROGRESSION_QUERY_FAILURE"
+msgid "Failed to retrieve community progression data."
+msgstr "无法检索社区进度数据。"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_QUERY_FAILURE
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_QUERY_FAILURE"
+msgid "Failed to retrieve your quests."
+msgstr "无法检索你的任务。"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_RESET
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_RESET"
+msgid "Posting new quests in: {hours}h {minutes}m"
+msgstr "即将在：{hours}小时{minutes}分钟后发布新任务"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_RESET_SOON
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_RESET_SOON"
+msgid "New quests will be posted soon."
+msgstr "新任务很快即将发布。"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_RESET_SOON_INGAME
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_RESET_SOON_INGAME"
+msgid "New quests will be posted after the next match."
+msgstr "新任务会在下一场比赛之后发布。"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_TYPE_CHARACTER_FMT
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_TYPE_CHARACTER_FMT"
+msgid "{character}'s {quest_type}"
+msgstr "{character}的{quest_type}"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_TYPE_PERSONAL
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_TYPE_PERSONAL"
+msgid "Personal Quest"
+msgstr "个人任务"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_TYPE_TEAM
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_TYPE_TEAM"
+msgid "Teamwork Quest"
+msgstr "团队任务"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.SYNCING_DATA
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.SYNCING_DATA"
+msgid "Syncing Data..."
+msgstr "正在同步数据..."
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.TAB_TITLE
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.TAB_TITLE"
+msgid "Community Unlocks"
+msgstr "社区解锁"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNKNOWN
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNKNOWN"
+msgid "Unknown"
+msgstr "未知"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.BEETLETAUR
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.BEETLETAUR"
+msgid "Summoned to the arena for the final round!"
+msgstr "召唤到竞技场，进行最终一轮的决战！"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.BOARRIOR
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.BOARRIOR"
+msgid "Summoned to the arena while defeating the Boarillas"
+msgstr "打败野猪猩时被召唤到竞技场"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.BOOK_ELEMENTAL
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.BOOK_ELEMENTAL"
+msgid "Summon a Magma Golem or divebomb opponents with a powerful Sky Lunge"
+msgstr "召唤岩浆傀儡或用强大的冲天刺俯冲轰炸对手"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPDAMAGER
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPDAMAGER"
+msgid "80% Protection, +50 Max Health,\n+20% Physical Damage"
+msgstr "80% 保护力，+50 最大生命值，\n+20% 物理伤害"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPEXTRAHEAVY
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPEXTRAHEAVY"
+msgid "90% Protection, +100 Max Health,\nKnockback Resistance"
+msgstr "90% 保护力，+100 最大生命值，\n抵抗击退"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPPETMASTERY
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPPETMASTERY"
+msgid "80% Protection, +75 Max Health, Increases effectiveness of Baby Spiders, Abigail or Bernie"
+msgstr "80% 保护力，+75 最大生命值，提高蜘蛛宝宝、阿比盖尔或伯尼熊的作用"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPRECHARGER
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPRECHARGER"
+msgid "80% Protection, +50 Max Health,\n+15% Faster Cooldown"
+msgstr "80% 保护力，+50 最大生命值，\n+15% 冷却速度加快"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_FIREBOMB
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_FIREBOMB"
+msgid "Bombard your opponents with searing Hearthsfire"
+msgstr "用灼热的炉火轰炸对手"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_HEAVYBLADE
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_HEAVYBLADE"
+msgid "Hinder your opponents with the almighty Blacksmith's Edge"
+msgstr "用全能的铁匠刀刃阻碍对手"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.RHINODRILL
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.RHINODRILL"
+msgid "Summoned to the arena when the Grand Forge Boarrior is defeated"
+msgstr "在打败大熔炉猪战士时被召唤到竞技场"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_TITLE.BOOK_ELEMENTAL
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_TITLE.BOOK_ELEMENTAL"
+msgid "Tome of Beckoning & Spiral Spear"
+msgstr "召唤之书和螺旋矛"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_TITLE.RHINODRILL
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_TITLE.RHINODRILL"
+msgid "Rhinocebros, Snapback and Flatbrim"
+msgstr "后扣帽和平檐帽犀牛兄弟"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.URL_LABEL
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.URL_LABEL"
+msgid "Community Unlocks & Leaderboards"
+msgstr "社区解锁和排行榜"
+
+#. UI.LAVAARENA_COMMUNITY_UNLOCKS.XP_LABEL
+msgctxt "UI.LAVAARENA_COMMUNITY_UNLOCKS.XP_LABEL"
+msgid "XP"
+msgstr "XP"
+

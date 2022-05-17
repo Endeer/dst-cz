@@ -1,0 +1,295 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.PLANTREGISTRY.DESCRIPTIONS.ASPARAGUS
+msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.ASPARAGUS"
+msgid "Green spears of vegetabley goodness. -W"
+msgstr "Lance verdi di squisita bontà. -W"
+
+#. UI.PLANTREGISTRY.DESCRIPTIONS.CARROT
+msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.CARROT"
+msgid "The perennial favorite of Bunnymen. -W"
+msgstr "La preferita dagli uomini-coniglio. -W"
+
+#. UI.PLANTREGISTRY.DESCRIPTIONS.CORN
+msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.CORN"
+msgid "An a-maize-ingly versatile crop. -W"
+msgstr "Un ortaggio versatile a cui non puoi mais dire no. -W"
+
+#. UI.PLANTREGISTRY.DESCRIPTIONS.DRAGONFRUIT
+msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.DRAGONFRUIT"
+msgid "Produces a delectable fruit with a striking appearance. -W"
+msgstr "Produce un frutto succulento dall'aspetto impressionante. -W"
+
+#. UI.PLANTREGISTRY.DESCRIPTIONS.DURIAN
+msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.DURIAN"
+msgid "A foul smelling fruit, favored by a certain green swamp dweller. -W"
+msgstr "Un frutto puzzolente amato da una certa abitante della palude. -W"
+
+#. UI.PLANTREGISTRY.DESCRIPTIONS.EGGPLANT
+msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.EGGPLANT"
+msgid "Zero percent egg, ninety-nine percent plant. Science has yet to explain the rest. -W"
+msgstr "Zero percento mela, novantanove percento pianta. La scienza non ha ancora spiegato il resto. -W"
+
+#. UI.PLANTREGISTRY.DESCRIPTIONS.GARLIC
+msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.GARLIC"
+msgid "Cloves of garlic pair well with a nice stake. -W"
+msgstr "Gli spicchi d'aglio si abbinano perfettamente a una bella bistecca. -W"
+
+#. UI.PLANTREGISTRY.DESCRIPTIONS.MISSING
+msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.MISSING"
+msgid "Unknown"
+msgstr "Sconosciuto"
+
+#. UI.PLANTREGISTRY.DESCRIPTIONS.ONION
+msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.ONION"
+msgid "A ripe onion plant is enough to bring tears of delight to any gardener. -W"
+msgstr "Una cipolla matura è sufficiente per far versare copiose lacrime di gioia a qualsiasi giardiniere. -W"
+
+#. UI.PLANTREGISTRY.DESCRIPTIONS.PEPPER
+msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.PEPPER"
+msgid "A hot pepper plant is the perfect thing to spice up your garden. -W"
+msgstr "Una pianta di peperoncini è perfetta per dare un po' di pepe al tuo orto. -W"
+
+#. UI.PLANTREGISTRY.DESCRIPTIONS.POMEGRANATE
+msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.POMEGRANATE"
+msgid "Never take the juicy sweetness of a pom for granate. -W"
+msgstr "Tienine sempre una a portata di mano se vuoi evitare grane. -W"
+
+#. UI.PLANTREGISTRY.DESCRIPTIONS.POTATO
+msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.POTATO"
+msgid "Sturdy, dependable, and loved by moustachioed strongmen. -W"
+msgstr "Robusta, affidabile e amata dai forzuti baffuti. -W"
+
+#. UI.PLANTREGISTRY.DESCRIPTIONS.PUMPKIN
+msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.PUMPKIN"
+msgid "Compared to other gourds, the pumpkin plant squashes the competition. -W"
+msgstr "Nessun giardiniere con del sale in zucca le preferirebbe un'altra delle cucurbitacee. -W"
+
+#. UI.PLANTREGISTRY.DESCRIPTIONS.TOMATO
+msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.TOMATO"
+msgid "Tomatoes are an excellent source of vitamins, and make for a convenient projectile. -W"
+msgstr "I pomodori sono un'eccellente fonte di vitamine e dei proiettili estremamente pratici. -W"
+
+#. UI.PLANTREGISTRY.DESCRIPTIONS.WATERMELON
+msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.WATERMELON"
+msgid "Fifty percent water, fifty percent melon. -W"
+msgstr "Novantacinque percento di acqua e cento percento di gusto. -W"
+
+#. UI.PLANTREGISTRY.EFFECTS.NONE
+msgctxt "UI.PLANTREGISTRY.EFFECTS.NONE"
+msgid "None"
+msgstr "Nessuno"
+
+#. UI.PLANTREGISTRY.EFFECTS.WEED_FIRENETTLE
+msgctxt "UI.PLANTREGISTRY.EFFECTS.WEED_FIRENETTLE"
+msgid "These nettles can cause quite the burning sensation."
+msgstr "Queste ortiche possono produrre una sensazione di bruciore davvero intensa."
+
+#. UI.PLANTREGISTRY.EFFECTS.WEED_FORGETMELOTS
+msgctxt "UI.PLANTREGISTRY.EFFECTS.WEED_FORGETMELOTS"
+msgid "Has a tendency to come back when dug up."
+msgstr "Queste piante hanno la tendenza a tornare anche dopo essere state estirpate."
+
+#. UI.PLANTREGISTRY.EFFECTS.WEED_IVY
+msgctxt "UI.PLANTREGISTRY.EFFECTS.WEED_IVY"
+msgid "Attacks survivors when they disturb a nearby plant"
+msgstr "Attacca i sopravvissuti quando disturbano una pianta nelle sue vicinanze."
+
+#. UI.PLANTREGISTRY.EFFECTS.WEED_TILLWEED
+msgctxt "UI.PLANTREGISTRY.EFFECTS.WEED_TILLWEED"
+msgid "Its roots make a real mess of things, but its flowers are said to have healing properties."
+msgstr "Le sue radici causano un sacco di problemi, ma si dice che i suoi fiori abbiano proprietà curative."
+
+#. UI.PLANTREGISTRY.FARMPLANTS.DESCRIPTION
+msgctxt "UI.PLANTREGISTRY.FARMPLANTS.DESCRIPTION"
+msgid "Field Notes"
+msgstr "Note sul campo"
+
+#. UI.PLANTREGISTRY.FARMPLANTS.NUTRIENTS
+msgctxt "UI.PLANTREGISTRY.FARMPLANTS.NUTRIENTS"
+msgid "Nutrient Cycling"
+msgstr "Ciclo delle sostanze nutrienti"
+
+#. UI.PLANTREGISTRY.FARMPLANTS.PRODUCT
+msgctxt "UI.PLANTREGISTRY.FARMPLANTS.PRODUCT"
+msgid "Product"
+msgstr "Prodotto"
+
+#. UI.PLANTREGISTRY.FARMPLANTS.SEASONS
+msgctxt "UI.PLANTREGISTRY.FARMPLANTS.SEASONS"
+msgid "Seasons"
+msgstr "Stagioni"
+
+#. UI.PLANTREGISTRY.FARMPLANTS.SEED
+msgctxt "UI.PLANTREGISTRY.FARMPLANTS.SEED"
+msgid "Seed"
+msgstr "Semi"
+
+#. UI.PLANTREGISTRY.FARMPLANTS.WATER
+msgctxt "UI.PLANTREGISTRY.FARMPLANTS.WATER"
+msgid "Water Consumption"
+msgstr "Consumo di acqua"
+
+#. UI.PLANTREGISTRY.MYSTERY_FERTILIZER
+msgctxt "UI.PLANTREGISTRY.MYSTERY_FERTILIZER"
+msgid "Unknown Fertilizer"
+msgstr "Fertilizzante sconosciuto"
+
+#. UI.PLANTREGISTRY.MYSTERY_PLANT
+msgctxt "UI.PLANTREGISTRY.MYSTERY_PLANT"
+msgid "Unknown Plant"
+msgstr "Pianta sconosciuta"
+
+#. UI.PLANTREGISTRY.NEEDSMORERESEARCH
+msgctxt "UI.PLANTREGISTRY.NEEDSMORERESEARCH"
+msgid "Unknown"
+msgstr "Sconosciuto"
+
+#. UI.PLANTREGISTRY.NEEDSPLANTRESEARCH
+msgctxt "UI.PLANTREGISTRY.NEEDSPLANTRESEARCH"
+msgid "Research this plant with the Gardeneer Hat to learn more about it."
+msgstr "Studia questa pianta con il cappello da giardiniere per ottenere maggiori informazioni a riguardo."
+
+#. UI.PLANTREGISTRY.NUTRIENTS.CONSUME
+msgctxt "UI.PLANTREGISTRY.NUTRIENTS.CONSUME"
+msgid "Consumes "
+msgstr "Consuma "
+
+#. UI.PLANTREGISTRY.NUTRIENTS.NEUTRAL
+msgctxt "UI.PLANTREGISTRY.NUTRIENTS.NEUTRAL"
+msgid "Doesn't affect "
+msgstr "Non influisce "
+
+#. UI.PLANTREGISTRY.NUTRIENTS.NUTRIENT_1
+msgctxt "UI.PLANTREGISTRY.NUTRIENTS.NUTRIENT_1"
+msgid "Growth Formula"
+msgstr "Formula della crescita"
+
+#. UI.PLANTREGISTRY.NUTRIENTS.NUTRIENT_2
+msgctxt "UI.PLANTREGISTRY.NUTRIENTS.NUTRIENT_2"
+msgid "Compost"
+msgstr "Compost"
+
+#. UI.PLANTREGISTRY.NUTRIENTS.NUTRIENT_3
+msgctxt "UI.PLANTREGISTRY.NUTRIENTS.NUTRIENT_3"
+msgid "Manure"
+msgstr "Letame"
+
+#. UI.PLANTREGISTRY.NUTRIENTS.RESTORE
+msgctxt "UI.PLANTREGISTRY.NUTRIENTS.RESTORE"
+msgid "Restores "
+msgstr "Ripristina "
+
+#. UI.PLANTREGISTRY.ONLINE_DATA_DOWNLOAD_FAILED
+msgctxt "UI.PLANTREGISTRY.ONLINE_DATA_DOWNLOAD_FAILED"
+msgid "Failed to sync online plant registry data."
+msgstr "Impossibile sincronizzare i dati del registro delle piante online."
+
+#. UI.PLANTREGISTRY.ONLINE_DATA_USER_OFFLINE
+msgctxt "UI.PLANTREGISTRY.ONLINE_DATA_USER_OFFLINE"
+msgid "Login to retrieve online plant registry data."
+msgstr "Accedi per recuperare i dati del registro delle piante online."
+
+#. UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.BOLTING
+msgctxt "UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.BOLTING"
+msgid "Bolting"
+msgstr "In semenza"
+
+#. UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.GROWN
+msgctxt "UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.GROWN"
+msgid "Grown"
+msgstr "Cresciuto"
+
+#. UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.MEDIUM
+msgctxt "UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.MEDIUM"
+msgid "Medium"
+msgstr "Medio"
+
+#. UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.OVERSIZED
+msgctxt "UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.OVERSIZED"
+msgid "Giant"
+msgstr "Gigante"
+
+#. UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.OVERSIZED_ROTTING
+msgctxt "UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.OVERSIZED_ROTTING"
+msgid "Rotting"
+msgstr "Marcio"
+
+#. UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.PICKED
+msgctxt "UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.PICKED"
+msgid "Picked"
+msgstr "Raccolto"
+
+#. UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.ROTTING
+msgctxt "UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.ROTTING"
+msgid "Rotting"
+msgstr "Marcio"
+
+#. UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.SEED
+msgctxt "UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.SEED"
+msgid "Seed"
+msgstr "Semi"
+
+#. UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.SMALL
+msgctxt "UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.SMALL"
+msgid "Small"
+msgstr "Piccolo"
+
+#. UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.SPROUT
+msgctxt "UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.SPROUT"
+msgid "Sprout"
+msgstr "Germoglio"
+
+#. UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.SUMMARY
+msgctxt "UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.SUMMARY"
+msgid "Summary"
+msgstr "Sommario"
+
+#. UI.PLANTREGISTRY.TAB_TITLE_FERTILIZERS
+msgctxt "UI.PLANTREGISTRY.TAB_TITLE_FERTILIZERS"
+msgid "Fertilizers"
+msgstr "Fertilizzanti"
+
+#. UI.PLANTREGISTRY.TAB_TITLE_MOD_FERTILIZERS
+msgctxt "UI.PLANTREGISTRY.TAB_TITLE_MOD_FERTILIZERS"
+msgid "Mod Fertilizers"
+msgstr "Fertilizzanti mod"
+
+#. UI.PLANTREGISTRY.TAB_TITLE_MOD_PLANTS
+msgctxt "UI.PLANTREGISTRY.TAB_TITLE_MOD_PLANTS"
+msgid "Mod Plants"
+msgstr "Piante mod"
+
+#. UI.PLANTREGISTRY.TAB_TITLE_PLANTS
+msgctxt "UI.PLANTREGISTRY.TAB_TITLE_PLANTS"
+msgid "Plants"
+msgstr "Piante"
+
+#. UI.PLANTREGISTRY.WEEDPLANTS.DESCRIPTION
+msgctxt "UI.PLANTREGISTRY.WEEDPLANTS.DESCRIPTION"
+msgid "Description"
+msgstr "Descrizione"
+
+#. UI.PLANTREGISTRY.WEEDPLANTS.EFFECTS
+msgctxt "UI.PLANTREGISTRY.WEEDPLANTS.EFFECTS"
+msgid "Effects"
+msgstr "Effetti"
+
+#. UI.PLANTREGISTRY.WEEDPLANTS.NUTRIENTS
+msgctxt "UI.PLANTREGISTRY.WEEDPLANTS.NUTRIENTS"
+msgid "Nutrient Cycling"
+msgstr "Ciclo delle sostanze nutrienti"
+
+#. UI.PLANTREGISTRY.WEEDPLANTS.PRODUCT
+msgctxt "UI.PLANTREGISTRY.WEEDPLANTS.PRODUCT"
+msgid "Product"
+msgstr "Prodotto"
+
+#. UI.PLANTREGISTRY.WEEDPLANTS.WATER
+msgctxt "UI.PLANTREGISTRY.WEEDPLANTS.WATER"
+msgid "Water Consumption"
+msgstr "Consumo di acqua"
+

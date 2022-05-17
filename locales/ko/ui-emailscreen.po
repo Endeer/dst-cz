@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.EMAILSCREEN.APR
+msgctxt "UI.EMAILSCREEN.APR"
+msgid "Apr"
+msgstr "4월"
+
+#. UI.EMAILSCREEN.AUG
+msgctxt "UI.EMAILSCREEN.AUG"
+msgid "Aug"
+msgstr "8월"
+
+#. UI.EMAILSCREEN.BIRTHDAY
+msgctxt "UI.EMAILSCREEN.BIRTHDAY"
+msgid "Birthdate:"
+msgstr "생년월일:"
+
+#. UI.EMAILSCREEN.BIRTHDAYREASON
+msgctxt "UI.EMAILSCREEN.BIRTHDAYREASON"
+msgid "We need to know your birthdate in order to send age appropriate updates!\nDon't worry, we won't spam you or sell your information."
+msgstr "귀하의 생년월일 정보를 통해 연령에 적합한 소식을 보낼 수 있습니다!\n스팸을 보내거나 개인 정보를 판매하지는 않을 테니 걱정하지 마세요."
+
+#. UI.EMAILSCREEN.CANCEL
+msgctxt "UI.EMAILSCREEN.CANCEL"
+msgid "Cancel"
+msgstr "취소"
+
+#. UI.EMAILSCREEN.DAY
+msgctxt "UI.EMAILSCREEN.DAY"
+msgid "D"
+msgstr "일"
+
+#. UI.EMAILSCREEN.DEC
+msgctxt "UI.EMAILSCREEN.DEC"
+msgid "Dec"
+msgstr "12월"
+
+#. UI.EMAILSCREEN.EMAIL
+msgctxt "UI.EMAILSCREEN.EMAIL"
+msgid "Email:"
+msgstr "이메일:"
+
+#. UI.EMAILSCREEN.FEB
+msgctxt "UI.EMAILSCREEN.FEB"
+msgid "Feb"
+msgstr "2월"
+
+#. UI.EMAILSCREEN.INVALIDDATE
+msgctxt "UI.EMAILSCREEN.INVALIDDATE"
+msgid "We need to know your birthdate in order to send age appropriate updates!"
+msgstr "연령에 적합한 소식을 보내기 위해 당사에 귀하의 생년월일 정보를 제공해 주십시오!"
+
+#. UI.EMAILSCREEN.INVALIDDATETITLE
+msgctxt "UI.EMAILSCREEN.INVALIDDATETITLE"
+msgid "Invalid Date"
+msgstr "잘못된 날짜"
+
+#. UI.EMAILSCREEN.INVALIDEMAIL
+msgctxt "UI.EMAILSCREEN.INVALIDEMAIL"
+msgid "If you don't enter your email address, we won't be able to tell you about new stuff!"
+msgstr "이메일 주소를 입력하지 않으면 새 소식을 보낼 수 없어요!"
+
+#. UI.EMAILSCREEN.INVALIDEMAILTITLE
+msgctxt "UI.EMAILSCREEN.INVALIDEMAILTITLE"
+msgid "Invalid Email"
+msgstr "잘못된 이메일"
+
+#. UI.EMAILSCREEN.JAN
+msgctxt "UI.EMAILSCREEN.JAN"
+msgid "Jan"
+msgstr "1월"
+
+#. UI.EMAILSCREEN.JUL
+msgctxt "UI.EMAILSCREEN.JUL"
+msgid "Jul"
+msgstr "7월"
+
+#. UI.EMAILSCREEN.JUN
+msgctxt "UI.EMAILSCREEN.JUN"
+msgid "Jun"
+msgstr "6월"
+
+#. UI.EMAILSCREEN.MAR
+msgctxt "UI.EMAILSCREEN.MAR"
+msgid "Mar"
+msgstr "3월"
+
+#. UI.EMAILSCREEN.MAY
+msgctxt "UI.EMAILSCREEN.MAY"
+msgid "May"
+msgstr "5월"
+
+#. UI.EMAILSCREEN.MONTH
+msgctxt "UI.EMAILSCREEN.MONTH"
+msgid "M"
+msgstr "월"
+
+#. UI.EMAILSCREEN.NOV
+msgctxt "UI.EMAILSCREEN.NOV"
+msgid "Nov"
+msgstr "11월"
+
+#. UI.EMAILSCREEN.OCT
+msgctxt "UI.EMAILSCREEN.OCT"
+msgid "Oct"
+msgstr "10월"
+
+#. UI.EMAILSCREEN.OK
+msgctxt "UI.EMAILSCREEN.OK"
+msgid "Ok"
+msgstr "확인"
+
+#. UI.EMAILSCREEN.SEP
+msgctxt "UI.EMAILSCREEN.SEP"
+msgid "Sep"
+msgstr "9월"
+
+#. UI.EMAILSCREEN.SIGNUPFAIL
+msgctxt "UI.EMAILSCREEN.SIGNUPFAIL"
+msgid "Looks like we had some trouble signing you up. Please try again later if you don't receive a confirmation email."
+msgstr "회원 가입 처리 중에 문제가 발생했습니다. 확인 이메일이 오지 않으면 나중에 다시 시도하십시오."
+
+#. UI.EMAILSCREEN.SIGNUPFAILTITLE
+msgctxt "UI.EMAILSCREEN.SIGNUPFAILTITLE"
+msgid "Something Went Wrong"
+msgstr "문제 발생"
+
+#. UI.EMAILSCREEN.SIGNUPSUBMIT
+msgctxt "UI.EMAILSCREEN.SIGNUPSUBMIT"
+msgid "Please wait a moment while we sign you up."
+msgstr "회원 가입을 처리하는 동안 잠시만 기다리십시오."
+
+#. UI.EMAILSCREEN.SIGNUPSUBMITTITLE
+msgctxt "UI.EMAILSCREEN.SIGNUPSUBMITTITLE"
+msgid "Sending..."
+msgstr "보내는 중..."
+
+#. UI.EMAILSCREEN.SIGNUPSUCCESS
+msgctxt "UI.EMAILSCREEN.SIGNUPSUCCESS"
+msgid "Thanks for signing up! You should receive a confirmation email in your inbox."
+msgstr "등록해 주셔서 감사합니다! 받은 편지함으로 확인 이메일을 받게 됩니다."
+
+#. UI.EMAILSCREEN.SIGNUPSUCCESSTITLE
+msgctxt "UI.EMAILSCREEN.SIGNUPSUCCESSTITLE"
+msgid "Success!"
+msgstr "성공!"
+
+#. UI.EMAILSCREEN.SUBSCRIBE
+msgctxt "UI.EMAILSCREEN.SUBSCRIBE"
+msgid "Subscribe"
+msgstr "구독"
+
+#. UI.EMAILSCREEN.TITLE
+msgctxt "UI.EMAILSCREEN.TITLE"
+msgid "Keep me updated with Don't Starve news"
+msgstr "Don't Starve 소식을 받습니다."
+
+#. UI.EMAILSCREEN.YEAR
+msgctxt "UI.EMAILSCREEN.YEAR"
+msgid "YYYY"
+msgstr "YYYY"
+

@@ -1,0 +1,330 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. BOARLORD_PLAYERDEATH_BANTER.1
+msgctxt "BOARLORD_PLAYERDEATH_BANTER.1"
+msgid "Ha!"
+msgstr "Ha !"
+
+#. BOARLORD_PLAYERDEATH_BANTER.2
+msgctxt "BOARLORD_PLAYERDEATH_BANTER.2"
+msgid "You are unworthy."
+msgstr "Tu es indigne."
+
+#. BOARLORD_PLAYERDEATH_BANTER.3
+msgctxt "BOARLORD_PLAYERDEATH_BANTER.3"
+msgid "You never stood a chance."
+msgstr "Tu n'avais aucune chance."
+
+#. BOARLORD_PLAYERDEATH_BANTER.4
+msgctxt "BOARLORD_PLAYERDEATH_BANTER.4"
+msgid "Ha ha!"
+msgstr "Ah, ah !"
+
+#. BOARLORD_PLAYERDEATH_BANTER.5
+msgctxt "BOARLORD_PLAYERDEATH_BANTER.5"
+msgid "Weak."
+msgstr "Faible."
+
+#. BOARLORD_PLAYERDEATH_BANTER.6
+msgctxt "BOARLORD_PLAYERDEATH_BANTER.6"
+msgid "We are stronger."
+msgstr "Nous sommes plus forts."
+
+#. BOARLORD_PLAYERDEATH_BANTER.7
+msgctxt "BOARLORD_PLAYERDEATH_BANTER.7"
+msgid "Well struck!"
+msgstr "Joli coup !"
+
+#. BOARLORD_PLAYERS_DEFEATED_BATTLECRY.1
+msgctxt "BOARLORD_PLAYERS_DEFEATED_BATTLECRY.1"
+msgid "At last, our realm returns to glory!"
+msgstr "Enfin, notre royaume retrouve sa gloire !"
+
+#. BOARLORD_PLAYERS_DEFEATED_BATTLECRY.2
+msgctxt "BOARLORD_PLAYERS_DEFEATED_BATTLECRY.2"
+msgid "Warriors, rekindle the Gateway..."
+msgstr "Guerriers, ranimez le Portail..."
+
+#. BOARLORD_PLAYERS_DEFEATED_BATTLECRY.3
+msgctxt "BOARLORD_PLAYERS_DEFEATED_BATTLECRY.3"
+msgid "Today we take the Throne!"
+msgstr "Aujourd'hui, on s'empare du trône !"
+
+#. BOARLORD_ROUND1_FIGHT_BANTER.1
+msgctxt "BOARLORD_ROUND1_FIGHT_BANTER.1"
+msgid "It's good to have a challenge once again!"
+msgstr "Relever des défis, j'adore ça !"
+
+#. BOARLORD_ROUND1_FIGHT_BANTER.2
+msgctxt "BOARLORD_ROUND1_FIGHT_BANTER.2"
+msgid "This should be fun."
+msgstr "On devrait s'amuser."
+
+#. BOARLORD_ROUND1_FIGHT_BANTER.3
+msgctxt "BOARLORD_ROUND1_FIGHT_BANTER.3"
+msgid "More pigs! Overwhelm them!"
+msgstr "Encore des cochons ! Écrasez-les !"
+
+#. BOARLORD_ROUND1_FIGHT_BANTER.4
+msgctxt "BOARLORD_ROUND1_FIGHT_BANTER.4"
+msgid "More pigs!"
+msgstr "Envoyez des cochons !"
+
+#. BOARLORD_ROUND1_START.1
+msgctxt "BOARLORD_ROUND1_START.1"
+msgid "What have we here?"
+msgstr "Qu'est-ce qu'on a là ?"
+
+#. BOARLORD_ROUND1_START.2
+msgctxt "BOARLORD_ROUND1_START.2"
+msgid "Gatekeepers? Ha! Have you come to return us to the Throne?"
+msgstr "Des gardiens ? Ah ! Êtes-vous ici pour nous rendre le trône ?"
+
+#. BOARLORD_ROUND1_START.3
+msgctxt "BOARLORD_ROUND1_START.3"
+msgid "I am Battlemaster Pugna, and I protect what is mine."
+msgstr "Je suis le maître de bataille Pugna, et je protège ce qui m'appartient."
+
+#. BOARLORD_ROUND1_START.4
+msgctxt "BOARLORD_ROUND1_START.4"
+msgid "Warriors. Release the pigs!"
+msgstr "Guerriers, lâchez les cochons !"
+
+#. BOARLORD_ROUND2_FIGHT_BANTER.1
+msgctxt "BOARLORD_ROUND2_FIGHT_BANTER.1"
+msgid "For the Forge!"
+msgstr "Pour la forge !"
+
+#. BOARLORD_ROUND2_FIGHT_BANTER.2
+msgctxt "BOARLORD_ROUND2_FIGHT_BANTER.2"
+msgid "Give the Gatekeepers no quarter!"
+msgstr "Pas de quartier pour les gardiens !"
+
+#. BOARLORD_ROUND2_FIGHT_BANTER.3
+msgctxt "BOARLORD_ROUND2_FIGHT_BANTER.3"
+msgid "Fly your banners proudly, warriors!"
+msgstr "Brandissez vos bannières fièrement, guerriers !"
+
+#. BOARLORD_ROUND2_START.1
+msgctxt "BOARLORD_ROUND2_START.1"
+msgid "Impressive. You handled our foot soldiers with ease."
+msgstr "Impressionnant. Vous avez maîtrisé nos fantassins facilement."
+
+#. BOARLORD_ROUND2_START.2
+msgctxt "BOARLORD_ROUND2_START.2"
+msgid "But our battalions are trained to work together."
+msgstr "Mais nos bataillons sont entraînés à se battre ensemble."
+
+#. BOARLORD_ROUND2_START.3
+msgctxt "BOARLORD_ROUND2_START.3"
+msgid "Can you do the same? Crocommanders, to the ring!"
+msgstr "Saurez-vous faire de même ? Crocomandeurs, sur le ring !"
+
+#. BOARLORD_ROUND3_START.1
+msgctxt "BOARLORD_ROUND3_START.1"
+msgid "We've endured more here than you know."
+msgstr "Vous n'imaginez pas ce qu'on a déjà enduré ici."
+
+#. BOARLORD_ROUND3_START.2
+msgctxt "BOARLORD_ROUND3_START.2"
+msgid "And as forging fires temper steel,"
+msgstr "Et comme les feux de la forge trempent l'acier,"
+
+#. BOARLORD_ROUND3_START.3
+msgctxt "BOARLORD_ROUND3_START.3"
+msgid "Hardship has only made us stronger."
+msgstr "les épreuves n'ont fait que nous endurcir."
+
+#. BOARLORD_ROUND3_START.4
+msgctxt "BOARLORD_ROUND3_START.4"
+msgid "Now, Snortoises. Attack!"
+msgstr "Et maintenant, les grognues. À l'attaque !"
+
+#. BOARLORD_ROUND4_FIGHT_BANTER.1
+msgctxt "BOARLORD_ROUND4_FIGHT_BANTER.1"
+msgid "End this now my warriors!"
+msgstr "Qu'on en finisse maintenant, mes guerriers !"
+
+#. BOARLORD_ROUND4_FIGHT_BANTER.2
+msgctxt "BOARLORD_ROUND4_FIGHT_BANTER.2"
+msgid "We... cannot lose the Forge..."
+msgstr "On ne... peut pas perdre la forge..."
+
+#. BOARLORD_ROUND4_PLAYER_VICTORY.1
+msgctxt "BOARLORD_ROUND4_PLAYER_VICTORY.1"
+msgid "No! How can this be?!"
+msgstr "Non ! Comment est-ce possible ?"
+
+#. BOARLORD_ROUND4_PLAYER_VICTORY.2
+msgctxt "BOARLORD_ROUND4_PLAYER_VICTORY.2"
+msgid "You have defeated the mighty Boarilla!"
+msgstr "Vous avez vaincu le puissant sangorille !"
+
+#. BOARLORD_ROUND4_PLAYER_VICTORY.3
+msgctxt "BOARLORD_ROUND4_PLAYER_VICTORY.3"
+msgid "You may have won the battle, Gatekeepers... but not the war!"
+msgstr "Vous avez gagné une bataille, gardiens… mais pas la guerre !"
+
+#. BOARLORD_ROUND4_START.1
+msgctxt "BOARLORD_ROUND4_START.1"
+msgid "...Do you understand the forces you serve?"
+msgstr "Connaissez-vous les forces que vous servez ?"
+
+#. BOARLORD_ROUND4_START.2
+msgctxt "BOARLORD_ROUND4_START.2"
+msgid "They destroy all They touch..."
+msgstr "Ils détruisent tout ce qu'ils touchent..."
+
+#. BOARLORD_ROUND4_START.3
+msgctxt "BOARLORD_ROUND4_START.3"
+msgid "We were severed from the Throne, trapped in a realm of stone and fire!"
+msgstr "Nous avons été privés du trône, enfermés dans un royaume de pierre et de feu !"
+
+#. BOARLORD_ROUND4_START.4
+msgctxt "BOARLORD_ROUND4_START.4"
+msgid "That is why we cannot let you win."
+msgstr "C'est pour cela que nous ne pouvons vous laisser gagner."
+
+#. BOARLORD_ROUND4_TRAILS_INTRO.1
+msgctxt "BOARLORD_ROUND4_TRAILS_INTRO.1"
+msgid "Send in the Boarilla."
+msgstr "Envoyez le sangorille !"
+
+#. BOARLORD_ROUND5_BOARRIOR_INTRO.1
+msgctxt "BOARLORD_ROUND5_BOARRIOR_INTRO.1"
+msgid "Grand Forge Boarrior!"
+msgstr "Grand sanguerrier de la forge !"
+
+#. BOARLORD_ROUND5_BOARRIOR_INTRO.2
+msgctxt "BOARLORD_ROUND5_BOARRIOR_INTRO.2"
+msgid "The ring is yours! Destroy them, my champion!"
+msgstr "Le ring est à toi ! Détruis-les, mon champion !"
+
+#. BOARLORD_ROUND5_FIGHT_BANTER1.1
+msgctxt "BOARLORD_ROUND5_FIGHT_BANTER1.1"
+msgid "The Gatekeepers must not take the Forge!"
+msgstr "Les gardiens ne doivent pas prendre la forge !"
+
+#. BOARLORD_ROUND5_FIGHT_BANTER1.2
+msgctxt "BOARLORD_ROUND5_FIGHT_BANTER1.2"
+msgid "Drive the interlopers back!"
+msgstr "Repoussez les intrus !"
+
+#. BOARLORD_ROUND5_FIGHT_BANTER1.3
+msgctxt "BOARLORD_ROUND5_FIGHT_BANTER1.3"
+msgid "Do not hold back! Kill them!"
+msgstr "Ne reculez pas ! Tuez-les !"
+
+#. BOARLORD_ROUND5_FIGHT_BANTER2.1
+msgctxt "BOARLORD_ROUND5_FIGHT_BANTER2.1"
+msgid "Why are the Gatekeepers still not dead?!"
+msgstr "Pourquoi les gardiens sont-ils toujours en vie ?"
+
+#. BOARLORD_ROUND5_FIGHT_BANTER2.2
+msgctxt "BOARLORD_ROUND5_FIGHT_BANTER2.2"
+msgid "Destroy them!!"
+msgstr "Détruisez-les !"
+
+#. BOARLORD_ROUND5_FIGHT_BANTER2.3
+msgctxt "BOARLORD_ROUND5_FIGHT_BANTER2.3"
+msgid "We will not live in the Throne's shadow!"
+msgstr "Nous ne vivrons pas dans l'ombre du trône !"
+
+#. BOARLORD_ROUND5_PLAYER_VICTORY.1
+msgctxt "BOARLORD_ROUND5_PLAYER_VICTORY.1"
+msgid "What?! My champion!?!"
+msgstr "Quoi ? Mon champion ?"
+
+#. BOARLORD_ROUND5_PLAYER_VICTORY.2
+msgctxt "BOARLORD_ROUND5_PLAYER_VICTORY.2"
+msgid "I see. You've demonstrated your might."
+msgstr "Je vois. Vous avez démontré votre puissance."
+
+#. BOARLORD_ROUND5_PLAYER_VICTORY.3
+msgctxt "BOARLORD_ROUND5_PLAYER_VICTORY.3"
+msgid "...But we will live to fight again!!"
+msgstr "… Mais nous vivrons pour combattre à nouveau !"
+
+#. BOARLORD_ROUND5_START.1
+msgctxt "BOARLORD_ROUND5_START.1"
+msgid "Know this, Gatekeepers:"
+msgstr "Sachez-le, gardiens :"
+
+#. BOARLORD_ROUND5_START.2
+msgctxt "BOARLORD_ROUND5_START.2"
+msgid "Once you are dead, we will activate the Gateway."
+msgstr "quand vous serez morts, nous activerons le Portail."
+
+#. BOARLORD_ROUND5_START.3
+msgctxt "BOARLORD_ROUND5_START.3"
+msgid "We'll return to the hub and destroy the Throne."
+msgstr "Nous retournerons au hub et détruirons le trône."
+
+#. BOARLORD_ROUND5_START.4
+msgctxt "BOARLORD_ROUND5_START.4"
+msgid "We will end this, once and for all."
+msgstr "Et ça sera terminé une bonne fois pour toutes."
+
+#. BOARLORD_ROUND6_PLAYER_VICTORY.1
+msgctxt "BOARLORD_ROUND6_PLAYER_VICTORY.1"
+msgid "You have won the battle,"
+msgstr "Vous avez gagné la bataille,"
+
+#. BOARLORD_ROUND6_PLAYER_VICTORY.2
+msgctxt "BOARLORD_ROUND6_PLAYER_VICTORY.2"
+msgid "But the war rages on eternally."
+msgstr "mais la guerre fera rage pour toujours."
+
+#. BOARLORD_ROUND6_PLAYER_VICTORY.3
+msgctxt "BOARLORD_ROUND6_PLAYER_VICTORY.3"
+msgid "We are not ready to give up yet."
+msgstr "Nous ne sommes pas prêts à abandonner."
+
+#. BOARLORD_ROUND6_START.1
+msgctxt "BOARLORD_ROUND6_START.1"
+msgid "We do not fear you."
+msgstr "On n'a pas peur de vous."
+
+#. BOARLORD_ROUND6_START.2
+msgctxt "BOARLORD_ROUND6_START.2"
+msgid "But you will fear us!"
+msgstr "Mais vous aurez peur de nous !"
+
+#. BOARLORD_ROUND6_START.3
+msgctxt "BOARLORD_ROUND6_START.3"
+msgid "Fear my new champions! Fear the Rhinocebros!"
+msgstr "Craignez mes nouveaux champions ! Craignez les rhinocéfrères !"
+
+#. BOARLORD_ROUND7_PLAYER_VICTORY.1
+msgctxt "BOARLORD_ROUND7_PLAYER_VICTORY.1"
+msgid "No! My Forge, felled by the Throne's lapdogs!"
+msgstr "Non ! Ma forge est tombée devant les caniches du trône !"
+
+#. BOARLORD_ROUND7_PLAYER_VICTORY.2
+msgctxt "BOARLORD_ROUND7_PLAYER_VICTORY.2"
+msgid "Please. No more, Gatekeepers. We surrender."
+msgstr "Pitié ! Arrêtez, les gardiens. On se rend."
+
+#. BOARLORD_ROUND7_PLAYER_VICTORY.3
+msgctxt "BOARLORD_ROUND7_PLAYER_VICTORY.3"
+msgid "The day is yours, as is the Gateway."
+msgstr "La journée est à vous, comme le Portail."
+
+#. BOARLORD_ROUND7_START.1
+msgctxt "BOARLORD_ROUND7_START.1"
+msgid "You have had many victories, Gatekeepers..."
+msgstr "Vous avez remporté de nombreuses victoires, gardiens..."
+
+#. BOARLORD_ROUND7_START.2
+msgctxt "BOARLORD_ROUND7_START.2"
+msgid "...but from our dungeons comes our most brutal warrior."
+msgstr "… mais de mes donjons va surgir mon guerrier le plus brutal."
+
+#. BOARLORD_ROUND7_START.3
+msgctxt "BOARLORD_ROUND7_START.3"
+msgid "Behold: The Infernal Swineclops!"
+msgstr "Attention : l'infernal porclope !"
+

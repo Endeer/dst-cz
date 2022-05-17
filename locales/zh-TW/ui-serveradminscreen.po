@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.SERVERADMINSCREEN.APPLY
+msgctxt "UI.SERVERADMINSCREEN.APPLY"
+msgid "Apply"
+msgstr "應用"
+
+#. UI.SERVERADMINSCREEN.BACK
+msgctxt "UI.SERVERADMINSCREEN.BACK"
+msgid "Back"
+msgstr "返回"
+
+#. UI.SERVERADMINSCREEN.BANNED
+msgctxt "UI.SERVERADMINSCREEN.BANNED"
+msgid "Banned on "
+msgstr "封禁"
+
+#. UI.SERVERADMINSCREEN.BANNED_PLAYERS_HEADER
+msgctxt "UI.SERVERADMINSCREEN.BANNED_PLAYERS_HEADER"
+msgid "Banned Players"
+msgstr "被禁玩家"
+
+#. UI.SERVERADMINSCREEN.CANCEL
+msgctxt "UI.SERVERADMINSCREEN.CANCEL"
+msgid "Cancel"
+msgstr "取消"
+
+#. UI.SERVERADMINSCREEN.CLEAR_LIST_BODY
+msgctxt "UI.SERVERADMINSCREEN.CLEAR_LIST_BODY"
+msgid "Do you want to delete all banned players?\nThis will affect all servers you create."
+msgstr "刪除所有列入黑名單的玩家？\n這會影響到你所創建的全部伺服器。"
+
+#. UI.SERVERADMINSCREEN.CLEAR_LIST_TITLE
+msgctxt "UI.SERVERADMINSCREEN.CLEAR_LIST_TITLE"
+msgid "Unban all?"
+msgstr "全部允許？"
+
+#. UI.SERVERADMINSCREEN.CLEAR_PLAYERS
+msgctxt "UI.SERVERADMINSCREEN.CLEAR_PLAYERS"
+msgid "Unban All"
+msgstr "允許全部"
+
+#. UI.SERVERADMINSCREEN.DATE
+msgctxt "UI.SERVERADMINSCREEN.DATE"
+msgid "Date"
+msgstr "日期"
+
+#. UI.SERVERADMINSCREEN.DAY
+msgctxt "UI.SERVERADMINSCREEN.DAY"
+msgid "Day"
+msgstr "白天"
+
+#. UI.SERVERADMINSCREEN.DAY_UNKNOWN
+msgctxt "UI.SERVERADMINSCREEN.DAY_UNKNOWN"
+msgid "Unknown Day"
+msgstr "未知天數"
+
+#. UI.SERVERADMINSCREEN.DAY_V2
+msgctxt "UI.SERVERADMINSCREEN.DAY_V2"
+msgid "Day {day_count}"
+msgstr "天 {day_count}"
+
+#. UI.SERVERADMINSCREEN.DELETE_ENTRY_BODY
+msgctxt "UI.SERVERADMINSCREEN.DELETE_ENTRY_BODY"
+msgid "Do you want to delete \""
+msgstr "要刪除\""
+
+#. UI.SERVERADMINSCREEN.DELETE_ENTRY_BODY_2
+msgctxt "UI.SERVERADMINSCREEN.DELETE_ENTRY_BODY_2"
+msgid "\" from your ban list?\nThis will affect all servers you create."
+msgstr "\"從你的黑名單？\n這會影響到你所創建的全部伺服器。"
+
+#. UI.SERVERADMINSCREEN.DELETE_ENTRY_TITLE
+msgctxt "UI.SERVERADMINSCREEN.DELETE_ENTRY_TITLE"
+msgid "Unban Player?"
+msgstr "允許玩家？"
+
+#. UI.SERVERADMINSCREEN.EMPTY_SLOT
+msgctxt "UI.SERVERADMINSCREEN.EMPTY_SLOT"
+msgid "EMPTY"
+msgstr "空的"
+
+#. UI.SERVERADMINSCREEN.EMPTY_SLOT_TITLE
+msgctxt "UI.SERVERADMINSCREEN.EMPTY_SLOT_TITLE"
+msgid "Empty Slot"
+msgstr "空存檔欄"
+
+#. UI.SERVERADMINSCREEN.HEADER_DAY
+msgctxt "UI.SERVERADMINSCREEN.HEADER_DAY"
+msgid "Restore Day {day_count}"
+msgstr "恢復到第{day_count}天"
+
+#. UI.SERVERADMINSCREEN.HEADER_DAY_UNKNOWN
+msgctxt "UI.SERVERADMINSCREEN.HEADER_DAY_UNKNOWN"
+msgid "Restore Unknown Day"
+msgstr "恢復到未知天數"
+
+#. UI.SERVERADMINSCREEN.LOSE_CHANGES_BODY
+msgctxt "UI.SERVERADMINSCREEN.LOSE_CHANGES_BODY"
+msgid "Do you want abandon your changes?"
+msgstr "要放棄更改嗎？"
+
+#. UI.SERVERADMINSCREEN.LOSE_CHANGES_TITLE
+msgctxt "UI.SERVERADMINSCREEN.LOSE_CHANGES_TITLE"
+msgid "Lose Changes?"
+msgstr "放棄更改？"
+
+#. UI.SERVERADMINSCREEN.NO
+msgctxt "UI.SERVERADMINSCREEN.NO"
+msgid "No"
+msgstr "否"
+
+#. UI.SERVERADMINSCREEN.NO_PLAYER_SELECTED
+msgctxt "UI.SERVERADMINSCREEN.NO_PLAYER_SELECTED"
+msgid "No Player Selected"
+msgstr "未選擇玩家"
+
+#. UI.SERVERADMINSCREEN.PLAYER
+msgctxt "UI.SERVERADMINSCREEN.PLAYER"
+msgid "Player"
+msgstr "玩家"
+
+#. UI.SERVERADMINSCREEN.PLAYER_DELETE
+msgctxt "UI.SERVERADMINSCREEN.PLAYER_DELETE"
+msgid "Unban"
+msgstr "允許"
+
+#. UI.SERVERADMINSCREEN.PLAYER_DETAILS
+msgctxt "UI.SERVERADMINSCREEN.PLAYER_DETAILS"
+msgid "View Details"
+msgstr "查看詳情"
+
+#. UI.SERVERADMINSCREEN.RESTORE_SNAPSHOT
+msgctxt "UI.SERVERADMINSCREEN.RESTORE_SNAPSHOT"
+msgid "Restore Snapshot"
+msgstr "恢復截圖"
+
+#. UI.SERVERADMINSCREEN.RESTORE_SNAPSHOT_BODY
+msgctxt "UI.SERVERADMINSCREEN.RESTORE_SNAPSHOT_BODY"
+msgid "Do you want to restore this save? You will lose all changes made to the world past the selected day, as well as all subsequent saves. This cannot be undone."
+msgstr "恢復本次保存？你會丟失選定日期後對世界的全部更改以及所有後續保存。此操作無法撤銷。"
+
+#. UI.SERVERADMINSCREEN.RESTORE_SNAPSHOT_HEADER
+msgctxt "UI.SERVERADMINSCREEN.RESTORE_SNAPSHOT_HEADER"
+msgid "Restore %s"
+msgstr "恢復 %s"
+
+#. UI.SERVERADMINSCREEN.SERVER_DESCRIPTION
+msgctxt "UI.SERVERADMINSCREEN.SERVER_DESCRIPTION"
+msgid "Server Description:"
+msgstr "伺服器描述："
+
+#. UI.SERVERADMINSCREEN.SERVER_NAME
+msgctxt "UI.SERVERADMINSCREEN.SERVER_NAME"
+msgid "Server Name:"
+msgstr "伺服器名稱："
+
+#. UI.SERVERADMINSCREEN.SNAPSHOTS_TITLE
+msgctxt "UI.SERVERADMINSCREEN.SNAPSHOTS_TITLE"
+msgid "Snapshots: "
+msgstr "截圖："
+
+#. UI.SERVERADMINSCREEN.SYSTEMMESSAGE
+msgctxt "UI.SERVERADMINSCREEN.SYSTEMMESSAGE"
+msgid "Server"
+msgstr "伺服器"
+
+#. UI.SERVERADMINSCREEN.UNDO_PLAYERS
+msgctxt "UI.SERVERADMINSCREEN.UNDO_PLAYERS"
+msgid "Undo All"
+msgstr "全部撤銷"
+
+#. UI.SERVERADMINSCREEN.UNKNOWN
+msgctxt "UI.SERVERADMINSCREEN.UNKNOWN"
+msgid "Unknown"
+msgstr "未知"
+
+#. UI.SERVERADMINSCREEN.UNKNOWN_DATE
+msgctxt "UI.SERVERADMINSCREEN.UNKNOWN_DATE"
+msgid "????-??-??"
+msgstr "????-??-??"
+
+#. UI.SERVERADMINSCREEN.UNKNOWN_DAY
+msgctxt "UI.SERVERADMINSCREEN.UNKNOWN_DAY"
+msgid "???"
+msgstr "???"
+
+#. UI.SERVERADMINSCREEN.UNKNOWN_DAY_PS4
+msgctxt "UI.SERVERADMINSCREEN.UNKNOWN_DAY_PS4"
+msgid "Creation of the World"
+msgstr "創造世界"
+
+#. UI.SERVERADMINSCREEN.UNKNOWN_USER_NAME
+msgctxt "UI.SERVERADMINSCREEN.UNKNOWN_USER_NAME"
+msgid "[unknown]"
+msgstr "[未知]"
+
+#. UI.SERVERADMINSCREEN.YES
+msgctxt "UI.SERVERADMINSCREEN.YES"
+msgid "Yes"
+msgstr "是"
+

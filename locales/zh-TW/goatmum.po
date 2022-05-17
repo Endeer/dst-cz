@@ -1,0 +1,430 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. GOATMUM_CRAVING_HINTS.1
+msgctxt "GOATMUM_CRAVING_HINTS.1"
+msgid "The Gnaw craves {craving}... {part2}"
+msgstr "饕餮想吃{craving}……{part2}"
+
+#. GOATMUM_CRAVING_HINTS.2
+msgctxt "GOATMUM_CRAVING_HINTS.2"
+msgid "The Gnaw hungers for {craving}... {part2}"
+msgstr "饕餮渴望{craving}……{part2}"
+
+#. GOATMUM_CRAVING_HINTS.3
+msgctxt "GOATMUM_CRAVING_HINTS.3"
+msgid "The Gnaw desires {craving}... {part2}"
+msgstr "饕餮想要{craving}……{part2}"
+
+#. GOATMUM_CRAVING_HINTS.4
+msgctxt "GOATMUM_CRAVING_HINTS.4"
+msgid "The Gnaw wants {craving}... {part2}"
+msgstr "饕餮想要{craving}……{part2}"
+
+#. GOATMUM_CRAVING_HINTS.5
+msgctxt "GOATMUM_CRAVING_HINTS.5"
+msgid "The Gnaw craves {craving}!"
+msgstr "饕餮想吃{craving}！"
+
+#. GOATMUM_CRAVING_HINTS.6
+msgctxt "GOATMUM_CRAVING_HINTS.6"
+msgid "The Gnaw desires {craving}!"
+msgstr "饕餮想要{craving}！"
+
+#. GOATMUM_CRAVING_HINTS.7
+msgctxt "GOATMUM_CRAVING_HINTS.7"
+msgid "The Gnaw hungers for {craving}!"
+msgstr "饕餮渴望{craving}！"
+
+#. GOATMUM_CRAVING_HINTS_PART2.1
+msgctxt "GOATMUM_CRAVING_HINTS_PART2.1"
+msgid "I can tell, baa."
+msgstr "我可以看出來，咩。"
+
+#. GOATMUM_CRAVING_HINTS_PART2.2
+msgctxt "GOATMUM_CRAVING_HINTS_PART2.2"
+msgid "I feel it."
+msgstr "我可以感覺到。"
+
+#. GOATMUM_CRAVING_HINTS_PART2.3
+msgctxt "GOATMUM_CRAVING_HINTS_PART2.3"
+msgid "It's time to cook."
+msgstr "到了做飯的時候了。"
+
+#. GOATMUM_CRAVING_HINTS_PART2.4
+msgctxt "GOATMUM_CRAVING_HINTS_PART2.4"
+msgid "baa."
+msgstr "咩。"
+
+#. GOATMUM_CRAVING_HINTS_PART2.5
+msgctxt "GOATMUM_CRAVING_HINTS_PART2.5"
+msgid "I'm certain of it."
+msgstr "我很確定。"
+
+#. GOATMUM_CRAVING_HINTS_PART2.6
+msgctxt "GOATMUM_CRAVING_HINTS_PART2.6"
+msgid "You must oblige."
+msgstr "你必須效勞。"
+
+#. GOATMUM_CRAVING_HINTS_PART2_IMPATIENT.1
+msgctxt "GOATMUM_CRAVING_HINTS_PART2_IMPATIENT.1"
+msgid "or anything! Hurry, BAAA!"
+msgstr "或任何東西！快點，咩！"
+
+#. GOATMUM_CRAVING_HINTS_PART2_IMPATIENT.2
+msgctxt "GOATMUM_CRAVING_HINTS_PART2_IMPATIENT.2"
+msgid "or whatever! Quick, BAAA!"
+msgstr "或隨便什麼！快，咩！"
+
+#. GOATMUM_CRAVING_HINTS_PART2_IMPATIENT.3
+msgctxt "GOATMUM_CRAVING_HINTS_PART2_IMPATIENT.3"
+msgid "BAAA! Hurry!"
+msgstr "咩！快！"
+
+#. GOATMUM_CRAVING_HINTS_PART2_IMPATIENT.4
+msgctxt "GOATMUM_CRAVING_HINTS_PART2_IMPATIENT.4"
+msgid "there's no time!"
+msgstr "沒時間了！"
+
+#. GOATMUM_CRAVING_HINTS_PART2_IMPATIENT.5
+msgctxt "GOATMUM_CRAVING_HINTS_PART2_IMPATIENT.5"
+msgid "give it something! Anything!"
+msgstr "給它點東西！任何東西！"
+
+#. GOATMUM_CRAVING_MAP.BREAD
+msgctxt "GOATMUM_CRAVING_MAP.BREAD"
+msgid "a meal on BREAD"
+msgstr "麵包餐"
+
+#. GOATMUM_CRAVING_MAP.CHEESE
+msgctxt "GOATMUM_CRAVING_MAP.CHEESE"
+msgid "a meal with CHEESE"
+msgstr "乳酪餐"
+
+#. GOATMUM_CRAVING_MAP.FISH
+msgctxt "GOATMUM_CRAVING_MAP.FISH"
+msgid "FISH"
+msgstr "魚"
+
+#. GOATMUM_CRAVING_MAP.MEAT
+msgctxt "GOATMUM_CRAVING_MAP.MEAT"
+msgid "MEAT"
+msgstr "肉"
+
+#. GOATMUM_CRAVING_MAP.PASTA
+msgctxt "GOATMUM_CRAVING_MAP.PASTA"
+msgid "PASTA"
+msgstr "義大利面"
+
+#. GOATMUM_CRAVING_MAP.SNACK
+msgctxt "GOATMUM_CRAVING_MAP.SNACK"
+msgid "a SNACK"
+msgstr "一份零食"
+
+#. GOATMUM_CRAVING_MAP.SOUP
+msgctxt "GOATMUM_CRAVING_MAP.SOUP"
+msgid "SOUP"
+msgstr "湯"
+
+#. GOATMUM_CRAVING_MAP.SWEET
+msgctxt "GOATMUM_CRAVING_MAP.SWEET"
+msgid "a DESSERT"
+msgstr "一份甜點"
+
+#. GOATMUM_CRAVING_MAP.VEGGIE
+msgctxt "GOATMUM_CRAVING_MAP.VEGGIE"
+msgid "a VEGETABLE dish"
+msgstr "一份素菜"
+
+#. GOATMUM_CRAVING_MATCH.1
+msgctxt "GOATMUM_CRAVING_MATCH.1"
+msgid "Oh yes, {craving}! That'll buy you some time."
+msgstr "嗯，好，{craving}！這樣能給你爭取一些時間。"
+
+#. GOATMUM_CRAVING_MATCH.2
+msgctxt "GOATMUM_CRAVING_MATCH.2"
+msgid "Yes, yes, {craving}! That should sate the beast."
+msgstr "好，好，{craving}！應該能滿足那頭怪獸了。"
+
+#. GOATMUM_CRAVING_MATCH.3
+msgctxt "GOATMUM_CRAVING_MATCH.3"
+msgid "You found what the Gnaw craved!"
+msgstr "你找到了饕餮渴望的東西！"
+
+#. GOATMUM_CRAVING_MATCH.4
+msgctxt "GOATMUM_CRAVING_MATCH.4"
+msgid "The Gnaw's pleased with your offering."
+msgstr "饕餮對你的供品很滿意。"
+
+#. GOATMUM_CRAVING_MATCH.5
+msgctxt "GOATMUM_CRAVING_MATCH.5"
+msgid "Mighty Gnaw! Feast now upon on {craving}!"
+msgstr "威力無窮的饕餮！現在就來享用{craving}吧！"
+
+#. GOATMUM_CRAVING_MISMATCH.1
+msgctxt "GOATMUM_CRAVING_MISMATCH.1"
+msgid "Well, it wasn't {craving}. But better than nothing!"
+msgstr "嗯，這不是{craving}，但有總比沒有好！"
+
+#. GOATMUM_CRAVING_MISMATCH.2
+msgctxt "GOATMUM_CRAVING_MISMATCH.2"
+msgid "That wasn't what the Gnaw craved, but we'll make do."
+msgstr "那不是饕餮所渴望的，但我們就將就一下吧。"
+
+#. GOATMUM_CRAVING_MISMATCH.3
+msgctxt "GOATMUM_CRAVING_MISMATCH.3"
+msgid "I wouldn't call that {craving}, but oh well."
+msgstr "我不會稱它為{craving}，但還是算了吧。"
+
+#. GOATMUM_LOST.1
+msgctxt "GOATMUM_LOST.1"
+msgid "It's over."
+msgstr "結束了。"
+
+#. GOATMUM_LOST.2
+msgctxt "GOATMUM_LOST.2"
+msgid "The Gnaw's plague is upon you."
+msgstr "饕餮給你帶來了瘟疫。"
+
+#. GOATMUM_LOST.3
+msgctxt "GOATMUM_LOST.3"
+msgid "I'm sorry I couldn't help more."
+msgstr "對不起，我幫不上更多忙了。"
+
+#. GOATMUM_LOST.4
+msgctxt "GOATMUM_LOST.4"
+msgid "Goodbye."
+msgstr "再見。"
+
+#. GOATMUM_TALK_GREETING.1
+msgctxt "GOATMUM_TALK_GREETING.1"
+msgid "If you can earn the Gnaw's favor... you might escape."
+msgstr "如果你能贏得饕餮的歡心......或許你能逃過一劫。"
+
+#. GOATMUM_TALK_GREETING.2
+msgctxt "GOATMUM_TALK_GREETING.2"
+msgid "The Gnaw's been around since I was just a lamb."
+msgstr "從我還是小羊羔的時候起，饕餮就一直在。"
+
+#. GOATMUM_TALK_GREETING.3
+msgctxt "GOATMUM_TALK_GREETING.3"
+msgid "Another of your kind passed through here once."
+msgstr "你的另一個同類曾路過這裡。"
+
+#. GOATMUM_TALK_GREETING.4
+msgctxt "GOATMUM_TALK_GREETING.4"
+msgid "Favor from the Gnaw might recharge the old key."
+msgstr "饕餮的歡心可能能給舊鑰匙充電。"
+
+#. GOATMUM_TALK_GREETING.5
+msgctxt "GOATMUM_TALK_GREETING.5"
+msgid "You must cook, or you will perish."
+msgstr "你必須烹飪，否則只有死路一條。"
+
+#. GOATMUM_TALK_GREETING.6
+msgctxt "GOATMUM_TALK_GREETING.6"
+msgid "Your presence here distracts it from Billy and I."
+msgstr "你在這裡會分散比利和我的注意力。"
+
+#. GOATMUM_TALK_GREETING.7
+msgctxt "GOATMUM_TALK_GREETING.7"
+msgid "Are you... Gatekeepers, by chance?"
+msgstr "你會不會是……守門人？"
+
+#. GOATMUM_TALK_GREETING_URGENT.1
+msgctxt "GOATMUM_TALK_GREETING_URGENT.1"
+msgid "Hurry, please!"
+msgstr "請快一點！"
+
+#. GOATMUM_TALK_GREETING_URGENT.2
+msgctxt "GOATMUM_TALK_GREETING_URGENT.2"
+msgid "The Gnaw is growing impatient!"
+msgstr "饕餮有點不耐煩了！"
+
+#. GOATMUM_TALK_GREETING_URGENT.3
+msgctxt "GOATMUM_TALK_GREETING_URGENT.3"
+msgid "It must be fed, at all costs."
+msgstr "必須不惜一切代價給它餵食。"
+
+#. GOATMUM_TALK_GREETING_URGENT.4
+msgctxt "GOATMUM_TALK_GREETING_URGENT.4"
+msgid "The Gnaw's demands know no end."
+msgstr "饕餮的需要是沒有止境的。"
+
+#. GOATMUM_TALK_GREETING_URGENT.5
+msgctxt "GOATMUM_TALK_GREETING_URGENT.5"
+msgid "I believe in you. You can do this."
+msgstr "我相信你。你可以的。"
+
+#. GOATMUM_TALK_GREETING_URGENT.6
+msgctxt "GOATMUM_TALK_GREETING_URGENT.6"
+msgid "Don't give up."
+msgstr "不要放棄。"
+
+#. GOATMUM_TALK_GREETING_URGENT.7
+msgctxt "GOATMUM_TALK_GREETING_URGENT.7"
+msgid "The Gnaw will cast down its plague if not fed!"
+msgstr "如果不給饕餮餵食，它就會讓瘟疫降臨！"
+
+#. GOATMUM_TALK_START_BECKON.1
+msgctxt "GOATMUM_TALK_START_BECKON.1"
+msgid "Come a little closer."
+msgstr "再靠近點。"
+
+#. GOATMUM_TALK_START_BECKON.2
+msgctxt "GOATMUM_TALK_START_BECKON.2"
+msgid "Yoo-hoo, over here! Baa."
+msgstr "喲謔，這裡！咩。"
+
+#. GOATMUM_TALK_START_BECKON.3
+msgctxt "GOATMUM_TALK_START_BECKON.3"
+msgid "Over here, dear!"
+msgstr "這裡，親愛的！"
+
+#. GOATMUM_TALK_START_BECKON.4
+msgctxt "GOATMUM_TALK_START_BECKON.4"
+msgid "Wait! You need cookware!"
+msgstr "等等！你需要炊具！"
+
+#. GOATMUM_TALK_START_BECKON.5
+msgctxt "GOATMUM_TALK_START_BECKON.5"
+msgid "My dear, come closer."
+msgstr "親愛的，靠近些。"
+
+#. GOATMUM_TALK_START_BECKON.6
+msgctxt "GOATMUM_TALK_START_BECKON.6"
+msgid "There's no time to waste!"
+msgstr "沒有時間可以浪費！"
+
+#. GOATMUM_TALK_START_BECKON.7
+msgctxt "GOATMUM_TALK_START_BECKON.7"
+msgid "Where are you going?"
+msgstr "你要去哪兒？"
+
+#. GOATMUM_TALK_START_CHOICE.1
+msgctxt "GOATMUM_TALK_START_CHOICE.1"
+msgid "You'll need one of my cookware kits."
+msgstr "你會需要我的炊具套裝裡的某件東西。"
+
+#. GOATMUM_TALK_START_CHOICE.2
+msgctxt "GOATMUM_TALK_START_CHOICE.2"
+msgid "Baa. Let's trade."
+msgstr "咩。我們來做交易吧。"
+
+#. GOATMUM_TALK_START_CHOICE.3
+msgctxt "GOATMUM_TALK_START_CHOICE.3"
+msgid "I have some spare cookware for trade."
+msgstr "我有一些備用的炊具可以賣。"
+
+#. GOATMUM_TALK_START_CHOICE.4
+msgctxt "GOATMUM_TALK_START_CHOICE.4"
+msgid "Would you like a pot, an oven or a grill?"
+msgstr "你想要一個鍋，烤箱或烤架嗎？"
+
+#. GOATMUM_TALK_START_CHOICE.5
+msgctxt "GOATMUM_TALK_START_CHOICE.5"
+msgid "Use those coins to trade with me, okay?"
+msgstr "用這些硬幣跟我交易，好嗎？"
+
+#. GOATMUM_TALK_START_CHOICE.6
+msgctxt "GOATMUM_TALK_START_CHOICE.6"
+msgid "Let's trade. I'll get you set up."
+msgstr "我們來做交易吧。我會幫你裝備炊具。"
+
+#. GOATMUM_TALK_START_CHOICE.7
+msgctxt "GOATMUM_TALK_START_CHOICE.7"
+msgid "I hope you're good in the kitchen, dear."
+msgstr "親愛的，我希望你在廚房很好。"
+
+#. GOATMUM_TALK_START_PURCHASE.1
+msgctxt "GOATMUM_TALK_START_PURCHASE.1"
+msgid "Wonderful choice, baa! Now, let's see..."
+msgstr "很棒的選擇，咩！現在，讓我們看看......"
+
+#. GOATMUM_TALK_TRADE.1
+msgctxt "GOATMUM_TALK_TRADE.1"
+msgid "Thank-you, dear."
+msgstr "謝、謝、你，親愛的。"
+
+#. GOATMUM_TALK_TRADE.2
+msgctxt "GOATMUM_TALK_TRADE.2"
+msgid "I hope it helps."
+msgstr "我希望它對你有幫助。"
+
+#. GOATMUM_TALK_TRADE.3
+msgctxt "GOATMUM_TALK_TRADE.3"
+msgid "You're welcome, baa."
+msgstr "不客氣，咩。"
+
+#. GOATMUM_TALK_TRADE.4
+msgctxt "GOATMUM_TALK_TRADE.4"
+msgid "Good luck, dear."
+msgstr "祝你好運，親愛的。"
+
+#. GOATMUM_TALK_TRADE.5
+msgctxt "GOATMUM_TALK_TRADE.5"
+msgid "Take care, baa."
+msgstr "請保重，咩。"
+
+#. GOATMUM_TALK_TRADE.6
+msgctxt "GOATMUM_TALK_TRADE.6"
+msgid "Thank-you."
+msgstr "謝謝。"
+
+#. GOATMUM_TALK_TRADE.7
+msgctxt "GOATMUM_TALK_TRADE.7"
+msgid "Anything you need, dear."
+msgstr "你需要什麼都可以，親愛的。"
+
+#. GOATMUM_VICTORY.1
+msgctxt "GOATMUM_VICTORY.1"
+msgid "Baa! The way is open!"
+msgstr "咩！路是敞開的！"
+
+#. GOATMUM_VICTORY.2
+msgctxt "GOATMUM_VICTORY.2"
+msgid "Quickly, make haste to your world."
+msgstr "快點，趕快行動吧。"
+
+#. GOATMUM_VICTORY.3
+msgctxt "GOATMUM_VICTORY.3"
+msgid "Billy and I'll follow soon behind."
+msgstr "比利和我很快就會跟上。"
+
+#. GOATMUM_VICTORY.4
+msgctxt "GOATMUM_VICTORY.4"
+msgid "May we all leave this plague behind us."
+msgstr "願我們都能告別這場瘟疫。"
+
+#. GOATMUM_VICTORY.5
+msgctxt "GOATMUM_VICTORY.5"
+msgid "Good luck, kind strangers!"
+msgstr "祝你好運，善良的陌生人！"
+
+#. GOATMUM_WELCOME_INTRO.1
+msgctxt "GOATMUM_WELCOME_INTRO.1"
+msgid "BAAA! Who are you?"
+msgstr "咩！你是誰？"
+
+#. GOATMUM_WELCOME_INTRO.2
+msgctxt "GOATMUM_WELCOME_INTRO.2"
+msgid "No, there's no time for pleasantries!"
+msgstr "不，沒時間寒暄了！"
+
+#. GOATMUM_WELCOME_INTRO.3
+msgctxt "GOATMUM_WELCOME_INTRO.3"
+msgid "You've got to get cooking, or you'll anger the beast!"
+msgstr "你得趕快烹飪，否則就會惹怒那頭怪獸！"
+
+#. GOATMUM_WELCOME_INTRO.4
+msgctxt "GOATMUM_WELCOME_INTRO.4"
+msgid "I'll help how I can."
+msgstr "我會盡力幫忙。"
+
+#. GOATMUM_WELCOME_INTRO.5
+msgctxt "GOATMUM_WELCOME_INTRO.5"
+msgid "Take these coins and see me when you're ready."
+msgstr "拿走這些硬幣，等你準備好了就來見我。"
+

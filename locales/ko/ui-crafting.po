@@ -1,0 +1,645 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.CRAFTING.BUILD
+msgctxt "UI.CRAFTING.BUILD"
+msgid "Build"
+msgstr "만들기"
+
+#. UI.CRAFTING.CANTRESEARCH
+msgctxt "UI.CRAFTING.CANTRESEARCH"
+msgid "Some things must be discovered on your own."
+msgstr "어떤 것들은 스스로 발견해야 합니다."
+
+#. UI.CRAFTING.CRAFT_INGREDIENT
+msgctxt "UI.CRAFTING.CRAFT_INGREDIENT"
+msgid "Craft Ingredient"
+msgstr "재료를 수작업으로 만드세요"
+
+#. UI.CRAFTING.DEFAULT
+msgctxt "UI.CRAFTING.DEFAULT"
+msgid "Classic"
+msgstr "클래식"
+
+#. UI.CRAFTING.GAMEPAUSED
+msgctxt "UI.CRAFTING.GAMEPAUSED"
+msgid "Unpause the game to craft this."
+msgstr "이것을 제작하려면 게임 일시 중지를 해제하세요."
+
+#. UI.CRAFTING.NEEDALCHEMYENGINE
+msgctxt "UI.CRAFTING.NEEDALCHEMYENGINE"
+msgid "Use an Alchemy Engine to build a prototype!"
+msgstr "연금 기계로 프로토타입을 만들 수 있다!"
+
+#. UI.CRAFTING.NEEDCARNIVAL_HOSTSHOP_PLAZA
+msgctxt "UI.CRAFTING.NEEDCARNIVAL_HOSTSHOP_PLAZA"
+msgid "Purchase the Cawnival Sapling to unlock!"
+msgstr "잠금 해제하려면 까아악제 묘목을 구매하세요!"
+
+#. UI.CRAFTING.NEEDPRESTIHATITATOR
+msgctxt "UI.CRAFTING.NEEDPRESTIHATITATOR"
+msgid "Use a Prestihatitator to build a prototype!"
+msgstr "요술 모자 장치로 프로토타입을 만들 수 있다!"
+
+#. UI.CRAFTING.NEEDSANCIENTALTAR_LOW
+msgctxt "UI.CRAFTING.NEEDSANCIENTALTAR_LOW"
+msgid "Find an ancient structure to craft this at."
+msgstr "이것을 제작할 장소로 고대 건축물을 찾으세요."
+
+#. UI.CRAFTING.NEEDSANCIENT_FOUR
+msgctxt "UI.CRAFTING.NEEDSANCIENT_FOUR"
+msgid "Find a fully intact ancient structure to craft this at."
+msgstr "완전히 손상되지 않은 고대 건축물을 찾아 가서 제작하세요."
+
+#. UI.CRAFTING.NEEDSBEEFSHRINE
+msgctxt "UI.CRAFTING.NEEDSBEEFSHRINE"
+msgid "Make an offering at the Beefalo Shrine!"
+msgstr "비팔로 신전에서 제물을 바치세요!"
+
+#. UI.CRAFTING.NEEDSCARNIVAL_HOSTSHOP_PLAZA
+msgctxt "UI.CRAFTING.NEEDSCARNIVAL_HOSTSHOP_PLAZA"
+msgid "Decorate a Cawnival Tree during the Cawnival!"
+msgstr "까아악제 기간에 까아악제 나무를 장식하세요!"
+
+#. UI.CRAFTING.NEEDSCARNIVAL_HOSTSHOP_WANDER
+msgctxt "UI.CRAFTING.NEEDSCARNIVAL_HOSTSHOP_WANDER"
+msgid "Find Corvus Goodfeather during the Cawnival!"
+msgstr "까아악제 기간에 까마귀 굿페더를 찾으세요!"
+
+#. UI.CRAFTING.NEEDSCARNIVAL_PRIZESHOP
+msgctxt "UI.CRAFTING.NEEDSCARNIVAL_PRIZESHOP"
+msgid "Purchase at the Cawnival's Prize Booth!"
+msgstr "까아악제의 경품 부스에서 구매하세요!"
+
+#. UI.CRAFTING.NEEDSCATCOONSHRINE
+msgctxt "UI.CRAFTING.NEEDSCATCOONSHRINE"
+msgid "Make an offering at the Catcoon Shrine!"
+msgstr "냥냥쿤 신전에서 제물을 바치세요!"
+
+#. UI.CRAFTING.NEEDSCHARACTER
+msgctxt "UI.CRAFTING.NEEDSCHARACTER"
+msgid "Another survivor knows how to craft this."
+msgstr "다른 생존자가 이것을 만드는 방법을 알고 있습니다."
+
+#. UI.CRAFTING.NEEDSCIENCEMACHINE
+msgctxt "UI.CRAFTING.NEEDSCIENCEMACHINE"
+msgid "Use a Science Machine to build a prototype!"
+msgstr "과학 기계로 프로토타입을 만들 수 있다!"
+
+#. UI.CRAFTING.NEEDSCREATURESCANNING
+msgctxt "UI.CRAFTING.NEEDSCREATURESCANNING"
+msgid "Scan living creatures to collect data!"
+msgstr "살아 있는 생물을 스캔해 데이터를 수집합니다!"
+
+#. UI.CRAFTING.NEEDSCRITTERLAB
+msgctxt "UI.CRAFTING.NEEDSCRITTERLAB"
+msgid "Find the Rock Den to adopt this!"
+msgstr "이것을 입양할 바위 둥지를 찾으세요!"
+
+#. UI.CRAFTING.NEEDSFISHING
+msgctxt "UI.CRAFTING.NEEDSFISHING"
+msgid "Use a Tackle Receptacle to build a prototype!"
+msgstr "낚시 도구 소켓을 사용해 프로토타입을 만드세요!"
+
+#. UI.CRAFTING.NEEDSFOODPROCESSING
+msgctxt "UI.CRAFTING.NEEDSFOODPROCESSING"
+msgid "Make a Portable Grinding Mill to get cooking!"
+msgstr "요리를 위해 휴대용 핸드밀을 만드세요!"
+
+#. UI.CRAFTING.NEEDSHADOWMANIPULATOR
+msgctxt "UI.CRAFTING.NEEDSHADOWMANIPULATOR"
+msgid "Use a Shadow Manipulator to build a prototype!"
+msgstr "그림자 제어장치로 프로토타입을 만들 수 있다!"
+
+#. UI.CRAFTING.NEEDSHALLOWED_NIGHTS
+msgctxt "UI.CRAFTING.NEEDSHALLOWED_NIGHTS"
+msgid "Available during Hallowed Nights!"
+msgstr "Hallowed Nights 기간에 사용 가능!"
+
+#. UI.CRAFTING.NEEDSHERMITCRABSHOP_L1
+msgctxt "UI.CRAFTING.NEEDSHERMITCRABSHOP_L1"
+msgid "Find someone friendly enough to make this trade!"
+msgstr "이 거래를 할만큼 친근한 사람을 찾으세요!"
+
+#. UI.CRAFTING.NEEDSHERMITCRABSHOP_L2
+msgctxt "UI.CRAFTING.NEEDSHERMITCRABSHOP_L2"
+msgid "Find someone friendly enough to make this trade!"
+msgstr "이 거래를 할만큼 친근한 사람을 찾으세요!"
+
+#. UI.CRAFTING.NEEDSHERMITCRABSHOP_L3
+msgctxt "UI.CRAFTING.NEEDSHERMITCRABSHOP_L3"
+msgid "Find someone friendly enough to make this trade!"
+msgstr "이 거래를 할만큼 친근한 사람을 찾으세요!"
+
+#. UI.CRAFTING.NEEDSHERMITCRABSHOP_L4
+msgctxt "UI.CRAFTING.NEEDSHERMITCRABSHOP_L4"
+msgid "Find someone friendly enough to make this trade!"
+msgstr "이 거래를 할만큼 친근한 사람을 찾으세요!"
+
+#. UI.CRAFTING.NEEDSMADSCIENCE
+msgctxt "UI.CRAFTING.NEEDSMADSCIENCE"
+msgid "Brew at the Mad Scientist Lab!"
+msgstr "미친 과학 기계로 술을 만드세요!"
+
+#. UI.CRAFTING.NEEDSPERDSHRINE
+msgctxt "UI.CRAFTING.NEEDSPERDSHRINE"
+msgid "Make an offering at the Gobbler Shrine!"
+msgstr "칠면조 신전에서 제물을 바치세요!"
+
+#. UI.CRAFTING.NEEDSPIGSHRINE
+msgctxt "UI.CRAFTING.NEEDSPIGSHRINE"
+msgid "Make an offering at the Pig Shrine!"
+msgstr "돼지 신전에서 제물을 바치세요!"
+
+#. UI.CRAFTING.NEEDSSEAFARING_STATION
+msgctxt "UI.CRAFTING.NEEDSSEAFARING_STATION"
+msgid "Use a Think Tank to build a prototype!"
+msgstr "연구소를 사용하여 프로토타입을 만드세요!"
+
+#. UI.CRAFTING.NEEDSSPIDERFRIENDSHIP
+msgctxt "UI.CRAFTING.NEEDSSPIDERFRIENDSHIP"
+msgid "Make friends with spiders to learn a recipe!"
+msgstr "거미와 친구가 되어 레시피를 배워보세요!"
+
+#. UI.CRAFTING.NEEDSTECH.SCULPTING
+msgctxt "UI.CRAFTING.NEEDSTECH.SCULPTING"
+msgid "Put refined stone on the wheel to create a sculpture!"
+msgstr "세련된 돌을 바퀴에 올려 조각품을 만드세요!"
+
+#. UI.CRAFTING.NEEDSTUFF
+msgctxt "UI.CRAFTING.NEEDSTUFF"
+msgid "Find ingredients \nto craft!"
+msgstr "제작 재료를\n구해야 한다!"
+
+#. UI.CRAFTING.NEEDSTUFF_PROTOTYPE
+msgctxt "UI.CRAFTING.NEEDSTUFF_PROTOTYPE"
+msgid "Find ingredients \nto prototype!"
+msgstr "프로토타입을 만들 \n재료를 찾으세요!"
+
+#. UI.CRAFTING.NEEDSTURFCRAFTING
+msgctxt "UI.CRAFTING.NEEDSTURFCRAFTING"
+msgid "Use a Terra Firma Tamper to build a prototype!"
+msgstr "대지 간섭기를 사용해 프로토타입을 만드세요!"
+
+#. UI.CRAFTING.NEEDSWARGSHRINE
+msgctxt "UI.CRAFTING.NEEDSWARGSHRINE"
+msgid "Make an offering at the Varg Shrine!"
+msgstr "바르그 신전에서 제물을 바치세요!"
+
+#. UI.CRAFTING.NEEDSWINTERSFEASTCOOKING
+msgctxt "UI.CRAFTING.NEEDSWINTERSFEASTCOOKING"
+msgid "Cook this festive meal in the Masonry Oven!"
+msgstr "벽돌 오븐으로 이 축제 음식을 요리하세요!"
+
+#. UI.CRAFTING.NEEDSWINTERS_FEAST
+msgctxt "UI.CRAFTING.NEEDSWINTERS_FEAST"
+msgid "Available during Winter's Feast!"
+msgstr "겨울 축제 기간 동안 이용 가능합니다!"
+
+#. UI.CRAFTING.NEEDSYOTB
+msgctxt "UI.CRAFTING.NEEDSYOTB"
+msgid "Available during Year of the Beefalo!"
+msgstr "비팔로의 해 동안 이용 가능합니다!"
+
+#. UI.CRAFTING.NEEDSYOTC
+msgctxt "UI.CRAFTING.NEEDSYOTC"
+msgid "Available during Year of the Carrat!"
+msgstr "당근이쥐의 해 동안 이용 가능합니다!"
+
+#. UI.CRAFTING.NEEDSYOTCATCOON
+msgctxt "UI.CRAFTING.NEEDSYOTCATCOON"
+msgid "Available during Year of the Catcoon!"
+msgstr "냥냥쿤의 해 동안 이용 가능합니다!"
+
+#. UI.CRAFTING.NEEDSYOTG
+msgctxt "UI.CRAFTING.NEEDSYOTG"
+msgid "Available during Year of the Gobbler!"
+msgstr "칠면조의 해 동안 이용 가능합니다!"
+
+#. UI.CRAFTING.NEEDSYOTP
+msgctxt "UI.CRAFTING.NEEDSYOTP"
+msgid "Available during Year of the Pig King!"
+msgstr "돼지 왕의 해에 이용 가능합니다!"
+
+#. UI.CRAFTING.NEEDSYOTV
+msgctxt "UI.CRAFTING.NEEDSYOTV"
+msgid "Available during Year of the Varg!"
+msgstr "바르그의 해 동안 이용 가능합니다!"
+
+#. UI.CRAFTING.PLACE
+msgctxt "UI.CRAFTING.PLACE"
+msgid "Place"
+msgstr "놓기"
+
+#. UI.CRAFTING.PROTOTYPE
+msgctxt "UI.CRAFTING.PROTOTYPE"
+msgid "Prototype"
+msgstr "프로토타입"
+
+#. UI.CRAFTING.PROTOTYPE_INGREDIENT
+msgctxt "UI.CRAFTING.PROTOTYPE_INGREDIENT"
+msgid "Prototype Ingredient"
+msgstr "재료를 프로토타이핑하세요"
+
+#. UI.CRAFTING.RECIPEACTION.CARNIVAL_HOSTSHOP
+msgctxt "UI.CRAFTING.RECIPEACTION.CARNIVAL_HOSTSHOP"
+msgid "Purchase"
+msgstr "구매하기"
+
+#. UI.CRAFTING.RECIPEACTION.CARNIVAL_PRIZESHOP
+msgctxt "UI.CRAFTING.RECIPEACTION.CARNIVAL_PRIZESHOP"
+msgid "Purchase"
+msgstr "구매하기"
+
+#. UI.CRAFTING.RECIPEACTION.CARTOGRAPHY
+msgctxt "UI.CRAFTING.RECIPEACTION.CARTOGRAPHY"
+msgid "Scribe"
+msgstr "적기"
+
+#. UI.CRAFTING.RECIPEACTION.COOK
+msgctxt "UI.CRAFTING.RECIPEACTION.COOK"
+msgid "Cook"
+msgstr "요리하기"
+
+#. UI.CRAFTING.RECIPEACTION.MADSCIENCE
+msgctxt "UI.CRAFTING.RECIPEACTION.MADSCIENCE"
+msgid "Mix"
+msgstr "섞기"
+
+#. UI.CRAFTING.RECIPEACTION.ORPHANAGE
+msgctxt "UI.CRAFTING.RECIPEACTION.ORPHANAGE"
+msgid "Adopt"
+msgstr "입양하기"
+
+#. UI.CRAFTING.RECIPEACTION.PERDOFFERING
+msgctxt "UI.CRAFTING.RECIPEACTION.PERDOFFERING"
+msgid "Offer"
+msgstr "바치기"
+
+#. UI.CRAFTING.RECIPEACTION.SCULPTING
+msgctxt "UI.CRAFTING.RECIPEACTION.SCULPTING"
+msgid "Create"
+msgstr "생성"
+
+#. UI.CRAFTING.RECIPEACTION.SOCKET
+msgctxt "UI.CRAFTING.RECIPEACTION.SOCKET"
+msgid "Socket"
+msgstr "소켓에 넣기"
+
+#. UI.CRAFTING.RESEARCH
+msgctxt "UI.CRAFTING.RESEARCH"
+msgid "Research"
+msgstr "연구하기"
+
+#. UI.CRAFTING.TABACTION.CARNIVAL_HOSTSHOP
+msgctxt "UI.CRAFTING.TABACTION.CARNIVAL_HOSTSHOP"
+msgid "Purchase"
+msgstr "구매하기"
+
+#. UI.CRAFTING.TABACTION.CARNIVAL_PRIZESHOP
+msgctxt "UI.CRAFTING.TABACTION.CARNIVAL_PRIZESHOP"
+msgid "Purchase"
+msgstr "구매하기"
+
+#. UI.CRAFTING.TABACTION.CARTOGRAPHY
+msgctxt "UI.CRAFTING.TABACTION.CARTOGRAPHY"
+msgid "Scribe"
+msgstr "적기"
+
+#. UI.CRAFTING.TABACTION.MADSCIENCE
+msgctxt "UI.CRAFTING.TABACTION.MADSCIENCE"
+msgid "Mix"
+msgstr "섞기"
+
+#. UI.CRAFTING.TABACTION.ORPHANAGE
+msgctxt "UI.CRAFTING.TABACTION.ORPHANAGE"
+msgid "Adopt"
+msgstr "입양하기"
+
+#. UI.CRAFTING.TABACTION.PERDOFFERING
+msgctxt "UI.CRAFTING.TABACTION.PERDOFFERING"
+msgid "Offer"
+msgstr "바치기"
+
+#. UI.CRAFTING.TABACTION.QUAGMIRE_MEALINGSTONE
+msgctxt "UI.CRAFTING.TABACTION.QUAGMIRE_MEALINGSTONE"
+msgid "Grind"
+msgstr "갈기"
+
+#. UI.CRAFTING.TABACTION.QUAGMIRE_TRADER_ELDER
+msgctxt "UI.CRAFTING.TABACTION.QUAGMIRE_TRADER_ELDER"
+msgid "Trade"
+msgstr "거래하기"
+
+#. UI.CRAFTING.TABACTION.QUAGMIRE_TRADER_KID
+msgctxt "UI.CRAFTING.TABACTION.QUAGMIRE_TRADER_KID"
+msgid "Purchase"
+msgstr "구매하기"
+
+#. UI.CRAFTING.TABACTION.QUAGMIRE_TRADER_MERM1
+msgctxt "UI.CRAFTING.TABACTION.QUAGMIRE_TRADER_MERM1"
+msgid "Purchase"
+msgstr "구매하기"
+
+#. UI.CRAFTING.TABACTION.QUAGMIRE_TRADER_MERM2
+msgctxt "UI.CRAFTING.TABACTION.QUAGMIRE_TRADER_MERM2"
+msgid "Purchase"
+msgstr "구매하기"
+
+#. UI.CRAFTING.TABACTION.QUAGMIRE_TRADER_MUM
+msgctxt "UI.CRAFTING.TABACTION.QUAGMIRE_TRADER_MUM"
+msgid "Purchase"
+msgstr "구매하기"
+
+#. UI.CRAFTING.TABACTION.SCULPTING
+msgctxt "UI.CRAFTING.TABACTION.SCULPTING"
+msgid "Create"
+msgstr "생성"
+
+#. UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_MEALINGSTONE
+msgctxt "UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_MEALINGSTONE"
+msgid "Find ingredients \nto grind!"
+msgstr "갈 재료를\n구해야 한다!"
+
+#. UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_ELDER
+msgctxt "UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_ELDER"
+msgid "Find materials \nto trade!"
+msgstr "거래할 재료를\n구해야 한다!"
+
+#. UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_KID
+msgctxt "UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_KID"
+msgid "Earn coins to trade!"
+msgstr "거래에 사용할 동전을 구해야 한다!"
+
+#. UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_MERM1
+msgctxt "UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_MERM1"
+msgid "Earn coins to trade!"
+msgstr "거래에 사용할 동전을 구해야 한다!"
+
+#. UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_MERM2
+msgctxt "UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_MERM2"
+msgid "Earn coins to trade!"
+msgstr "거래에 사용할 동전을 구해야 한다!"
+
+#. UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_MUM
+msgctxt "UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_MUM"
+msgid "Earn coins to trade!"
+msgstr "거래에 사용할 동전을 구해야 한다!"
+
+#. UI.CRAFTING_FILTERS.ARMOUR
+msgctxt "UI.CRAFTING_FILTERS.ARMOUR"
+msgid "Armour"
+msgstr "갑옷"
+
+#. UI.CRAFTING_FILTERS.CHARACTER
+msgctxt "UI.CRAFTING_FILTERS.CHARACTER"
+msgid "Survivor Items"
+msgstr "생존자 아이템"
+
+#. UI.CRAFTING_FILTERS.CLOTHING
+msgctxt "UI.CRAFTING_FILTERS.CLOTHING"
+msgid "Clothing"
+msgstr "의류"
+
+#. UI.CRAFTING_FILTERS.CONTAINERS
+msgctxt "UI.CRAFTING_FILTERS.CONTAINERS"
+msgid "Storage Solutions"
+msgstr "스토리지 솔루션"
+
+#. UI.CRAFTING_FILTERS.COOKING
+msgctxt "UI.CRAFTING_FILTERS.COOKING"
+msgid "Cooking"
+msgstr "요리"
+
+#. UI.CRAFTING_FILTERS.CRAFTING_STATION
+msgctxt "UI.CRAFTING_FILTERS.CRAFTING_STATION"
+msgid "All Crafting Stations"
+msgstr "모든 제작 스테이션"
+
+#. UI.CRAFTING_FILTERS.DECOR
+msgctxt "UI.CRAFTING_FILTERS.DECOR"
+msgid "Decorations"
+msgstr "장식물"
+
+#. UI.CRAFTING_FILTERS.EVERYTHING
+msgctxt "UI.CRAFTING_FILTERS.EVERYTHING"
+msgid "Everything"
+msgstr "전부"
+
+#. UI.CRAFTING_FILTERS.FAVORITES
+msgctxt "UI.CRAFTING_FILTERS.FAVORITES"
+msgid "Favorites"
+msgstr "즐겨찾기"
+
+#. UI.CRAFTING_FILTERS.FISHING
+msgctxt "UI.CRAFTING_FILTERS.FISHING"
+msgid "Fishing"
+msgstr "낚시"
+
+#. UI.CRAFTING_FILTERS.GARDENING
+msgctxt "UI.CRAFTING_FILTERS.GARDENING"
+msgid "Food & Gardening"
+msgstr "식품 및 원예"
+
+#. UI.CRAFTING_FILTERS.LIGHT
+msgctxt "UI.CRAFTING_FILTERS.LIGHT"
+msgid "Light Sources"
+msgstr "광원"
+
+#. UI.CRAFTING_FILTERS.MAGIC
+msgctxt "UI.CRAFTING_FILTERS.MAGIC"
+msgid "Shadow Magic"
+msgstr "그림자 마법"
+
+#. UI.CRAFTING_FILTERS.MODS
+msgctxt "UI.CRAFTING_FILTERS.MODS"
+msgid "Modded Items"
+msgstr "모드가 적용된 아이템"
+
+#. UI.CRAFTING_FILTERS.PROTOTYPERS
+msgctxt "UI.CRAFTING_FILTERS.PROTOTYPERS"
+msgid "Prototypers & Stations"
+msgstr "프로토타입 및 스테이션"
+
+#. UI.CRAFTING_FILTERS.RAIN
+msgctxt "UI.CRAFTING_FILTERS.RAIN"
+msgid "Rain Gear"
+msgstr "방우 장비"
+
+#. UI.CRAFTING_FILTERS.REFINE
+msgctxt "UI.CRAFTING_FILTERS.REFINE"
+msgid "Refined Materials"
+msgstr "정제된 재료"
+
+#. UI.CRAFTING_FILTERS.RESTORATION
+msgctxt "UI.CRAFTING_FILTERS.RESTORATION"
+msgid "Healing"
+msgstr "치료 중이야"
+
+#. UI.CRAFTING_FILTERS.RIDING
+msgctxt "UI.CRAFTING_FILTERS.RIDING"
+msgid "Beefalo Riding"
+msgstr "비팔로 타기"
+
+#. UI.CRAFTING_FILTERS.SEAFARING
+msgctxt "UI.CRAFTING_FILTERS.SEAFARING"
+msgid "Seafaring"
+msgstr "항해"
+
+#. UI.CRAFTING_FILTERS.SPECIAL_EVENT
+msgctxt "UI.CRAFTING_FILTERS.SPECIAL_EVENT"
+msgid "Special Event"
+msgstr "특별 이벤트"
+
+#. UI.CRAFTING_FILTERS.STRUCTURES
+msgctxt "UI.CRAFTING_FILTERS.STRUCTURES"
+msgid "Structures"
+msgstr "구조물"
+
+#. UI.CRAFTING_FILTERS.SUMMER
+msgctxt "UI.CRAFTING_FILTERS.SUMMER"
+msgid "Summer Items"
+msgstr "여름 아이템"
+
+#. UI.CRAFTING_FILTERS.TOOLS
+msgctxt "UI.CRAFTING_FILTERS.TOOLS"
+msgid "Tools"
+msgstr "도구"
+
+#. UI.CRAFTING_FILTERS.WEAPONS
+msgctxt "UI.CRAFTING_FILTERS.WEAPONS"
+msgid "Weapons"
+msgstr "무기"
+
+#. UI.CRAFTING_FILTERS.WINTER
+msgctxt "UI.CRAFTING_FILTERS.WINTER"
+msgid "Winter Items"
+msgstr "겨울 아이템"
+
+#. UI.CRAFTING_MENU.FAVORITE_ADD
+msgctxt "UI.CRAFTING_MENU.FAVORITE_ADD"
+msgid "Add Favorite"
+msgstr "즐겨찾기 추가"
+
+#. UI.CRAFTING_MENU.FAVORITE_REMOVE
+msgctxt "UI.CRAFTING_MENU.FAVORITE_REMOVE"
+msgid "Remove Favorite"
+msgstr "즐겨찾기 제거"
+
+#. UI.CRAFTING_MENU.NAVIGATION
+msgctxt "UI.CRAFTING_MENU.NAVIGATION"
+msgid "Navigation"
+msgstr "탐색"
+
+#. UI.CRAFTING_MENU.NO_ITEMS
+msgctxt "UI.CRAFTING_MENU.NO_ITEMS"
+msgid "No items match the current filter."
+msgstr "현재 필터와 일치하는 항목 없음."
+
+#. UI.CRAFTING_MENU.PIN
+msgctxt "UI.CRAFTING_MENU.PIN"
+msgid "Pin"
+msgstr "고정"
+
+#. UI.CRAFTING_MENU.SEARCH
+msgctxt "UI.CRAFTING_MENU.SEARCH"
+msgid "Search"
+msgstr "검색"
+
+#. UI.CRAFTING_MENU.SORTING.CRAFTABLE
+msgctxt "UI.CRAFTING_MENU.SORTING.CRAFTABLE"
+msgid "Craftable"
+msgstr "제작 가능"
+
+#. UI.CRAFTING_MENU.SORTING.DEFAULT
+msgctxt "UI.CRAFTING_MENU.SORTING.DEFAULT"
+msgid "Default"
+msgstr "기본값"
+
+#. UI.CRAFTING_MENU.SORTING.FAVORITE
+msgctxt "UI.CRAFTING_MENU.SORTING.FAVORITE"
+msgid "Favorite"
+msgstr "즐겨찾기"
+
+#. UI.CRAFTING_MENU.SORTING.NAME
+msgctxt "UI.CRAFTING_MENU.SORTING.NAME"
+msgid "Alphabetical"
+msgstr "알파벳 순서"
+
+#. UI.CRAFTING_MENU.SORT_MODE_FMT
+msgctxt "UI.CRAFTING_MENU.SORT_MODE_FMT"
+msgid "Sort Mode: {mode}"
+msgstr "정렬 모드: {mode}"
+
+#. UI.CRAFTING_MENU.UNPIN
+msgctxt "UI.CRAFTING_MENU.UNPIN"
+msgid "Unpin"
+msgstr "고정 해제"
+
+#. UI.CRAFTING_STATION_FILTERS.ANCIENT
+msgctxt "UI.CRAFTING_STATION_FILTERS.ANCIENT"
+msgid "Ancient Pseudoscience"
+msgstr "고대 유사과학"
+
+#. UI.CRAFTING_STATION_FILTERS.CARNIVAL_HOSTSHOP
+msgctxt "UI.CRAFTING_STATION_FILTERS.CARNIVAL_HOSTSHOP"
+msgid "Cawnival Creation"
+msgstr "까아악제 제작"
+
+#. UI.CRAFTING_STATION_FILTERS.CARNIVAL_PRIZESHOP
+msgctxt "UI.CRAFTING_STATION_FILTERS.CARNIVAL_PRIZESHOP"
+msgid "Trinket Trove"
+msgstr "장신구"
+
+#. UI.CRAFTING_STATION_FILTERS.CARTOGRAPHY
+msgctxt "UI.CRAFTING_STATION_FILTERS.CARTOGRAPHY"
+msgid "Cartography"
+msgstr "지도 제작"
+
+#. UI.CRAFTING_STATION_FILTERS.CELESTIAL
+msgctxt "UI.CRAFTING_STATION_FILTERS.CELESTIAL"
+msgid "Celestial"
+msgstr "천체"
+
+#. UI.CRAFTING_STATION_FILTERS.FOODPROCESSING
+msgctxt "UI.CRAFTING_STATION_FILTERS.FOODPROCESSING"
+msgid "Seasonings"
+msgstr "양념"
+
+#. UI.CRAFTING_STATION_FILTERS.HERMITCRABSHOP
+msgctxt "UI.CRAFTING_STATION_FILTERS.HERMITCRABSHOP"
+msgid "Bottle Exchange"
+msgstr "유리병 교환"
+
+#. UI.CRAFTING_STATION_FILTERS.MADSCIENCE
+msgctxt "UI.CRAFTING_STATION_FILTERS.MADSCIENCE"
+msgid "Mad Science"
+msgstr "미친 과학"
+
+#. UI.CRAFTING_STATION_FILTERS.ORPHANAGE
+msgctxt "UI.CRAFTING_STATION_FILTERS.ORPHANAGE"
+msgid "Critters"
+msgstr "작은 생물체"
+
+#. UI.CRAFTING_STATION_FILTERS.SCULPTING
+msgctxt "UI.CRAFTING_STATION_FILTERS.SCULPTING"
+msgid "Sculptures"
+msgstr "조각"
+
+#. UI.CRAFTING_STATION_FILTERS.SHADOW
+msgctxt "UI.CRAFTING_STATION_FILTERS.SHADOW"
+msgid "Codex Umbra"
+msgstr "본영의 고대서"
+
+#. UI.CRAFTING_STATION_FILTERS.WINTERSFEASTCOOKING
+msgctxt "UI.CRAFTING_STATION_FILTERS.WINTERSFEASTCOOKING"
+msgid "Winter's Feast Cooking"
+msgstr "겨울 축제 요리"
+
+#. UI.CRAFTING_STATION_FILTERS.YOT_SHRINE_DOFFERING
+msgctxt "UI.CRAFTING_STATION_FILTERS.YOT_SHRINE_DOFFERING"
+msgid "Offerings"
+msgstr "제물"
+

@@ -1,0 +1,395 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. PIG_TALK_ATTEMPT_TRADE.1
+msgctxt "PIG_TALK_ATTEMPT_TRADE.1"
+msgid "WHAT YOU GOT?"
+msgstr "CO TY MA?"
+
+#. PIG_TALK_ATTEMPT_TRADE.2
+msgctxt "PIG_TALK_ATTEMPT_TRADE.2"
+msgid "BETTER BE GOOD."
+msgstr "NIECH BĘDZIE DOBRE!"
+
+#. PIG_TALK_CONTEST_OOOH.1
+msgctxt "PIG_TALK_CONTEST_OOOH.1"
+msgid "OOOH"
+msgstr "OCH"
+
+#. PIG_TALK_CONTEST_OOOH.2
+msgctxt "PIG_TALK_CONTEST_OOOH.2"
+msgid "WOW"
+msgstr "JENY"
+
+#. PIG_TALK_CONTEST_OOOH.3
+msgctxt "PIG_TALK_CONTEST_OOOH.3"
+msgid "IS BEAUTY"
+msgstr "ŁADNIUTKIE"
+
+#. PIG_TALK_CONTEST_PANIC.1
+msgctxt "PIG_TALK_CONTEST_PANIC.1"
+msgid "MUST CHOOSE!"
+msgstr "MUSI WYBRAĆ!"
+
+#. PIG_TALK_CONTEST_PANIC.2
+msgctxt "PIG_TALK_CONTEST_PANIC.2"
+msgid "CHOICE HARD!"
+msgstr "WYBÓR TRUDNY!"
+
+#. PIG_TALK_EAT_MEAT.1
+msgctxt "PIG_TALK_EAT_MEAT.1"
+msgid "NOM NOM NOM"
+msgstr "NOM, NOM, NOM!"
+
+#. PIG_TALK_EAT_MEAT.2
+msgctxt "PIG_TALK_EAT_MEAT.2"
+msgid "YUM!"
+msgstr "MNIAM!"
+
+#. PIG_TALK_FIGHT.1
+msgctxt "PIG_TALK_FIGHT.1"
+msgid "I KILL NOW!"
+msgstr "JA ZABIĆ!"
+
+#. PIG_TALK_FIGHT.2
+msgctxt "PIG_TALK_FIGHT.2"
+msgid "YOU GO SMASH!"
+msgstr "IDZIE ROZWALIĆ!"
+
+#. PIG_TALK_FIGHT.3
+msgctxt "PIG_TALK_FIGHT.3"
+msgid "RAAAWR!"
+msgstr "WRRRAAA!"
+
+#. PIG_TALK_FIND_LIGHT.1
+msgctxt "PIG_TALK_FIND_LIGHT.1"
+msgid "SCARY"
+msgstr "BOI."
+
+#. PIG_TALK_FIND_LIGHT.2
+msgctxt "PIG_TALK_FIND_LIGHT.2"
+msgid "NO LIKE DARK"
+msgstr "NIE LUBI CIEMNOŚĆ."
+
+#. PIG_TALK_FIND_LIGHT.3
+msgctxt "PIG_TALK_FIND_LIGHT.3"
+msgid "WHERE IS SUN?"
+msgstr "SŁOŃCE GDZIE?"
+
+#. PIG_TALK_FIND_LIGHT.4
+msgctxt "PIG_TALK_FIND_LIGHT.4"
+msgid "STAY NEAR FIRE"
+msgstr "TRZYMAĆ BLISKO OGIEŃ."
+
+#. PIG_TALK_FIND_LIGHT.5
+msgctxt "PIG_TALK_FIND_LIGHT.5"
+msgid "FIRE IS GOOD"
+msgstr "OGIEŃ DOBRY."
+
+#. PIG_TALK_FIND_MEAT.1
+msgctxt "PIG_TALK_FIND_MEAT.1"
+msgid "ME HUNGRY!"
+msgstr "GŁODNY!"
+
+#. PIG_TALK_FIND_MEAT.2
+msgctxt "PIG_TALK_FIND_MEAT.2"
+msgid "YUM!"
+msgstr "MNIAM!"
+
+#. PIG_TALK_FIND_MEAT.3
+msgctxt "PIG_TALK_FIND_MEAT.3"
+msgid "I EAT FOOD!"
+msgstr "JEŚĆ PAPU!"
+
+#. PIG_TALK_FIND_MEAT.4
+msgctxt "PIG_TALK_FIND_MEAT.4"
+msgid "TIME FOR FOOD!"
+msgstr "CZAS JEŚĆ!"
+
+#. PIG_TALK_FOLLOWWILSON.1
+msgctxt "PIG_TALK_FOLLOWWILSON.1"
+msgid "YOU FRIEND"
+msgstr "TY PRZYJACIEL!"
+
+#. PIG_TALK_FOLLOWWILSON.2
+msgctxt "PIG_TALK_FOLLOWWILSON.2"
+msgid "I LOVE FRIEND"
+msgstr "LUBI PRZYJACIEL!"
+
+#. PIG_TALK_FOLLOWWILSON.3
+msgctxt "PIG_TALK_FOLLOWWILSON.3"
+msgid "YOU IS GOOD"
+msgstr "TY DOBRY!"
+
+#. PIG_TALK_FOLLOWWILSON.4
+msgctxt "PIG_TALK_FOLLOWWILSON.4"
+msgid "I FOLLOW!"
+msgstr "JA IŚĆ Z TY!"
+
+#. PIG_TALK_GAME_CHEER.1
+msgctxt "PIG_TALK_GAME_CHEER.1"
+msgid "SMASH! SMASH!"
+msgstr "ŁUP! CIUP!"
+
+#. PIG_TALK_GAME_CHEER.2
+msgctxt "PIG_TALK_GAME_CHEER.2"
+msgid "BASH!"
+msgstr "DO DZIEŁA!"
+
+#. PIG_TALK_GAME_CHEER.3
+msgctxt "PIG_TALK_GAME_CHEER.3"
+msgid "GO PIGS!"
+msgstr "DALEJ, ŚWINIE!"
+
+#. PIG_TALK_GAME_CHEER.4
+msgctxt "PIG_TALK_GAME_CHEER.4"
+msgid "RAAAWR!"
+msgstr "WRRRAAA!"
+
+#. PIG_TALK_GAME_CHEER.5
+msgctxt "PIG_TALK_GAME_CHEER.5"
+msgid "YOU STINK!"
+msgstr "ŚMIERDZISZ!"
+
+#. PIG_TALK_GAME_CHEER.6
+msgctxt "PIG_TALK_GAME_CHEER.6"
+msgid "GET GOLD!"
+msgstr "ŁAPAĆ ZŁOTO!"
+
+#. PIG_TALK_GAME_CHEER.7
+msgctxt "PIG_TALK_GAME_CHEER.7"
+msgid "BASH 'EM IN HEAD!"
+msgstr "TŁUC ICH PO GŁOWACH!"
+
+#. PIG_TALK_GAME_GOTO.1
+msgctxt "PIG_TALK_GAME_GOTO.1"
+msgid "IT STARTING!"
+msgstr "ZACZYNA SIĘ!"
+
+#. PIG_TALK_GAME_GOTO.2
+msgctxt "PIG_TALK_GAME_GOTO.2"
+msgid "THIS MY FAVORITE!"
+msgstr "LUBIĘ!"
+
+#. PIG_TALK_GAME_GOTO.3
+msgctxt "PIG_TALK_GAME_GOTO.3"
+msgid "YAY!"
+msgstr "HURRA!"
+
+#. PIG_TALK_GIVE_GIFT.1
+msgctxt "PIG_TALK_GIVE_GIFT.1"
+msgid "YOU HAVE THIS"
+msgstr "TO DLA CIEBIE"
+
+#. PIG_TALK_GIVE_GIFT.2
+msgctxt "PIG_TALK_GIVE_GIFT.2"
+msgid "FOR FRIEND"
+msgstr "DLA PRZYJACIELA"
+
+#. PIG_TALK_GO_HOME.1
+msgctxt "PIG_TALK_GO_HOME.1"
+msgid "HOME TIME!"
+msgstr "CZAS DO DOMU!"
+
+#. PIG_TALK_GO_HOME.2
+msgctxt "PIG_TALK_GO_HOME.2"
+msgid "HOME! HOME!"
+msgstr "DOM! DOM!"
+
+#. PIG_TALK_HELP_CHOP_WOOD.1
+msgctxt "PIG_TALK_HELP_CHOP_WOOD.1"
+msgid "KILL TREE!"
+msgstr "ZABIĆ DRZEWO!"
+
+#. PIG_TALK_HELP_CHOP_WOOD.2
+msgctxt "PIG_TALK_HELP_CHOP_WOOD.2"
+msgid "SMASH MEAN TREE!"
+msgstr "ZABIĆ PARSZYWE DRZEWO!"
+
+#. PIG_TALK_HELP_CHOP_WOOD.3
+msgctxt "PIG_TALK_HELP_CHOP_WOOD.3"
+msgid "I PUNCH TREE!"
+msgstr "TŁUC DRZEWO!"
+
+#. PIG_TALK_LOOKATWILSON.1
+msgctxt "PIG_TALK_LOOKATWILSON.1"
+msgid "WHO ARE YOU?"
+msgstr "KTO TY?"
+
+#. PIG_TALK_LOOKATWILSON.2
+msgctxt "PIG_TALK_LOOKATWILSON.2"
+msgid "YOU NOT PIG"
+msgstr "TY NIE ŚWINIAK."
+
+#. PIG_TALK_LOOKATWILSON.3
+msgctxt "PIG_TALK_LOOKATWILSON.3"
+msgid "YOU HAS MEAT?"
+msgstr "MA MIĘSO?"
+
+#. PIG_TALK_MISC_GAME_CHEER.1
+msgctxt "PIG_TALK_MISC_GAME_CHEER.1"
+msgid "GO! GO! GO!"
+msgstr "DAWAJ, DAWAJ!"
+
+#. PIG_TALK_MISC_GAME_CHEER.2
+msgctxt "PIG_TALK_MISC_GAME_CHEER.2"
+msgid "SNORT!"
+msgstr "PRYCH!"
+
+#. PIG_TALK_MISC_GAME_GOTO.1
+msgctxt "PIG_TALK_MISC_GAME_GOTO.1"
+msgid "IT STARTING!"
+msgstr "ZACZYNA SIĘ!"
+
+#. PIG_TALK_MISC_GAME_GOTO.2
+msgctxt "PIG_TALK_MISC_GAME_GOTO.2"
+msgid "OUT OF MY WAY!"
+msgstr "Z DROGI!"
+
+#. PIG_TALK_MISC_GAME_GOTO.3
+msgctxt "PIG_TALK_MISC_GAME_GOTO.3"
+msgid "YAY!"
+msgstr "HURRA!"
+
+#. PIG_TALK_PANIC.1
+msgctxt "PIG_TALK_PANIC.1"
+msgid "NOOOOO!"
+msgstr "NIEEEEE!"
+
+#. PIG_TALK_PANIC.2
+msgctxt "PIG_TALK_PANIC.2"
+msgid "TOO DARK! TOO DARK!"
+msgstr "ZA CIEMNO! ZA CIEMNO!"
+
+#. PIG_TALK_PANIC.3
+msgctxt "PIG_TALK_PANIC.3"
+msgid "AAAAAAAAAH!!"
+msgstr "AAAAAAAAAA!"
+
+#. PIG_TALK_PANICBOSS.1
+msgctxt "PIG_TALK_PANICBOSS.1"
+msgid "AHHHH"
+msgstr "AAAACH!"
+
+#. PIG_TALK_PANICBOSS.2
+msgctxt "PIG_TALK_PANICBOSS.2"
+msgid "UH OH!"
+msgstr "UPS!"
+
+#. PIG_TALK_PANICBOSS.3
+msgctxt "PIG_TALK_PANICBOSS.3"
+msgid "ME SCARED"
+msgstr "BOI SIĘ"
+
+#. PIG_TALK_PANICBOSS.4
+msgctxt "PIG_TALK_PANICBOSS.4"
+msgid "BAD!"
+msgstr "ZŁY!"
+
+#. PIG_TALK_PANICBOSS.5
+msgctxt "PIG_TALK_PANICBOSS.5"
+msgid "OHHH!"
+msgstr "OCHH!"
+
+#. PIG_TALK_PANICFIRE.1
+msgctxt "PIG_TALK_PANICFIRE.1"
+msgid "HOT HOT HOT!"
+msgstr "PARZY! PARZY!"
+
+#. PIG_TALK_PANICFIRE.2
+msgctxt "PIG_TALK_PANICFIRE.2"
+msgid "OWWWWW!"
+msgstr "AUUUUU!"
+
+#. PIG_TALK_PANICFIRE.3
+msgctxt "PIG_TALK_PANICFIRE.3"
+msgid "IT BURNS!"
+msgstr "PALI!"
+
+#. PIG_TALK_PANICHAUNT.1
+msgctxt "PIG_TALK_PANICHAUNT.1"
+msgid "SPOOKY!"
+msgstr "STRASZNE!"
+
+#. PIG_TALK_PANICHAUNT.2
+msgctxt "PIG_TALK_PANICHAUNT.2"
+msgid "AAAAH!!"
+msgstr "AAACH!"
+
+#. PIG_TALK_PANICHAUNT.3
+msgctxt "PIG_TALK_PANICHAUNT.3"
+msgid "A GHOST! A GHOST!"
+msgstr "DUCH! DUCH!"
+
+#. PIG_TALK_PANICHOUSEFIRE.1
+msgctxt "PIG_TALK_PANICHOUSEFIRE.1"
+msgid "HOUSE BURNS!"
+msgstr "POŻAR!"
+
+#. PIG_TALK_PANICHOUSEFIRE.2
+msgctxt "PIG_TALK_PANICHOUSEFIRE.2"
+msgid "MY STUFF!"
+msgstr "MOJE BAMBETLE!"
+
+#. PIG_TALK_PANICHOUSEFIRE.3
+msgctxt "PIG_TALK_PANICHOUSEFIRE.3"
+msgid "AAAH! FIRE!"
+msgstr "AAACH! OGIEŃ!"
+
+#. PIG_TALK_PANICHOUSEFIRE.4
+msgctxt "PIG_TALK_PANICHOUSEFIRE.4"
+msgid "PANIC!"
+msgstr "PANIKA!"
+
+#. PIG_TALK_RESCUE.1
+msgctxt "PIG_TALK_RESCUE.1"
+msgid "I HELP YOU!"
+msgstr "POMOGĘ JA CI!"
+
+#. PIG_TALK_RESCUE.2
+msgctxt "PIG_TALK_RESCUE.2"
+msgid "OOH! OOH!"
+msgstr "OOCH! OOCH!"
+
+#. PIG_TALK_RESCUE.3
+msgctxt "PIG_TALK_RESCUE.3"
+msgid "ME HELP!"
+msgstr "JA POMOGĘ!"
+
+#. PIG_TALK_RUNAWAY_WILSON.1
+msgctxt "PIG_TALK_RUNAWAY_WILSON.1"
+msgid "TOO CLOSE!"
+msgstr "ZA BLISKO!"
+
+#. PIG_TALK_RUNAWAY_WILSON.2
+msgctxt "PIG_TALK_RUNAWAY_WILSON.2"
+msgid "STAY AWAY!"
+msgstr "NIE ZBLIŻAĆ!"
+
+#. PIG_TALK_RUNAWAY_WILSON.3
+msgctxt "PIG_TALK_RUNAWAY_WILSON.3"
+msgid "YOU BACK OFF!"
+msgstr "ODEJŚĆ!"
+
+#. PIG_TALK_RUNAWAY_WILSON.4
+msgctxt "PIG_TALK_RUNAWAY_WILSON.4"
+msgid "THAT MY SPACE."
+msgstr "MOJE MIEJSCE!"
+
+#. PIG_TALK_RUN_FROM_SPIDER.1
+msgctxt "PIG_TALK_RUN_FROM_SPIDER.1"
+msgid "SPIDER BAD!"
+msgstr "PAJĄK ZŁY!"
+
+#. PIG_TALK_RUN_FROM_SPIDER.2
+msgctxt "PIG_TALK_RUN_FROM_SPIDER.2"
+msgid "NO LIKE SPIDER!"
+msgstr "NIE LUBI PAJĄK!"
+
+#. PIG_TALK_RUN_FROM_SPIDER.3
+msgctxt "PIG_TALK_RUN_FROM_SPIDER.3"
+msgid "SCARY SPIDER!"
+msgstr "STRASZNY PAJĄK!"
+

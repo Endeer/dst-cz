@@ -1,0 +1,330 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.WORLDGEN.CAVETITLE
+msgctxt "UI.WORLDGEN.CAVETITLE"
+msgid "CARVING OUT CAVE"
+msgstr "CREUSAGE DE GROTTE"
+
+#. UI.WORLDGEN.NOUNS.1
+msgctxt "UI.WORLDGEN.NOUNS.1"
+msgid "trees..."
+msgstr "des arbres..."
+
+#. UI.WORLDGEN.NOUNS.10
+msgctxt "UI.WORLDGEN.NOUNS.10"
+msgid "Abigail's ectoplasm..."
+msgstr "Ectoplasme d'Abigail..."
+
+#. UI.WORLDGEN.NOUNS.11
+msgctxt "UI.WORLDGEN.NOUNS.11"
+msgid "Webber's fur..."
+msgstr "des poils de Webber..."
+
+#. UI.WORLDGEN.NOUNS.12
+msgctxt "UI.WORLDGEN.NOUNS.12"
+msgid "Wolfgang's moustache..."
+msgstr "de la moustache de Wolfgang..."
+
+#. UI.WORLDGEN.NOUNS.13
+msgctxt "UI.WORLDGEN.NOUNS.13"
+msgid "Wickerbottom's glasses..."
+msgstr "des lunettes de Wickerbottom..."
+
+#. UI.WORLDGEN.NOUNS.14
+msgctxt "UI.WORLDGEN.NOUNS.14"
+msgid "Wigfrid's umlauts..."
+msgstr "des umlauts de Wigfrid..."
+
+#. UI.WORLDGEN.NOUNS.15
+msgctxt "UI.WORLDGEN.NOUNS.15"
+msgid "Willow's teddy bear..."
+msgstr "du nounours de Willow..."
+
+#. UI.WORLDGEN.NOUNS.16
+msgctxt "UI.WORLDGEN.NOUNS.16"
+msgid "Woodie's plaid..."
+msgstr "de la chemise à carreaux de Woodie..."
+
+#. UI.WORLDGEN.NOUNS.17
+msgctxt "UI.WORLDGEN.NOUNS.17"
+msgid "WX-78's gears..."
+msgstr "des engrenages de WX-78..."
+
+#. UI.WORLDGEN.NOUNS.18
+msgctxt "UI.WORLDGEN.NOUNS.18"
+msgid "Winona's tools..."
+msgstr "Outils de Winona..."
+
+#. UI.WORLDGEN.NOUNS.19
+msgctxt "UI.WORLDGEN.NOUNS.19"
+msgid "Wortox's hooves..."
+msgstr "Sabots de Wortox..."
+
+#. UI.WORLDGEN.NOUNS.2
+msgctxt "UI.WORLDGEN.NOUNS.2"
+msgid "pathos..."
+msgstr "du pathos..."
+
+#. UI.WORLDGEN.NOUNS.20
+msgctxt "UI.WORLDGEN.NOUNS.20"
+msgid "Wormwood's leaves..."
+msgstr "Feuilles de Wormwood..."
+
+#. UI.WORLDGEN.NOUNS.21
+msgctxt "UI.WORLDGEN.NOUNS.21"
+msgid "Warly's spices..."
+msgstr "Épices de Warly..."
+
+#. UI.WORLDGEN.NOUNS.22
+msgctxt "UI.WORLDGEN.NOUNS.22"
+msgid "a monarch's sorrow..."
+msgstr "du chagrin d'un monarque..."
+
+#. UI.WORLDGEN.NOUNS.23
+msgctxt "UI.WORLDGEN.NOUNS.23"
+msgid "an inescapable nostalgia..."
+msgstr "d'une inéluctable nostalgie..."
+
+#. UI.WORLDGEN.NOUNS.24
+msgctxt "UI.WORLDGEN.NOUNS.24"
+msgid "gold and marble..."
+msgstr "de l'or et du marbre..."
+
+#. UI.WORLDGEN.NOUNS.25
+msgctxt "UI.WORLDGEN.NOUNS.25"
+msgid "thorns..."
+msgstr "des épines..."
+
+#. UI.WORLDGEN.NOUNS.26
+msgctxt "UI.WORLDGEN.NOUNS.26"
+msgid "unbreakable bonds..."
+msgstr "de liens incassables..."
+
+#. UI.WORLDGEN.NOUNS.27
+msgctxt "UI.WORLDGEN.NOUNS.27"
+msgid "intense friendship..."
+msgstr "d'une amitié intense..."
+
+#. UI.WORLDGEN.NOUNS.28
+msgctxt "UI.WORLDGEN.NOUNS.28"
+msgid "common goals..."
+msgstr "des objectifs communs..."
+
+#. UI.WORLDGEN.NOUNS.29
+msgctxt "UI.WORLDGEN.NOUNS.29"
+msgid "a comforting togetherness..."
+msgstr "d'une camaraderie réconfortante..."
+
+#. UI.WORLDGEN.NOUNS.3
+msgctxt "UI.WORLDGEN.NOUNS.3"
+msgid "pines..."
+msgstr "des pins..."
+
+#. UI.WORLDGEN.NOUNS.30
+msgctxt "UI.WORLDGEN.NOUNS.30"
+msgid "buckets and buckets of loot..."
+msgstr "Des seaux et des seaux de butin..."
+
+#. UI.WORLDGEN.NOUNS.31
+msgctxt "UI.WORLDGEN.NOUNS.31"
+msgid "game theory..."
+msgstr "La théorie des jeux..."
+
+#. UI.WORLDGEN.NOUNS.32
+msgctxt "UI.WORLDGEN.NOUNS.32"
+msgid "poignant tragedy..."
+msgstr "d'une tragédie émouvante..."
+
+#. UI.WORLDGEN.NOUNS.33
+msgctxt "UI.WORLDGEN.NOUNS.33"
+msgid "a hint of shadow..."
+msgstr "d'un soupçon de ténèbres..."
+
+#. UI.WORLDGEN.NOUNS.34
+msgctxt "UI.WORLDGEN.NOUNS.34"
+msgid "food..."
+msgstr "nourriture..."
+
+#. UI.WORLDGEN.NOUNS.35
+msgctxt "UI.WORLDGEN.NOUNS.35"
+msgid "lovely roses..."
+msgstr "de jolies robes..."
+
+#. UI.WORLDGEN.NOUNS.36
+msgctxt "UI.WORLDGEN.NOUNS.36"
+msgid "gems..."
+msgstr "des gemmes..."
+
+#. UI.WORLDGEN.NOUNS.37
+msgctxt "UI.WORLDGEN.NOUNS.37"
+msgid "souls..."
+msgstr "des âmes..."
+
+#. UI.WORLDGEN.NOUNS.38
+msgctxt "UI.WORLDGEN.NOUNS.38"
+msgid "unspeakable things..."
+msgstr "de choses indescriptibles..."
+
+#. UI.WORLDGEN.NOUNS.39
+msgctxt "UI.WORLDGEN.NOUNS.39"
+msgid "primal instincts..."
+msgstr "des instincts primaires..."
+
+#. UI.WORLDGEN.NOUNS.4
+msgctxt "UI.WORLDGEN.NOUNS.4"
+msgid "spiders..."
+msgstr "des araignées..."
+
+#. UI.WORLDGEN.NOUNS.40
+msgctxt "UI.WORLDGEN.NOUNS.40"
+msgid "terrible darkness..."
+msgstr "d'une terrible noirceur..."
+
+#. UI.WORLDGEN.NOUNS.41
+msgctxt "UI.WORLDGEN.NOUNS.41"
+msgid "a touch of magic..."
+msgstr "d'une touche de magie..."
+
+#. UI.WORLDGEN.NOUNS.5
+msgctxt "UI.WORLDGEN.NOUNS.5"
+msgid "monsters..."
+msgstr "des monstres..."
+
+#. UI.WORLDGEN.NOUNS.6
+msgctxt "UI.WORLDGEN.NOUNS.6"
+msgid "a keen sense of despair..."
+msgstr "d'une vive sensation de désespoir..."
+
+#. UI.WORLDGEN.NOUNS.7
+msgctxt "UI.WORLDGEN.NOUNS.7"
+msgid "Wilson's beard..."
+msgstr "de la barbe de Wilson..."
+
+#. UI.WORLDGEN.NOUNS.8
+msgctxt "UI.WORLDGEN.NOUNS.8"
+msgid "Maxwell's pocket squares..."
+msgstr "Pochettes de costume de Maxwell..."
+
+#. UI.WORLDGEN.NOUNS.9
+msgctxt "UI.WORLDGEN.NOUNS.9"
+msgid "Wendy's pigtails..."
+msgstr "des nattes de Wendy..."
+
+#. UI.WORLDGEN.TITLE
+msgctxt "UI.WORLDGEN.TITLE"
+msgid "GENERATING WORLD"
+msgstr "GÉNÉRATION DU MONDE"
+
+#. UI.WORLDGEN.VERBS.1
+msgctxt "UI.WORLDGEN.VERBS.1"
+msgid "Wrangling"
+msgstr "Entrée en conflit"
+
+#. UI.WORLDGEN.VERBS.10
+msgctxt "UI.WORLDGEN.VERBS.10"
+msgid "Crafting"
+msgstr "Fabrication"
+
+#. UI.WORLDGEN.VERBS.11
+msgctxt "UI.WORLDGEN.VERBS.11"
+msgid "Imbuing"
+msgstr "Imprégnation"
+
+#. UI.WORLDGEN.VERBS.12
+msgctxt "UI.WORLDGEN.VERBS.12"
+msgid "Randomizing"
+msgstr "Hasardisation"
+
+#. UI.WORLDGEN.VERBS.13
+msgctxt "UI.WORLDGEN.VERBS.13"
+msgid "Redecorating"
+msgstr "Redécoration"
+
+#. UI.WORLDGEN.VERBS.14
+msgctxt "UI.WORLDGEN.VERBS.14"
+msgid "Sprucing up"
+msgstr "Embellissement"
+
+#. UI.WORLDGEN.VERBS.15
+msgctxt "UI.WORLDGEN.VERBS.15"
+msgid "Manifesting"
+msgstr "Manifestation"
+
+#. UI.WORLDGEN.VERBS.16
+msgctxt "UI.WORLDGEN.VERBS.16"
+msgid "Summoning"
+msgstr "Invocation"
+
+#. UI.WORLDGEN.VERBS.17
+msgctxt "UI.WORLDGEN.VERBS.17"
+msgid "Compiling"
+msgstr "Compilation"
+
+#. UI.WORLDGEN.VERBS.18
+msgctxt "UI.WORLDGEN.VERBS.18"
+msgid "Building"
+msgstr "Construction"
+
+#. UI.WORLDGEN.VERBS.19
+msgctxt "UI.WORLDGEN.VERBS.19"
+msgid "Spawning"
+msgstr "Génération"
+
+#. UI.WORLDGEN.VERBS.2
+msgctxt "UI.WORLDGEN.VERBS.2"
+msgid "Generating"
+msgstr "Génération"
+
+#. UI.WORLDGEN.VERBS.20
+msgctxt "UI.WORLDGEN.VERBS.20"
+msgid "Rendering"
+msgstr "Interprétation"
+
+#. UI.WORLDGEN.VERBS.21
+msgctxt "UI.WORLDGEN.VERBS.21"
+msgid "Enchanting"
+msgstr "Ensorcellement"
+
+#. UI.WORLDGEN.VERBS.22
+msgctxt "UI.WORLDGEN.VERBS.22"
+msgid "Solving"
+msgstr "Résolution"
+
+#. UI.WORLDGEN.VERBS.3
+msgctxt "UI.WORLDGEN.VERBS.3"
+msgid "Herding"
+msgstr "Rassemblement"
+
+#. UI.WORLDGEN.VERBS.4
+msgctxt "UI.WORLDGEN.VERBS.4"
+msgid "Embiggening"
+msgstr "Grossissement"
+
+#. UI.WORLDGEN.VERBS.5
+msgctxt "UI.WORLDGEN.VERBS.5"
+msgid "Iterating upon"
+msgstr "Réitération"
+
+#. UI.WORLDGEN.VERBS.6
+msgctxt "UI.WORLDGEN.VERBS.6"
+msgid "Insinuating"
+msgstr "Insinuation"
+
+#. UI.WORLDGEN.VERBS.7
+msgctxt "UI.WORLDGEN.VERBS.7"
+msgid "Reticulating"
+msgstr "Réticulation"
+
+#. UI.WORLDGEN.VERBS.8
+msgctxt "UI.WORLDGEN.VERBS.8"
+msgid "Inserting"
+msgstr "Insertion"
+
+#. UI.WORLDGEN.VERBS.9
+msgctxt "UI.WORLDGEN.VERBS.9"
+msgid "Framing"
+msgstr "Cadrage"
+

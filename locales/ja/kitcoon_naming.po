@@ -1,0 +1,460 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. KITCOON_NAMING.DEFAULT_NAME
+msgctxt "KITCOON_NAMING.DEFAULT_NAME"
+msgid "Kitcoon"
+msgstr "コニャライグマ"
+
+#. KITCOON_NAMING.MENU_ACCEPT
+msgctxt "KITCOON_NAMING.MENU_ACCEPT"
+msgid "Assign"
+msgstr "割り当てる"
+
+#. KITCOON_NAMING.MENU_CANCEL
+msgctxt "KITCOON_NAMING.MENU_CANCEL"
+msgid "Cancel"
+msgstr "キャンセル"
+
+#. KITCOON_NAMING.MENU_PROMPT
+msgctxt "KITCOON_NAMING.MENU_PROMPT"
+msgid "Give this Kitcoon a name"
+msgstr "このコニャライグマに名前を付ける"
+
+#. KITCOON_NAMING.MENU_RANDOM
+msgctxt "KITCOON_NAMING.MENU_RANDOM"
+msgid "Random"
+msgstr "ランダム"
+
+#. KITCOON_NAMING.NAMES.1
+msgctxt "KITCOON_NAMING.NAMES.1"
+msgid "Shadow"
+msgstr "影"
+
+#. KITCOON_NAMING.NAMES.10
+msgctxt "KITCOON_NAMING.NAMES.10"
+msgid "Buddy"
+msgstr "バディ"
+
+#. KITCOON_NAMING.NAMES.11
+msgctxt "KITCOON_NAMING.NAMES.11"
+msgid "Lola"
+msgstr "ローラ"
+
+#. KITCOON_NAMING.NAMES.12
+msgctxt "KITCOON_NAMING.NAMES.12"
+msgid "Masu"
+msgstr "マースー"
+
+#. KITCOON_NAMING.NAMES.13
+msgctxt "KITCOON_NAMING.NAMES.13"
+msgid "Lottie"
+msgstr "ロッティー"
+
+#. KITCOON_NAMING.NAMES.14
+msgctxt "KITCOON_NAMING.NAMES.14"
+msgid "Tobyn"
+msgstr "トービン"
+
+#. KITCOON_NAMING.NAMES.15
+msgctxt "KITCOON_NAMING.NAMES.15"
+msgid "Brin"
+msgstr "ブラン"
+
+#. KITCOON_NAMING.NAMES.16
+msgctxt "KITCOON_NAMING.NAMES.16"
+msgid "Skoki"
+msgstr "スコーキ"
+
+#. KITCOON_NAMING.NAMES.17
+msgctxt "KITCOON_NAMING.NAMES.17"
+msgid "Benben"
+msgstr "ベンベン"
+
+#. KITCOON_NAMING.NAMES.18
+msgctxt "KITCOON_NAMING.NAMES.18"
+msgid "Meeko"
+msgstr "ミーコー"
+
+#. KITCOON_NAMING.NAMES.19
+msgctxt "KITCOON_NAMING.NAMES.19"
+msgid "Smokey"
+msgstr "煙い"
+
+#. KITCOON_NAMING.NAMES.2
+msgctxt "KITCOON_NAMING.NAMES.2"
+msgid "Tuesday"
+msgstr "チューズデー"
+
+#. KITCOON_NAMING.NAMES.20
+msgctxt "KITCOON_NAMING.NAMES.20"
+msgid "Ginger"
+msgstr "ジンジャー"
+
+#. KITCOON_NAMING.NAMES.21
+msgctxt "KITCOON_NAMING.NAMES.21"
+msgid "Polka Mazurka"
+msgstr "ポルカ・マズルカ"
+
+#. KITCOON_NAMING.NAMES.22
+msgctxt "KITCOON_NAMING.NAMES.22"
+msgid "Lahmu"
+msgstr "ラフム"
+
+#. KITCOON_NAMING.NAMES.23
+msgctxt "KITCOON_NAMING.NAMES.23"
+msgid "Basco"
+msgstr "バスコ"
+
+#. KITCOON_NAMING.NAMES.24
+msgctxt "KITCOON_NAMING.NAMES.24"
+msgid "Lilly"
+msgstr "リリー"
+
+#. KITCOON_NAMING.NAMES.25
+msgctxt "KITCOON_NAMING.NAMES.25"
+msgid "Spike"
+msgstr "スパイク"
+
+#. KITCOON_NAMING.NAMES.26
+msgctxt "KITCOON_NAMING.NAMES.26"
+msgid "Skinny"
+msgstr "スキニー"
+
+#. KITCOON_NAMING.NAMES.27
+msgctxt "KITCOON_NAMING.NAMES.27"
+msgid "Chubby"
+msgstr "チャビィ"
+
+#. KITCOON_NAMING.NAMES.28
+msgctxt "KITCOON_NAMING.NAMES.28"
+msgid "Mikey"
+msgstr "マイキー"
+
+#. KITCOON_NAMING.NAMES.29
+msgctxt "KITCOON_NAMING.NAMES.29"
+msgid "Packit"
+msgstr "パキット"
+
+#. KITCOON_NAMING.NAMES.3
+msgctxt "KITCOON_NAMING.NAMES.3"
+msgid "Lilly"
+msgstr "タマ"
+
+#. KITCOON_NAMING.NAMES.30
+msgctxt "KITCOON_NAMING.NAMES.30"
+msgid "Giles"
+msgstr "ジャイルズ"
+
+#. KITCOON_NAMING.NAMES.31
+msgctxt "KITCOON_NAMING.NAMES.31"
+msgid "Brisa"
+msgstr "ブリッサ"
+
+#. KITCOON_NAMING.NAMES.32
+msgctxt "KITCOON_NAMING.NAMES.32"
+msgid "Norman"
+msgstr "ノーマン"
+
+#. KITCOON_NAMING.NAMES.33
+msgctxt "KITCOON_NAMING.NAMES.33"
+msgid "Odin"
+msgstr "オーディン"
+
+#. KITCOON_NAMING.NAMES.34
+msgctxt "KITCOON_NAMING.NAMES.34"
+msgid "Pico"
+msgstr "ピコ"
+
+#. KITCOON_NAMING.NAMES.35
+msgctxt "KITCOON_NAMING.NAMES.35"
+msgid "Hedge"
+msgstr "生け垣"
+
+#. KITCOON_NAMING.NAMES.36
+msgctxt "KITCOON_NAMING.NAMES.36"
+msgid "Snowy"
+msgstr "スノーウィー"
+
+#. KITCOON_NAMING.NAMES.37
+msgctxt "KITCOON_NAMING.NAMES.37"
+msgid "Tuffy"
+msgstr "タフィー"
+
+#. KITCOON_NAMING.NAMES.38
+msgctxt "KITCOON_NAMING.NAMES.38"
+msgid "Minnie"
+msgstr "ミニー"
+
+#. KITCOON_NAMING.NAMES.39
+msgctxt "KITCOON_NAMING.NAMES.39"
+msgid "Bender"
+msgstr "ベンダー"
+
+#. KITCOON_NAMING.NAMES.4
+msgctxt "KITCOON_NAMING.NAMES.4"
+msgid "Charlie"
+msgstr "Charlie"
+
+#. KITCOON_NAMING.NAMES.40
+msgctxt "KITCOON_NAMING.NAMES.40"
+msgid "Shooty"
+msgstr "シューティ"
+
+#. KITCOON_NAMING.NAMES.41
+msgctxt "KITCOON_NAMING.NAMES.41"
+msgid "Thumpy"
+msgstr "サンピィ"
+
+#. KITCOON_NAMING.NAMES.42
+msgctxt "KITCOON_NAMING.NAMES.42"
+msgid "Chuchu"
+msgstr "チュチュ"
+
+#. KITCOON_NAMING.NAMES.43
+msgctxt "KITCOON_NAMING.NAMES.43"
+msgid "Ivy"
+msgstr "ツタ"
+
+#. KITCOON_NAMING.NAMES.44
+msgctxt "KITCOON_NAMING.NAMES.44"
+msgid "Sprout"
+msgstr "苗"
+
+#. KITCOON_NAMING.NAMES.45
+msgctxt "KITCOON_NAMING.NAMES.45"
+msgid "Cocoa"
+msgstr "ココア"
+
+#. KITCOON_NAMING.NAMES.46
+msgctxt "KITCOON_NAMING.NAMES.46"
+msgid "Ruby"
+msgstr "ルビー"
+
+#. KITCOON_NAMING.NAMES.47
+msgctxt "KITCOON_NAMING.NAMES.47"
+msgid "George"
+msgstr "ジョージ"
+
+#. KITCOON_NAMING.NAMES.48
+msgctxt "KITCOON_NAMING.NAMES.48"
+msgid "Leeloo"
+msgstr "リルー"
+
+#. KITCOON_NAMING.NAMES.49
+msgctxt "KITCOON_NAMING.NAMES.49"
+msgid "Gremlin"
+msgstr "グレムリン"
+
+#. KITCOON_NAMING.NAMES.5
+msgctxt "KITCOON_NAMING.NAMES.5"
+msgid "Riley"
+msgstr "ライリー"
+
+#. KITCOON_NAMING.NAMES.50
+msgctxt "KITCOON_NAMING.NAMES.50"
+msgid "Sparkle"
+msgstr "スパークル"
+
+#. KITCOON_NAMING.NAMES.51
+msgctxt "KITCOON_NAMING.NAMES.51"
+msgid "Astor"
+msgstr "アスター"
+
+#. KITCOON_NAMING.NAMES.52
+msgctxt "KITCOON_NAMING.NAMES.52"
+msgid "Luna"
+msgstr "ルナ"
+
+#. KITCOON_NAMING.NAMES.53
+msgctxt "KITCOON_NAMING.NAMES.53"
+msgid "Mister Bojangles"
+msgstr "ミスター・ボージャングルス"
+
+#. KITCOON_NAMING.NAMES.54
+msgctxt "KITCOON_NAMING.NAMES.54"
+msgid "Boo"
+msgstr "ブー"
+
+#. KITCOON_NAMING.NAMES.55
+msgctxt "KITCOON_NAMING.NAMES.55"
+msgid "Custard"
+msgstr "カスタード"
+
+#. KITCOON_NAMING.NAMES.56
+msgctxt "KITCOON_NAMING.NAMES.56"
+msgid "Vincent"
+msgstr "ヴィンセント"
+
+#. KITCOON_NAMING.NAMES.57
+msgctxt "KITCOON_NAMING.NAMES.57"
+msgid "Shadow"
+msgstr "影"
+
+#. KITCOON_NAMING.NAMES.58
+msgctxt "KITCOON_NAMING.NAMES.58"
+msgid "Samantha"
+msgstr "サマンサ"
+
+#. KITCOON_NAMING.NAMES.59
+msgctxt "KITCOON_NAMING.NAMES.59"
+msgid "Toby"
+msgstr "トビー"
+
+#. KITCOON_NAMING.NAMES.6
+msgctxt "KITCOON_NAMING.NAMES.6"
+msgid "Finnegan"
+msgstr "フィネガン"
+
+#. KITCOON_NAMING.NAMES.60
+msgctxt "KITCOON_NAMING.NAMES.60"
+msgid "Socks"
+msgstr "ソックス"
+
+#. KITCOON_NAMING.NAMES.61
+msgctxt "KITCOON_NAMING.NAMES.61"
+msgid "Boots"
+msgstr "ブーツ"
+
+#. KITCOON_NAMING.NAMES.62
+msgctxt "KITCOON_NAMING.NAMES.62"
+msgid "Chewie"
+msgstr "チューイ"
+
+#. KITCOON_NAMING.NAMES.63
+msgctxt "KITCOON_NAMING.NAMES.63"
+msgid "Turnip"
+msgstr "カブ"
+
+#. KITCOON_NAMING.NAMES.64
+msgctxt "KITCOON_NAMING.NAMES.64"
+msgid "Lando"
+msgstr "ランドゥ"
+
+#. KITCOON_NAMING.NAMES.65
+msgctxt "KITCOON_NAMING.NAMES.65"
+msgid "Marlo"
+msgstr "マーロ"
+
+#. KITCOON_NAMING.NAMES.66
+msgctxt "KITCOON_NAMING.NAMES.66"
+msgid "Andre"
+msgstr "アンドレ"
+
+#. KITCOON_NAMING.NAMES.67
+msgctxt "KITCOON_NAMING.NAMES.67"
+msgid "Mandy"
+msgstr "マンディ"
+
+#. KITCOON_NAMING.NAMES.68
+msgctxt "KITCOON_NAMING.NAMES.68"
+msgid "Bam Bam"
+msgstr "バンバン"
+
+#. KITCOON_NAMING.NAMES.69
+msgctxt "KITCOON_NAMING.NAMES.69"
+msgid "Bammers"
+msgstr "バマーズ"
+
+#. KITCOON_NAMING.NAMES.7
+msgctxt "KITCOON_NAMING.NAMES.7"
+msgid "Ellye"
+msgstr "エリー"
+
+#. KITCOON_NAMING.NAMES.70
+msgctxt "KITCOON_NAMING.NAMES.70"
+msgid "Brandi"
+msgstr "ブランディ"
+
+#. KITCOON_NAMING.NAMES.71
+msgctxt "KITCOON_NAMING.NAMES.71"
+msgid "Aggie"
+msgstr "アギィ"
+
+#. KITCOON_NAMING.NAMES.72
+msgctxt "KITCOON_NAMING.NAMES.72"
+msgid "Parsley"
+msgstr "パセリ"
+
+#. KITCOON_NAMING.NAMES.73
+msgctxt "KITCOON_NAMING.NAMES.73"
+msgid "Nutmeg"
+msgstr "ナツメグ"
+
+#. KITCOON_NAMING.NAMES.74
+msgctxt "KITCOON_NAMING.NAMES.74"
+msgid "Xiao Long Meow"
+msgstr "ショウロンミャオ"
+
+#. KITCOON_NAMING.NAMES.75
+msgctxt "KITCOON_NAMING.NAMES.75"
+msgid "Reuben"
+msgstr "ビーエルティ"
+
+#. KITCOON_NAMING.NAMES.76
+msgctxt "KITCOON_NAMING.NAMES.76"
+msgid "Daisy"
+msgstr "デイジー"
+
+#. KITCOON_NAMING.NAMES.77
+msgctxt "KITCOON_NAMING.NAMES.77"
+msgid "Basil"
+msgstr "バジル"
+
+#. KITCOON_NAMING.NAMES.78
+msgctxt "KITCOON_NAMING.NAMES.78"
+msgid "Sammy"
+msgstr "サミー"
+
+#. KITCOON_NAMING.NAMES.79
+msgctxt "KITCOON_NAMING.NAMES.79"
+msgid "Thomasina"
+msgstr "トマシーナ"
+
+#. KITCOON_NAMING.NAMES.8
+msgctxt "KITCOON_NAMING.NAMES.8"
+msgid "Lola"
+msgstr "ミー"
+
+#. KITCOON_NAMING.NAMES.80
+msgctxt "KITCOON_NAMING.NAMES.80"
+msgid "Taffy"
+msgstr "タフィー"
+
+#. KITCOON_NAMING.NAMES.81
+msgctxt "KITCOON_NAMING.NAMES.81"
+msgid "Bibo"
+msgstr "ビーボ"
+
+#. KITCOON_NAMING.NAMES.82
+msgctxt "KITCOON_NAMING.NAMES.82"
+msgid "Tuppy"
+msgstr "タッピー"
+
+#. KITCOON_NAMING.NAMES.83
+msgctxt "KITCOON_NAMING.NAMES.83"
+msgid "Kuma"
+msgstr "クマ"
+
+#. KITCOON_NAMING.NAMES.84
+msgctxt "KITCOON_NAMING.NAMES.84"
+msgid "Cherry"
+msgstr "チェリー"
+
+#. KITCOON_NAMING.NAMES.85
+msgctxt "KITCOON_NAMING.NAMES.85"
+msgid "Siumai"
+msgstr "シウマイ"
+
+#. KITCOON_NAMING.NAMES.86
+msgctxt "KITCOON_NAMING.NAMES.86"
+msgid "Kira"
+msgstr "キラ"
+
+#. KITCOON_NAMING.NAMES.9
+msgctxt "KITCOON_NAMING.NAMES.9"
+msgid "Teddy"
+msgstr "テディ"
+

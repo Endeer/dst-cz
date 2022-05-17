@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.BROADCASTING.ACCEPT
+msgctxt "UI.BROADCASTING.ACCEPT"
+msgid "Accept"
+msgstr "Accepter"
+
+#. UI.BROADCASTING.ACCEPTBODY
+msgctxt "UI.BROADCASTING.ACCEPTBODY"
+msgid "Do you wish to accept these changes?"
+msgstr "Acceptez-vous ces modifications ?"
+
+#. UI.BROADCASTING.ACCEPTGRAPHICSBODY
+msgctxt "UI.BROADCASTING.ACCEPTGRAPHICSBODY"
+msgid "Do you wish to accept these changes?"
+msgstr "Acceptez-vous ces modifications ?"
+
+#. UI.BROADCASTING.ACCEPTGRAPHICSTITLE
+msgctxt "UI.BROADCASTING.ACCEPTGRAPHICSTITLE"
+msgid "Accept Changes"
+msgstr "Accepter les modifications"
+
+#. UI.BROADCASTING.ACCEPTTITLE
+msgctxt "UI.BROADCASTING.ACCEPTTITLE"
+msgid "Accept Changes"
+msgstr "Accepter les modifications"
+
+#. UI.BROADCASTING.APPLY
+msgctxt "UI.BROADCASTING.APPLY"
+msgid "Apply"
+msgstr "Appliquer"
+
+#. UI.BROADCASTING.AUDIO
+msgctxt "UI.BROADCASTING.AUDIO"
+msgid "Audio"
+msgstr "Audio"
+
+#. UI.BROADCASTING.BACKBODY
+msgctxt "UI.BROADCASTING.BACKBODY"
+msgid "Do you want to throw out your changes?"
+msgstr "Voulez-vous annuler vos modifications ?"
+
+#. UI.BROADCASTING.BACKTITLE
+msgctxt "UI.BROADCASTING.BACKTITLE"
+msgid "Lose Changes?"
+msgstr "Abandonner les modifications ?"
+
+#. UI.BROADCASTING.BANDWIDTH
+msgctxt "UI.BROADCASTING.BANDWIDTH"
+msgid "Bandwidth"
+msgstr "Largeur de bande"
+
+#. UI.BROADCASTING.BROADCASTINGENABLED
+msgctxt "UI.BROADCASTING.BROADCASTINGENABLED"
+msgid "Broadcasting Enabled"
+msgstr "Diffusion activée"
+
+#. UI.BROADCASTING.CANCEL
+msgctxt "UI.BROADCASTING.CANCEL"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. UI.BROADCASTING.CLOSE
+msgctxt "UI.BROADCASTING.CLOSE"
+msgid "Close"
+msgstr "Fermer"
+
+#. UI.BROADCASTING.FORGET
+msgctxt "UI.BROADCASTING.FORGET"
+msgid "Forget Account"
+msgstr "Ne pas tenir compte du compte"
+
+#. UI.BROADCASTING.FRAMERATE
+msgctxt "UI.BROADCASTING.FRAMERATE"
+msgid "Frame Rate"
+msgstr "Fréquence d'image"
+
+#. UI.BROADCASTING.HELP
+msgctxt "UI.BROADCASTING.HELP"
+msgid "Help"
+msgstr "Aide"
+
+#. UI.BROADCASTING.LOGIN
+msgctxt "UI.BROADCASTING.LOGIN"
+msgid "Login"
+msgstr "Se connecter"
+
+#. UI.BROADCASTING.LOGOUT
+msgctxt "UI.BROADCASTING.LOGOUT"
+msgid "Logout"
+msgstr "Se déconnecter"
+
+#. UI.BROADCASTING.MICROPHONE
+msgctxt "UI.BROADCASTING.MICROPHONE"
+msgid "Microphone"
+msgstr "Microphone"
+
+#. UI.BROADCASTING.NO
+msgctxt "UI.BROADCASTING.NO"
+msgid "No"
+msgstr "Non"
+
+#. UI.BROADCASTING.REVERT
+msgctxt "UI.BROADCASTING.REVERT"
+msgid "Revert Changes"
+msgstr "Annuler les modifications"
+
+#. UI.BROADCASTING.SIGNUP
+msgctxt "UI.BROADCASTING.SIGNUP"
+msgid "Sign Up"
+msgstr "S'inscrire"
+
+#. UI.BROADCASTING.SMOOTHSCALING
+msgctxt "UI.BROADCASTING.SMOOTHSCALING"
+msgid "Smooth Scaling"
+msgstr "Lissage d'échelle"
+
+#. UI.BROADCASTING.STARTSTREAM
+msgctxt "UI.BROADCASTING.STARTSTREAM"
+msgid "Start Stream"
+msgstr "Démarrer la diffusion"
+
+#. UI.BROADCASTING.STOPSTREAM
+msgctxt "UI.BROADCASTING.STOPSTREAM"
+msgid "Stop Stream"
+msgstr "Stopper la diffusion"
+
+#. UI.BROADCASTING.SYSTEMSOUND
+msgctxt "UI.BROADCASTING.SYSTEMSOUND"
+msgid "System Sound"
+msgstr "Son du système"
+
+#. UI.BROADCASTING.TWITCHCHAT
+msgctxt "UI.BROADCASTING.TWITCHCHAT"
+msgid "Twitch Chat"
+msgstr "Discussions Twitch"
+
+#. UI.BROADCASTING.VIEWSTREAM
+msgctxt "UI.BROADCASTING.VIEWSTREAM"
+msgid "View Stream"
+msgstr "Voir la diffusion"
+
+#. UI.BROADCASTING.WEBCAM
+msgctxt "UI.BROADCASTING.WEBCAM"
+msgid "Webcam Enabled"
+msgstr "Webcam activée"
+
+#. UI.BROADCASTING.WEBCAMALPHA
+msgctxt "UI.BROADCASTING.WEBCAMALPHA"
+msgid "Webcam Alpha"
+msgstr "Webcam Alpha"
+
+#. UI.BROADCASTING.YES
+msgctxt "UI.BROADCASTING.YES"
+msgid "Yes"
+msgstr "Oui"
+

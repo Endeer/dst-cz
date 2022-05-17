@@ -1,0 +1,650 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.NETWORKDISCONNECT.ACCOUNTS
+msgctxt "UI.NETWORKDISCONNECT.ACCOUNTS"
+msgid "Account Page"
+msgstr ""
+
+#. UI.NETWORKDISCONNECT.BODY.APP_OWNERSHIP_CHECK_FAILED
+msgctxt "UI.NETWORKDISCONNECT.BODY.APP_OWNERSHIP_CHECK_FAILED"
+msgid "The server says you don't own the game. But you do... right?"
+msgstr "El servidor dice que no posees el juego. Pero sí lo posees... ¿verdad?"
+
+#. UI.NETWORKDISCONNECT.BODY.DEFAULT
+msgctxt "UI.NETWORKDISCONNECT.BODY.DEFAULT"
+msgid "You have been disconnected. We're not sure why... Sorry!"
+msgstr "Te desconectaste. No sabemos muy bien por qué... ¡Lo sentimos!"
+
+#. UI.NETWORKDISCONNECT.BODY.E_BANNED
+msgctxt "UI.NETWORKDISCONNECT.BODY.E_BANNED"
+msgid "Your account has been banned for violating the terms of use. Please visit accounts.klei.com to review this issue."
+msgstr ""
+
+#. UI.NETWORKDISCONNECT.BODY.E_DELETED
+msgctxt "UI.NETWORKDISCONNECT.BODY.E_DELETED"
+msgid "Your account has been marked for deletion and cannot be used anymore."
+msgstr "Tu cuenta quedó seleccionada para ser borrada y ya no se puede usar más."
+
+#. UI.NETWORKDISCONNECT.BODY.E_UPGRADE
+msgctxt "UI.NETWORKDISCONNECT.BODY.E_UPGRADE"
+msgid "A new version is available.\nPlease update Don't Starve Together."
+msgstr "Hay una versión nueva disponible.\nActualiza Don't Starve Together."
+
+#. UI.NETWORKDISCONNECT.BODY.FAILED_TO_AUTOJOIN_LAN
+msgctxt "UI.NETWORKDISCONNECT.BODY.FAILED_TO_AUTOJOIN_LAN"
+msgid "Unable to join a LAN server.\nAre you sure it exists?"
+msgstr "No te pudiste unir a un servidor LAN.\n¿Seguro que existe?"
+
+#. UI.NETWORKDISCONNECT.BODY.FORCE_DISCONNECTION
+msgctxt "UI.NETWORKDISCONNECT.BODY.FORCE_DISCONNECTION"
+msgid "The connection has been forcibly closed by the engine."
+msgstr "El motor forzó la desconexión."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_ALREADY_CONNECTED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_ALREADY_CONNECTED"
+msgid "You are already connected to this server."
+msgstr "Ya estás conectado a este servidor."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_CONNECTION_ATTEMPT_FAILED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_CONNECTION_ATTEMPT_FAILED"
+msgid "The server is not responding. Please try again."
+msgstr "El servidor no responde. Vuelve a intentarlo."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_CONNECTION_BANNED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_CONNECTION_BANNED"
+msgid "You have been banned from this server."
+msgstr "Se te prohibió entrar en este servidor."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_CONNECTION_LOST
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_CONNECTION_LOST"
+msgid "You have lost connection to the server."
+msgstr "Perdiste la conexión con el servidor."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DISCONNECTION_NOTIFICATION
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DISCONNECTION_NOTIFICATION"
+msgid "You have been disconnected from the server."
+msgstr "Te desconectaste del servidor."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_DEDICATED_SERVER_STARTUP_FAILED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_DEDICATED_SERVER_STARTUP_FAILED"
+msgid "There was some sort of trouble starting the server. Please try again."
+msgstr "Hubo algunos problemas al iniciar el servidor. Inténtalo de nuevo."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_DESTINATION_CONNECTION_ATTEMPT_FAILED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_DESTINATION_CONNECTION_ATTEMPT_FAILED"
+msgid "The destination server is not responding. Please try again."
+msgstr "El servidor de destino no responde. Vuelve a intentarlo."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_DESTINATION_SERVER_NOT_AVAILABLE
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_DESTINATION_SERVER_NOT_AVAILABLE"
+msgid "The server you were playing on is unavailable. Please try again later."
+msgstr "El servidor en el que estabas jugando no está disponible. Vuelve a intentarlo más tarde."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_FRIENDS_ONLY_SERVER
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_FRIENDS_ONLY_SERVER"
+msgid "Attempted to join a \"friends only\" server, but you're not friends with the host."
+msgstr "Intentaste unirte a un servidor de “solo amigos”, pero no eres amigo del anfitrión."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_GAME_SESSION_AUTH_FAILED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_GAME_SESSION_AUTH_FAILED"
+msgid "Authentication failed. Please try again."
+msgstr "Error de autenticación. Vuelve a intentarlo."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_IDLE_TIMEOUT
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_IDLE_TIMEOUT"
+msgid "You have lost connection to the server."
+msgstr "Perdiste la conexión con el servidor."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_INCOMING_CONNECTIONS_DISABLED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_INCOMING_CONNECTIONS_DISABLED"
+msgid "The server is not accepting new connections temporarily. Please wait a moment and try again."
+msgstr "El servidor no acepta temporalmente conexiones nuevas. Espera un momento y vuelve a intentarlo."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_INCOMPATIBLE_PROTOCOL_VERSION
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_INCOMPATIBLE_PROTOCOL_VERSION"
+msgid "The server has a different version than you do. Please check that your game version is up-to-date."
+msgstr "El servidor tiene una versión diferente que la tuya. Comprueba que tu versión del juego esté actualizada."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_INITIALIZATION_FAILED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_INITIALIZATION_FAILED"
+msgid "Networking did not initialize properly. Please try again."
+msgstr "La red no se inicializó correctamente. Vuelve a intentarlo."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_LOGGED_IN_SOMEWHERE_ELSE
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_LOGGED_IN_SOMEWHERE_ELSE"
+msgid "This account has been logged in from another location."
+msgstr "Esta cuenta inició sesión en otra ubicación."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_NETWORK_CONNECTION_LOST
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_NETWORK_CONNECTION_LOST"
+msgid "Check your connection and try again."
+msgstr "Comprueba tu conexión y vuelve a intentarlo."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_NOT_ACCEPTING_NEW_PLAYERS
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_NOT_ACCEPTING_NEW_PLAYERS"
+msgid "The server is not accepting new players."
+msgstr "El servidor no acepta jugadores nuevos."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_NO_FREE_PLAYER_SLOTS
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_NO_FREE_PLAYER_SLOTS"
+msgid "The server is full."
+msgstr "El servidor está lleno."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_SAVE_FILE_DAMAGED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_SAVE_FILE_DAMAGED"
+msgid "Your world is damaged and cannot be loaded."
+msgstr "Tu mundo está dañado y no se puede cargar."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_SERVER_IS_CLAN_ONLY
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_SERVER_IS_CLAN_ONLY"
+msgid "You must be a member of this server's Steam Group to connect."
+msgstr "Tienes que ser miembro del grupo de Steam de este servidor para conectarte."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_SERVER_IS_LAN_ONLY
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_SERVER_IS_LAN_ONLY"
+msgid "This server only allows players from their same local network."
+msgstr "Este servidor solo permite a jugadores de su misma red local."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_SLOT_RESERVATION
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_SLOT_RESERVATION"
+msgid "Attempt to join server failed because remaining player slots are reserved. Please try again once a slot frees up."
+msgstr "El intento para unirte al servidor falló porque los espacios de jugadores restantes están reservados."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_STEAM_NET_CONNECTION_TIMEOUT
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_STEAM_NET_CONNECTION_TIMEOUT"
+msgid "You have lost connection to the server."
+msgstr "Perdiste la conexión con el servidor."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_USER_BANNED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_USER_BANNED"
+msgid "You have been banned from this server."
+msgstr "Se te prohibió entrar en este servidor."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_USER_CONNECTION_FAILED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_USER_CONNECTION_FAILED"
+msgid "Something went awry while connecting. Please try again."
+msgstr "Se produjo algún problema durante la conexión. Vuelve a intentarlo."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_DST_USER_KICKED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_DST_USER_KICKED"
+msgid "You have been kicked from this server."
+msgstr "Se te expulsó de este servidor."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_INCOMPATIBLE_PROTOCOL_VERSION
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_INCOMPATIBLE_PROTOCOL_VERSION"
+msgid "The server has a different version than you do. Please check that your game version is up-to-date."
+msgstr "El servidor tiene una versión diferente que la tuya. Comprueba que tu versión del juego esté actualizada."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_INVALID_PASSWORD
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_INVALID_PASSWORD"
+msgid "Whoops! The password you entered was incorrect."
+msgstr "¡Vaya! La contraseña que introdujiste es incorrecta."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_NAT_CONNECTION_TO_TARGET_LOST
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_NAT_CONNECTION_TO_TARGET_LOST"
+msgid "Unable to connect to the server."
+msgstr "No es posible conectarse al servidor."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_NAT_PUNCHTHROUGH_FAILED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_NAT_PUNCHTHROUGH_FAILED"
+msgid "Unable to connect to the server."
+msgstr "No es posible conectarse al servidor."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_NAT_TARGET_NOT_CONNECTED
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_NAT_TARGET_NOT_CONNECTED"
+msgid "Unable to connect to the server."
+msgstr "No es posible conectarse al servidor."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_NAT_TARGET_UNRESPONSIVE
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_NAT_TARGET_UNRESPONSIVE"
+msgid "Unable to connect to the server."
+msgstr "No es posible conectarse al servidor."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_NO_FREE_INCOMING_CONNECTIONS
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_NO_FREE_INCOMING_CONNECTIONS"
+msgid "The server is full."
+msgstr "El servidor está lleno."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_INGAME_PLAYER1_SIGNED_OUT_OF_PSN
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_INGAME_PLAYER1_SIGNED_OUT_OF_PSN"
+msgid "Player 1 has signed out of PlayStation™Network in the middle of a game!"
+msgstr "¡El jugador 1 se desconectó de PlayStation™Network en mitad de una partida!"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_INGAME_PLAYER2_SIGNED_OUT_OF_PS4
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_INGAME_PLAYER2_SIGNED_OUT_OF_PS4"
+msgid "Your split-screen partner logged out in the middle of a game!"
+msgstr "¡Tu compañero de pantalla dividida se desconectó en mitad de la partida!"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_INGAME_PLAYER2_SIGNED_OUT_OF_PSN
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_INGAME_PLAYER2_SIGNED_OUT_OF_PSN"
+msgid "Player 2 has signed out of PlayStation™Network in the middle of a game!"
+msgstr "¡El jugador 2 se desconectó de PlayStation™Network en mitad de una partida!"
+
+#. UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_UI_PLAYER1_SIGNED_OUT_OF_PSN
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_UI_PLAYER1_SIGNED_OUT_OF_PSN"
+msgid "You have signed out of PlayStation™Network. Now we have to set everything back up again..."
+msgstr "Te desconectaste de PlayStation™Network. Ahora tenemos que configurar todo de nuevo..."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_UI_PLAYER2_SIGNED_OUT_OF_PS4
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_UI_PLAYER2_SIGNED_OUT_OF_PS4"
+msgid "Your split-screen partner logged out. Return to the main menu to find another."
+msgstr "Tu compañero de pantalla dividida se desconectó. Regresa al menú principal para buscar otro."
+
+#. UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_UI_PLAYER2_SIGNED_OUT_OF_PSN
+msgctxt "UI.NETWORKDISCONNECT.BODY.ID_SPLITSCREEN_UI_PLAYER2_SIGNED_OUT_OF_PSN"
+msgid "Your split-screen partner signed out. Return to the main menu to find another."
+msgstr "Tu compañero de pantalla dividida cerró sesión. Regresa al menú principal para buscar otro."
+
+#. UI.NETWORKDISCONNECT.BODY.INVALID_CLIENT_TOKEN
+msgctxt "UI.NETWORKDISCONNECT.BODY.INVALID_CLIENT_TOKEN"
+msgid "A token error occurred. Please try again."
+msgstr "Se produjo un error de token. Vuelve a intentarlo."
+
+#. UI.NETWORKDISCONNECT.BODY.INVALID_GAME_SESSION_TOKEN
+msgctxt "UI.NETWORKDISCONNECT.BODY.INVALID_GAME_SESSION_TOKEN"
+msgid "Unable to reach the Klei server. Please try again."
+msgstr "No se puede acceder al servidor de Klei. Vuelve a intentarlo."
+
+#. UI.NETWORKDISCONNECT.BODY.PLATFORM_MISMATCH
+msgctxt "UI.NETWORKDISCONNECT.BODY.PLATFORM_MISMATCH"
+msgid "This server is incompatible with your version. Please try another server."
+msgstr "Este servidor es incompatible con tu versión. Prueba otro servidor."
+
+#. UI.NETWORKDISCONNECT.BODY.SERVER_MODS_NOT_ON_WORKSHOP
+msgctxt "UI.NETWORKDISCONNECT.BODY.SERVER_MODS_NOT_ON_WORKSHOP"
+msgid "This server requires mods that are not available on the Steam Workshop. You will need to manually download the missing mods."
+msgstr "Este servidor requiere modificaciones que no están disponibles en Steam Workshop. Tendrás que descargar manualmente las modificaciones que faltan."
+
+#. UI.NETWORKDISCONNECT.BODY.SERVER_MODS_NOT_ON_WORKSHOP_RAIL
+msgctxt "UI.NETWORKDISCONNECT.BODY.SERVER_MODS_NOT_ON_WORKSHOP_RAIL"
+msgid "This server requires mods that are not available. You will need to manually download the missing mods."
+msgstr "Este servidor requiere modificaciones que no están disponibles. Tendrás que descargar manualmente las modificaciones que faltan."
+
+#. UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_ACCESS_DENIED
+msgctxt "UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_ACCESS_DENIED"
+msgid "Download of the required mods from the Steam Workshop failed because one or more mods is not visible to you."
+msgstr "Hubo un error al descargar las modificaciones necesarias de Steam Workshop porque una o más modificaciones no son visibles para ti."
+
+#. UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_ACCESS_DENIED_RAIL
+msgctxt "UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_ACCESS_DENIED_RAIL"
+msgid "Download of the required mods failed because one or more mods is not visible to you."
+msgstr "Hubo un error al descargar las modificaciones necesarias porque una o más modificaciones no son visibles para ti."
+
+#. UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_FAILURE
+msgctxt "UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_FAILURE"
+msgid "Download of the required mods from the Steam Workshop failed. Please try again."
+msgstr "Hubo un error al descargar las modificaciones necesarias de Steam Workshop. Vuelve a intentarlo."
+
+#. UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_FAILURE_RAIL
+msgctxt "UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_FAILURE_RAIL"
+msgid "Download of the required mods failed. Please try again."
+msgstr "Hubo un error al descargar las modificaciones necesarias. Vuelve a intentarlo."
+
+#. UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_VERSION_MISMATCH
+msgctxt "UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_VERSION_MISMATCH"
+msgid "The server is running mods with an old version. The server owner must update the mods for new players to join."
+msgstr "El servidor está ejecutando modificaciones con una versión antigua. El anfitrión del servidor tiene que actualizarlas para que se puedan unir los jugadores nuevos."
+
+#. UI.NETWORKDISCONNECT.BODY.VERSION_HANDSHAKE_FAILED
+msgctxt "UI.NETWORKDISCONNECT.BODY.VERSION_HANDSHAKE_FAILED"
+msgid "The server is on a different version than you. Please check that your game version is up-to-date."
+msgstr "El servidor tiene una versión diferente a la tuya. Comprueba que tu versión del juego esté actualizada."
+
+#. UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_ARNBETA
+msgctxt "UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_ARNBETA"
+msgid "The server is running the A New Reign Beta version. You'll need to opt into the beta to play on this server."
+msgstr "El servidor está ejecutando la versión beta de A New Reign. Tendrás que usar la versión beta para jugar en este servidor."
+
+#. UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_OLD_CLIENT
+msgctxt "UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_OLD_CLIENT"
+msgid "This server is on a newer version than you. Please download the latest update to connect."
+msgstr "El servidor tiene una versión más nueva que la tuya. Descarga la actualización más reciente para conectarte."
+
+#. UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_OLD_SERVER
+msgctxt "UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_OLD_SERVER"
+msgid "This server is on an older version than you."
+msgstr ""
+
+#. UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_PUBLIC_BETA
+msgctxt "UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_PUBLIC_BETA"
+msgid "The server is running a public beta world. You'll need to opt into the beta to play on this server."
+msgstr "El servidor está ejecutando una versión beta pública. Tendrás que usar la versión beta para jugar en este servidor."
+
+#. UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_ROTBETA
+msgctxt "UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_ROTBETA"
+msgid "The server is running the Return of Them Beta version. You'll need to opt into the beta to play on this server."
+msgstr "El servidor está corriendo la versión beta de El Regreso de los Antiguos. Tienes que apuntarte en el beta para poder jugar en este servidor."
+
+#. UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_UPDATEBETA
+msgctxt "UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_UPDATEBETA"
+msgid "The server is running the Beta Branch version. You'll need to opt into the beta to play on this server."
+msgstr ""
+
+#. UI.NETWORKDISCONNECT.OK
+msgctxt "UI.NETWORKDISCONNECT.OK"
+msgid "OK"
+msgstr "Aceptar"
+
+#. UI.NETWORKDISCONNECT.TITLE.APP_OWNERSHIP_CHECK_FAILED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.APP_OWNERSHIP_CHECK_FAILED"
+msgid "Game Ownership Check Failed"
+msgstr "Error al comprobar titularidad del juego"
+
+#. UI.NETWORKDISCONNECT.TITLE.DEFAULT
+msgctxt "UI.NETWORKDISCONNECT.TITLE.DEFAULT"
+msgid "Disconnected"
+msgstr "Desconectado"
+
+#. UI.NETWORKDISCONNECT.TITLE.E_BANNED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.E_BANNED"
+msgid "Account Banned"
+msgstr "Cuenta suspendida"
+
+#. UI.NETWORKDISCONNECT.TITLE.E_DELETED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.E_DELETED"
+msgid "Account Deleted"
+msgstr "Cuenta borrada"
+
+#. UI.NETWORKDISCONNECT.TITLE.E_UPGRADE
+msgctxt "UI.NETWORKDISCONNECT.TITLE.E_UPGRADE"
+msgid "Version Out of Date"
+msgstr "Versión no actualizada"
+
+#. UI.NETWORKDISCONNECT.TITLE.FAILED_TO_AUTOJOIN_LAN
+msgctxt "UI.NETWORKDISCONNECT.TITLE.FAILED_TO_AUTOJOIN_LAN"
+msgid "LAN Join Failed"
+msgstr "Error al unirse a la LAN"
+
+#. UI.NETWORKDISCONNECT.TITLE.FORCE_DISCONNECTION
+msgctxt "UI.NETWORKDISCONNECT.TITLE.FORCE_DISCONNECTION"
+msgid "Force Disconnection"
+msgstr "Forzar desconexión"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_ALREADY_CONNECTED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_ALREADY_CONNECTED"
+msgid "Duplicate Connection"
+msgstr "Conexión duplicada"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_CONNECTION_ATTEMPT_FAILED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_CONNECTION_ATTEMPT_FAILED"
+msgid "Server Not Responding"
+msgstr "El servidor no responde"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_CONNECTION_BANNED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_CONNECTION_BANNED"
+msgid "Banned"
+msgstr "Suspendido"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_CONNECTION_LOST
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_CONNECTION_LOST"
+msgid "Disconnected"
+msgstr "Desconectado"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DISCONNECTION_NOTIFICATION
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DISCONNECTION_NOTIFICATION"
+msgid "Disconnected"
+msgstr "Desconectado"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_DEDICATED_SERVER_STARTUP_FAILED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_DEDICATED_SERVER_STARTUP_FAILED"
+msgid "Dedicated Server Failed To Start"
+msgstr "Error al iniciar el servidor dedicado"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_DESTINATION_CONNECTION_ATTEMPT_FAILED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_DESTINATION_CONNECTION_ATTEMPT_FAILED"
+msgid "Destination Not Responding"
+msgstr "El destino no responde"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_DESTINATION_SERVER_NOT_AVAILABLE
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_DESTINATION_SERVER_NOT_AVAILABLE"
+msgid "Server not available"
+msgstr "Servidor no disponible"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_FRIENDS_ONLY_SERVER
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_FRIENDS_ONLY_SERVER"
+msgid "Friends Only"
+msgstr "Solo amigos"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_GAME_SESSION_AUTH_FAILED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_GAME_SESSION_AUTH_FAILED"
+msgid "Authentication Failed"
+msgstr "Error de autenticación"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_IDLE_TIMEOUT
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_IDLE_TIMEOUT"
+msgid "Disconnected"
+msgstr "Desconectado"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_INCOMING_CONNECTIONS_DISABLED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_INCOMING_CONNECTIONS_DISABLED"
+msgid "Failed To Connect"
+msgstr "Error al conectarse"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_INCOMPATIBLE_PROTOCOL_VERSION
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_INCOMPATIBLE_PROTOCOL_VERSION"
+msgid "Version Mismatch"
+msgstr "Las versiones no coinciden"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_INITIALIZATION_FAILED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_INITIALIZATION_FAILED"
+msgid "Networking Failed To Start"
+msgstr "Error al iniciar la red"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_LOGGED_IN_SOMEWHERE_ELSE
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_LOGGED_IN_SOMEWHERE_ELSE"
+msgid "Duplicate Login"
+msgstr "Inicio de sesión duplicado"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_NETWORK_CONNECTION_LOST
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_NETWORK_CONNECTION_LOST"
+msgid "Network Connection Lost"
+msgstr "Conexión con la red perdida"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_NOT_ACCEPTING_NEW_PLAYERS
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_NOT_ACCEPTING_NEW_PLAYERS"
+msgid "Disconnected"
+msgstr "Desconectado"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_NO_FREE_PLAYER_SLOTS
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_NO_FREE_PLAYER_SLOTS"
+msgid "Server Full"
+msgstr "Servidor lleno"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_SAVE_FILE_DAMAGED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_SAVE_FILE_DAMAGED"
+msgid "Load failed"
+msgstr "Error al cargar"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_SERVER_IS_CLAN_ONLY
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_SERVER_IS_CLAN_ONLY"
+msgid "Not a member of the server's clan"
+msgstr "No eres miembro del clan del servidor."
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_SERVER_IS_LAN_ONLY
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_SERVER_IS_LAN_ONLY"
+msgid "Local Connection Server Only"
+msgstr "Conexión con servidor local solo"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_SERVER_STARTUP_FAILED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_SERVER_STARTUP_FAILED"
+msgid "Server Failed To Start"
+msgstr "No se pudo iniciar el servidor"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_SLOT_RESERVATION
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_SLOT_RESERVATION"
+msgid "Slot Reserved"
+msgstr "Espacio reservado"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_STEAM_NET_CONNECTION_TIMEOUT
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_STEAM_NET_CONNECTION_TIMEOUT"
+msgid "Disconnected"
+msgstr "Desconectado"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_USER_BANNED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_USER_BANNED"
+msgid "Banned"
+msgstr "Suspendido"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_USER_CONNECTION_FAILED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_USER_CONNECTION_FAILED"
+msgid "Connection Failed"
+msgstr "Error de conexión"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_DST_USER_KICKED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_DST_USER_KICKED"
+msgid "Kicked"
+msgstr "Expulsado(a)"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_INCOMPATIBLE_PROTOCOL_VERSION
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_INCOMPATIBLE_PROTOCOL_VERSION"
+msgid "Version Mismatch"
+msgstr "Las versiones no coinciden"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_INVALID_PASSWORD
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_INVALID_PASSWORD"
+msgid "Bad Password"
+msgstr "Contraseña incorrecta"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_NAT_CONNECTION_TO_TARGET_LOST
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_NAT_CONNECTION_TO_TARGET_LOST"
+msgid "Could Not Connect"
+msgstr "No se pudo conectar"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_NAT_PUNCHTHROUGH_FAILED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_NAT_PUNCHTHROUGH_FAILED"
+msgid "Could Not Connect"
+msgstr "No se pudo conectar"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_NAT_TARGET_NOT_CONNECTED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_NAT_TARGET_NOT_CONNECTED"
+msgid "Could Not Connect"
+msgstr "No se pudo conectar"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_NAT_TARGET_UNRESPONSIVE
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_NAT_TARGET_UNRESPONSIVE"
+msgid "Could Not Connect"
+msgstr "No se pudo conectar"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_NO_FREE_INCOMING_CONNECTIONS
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_NO_FREE_INCOMING_CONNECTIONS"
+msgid "Server Full"
+msgstr "Servidor lleno"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_INGAME_PLAYER1_SIGNED_OUT_OF_PSN
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_INGAME_PLAYER1_SIGNED_OUT_OF_PSN"
+msgid "Player 1 Signed Out"
+msgstr "El jugador 1 se desconectó"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_INGAME_PLAYER2_SIGNED_OUT_OF_PS4
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_INGAME_PLAYER2_SIGNED_OUT_OF_PS4"
+msgid "Player 2 Logged Out"
+msgstr "El jugador 2 cerró sesión"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_INGAME_PLAYER2_SIGNED_OUT_OF_PSN
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_INGAME_PLAYER2_SIGNED_OUT_OF_PSN"
+msgid "Player 2 Signed Out"
+msgstr "El jugador 2 se desconectó"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_UI_PLAYER1_SIGNED_OUT_OF_PSN
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_UI_PLAYER1_SIGNED_OUT_OF_PSN"
+msgid "Player 1 Signed Out"
+msgstr "El jugador 1 se desconectó"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_UI_PLAYER2_SIGNED_OUT_OF_PS4
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_UI_PLAYER2_SIGNED_OUT_OF_PS4"
+msgid "Player 2 Logged Out"
+msgstr "El jugador 2 cerró sesión"
+
+#. UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_UI_PLAYER2_SIGNED_OUT_OF_PSN
+msgctxt "UI.NETWORKDISCONNECT.TITLE.ID_SPLITSCREEN_UI_PLAYER2_SIGNED_OUT_OF_PSN"
+msgid "Player 2 Signed Out"
+msgstr "El jugador 2 se desconectó"
+
+#. UI.NETWORKDISCONNECT.TITLE.INVALID_CLIENT_TOKEN
+msgctxt "UI.NETWORKDISCONNECT.TITLE.INVALID_CLIENT_TOKEN"
+msgid "Invalid Client Token"
+msgstr "Token de cliente no válido"
+
+#. UI.NETWORKDISCONNECT.TITLE.INVALID_GAME_SESSION_TOKEN
+msgctxt "UI.NETWORKDISCONNECT.TITLE.INVALID_GAME_SESSION_TOKEN"
+msgid "Could Not Connect"
+msgstr "No se pudo conectar"
+
+#. UI.NETWORKDISCONNECT.TITLE.PLATFORM_MISMATCH
+msgctxt "UI.NETWORKDISCONNECT.TITLE.PLATFORM_MISMATCH"
+msgid "Version Mismatch"
+msgstr "Las versiones no coinciden"
+
+#. UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_NOT_ON_WORKSHOP
+msgctxt "UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_NOT_ON_WORKSHOP"
+msgid "Disconnected Due To Missing Mods"
+msgstr "Desconectado debido a que faltan modificaciones"
+
+#. UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_NOT_ON_WORKSHOP_RAIL
+msgctxt "UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_NOT_ON_WORKSHOP_RAIL"
+msgid "Disconnected Due To Missing Mods"
+msgstr "Desconectado debido a que faltan modificaciones"
+
+#. UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_ACCESS_DENIED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_ACCESS_DENIED"
+msgid "Disconnected Due To Missing Mods"
+msgstr "Desconectado debido a que faltan modificaciones"
+
+#. UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_ACCESS_DENIED_RAIL
+msgctxt "UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_ACCESS_DENIED_RAIL"
+msgid "Disconnected Due To Missing Mods"
+msgstr "Desconectado debido a que faltan modificaciones"
+
+#. UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_FAILURE
+msgctxt "UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_FAILURE"
+msgid "Disconnected Due To Missing Mods"
+msgstr "Desconectado debido a que faltan modificaciones"
+
+#. UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_FAILURE_RAIL
+msgctxt "UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_FAILURE_RAIL"
+msgid "Disconnected Due To Missing Mods"
+msgstr "Desconectado debido a que faltan modificaciones"
+
+#. UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_VERSION_MISMATCH
+msgctxt "UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_VERSION_MISMATCH"
+msgid "Disconnected Due To Missing Mods"
+msgstr "Desconectado debido a que faltan modificaciones"
+
+#. UI.NETWORKDISCONNECT.TITLE.VERSION_HANDSHAKE_FAILED
+msgctxt "UI.NETWORKDISCONNECT.TITLE.VERSION_HANDSHAKE_FAILED"
+msgid "Version Mismatch"
+msgstr "Las versiones no coinciden"
+
+#. UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_ARNBETA
+msgctxt "UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_ARNBETA"
+msgid "A New Reign Beta"
+msgstr "Beta de A New Reign"
+
+#. UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_OLD_CLIENT
+msgctxt "UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_OLD_CLIENT"
+msgid "Version Mismatch"
+msgstr "Las versiones no coinciden"
+
+#. UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_OLD_SERVER
+msgctxt "UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_OLD_SERVER"
+msgid "Version Mismatch"
+msgstr "Las versiones no coinciden"
+
+#. UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_PUBLIC_BETA
+msgctxt "UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_PUBLIC_BETA"
+msgid "Public Beta Server"
+msgstr "Servidor beta público"
+
+#. UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_ROTBETA
+msgctxt "UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_ROTBETA"
+msgid "Return of Them Beta"
+msgstr "Beta de El Regreso de los Antiguos"
+
+#. UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_UPDATEBETA
+msgctxt "UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_UPDATEBETA"
+msgid "Beta Branch"
+msgstr ""
+

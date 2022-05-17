@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.NOTIFICATION.BANNEDFROMGAME
+msgctxt "UI.NOTIFICATION.BANNEDFROMGAME"
+msgid "%s was banned from the game."
+msgstr "%s 被禁止玩此游戏。"
+
+#. UI.NOTIFICATION.CHECK_DAILY_GIFT
+msgctxt "UI.NOTIFICATION.CHECK_DAILY_GIFT"
+msgid "Checking for daily gifts"
+msgstr "正在检查每日礼物"
+
+#. UI.NOTIFICATION.CHECK_EVENT
+msgctxt "UI.NOTIFICATION.CHECK_EVENT"
+msgid "Catching up on current events"
+msgstr "检查活动中"
+
+#. UI.NOTIFICATION.CHECK_INVENTORY
+msgctxt "UI.NOTIFICATION.CHECK_INVENTORY"
+msgid "Updating inventory"
+msgstr "正在更新背包"
+
+#. UI.NOTIFICATION.CHECK_KEYVALUESTORES
+msgctxt "UI.NOTIFICATION.CHECK_KEYVALUESTORES"
+msgid "Grabbing profile details"
+msgstr "正在获取档案详情"
+
+#. UI.NOTIFICATION.CHECK_SHOP
+msgctxt "UI.NOTIFICATION.CHECK_SHOP"
+msgid "Updating the shop"
+msgstr "正在更新商城"
+
+#. UI.NOTIFICATION.CONNECTING
+msgctxt "UI.NOTIFICATION.CONNECTING"
+msgid "Connecting"
+msgstr "连接中"
+
+#. UI.NOTIFICATION.CURRENTLY_SPEAKING
+msgctxt "UI.NOTIFICATION.CURRENTLY_SPEAKING"
+msgid "Currently Speaking..."
+msgstr "正在说话……"
+
+#. UI.NOTIFICATION.DEFAULTVOTEFAILEDFMT
+msgctxt "UI.NOTIFICATION.DEFAULTVOTEFAILEDFMT"
+msgid "The %s has failed."
+msgstr "%s 已经失败。"
+
+#. UI.NOTIFICATION.DEFAULTVOTENAMEFMT
+msgctxt "UI.NOTIFICATION.DEFAULTVOTENAMEFMT"
+msgid "vote"
+msgstr "投票"
+
+#. UI.NOTIFICATION.DEFAULTVOTEPASSEDFMT
+msgctxt "UI.NOTIFICATION.DEFAULTVOTEPASSEDFMT"
+msgid "The %s has passed."
+msgstr "%s 已通过。"
+
+#. UI.NOTIFICATION.DICEROLLED
+msgctxt "UI.NOTIFICATION.DICEROLLED"
+msgid "%s rolls %s (1-%i)"
+msgstr "%s 投出 %s（1-%i）"
+
+#. UI.NOTIFICATION.DISCONNECT_CONTROLLER
+msgctxt "UI.NOTIFICATION.DISCONNECT_CONTROLLER"
+msgid " to Disconnect"
+msgstr "以断开"
+
+#. UI.NOTIFICATION.DISCONNECT_KB
+msgctxt "UI.NOTIFICATION.DISCONNECT_KB"
+msgid ") to Disconnect"
+msgstr "）断开连接"
+
+#. UI.NOTIFICATION.INITIALIZING_SERVER
+msgctxt "UI.NOTIFICATION.INITIALIZING_SERVER"
+msgid "Initializing Server"
+msgstr "服务器初始化中"
+
+#. UI.NOTIFICATION.JOINEDGAME
+msgctxt "UI.NOTIFICATION.JOINEDGAME"
+msgid "%s has joined the game."
+msgstr "%s 已经加入游戏。"
+
+#. UI.NOTIFICATION.KICKEDFROMGAME
+msgctxt "UI.NOTIFICATION.KICKEDFROMGAME"
+msgid "%s was kicked from the game."
+msgstr "%s 被踢出游戏。"
+
+#. UI.NOTIFICATION.LAUNCHING_SERVER
+msgctxt "UI.NOTIFICATION.LAUNCHING_SERVER"
+msgid "Launching Server"
+msgstr "正在启动服务器"
+
+#. UI.NOTIFICATION.LEFTGAME
+msgctxt "UI.NOTIFICATION.LEFTGAME"
+msgid "%s has left the game."
+msgstr "%s 已经离开游戏。"
+
+#. UI.NOTIFICATION.LOADING
+msgctxt "UI.NOTIFICATION.LOADING"
+msgid "Loading"
+msgstr "正在加载"
+
+#. UI.NOTIFICATION.LOGIN
+msgctxt "UI.NOTIFICATION.LOGIN"
+msgid "Logging in"
+msgstr "登录中"
+
+#. UI.NOTIFICATION.NEW_SKIN_ANNOUNCEMENT
+msgctxt "UI.NOTIFICATION.NEW_SKIN_ANNOUNCEMENT"
+msgid "%s got a new skin: "
+msgstr "%s 获得新皮肤："
+
+#. UI.NOTIFICATION.PRESS_CONTROLLER
+msgctxt "UI.NOTIFICATION.PRESS_CONTROLLER"
+msgid "Press "
+msgstr "按"
+
+#. UI.NOTIFICATION.PRESS_KB
+msgctxt "UI.NOTIFICATION.PRESS_KB"
+msgid "Press ("
+msgstr "按（"
+
+#. UI.NOTIFICATION.RESTORING
+msgctxt "UI.NOTIFICATION.RESTORING"
+msgid "Restoring Backup"
+msgstr "正在恢复备份"
+
+#. UI.NOTIFICATION.RETRYING
+msgctxt "UI.NOTIFICATION.RETRYING"
+msgid "Retrying"
+msgstr "重试中"
+
+#. UI.NOTIFICATION.SERVER_WORLDGEN
+msgctxt "UI.NOTIFICATION.SERVER_WORLDGEN"
+msgid "Server is Generating World"
+msgstr "服务器正在生成世界。"
+
+#. UI.NOTIFICATION.WORLDGENERATING_SERVER
+msgctxt "UI.NOTIFICATION.WORLDGENERATING_SERVER"
+msgid "Generating World"
+msgstr "正在生成世界"
+

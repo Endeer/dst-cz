@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.random
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.random"
+msgid "\nSelect a random survivor"
+msgstr "\n生存者をランダムに選択"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.walter
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.walter"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "*プレースホルダー\n\n\n\n得意分野：\nプレースホルダー"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.wanda
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.wanda"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "*プレースホルダー\n\n\n\n得意分野：\nプレースホルダー"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.warly
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.warly"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "*プレースホルダー\n\n\n\n得意分野：\nプレースホルダー"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.wathgrithr
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.wathgrithr"
+msgid "*Harvests an extra meat when slaughtering Beefalo\n\n\n*Expertise:\nGathering"
+msgstr "*ビーファローを屠殺するときに追加の肉を獲得する\n\n\n*得意分野：\n収集"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.waxwell
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.waxwell"
+msgid "*Summons a Shadow Logger\n\n\n\n*Expertise:\nGathering"
+msgstr "*シャドウカッターを召喚する\n\n\n\n*得意分野：\n収集"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.webber
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.webber"
+msgid "*Sows seeds and harvests plants much more quickly\n\n\n*Expertise:\nFarming"
+msgstr "種まきと植物の収穫の速度がが大幅に上がる\n\n\n*得意分野：\n農業"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.wendy
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.wendy"
+msgid "*Improves nearby Grill efficiency\n\n\n\n*Expertise:\nCooking"
+msgstr "*近くにあるグリルの効率を上げる\n\n\n\n*得意分野：\n料理"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.wes
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.wes"
+msgid "*Expert haggler\n\n\n\n*Expertise:\nShopping"
+msgstr "*値引き交渉の達人\n\n\n\n*専門分野：\n買い物"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.wickerbottom
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.wickerbottom"
+msgid "*Has just the book for the occasion\n*Inspects food to determine if it matches the Gnaw's craving\n\n*Expertise:\nFarming"
+msgstr "*現状に最適な本を持っている\n*食べ物を調べてノウの求めているものと一致するか判断できる\n\n*得意分野：\n農業"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.willow
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.willow"
+msgid "*Logs burn longer on the fire\n\n\n\n*Expertise:\nCooking"
+msgstr "*火にくべた薪が長持ちする\n\n\n\n*得意分野：\n料理"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.wilson
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.wilson"
+msgid "*Improves nearby Cookpot efficiency\n*Inspects food to determine if it matches the Gnaw's craving\n\n*Expertise:\nCooking"
+msgstr "*近くにある料理鍋の効率を上げる\n*食べ物を調べてノウの求めているものと一致するか判断できる\n\n*得意分野：\n料理"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.winona
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.winona"
+msgid "*Performs most actions slightly faster\n\n\n\n*Expertise:\nFarming"
+msgstr "*大半のアクションを少し速く実行する\n\n\n\n*得意分野：\n農業"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.wolfgang
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.wolfgang"
+msgid "*Improves nearby Oven efficiency\n\n\n\n*Expertise:\nCooking"
+msgstr "*近くにあるオーブンの効率を上げる\n\n\n\n*得意分野：\n料理"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.woodie
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.woodie"
+msgid "*Chops wood more quickly\n\n\n\n*Expertise:\nGathering"
+msgstr "*薪を割るのが速くなる\n\n\n\n*得意分野：\n収集"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.woodie_canada
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.woodie_canada"
+msgid "*Chops wood more quickly\n\n\n\n*Expertise:\nGathering"
+msgstr "*薪を割るのが速くなる\n\n\n\n*得意分野：\n収集"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.woodie_us
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.woodie_us"
+msgid "*Chops wood more quickly\n\n\n\n*Expertise:\nGathering"
+msgstr "*薪を割るのが速くなる\n\n\n\n*得意分野：\n収集"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.wormwood
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.wormwood"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "*プレースホルダー\n\n\n\n得意分野：\nプレースホルダー"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.wortox
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.wortox"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "*プレースホルダー\n\n\n\n得意分野：\nプレースホルダー"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.wurt
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.wurt"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "*プレースホルダー\n\n\n\n得意分野：\nプレースホルダー"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.wx78
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.wx78"
+msgid "*Enhanced robotic runspeed\n\n\n\n*Expertise:\nGathering"
+msgstr "*ロボットの走行速度を強化する\n\n\n\n*得意分野：\n収集"
+
+#. QUAGMIRE_ELDER_TALK_BUY.1
+msgctxt "QUAGMIRE_ELDER_TALK_BUY.1"
+msgid "THANK-YOU. NOW LET ELDER REST."
+msgstr "ありがとう。長老もう寝る。"
+
+#. QUAGMIRE_ELDER_TALK_BUY.2
+msgctxt "QUAGMIRE_ELDER_TALK_BUY.2"
+msgid "YES. YOU GOOD GOAT."
+msgstr "ああ。オマエいいヤギだ。"
+
+#. QUAGMIRE_ELDER_TALK_BUY.3
+msgctxt "QUAGMIRE_ELDER_TALK_BUY.3"
+msgid "MAYBE NOW WE FIX HOUSES"
+msgstr "ワレワレ家、修理する"
+
+#. QUAGMIRE_ELDER_TALK_BUY.4
+msgctxt "QUAGMIRE_ELDER_TALK_BUY.4"
+msgid "THANK-YOU"
+msgstr "ありがとう"
+
+#. QUAGMIRE_ELDER_TALK_BUY.5
+msgctxt "QUAGMIRE_ELDER_TALK_BUY.5"
+msgid "ELDER'S EYE FEEL HEAVY"
+msgstr "長老、目が重い"
+
+#. QUAGMIRE_ELDER_TALK_BUY.6
+msgctxt "QUAGMIRE_ELDER_TALK_BUY.6"
+msgid "GOOD LUCK. WITH GNAW."
+msgstr "幸運祈る。ノウのこと。"
+
+#. QUAGMIRE_ELDER_TALK_BUY.7
+msgctxt "QUAGMIRE_ELDER_TALK_BUY.7"
+msgid "THANK-YOU, LITTLE GOAT."
+msgstr "ありがとう、ちっこいヤギ。"
+
+#. QUAGMIRE_ELDER_TALK_GREETING.1
+msgctxt "QUAGMIRE_ELDER_TALK_GREETING.1"
+msgid "HRF? YOU TRADE? SUPPLIES?"
+msgstr "ぶひっ？交換？供給品？"
+
+#. QUAGMIRE_ELDER_TALK_GREETING.2
+msgctxt "QUAGMIRE_ELDER_TALK_GREETING.2"
+msgid "HRF? SLEEP... GIVE ELDER NIGHTMARES"
+msgstr "ぶひっ？長老寝る…悪夢見る"
+
+#. QUAGMIRE_ELDER_TALK_GREETING.3
+msgctxt "QUAGMIRE_ELDER_TALK_GREETING.3"
+msgid "HRF! OUR HOMES DESTROYED"
+msgstr "ぶひっ！ワレワレの家壊された"
+
+#. QUAGMIRE_ELDER_TALK_GREETING.4
+msgctxt "QUAGMIRE_ELDER_TALK_GREETING.4"
+msgid "HRF! GNAW MAD AT PIGS"
+msgstr "ぶひっ！ノウ、ブタに怒ってる"
+
+#. QUAGMIRE_ELDER_TALK_GREETING.5
+msgctxt "QUAGMIRE_ELDER_TALK_GREETING.5"
+msgid "HRF! MOST GOATS NO HELP TO PIGS"
+msgstr "ぶひっ！ヤギ、あまりブタの役立たない"
+
+#. QUAGMIRE_ELDER_TALK_GREETING.6
+msgctxt "QUAGMIRE_ELDER_TALK_GREETING.6"
+msgid "HRF! WE NEED FIX HOUSES"
+msgstr "ぶひっ！家直す、必要"
+
+#. QUAGMIRE_ELDER_TALK_GREETING.7
+msgctxt "QUAGMIRE_ELDER_TALK_GREETING.7"
+msgid "HRF? ...WHAT LITTLE PIGS DO IF ELDER GONE?"
+msgstr "ぶひっ？…長老いなくなる、小さいブタ困る"
+
+#. QUAGMIRE_ELDER_TALK_SLEEP.1
+msgctxt "QUAGMIRE_ELDER_TALK_SLEEP.1"
+msgid "...HRUMPF..."
+msgstr "…ぶひひむにゃ…"
+
+#. QUAGMIRE_ELDER_TALK_SLEEP.2
+msgctxt "QUAGMIRE_ELDER_TALK_SLEEP.2"
+msgid "(SNORT) ...s...scales..."
+msgstr "ブフー…ウ…ウロコ…"
+
+#. QUAGMIRE_ELDER_TALK_SLEEP.3
+msgctxt "QUAGMIRE_ELDER_TALK_SLEEP.3"
+msgid "...p...plague..."
+msgstr "…エ…疫病…"
+
+#. QUAGMIRE_ELDER_TALK_SLEEP.4
+msgctxt "QUAGMIRE_ELDER_TALK_SLEEP.4"
+msgid "...zzzZZzzz..."
+msgstr "…ふごー…"
+
+#. QUAGMIRE_ELDER_TALK_SLEEP.5
+msgctxt "QUAGMIRE_ELDER_TALK_SLEEP.5"
+msgid "...g-GNAW..."
+msgstr "…ン…ノウ…"
+
+#. QUAGMIRE_ELDER_TALK_SLEEP.6
+msgctxt "QUAGMIRE_ELDER_TALK_SLEEP.6"
+msgid "...s-sky..."
+msgstr "…そ…空…"
+

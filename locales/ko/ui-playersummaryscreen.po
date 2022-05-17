@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.PLAYERSUMMARYSCREEN.CURRENCY_EXPLAIN
+msgctxt "UI.PLAYERSUMMARYSCREEN.CURRENCY_EXPLAIN"
+msgid "Items can be unraveled into Spools to weave special items."
+msgstr "아이템을 풀어서 실타래를 얻으면 특별 아이템을 직조할 수 있습니다."
+
+#. UI.PLAYERSUMMARYSCREEN.CURRENCY_LABEL
+msgctxt "UI.PLAYERSUMMARYSCREEN.CURRENCY_LABEL"
+msgid "Spools"
+msgstr "실타래"
+
+#. UI.PLAYERSUMMARYSCREEN.ENCOUNTER_COUNT_FMT
+msgctxt "UI.PLAYERSUMMARYSCREEN.ENCOUNTER_COUNT_FMT"
+msgid "Time played with: {time}"
+msgstr "게임한 시간: {time}"
+
+#. UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_BODY
+msgctxt "UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_BODY"
+msgid "Unfortunately you failed to download your item collection, would you like you try again?"
+msgstr "안타깝게도 아이템 컬렉션을 다운로드하지 못했습니다. 다시 시도하시겠습니까?"
+
+#. UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_NO
+msgctxt "UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_NO"
+msgid "No"
+msgstr "아니요"
+
+#. UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_TITLE
+msgctxt "UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_TITLE"
+msgid "Item Collection Download Failed"
+msgstr "아이템 컬렉션 다운로드 실패"
+
+#. UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_YES
+msgctxt "UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_YES"
+msgid "Yes"
+msgstr "예"
+
+#. UI.PLAYERSUMMARYSCREEN.FESTIVAL_HISTORY
+msgctxt "UI.PLAYERSUMMARYSCREEN.FESTIVAL_HISTORY"
+msgid "Through the Gateway"
+msgstr "관문 통과"
+
+#. UI.PLAYERSUMMARYSCREEN.GET_INVENTORY
+msgctxt "UI.PLAYERSUMMARYSCREEN.GET_INVENTORY"
+msgid "Downloading Item Collection"
+msgstr "아이템 컬렉션 다운로드 중"
+
+#. UI.PLAYERSUMMARYSCREEN.LEVEL_ACHIEVED_FMT
+msgctxt "UI.PLAYERSUMMARYSCREEN.LEVEL_ACHIEVED_FMT"
+msgid "{event_title} level accomplished:"
+msgstr "{event_title} 레벨 완료:"
+
+#. UI.PLAYERSUMMARYSCREEN.LOADING_STUFF
+msgctxt "UI.PLAYERSUMMARYSCREEN.LOADING_STUFF"
+msgid "Loading Discoveries..."
+msgstr "발견물 불러오는 중..."
+
+#. UI.PLAYERSUMMARYSCREEN.MOST_COMMON_DEATH
+msgctxt "UI.PLAYERSUMMARYSCREEN.MOST_COMMON_DEATH"
+msgid "Often Killed By"
+msgstr "흔한 사인:"
+
+#. UI.PLAYERSUMMARYSCREEN.MOST_COMMON_FRIEND
+msgctxt "UI.PLAYERSUMMARYSCREEN.MOST_COMMON_FRIEND"
+msgid "Friendliest Friend"
+msgstr "가장 착한 친구"
+
+#. UI.PLAYERSUMMARYSCREEN.MOST_COMMON_FRIENDS
+msgctxt "UI.PLAYERSUMMARYSCREEN.MOST_COMMON_FRIENDS"
+msgid "Friendliest Friends"
+msgstr "가장 친한 친구"
+
+#. UI.PLAYERSUMMARYSCREEN.NEW_STUFF
+msgctxt "UI.PLAYERSUMMARYSCREEN.NEW_STUFF"
+msgid "Recent Discoveries"
+msgstr "최근 발견물"
+
+#. UI.PLAYERSUMMARYSCREEN.NO_DEATHS
+msgctxt "UI.PLAYERSUMMARYSCREEN.NO_DEATHS"
+msgid "No survivor deaths on record."
+msgstr "기록된 생존자 죽음이 없습니다."
+
+#. UI.PLAYERSUMMARYSCREEN.NO_FRIENDS
+msgctxt "UI.PLAYERSUMMARYSCREEN.NO_FRIENDS"
+msgid "Play online and make some friends."
+msgstr "온라인으로 게임을 플레이하고 친구를 만드세요."
+
+#. UI.PLAYERSUMMARYSCREEN.NO_ITEMS
+msgctxt "UI.PLAYERSUMMARYSCREEN.NO_ITEMS"
+msgid "Start playing to earn items!"
+msgstr "게임을 플레이하여 아이템을 획득하세요!"
+
+#. UI.PLAYERSUMMARYSCREEN.OFFLINE_NO_ITEMS
+msgctxt "UI.PLAYERSUMMARYSCREEN.OFFLINE_NO_ITEMS"
+msgid "Log in to starting earning items."
+msgstr "로그인하여 아이템을 획득하세요."
+
+#. UI.PLAYERSUMMARYSCREEN.POINTS_LABEL
+msgctxt "UI.PLAYERSUMMARYSCREEN.POINTS_LABEL"
+msgid "Klei Points"
+msgstr "클레이 포인트"
+
+#. UI.PLAYERSUMMARYSCREEN.PURCHASE
+msgctxt "UI.PLAYERSUMMARYSCREEN.PURCHASE"
+msgid "Shop"
+msgstr "상점"
+
+#. UI.PLAYERSUMMARYSCREEN.TITLE
+msgctxt "UI.PLAYERSUMMARYSCREEN.TITLE"
+msgid "Item Collection"
+msgstr "아이템 컬렉션"
+
+#. UI.PLAYERSUMMARYSCREEN.TOOLTIP_HISTORY
+msgctxt "UI.PLAYERSUMMARYSCREEN.TOOLTIP_HISTORY"
+msgid "View missed connections and revisit past lives"
+msgstr "놓친 관계성 확인하고 지난 삶 다시 방문"
+
+#. UI.PLAYERSUMMARYSCREEN.TOOLTIP_MYSTERYBOX
+msgctxt "UI.PLAYERSUMMARYSCREEN.TOOLTIP_MYSTERYBOX"
+msgid "Open chests to receive new curios"
+msgstr "상자 열어서 새로운 골동품 받기"
+
+#. UI.PLAYERSUMMARYSCREEN.TOOLTIP_PURCHASE
+msgctxt "UI.PLAYERSUMMARYSCREEN.TOOLTIP_PURCHASE"
+msgid "Browse purchasable skin sets"
+msgstr "구매 가능한 스킨 세트 찾아보기"
+
+#. UI.PLAYERSUMMARYSCREEN.TOOLTIP_SKINS
+msgctxt "UI.PLAYERSUMMARYSCREEN.TOOLTIP_SKINS"
+msgid "View and equip your curios"
+msgstr "골동품 보기 및 장착"
+
+#. UI.PLAYERSUMMARYSCREEN.TOOLTIP_TRADE
+msgctxt "UI.PLAYERSUMMARYSCREEN.TOOLTIP_TRADE"
+msgid "Trade your old items in for something new!"
+msgstr "이전 아이템을 새로운 것으로 교환!"
+
+#. UI.PLAYERSUMMARYSCREEN.TRADING
+msgctxt "UI.PLAYERSUMMARYSCREEN.TRADING"
+msgid "Trade Inn"
+msgstr "물물교환소"
+
+#. UI.PLAYERSUMMARYSCREEN.UNOPENED_BOXES_FMT
+msgctxt "UI.PLAYERSUMMARYSCREEN.UNOPENED_BOXES_FMT"
+msgid "{num_boxes} unopened Chests"
+msgstr "미개봉 상자 {num_boxes}개"
+
+#. UI.PLAYERSUMMARYSCREEN.XP_LABEL
+msgctxt "UI.PLAYERSUMMARYSCREEN.XP_LABEL"
+msgid "XP Earned"
+msgstr "XP 획득"
+

@@ -1,0 +1,435 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.aggroheld
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.aggroheld"
+msgid "seconds with creatures' attention"
+msgstr "クリーチャーに注意を払っている秒数です"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.aggroheld2
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.aggroheld2"
+msgid "seconds with creatures' attention"
+msgstr "クリーチャーに注意を払っている秒数です"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.altattacks
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.altattacks"
+msgid "special attacks used"
+msgstr "特殊攻撃"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.attacks
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.attacks"
+msgid "swings landed"
+msgstr "着弾"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.blowdarts
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.blowdarts"
+msgid "darts hit their mark"
+msgstr "ダーツが的中します"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.blowdarts2
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.blowdarts2"
+msgid "darts hit their mark"
+msgstr "ダーツが的中します"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.corpsesrevived
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.corpsesrevived"
+msgid "allies revived"
+msgstr "復活した味方"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.deaths
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.deaths"
+msgid "deaths"
+msgstr "死亡者"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.guardsbroken
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.guardsbroken"
+msgid "enemy guards broken"
+msgstr "敵陣破れ"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.healingdone
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.healingdone"
+msgid "health restored"
+msgstr "健康回復"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.healingdone2
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.healingdone2"
+msgid "health restored"
+msgstr "健康回復"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.kills
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.kills"
+msgid "killing blows"
+msgstr "殺傷力"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.kills2
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.kills2"
+msgid "killing blows struck"
+msgstr "殺傷打撃"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.none
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.none"
+msgid "thanks for playing"
+msgstr "お疲れ様でした"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.numcc
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.numcc"
+msgid "enemies immobilized"
+msgstr "敵の動きが止まっています"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.spellscast
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.spellscast"
+msgid "spells cast"
+msgstr "呪文"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.standards
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.standards"
+msgid "battle standards destroyed"
+msgstr "壊滅戦"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.stepcounter
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.stepcounter"
+msgid "steps taken"
+msgstr "手段"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.total_damagedealt
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.total_damagedealt"
+msgid "damage dealt"
+msgstr "被ダメージ"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.total_damagedealt2
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.total_damagedealt2"
+msgid "damage dealt"
+msgstr "被ダメージ"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.total_damagetaken
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.total_damagetaken"
+msgid "damage taken"
+msgstr "被害"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.total_damagetaken2
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.total_damagetaken2"
+msgid "damage taken for the team"
+msgstr "チームダメージ"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.turtillusflips
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.turtillusflips"
+msgid "Snortoises flipped"
+msgstr "スノータスがひっくり返りました"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.NO_STAT_VALUE
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.NO_STAT_VALUE"
+msgid "-"
+msgstr "-"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.aggroheld
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.aggroheld"
+msgid "Distraction"
+msgstr "気晴らし"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.aggroheld2
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.aggroheld2"
+msgid "Expert Decoy"
+msgstr "エキスパートデコイ"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.altattacks
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.altattacks"
+msgid "Powerful"
+msgstr "パワフル"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.attacks
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.attacks"
+msgid "Combatant"
+msgstr "戦闘員"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.blowdarts
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.blowdarts"
+msgid "Sharpshooter"
+msgstr "シャープシューター"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.blowdarts2
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.blowdarts2"
+msgid "Ace Marksman"
+msgstr "エースマークスマン"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.corpsesrevived
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.corpsesrevived"
+msgid "Resurrector"
+msgstr "蘇生者"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.deaths
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.deaths"
+msgid "Reborn"
+msgstr "生まれ変わり"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.guardsbroken
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.guardsbroken"
+msgid "Breacher"
+msgstr "ブレイカー"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.healingdone
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.healingdone"
+msgid "Healer"
+msgstr "治療者"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.healingdone2
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.healingdone2"
+msgid "Doctor"
+msgstr "ドクター"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.kills
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.kills"
+msgid "Assassin"
+msgstr "暗殺者"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.kills2
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.kills2"
+msgid "Master Assassin"
+msgstr "マスター暗殺者"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.none
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.none"
+msgid "Participator!"
+msgstr "参加者の皆さん！"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.numcc
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.numcc"
+msgid "Immobilizer"
+msgstr "イモビライザー"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.spellscast
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.spellscast"
+msgid "Archmage"
+msgstr "弓術師"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.standards
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.standards"
+msgid "Vandal"
+msgstr "破壊者"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.stepcounter
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.stepcounter"
+msgid "Fast-Paced"
+msgstr "速いペース"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.total_damagedealt
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.total_damagedealt"
+msgid "Brawler"
+msgstr "ブローラー"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.total_damagedealt2
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.total_damagedealt2"
+msgid "Merciless"
+msgstr "無慈悲"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.total_damagetaken
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.total_damagetaken"
+msgid "Protector"
+msgstr "保護装置"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.total_damagetaken2
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.total_damagetaken2"
+msgid "Loyal Guardian"
+msgstr "ロイヤルガーディアン"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.turtillusflips
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.turtillusflips"
+msgid "Turtle Flipper"
+msgstr "タートルフリッパー"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.buys
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.buys"
+msgid "goods bought from traders"
+msgstr "商売道具"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.crops_farmed
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.crops_farmed"
+msgid "fresh crops farmed"
+msgstr "栽培されている新鮮な作物"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.crops_farmed2
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.crops_farmed2"
+msgid "fresh crops farmed"
+msgstr "栽培されている新鮮な作物"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.crops_picked
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.crops_picked"
+msgid "fresh crops picked"
+msgstr "収穫した新鮮な作物"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.crops_planted
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.crops_planted"
+msgid "fresh crops planted"
+msgstr "植えられた新鮮な作物"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.crops_rotten
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.crops_rotten"
+msgid "crops left to rot"
+msgstr "腐らせた作物"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.herbs_picked
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.herbs_picked"
+msgid "wild plants picked"
+msgstr "山菜採り"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.herbs_picked2
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.herbs_picked2"
+msgid "wild plants picked"
+msgstr "山菜採り"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.logs
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.logs"
+msgid "logs harvested"
+msgstr "伐採木"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.logs2
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.logs2"
+msgid "logs harvested"
+msgstr "伐採木"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_burnt
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_burnt"
+msgid "meals burnt to cinders"
+msgstr "焼け飯"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_burnt2
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_burnt2"
+msgid "meals burnt to cinders"
+msgstr "焼け飯"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_made
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_made"
+msgid "meals cooked"
+msgstr "炊事"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_made2
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_made2"
+msgid "meals cooked"
+msgstr "炊事"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_saved
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_saved"
+msgid "meals saved from the fire"
+msgstr "やけぐい"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_saved2
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_saved2"
+msgid "meals saved from the fire"
+msgstr "やけぐい"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.none
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.none"
+msgid "thanks for playing"
+msgstr "お疲れ様でした"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.stepcounter
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.stepcounter"
+msgid "steps taken"
+msgstr "手段"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.tributes
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.tributes"
+msgid "dishes sacrificed to the Altar"
+msgstr "祭壇料理"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.NO_STAT_VALUE
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.NO_STAT_VALUE"
+msgid "-"
+msgstr "-"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.buys
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.buys"
+msgid "Barterer"
+msgstr "バータラー"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.crops_farmed
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.crops_farmed"
+msgid "Farmhand"
+msgstr "ファームハンド"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.crops_farmed2
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.crops_farmed2"
+msgid "Greenthumb"
+msgstr "グリーンサム"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.crops_picked
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.crops_picked"
+msgid "Harvester"
+msgstr "収穫機"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.crops_planted
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.crops_planted"
+msgid "Sower"
+msgstr "草刈り機"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.crops_rotten
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.crops_rotten"
+msgid "Composter"
+msgstr "コンポスター"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.herbs_picked
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.herbs_picked"
+msgid "Forager"
+msgstr "フォレイジャー"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.herbs_picked2
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.herbs_picked2"
+msgid "Master Gatherer"
+msgstr "マスターギャザー"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.logs
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.logs"
+msgid "Lumberjack"
+msgstr "木こり"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.logs2
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.logs2"
+msgid "Clearcutter"
+msgstr "清掃機"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_burnt
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_burnt"
+msgid "Overcooker"
+msgstr "炊飯器"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_burnt2
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_burnt2"
+msgid "Kitchen Disaster"
+msgstr "台所災害"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_made
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_made"
+msgid "Sous Chef"
+msgstr "料理長"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_made2
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_made2"
+msgid "Master Chef"
+msgstr "マスターシェフ"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_saved
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_saved"
+msgid "Meal Saver"
+msgstr "ミールセーバー"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_saved2
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_saved2"
+msgid "Kitchen Rescuer"
+msgstr "キッチンレスキュー"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.none
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.none"
+msgid "Participator!"
+msgstr "参加者の皆さん！"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.stepcounter
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.stepcounter"
+msgid "Fast-Paced"
+msgstr "速いペース"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.tributes
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.tributes"
+msgid "Gnaw Worshipper"
+msgstr "ノウ信者"
+

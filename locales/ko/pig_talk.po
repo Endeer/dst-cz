@@ -1,0 +1,395 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. PIG_TALK_ATTEMPT_TRADE.1
+msgctxt "PIG_TALK_ATTEMPT_TRADE.1"
+msgid "WHAT YOU GOT?"
+msgstr "좋은 물건 있어?"
+
+#. PIG_TALK_ATTEMPT_TRADE.2
+msgctxt "PIG_TALK_ATTEMPT_TRADE.2"
+msgid "BETTER BE GOOD."
+msgstr "괜찮은 물건 원해."
+
+#. PIG_TALK_CONTEST_OOOH.1
+msgctxt "PIG_TALK_CONTEST_OOOH.1"
+msgid "OOOH"
+msgstr "오오"
+
+#. PIG_TALK_CONTEST_OOOH.2
+msgctxt "PIG_TALK_CONTEST_OOOH.2"
+msgid "WOW"
+msgstr "와아"
+
+#. PIG_TALK_CONTEST_OOOH.3
+msgctxt "PIG_TALK_CONTEST_OOOH.3"
+msgid "IS BEAUTY"
+msgstr "아름다움"
+
+#. PIG_TALK_CONTEST_PANIC.1
+msgctxt "PIG_TALK_CONTEST_PANIC.1"
+msgid "MUST CHOOSE!"
+msgstr "선택해야 해요!"
+
+#. PIG_TALK_CONTEST_PANIC.2
+msgctxt "PIG_TALK_CONTEST_PANIC.2"
+msgid "CHOICE HARD!"
+msgstr "어려운 선택입니다!"
+
+#. PIG_TALK_EAT_MEAT.1
+msgctxt "PIG_TALK_EAT_MEAT.1"
+msgid "NOM NOM NOM"
+msgstr "냠냠냠"
+
+#. PIG_TALK_EAT_MEAT.2
+msgctxt "PIG_TALK_EAT_MEAT.2"
+msgid "YUM!"
+msgstr "냠!"
+
+#. PIG_TALK_FIGHT.1
+msgctxt "PIG_TALK_FIGHT.1"
+msgid "I KILL NOW!"
+msgstr "지금 죽인다!"
+
+#. PIG_TALK_FIGHT.2
+msgctxt "PIG_TALK_FIGHT.2"
+msgid "YOU GO SMASH!"
+msgstr "너 짜부된다!"
+
+#. PIG_TALK_FIGHT.3
+msgctxt "PIG_TALK_FIGHT.3"
+msgid "RAAAWR!"
+msgstr "크르르렁!"
+
+#. PIG_TALK_FIND_LIGHT.1
+msgctxt "PIG_TALK_FIND_LIGHT.1"
+msgid "SCARY"
+msgstr "무서워"
+
+#. PIG_TALK_FIND_LIGHT.2
+msgctxt "PIG_TALK_FIND_LIGHT.2"
+msgid "NO LIKE DARK"
+msgstr "캄캄한 거 싫어"
+
+#. PIG_TALK_FIND_LIGHT.3
+msgctxt "PIG_TALK_FIND_LIGHT.3"
+msgid "WHERE IS SUN?"
+msgstr "해는 어디 갔지?"
+
+#. PIG_TALK_FIND_LIGHT.4
+msgctxt "PIG_TALK_FIND_LIGHT.4"
+msgid "STAY NEAR FIRE"
+msgstr "불에서 떨어지지 마"
+
+#. PIG_TALK_FIND_LIGHT.5
+msgctxt "PIG_TALK_FIND_LIGHT.5"
+msgid "FIRE IS GOOD"
+msgstr "불 좋아"
+
+#. PIG_TALK_FIND_MEAT.1
+msgctxt "PIG_TALK_FIND_MEAT.1"
+msgid "ME HUNGRY!"
+msgstr "나 배고파!"
+
+#. PIG_TALK_FIND_MEAT.2
+msgctxt "PIG_TALK_FIND_MEAT.2"
+msgid "YUM!"
+msgstr "냠!"
+
+#. PIG_TALK_FIND_MEAT.3
+msgctxt "PIG_TALK_FIND_MEAT.3"
+msgid "I EAT FOOD!"
+msgstr "나 밥 먹는다!"
+
+#. PIG_TALK_FIND_MEAT.4
+msgctxt "PIG_TALK_FIND_MEAT.4"
+msgid "TIME FOR FOOD!"
+msgstr "밥 시간!"
+
+#. PIG_TALK_FOLLOWWILSON.1
+msgctxt "PIG_TALK_FOLLOWWILSON.1"
+msgid "YOU FRIEND"
+msgstr "너 친구"
+
+#. PIG_TALK_FOLLOWWILSON.2
+msgctxt "PIG_TALK_FOLLOWWILSON.2"
+msgid "I LOVE FRIEND"
+msgstr "나 친구 사랑"
+
+#. PIG_TALK_FOLLOWWILSON.3
+msgctxt "PIG_TALK_FOLLOWWILSON.3"
+msgid "YOU IS GOOD"
+msgstr "너 좋아"
+
+#. PIG_TALK_FOLLOWWILSON.4
+msgctxt "PIG_TALK_FOLLOWWILSON.4"
+msgid "I FOLLOW!"
+msgstr "쫓아갈래!"
+
+#. PIG_TALK_GAME_CHEER.1
+msgctxt "PIG_TALK_GAME_CHEER.1"
+msgid "SMASH! SMASH!"
+msgstr "쳐라! 쳐라!"
+
+#. PIG_TALK_GAME_CHEER.2
+msgctxt "PIG_TALK_GAME_CHEER.2"
+msgid "BASH!"
+msgstr "덮쳐!"
+
+#. PIG_TALK_GAME_CHEER.3
+msgctxt "PIG_TALK_GAME_CHEER.3"
+msgid "GO PIGS!"
+msgstr "돼지 만세!"
+
+#. PIG_TALK_GAME_CHEER.4
+msgctxt "PIG_TALK_GAME_CHEER.4"
+msgid "RAAAWR!"
+msgstr "크르르렁!"
+
+#. PIG_TALK_GAME_CHEER.5
+msgctxt "PIG_TALK_GAME_CHEER.5"
+msgid "YOU STINK!"
+msgstr "너 냄새 나!"
+
+#. PIG_TALK_GAME_CHEER.6
+msgctxt "PIG_TALK_GAME_CHEER.6"
+msgid "GET GOLD!"
+msgstr "금 챙겨!"
+
+#. PIG_TALK_GAME_CHEER.7
+msgctxt "PIG_TALK_GAME_CHEER.7"
+msgid "BASH 'EM IN HEAD!"
+msgstr "머리 때려!"
+
+#. PIG_TALK_GAME_GOTO.1
+msgctxt "PIG_TALK_GAME_GOTO.1"
+msgid "IT STARTING!"
+msgstr "시작한다!"
+
+#. PIG_TALK_GAME_GOTO.2
+msgctxt "PIG_TALK_GAME_GOTO.2"
+msgid "THIS MY FAVORITE!"
+msgstr "내가 좋아하는 것!"
+
+#. PIG_TALK_GAME_GOTO.3
+msgctxt "PIG_TALK_GAME_GOTO.3"
+msgid "YAY!"
+msgstr "만세!"
+
+#. PIG_TALK_GIVE_GIFT.1
+msgctxt "PIG_TALK_GIVE_GIFT.1"
+msgid "YOU HAVE THIS"
+msgstr "너 가져"
+
+#. PIG_TALK_GIVE_GIFT.2
+msgctxt "PIG_TALK_GIVE_GIFT.2"
+msgid "FOR FRIEND"
+msgstr "친구 거야"
+
+#. PIG_TALK_GO_HOME.1
+msgctxt "PIG_TALK_GO_HOME.1"
+msgid "HOME TIME!"
+msgstr "집 시간!"
+
+#. PIG_TALK_GO_HOME.2
+msgctxt "PIG_TALK_GO_HOME.2"
+msgid "HOME! HOME!"
+msgstr "집! 집!"
+
+#. PIG_TALK_HELP_CHOP_WOOD.1
+msgctxt "PIG_TALK_HELP_CHOP_WOOD.1"
+msgid "KILL TREE!"
+msgstr "나무 죽여!"
+
+#. PIG_TALK_HELP_CHOP_WOOD.2
+msgctxt "PIG_TALK_HELP_CHOP_WOOD.2"
+msgid "SMASH MEAN TREE!"
+msgstr "못된 나무 부숴!"
+
+#. PIG_TALK_HELP_CHOP_WOOD.3
+msgctxt "PIG_TALK_HELP_CHOP_WOOD.3"
+msgid "I PUNCH TREE!"
+msgstr "주먹으로 나무 쳐!"
+
+#. PIG_TALK_LOOKATWILSON.1
+msgctxt "PIG_TALK_LOOKATWILSON.1"
+msgid "WHO ARE YOU?"
+msgstr "너 누구야?"
+
+#. PIG_TALK_LOOKATWILSON.2
+msgctxt "PIG_TALK_LOOKATWILSON.2"
+msgid "YOU NOT PIG"
+msgstr "너 돼지 아냐"
+
+#. PIG_TALK_LOOKATWILSON.3
+msgctxt "PIG_TALK_LOOKATWILSON.3"
+msgid "YOU HAS MEAT?"
+msgstr "너 고기 있어?"
+
+#. PIG_TALK_MISC_GAME_CHEER.1
+msgctxt "PIG_TALK_MISC_GAME_CHEER.1"
+msgid "GO! GO! GO!"
+msgstr "어서요! 어서! 어서!"
+
+#. PIG_TALK_MISC_GAME_CHEER.2
+msgctxt "PIG_TALK_MISC_GAME_CHEER.2"
+msgid "SNORT!"
+msgstr "킁킁!"
+
+#. PIG_TALK_MISC_GAME_GOTO.1
+msgctxt "PIG_TALK_MISC_GAME_GOTO.1"
+msgid "IT STARTING!"
+msgstr "시작한다!"
+
+#. PIG_TALK_MISC_GAME_GOTO.2
+msgctxt "PIG_TALK_MISC_GAME_GOTO.2"
+msgid "OUT OF MY WAY!"
+msgstr "비켜주세요!"
+
+#. PIG_TALK_MISC_GAME_GOTO.3
+msgctxt "PIG_TALK_MISC_GAME_GOTO.3"
+msgid "YAY!"
+msgstr "만세!"
+
+#. PIG_TALK_PANIC.1
+msgctxt "PIG_TALK_PANIC.1"
+msgid "NOOOOO!"
+msgstr "안 돼애애애!"
+
+#. PIG_TALK_PANIC.2
+msgctxt "PIG_TALK_PANIC.2"
+msgid "TOO DARK! TOO DARK!"
+msgstr "너무 어두워! 너무 어두워!"
+
+#. PIG_TALK_PANIC.3
+msgctxt "PIG_TALK_PANIC.3"
+msgid "AAAAAAAAAH!!"
+msgstr "아아아아악!!"
+
+#. PIG_TALK_PANICBOSS.1
+msgctxt "PIG_TALK_PANICBOSS.1"
+msgid "AHHHH"
+msgstr "으아아아"
+
+#. PIG_TALK_PANICBOSS.2
+msgctxt "PIG_TALK_PANICBOSS.2"
+msgid "UH OH!"
+msgstr "이런!"
+
+#. PIG_TALK_PANICBOSS.3
+msgctxt "PIG_TALK_PANICBOSS.3"
+msgid "ME SCARED"
+msgstr "나 무서워"
+
+#. PIG_TALK_PANICBOSS.4
+msgctxt "PIG_TALK_PANICBOSS.4"
+msgid "BAD!"
+msgstr "나빠!"
+
+#. PIG_TALK_PANICBOSS.5
+msgctxt "PIG_TALK_PANICBOSS.5"
+msgid "OHHH!"
+msgstr "아아아!"
+
+#. PIG_TALK_PANICFIRE.1
+msgctxt "PIG_TALK_PANICFIRE.1"
+msgid "HOT HOT HOT!"
+msgstr "뜨거 뜨거 뜨거!"
+
+#. PIG_TALK_PANICFIRE.2
+msgctxt "PIG_TALK_PANICFIRE.2"
+msgid "OWWWWW!"
+msgstr "아야야야!"
+
+#. PIG_TALK_PANICFIRE.3
+msgctxt "PIG_TALK_PANICFIRE.3"
+msgid "IT BURNS!"
+msgstr "뜨거워!"
+
+#. PIG_TALK_PANICHAUNT.1
+msgctxt "PIG_TALK_PANICHAUNT.1"
+msgid "SPOOKY!"
+msgstr "무서워!"
+
+#. PIG_TALK_PANICHAUNT.2
+msgctxt "PIG_TALK_PANICHAUNT.2"
+msgid "AAAAH!!"
+msgstr "아악!"
+
+#. PIG_TALK_PANICHAUNT.3
+msgctxt "PIG_TALK_PANICHAUNT.3"
+msgid "A GHOST! A GHOST!"
+msgstr "유령이다! 유령이다!"
+
+#. PIG_TALK_PANICHOUSEFIRE.1
+msgctxt "PIG_TALK_PANICHOUSEFIRE.1"
+msgid "HOUSE BURNS!"
+msgstr "집 타!"
+
+#. PIG_TALK_PANICHOUSEFIRE.2
+msgctxt "PIG_TALK_PANICHOUSEFIRE.2"
+msgid "MY STUFF!"
+msgstr "내 물건!"
+
+#. PIG_TALK_PANICHOUSEFIRE.3
+msgctxt "PIG_TALK_PANICHOUSEFIRE.3"
+msgid "AAAH! FIRE!"
+msgstr "아악! 불!"
+
+#. PIG_TALK_PANICHOUSEFIRE.4
+msgctxt "PIG_TALK_PANICHOUSEFIRE.4"
+msgid "PANIC!"
+msgstr "어떡해!"
+
+#. PIG_TALK_RESCUE.1
+msgctxt "PIG_TALK_RESCUE.1"
+msgid "I HELP YOU!"
+msgstr "내가 너 도와!"
+
+#. PIG_TALK_RESCUE.2
+msgctxt "PIG_TALK_RESCUE.2"
+msgid "OOH! OOH!"
+msgstr "읏차! 읏차!"
+
+#. PIG_TALK_RESCUE.3
+msgctxt "PIG_TALK_RESCUE.3"
+msgid "ME HELP!"
+msgstr "나 도울게!"
+
+#. PIG_TALK_RUNAWAY_WILSON.1
+msgctxt "PIG_TALK_RUNAWAY_WILSON.1"
+msgid "TOO CLOSE!"
+msgstr "너무 가까워!"
+
+#. PIG_TALK_RUNAWAY_WILSON.2
+msgctxt "PIG_TALK_RUNAWAY_WILSON.2"
+msgid "STAY AWAY!"
+msgstr "저리 가!"
+
+#. PIG_TALK_RUNAWAY_WILSON.3
+msgctxt "PIG_TALK_RUNAWAY_WILSON.3"
+msgid "YOU BACK OFF!"
+msgstr "너, 저리 가!"
+
+#. PIG_TALK_RUNAWAY_WILSON.4
+msgctxt "PIG_TALK_RUNAWAY_WILSON.4"
+msgid "THAT MY SPACE."
+msgstr "내 자리야."
+
+#. PIG_TALK_RUN_FROM_SPIDER.1
+msgctxt "PIG_TALK_RUN_FROM_SPIDER.1"
+msgid "SPIDER BAD!"
+msgstr "거미 나빠!"
+
+#. PIG_TALK_RUN_FROM_SPIDER.2
+msgctxt "PIG_TALK_RUN_FROM_SPIDER.2"
+msgid "NO LIKE SPIDER!"
+msgstr "거미 싫어!"
+
+#. PIG_TALK_RUN_FROM_SPIDER.3
+msgctxt "PIG_TALK_RUN_FROM_SPIDER.3"
+msgid "SCARY SPIDER!"
+msgstr "거미 무서워!"
+

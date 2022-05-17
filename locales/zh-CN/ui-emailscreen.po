@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.EMAILSCREEN.APR
+msgctxt "UI.EMAILSCREEN.APR"
+msgid "Apr"
+msgstr "4月"
+
+#. UI.EMAILSCREEN.AUG
+msgctxt "UI.EMAILSCREEN.AUG"
+msgid "Aug"
+msgstr "8月"
+
+#. UI.EMAILSCREEN.BIRTHDAY
+msgctxt "UI.EMAILSCREEN.BIRTHDAY"
+msgid "Birthdate:"
+msgstr "出生日期："
+
+#. UI.EMAILSCREEN.BIRTHDAYREASON
+msgctxt "UI.EMAILSCREEN.BIRTHDAYREASON"
+msgid "We need to know your birthdate in order to send age appropriate updates!\nDon't worry, we won't spam you or sell your information."
+msgstr "我们需要知道你的出生日期，以便向你发送适合你年龄的更新！\r\n别担心，我们不会向你发送垃圾邮件或出售你的信息。"
+
+#. UI.EMAILSCREEN.CANCEL
+msgctxt "UI.EMAILSCREEN.CANCEL"
+msgid "Cancel"
+msgstr "取消"
+
+#. UI.EMAILSCREEN.DAY
+msgctxt "UI.EMAILSCREEN.DAY"
+msgid "D"
+msgstr "日期"
+
+#. UI.EMAILSCREEN.DEC
+msgctxt "UI.EMAILSCREEN.DEC"
+msgid "Dec"
+msgstr "12月"
+
+#. UI.EMAILSCREEN.EMAIL
+msgctxt "UI.EMAILSCREEN.EMAIL"
+msgid "Email:"
+msgstr "电子邮件："
+
+#. UI.EMAILSCREEN.FEB
+msgctxt "UI.EMAILSCREEN.FEB"
+msgid "Feb"
+msgstr "2月"
+
+#. UI.EMAILSCREEN.INVALIDDATE
+msgctxt "UI.EMAILSCREEN.INVALIDDATE"
+msgid "We need to know your birthdate in order to send age appropriate updates!"
+msgstr "我们需要知道你的生日，以便发送适合年龄的更新！"
+
+#. UI.EMAILSCREEN.INVALIDDATETITLE
+msgctxt "UI.EMAILSCREEN.INVALIDDATETITLE"
+msgid "Invalid Date"
+msgstr "日期无效"
+
+#. UI.EMAILSCREEN.INVALIDEMAIL
+msgctxt "UI.EMAILSCREEN.INVALIDEMAIL"
+msgid "If you don't enter your email address, we won't be able to tell you about new stuff!"
+msgstr "如果你不输入电子邮件地址，我们就没办法告诉你最新情况了！"
+
+#. UI.EMAILSCREEN.INVALIDEMAILTITLE
+msgctxt "UI.EMAILSCREEN.INVALIDEMAILTITLE"
+msgid "Invalid Email"
+msgstr "电子邮件无效"
+
+#. UI.EMAILSCREEN.JAN
+msgctxt "UI.EMAILSCREEN.JAN"
+msgid "Jan"
+msgstr "1月"
+
+#. UI.EMAILSCREEN.JUL
+msgctxt "UI.EMAILSCREEN.JUL"
+msgid "Jul"
+msgstr "7月"
+
+#. UI.EMAILSCREEN.JUN
+msgctxt "UI.EMAILSCREEN.JUN"
+msgid "Jun"
+msgstr "6月"
+
+#. UI.EMAILSCREEN.MAR
+msgctxt "UI.EMAILSCREEN.MAR"
+msgid "Mar"
+msgstr "3月"
+
+#. UI.EMAILSCREEN.MAY
+msgctxt "UI.EMAILSCREEN.MAY"
+msgid "May"
+msgstr "5月"
+
+#. UI.EMAILSCREEN.MONTH
+msgctxt "UI.EMAILSCREEN.MONTH"
+msgid "M"
+msgstr "月份"
+
+#. UI.EMAILSCREEN.NOV
+msgctxt "UI.EMAILSCREEN.NOV"
+msgid "Nov"
+msgstr "11月"
+
+#. UI.EMAILSCREEN.OCT
+msgctxt "UI.EMAILSCREEN.OCT"
+msgid "Oct"
+msgstr "10月"
+
+#. UI.EMAILSCREEN.OK
+msgctxt "UI.EMAILSCREEN.OK"
+msgid "Ok"
+msgstr "确定"
+
+#. UI.EMAILSCREEN.SEP
+msgctxt "UI.EMAILSCREEN.SEP"
+msgid "Sep"
+msgstr "9月"
+
+#. UI.EMAILSCREEN.SIGNUPFAIL
+msgctxt "UI.EMAILSCREEN.SIGNUPFAIL"
+msgid "Looks like we had some trouble signing you up. Please try again later if you don't receive a confirmation email."
+msgstr "注册时似乎出了一点问题。如果你没有收到电子邮件确认信，请稍后重试。"
+
+#. UI.EMAILSCREEN.SIGNUPFAILTITLE
+msgctxt "UI.EMAILSCREEN.SIGNUPFAILTITLE"
+msgid "Something Went Wrong"
+msgstr "出错"
+
+#. UI.EMAILSCREEN.SIGNUPSUBMIT
+msgctxt "UI.EMAILSCREEN.SIGNUPSUBMIT"
+msgid "Please wait a moment while we sign you up."
+msgstr "正在注册，请等待。"
+
+#. UI.EMAILSCREEN.SIGNUPSUBMITTITLE
+msgctxt "UI.EMAILSCREEN.SIGNUPSUBMITTITLE"
+msgid "Sending..."
+msgstr "正在发送..."
+
+#. UI.EMAILSCREEN.SIGNUPSUCCESS
+msgctxt "UI.EMAILSCREEN.SIGNUPSUCCESS"
+msgid "Thanks for signing up! You should receive a confirmation email in your inbox."
+msgstr "感谢你注册！你的收件箱中应该有一封电子邮件确认信。"
+
+#. UI.EMAILSCREEN.SIGNUPSUCCESSTITLE
+msgctxt "UI.EMAILSCREEN.SIGNUPSUCCESSTITLE"
+msgid "Success!"
+msgstr "成功！"
+
+#. UI.EMAILSCREEN.SUBSCRIBE
+msgctxt "UI.EMAILSCREEN.SUBSCRIBE"
+msgid "Subscribe"
+msgstr "订阅"
+
+#. UI.EMAILSCREEN.TITLE
+msgctxt "UI.EMAILSCREEN.TITLE"
+msgid "Keep me updated with Don't Starve news"
+msgstr "随时向我发送《饥荒》的最新消息"
+
+#. UI.EMAILSCREEN.YEAR
+msgctxt "UI.EMAILSCREEN.YEAR"
+msgid "YYYY"
+msgstr "年份"
+

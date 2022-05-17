@@ -1,0 +1,330 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. BOARLORD_PLAYERDEATH_BANTER.1
+msgctxt "BOARLORD_PLAYERDEATH_BANTER.1"
+msgid "Ha!"
+msgstr "哈！"
+
+#. BOARLORD_PLAYERDEATH_BANTER.2
+msgctxt "BOARLORD_PLAYERDEATH_BANTER.2"
+msgid "You are unworthy."
+msgstr "你真不值。"
+
+#. BOARLORD_PLAYERDEATH_BANTER.3
+msgctxt "BOARLORD_PLAYERDEATH_BANTER.3"
+msgid "You never stood a chance."
+msgstr "你根本就没机会打赢。"
+
+#. BOARLORD_PLAYERDEATH_BANTER.4
+msgctxt "BOARLORD_PLAYERDEATH_BANTER.4"
+msgid "Ha ha!"
+msgstr "哈哈！"
+
+#. BOARLORD_PLAYERDEATH_BANTER.5
+msgctxt "BOARLORD_PLAYERDEATH_BANTER.5"
+msgid "Weak."
+msgstr "弱。"
+
+#. BOARLORD_PLAYERDEATH_BANTER.6
+msgctxt "BOARLORD_PLAYERDEATH_BANTER.6"
+msgid "We are stronger."
+msgstr "我们更强。"
+
+#. BOARLORD_PLAYERDEATH_BANTER.7
+msgctxt "BOARLORD_PLAYERDEATH_BANTER.7"
+msgid "Well struck!"
+msgstr "打得好！"
+
+#. BOARLORD_PLAYERS_DEFEATED_BATTLECRY.1
+msgctxt "BOARLORD_PLAYERS_DEFEATED_BATTLECRY.1"
+msgid "At last, our realm returns to glory!"
+msgstr "我们的王国终于伟大复兴！"
+
+#. BOARLORD_PLAYERS_DEFEATED_BATTLECRY.2
+msgctxt "BOARLORD_PLAYERS_DEFEATED_BATTLECRY.2"
+msgid "Warriors, rekindle the Gateway..."
+msgstr "勇士们，重新启动大门..."
+
+#. BOARLORD_PLAYERS_DEFEATED_BATTLECRY.3
+msgctxt "BOARLORD_PLAYERS_DEFEATED_BATTLECRY.3"
+msgid "Today we take the Throne!"
+msgstr "我们今天就登上王座！"
+
+#. BOARLORD_ROUND1_FIGHT_BANTER.1
+msgctxt "BOARLORD_ROUND1_FIGHT_BANTER.1"
+msgid "It's good to have a challenge once again!"
+msgstr "又有挑战了，很好！"
+
+#. BOARLORD_ROUND1_FIGHT_BANTER.2
+msgctxt "BOARLORD_ROUND1_FIGHT_BANTER.2"
+msgid "This should be fun."
+msgstr "应该很有意思。"
+
+#. BOARLORD_ROUND1_FIGHT_BANTER.3
+msgctxt "BOARLORD_ROUND1_FIGHT_BANTER.3"
+msgid "More pigs! Overwhelm them!"
+msgstr "再来些猪！战胜它们！"
+
+#. BOARLORD_ROUND1_FIGHT_BANTER.4
+msgctxt "BOARLORD_ROUND1_FIGHT_BANTER.4"
+msgid "More pigs!"
+msgstr "再多些猪！"
+
+#. BOARLORD_ROUND1_START.1
+msgctxt "BOARLORD_ROUND1_START.1"
+msgid "What have we here?"
+msgstr "看看我们这是什么？"
+
+#. BOARLORD_ROUND1_START.2
+msgctxt "BOARLORD_ROUND1_START.2"
+msgid "Gatekeepers? Ha! Have you come to return us to the Throne?"
+msgstr "守门人？哈！你们是来送我们回王座的吗？"
+
+#. BOARLORD_ROUND1_START.3
+msgctxt "BOARLORD_ROUND1_START.3"
+msgid "I am Battlemaster Pugna, and I protect what is mine."
+msgstr "我是战斗大师普格纳，我会守护我所拥有的一切。"
+
+#. BOARLORD_ROUND1_START.4
+msgctxt "BOARLORD_ROUND1_START.4"
+msgid "Warriors. Release the pigs!"
+msgstr "勇士们，放猪！"
+
+#. BOARLORD_ROUND2_FIGHT_BANTER.1
+msgctxt "BOARLORD_ROUND2_FIGHT_BANTER.1"
+msgid "For the Forge!"
+msgstr "为了熔炉！"
+
+#. BOARLORD_ROUND2_FIGHT_BANTER.2
+msgctxt "BOARLORD_ROUND2_FIGHT_BANTER.2"
+msgid "Give the Gatekeepers no quarter!"
+msgstr "绝不手下留情！"
+
+#. BOARLORD_ROUND2_FIGHT_BANTER.3
+msgctxt "BOARLORD_ROUND2_FIGHT_BANTER.3"
+msgid "Fly your banners proudly, warriors!"
+msgstr "让战旗在骄傲中飞扬，战士们！"
+
+#. BOARLORD_ROUND2_START.1
+msgctxt "BOARLORD_ROUND2_START.1"
+msgid "Impressive. You handled our foot soldiers with ease."
+msgstr "不错。竟然轻松应对了我们的步兵。"
+
+#. BOARLORD_ROUND2_START.2
+msgctxt "BOARLORD_ROUND2_START.2"
+msgid "But our battalions are trained to work together."
+msgstr "但是我们的部队集体配合，训练有素。"
+
+#. BOARLORD_ROUND2_START.3
+msgctxt "BOARLORD_ROUND2_START.3"
+msgid "Can you do the same? Crocommanders, to the ring!"
+msgstr "你也能做到吗？鳄鱼指挥官，上场！"
+
+#. BOARLORD_ROUND3_START.1
+msgctxt "BOARLORD_ROUND3_START.1"
+msgid "We've endured more here than you know."
+msgstr "我们在这历经考验。"
+
+#. BOARLORD_ROUND3_START.2
+msgctxt "BOARLORD_ROUND3_START.2"
+msgid "And as forging fires temper steel,"
+msgstr "如同熔炉的烈火锻出坚钢，"
+
+#. BOARLORD_ROUND3_START.3
+msgctxt "BOARLORD_ROUND3_START.3"
+msgid "Hardship has only made us stronger."
+msgstr "逆境只会让我们更加强大。"
+
+#. BOARLORD_ROUND3_START.4
+msgctxt "BOARLORD_ROUND3_START.4"
+msgid "Now, Snortoises. Attack!"
+msgstr "现在，坦克龟。进攻！"
+
+#. BOARLORD_ROUND4_FIGHT_BANTER.1
+msgctxt "BOARLORD_ROUND4_FIGHT_BANTER.1"
+msgid "End this now my warriors!"
+msgstr "勇士们，做个了断吧！"
+
+#. BOARLORD_ROUND4_FIGHT_BANTER.2
+msgctxt "BOARLORD_ROUND4_FIGHT_BANTER.2"
+msgid "We... cannot lose the Forge..."
+msgstr "我们...不能失去熔炉..."
+
+#. BOARLORD_ROUND4_PLAYER_VICTORY.1
+msgctxt "BOARLORD_ROUND4_PLAYER_VICTORY.1"
+msgid "No! How can this be?!"
+msgstr "不！怎么会这样？！"
+
+#. BOARLORD_ROUND4_PLAYER_VICTORY.2
+msgctxt "BOARLORD_ROUND4_PLAYER_VICTORY.2"
+msgid "You have defeated the mighty Boarilla!"
+msgstr "你们打败了强大的野猪猩！"
+
+#. BOARLORD_ROUND4_PLAYER_VICTORY.3
+msgctxt "BOARLORD_ROUND4_PLAYER_VICTORY.3"
+msgid "You may have won the battle, Gatekeepers... but not the war!"
+msgstr "守门人，你们只是赢了这一仗，但还没打赢这场战争！"
+
+#. BOARLORD_ROUND4_START.1
+msgctxt "BOARLORD_ROUND4_START.1"
+msgid "...Do you understand the forces you serve?"
+msgstr "...你们了解自己所侍奉的力量吗？"
+
+#. BOARLORD_ROUND4_START.2
+msgctxt "BOARLORD_ROUND4_START.2"
+msgid "They destroy all They touch..."
+msgstr "他们毁灭了他们所触碰到的一切..."
+
+#. BOARLORD_ROUND4_START.3
+msgctxt "BOARLORD_ROUND4_START.3"
+msgid "We were severed from the Throne, trapped in a realm of stone and fire!"
+msgstr "我们被夺去王座，囚禁在石与火的世界里！"
+
+#. BOARLORD_ROUND4_START.4
+msgctxt "BOARLORD_ROUND4_START.4"
+msgid "That is why we cannot let you win."
+msgstr "所以我们不能让你赢。"
+
+#. BOARLORD_ROUND4_TRAILS_INTRO.1
+msgctxt "BOARLORD_ROUND4_TRAILS_INTRO.1"
+msgid "Send in the Boarilla."
+msgstr "把野猪猩带上来。"
+
+#. BOARLORD_ROUND5_BOARRIOR_INTRO.1
+msgctxt "BOARLORD_ROUND5_BOARRIOR_INTRO.1"
+msgid "Grand Forge Boarrior!"
+msgstr "大熔炉猪战士！"
+
+#. BOARLORD_ROUND5_BOARRIOR_INTRO.2
+msgctxt "BOARLORD_ROUND5_BOARRIOR_INTRO.2"
+msgid "The ring is yours! Destroy them, my champion!"
+msgstr "你才是擂台的主宰！灭了它们，我的勇士！"
+
+#. BOARLORD_ROUND5_FIGHT_BANTER1.1
+msgctxt "BOARLORD_ROUND5_FIGHT_BANTER1.1"
+msgid "The Gatekeepers must not take the Forge!"
+msgstr "绝不能让守门人抢占熔炉！"
+
+#. BOARLORD_ROUND5_FIGHT_BANTER1.2
+msgctxt "BOARLORD_ROUND5_FIGHT_BANTER1.2"
+msgid "Drive the interlopers back!"
+msgstr "赶走闯入者！"
+
+#. BOARLORD_ROUND5_FIGHT_BANTER1.3
+msgctxt "BOARLORD_ROUND5_FIGHT_BANTER1.3"
+msgid "Do not hold back! Kill them!"
+msgstr "不要退缩！杀了他们！"
+
+#. BOARLORD_ROUND5_FIGHT_BANTER2.1
+msgctxt "BOARLORD_ROUND5_FIGHT_BANTER2.1"
+msgid "Why are the Gatekeepers still not dead?!"
+msgstr "守门人怎么还没死？！"
+
+#. BOARLORD_ROUND5_FIGHT_BANTER2.2
+msgctxt "BOARLORD_ROUND5_FIGHT_BANTER2.2"
+msgid "Destroy them!!"
+msgstr "灭了他们！！"
+
+#. BOARLORD_ROUND5_FIGHT_BANTER2.3
+msgctxt "BOARLORD_ROUND5_FIGHT_BANTER2.3"
+msgid "We will not live in the Throne's shadow!"
+msgstr "我们绝不活在王座的阴影中！"
+
+#. BOARLORD_ROUND5_PLAYER_VICTORY.1
+msgctxt "BOARLORD_ROUND5_PLAYER_VICTORY.1"
+msgid "What?! My champion!?!"
+msgstr "什么？！我的勇士！？！"
+
+#. BOARLORD_ROUND5_PLAYER_VICTORY.2
+msgctxt "BOARLORD_ROUND5_PLAYER_VICTORY.2"
+msgid "I see. You've demonstrated your might."
+msgstr "我明白了，你已经证明了你的强大。"
+
+#. BOARLORD_ROUND5_PLAYER_VICTORY.3
+msgctxt "BOARLORD_ROUND5_PLAYER_VICTORY.3"
+msgid "...But we will live to fight again!!"
+msgstr "...但我们仍会继续战斗！！"
+
+#. BOARLORD_ROUND5_START.1
+msgctxt "BOARLORD_ROUND5_START.1"
+msgid "Know this, Gatekeepers:"
+msgstr "守门人，听好了："
+
+#. BOARLORD_ROUND5_START.2
+msgctxt "BOARLORD_ROUND5_START.2"
+msgid "Once you are dead, we will activate the Gateway."
+msgstr "你们一死，我们就会激活大门。"
+
+#. BOARLORD_ROUND5_START.3
+msgctxt "BOARLORD_ROUND5_START.3"
+msgid "We'll return to the hub and destroy the Throne."
+msgstr "我们会回到中枢，摧毁王座。"
+
+#. BOARLORD_ROUND5_START.4
+msgctxt "BOARLORD_ROUND5_START.4"
+msgid "We will end this, once and for all."
+msgstr "我们会来个彻底的了断。"
+
+#. BOARLORD_ROUND6_PLAYER_VICTORY.1
+msgctxt "BOARLORD_ROUND6_PLAYER_VICTORY.1"
+msgid "You have won the battle,"
+msgstr "你们赢了这一战，"
+
+#. BOARLORD_ROUND6_PLAYER_VICTORY.2
+msgctxt "BOARLORD_ROUND6_PLAYER_VICTORY.2"
+msgid "But the war rages on eternally."
+msgstr "但战争永无宁日。"
+
+#. BOARLORD_ROUND6_PLAYER_VICTORY.3
+msgctxt "BOARLORD_ROUND6_PLAYER_VICTORY.3"
+msgid "We are not ready to give up yet."
+msgstr "我们还没打算放弃。"
+
+#. BOARLORD_ROUND6_START.1
+msgctxt "BOARLORD_ROUND6_START.1"
+msgid "We do not fear you."
+msgstr "我们不怕你们。"
+
+#. BOARLORD_ROUND6_START.2
+msgctxt "BOARLORD_ROUND6_START.2"
+msgid "But you will fear us!"
+msgstr "但你们会畏惧我们！"
+
+#. BOARLORD_ROUND6_START.3
+msgctxt "BOARLORD_ROUND6_START.3"
+msgid "Fear my new champions! Fear the Rhinocebros!"
+msgstr "我的新英雄们会让你颤抖！犀牛兄弟会让你畏惧！"
+
+#. BOARLORD_ROUND7_PLAYER_VICTORY.1
+msgctxt "BOARLORD_ROUND7_PLAYER_VICTORY.1"
+msgid "No! My Forge, felled by the Throne's lapdogs!"
+msgstr "不！王座的走狗弄倒了我的熔炉！"
+
+#. BOARLORD_ROUND7_PLAYER_VICTORY.2
+msgctxt "BOARLORD_ROUND7_PLAYER_VICTORY.2"
+msgid "Please. No more, Gatekeepers. We surrender."
+msgstr "求求你停下来吧，守门人。我们投降。"
+
+#. BOARLORD_ROUND7_PLAYER_VICTORY.3
+msgctxt "BOARLORD_ROUND7_PLAYER_VICTORY.3"
+msgid "The day is yours, as is the Gateway."
+msgstr "你赢了，大门归你了。"
+
+#. BOARLORD_ROUND7_START.1
+msgctxt "BOARLORD_ROUND7_START.1"
+msgid "You have had many victories, Gatekeepers..."
+msgstr "守门人，你们打了不少胜仗..."
+
+#. BOARLORD_ROUND7_START.2
+msgctxt "BOARLORD_ROUND7_START.2"
+msgid "...but from our dungeons comes our most brutal warrior."
+msgstr "...但我们的地牢里有最威猛的勇士。"
+
+#. BOARLORD_ROUND7_START.3
+msgctxt "BOARLORD_ROUND7_START.3"
+msgid "Behold: The Infernal Swineclops!"
+msgstr "看啊：地狱独眼巨猪！"
+

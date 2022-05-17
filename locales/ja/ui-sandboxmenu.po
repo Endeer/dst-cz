@@ -1,0 +1,715 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.SANDBOXMENU.ADDLEVEL
+msgctxt "UI.SANDBOXMENU.ADDLEVEL"
+msgid "Add %s"
+msgstr "%sを追加"
+
+#. UI.SANDBOXMENU.ADDLEVEL_EXISTINGWARNING
+msgctxt "UI.SANDBOXMENU.ADDLEVEL_EXISTINGWARNING"
+msgid "This change is permanent and cannot be undone. Are you sure you want to continue?"
+msgstr "この変更は永久的なもので、もとに戻すことは不可能です。実行してもよろしいですか？"
+
+#. UI.SANDBOXMENU.ADDLEVEL_WARNING
+msgctxt "UI.SANDBOXMENU.ADDLEVEL_WARNING"
+msgid "This requires running multiple servers at the same time.\nIs your computer up to the task?"
+msgstr "複数のサーバーを同時に稼働させます。\nご使用のパソコンは高スペックですか？"
+
+#. UI.SANDBOXMENU.ADVENTURELEVELS.1
+msgctxt "UI.SANDBOXMENU.ADVENTURELEVELS.1"
+msgid "A Cold Reception"
+msgstr "冷たい歓迎"
+
+#. UI.SANDBOXMENU.ADVENTURELEVELS.2
+msgctxt "UI.SANDBOXMENU.ADVENTURELEVELS.2"
+msgid "The King of Winter"
+msgstr "冬の王様"
+
+#. UI.SANDBOXMENU.ADVENTURELEVELS.3
+msgctxt "UI.SANDBOXMENU.ADVENTURELEVELS.3"
+msgid "The Game is Afoot"
+msgstr "ゲーム進行中"
+
+#. UI.SANDBOXMENU.ADVENTURELEVELS.4
+msgctxt "UI.SANDBOXMENU.ADVENTURELEVELS.4"
+msgid "Archipelago"
+msgstr "列島"
+
+#. UI.SANDBOXMENU.ADVENTURELEVELS.5
+msgctxt "UI.SANDBOXMENU.ADVENTURELEVELS.5"
+msgid "Two Worlds"
+msgstr "二つの世界"
+
+#. UI.SANDBOXMENU.ADVENTURELEVELS.6
+msgctxt "UI.SANDBOXMENU.ADVENTURELEVELS.6"
+msgid "Darkness"
+msgstr "暗闇"
+
+#. UI.SANDBOXMENU.ADVENTURELEVELS.7
+msgctxt "UI.SANDBOXMENU.ADVENTURELEVELS.7"
+msgid "Checkmate"
+msgstr "チェックメイト"
+
+#. UI.SANDBOXMENU.ALWAYS
+msgctxt "UI.SANDBOXMENU.ALWAYS"
+msgid "Always"
+msgstr "いつも"
+
+#. UI.SANDBOXMENU.AUTOADDLEVEL
+msgctxt "UI.SANDBOXMENU.AUTOADDLEVEL"
+msgid "Always Add %s"
+msgstr "%sを常に追加"
+
+#. UI.SANDBOXMENU.AUTUMN
+msgctxt "UI.SANDBOXMENU.AUTUMN"
+msgid "Autumn"
+msgstr "秋"
+
+#. UI.SANDBOXMENU.AUTUMN_SPRING
+msgctxt "UI.SANDBOXMENU.AUTUMN_SPRING"
+msgid "Autumn or Spring"
+msgstr "秋か春"
+
+#. UI.SANDBOXMENU.BRANCHINGANY
+msgctxt "UI.SANDBOXMENU.BRANCHINGANY"
+msgid "Default"
+msgstr "デフォルト"
+
+#. UI.SANDBOXMENU.BRANCHINGLEAST
+msgctxt "UI.SANDBOXMENU.BRANCHINGLEAST"
+msgid "Least"
+msgstr "一番少ない"
+
+#. UI.SANDBOXMENU.BRANCHINGMOST
+msgctxt "UI.SANDBOXMENU.BRANCHINGMOST"
+msgid "Most"
+msgstr "一番"
+
+#. UI.SANDBOXMENU.BRANCHINGNEVER
+msgctxt "UI.SANDBOXMENU.BRANCHINGNEVER"
+msgid "Never"
+msgstr "ありえない"
+
+#. UI.SANDBOXMENU.CAVESTART
+msgctxt "UI.SANDBOXMENU.CAVESTART"
+msgid "Caves"
+msgstr "洞窟"
+
+#. UI.SANDBOXMENU.CHAPTERS.1
+msgctxt "UI.SANDBOXMENU.CHAPTERS.1"
+msgid "Chapter 1 of 5"
+msgstr "5章中の第1章"
+
+#. UI.SANDBOXMENU.CHAPTERS.2
+msgctxt "UI.SANDBOXMENU.CHAPTERS.2"
+msgid "Chapter 2 of 5"
+msgstr "5章中の第2章"
+
+#. UI.SANDBOXMENU.CHAPTERS.3
+msgctxt "UI.SANDBOXMENU.CHAPTERS.3"
+msgid "Chapter 3 of 5"
+msgstr "5章中の第3章"
+
+#. UI.SANDBOXMENU.CHAPTERS.4
+msgctxt "UI.SANDBOXMENU.CHAPTERS.4"
+msgid "Chapter 4 of 5"
+msgstr "5章中の第4章"
+
+#. UI.SANDBOXMENU.CHAPTERS.5
+msgctxt "UI.SANDBOXMENU.CHAPTERS.5"
+msgid "Chapter 5 of 5"
+msgstr "5章中の第5章"
+
+#. UI.SANDBOXMENU.CHAPTERS.6
+msgctxt "UI.SANDBOXMENU.CHAPTERS.6"
+msgid "Epilogue"
+msgstr "エピローグ"
+
+#. UI.SANDBOXMENU.CHOICEAMTDAY
+msgctxt "UI.SANDBOXMENU.CHOICEAMTDAY"
+msgid "Amount of Day"
+msgstr "一日の量"
+
+#. UI.SANDBOXMENU.CHOICEANIMALS
+msgctxt "UI.SANDBOXMENU.CHOICEANIMALS"
+msgid "Animals"
+msgstr "動物"
+
+#. UI.SANDBOXMENU.CHOICECOOKED
+msgctxt "UI.SANDBOXMENU.CHOICECOOKED"
+msgid "Prepared Food"
+msgstr "用意された食べ物"
+
+#. UI.SANDBOXMENU.CHOICEEVENTS
+msgctxt "UI.SANDBOXMENU.CHOICEEVENTS"
+msgid "Events"
+msgstr "イベント"
+
+#. UI.SANDBOXMENU.CHOICEFOOD
+msgctxt "UI.SANDBOXMENU.CHOICEFOOD"
+msgid "Food"
+msgstr "食べ物"
+
+#. UI.SANDBOXMENU.CHOICEGIANTS
+msgctxt "UI.SANDBOXMENU.CHOICEGIANTS"
+msgid "Giants"
+msgstr "巨大"
+
+#. UI.SANDBOXMENU.CHOICEGLOBAL
+msgctxt "UI.SANDBOXMENU.CHOICEGLOBAL"
+msgid "Global"
+msgstr "グローバル"
+
+#. UI.SANDBOXMENU.CHOICEMISC
+msgctxt "UI.SANDBOXMENU.CHOICEMISC"
+msgid "World"
+msgstr "世界"
+
+#. UI.SANDBOXMENU.CHOICEMONSTERS
+msgctxt "UI.SANDBOXMENU.CHOICEMONSTERS"
+msgid "Monsters"
+msgstr "モンスター"
+
+#. UI.SANDBOXMENU.CHOICEOCEAN
+msgctxt "UI.SANDBOXMENU.CHOICEOCEAN"
+msgid "Ocean"
+msgstr "海"
+
+#. UI.SANDBOXMENU.CHOICERESOURCES
+msgctxt "UI.SANDBOXMENU.CHOICERESOURCES"
+msgid "Resources"
+msgstr "資源"
+
+#. UI.SANDBOXMENU.CHOICESURVIVORS
+msgctxt "UI.SANDBOXMENU.CHOICESURVIVORS"
+msgid "Survivors"
+msgstr "生存者"
+
+#. UI.SANDBOXMENU.CLASSIC
+msgctxt "UI.SANDBOXMENU.CLASSIC"
+msgid "Classic"
+msgstr "クラシック"
+
+#. UI.SANDBOXMENU.DARKSTART
+msgctxt "UI.SANDBOXMENU.DARKSTART"
+msgid "Dark"
+msgstr "暗い"
+
+#. UI.SANDBOXMENU.DAY
+msgctxt "UI.SANDBOXMENU.DAY"
+msgid "Day"
+msgstr "昼間"
+
+#. UI.SANDBOXMENU.DAY_10
+msgctxt "UI.SANDBOXMENU.DAY_10"
+msgid "After Day 10"
+msgstr "10日後"
+
+#. UI.SANDBOXMENU.DAY_15
+msgctxt "UI.SANDBOXMENU.DAY_15"
+msgid "After Day 15"
+msgstr "15日後"
+
+#. UI.SANDBOXMENU.DAY_20
+msgctxt "UI.SANDBOXMENU.DAY_20"
+msgid "After Day 20"
+msgstr "20日後"
+
+#. UI.SANDBOXMENU.DAY_5
+msgctxt "UI.SANDBOXMENU.DAY_5"
+msgid "After Day 5"
+msgstr "5日後"
+
+#. UI.SANDBOXMENU.DEFAULT
+msgctxt "UI.SANDBOXMENU.DEFAULT"
+msgid "Autumn"
+msgstr "秋"
+
+#. UI.SANDBOXMENU.DEFAULTSTART
+msgctxt "UI.SANDBOXMENU.DEFAULTSTART"
+msgid "Default"
+msgstr "デフォルト"
+
+#. UI.SANDBOXMENU.DETECT_ALWAYS
+msgctxt "UI.SANDBOXMENU.DETECT_ALWAYS"
+msgid "Always"
+msgstr "いつも"
+
+#. UI.SANDBOXMENU.DETECT_AUTO
+msgctxt "UI.SANDBOXMENU.DETECT_AUTO"
+msgid "Auto Detect"
+msgstr "自動検知"
+
+#. UI.SANDBOXMENU.DETECT_NEVER
+msgctxt "UI.SANDBOXMENU.DETECT_NEVER"
+msgid "Never"
+msgstr "ありえない"
+
+#. UI.SANDBOXMENU.DISABLED
+msgctxt "UI.SANDBOXMENU.DISABLED"
+msgid "Disabled"
+msgstr "オフ"
+
+#. UI.SANDBOXMENU.DISABLEDLEVEL
+msgctxt "UI.SANDBOXMENU.DISABLEDLEVEL"
+msgid "No %s"
+msgstr "%sなし"
+
+#. UI.SANDBOXMENU.DUSK
+msgctxt "UI.SANDBOXMENU.DUSK"
+msgid "Dusk"
+msgstr "夕暮れ"
+
+#. UI.SANDBOXMENU.EASY
+msgctxt "UI.SANDBOXMENU.EASY"
+msgid "Not Easy"
+msgstr "簡単ではない"
+
+#. UI.SANDBOXMENU.ENABLED
+msgctxt "UI.SANDBOXMENU.ENABLED"
+msgid "Enabled"
+msgstr "オン"
+
+#. UI.SANDBOXMENU.EVERYTHING
+msgctxt "UI.SANDBOXMENU.EVERYTHING"
+msgid "Everything"
+msgstr "すべて"
+
+#. UI.SANDBOXMENU.EXCLUDE
+msgctxt "UI.SANDBOXMENU.EXCLUDE"
+msgid "No"
+msgstr "いいえ"
+
+#. UI.SANDBOXMENU.GENERATE
+msgctxt "UI.SANDBOXMENU.GENERATE"
+msgid "OK"
+msgstr "OK"
+
+#. UI.SANDBOXMENU.HARD
+msgctxt "UI.SANDBOXMENU.HARD"
+msgid "Overly Taxing"
+msgstr "ひどく骨のおれる"
+
+#. UI.SANDBOXMENU.HIGHLYRANDOM
+msgctxt "UI.SANDBOXMENU.HIGHLYRANDOM"
+msgid "Highly Random"
+msgstr "かなりランダム"
+
+#. UI.SANDBOXMENU.LOCATION.CAVE
+msgctxt "UI.SANDBOXMENU.LOCATION.CAVE"
+msgid "Cave"
+msgstr "洞窟"
+
+#. UI.SANDBOXMENU.LOCATION.FOREST
+msgctxt "UI.SANDBOXMENU.LOCATION.FOREST"
+msgid "Forest"
+msgstr "森"
+
+#. UI.SANDBOXMENU.LOCATION.LAVAARENA
+msgctxt "UI.SANDBOXMENU.LOCATION.LAVAARENA"
+msgid "The Forge"
+msgstr "鍛冶屋"
+
+#. UI.SANDBOXMENU.LOCATION.QUAGMIRE
+msgctxt "UI.SANDBOXMENU.LOCATION.QUAGMIRE"
+msgid "The Gorge"
+msgstr "峡谷"
+
+#. UI.SANDBOXMENU.LOCATION.UNKNOWN
+msgctxt "UI.SANDBOXMENU.LOCATION.UNKNOWN"
+msgid "Some"
+msgstr "？？？"
+
+#. UI.SANDBOXMENU.LOCATIONTABNAME.CAVE
+msgctxt "UI.SANDBOXMENU.LOCATIONTABNAME.CAVE"
+msgid "Caves"
+msgstr "洞窟"
+
+#. UI.SANDBOXMENU.LOCATIONTABNAME.FOREST
+msgctxt "UI.SANDBOXMENU.LOCATIONTABNAME.FOREST"
+msgid "Forest"
+msgstr "森"
+
+#. UI.SANDBOXMENU.LOCATIONTABNAME.LAVAARENA
+msgctxt "UI.SANDBOXMENU.LOCATIONTABNAME.LAVAARENA"
+msgid "The Forge"
+msgstr "鍛冶屋"
+
+#. UI.SANDBOXMENU.LOCATIONTABNAME.QUAGMIRE
+msgctxt "UI.SANDBOXMENU.LOCATIONTABNAME.QUAGMIRE"
+msgid "The Gorge"
+msgstr "峡谷"
+
+#. UI.SANDBOXMENU.LOCATIONTABNAME.UNKNOWN
+msgctxt "UI.SANDBOXMENU.LOCATIONTABNAME.UNKNOWN"
+msgid "???"
+msgstr "？？？"
+
+#. UI.SANDBOXMENU.LOOPALWAYS
+msgctxt "UI.SANDBOXMENU.LOOPALWAYS"
+msgid "Always"
+msgstr "いつも"
+
+#. UI.SANDBOXMENU.LOOPNEVER
+msgctxt "UI.SANDBOXMENU.LOOPNEVER"
+msgid "Never"
+msgstr "ありえない"
+
+#. UI.SANDBOXMENU.LOOPRANDOM
+msgctxt "UI.SANDBOXMENU.LOOPRANDOM"
+msgid "Default"
+msgstr "デフォルト"
+
+#. UI.SANDBOXMENU.MAINMENU
+msgctxt "UI.SANDBOXMENU.MAINMENU"
+msgid "Cancel"
+msgstr "キャンセル"
+
+#. UI.SANDBOXMENU.MEDIUM
+msgctxt "UI.SANDBOXMENU.MEDIUM"
+msgid "Quite Difficult"
+msgstr "けっこう難しい"
+
+#. UI.SANDBOXMENU.MODIFYTASKS
+msgctxt "UI.SANDBOXMENU.MODIFYTASKS"
+msgid "Modify Tasks"
+msgstr "タスクを修正"
+
+#. UI.SANDBOXMENU.NIGHT
+msgctxt "UI.SANDBOXMENU.NIGHT"
+msgid "Night"
+msgstr "夜"
+
+#. UI.SANDBOXMENU.NO
+msgctxt "UI.SANDBOXMENU.NO"
+msgid "No"
+msgstr "いいえ"
+
+#. UI.SANDBOXMENU.NONE
+msgctxt "UI.SANDBOXMENU.NONE"
+msgid "None"
+msgstr "なし"
+
+#. UI.SANDBOXMENU.NONEAVAILABLE
+msgctxt "UI.SANDBOXMENU.NONEAVAILABLE"
+msgid "None Available"
+msgstr "どれも有効ではない"
+
+#. UI.SANDBOXMENU.PLUSSTART
+msgctxt "UI.SANDBOXMENU.PLUSSTART"
+msgid "Plus"
+msgstr "準備万端"
+
+#. UI.SANDBOXMENU.PS4_SLIDESMALL
+msgctxt "UI.SANDBOXMENU.PS4_SLIDESMALL"
+msgid "Default"
+msgstr "デフォルト"
+
+#. UI.SANDBOXMENU.PS4_SLIDESMEDIUM
+msgctxt "UI.SANDBOXMENU.PS4_SLIDESMEDIUM"
+msgid "Big"
+msgstr "デカい"
+
+#. UI.SANDBOXMENU.QTYALL
+msgctxt "UI.SANDBOXMENU.QTYALL"
+msgid "All"
+msgstr "すべて"
+
+#. UI.SANDBOXMENU.QTYFEW
+msgctxt "UI.SANDBOXMENU.QTYFEW"
+msgid "Few"
+msgstr "少なめ"
+
+#. UI.SANDBOXMENU.QTYMANY
+msgctxt "UI.SANDBOXMENU.QTYMANY"
+msgid "Many"
+msgstr "多め"
+
+#. UI.SANDBOXMENU.QTYMAX
+msgctxt "UI.SANDBOXMENU.QTYMAX"
+msgid "Maximum"
+msgstr "最大"
+
+#. UI.SANDBOXMENU.QTYMEDIUM
+msgctxt "UI.SANDBOXMENU.QTYMEDIUM"
+msgid "Medium"
+msgstr "M"
+
+#. UI.SANDBOXMENU.QTYNONE
+msgctxt "UI.SANDBOXMENU.QTYNONE"
+msgid "None"
+msgstr "なし"
+
+#. UI.SANDBOXMENU.QTYNORMAL
+msgctxt "UI.SANDBOXMENU.QTYNORMAL"
+msgid "Normal"
+msgstr "ノーマル"
+
+#. UI.SANDBOXMENU.RANDOM
+msgctxt "UI.SANDBOXMENU.RANDOM"
+msgid "Random"
+msgstr "ランダム"
+
+#. UI.SANDBOXMENU.REMOVELEVEL
+msgctxt "UI.SANDBOXMENU.REMOVELEVEL"
+msgid "Remove %s"
+msgstr "%sを削除"
+
+#. UI.SANDBOXMENU.REMOVELEVEL_WARNING
+msgctxt "UI.SANDBOXMENU.REMOVELEVEL_WARNING"
+msgid "Do you want to remove %s from this server?"
+msgstr "このサーバーから%sを削除しますか？"
+
+#. UI.SANDBOXMENU.SLIDEALL
+msgctxt "UI.SANDBOXMENU.SLIDEALL"
+msgid "Only"
+msgstr "唯一の"
+
+#. UI.SANDBOXMENU.SLIDEALWAYS
+msgctxt "UI.SANDBOXMENU.SLIDEALWAYS"
+msgid "Tons"
+msgstr "いっぱい"
+
+#. UI.SANDBOXMENU.SLIDECOMPLEX
+msgctxt "UI.SANDBOXMENU.SLIDECOMPLEX"
+msgid "Complex"
+msgstr "複雑"
+
+#. UI.SANDBOXMENU.SLIDEDEFAULT
+msgctxt "UI.SANDBOXMENU.SLIDEDEFAULT"
+msgid "Default"
+msgstr "デフォルト"
+
+#. UI.SANDBOXMENU.SLIDEFAST
+msgctxt "UI.SANDBOXMENU.SLIDEFAST"
+msgid "Fast"
+msgstr "速い"
+
+#. UI.SANDBOXMENU.SLIDEINSANE
+msgctxt "UI.SANDBOXMENU.SLIDEINSANE"
+msgid "Insane"
+msgstr "インセイン"
+
+#. UI.SANDBOXMENU.SLIDELONG
+msgctxt "UI.SANDBOXMENU.SLIDELONG"
+msgid "Long"
+msgstr "長い"
+
+#. UI.SANDBOXMENU.SLIDEMOSTLY
+msgctxt "UI.SANDBOXMENU.SLIDEMOSTLY"
+msgid "Lots"
+msgstr "いっぱい"
+
+#. UI.SANDBOXMENU.SLIDENEVER
+msgctxt "UI.SANDBOXMENU.SLIDENEVER"
+msgid "None"
+msgstr "なし"
+
+#. UI.SANDBOXMENU.SLIDEOFTEN
+msgctxt "UI.SANDBOXMENU.SLIDEOFTEN"
+msgid "More"
+msgstr "もっと"
+
+#. UI.SANDBOXMENU.SLIDERARE
+msgctxt "UI.SANDBOXMENU.SLIDERARE"
+msgid "Little"
+msgstr "ちっこい"
+
+#. UI.SANDBOXMENU.SLIDESHORT
+msgctxt "UI.SANDBOXMENU.SLIDESHORT"
+msgid "Short"
+msgstr "短い"
+
+#. UI.SANDBOXMENU.SLIDESHUGE
+msgctxt "UI.SANDBOXMENU.SLIDESHUGE"
+msgid "Huge"
+msgstr "巨大"
+
+#. UI.SANDBOXMENU.SLIDESIMPLE
+msgctxt "UI.SANDBOXMENU.SLIDESIMPLE"
+msgid "Simple"
+msgstr "シンプル"
+
+#. UI.SANDBOXMENU.SLIDESLARGE
+msgctxt "UI.SANDBOXMENU.SLIDESLARGE"
+msgid "Large"
+msgstr "大きい"
+
+#. UI.SANDBOXMENU.SLIDESLOW
+msgctxt "UI.SANDBOXMENU.SLIDESLOW"
+msgid "Slow"
+msgstr "遅い"
+
+#. UI.SANDBOXMENU.SLIDESMALL
+msgctxt "UI.SANDBOXMENU.SLIDESMALL"
+msgid "Small"
+msgstr "ちっぽけな"
+
+#. UI.SANDBOXMENU.SLIDESMEDIUM
+msgctxt "UI.SANDBOXMENU.SLIDESMEDIUM"
+msgid "Medium"
+msgstr "ミディアム"
+
+#. UI.SANDBOXMENU.SLIDETINY
+msgctxt "UI.SANDBOXMENU.SLIDETINY"
+msgid "Tiny"
+msgstr "XS"
+
+#. UI.SANDBOXMENU.SLIDEUNCOMMON
+msgctxt "UI.SANDBOXMENU.SLIDEUNCOMMON"
+msgid "Less"
+msgstr "少ない"
+
+#. UI.SANDBOXMENU.SLIDEVERYCOMPLEX
+msgctxt "UI.SANDBOXMENU.SLIDEVERYCOMPLEX"
+msgid "Very Complex"
+msgstr "とても複雑"
+
+#. UI.SANDBOXMENU.SLIDEVERYFAST
+msgctxt "UI.SANDBOXMENU.SLIDEVERYFAST"
+msgid "Very Fast"
+msgstr "とても速い"
+
+#. UI.SANDBOXMENU.SLIDEVERYLONG
+msgctxt "UI.SANDBOXMENU.SLIDEVERYLONG"
+msgid "Very Long"
+msgstr "とても長い"
+
+#. UI.SANDBOXMENU.SLIDEVERYSHORT
+msgctxt "UI.SANDBOXMENU.SLIDEVERYSHORT"
+msgid "Very Short"
+msgstr "とても短い"
+
+#. UI.SANDBOXMENU.SLIDEVERYSIMPLE
+msgctxt "UI.SANDBOXMENU.SLIDEVERYSIMPLE"
+msgid "Very Simple"
+msgstr "とてもシンプル"
+
+#. UI.SANDBOXMENU.SLIDEVERYSLOW
+msgctxt "UI.SANDBOXMENU.SLIDEVERYSLOW"
+msgid "Very Slow"
+msgstr "とても遅い"
+
+#. UI.SANDBOXMENU.SPECIAL_EVENTS.CARNIVAL
+msgctxt "UI.SANDBOXMENU.SPECIAL_EVENTS.CARNIVAL"
+msgid "Midsummer Cawnival"
+msgstr "夏至祭カーカーニバル"
+
+#. UI.SANDBOXMENU.SPECIAL_EVENTS.DEFAULT
+msgctxt "UI.SANDBOXMENU.SPECIAL_EVENTS.DEFAULT"
+msgid "Auto"
+msgstr "自動"
+
+#. UI.SANDBOXMENU.SPECIAL_EVENTS.HALLOWED_NIGHTS
+msgctxt "UI.SANDBOXMENU.SPECIAL_EVENTS.HALLOWED_NIGHTS"
+msgid "Hallowed Nights"
+msgstr "神聖な夜"
+
+#. UI.SANDBOXMENU.SPECIAL_EVENTS.WINTERS_FEAST
+msgctxt "UI.SANDBOXMENU.SPECIAL_EVENTS.WINTERS_FEAST"
+msgid "Winter's Feast"
+msgstr "冬のごちそう"
+
+#. UI.SANDBOXMENU.SPECIAL_EVENTS.YOTB
+msgctxt "UI.SANDBOXMENU.SPECIAL_EVENTS.YOTB"
+msgid "Year of the Beefalo"
+msgstr "ビーファロの年"
+
+#. UI.SANDBOXMENU.SPECIAL_EVENTS.YOTC
+msgctxt "UI.SANDBOXMENU.SPECIAL_EVENTS.YOTC"
+msgid "Year of the Carrat"
+msgstr "カラットの年"
+
+#. UI.SANDBOXMENU.SPECIAL_EVENTS.YOTG
+msgctxt "UI.SANDBOXMENU.SPECIAL_EVENTS.YOTG"
+msgid "Year of the Gobbler"
+msgstr "パックンチョウの年"
+
+#. UI.SANDBOXMENU.SPECIAL_EVENTS.YOTP
+msgctxt "UI.SANDBOXMENU.SPECIAL_EVENTS.YOTP"
+msgid "Year of the Pig King"
+msgstr "豚王の年"
+
+#. UI.SANDBOXMENU.SPECIAL_EVENTS.YOTV
+msgctxt "UI.SANDBOXMENU.SPECIAL_EVENTS.YOTV"
+msgid "Year of the Varg"
+msgstr "ヴァーグの年"
+
+#. UI.SANDBOXMENU.SPECIAL_EVENTS.YOT_CATCOON
+msgctxt "UI.SANDBOXMENU.SPECIAL_EVENTS.YOT_CATCOON"
+msgid "Year of the Catcoon"
+msgstr "ニャライグマの年"
+
+#. UI.SANDBOXMENU.SPRING
+msgctxt "UI.SANDBOXMENU.SPRING"
+msgid "Spring"
+msgstr "春"
+
+#. UI.SANDBOXMENU.SUMMER
+msgctxt "UI.SANDBOXMENU.SUMMER"
+msgid "Summer"
+msgstr "夏"
+
+#. UI.SANDBOXMENU.TITLE
+msgctxt "UI.SANDBOXMENU.TITLE"
+msgid "World Customization"
+msgstr "世界カスタム化"
+
+#. UI.SANDBOXMENU.TITLEDETAIL
+msgctxt "UI.SANDBOXMENU.TITLEDETAIL"
+msgid ""
+msgstr ""
+
+#. UI.SANDBOXMENU.USEPRESETS
+msgctxt "UI.SANDBOXMENU.USEPRESETS"
+msgid "Presets"
+msgstr "プリセット"
+
+#. UI.SANDBOXMENU.USEPRESETS_LOCATION
+msgctxt "UI.SANDBOXMENU.USEPRESETS_LOCATION"
+msgid "%s Presets"
+msgstr "%sのプリセット"
+
+#. UI.SANDBOXMENU.WINTER
+msgctxt "UI.SANDBOXMENU.WINTER"
+msgid "Winter"
+msgstr "冬"
+
+#. UI.SANDBOXMENU.WINTER_SUMMER
+msgctxt "UI.SANDBOXMENU.WINTER_SUMMER"
+msgid "Winter or Summer"
+msgstr "冬または夏"
+
+#. UI.SANDBOXMENU.WORLDGENERATION_ANIMALS
+msgctxt "UI.SANDBOXMENU.WORLDGENERATION_ANIMALS"
+msgid "Creatures and Spawners"
+msgstr "生物とスポナー"
+
+#. UI.SANDBOXMENU.WORLDGENERATION_HOSTILE_CREATURES
+msgctxt "UI.SANDBOXMENU.WORLDGENERATION_HOSTILE_CREATURES"
+msgid "Hostile Creatures and Spawners"
+msgstr "敵対生物とスポナー"
+
+#. UI.SANDBOXMENU.WORLDSETTINGS_ANIMALS
+msgctxt "UI.SANDBOXMENU.WORLDSETTINGS_ANIMALS"
+msgid "Creatures"
+msgstr "生物"
+
+#. UI.SANDBOXMENU.WORLDSETTINGS_HOSTILE_CREATURES
+msgctxt "UI.SANDBOXMENU.WORLDSETTINGS_HOSTILE_CREATURES"
+msgid "Hostile Creatures"
+msgstr "敵対生物"
+
+#. UI.SANDBOXMENU.WORLDSETTINGS_RESOURCEREGROWTH
+msgctxt "UI.SANDBOXMENU.WORLDSETTINGS_RESOURCEREGROWTH"
+msgid "Resource Regrowth"
+msgstr "資源の再生"
+
+#. UI.SANDBOXMENU.YES
+msgctxt "UI.SANDBOXMENU.YES"
+msgid "Yes"
+msgstr "はい"
+

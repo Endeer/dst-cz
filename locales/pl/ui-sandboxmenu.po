@@ -1,0 +1,715 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.SANDBOXMENU.ADDLEVEL
+msgctxt "UI.SANDBOXMENU.ADDLEVEL"
+msgid "Add %s"
+msgstr "Dodaj %s"
+
+#. UI.SANDBOXMENU.ADDLEVEL_EXISTINGWARNING
+msgctxt "UI.SANDBOXMENU.ADDLEVEL_EXISTINGWARNING"
+msgid "This change is permanent and cannot be undone. Are you sure you want to continue?"
+msgstr "Ta zmiana jest trwała i nie można jej cofnąć. Czy na pewno chcesz kontynuować?"
+
+#. UI.SANDBOXMENU.ADDLEVEL_WARNING
+msgctxt "UI.SANDBOXMENU.ADDLEVEL_WARNING"
+msgid "This requires running multiple servers at the same time.\nIs your computer up to the task?"
+msgstr "To działanie wymaga uruchomienia kilku serwerów jednocześnie.\nCzy twój komputer jest w stanie sprostać temu zadaniu?"
+
+#. UI.SANDBOXMENU.ADVENTURELEVELS.1
+msgctxt "UI.SANDBOXMENU.ADVENTURELEVELS.1"
+msgid "A Cold Reception"
+msgstr "Zimne powitanie"
+
+#. UI.SANDBOXMENU.ADVENTURELEVELS.2
+msgctxt "UI.SANDBOXMENU.ADVENTURELEVELS.2"
+msgid "The King of Winter"
+msgstr "Król zimy"
+
+#. UI.SANDBOXMENU.ADVENTURELEVELS.3
+msgctxt "UI.SANDBOXMENU.ADVENTURELEVELS.3"
+msgid "The Game is Afoot"
+msgstr "Zabawa trwa"
+
+#. UI.SANDBOXMENU.ADVENTURELEVELS.4
+msgctxt "UI.SANDBOXMENU.ADVENTURELEVELS.4"
+msgid "Archipelago"
+msgstr "Archipelag"
+
+#. UI.SANDBOXMENU.ADVENTURELEVELS.5
+msgctxt "UI.SANDBOXMENU.ADVENTURELEVELS.5"
+msgid "Two Worlds"
+msgstr "Dwa światy"
+
+#. UI.SANDBOXMENU.ADVENTURELEVELS.6
+msgctxt "UI.SANDBOXMENU.ADVENTURELEVELS.6"
+msgid "Darkness"
+msgstr "Ciemność"
+
+#. UI.SANDBOXMENU.ADVENTURELEVELS.7
+msgctxt "UI.SANDBOXMENU.ADVENTURELEVELS.7"
+msgid "Checkmate"
+msgstr "Szach-mat"
+
+#. UI.SANDBOXMENU.ALWAYS
+msgctxt "UI.SANDBOXMENU.ALWAYS"
+msgid "Always"
+msgstr "Zawsze"
+
+#. UI.SANDBOXMENU.AUTOADDLEVEL
+msgctxt "UI.SANDBOXMENU.AUTOADDLEVEL"
+msgid "Always Add %s"
+msgstr "Zawsze dodawaj: %s"
+
+#. UI.SANDBOXMENU.AUTUMN
+msgctxt "UI.SANDBOXMENU.AUTUMN"
+msgid "Autumn"
+msgstr "Jesień"
+
+#. UI.SANDBOXMENU.AUTUMN_SPRING
+msgctxt "UI.SANDBOXMENU.AUTUMN_SPRING"
+msgid "Autumn or Spring"
+msgstr "Jesień lub wiosna"
+
+#. UI.SANDBOXMENU.BRANCHINGANY
+msgctxt "UI.SANDBOXMENU.BRANCHINGANY"
+msgid "Default"
+msgstr "Domyślna"
+
+#. UI.SANDBOXMENU.BRANCHINGLEAST
+msgctxt "UI.SANDBOXMENU.BRANCHINGLEAST"
+msgid "Least"
+msgstr "Najrzadziej"
+
+#. UI.SANDBOXMENU.BRANCHINGMOST
+msgctxt "UI.SANDBOXMENU.BRANCHINGMOST"
+msgid "Most"
+msgstr "Dużo"
+
+#. UI.SANDBOXMENU.BRANCHINGNEVER
+msgctxt "UI.SANDBOXMENU.BRANCHINGNEVER"
+msgid "Never"
+msgstr "Nigdy"
+
+#. UI.SANDBOXMENU.CAVESTART
+msgctxt "UI.SANDBOXMENU.CAVESTART"
+msgid "Caves"
+msgstr "Jaskinie"
+
+#. UI.SANDBOXMENU.CHAPTERS.1
+msgctxt "UI.SANDBOXMENU.CHAPTERS.1"
+msgid "Chapter 1 of 5"
+msgstr "Rozdział 1 z 5"
+
+#. UI.SANDBOXMENU.CHAPTERS.2
+msgctxt "UI.SANDBOXMENU.CHAPTERS.2"
+msgid "Chapter 2 of 5"
+msgstr "Rozdział 2 z 5"
+
+#. UI.SANDBOXMENU.CHAPTERS.3
+msgctxt "UI.SANDBOXMENU.CHAPTERS.3"
+msgid "Chapter 3 of 5"
+msgstr "Rozdział 3 z 5"
+
+#. UI.SANDBOXMENU.CHAPTERS.4
+msgctxt "UI.SANDBOXMENU.CHAPTERS.4"
+msgid "Chapter 4 of 5"
+msgstr "Rozdział 4 z 5"
+
+#. UI.SANDBOXMENU.CHAPTERS.5
+msgctxt "UI.SANDBOXMENU.CHAPTERS.5"
+msgid "Chapter 5 of 5"
+msgstr "Rozdział 5 z 5"
+
+#. UI.SANDBOXMENU.CHAPTERS.6
+msgctxt "UI.SANDBOXMENU.CHAPTERS.6"
+msgid "Epilogue"
+msgstr "Epilog"
+
+#. UI.SANDBOXMENU.CHOICEAMTDAY
+msgctxt "UI.SANDBOXMENU.CHOICEAMTDAY"
+msgid "Amount of Day"
+msgstr "Długość dnia"
+
+#. UI.SANDBOXMENU.CHOICEANIMALS
+msgctxt "UI.SANDBOXMENU.CHOICEANIMALS"
+msgid "Animals"
+msgstr "Zwierzęta"
+
+#. UI.SANDBOXMENU.CHOICECOOKED
+msgctxt "UI.SANDBOXMENU.CHOICECOOKED"
+msgid "Prepared Food"
+msgstr "Gotowe jedzenie"
+
+#. UI.SANDBOXMENU.CHOICEEVENTS
+msgctxt "UI.SANDBOXMENU.CHOICEEVENTS"
+msgid "Events"
+msgstr "Zdarzenia"
+
+#. UI.SANDBOXMENU.CHOICEFOOD
+msgctxt "UI.SANDBOXMENU.CHOICEFOOD"
+msgid "Food"
+msgstr "Jedzenie"
+
+#. UI.SANDBOXMENU.CHOICEGIANTS
+msgctxt "UI.SANDBOXMENU.CHOICEGIANTS"
+msgid "Giants"
+msgstr "Olbrzymy"
+
+#. UI.SANDBOXMENU.CHOICEGLOBAL
+msgctxt "UI.SANDBOXMENU.CHOICEGLOBAL"
+msgid "Global"
+msgstr "Globalne"
+
+#. UI.SANDBOXMENU.CHOICEMISC
+msgctxt "UI.SANDBOXMENU.CHOICEMISC"
+msgid "World"
+msgstr "Świat"
+
+#. UI.SANDBOXMENU.CHOICEMONSTERS
+msgctxt "UI.SANDBOXMENU.CHOICEMONSTERS"
+msgid "Monsters"
+msgstr "Potwory"
+
+#. UI.SANDBOXMENU.CHOICEOCEAN
+msgctxt "UI.SANDBOXMENU.CHOICEOCEAN"
+msgid "Ocean"
+msgstr "Ocean"
+
+#. UI.SANDBOXMENU.CHOICERESOURCES
+msgctxt "UI.SANDBOXMENU.CHOICERESOURCES"
+msgid "Resources"
+msgstr "Zasoby"
+
+#. UI.SANDBOXMENU.CHOICESURVIVORS
+msgctxt "UI.SANDBOXMENU.CHOICESURVIVORS"
+msgid "Survivors"
+msgstr "Rozbitkowie"
+
+#. UI.SANDBOXMENU.CLASSIC
+msgctxt "UI.SANDBOXMENU.CLASSIC"
+msgid "Classic"
+msgstr "Klasyczne"
+
+#. UI.SANDBOXMENU.DARKSTART
+msgctxt "UI.SANDBOXMENU.DARKSTART"
+msgid "Dark"
+msgstr "Mroczny/a/e"
+
+#. UI.SANDBOXMENU.DAY
+msgctxt "UI.SANDBOXMENU.DAY"
+msgid "Day"
+msgstr "Dzień"
+
+#. UI.SANDBOXMENU.DAY_10
+msgctxt "UI.SANDBOXMENU.DAY_10"
+msgid "After Day 10"
+msgstr "Po 10. dniu"
+
+#. UI.SANDBOXMENU.DAY_15
+msgctxt "UI.SANDBOXMENU.DAY_15"
+msgid "After Day 15"
+msgstr "Po 15. dniu"
+
+#. UI.SANDBOXMENU.DAY_20
+msgctxt "UI.SANDBOXMENU.DAY_20"
+msgid "After Day 20"
+msgstr "Po 20. dniu"
+
+#. UI.SANDBOXMENU.DAY_5
+msgctxt "UI.SANDBOXMENU.DAY_5"
+msgid "After Day 5"
+msgstr "Po 5. dniu"
+
+#. UI.SANDBOXMENU.DEFAULT
+msgctxt "UI.SANDBOXMENU.DEFAULT"
+msgid "Autumn"
+msgstr "Jesień"
+
+#. UI.SANDBOXMENU.DEFAULTSTART
+msgctxt "UI.SANDBOXMENU.DEFAULTSTART"
+msgid "Default"
+msgstr "Domyślna"
+
+#. UI.SANDBOXMENU.DETECT_ALWAYS
+msgctxt "UI.SANDBOXMENU.DETECT_ALWAYS"
+msgid "Always"
+msgstr "Zawsze"
+
+#. UI.SANDBOXMENU.DETECT_AUTO
+msgctxt "UI.SANDBOXMENU.DETECT_AUTO"
+msgid "Auto Detect"
+msgstr "Wykrywaj automatycznie"
+
+#. UI.SANDBOXMENU.DETECT_NEVER
+msgctxt "UI.SANDBOXMENU.DETECT_NEVER"
+msgid "Never"
+msgstr "Nigdy"
+
+#. UI.SANDBOXMENU.DISABLED
+msgctxt "UI.SANDBOXMENU.DISABLED"
+msgid "Disabled"
+msgstr "Wył."
+
+#. UI.SANDBOXMENU.DISABLEDLEVEL
+msgctxt "UI.SANDBOXMENU.DISABLEDLEVEL"
+msgid "No %s"
+msgstr "Brak %s"
+
+#. UI.SANDBOXMENU.DUSK
+msgctxt "UI.SANDBOXMENU.DUSK"
+msgid "Dusk"
+msgstr "Zmierzch"
+
+#. UI.SANDBOXMENU.EASY
+msgctxt "UI.SANDBOXMENU.EASY"
+msgid "Not Easy"
+msgstr "Niełatwe"
+
+#. UI.SANDBOXMENU.ENABLED
+msgctxt "UI.SANDBOXMENU.ENABLED"
+msgid "Enabled"
+msgstr "Wł."
+
+#. UI.SANDBOXMENU.EVERYTHING
+msgctxt "UI.SANDBOXMENU.EVERYTHING"
+msgid "Everything"
+msgstr "Wszystko"
+
+#. UI.SANDBOXMENU.EXCLUDE
+msgctxt "UI.SANDBOXMENU.EXCLUDE"
+msgid "No"
+msgstr "Nie"
+
+#. UI.SANDBOXMENU.GENERATE
+msgctxt "UI.SANDBOXMENU.GENERATE"
+msgid "OK"
+msgstr "OK"
+
+#. UI.SANDBOXMENU.HARD
+msgctxt "UI.SANDBOXMENU.HARD"
+msgid "Overly Taxing"
+msgstr "Przesadnie wymagające"
+
+#. UI.SANDBOXMENU.HIGHLYRANDOM
+msgctxt "UI.SANDBOXMENU.HIGHLYRANDOM"
+msgid "Highly Random"
+msgstr "Bardzo losowo"
+
+#. UI.SANDBOXMENU.LOCATION.CAVE
+msgctxt "UI.SANDBOXMENU.LOCATION.CAVE"
+msgid "Cave"
+msgstr "Jaskinia"
+
+#. UI.SANDBOXMENU.LOCATION.FOREST
+msgctxt "UI.SANDBOXMENU.LOCATION.FOREST"
+msgid "Forest"
+msgstr "Las"
+
+#. UI.SANDBOXMENU.LOCATION.LAVAARENA
+msgctxt "UI.SANDBOXMENU.LOCATION.LAVAARENA"
+msgid "The Forge"
+msgstr "Kuźnia"
+
+#. UI.SANDBOXMENU.LOCATION.QUAGMIRE
+msgctxt "UI.SANDBOXMENU.LOCATION.QUAGMIRE"
+msgid "The Gorge"
+msgstr "Wąwóz"
+
+#. UI.SANDBOXMENU.LOCATION.UNKNOWN
+msgctxt "UI.SANDBOXMENU.LOCATION.UNKNOWN"
+msgid "Some"
+msgstr "Nieznane"
+
+#. UI.SANDBOXMENU.LOCATIONTABNAME.CAVE
+msgctxt "UI.SANDBOXMENU.LOCATIONTABNAME.CAVE"
+msgid "Caves"
+msgstr "Jaskinie"
+
+#. UI.SANDBOXMENU.LOCATIONTABNAME.FOREST
+msgctxt "UI.SANDBOXMENU.LOCATIONTABNAME.FOREST"
+msgid "Forest"
+msgstr "Las"
+
+#. UI.SANDBOXMENU.LOCATIONTABNAME.LAVAARENA
+msgctxt "UI.SANDBOXMENU.LOCATIONTABNAME.LAVAARENA"
+msgid "The Forge"
+msgstr "Kuźnia"
+
+#. UI.SANDBOXMENU.LOCATIONTABNAME.QUAGMIRE
+msgctxt "UI.SANDBOXMENU.LOCATIONTABNAME.QUAGMIRE"
+msgid "The Gorge"
+msgstr "Wąwóz"
+
+#. UI.SANDBOXMENU.LOCATIONTABNAME.UNKNOWN
+msgctxt "UI.SANDBOXMENU.LOCATIONTABNAME.UNKNOWN"
+msgid "???"
+msgstr "???"
+
+#. UI.SANDBOXMENU.LOOPALWAYS
+msgctxt "UI.SANDBOXMENU.LOOPALWAYS"
+msgid "Always"
+msgstr "Zawsze"
+
+#. UI.SANDBOXMENU.LOOPNEVER
+msgctxt "UI.SANDBOXMENU.LOOPNEVER"
+msgid "Never"
+msgstr "Nigdy"
+
+#. UI.SANDBOXMENU.LOOPRANDOM
+msgctxt "UI.SANDBOXMENU.LOOPRANDOM"
+msgid "Default"
+msgstr "Domyślna"
+
+#. UI.SANDBOXMENU.MAINMENU
+msgctxt "UI.SANDBOXMENU.MAINMENU"
+msgid "Cancel"
+msgstr "Anuluj"
+
+#. UI.SANDBOXMENU.MEDIUM
+msgctxt "UI.SANDBOXMENU.MEDIUM"
+msgid "Quite Difficult"
+msgstr "Bardzo trudne"
+
+#. UI.SANDBOXMENU.MODIFYTASKS
+msgctxt "UI.SANDBOXMENU.MODIFYTASKS"
+msgid "Modify Tasks"
+msgstr "Modyfikuj zadania"
+
+#. UI.SANDBOXMENU.NIGHT
+msgctxt "UI.SANDBOXMENU.NIGHT"
+msgid "Night"
+msgstr "Noc"
+
+#. UI.SANDBOXMENU.NO
+msgctxt "UI.SANDBOXMENU.NO"
+msgid "No"
+msgstr "Nie"
+
+#. UI.SANDBOXMENU.NONE
+msgctxt "UI.SANDBOXMENU.NONE"
+msgid "None"
+msgstr "Brak"
+
+#. UI.SANDBOXMENU.NONEAVAILABLE
+msgctxt "UI.SANDBOXMENU.NONEAVAILABLE"
+msgid "None Available"
+msgstr "Niedostępne"
+
+#. UI.SANDBOXMENU.PLUSSTART
+msgctxt "UI.SANDBOXMENU.PLUSSTART"
+msgid "Plus"
+msgstr "Plus"
+
+#. UI.SANDBOXMENU.PS4_SLIDESMALL
+msgctxt "UI.SANDBOXMENU.PS4_SLIDESMALL"
+msgid "Default"
+msgstr "Domyślna"
+
+#. UI.SANDBOXMENU.PS4_SLIDESMEDIUM
+msgctxt "UI.SANDBOXMENU.PS4_SLIDESMEDIUM"
+msgid "Big"
+msgstr "Duży"
+
+#. UI.SANDBOXMENU.QTYALL
+msgctxt "UI.SANDBOXMENU.QTYALL"
+msgid "All"
+msgstr "Wszystkie"
+
+#. UI.SANDBOXMENU.QTYFEW
+msgctxt "UI.SANDBOXMENU.QTYFEW"
+msgid "Few"
+msgstr "Mało"
+
+#. UI.SANDBOXMENU.QTYMANY
+msgctxt "UI.SANDBOXMENU.QTYMANY"
+msgid "Many"
+msgstr "Dużo"
+
+#. UI.SANDBOXMENU.QTYMAX
+msgctxt "UI.SANDBOXMENU.QTYMAX"
+msgid "Maximum"
+msgstr "Maksimum"
+
+#. UI.SANDBOXMENU.QTYMEDIUM
+msgctxt "UI.SANDBOXMENU.QTYMEDIUM"
+msgid "Medium"
+msgstr "Średni"
+
+#. UI.SANDBOXMENU.QTYNONE
+msgctxt "UI.SANDBOXMENU.QTYNONE"
+msgid "None"
+msgstr "Brak"
+
+#. UI.SANDBOXMENU.QTYNORMAL
+msgctxt "UI.SANDBOXMENU.QTYNORMAL"
+msgid "Normal"
+msgstr "Normalnie"
+
+#. UI.SANDBOXMENU.RANDOM
+msgctxt "UI.SANDBOXMENU.RANDOM"
+msgid "Random"
+msgstr "Losowa"
+
+#. UI.SANDBOXMENU.REMOVELEVEL
+msgctxt "UI.SANDBOXMENU.REMOVELEVEL"
+msgid "Remove %s"
+msgstr "Usuń %s"
+
+#. UI.SANDBOXMENU.REMOVELEVEL_WARNING
+msgctxt "UI.SANDBOXMENU.REMOVELEVEL_WARNING"
+msgid "Do you want to remove %s from this server?"
+msgstr "Czy chcesz usunąć „%s” z tego serwera?"
+
+#. UI.SANDBOXMENU.SLIDEALL
+msgctxt "UI.SANDBOXMENU.SLIDEALL"
+msgid "Only"
+msgstr "Tylko"
+
+#. UI.SANDBOXMENU.SLIDEALWAYS
+msgctxt "UI.SANDBOXMENU.SLIDEALWAYS"
+msgid "Tons"
+msgstr "Mnóstwo"
+
+#. UI.SANDBOXMENU.SLIDECOMPLEX
+msgctxt "UI.SANDBOXMENU.SLIDECOMPLEX"
+msgid "Complex"
+msgstr "Skomplikowane"
+
+#. UI.SANDBOXMENU.SLIDEDEFAULT
+msgctxt "UI.SANDBOXMENU.SLIDEDEFAULT"
+msgid "Default"
+msgstr "Domyślna"
+
+#. UI.SANDBOXMENU.SLIDEFAST
+msgctxt "UI.SANDBOXMENU.SLIDEFAST"
+msgid "Fast"
+msgstr "Szybko"
+
+#. UI.SANDBOXMENU.SLIDEINSANE
+msgctxt "UI.SANDBOXMENU.SLIDEINSANE"
+msgid "Insane"
+msgstr "Szaleństwo"
+
+#. UI.SANDBOXMENU.SLIDELONG
+msgctxt "UI.SANDBOXMENU.SLIDELONG"
+msgid "Long"
+msgstr "Długo"
+
+#. UI.SANDBOXMENU.SLIDEMOSTLY
+msgctxt "UI.SANDBOXMENU.SLIDEMOSTLY"
+msgid "Lots"
+msgstr "Mnóstwo"
+
+#. UI.SANDBOXMENU.SLIDENEVER
+msgctxt "UI.SANDBOXMENU.SLIDENEVER"
+msgid "None"
+msgstr "Brak"
+
+#. UI.SANDBOXMENU.SLIDEOFTEN
+msgctxt "UI.SANDBOXMENU.SLIDEOFTEN"
+msgid "More"
+msgstr "Więcej"
+
+#. UI.SANDBOXMENU.SLIDERARE
+msgctxt "UI.SANDBOXMENU.SLIDERARE"
+msgid "Little"
+msgstr "Niewielki/a/e"
+
+#. UI.SANDBOXMENU.SLIDESHORT
+msgctxt "UI.SANDBOXMENU.SLIDESHORT"
+msgid "Short"
+msgstr "Krótkie"
+
+#. UI.SANDBOXMENU.SLIDESHUGE
+msgctxt "UI.SANDBOXMENU.SLIDESHUGE"
+msgid "Huge"
+msgstr "Ogromny"
+
+#. UI.SANDBOXMENU.SLIDESIMPLE
+msgctxt "UI.SANDBOXMENU.SLIDESIMPLE"
+msgid "Simple"
+msgstr "Proste"
+
+#. UI.SANDBOXMENU.SLIDESLARGE
+msgctxt "UI.SANDBOXMENU.SLIDESLARGE"
+msgid "Large"
+msgstr "Duży"
+
+#. UI.SANDBOXMENU.SLIDESLOW
+msgctxt "UI.SANDBOXMENU.SLIDESLOW"
+msgid "Slow"
+msgstr "Wolno"
+
+#. UI.SANDBOXMENU.SLIDESMALL
+msgctxt "UI.SANDBOXMENU.SLIDESMALL"
+msgid "Small"
+msgstr "Mały/a/e"
+
+#. UI.SANDBOXMENU.SLIDESMEDIUM
+msgctxt "UI.SANDBOXMENU.SLIDESMEDIUM"
+msgid "Medium"
+msgstr "Średni"
+
+#. UI.SANDBOXMENU.SLIDETINY
+msgctxt "UI.SANDBOXMENU.SLIDETINY"
+msgid "Tiny"
+msgstr "Malutki"
+
+#. UI.SANDBOXMENU.SLIDEUNCOMMON
+msgctxt "UI.SANDBOXMENU.SLIDEUNCOMMON"
+msgid "Less"
+msgstr "Mniej"
+
+#. UI.SANDBOXMENU.SLIDEVERYCOMPLEX
+msgctxt "UI.SANDBOXMENU.SLIDEVERYCOMPLEX"
+msgid "Very Complex"
+msgstr "Bardzo skomplikowane"
+
+#. UI.SANDBOXMENU.SLIDEVERYFAST
+msgctxt "UI.SANDBOXMENU.SLIDEVERYFAST"
+msgid "Very Fast"
+msgstr "Bardzo szybko"
+
+#. UI.SANDBOXMENU.SLIDEVERYLONG
+msgctxt "UI.SANDBOXMENU.SLIDEVERYLONG"
+msgid "Very Long"
+msgstr "Bardzo długo"
+
+#. UI.SANDBOXMENU.SLIDEVERYSHORT
+msgctxt "UI.SANDBOXMENU.SLIDEVERYSHORT"
+msgid "Very Short"
+msgstr "Bardzo krótki"
+
+#. UI.SANDBOXMENU.SLIDEVERYSIMPLE
+msgctxt "UI.SANDBOXMENU.SLIDEVERYSIMPLE"
+msgid "Very Simple"
+msgstr "Bardzo proste"
+
+#. UI.SANDBOXMENU.SLIDEVERYSLOW
+msgctxt "UI.SANDBOXMENU.SLIDEVERYSLOW"
+msgid "Very Slow"
+msgstr "Bardzo wolno"
+
+#. UI.SANDBOXMENU.SPECIAL_EVENTS.CARNIVAL
+msgctxt "UI.SANDBOXMENU.SPECIAL_EVENTS.CARNIVAL"
+msgid "Midsummer Cawnival"
+msgstr "Kranawał Świętojański"
+
+#. UI.SANDBOXMENU.SPECIAL_EVENTS.DEFAULT
+msgctxt "UI.SANDBOXMENU.SPECIAL_EVENTS.DEFAULT"
+msgid "Auto"
+msgstr "Automatyczne"
+
+#. UI.SANDBOXMENU.SPECIAL_EVENTS.HALLOWED_NIGHTS
+msgctxt "UI.SANDBOXMENU.SPECIAL_EVENTS.HALLOWED_NIGHTS"
+msgid "Hallowed Nights"
+msgstr "Nawiedzone noce"
+
+#. UI.SANDBOXMENU.SPECIAL_EVENTS.WINTERS_FEAST
+msgctxt "UI.SANDBOXMENU.SPECIAL_EVENTS.WINTERS_FEAST"
+msgid "Winter's Feast"
+msgstr "Zimowe święta"
+
+#. UI.SANDBOXMENU.SPECIAL_EVENTS.YOTB
+msgctxt "UI.SANDBOXMENU.SPECIAL_EVENTS.YOTB"
+msgid "Year of the Beefalo"
+msgstr "Rok Wołka"
+
+#. UI.SANDBOXMENU.SPECIAL_EVENTS.YOTC
+msgctxt "UI.SANDBOXMENU.SPECIAL_EVENTS.YOTC"
+msgid "Year of the Carrat"
+msgstr "Rok myszomarchwi"
+
+#. UI.SANDBOXMENU.SPECIAL_EVENTS.YOTG
+msgctxt "UI.SANDBOXMENU.SPECIAL_EVENTS.YOTG"
+msgid "Year of the Gobbler"
+msgstr "Rok Indyka"
+
+#. UI.SANDBOXMENU.SPECIAL_EVENTS.YOTP
+msgctxt "UI.SANDBOXMENU.SPECIAL_EVENTS.YOTP"
+msgid "Year of the Pig King"
+msgstr "Rok Króla Świniaka"
+
+#. UI.SANDBOXMENU.SPECIAL_EVENTS.YOTV
+msgctxt "UI.SANDBOXMENU.SPECIAL_EVENTS.YOTV"
+msgid "Year of the Varg"
+msgstr "Rok Warga"
+
+#. UI.SANDBOXMENU.SPECIAL_EVENTS.YOT_CATCOON
+msgctxt "UI.SANDBOXMENU.SPECIAL_EVENTS.YOT_CATCOON"
+msgid "Year of the Catcoon"
+msgstr "Rok Kotoszopa"
+
+#. UI.SANDBOXMENU.SPRING
+msgctxt "UI.SANDBOXMENU.SPRING"
+msgid "Spring"
+msgstr "Wiosna"
+
+#. UI.SANDBOXMENU.SUMMER
+msgctxt "UI.SANDBOXMENU.SUMMER"
+msgid "Summer"
+msgstr "Lato"
+
+#. UI.SANDBOXMENU.TITLE
+msgctxt "UI.SANDBOXMENU.TITLE"
+msgid "World Customization"
+msgstr "Modyfikacja świata"
+
+#. UI.SANDBOXMENU.TITLEDETAIL
+msgctxt "UI.SANDBOXMENU.TITLEDETAIL"
+msgid ""
+msgstr ""
+
+#. UI.SANDBOXMENU.USEPRESETS
+msgctxt "UI.SANDBOXMENU.USEPRESETS"
+msgid "Presets"
+msgstr "– ustawienia wstępne"
+
+#. UI.SANDBOXMENU.USEPRESETS_LOCATION
+msgctxt "UI.SANDBOXMENU.USEPRESETS_LOCATION"
+msgid "%s Presets"
+msgstr "%s – ustawienia wstępne"
+
+#. UI.SANDBOXMENU.WINTER
+msgctxt "UI.SANDBOXMENU.WINTER"
+msgid "Winter"
+msgstr "Zima"
+
+#. UI.SANDBOXMENU.WINTER_SUMMER
+msgctxt "UI.SANDBOXMENU.WINTER_SUMMER"
+msgid "Winter or Summer"
+msgstr "Zima lub lato"
+
+#. UI.SANDBOXMENU.WORLDGENERATION_ANIMALS
+msgctxt "UI.SANDBOXMENU.WORLDGENERATION_ANIMALS"
+msgid "Creatures and Spawners"
+msgstr "Stwory i postaci odradzające się"
+
+#. UI.SANDBOXMENU.WORLDGENERATION_HOSTILE_CREATURES
+msgctxt "UI.SANDBOXMENU.WORLDGENERATION_HOSTILE_CREATURES"
+msgid "Hostile Creatures and Spawners"
+msgstr "Wrogie stwory i postaci odradzające się"
+
+#. UI.SANDBOXMENU.WORLDSETTINGS_ANIMALS
+msgctxt "UI.SANDBOXMENU.WORLDSETTINGS_ANIMALS"
+msgid "Creatures"
+msgstr "Stwory"
+
+#. UI.SANDBOXMENU.WORLDSETTINGS_HOSTILE_CREATURES
+msgctxt "UI.SANDBOXMENU.WORLDSETTINGS_HOSTILE_CREATURES"
+msgid "Hostile Creatures"
+msgstr "Wrogie stwory"
+
+#. UI.SANDBOXMENU.WORLDSETTINGS_RESOURCEREGROWTH
+msgctxt "UI.SANDBOXMENU.WORLDSETTINGS_RESOURCEREGROWTH"
+msgid "Resource Regrowth"
+msgstr "Odrastanie zasobów"
+
+#. UI.SANDBOXMENU.YES
+msgctxt "UI.SANDBOXMENU.YES"
+msgid "Yes"
+msgstr "Tak"
+

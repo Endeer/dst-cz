@@ -1,0 +1,1200 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.TRADESCREEN.ACCEPT
+msgctxt "UI.TRADESCREEN.ACCEPT"
+msgid "Accept"
+msgstr "接受"
+
+#. UI.TRADESCREEN.BACK
+msgctxt "UI.TRADESCREEN.BACK"
+msgid "Back"
+msgstr "返回"
+
+#. UI.TRADESCREEN.BASE
+msgctxt "UI.TRADESCREEN.BASE"
+msgid "Head"
+msgstr "头"
+
+#. UI.TRADESCREEN.BIRDS
+msgctxt "UI.TRADESCREEN.BIRDS"
+msgid "Curiosities"
+msgstr "奇妙的东西"
+
+#. UI.TRADESCREEN.BIRDS_TITLE_SUB
+msgctxt "UI.TRADESCREEN.BIRDS_TITLE_SUB"
+msgid "(Curio Collector Games)"
+msgstr "（珍宝收集者游戏）"
+
+#. UI.TRADESCREEN.BODY
+msgctxt "UI.TRADESCREEN.BODY"
+msgid "Body"
+msgstr "身体"
+
+#. UI.TRADESCREEN.CANCEL
+msgctxt "UI.TRADESCREEN.CANCEL"
+msgid "Cancel"
+msgstr "取消"
+
+#. UI.TRADESCREEN.CHECK
+msgctxt "UI.TRADESCREEN.CHECK"
+msgid "Warning!"
+msgstr "警告！"
+
+#. UI.TRADESCREEN.CROW
+msgctxt "UI.TRADESCREEN.CROW"
+msgid "Chase Crow"
+msgstr "追逐乌鸦"
+
+#. UI.TRADESCREEN.CROWKID_GAME.GAME_OVER_POPUP_BODY_100
+msgctxt "UI.TRADESCREEN.CROWKID_GAME.GAME_OVER_POPUP_BODY_100"
+msgid "You've collected all of the junk. Thanks a million."
+msgstr "你已经清理了所有的垃圾。非常感谢。"
+
+#. UI.TRADESCREEN.CROWKID_GAME.GAME_OVER_POPUP_BODY_25
+msgctxt "UI.TRADESCREEN.CROWKID_GAME.GAME_OVER_POPUP_BODY_25"
+msgid "You've collected 25 pieces of junk. That's a good start."
+msgstr "你清理25件垃圾。这是一个不错的开始。"
+
+#. UI.TRADESCREEN.CROWKID_GAME.GAME_OVER_POPUP_TITLE
+msgctxt "UI.TRADESCREEN.CROWKID_GAME.GAME_OVER_POPUP_TITLE"
+msgid "Thanks for tidyin'"
+msgstr "多谢清理"
+
+#. UI.TRADESCREEN.CROWKID_GAME.GAME_SCORE
+msgctxt "UI.TRADESCREEN.CROWKID_GAME.GAME_SCORE"
+msgid "Junk Found: "
+msgstr "发现的垃圾："
+
+#. UI.TRADESCREEN.CROWKID_GAME.HELP
+msgctxt "UI.TRADESCREEN.CROWKID_GAME.HELP"
+msgid "Help"
+msgstr "帮助"
+
+#. UI.TRADESCREEN.CROWKID_GAME.HELP_BODY
+msgctxt "UI.TRADESCREEN.CROWKID_GAME.HELP_BODY"
+msgid "The Crows left a mess in the maze after last year's Cawnival. Move around the maze to pick up all of the leftover junk."
+msgstr "去年的鸦年华上，乌鸦们在迷宫里留下了一个烂摊子。在迷宫里移动，捡起所有剩下的垃圾。"
+
+#. UI.TRADESCREEN.CROWKID_GAME.HELP_TITLE
+msgctxt "UI.TRADESCREEN.CROWKID_GAME.HELP_TITLE"
+msgid "A Mess of a Maze"
+msgstr "迷宫大扫除"
+
+#. UI.TRADESCREEN.CROWKID_GAME.OPEN_GIFT
+msgctxt "UI.TRADESCREEN.CROWKID_GAME.OPEN_GIFT"
+msgid "Open Gift"
+msgstr "打开礼物"
+
+#. UI.TRADESCREEN.CROWKID_GAME.REPORTING
+msgctxt "UI.TRADESCREEN.CROWKID_GAME.REPORTING"
+msgid "Reporting tidying up'..."
+msgstr "上报清理情况……"
+
+#. UI.TRADESCREEN.CROWKID_GAME.STEPS
+msgctxt "UI.TRADESCREEN.CROWKID_GAME.STEPS"
+msgid "Steps Taken: "
+msgstr "步数"
+
+#. UI.TRADESCREEN.CROWKID_GAME.THANKS
+msgctxt "UI.TRADESCREEN.CROWKID_GAME.THANKS"
+msgid "Thanks for tidyin'"
+msgstr "多谢清理"
+
+#. UI.TRADESCREEN.CROW_GAME.GAME_OVER_POPUP_BODY
+msgctxt "UI.TRADESCREEN.CROW_GAME.GAME_OVER_POPUP_BODY"
+msgid "Great job tidyin' up.\nYou completed {moves} moves, for a score of {score}!"
+msgstr "整理的很好。\n你完成了{moves} 步，得到了{score}分！"
+
+#. UI.TRADESCREEN.CROW_GAME.GAME_OVER_POPUP_TITLE
+msgctxt "UI.TRADESCREEN.CROW_GAME.GAME_OVER_POPUP_TITLE"
+msgid "All done tidyin'"
+msgstr "整理完了"
+
+#. UI.TRADESCREEN.CROW_GAME.GAME_SCORE
+msgctxt "UI.TRADESCREEN.CROW_GAME.GAME_SCORE"
+msgid "Game Score: "
+msgstr "游戏分数："
+
+#. UI.TRADESCREEN.CROW_GAME.HELP
+msgctxt "UI.TRADESCREEN.CROW_GAME.HELP"
+msgid "Help"
+msgstr "帮助"
+
+#. UI.TRADESCREEN.CROW_GAME.HELP_BODY
+msgctxt "UI.TRADESCREEN.CROW_GAME.HELP_BODY"
+msgid "Oh crow!\nA murder of feathered fiends has gotten their claws into the Curio Collector's prized collection of candy wrappers!\n\nHelp him scare away the crows by matching adjacent pairs of wrappers. Use tools to help clear big groups of wrappers and crows to improve your score. Clearing 10 or more tiles will grant you a bonus tool."
+msgstr "噢乌鸦！\n一群长羽毛的朋友把他们的爪子伸到了珍宝收集者的宝贝糖纸收藏里！\n\n通过把一样的糖纸凑在一起，帮他吓走这些乌鸦吧。\n使用工具来清理大量的糖纸和乌鸦来提高你的分数。\n一次清理10个以上的位置可以得到一个额外的工具。"
+
+#. UI.TRADESCREEN.CROW_GAME.HELP_TITLE
+msgctxt "UI.TRADESCREEN.CROW_GAME.HELP_TITLE"
+msgid "Ravin' Wrapper Raiders"
+msgstr "乌鸦糖纸突袭者"
+
+#. UI.TRADESCREEN.CROW_GAME.HIGH_SCORE
+msgctxt "UI.TRADESCREEN.CROW_GAME.HIGH_SCORE"
+msgid "High Score: "
+msgstr "最高分："
+
+#. UI.TRADESCREEN.CROW_GAME.MOVE_SCORE
+msgctxt "UI.TRADESCREEN.CROW_GAME.MOVE_SCORE"
+msgid "Last Move Score: "
+msgstr "上局分数："
+
+#. UI.TRADESCREEN.CROW_GAME.OPEN_GIFT
+msgctxt "UI.TRADESCREEN.CROW_GAME.OPEN_GIFT"
+msgid "Open Gift"
+msgstr "打开礼物"
+
+#. UI.TRADESCREEN.CROW_GAME.POWERUP_NAME.cane
+msgctxt "UI.TRADESCREEN.CROW_GAME.POWERUP_NAME.cane"
+msgid "Cane"
+msgstr "手杖"
+
+#. UI.TRADESCREEN.CROW_GAME.POWERUP_NAME.gunpowder
+msgctxt "UI.TRADESCREEN.CROW_GAME.POWERUP_NAME.gunpowder"
+msgid "Gunpowder"
+msgstr "火药"
+
+#. UI.TRADESCREEN.CROW_GAME.POWERUP_NAME.seeds
+msgctxt "UI.TRADESCREEN.CROW_GAME.POWERUP_NAME.seeds"
+msgid "Seeds"
+msgstr "种子"
+
+#. UI.TRADESCREEN.CROW_GAME.POWERUP_NAME.shovel
+msgctxt "UI.TRADESCREEN.CROW_GAME.POWERUP_NAME.shovel"
+msgid "Shovel"
+msgstr "铲子"
+
+#. UI.TRADESCREEN.CROW_GAME.POWERUP_NAME.spear
+msgctxt "UI.TRADESCREEN.CROW_GAME.POWERUP_NAME.spear"
+msgid "Spear"
+msgstr "长矛"
+
+#. UI.TRADESCREEN.CROW_GAME.REPORTING
+msgctxt "UI.TRADESCREEN.CROW_GAME.REPORTING"
+msgid "Reporting wrapper tidyin'..."
+msgstr "上报糖纸整理……"
+
+#. UI.TRADESCREEN.CROW_GAME.THANKS
+msgctxt "UI.TRADESCREEN.CROW_GAME.THANKS"
+msgid "Thanks for tidyin' up!"
+msgstr "多谢整理！"
+
+#. UI.TRADESCREEN.DAYS_REMAINING
+msgctxt "UI.TRADESCREEN.DAYS_REMAINING"
+msgid "Days Remaining"
+msgstr "剩余天数"
+
+#. UI.TRADESCREEN.DAY_REMAINING
+msgctxt "UI.TRADESCREEN.DAY_REMAINING"
+msgid "Day Remaining"
+msgstr "剩余一天"
+
+#. UI.TRADESCREEN.ENDING_SOON
+msgctxt "UI.TRADESCREEN.ENDING_SOON"
+msgid "Ending Soon"
+msgstr "马上结束"
+
+#. UI.TRADESCREEN.EQUIPPED
+msgctxt "UI.TRADESCREEN.EQUIPPED"
+msgid "Last one!"
+msgstr "最后一个！"
+
+#. UI.TRADESCREEN.FEET
+msgctxt "UI.TRADESCREEN.FEET"
+msgid "Feet"
+msgstr "脚"
+
+#. UI.TRADESCREEN.HAND
+msgctxt "UI.TRADESCREEN.HAND"
+msgid "Hands"
+msgstr "手"
+
+#. UI.TRADESCREEN.KITCOON_GAME.ABANDONED_BODY
+msgctxt "UI.TRADESCREEN.KITCOON_GAME.ABANDONED_BODY"
+msgid "Sadly, {name} was feeling neglected. They went looking for the affection, food and tidier home that they felt they deserved."
+msgstr "{name}很难过，因为感到被冷落了。它去别的地方寻找好感、食物和更整洁的家了。 "
+
+#. UI.TRADESCREEN.KITCOON_GAME.ABANDONED_TITLE
+msgctxt "UI.TRADESCREEN.KITCOON_GAME.ABANDONED_TITLE"
+msgid "{name} has abandoned you."
+msgstr "{name}抛弃了你。"
+
+#. UI.TRADESCREEN.KITCOON_GAME.CLEAR_POOP
+msgctxt "UI.TRADESCREEN.KITCOON_GAME.CLEAR_POOP"
+msgid "Clear Poop"
+msgstr "清理粪便"
+
+#. UI.TRADESCREEN.KITCOON_GAME.FEED
+msgctxt "UI.TRADESCREEN.KITCOON_GAME.FEED"
+msgid "Feed {name}"
+msgstr "喂养{name}"
+
+#. UI.TRADESCREEN.KITCOON_GAME.HELP_TITLE
+msgctxt "UI.TRADESCREEN.KITCOON_GAME.HELP_TITLE"
+msgid "Collar Me Impressed"
+msgstr "大展身手吧"
+
+#. UI.TRADESCREEN.KITCOON_GAME.HIBERNATE
+msgctxt "UI.TRADESCREEN.KITCOON_GAME.HIBERNATE"
+msgid "Send {name} to hibernate"
+msgstr "送{name}去冬眠"
+
+#. UI.TRADESCREEN.KITCOON_GAME.HIBERNATING
+msgctxt "UI.TRADESCREEN.KITCOON_GAME.HIBERNATING"
+msgid "{name} is hibernating."
+msgstr "{name}正在冬眠。"
+
+#. UI.TRADESCREEN.KITCOON_GAME.NAME_AGE
+msgctxt "UI.TRADESCREEN.KITCOON_GAME.NAME_AGE"
+msgid "{name} is {age} days old."
+msgstr "{name}已经{age}天大了。"
+
+#. UI.TRADESCREEN.KITCOON_GAME.NAME_POPUP_BODY
+msgctxt "UI.TRADESCREEN.KITCOON_GAME.NAME_POPUP_BODY"
+msgid "Any name is great, but pick one that is meaningful to you!"
+msgstr "每个名字都很好，选一个对你有意义的名字吧！"
+
+#. UI.TRADESCREEN.KITCOON_GAME.NAME_POPUP_TITLE
+msgctxt "UI.TRADESCREEN.KITCOON_GAME.NAME_POPUP_TITLE"
+msgid "Name your Kitcoon"
+msgstr "为你的小浣猫起个名字"
+
+#. UI.TRADESCREEN.KITCOON_GAME.OKAY
+msgctxt "UI.TRADESCREEN.KITCOON_GAME.OKAY"
+msgid "Okay"
+msgstr "确定"
+
+#. UI.TRADESCREEN.KITCOON_GAME.PICKUP_NAMETAG
+msgctxt "UI.TRADESCREEN.KITCOON_GAME.PICKUP_NAMETAG"
+msgid "Pick up Kit Collar"
+msgstr "捡起小浣猫项圈"
+
+#. UI.TRADESCREEN.KITCOON_GAME.PLAY_WITH
+msgctxt "UI.TRADESCREEN.KITCOON_GAME.PLAY_WITH"
+msgid "Play with {name}"
+msgstr "和{name}一起玩"
+
+#. UI.TRADESCREEN.KITCOON_GAME.WAKE
+msgctxt "UI.TRADESCREEN.KITCOON_GAME.WAKE"
+msgid "Wake {name} from hibernation"
+msgstr "让{name}从冬眠中醒来"
+
+#. UI.TRADESCREEN.LEGS
+msgctxt "UI.TRADESCREEN.LEGS"
+msgid "Legs"
+msgstr "腿"
+
+#. UI.TRADESCREEN.LESS_THAN_DAY
+msgctxt "UI.TRADESCREEN.LESS_THAN_DAY"
+msgid "Less Than A Day Remaining"
+msgstr "剩下不到一天"
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.HAND.1
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.HAND.1"
+msgid "Test"
+msgstr "测试"
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.1
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.1"
+msgid "It seems you've a few admirers lurking in the shadows."
+msgstr "似乎有几个你的仰慕者在暗影中潜行。"
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.10
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.10"
+msgid "Be at ease, mortal. We exist outside time, here."
+msgstr "淡定点，人类。我们存在于时间之外，这个地方。"
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.11
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.11"
+msgid "I'll admit, I've always found Chesters endearing."
+msgstr "我承认，我一直觉得切斯特很惹人喜爱。"
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.12
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.12"
+msgid "[Chortle] You mortals have been quite enamored with the throne, haven't you?"
+msgstr "[笑起来] 你们人类很迷恋王座，是吧？"
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.13
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.13"
+msgid "[The shadow murmurs something, but you cannot comprehend the words.]"
+msgstr "[暗影念念有词，但你听不懂那些话。]"
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.2
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.2"
+msgid "Do you ever tire of that ratty old mortal body?"
+msgstr "你对那破旧的肉身有没有厌倦过？"
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.3
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.3"
+msgid "[Sigh] Immortality is such a burden."
+msgstr "[叹气] 不道德真是一种负担。"
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.4
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.4"
+msgid "You're a long way from home are you not, little mortal?"
+msgstr "小小的人类，你这是背井离乡了吧？"
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.5
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.5"
+msgid "You must recount your corporeal stories to me some time, mortal."
+msgstr "人类，把你的肉身故事对我娓娓道来。"
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.6
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.6"
+msgid "Fear the dark, little mortal."
+msgstr "小小的人类，惧怕这黑暗吧。"
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.7
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.7"
+msgid "[Chortle] Have you met her yet?"
+msgstr "[笑起来] 你见过她了吗？"
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.8
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.8"
+msgid "Your realm is a bit frazzled around the edges, hm?"
+msgstr "你的王国处于疲惫的边缘了，哈？"
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.9
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.9"
+msgid "Tell me, have you traveled through the Gateway yet?"
+msgstr "告诉我，你有没有穿越过大门？"
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.START.1
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.START.1"
+msgid "Greetings, mortal. Have you brought chests? I'll be happy to reveal your gifts, if so."
+msgstr "你好啊，人类。你有没有带来了箱子？如果有，我很乐意揭晓你的礼物。"
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.START.2
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.START.2"
+msgid "Greetings, mortal. I sense a chest in your possession! Please, be my guest."
+msgstr "你好啊，人类。我感觉到你拥有一个箱子！请别客气。"
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.START.3
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.START.3"
+msgid "Greetings, mortal. Come to receive gifts from the Shadow realm? You need only open your chests."
+msgstr "你好啊，人类。来接受暗影世界的礼物吗？只需要打开你的箱子就行。"
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.START_EMPTY.1
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.START_EMPTY.1"
+msgid "Greetings, mortal. No chests today? A shame."
+msgstr "你好啊，人类，今天没箱子吗？真遗憾。"
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.START_EMPTY.2
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.START_EMPTY.2"
+msgid "Greetings, mortal. I sense you have no chests. You have been adventuring, yes?"
+msgstr "你好啊，人类。我感觉到你没有箱子。你最近在冒险吗？"
+
+#. UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.START_EMPTY.3
+msgctxt "UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.START_EMPTY.3"
+msgid "Greetings, mortal. Chests to find their way to you on your travels. I'll be here, until then."
+msgstr "你好啊，人类。箱子会在你的旅程中找到你。在那之前，我会一直在这里。"
+
+#. UI.TRADESCREEN.MARKET
+msgctxt "UI.TRADESCREEN.MARKET"
+msgid "Steam"
+msgstr "Steam"
+
+#. UI.TRADESCREEN.NEXT
+msgctxt "UI.TRADESCREEN.NEXT"
+msgid "Next Special"
+msgstr "下个特价"
+
+#. UI.TRADESCREEN.NOSPECIALS
+msgctxt "UI.TRADESCREEN.NOSPECIALS"
+msgid "Unspecials"
+msgstr "普通物品"
+
+#. UI.TRADESCREEN.NO_RECIPES
+msgctxt "UI.TRADESCREEN.NO_RECIPES"
+msgid "No offers"
+msgstr "无提供"
+
+#. UI.TRADESCREEN.OK
+msgctxt "UI.TRADESCREEN.OK"
+msgid "OK"
+msgstr "好的"
+
+#. UI.TRADESCREEN.PREV
+msgctxt "UI.TRADESCREEN.PREV"
+msgid "Prev. Special"
+msgstr "上个特价"
+
+#. UI.TRADESCREEN.RECIPE_INGREDIENT_ITEM
+msgctxt "UI.TRADESCREEN.RECIPE_INGREDIENT_ITEM"
+msgid "<number> <rarity> <colour><item><plural>"
+msgstr "<number> <rarity> <colour><item>"
+
+#. UI.TRADESCREEN.RECIPE_INGREDIENT_RARITY
+msgctxt "UI.TRADESCREEN.RECIPE_INGREDIENT_RARITY"
+msgid "Any <number> <rarity> Item<plural>"
+msgstr "任何<number> <rarity>物品"
+
+#. UI.TRADESCREEN.RECIPE_INGREDIENT_TAGS
+msgctxt "UI.TRADESCREEN.RECIPE_INGREDIENT_TAGS"
+msgid "<number> <rarity> <tags>Item<plural>"
+msgstr "<number> <rarity> <tags>物品"
+
+#. UI.TRADESCREEN.RECIPE_TITLE
+msgctxt "UI.TRADESCREEN.RECIPE_TITLE"
+msgid "Wanted: <rarity> Items"
+msgstr "求购：<rarity>物品"
+
+#. UI.TRADESCREEN.REDBIRD_GAME.EGG_TIMER
+msgctxt "UI.TRADESCREEN.REDBIRD_GAME.EGG_TIMER"
+msgid "Egg Timer:"
+msgstr "鸟蛋计时器："
+
+#. UI.TRADESCREEN.REDBIRD_GAME.EGG_TIMER_OVER
+msgctxt "UI.TRADESCREEN.REDBIRD_GAME.EGG_TIMER_OVER"
+msgid "Game Over"
+msgstr "游戏结束"
+
+#. UI.TRADESCREEN.REDBIRD_GAME.EGG_TIMER_SPOILED
+msgctxt "UI.TRADESCREEN.REDBIRD_GAME.EGG_TIMER_SPOILED"
+msgid "The egg is rotten!"
+msgstr "鸟蛋已经坏掉了！"
+
+#. UI.TRADESCREEN.REDBIRD_GAME.GAME_OVER_POPUP_BODY
+msgctxt "UI.TRADESCREEN.REDBIRD_GAME.GAME_OVER_POPUP_BODY"
+msgid "Great job countin'.\nYou completed {eggs} eggs for a total of {score} points!"
+msgstr "数的真棒！\n你完成了{eggs}颗鸟蛋，得到了{score}分！"
+
+#. UI.TRADESCREEN.REDBIRD_GAME.GAME_OVER_POPUP_BODY_SINGULAR
+msgctxt "UI.TRADESCREEN.REDBIRD_GAME.GAME_OVER_POPUP_BODY_SINGULAR"
+msgid "Great job countin'.\nYou completed 1 egg for a total of {score} points!"
+msgstr "数的真棒！\n你完成了1颗鸟蛋，得到了{score}分！"
+
+#. UI.TRADESCREEN.REDBIRD_GAME.GAME_OVER_POPUP_TITLE
+msgctxt "UI.TRADESCREEN.REDBIRD_GAME.GAME_OVER_POPUP_TITLE"
+msgid "All done countin'"
+msgstr "所有的都数完了"
+
+#. UI.TRADESCREEN.REDBIRD_GAME.GAME_SCORE
+msgctxt "UI.TRADESCREEN.REDBIRD_GAME.GAME_SCORE"
+msgid "Score: "
+msgstr "分数："
+
+#. UI.TRADESCREEN.REDBIRD_GAME.HELP
+msgctxt "UI.TRADESCREEN.REDBIRD_GAME.HELP"
+msgid "Help"
+msgstr "帮助"
+
+#. UI.TRADESCREEN.REDBIRD_GAME.HELP_BODY
+msgctxt "UI.TRADESCREEN.REDBIRD_GAME.HELP_BODY"
+msgid "Combine tiles to add up to 100. Completing a tile with a value of 100 earns you a large amount of points. The faster you add, the more points you'll receive.\n\nGood luck!"
+msgstr "把数字相加得到100。\n成功相加得到100后，会为你赢取大量的分数。你加的越快，得到的分数越高。\n\n祝你好运！"
+
+#. UI.TRADESCREEN.REDBIRD_GAME.HELP_TITLE
+msgctxt "UI.TRADESCREEN.REDBIRD_GAME.HELP_TITLE"
+msgid "An Eggy Tally"
+msgstr "鸟蛋总和"
+
+#. UI.TRADESCREEN.REDBIRD_GAME.HIGH_SCORE
+msgctxt "UI.TRADESCREEN.REDBIRD_GAME.HIGH_SCORE"
+msgid "High Score: "
+msgstr "最高分："
+
+#. UI.TRADESCREEN.REDBIRD_GAME.OPEN_GIFT
+msgctxt "UI.TRADESCREEN.REDBIRD_GAME.OPEN_GIFT"
+msgid "Open Gift"
+msgstr "打开礼物"
+
+#. UI.TRADESCREEN.REDBIRD_GAME.REPORTING
+msgctxt "UI.TRADESCREEN.REDBIRD_GAME.REPORTING"
+msgid "Reporting Eggy sums..."
+msgstr "上报鸟蛋总和……"
+
+#. UI.TRADESCREEN.REDBIRD_GAME.THANKS
+msgctxt "UI.TRADESCREEN.REDBIRD_GAME.THANKS"
+msgid "Thanks for playing!"
+msgstr "感谢赏玩！"
+
+#. UI.TRADESCREEN.REMOVE_ITEM
+msgctxt "UI.TRADESCREEN.REMOVE_ITEM"
+msgid "Remove Item"
+msgstr "删除物品"
+
+#. UI.TRADESCREEN.RESET
+msgctxt "UI.TRADESCREEN.RESET"
+msgid "Reset"
+msgstr "重置"
+
+#. UI.TRADESCREEN.SELECT
+msgctxt "UI.TRADESCREEN.SELECT"
+msgid "Select"
+msgstr "选择"
+
+#. UI.TRADESCREEN.SELECT_TITLE
+msgctxt "UI.TRADESCREEN.SELECT_TITLE"
+msgid "Choose Items To Swap"
+msgstr "选择要交易的物品"
+
+#. UI.TRADESCREEN.SERVER_ERROR_BODY
+msgctxt "UI.TRADESCREEN.SERVER_ERROR_BODY"
+msgid "There was an error trading your items. Please login again to refresh your account inventory."
+msgstr "您的物品交易出现错误。请重新登录，刷新您的账户库存。"
+
+#. UI.TRADESCREEN.SERVER_ERROR_TITLE
+msgctxt "UI.TRADESCREEN.SERVER_ERROR_TITLE"
+msgid "Error Trading Items"
+msgstr "交易物品出错"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORE.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORE.1"
+msgid "Help a poor old trader out with a few more <rarity> items and I'll give ya a higher quality item in exchange. Guaranteed."
+msgstr "多拿几件<rarity>的物品 来帮助我这个可怜的 老商人，作为交换， 我会给你更好的物品， 我保证。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORE.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORE.2"
+msgid "I'm gonna need a few more <rarity> items to make a trade. I gotta cover my overhead, ya know? But ya'll get a better item in exchange."
+msgstr "我还需要几件<rarity>的 物品来做交易。 我得贴补我的日常开支 ，你知道？但是 作为交换，我会 给你更好的物品。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORE.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORE.3"
+msgid "Tha's it, fill tha machine on up with <rarity> items and ya'll get a higher quality item back out."
+msgstr "就是它。把<rarity>物品 投入机器，你会 得到更好的物品。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORE.4
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORE.4"
+msgid "Tha's tha ticket. Just bang a few more a those <rarity> items in tha machine to get a better item!"
+msgstr "这就是票据。只要再投 几个<rarity>物品 投入机器，你会 得到更好的物品！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORESPECIALS.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORESPECIALS.1"
+msgid "Ya got tha rest of tha stuff I'm lookin' for? If not, come back in a few days an' there might be a new deal."
+msgstr "你有了我要的东西？ 如果没，几天后再来， 这里可能会有新交易。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORESPECIALS.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORESPECIALS.2"
+msgid "I just need tha rest of tha items on tha list. Bang 'em on in tha machine an' it'll spit out a higher quality item for ya."
+msgstr "我要清单上其他物品。 把它们放在机器上， 会吐出更好的物品。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.HAND.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.HAND.1"
+msgid "Pleased ta meecha."
+msgstr "很高兴见到你。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.HAND.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.HAND.2"
+msgid "Pleasure doin' business with ya."
+msgstr "很高兴与你做生意。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.1"
+msgid "Ya may not feel young, but I've been tradin' longer than ya been around, young pup."
+msgstr "你可能 觉得自己不是新手， 但我在这交易的时间 比你在这长多了， 小家伙。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.2"
+msgid "I've always been a loner, me. Tha boss mostly lets me alone, which suits me fine."
+msgstr "我一直独来独往。 老大总是让我一个人， 这倒是很适合我。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.3"
+msgid "Take y'er time. I can stand here yammerin' all day."
+msgstr "慢慢来。我可以 在这站一整天。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.4
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.4"
+msgid "My wagon's pulled by a nox. 'Es a good 'un, but 'e can't hold a candle to my old mule, Shadow."
+msgstr "我的货车是诺克斯的， 比不上 我的暗影老骡子。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.5
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.5"
+msgid "Once, when I was but a young shaver... ah, but ya don' wanna listen to an old trader's stories."
+msgstr "曾经，当我还是个 小理发匠的时候 ...哈，你可能不会 想听一个老商人的故事。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.6
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.6"
+msgid "What's a nox? Well, I don't know as I can rightly describe it. It's kinda like an ox, but not."
+msgstr "什么是诺克斯？嗯， 我不知道是否描述对。 它有点像牛， 但又不是牛。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.JOYSTICK.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.JOYSTICK.1"
+msgid "Ya can bang on that joystick all ya want but it won't do ya no good."
+msgstr "你可以打砸操作杆， 但这对你没什么用。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.JOYSTICK.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.JOYSTICK.2"
+msgid "Don't ya go breakin' tha joystick, now. Ya don' need it anyhow."
+msgstr "别把操作杆弄折了。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.JOYSTICK.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.JOYSTICK.3"
+msgid "Up, down, left, right, tha joystick don' do nothin'."
+msgstr "上、下、左、右， 这个操作杆一点用 也没有。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.RESULT.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.RESULT.1"
+msgid "Here ya go, one very fine <item>!"
+msgstr "给，一件非常精美 的<item>！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.RESULT.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.RESULT.2"
+msgid "Look a' that, ya won a <item>. C'mon back anytime, now."
+msgstr "看，你赢得了一件 <item>。 随时回来。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.RESULT.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.RESULT.3"
+msgid "There ya go, ya got this here <item>."
+msgstr "干得漂亮！ 你赢得了一件<item>。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.RESULT_LUCKY.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.RESULT_LUCKY.1"
+msgid "Hey, ya struck it rich! Look at that <item>. Ya must be extra lucky today."
+msgstr "嘿，发财了！ 看那个<item>。 你今天真幸运。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.RESULT_LUCKY.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.RESULT_LUCKY.2"
+msgid "Here ya go, one bran' new <item>. Jus' remember I can't afford to give ya items this good all tha time."
+msgstr "就是它了。一个 全新的<item>。 你要记住，我给不起 你这么好物品。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.RESULT_LUCKY.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.RESULT_LUCKY.3"
+msgid "Well, I guess me & tha machine are feelin' gen'rous today. Ya won a <item>!"
+msgstr "好吧，我猜我和机器 今天都特别慷慨！ 你赢得了一个<item>。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.RESULT_LUCKY.4
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.RESULT_LUCKY.4"
+msgid "Ain't that just tha koalefant's toenails! Ya got one very purty <item>."
+msgstr "这不仅是 考拉象脚趾甲！ 你得到了个 超级棒的<item>。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.SPECIALRECIPE.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.SPECIALRECIPE.1"
+msgid "If ya give me tha items on tha list, I'll give ya a higher quality item in exchange."
+msgstr "如果你给我 清单上的物品， 作为交换，我会给你 一件更好的物品。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.SPECIALRECIPE.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.SPECIALRECIPE.2"
+msgid "Take a look at tha list. Get me all tha things on it and I'll give ya a better item."
+msgstr "看下清单。 给我清单上所有东西， 我会给你 一件更好的物品。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.SPECIALRECIPE.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.SPECIALRECIPE.3"
+msgid "Ya got tha items on tha list? Stick 'em in there and ya'll get a better item out 'o tha machine."
+msgstr "你有清单上的物品？ 把它们插进去， 你会从机器中得到 一件更好的物品。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.SPECIALS.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.SPECIALS.1"
+msgid "These're my special deals. Gimme tha stuff I'm looking for and I'll give ya a better item in exchange."
+msgstr "这是我的特殊交易。 给我需要的物品， 作为交易，我会给你 更棒的物品。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.SPECIALS.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.SPECIALS.2"
+msgid "I'm lookin' for some particular things right now. If ya can give 'em to me, I'll give ya a new one of higher quality."
+msgstr "我正在寻找 某些特殊的东西。 如果你把它们给我， 我就会给你更好的东西。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.SPECIALS.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.SPECIALS.3"
+msgid "Tha special deals are cheaper than tha normal ones, but ya gotta give me tha exact things I'm lookin' for."
+msgstr "特殊交易 比普通交易合算， 但你要给我 我要的东西。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START.1"
+msgid "Ya got a heap 'o items? Want better items? Well, ya come to tha right place! Put 'em in that thar machine!"
+msgstr "你有一堆的物品？ 想要更好的物品吗？ 嗯，你来对地方了！ 将你的物品放入机器！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START.2"
+msgid "Got too many items? I can help ya with that problem! Stick 'em in my machine an' trade 'em for somethin' better!"
+msgstr "物品太多了？ 我能帮你解决这个问题！ 将物品插入机器， 用它们交换 更好的物品！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START.3"
+msgid "Lookin' for new items? Trade in some old items and get a bran' new one of higher quality!"
+msgstr "在寻找新物品？ 用旧物品来交换吧， 你会得到更好的新物品！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START.4
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START.4"
+msgid "Lookin' to trade? Ya come to the right place. Put your items in tha machine to get somethin' better!"
+msgstr "想做交易吗？ 你来对地方了。 把你的物品放入机器， 就会得到更好的东西！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START_EMPTY.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START_EMPTY.1"
+msgid "C'mon back when ya got something ta trade!"
+msgstr "你有东西交易时 欢迎再来！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START_EMPTY.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START_EMPTY.2"
+msgid "Sorry, but I can't give ya something for nothing, ya know."
+msgstr "抱歉， 但我不能白送给你， 你知道。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START_EMPTY.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START_EMPTY.3"
+msgid "If ya find any items while y'er adventuring around out there, ya can bring the ones ya don't need ta me."
+msgstr "如果你在冒险时 找到了任何物品， 你可以把你不需要的 物品带到我这来交易。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADE.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADE.1"
+msgid "It'll be here in a jiffy."
+msgstr "一眨眼的功夫就来了。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADE.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADE.2"
+msgid "I bet ya can't wait to see what comes out!"
+msgstr "我打赌你很期待 会出来什么！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADE.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADE.3"
+msgid "It should be here real soon now."
+msgstr "它应该很快 就会到这儿来。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADEAVAIL.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADEAVAIL.1"
+msgid "All right, kid. Give tha button a push to getcher item!"
+msgstr "好吧，孩子。 按下按键，启动机器， 得到物品！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADEAVAIL.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADEAVAIL.2"
+msgid "Just push tha button to start tha trade!"
+msgstr "按下按键，开始交易！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADEAVAIL.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADEAVAIL.3"
+msgid "If ya wanna make tha trade, just push tha green button."
+msgstr "想做交易的话， 只要按下绿键。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.WARNING.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.WARNING.1"
+msgid "Slow down there, greenhorn. Are ya sure ya wanna gimme your last one 'o those? Ya won't be able ta use it anymore if ya do."
+msgstr "慢点，新手。 你确定 想用掉最后一个吗？ 用完之后 ，你可再也没有了。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.WARNING.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.WARNING.2"
+msgid "Wait jest a tick there. Tha's your last one o' those things. Ya won't be able to use it anymore if ya trade it away."
+msgstr "稍等一下， 那是你最后一件东西。 如果你把它也交易了， 那么你就不能 再使用它了。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.WARNING.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.WARNING.3"
+msgid "Ya ain't got no more o' those. Ya sure ya wanna get rid o' it? Not that I won't take it, o' course."
+msgstr "你不会再有这个了。 你确定你想摆脱它？ 当然我肯定会收的。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.CLEARED_CROW_LOTS.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.CLEARED_CROW_LOTS.1"
+msgid "Yeehaw! Get on out of here!"
+msgstr "咦哈！赶紧飞走吧！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.CLEARED_CROW_LOTS.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.CLEARED_CROW_LOTS.2"
+msgid "Hah! Those are my wrappers!"
+msgstr "哈！这些都是我的糖纸！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.CLEARED_CROW_LOTS.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.CLEARED_CROW_LOTS.3"
+msgid "Seein' those crows scatter is sweeter than my favourite candy!"
+msgstr "看到这些乌鸦被赶走 心里比吃了糖还甜！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.CLEARED_LOTS
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.CLEARED_LOTS"
+msgid "Great work clearin' {tiles_cleared} tiles! Here, I've got something for ya. Take this {powerup}."
+msgstr "干得漂亮， 你清理了{tiles_cleared} 个位置！ 来，我有礼物送你。 拿去这个{powerup}。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.GAME_OVER.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.GAME_OVER.1"
+msgid "Looks like y'er all out of options!"
+msgstr "看来你已经无路可走了！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.GAME_OVER.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.GAME_OVER.2"
+msgid "Try again! There's many more wrappers in my collection to tidy up."
+msgstr "再来一把！ 我的收藏里 还有好多糖纸需要整理。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.GAME_OVER.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.GAME_OVER.3"
+msgid "Thanks for helpin', but I can't give you a better trade. I've got mouths to feed, ya'know."
+msgstr "多谢帮忙，但是 我不能给你折扣。你知道， 我要养家糊口啊。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.GAME_OVER.4
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.GAME_OVER.4"
+msgid "All done for now, but ya made some progress tidyin' up my wrapper collection. "
+msgstr "暂时就这样了， 你为我清理了不少糖纸。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.POWERUP_SELECTED.cane.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.POWERUP_SELECTED.cane.1"
+msgid "That'll help ya get around and collect all look-alike wrappers."
+msgstr "那个会让你行动更便利， 还能收集到 所有一样的糖纸。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.POWERUP_SELECTED.gunpowder.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.POWERUP_SELECTED.gunpowder.1"
+msgid "Careful! That stuff will blow away everythin' near it!"
+msgstr "小心！那东西会炸开 附近的所有东西！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.POWERUP_SELECTED.seeds.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.POWERUP_SELECTED.seeds.1"
+msgid "What are ya doing with those seeds!? Y'er supposed to be chasing the crows away, not attractin' 'em!"
+msgstr "你拿这些种子做什么！？ 你应该把它们赶跑， 不是去吸引它们！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.POWERUP_SELECTED.shovel.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.POWERUP_SELECTED.shovel.1"
+msgid "Cleaning up a whole row. That's smart!"
+msgstr "清理了一整行。好点子！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.POWERUP_SELECTED.spear.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.POWERUP_SELECTED.spear.1"
+msgid "Sharp and precise!"
+msgstr "锋利且精准！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.START.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.START.1"
+msgid "Help me scare off these crows. Don't get any funny ideas though, I won't give you a better deal for helping."
+msgstr "帮我吓走那些乌鸦。 不过可别多想， 我既不会帮你， 也不会因此给你折扣。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.START.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.START.2"
+msgid "Ack! These crows won't leave my wrappers alone."
+msgstr "啊！这些乌鸦 就是不肯放过我的糖纸。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.START.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.START.3"
+msgid "Knew I shouldn't'a left the my wrappers just lyin' around... now these crows are all over my collection!"
+msgstr "我就知道不应该 随便摊开糖纸…… 现在糖纸都被乌鸦糟蹋了！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.START.4
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.START.4"
+msgid "I've done witnessed a murder! And they're stealin' all my hard-earned candy wrappers!"
+msgstr "我算是看到了成群的乌鸦！ 他们在偷走 我辛苦赚来的糖纸！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.START.5
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.START.5"
+msgid "Gimme a hand gettin' rid of these crows, will ya?"
+msgstr "帮我弄走这些乌鸦， 好不好？"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.START.6
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.START.6"
+msgid "Wanna play a game? Help me pick up my wrappers and get rid of those dang crows. Doesn't that sound fun?"
+msgstr "想玩个游戏吗？ 帮我整理下糖纸， 收拾掉这些乌鸦。 听着很有趣吧？"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.START.7
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.START.7"
+msgid "What, ya got something better to do? Help me get these crows outta here!"
+msgstr "什么？你有别的事情？ 帮我把这些乌鸦赶出去！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.USE_POWERUP.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.USE_POWERUP.1"
+msgid "Looks like y'er stuck kid. Maybe ya ought to use one of those tools."
+msgstr "你好像卡住了，孩子。 要不要用一下工具。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.USE_POWERUP.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROW.USE_POWERUP.2"
+msgid "Y'er out of moves, try using a tool to help ya out."
+msgstr "你无处下手了， 试试用用工具突破一下。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.GAME_OVER_100.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.GAME_OVER_100.1"
+msgid "Amazin' work! I can't see a single piece of junk anymore!"
+msgstr "干得漂亮！这下一块垃圾都没了！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.GAME_OVER_100.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.GAME_OVER_100.2"
+msgid "All tidy, just like it was before those pesky crows arrived."
+msgstr "干干净净，回到了那些讨厌的乌鸦到来之前的样子。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.GAME_OVER_25.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.GAME_OVER_25.1"
+msgid "Thanks for cleaning up, I got winded just watchin' ya."
+msgstr "谢谢你打扫卫生，我光是看着你忙活都上气不接下气了。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.GAME_OVER_25.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.GAME_OVER_25.2"
+msgid "The place looks much better. Mighty obliged."
+msgstr "这个地方看起来好多了。超级感谢。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.MORE.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.MORE.1"
+msgid "Keep goin', y'er doin' great!"
+msgstr "继续努力，你做得很好！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.MORE.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.MORE.2"
+msgid "Don't stop now, ya missed a few over there!"
+msgstr "别停下来，你在那边漏掉了一些！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.START.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.START.1"
+msgid "Those pesky crows always leave a mess! Mind tidying up?"
+msgstr "那些讨厌的乌鸦总是弄出一团糟！介意整理一下吗？"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.START.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.START.2"
+msgid "Those birdbrains left their Cawnival stuff all over the place! Go clear it out, would ya?"
+msgstr "这些乌鸦把鸦年华的东西丢得到处都是！你能帮我打扫干净吗？"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.START.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_CROWKID.START.3"
+msgid "This place is littered with old Cawnival junk. Mind taking care of it for me?"
+msgstr "这个地方到处都是旧的鸦年华垃圾。你愿意为我处理一下吗？"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE.1"
+msgid "Eggcellent! That's worth {points} points!"
+msgstr "蛋的漂亮！共值{points}分！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE.2"
+msgid "Well done! Just the way I like my eggs. That's worth {points} points!"
+msgstr "精彩啊！\n蛋就得这么算。\n共值 {points}分！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE.3"
+msgid "So many mouths to feed, another egg will help. {points} points earned!"
+msgstr "有这么多张嘴需要喂饱，\n多一颗蛋能帮上不小的忙。\n总共赚到了{points}分！ "
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE.4
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE.4"
+msgid "Y'er brain is gettin' some eggsercise. I'll give ya {points} points."
+msgstr "你的大脑得到了一些训练。\n我会给你{points}分。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE.5
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE.5"
+msgid "That's worth {points} points! I need half-a-dozen eggs, think ya can get me more?"
+msgstr "这些值{points}分！\n我需要半打的鸟蛋，\n你能再多给我点吗？"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE_ROTTEN.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE_ROTTEN.1"
+msgid "Yuck! No one is going to want to eat that egg."
+msgstr "呀！谁还会想再吃那\n颗蛋。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE_ROTTEN.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE_ROTTEN.2"
+msgid "What's that smell? My nose is tellin' me tha' egg is rotten."
+msgstr "那是什么味道？我的\n鼻子在告诉我那颗蛋坏掉了。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE_ROTTEN.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE_ROTTEN.3"
+msgid "It's startin' to smell like a hot spring."
+msgstr "闻起来跟温泉的味道\n差不多了。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE_ROTTEN.4
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE_ROTTEN.4"
+msgid "Y'er gonna have to work faster than that!"
+msgstr "你得再麻利一点！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE_ROTTEN.5
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE_ROTTEN.5"
+msgid "Ya might be eggshausted, but keep going!"
+msgstr "你也许已经累了，但\n是不能停下！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE_ROTTEN.6
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.EGG_COMPLETE_ROTTEN.6"
+msgid "I like to eggsperiment with my cookin', but that's just gross."
+msgstr "我平时挺喜欢做一些\n实验性的菜的，但是\n你那个简直太恶心了。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.GAME_OVER.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.GAME_OVER.1"
+msgid "Try again! Ya can do better, I know it!"
+msgstr "再试试！ 我知道你可以做的更好！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.GAME_OVER.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.GAME_OVER.2"
+msgid "Y'er all done!"
+msgstr "你该做的都做了！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.GAME_OVER_EGG.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.GAME_OVER_EGG.1"
+msgid "Thanks for the eggs! I certainly do appreciate y'er effort."
+msgstr "多谢你给我这些蛋！\n我十分赞赏你的努力。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.GAME_OVER_REDBIRD.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.GAME_OVER_REDBIRD.1"
+msgid "Amazin' work! Ya deserve a special prize for that."
+msgstr "真不错！你应该得到\n一个特别奖励。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.GAME_OVER_ROTTEN.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.GAME_OVER_ROTTEN.1"
+msgid "Well, ya delivered some eggs. Though I'm not sure how useful they'll be."
+msgstr "好嘞，你送了一些蛋\n来。不过我不知道它\n们能派上多大用场。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.START.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.START.1"
+msgid "I've got a challenge for ya! Add tiles up to 100. Let's see how many points ya can score!"
+msgstr "我有份挑战给你！把\n这些数字加起来得到100\n。看看你能得多少分！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.START.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.START.2"
+msgid "Can ya get me half-a-dozen eggs? A full dozen would be grand!"
+msgstr "你能不能给我半打鸟\n蛋？半打就好！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.START.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.START.3"
+msgid "Better be quick getting those eggs for me. I can't use any rotten ones."
+msgstr "你拿鸟蛋的时候最好\n快一点。要是坏掉了我就用不了了。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.START.4
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.START.4"
+msgid "Use y'er noggin to add up numbers. Get to 100 exactly and a Redbird will lay an egg!"
+msgstr "开动脑筋做加法。两\n两相加得到100之后，红雀就会生下一颗蛋！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.START.5
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_REDBIRD.START.5"
+msgid "Countin' is my specialty. Let's see how good ya can do."
+msgstr "数数是我的专长。\n让我们看看你能做到多好。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.ADD_LIFE.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.ADD_LIFE.1"
+msgid "Yeehaw! I'll give you another guess for that."
+msgstr "咦哟！我再让你猜猜。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.ADD_LIFE.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.ADD_LIFE.2"
+msgid "They sure want in on our feast! Scare 'em away!"
+msgstr "它们想来凑热闹！ 吓走它们！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.ADD_LIFE.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.ADD_LIFE.3"
+msgid "Tha birds are after my favorite! Tha sweet Pumpkin Pie."
+msgstr "鸟儿们想夺走我的最爱！ 甜甜的南瓜饼。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.ADD_LIFE.4
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.ADD_LIFE.4"
+msgid "It's a festive time for sharin' but not with those bothersome birds."
+msgstr "节庆时应该分享喜悦， 但不是跟这群烦人的鸟。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.ADD_LIFE.5
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.ADD_LIFE.5"
+msgid "I've got mouths to feed. Tha birds will have to find their own feast."
+msgstr "我上有老下有小。 这群鸟儿去别的地方 抢吃的吧。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.ADD_LIFE.6
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.ADD_LIFE.6"
+msgid "Ya'll can come back when tha feast is over!"
+msgstr "鸟儿们等盛宴结束 再回来吧！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.GAME_OVER.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.GAME_OVER.1"
+msgid "Y'er all out of guesses!"
+msgstr "你用完猜的次数了！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.GAME_OVER.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.GAME_OVER.2"
+msgid "Try again! Ya can do better, I know it!"
+msgstr "再试试！ 我知道你可以做的更好！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.GAME_OVER.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.GAME_OVER.3"
+msgid "Y'er all done!"
+msgstr "你该做的都做了！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.START.1
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.START.1"
+msgid "Let's play a game! Use that big brain to match pairs of food from the feast!"
+msgstr "我们来玩游戏！ 用你的大脑袋来配对 盛宴的食物！"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.START.2
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.START.2"
+msgid "Use y'er noggin to remember pairs. Chase off any pesky snowbirds while y'er at it."
+msgstr "用心记住食物组合。 顺便赶走那些讨厌的鸟。"
+
+#. UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.START.3
+msgctxt "UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH_SNOW.START.3"
+msgid "My ol' pops taught me this game. Try to remember and match pairs."
+msgstr "我老爸教过我这个游戏。 要用心记， 然后选出成对的组合。"
+
+#. UI.TRADESCREEN.SNOWBIRD
+msgctxt "UI.TRADESCREEN.SNOWBIRD"
+msgid "Chase Snowbird"
+msgstr "驱赶雪雀"
+
+#. UI.TRADESCREEN.SNOW_GAME.GAME_OVER_POPUP_BODY
+msgctxt "UI.TRADESCREEN.SNOW_GAME.GAME_OVER_POPUP_BODY"
+msgid "Great job matching'.\nYou completed {score} pairs!"
+msgstr "连的漂亮。\n你完成了 {score} 组!"
+
+#. UI.TRADESCREEN.SNOW_GAME.GAME_OVER_POPUP_TITLE
+msgctxt "UI.TRADESCREEN.SNOW_GAME.GAME_OVER_POPUP_TITLE"
+msgid "All done rememberin'"
+msgstr "都记完了"
+
+#. UI.TRADESCREEN.SNOW_GAME.GAME_SCORE
+msgctxt "UI.TRADESCREEN.SNOW_GAME.GAME_SCORE"
+msgid "Score: "
+msgstr "分数："
+
+#. UI.TRADESCREEN.SNOW_GAME.HELP
+msgctxt "UI.TRADESCREEN.SNOW_GAME.HELP"
+msgid "Help"
+msgstr "帮助"
+
+#. UI.TRADESCREEN.SNOW_GAME.HELP_BODY
+msgctxt "UI.TRADESCREEN.SNOW_GAME.HELP_BODY"
+msgid "Match pairs of food tiles from the feast. Clearing a pair will cause the tiles above to drop down, so be sure to remember what foods were there. Matching a pair of snowbirds will grant you an extra guess.\n\nGood luck!"
+msgstr "配对盛宴的食物。 成功清理后， 上面的砖块会掉下来， 一定要记住食物的位置。 配对了雪雀后， 会赢得1个额外的 猜测次数。\n\n祝你好运！"
+
+#. UI.TRADESCREEN.SNOW_GAME.HELP_TITLE
+msgctxt "UI.TRADESCREEN.SNOW_GAME.HELP_TITLE"
+msgid "A Feastin' Pair of Birds"
+msgstr "一对准备掠食的鸟"
+
+#. UI.TRADESCREEN.SNOW_GAME.HIGH_SCORE
+msgctxt "UI.TRADESCREEN.SNOW_GAME.HIGH_SCORE"
+msgid "High Score: "
+msgstr "最高分："
+
+#. UI.TRADESCREEN.SNOW_GAME.LIVES
+msgctxt "UI.TRADESCREEN.SNOW_GAME.LIVES"
+msgid "Guesses Remaining: "
+msgstr "剩余猜测次数："
+
+#. UI.TRADESCREEN.SNOW_GAME.OPEN_GIFT
+msgctxt "UI.TRADESCREEN.SNOW_GAME.OPEN_GIFT"
+msgid "Open Gift"
+msgstr "打开礼物"
+
+#. UI.TRADESCREEN.SNOW_GAME.REPORTING
+msgctxt "UI.TRADESCREEN.SNOW_GAME.REPORTING"
+msgid "Reporting feast memories'..."
+msgstr "上报盛宴的回忆……"
+
+#. UI.TRADESCREEN.SNOW_GAME.THANKS
+msgctxt "UI.TRADESCREEN.SNOW_GAME.THANKS"
+msgid "Thanks for playing!"
+msgstr "感谢赏玩！"
+
+#. UI.TRADESCREEN.SOLD_OUT
+msgctxt "UI.TRADESCREEN.SOLD_OUT"
+msgid "Sold Out"
+msgstr "卖出"
+
+#. UI.TRADESCREEN.SPECIALS
+msgctxt "UI.TRADESCREEN.SPECIALS"
+msgid "Specials"
+msgstr "特价"
+
+#. UI.TRADESCREEN.SPECIALS_TITLE
+msgctxt "UI.TRADESCREEN.SPECIALS_TITLE"
+msgid "Specials"
+msgstr "特价"
+
+#. UI.TRADESCREEN.START
+msgctxt "UI.TRADESCREEN.START"
+msgid "Start"
+msgstr "开始"
+
+#. UI.TRADESCREEN.TEMPORARILY_CLOSED_BODY
+msgctxt "UI.TRADESCREEN.TEMPORARILY_CLOSED_BODY"
+msgid "The Trade Inn is closed for a bit.\n\nBe back soon, okay?"
+msgstr "交易小店暂停营业。\n\n回头见，好吧？"
+
+#. UI.TRADESCREEN.TITLE
+msgctxt "UI.TRADESCREEN.TITLE"
+msgid "Trade Inn"
+msgstr "交易小店"
+
+#. UI.TRADESCREEN.TRADE
+msgctxt "UI.TRADESCREEN.TRADE"
+msgid "Trade"
+msgstr "交易"
+
+#. UI.TRADESCREEN.WARNING
+msgctxt "UI.TRADESCREEN.WARNING"
+msgid "You won't be able to wear an item if you give your last one away! Do you really want to trade these items?"
+msgstr "如果你把最后一件物品交出去，你将无法再穿戴它！你确定要把这些物品拿去交换吗？"
+
+#. UI.TRADESCREEN.WARNING_SINGLE
+msgctxt "UI.TRADESCREEN.WARNING_SINGLE"
+msgid "You won't be able to wear an item if you give your last one away! Do you really want to trade this item?"
+msgstr "如果你把最后一件物品交出去，你将无法再穿戴它！你确定要把这件物品拿去交换吗？"
+

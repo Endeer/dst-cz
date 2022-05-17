@@ -1,0 +1,1175 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. SKIN_TAG_CATEGORIES.BEEFCLOTHINGTYPE.BEEFALO_BODY
+msgctxt "SKIN_TAG_CATEGORIES.BEEFCLOTHINGTYPE.BEEFALO_BODY"
+msgid "Beefalo Body"
+msgstr "Corpo di mufalo"
+
+#. SKIN_TAG_CATEGORIES.BEEFCLOTHINGTYPE.BEEFALO_FEET
+msgctxt "SKIN_TAG_CATEGORIES.BEEFCLOTHINGTYPE.BEEFALO_FEET"
+msgid "Beefalo Feet"
+msgstr "Piedi di mufalo"
+
+#. SKIN_TAG_CATEGORIES.BEEFCLOTHINGTYPE.BEEFALO_HEAD
+msgctxt "SKIN_TAG_CATEGORIES.BEEFCLOTHINGTYPE.BEEFALO_HEAD"
+msgid "Beefalo Head"
+msgstr "Testa di mufalo"
+
+#. SKIN_TAG_CATEGORIES.BEEFCLOTHINGTYPE.BEEFALO_HORN
+msgctxt "SKIN_TAG_CATEGORIES.BEEFCLOTHINGTYPE.BEEFALO_HORN"
+msgid "Beefalo Horn"
+msgstr "Corno di mufalo"
+
+#. SKIN_TAG_CATEGORIES.BEEFCLOTHINGTYPE.BEEFALO_TAIL
+msgctxt "SKIN_TAG_CATEGORIES.BEEFCLOTHINGTYPE.BEEFALO_TAIL"
+msgid "Beefalo Tail"
+msgstr "Coda di mufalo"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WALTER
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WALTER"
+msgid "Walter"
+msgstr "Walter"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WANDA
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WANDA"
+msgid "Wanda"
+msgstr "Wanda"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WARLY
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WARLY"
+msgid "Warly"
+msgstr "Warly"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WATHGRITHR
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WATHGRITHR"
+msgid "Wigfrid"
+msgstr "Wigfrid"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WAXWELL
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WAXWELL"
+msgid "Maxwell"
+msgstr "Maxwell"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WEBBER
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WEBBER"
+msgid "Webber"
+msgstr "Webber"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WENDY
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WENDY"
+msgid "Wendy"
+msgstr "Wendy"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WES
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WES"
+msgid "Wes"
+msgstr "Wes"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WICKERBOTTOM
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WICKERBOTTOM"
+msgid "Wickerbottom"
+msgstr "Wickerbottom"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WILLOW
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WILLOW"
+msgid "Willow"
+msgstr "Willow"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WILSON
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WILSON"
+msgid "Wilson"
+msgstr "Wilson"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WINONA
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WINONA"
+msgid "Winona"
+msgstr "Winona"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WOLFGANG
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WOLFGANG"
+msgid "Wolfgang"
+msgstr "Wolfgang"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WOODIE
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WOODIE"
+msgid "Woodie"
+msgstr "Woodie"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WORMWOOD
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WORMWOOD"
+msgid "Wormwood"
+msgstr "Wormwood"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WORTOX
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WORTOX"
+msgid "Wortox"
+msgstr "Wortox"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WURT
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WURT"
+msgid "Wurt"
+msgstr "Wurt"
+
+#. SKIN_TAG_CATEGORIES.CHARACTER.WX78
+msgctxt "SKIN_TAG_CATEGORIES.CHARACTER.WX78"
+msgid "WX-78"
+msgstr "WX-78"
+
+#. SKIN_TAG_CATEGORIES.CLOTHINGTYPE.CLOTHING_BODY
+msgctxt "SKIN_TAG_CATEGORIES.CLOTHINGTYPE.CLOTHING_BODY"
+msgid "Body"
+msgstr "Corpo"
+
+#. SKIN_TAG_CATEGORIES.CLOTHINGTYPE.CLOTHING_FEET
+msgctxt "SKIN_TAG_CATEGORIES.CLOTHINGTYPE.CLOTHING_FEET"
+msgid "Feet"
+msgstr "Piedi"
+
+#. SKIN_TAG_CATEGORIES.CLOTHINGTYPE.CLOTHING_HAND
+msgctxt "SKIN_TAG_CATEGORIES.CLOTHINGTYPE.CLOTHING_HAND"
+msgid "Hand"
+msgstr "Palmo"
+
+#. SKIN_TAG_CATEGORIES.CLOTHINGTYPE.CLOTHING_LEGS
+msgctxt "SKIN_TAG_CATEGORIES.CLOTHINGTYPE.CLOTHING_LEGS"
+msgid "Legs"
+msgstr "Gambe"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.ANCIENT
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.ANCIENT"
+msgid "Ancient Collection"
+msgstr "Collezione antica"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.BOY
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.BOY"
+msgid "Farmhand Collection"
+msgstr "Collezione Lavoratore dei campi"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.CACTUS
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.CACTUS"
+msgid "Oasis Bound Collection"
+msgstr "Collezione Vacanziero"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.CAVE
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.CAVE"
+msgid "Abyssal Collection"
+msgstr "Collezione Abissale"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.CHEF
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.CHEF"
+msgid "Head Chef Collection"
+msgstr "Collezione Capocuoco"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.CIRCUS
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.CIRCUS"
+msgid "Side Show Collection"
+msgstr "Collezione Sideshow"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.COOK
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.COOK"
+msgid "Line Cook Collection"
+msgstr "Collezione Chef de partie"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.COSTUME
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.COSTUME"
+msgid "Costume Collection"
+msgstr "Collezione di costumi"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.COTTAGE
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.COTTAGE"
+msgid "Cottage Collection"
+msgstr "Collezione Cottage"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.CRYSTAL
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.CRYSTAL"
+msgid "Crystalline Collection"
+msgstr "Collezione cristallina"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.DETECTIVE
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.DETECTIVE"
+msgid "Detective Collection"
+msgstr "Collezione Detective"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.FANTASY
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.FANTASY"
+msgid "Fantasmical Collection"
+msgstr "Collezione fantasmica"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.FISHERMAN
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.FISHERMAN"
+msgid "Trawler Collection"
+msgstr "Collezione Pescatore"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.FOOLS
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.FOOLS"
+msgid "Fool's Collection"
+msgstr "Collezione Pesce d'aprile"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.FORMAL
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.FORMAL"
+msgid "Formal Collection"
+msgstr "Collezione formale"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.GOTHIC
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.GOTHIC"
+msgid "Gothic Collection"
+msgstr "Collezione gotica"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.HALLOWED
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.HALLOWED"
+msgid "Hallowed Nights Collection"
+msgstr "Collezione Notti di Hallowed"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.HANDMEDOWN
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.HANDMEDOWN"
+msgid "Hand-me-down Collection"
+msgstr "Collezione Di seconda mano"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.HAUNTEDDOLL
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.HAUNTEDDOLL"
+msgid "Forlorn Doll Collection"
+msgstr "Collezione Bambola solitaria"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.HEART
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.HEART"
+msgid "Heart Collection"
+msgstr "Collezione Cuori"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.HOCKEY
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.HOCKEY"
+msgid "Canadiana Collection"
+msgstr "Collezione Canadese"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.ICE
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.ICE"
+msgid "Snowfallen Collection"
+msgstr "Collezione Nevicata"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.INVISIBLE
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.INVISIBLE"
+msgid "Pantomime Collection"
+msgstr "Collezione Mimo"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.LAVA
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.LAVA"
+msgid "Forge Collection"
+msgstr "Collezione Forgia"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.LUNAR
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.LUNAR"
+msgid "Lunar Collection"
+msgstr "Collezione lunare"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.MIGHTY
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.MIGHTY"
+msgid "Musclebound Collection"
+msgstr "Collezione Pieno di muscoli"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.MINOTAUR
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.MINOTAUR"
+msgid "Minotaur Collection"
+msgstr "Collezione Minotauro"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.MUSHROOM
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.MUSHROOM"
+msgid "Hollow Collection"
+msgstr "Collezione Cavo"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.NAUTICAL
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.NAUTICAL"
+msgid "Nautical Collection"
+msgstr "Collezione Nautica"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.NEXTKIN
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.NEXTKIN"
+msgid "Next of Kin Collection"
+msgstr "Collezione Parente Stretto"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.ORIGINAL
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.ORIGINAL"
+msgid "Uncorrupted Collection"
+msgstr "Collezione Non-corrotto"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.PROMOTION
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.PROMOTION"
+msgid "Promotional Collection"
+msgstr "Collezione promozionale"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.RETRO
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.RETRO"
+msgid "Experimental Collection"
+msgstr "Collezione sperimentale"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.ROSE
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.ROSE"
+msgid "Rose Collection"
+msgstr "Collezione Rose"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.SEASIDE
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.SEASIDE"
+msgid "Seaside Collection"
+msgstr "Collezione Spiaggia"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.SHADOW
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.SHADOW"
+msgid "Shadow Collection"
+msgstr "Collezione Ombra"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.SHORTS
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.SHORTS"
+msgid "Shorts Collection"
+msgstr "Collezione Cortometraggi"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.STEAMPUNK
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.STEAMPUNK"
+msgid "Tinkersmith Collection"
+msgstr "Collezione Aggiustatutto"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.STRONGMAN
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.STRONGMAN"
+msgid "Strongman Collection"
+msgstr "Collezione forzuto"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.SURVIVOR
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.SURVIVOR"
+msgid "Survivor Collection"
+msgstr "Collezione Sopravvissuti"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.T_UPDATE
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.T_UPDATE"
+msgid "An Eye for an Eye Collection"
+msgstr "Collezione Occhio per occhio"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.VALKYRIE
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.VALKYRIE"
+msgid "Winged Victory Collection"
+msgstr "Collezione Vittoria alata"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.VARG
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.VARG"
+msgid "Year of the Varg Collection"
+msgstr "Collezione Anno del varg"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.VICTORIAN
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.VICTORIAN"
+msgid "Victorian Collection"
+msgstr "Collezione Vittoriani"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.WINTER
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.WINTER"
+msgid "Winter Collection"
+msgstr "Collezione invernale"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.YOTC
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.YOTC"
+msgid "Year of the Carrat Collection"
+msgstr "Collezione Anno del caratto"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.YOTP
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.YOTP"
+msgid "Year of the Pig King Collection"
+msgstr "Collezione Anno del re maiale"
+
+#. SKIN_TAG_CATEGORIES.COLLECTION.YULE
+msgctxt "SKIN_TAG_CATEGORIES.COLLECTION.YULE"
+msgid "Merrymaker Collection"
+msgstr "Collezione Entusiasta"
+
+#. SKIN_TAG_CATEGORIES.COLOR.BLACK
+msgctxt "SKIN_TAG_CATEGORIES.COLOR.BLACK"
+msgid "Black"
+msgstr "Nero"
+
+#. SKIN_TAG_CATEGORIES.COLOR.BLUE
+msgctxt "SKIN_TAG_CATEGORIES.COLOR.BLUE"
+msgid "Blue"
+msgstr "Blu"
+
+#. SKIN_TAG_CATEGORIES.COLOR.BROWN
+msgctxt "SKIN_TAG_CATEGORIES.COLOR.BROWN"
+msgid "Brown"
+msgstr "Marrone"
+
+#. SKIN_TAG_CATEGORIES.COLOR.GREEN
+msgctxt "SKIN_TAG_CATEGORIES.COLOR.GREEN"
+msgid "Green"
+msgstr "Verde"
+
+#. SKIN_TAG_CATEGORIES.COLOR.GREY
+msgctxt "SKIN_TAG_CATEGORIES.COLOR.GREY"
+msgid "Gray"
+msgstr "Grigio"
+
+#. SKIN_TAG_CATEGORIES.COLOR.NAVY
+msgctxt "SKIN_TAG_CATEGORIES.COLOR.NAVY"
+msgid "Navy"
+msgstr "Blu Navy"
+
+#. SKIN_TAG_CATEGORIES.COLOR.ORANGE
+msgctxt "SKIN_TAG_CATEGORIES.COLOR.ORANGE"
+msgid "Orange"
+msgstr "Arancione"
+
+#. SKIN_TAG_CATEGORIES.COLOR.PINK
+msgctxt "SKIN_TAG_CATEGORIES.COLOR.PINK"
+msgid "Pink"
+msgstr "Rosa"
+
+#. SKIN_TAG_CATEGORIES.COLOR.PURPLE
+msgctxt "SKIN_TAG_CATEGORIES.COLOR.PURPLE"
+msgid "Purple"
+msgstr "Porpora"
+
+#. SKIN_TAG_CATEGORIES.COLOR.RED
+msgctxt "SKIN_TAG_CATEGORIES.COLOR.RED"
+msgid "Red"
+msgstr "Rosso"
+
+#. SKIN_TAG_CATEGORIES.COLOR.TAN
+msgctxt "SKIN_TAG_CATEGORIES.COLOR.TAN"
+msgid "Tan"
+msgstr "Marrone chiaro"
+
+#. SKIN_TAG_CATEGORIES.COLOR.TEAL
+msgctxt "SKIN_TAG_CATEGORIES.COLOR.TEAL"
+msgid "Teal"
+msgstr "Verde acqua"
+
+#. SKIN_TAG_CATEGORIES.COLOR.WHITE
+msgctxt "SKIN_TAG_CATEGORIES.COLOR.WHITE"
+msgid "White"
+msgstr "Bianco"
+
+#. SKIN_TAG_CATEGORIES.COLOR.YELLOW
+msgctxt "SKIN_TAG_CATEGORIES.COLOR.YELLOW"
+msgid "Yellow"
+msgstr "Giallo"
+
+#. SKIN_TAG_CATEGORIES.ITEM.ABIGAIL
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.ABIGAIL"
+msgid "Abigail"
+msgstr "Abigail"
+
+#. SKIN_TAG_CATEGORIES.ITEM.ALCHEMY
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.ALCHEMY"
+msgid "Alchemy Engine"
+msgstr "Motore di alchimia"
+
+#. SKIN_TAG_CATEGORIES.ITEM.ALTERGUARDIANHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.ALTERGUARDIANHAT"
+msgid "Enlightened Crown"
+msgstr "Corona illuminata"
+
+#. SKIN_TAG_CATEGORIES.ITEM.AMULET_RED
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.AMULET_RED"
+msgid "Life Giving Amulet"
+msgstr "Amuleto vitale"
+
+#. SKIN_TAG_CATEGORIES.ITEM.ARMORGRASS
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.ARMORGRASS"
+msgid "Grass Suit"
+msgstr "Vestito di erba"
+
+#. SKIN_TAG_CATEGORIES.ITEM.ARMORMARBLE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.ARMORMARBLE"
+msgid "Marble Suit"
+msgstr "Tuta in marmo"
+
+#. SKIN_TAG_CATEGORIES.ITEM.ARMORRUINS
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.ARMORRUINS"
+msgid "Thulecite Suit"
+msgstr "Vestito di tulecite"
+
+#. SKIN_TAG_CATEGORIES.ITEM.ARMORSKELETON
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.ARMORSKELETON"
+msgid "Bone Armor"
+msgstr "Armatura di ossa"
+
+#. SKIN_TAG_CATEGORIES.ITEM.ARMORWOOD
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.ARMORWOOD"
+msgid "Log Suit"
+msgstr "Vestito di legno"
+
+#. SKIN_TAG_CATEGORIES.ITEM.ARMOR_SANITY
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.ARMOR_SANITY"
+msgid "Night Armor"
+msgstr "Armatura notturna"
+
+#. SKIN_TAG_CATEGORIES.ITEM.ARROWSIGN_POST
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.ARROWSIGN_POST"
+msgid "Directional Sign"
+msgstr "Segnale direzionale"
+
+#. SKIN_TAG_CATEGORIES.ITEM.AXE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.AXE"
+msgid "Axe"
+msgstr "Ascia"
+
+#. SKIN_TAG_CATEGORIES.ITEM.BACKPACK
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.BACKPACK"
+msgid "Backpack"
+msgstr "Zaino"
+
+#. SKIN_TAG_CATEGORIES.ITEM.BEDROLL
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.BEDROLL"
+msgid "Bed Roll"
+msgstr "Coperta arrotolata"
+
+#. SKIN_TAG_CATEGORIES.ITEM.BEEBOX
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.BEEBOX"
+msgid "Bee Box"
+msgstr "Scatola delle api"
+
+#. SKIN_TAG_CATEGORIES.ITEM.BEEFALOHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.BEEFALOHAT"
+msgid "Beefalo Hat"
+msgstr "Cappello di mufalo"
+
+#. SKIN_TAG_CATEGORIES.ITEM.BEEHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.BEEHAT"
+msgid "Beekeeper Hat"
+msgstr "Cappello da apicoltore"
+
+#. SKIN_TAG_CATEGORIES.ITEM.BEEMINE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.BEEMINE"
+msgid "Bee Mine"
+msgstr "Mina alveare"
+
+#. SKIN_TAG_CATEGORIES.ITEM.BERNIE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.BERNIE"
+msgid "Bernie"
+msgstr "Bernie"
+
+#. SKIN_TAG_CATEGORIES.ITEM.BIRDCAGE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.BIRDCAGE"
+msgid "Birdcage"
+msgstr "Gabbia per pennuti"
+
+#. SKIN_TAG_CATEGORIES.ITEM.BOOK_BRIMSTONE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.BOOK_BRIMSTONE"
+msgid "The End is Nigh!"
+msgstr "La fine è vicina!"
+
+#. SKIN_TAG_CATEGORIES.ITEM.BOOMERANG
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.BOOMERANG"
+msgid "Boomerang"
+msgstr "Boomerang"
+
+#. SKIN_TAG_CATEGORIES.ITEM.BUGNET
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.BUGNET"
+msgid "Bug Net"
+msgstr "Retino per insetti"
+
+#. SKIN_TAG_CATEGORIES.ITEM.BUNDLE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.BUNDLE"
+msgid "Bundled Supplies"
+msgstr "Scorte impacchettate"
+
+#. SKIN_TAG_CATEGORIES.ITEM.CAMPFIRE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.CAMPFIRE"
+msgid "Campfire"
+msgstr "Fuoco da campo"
+
+#. SKIN_TAG_CATEGORIES.ITEM.CANE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.CANE"
+msgid "Cane"
+msgstr "Bastone"
+
+#. SKIN_TAG_CATEGORIES.ITEM.CATCOONHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.CATCOONHAT"
+msgid "Cat Cap"
+msgstr "Berretto del gatto"
+
+#. SKIN_TAG_CATEGORIES.ITEM.CAVEIN_BOULDER
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.CAVEIN_BOULDER"
+msgid "Boulder"
+msgstr "Masso"
+
+#. SKIN_TAG_CATEGORIES.ITEM.CHEST
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.CHEST"
+msgid "Chest"
+msgstr "Scrigno"
+
+#. SKIN_TAG_CATEGORIES.ITEM.CHESTER
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.CHESTER"
+msgid "Chester"
+msgstr "Chester"
+
+#. SKIN_TAG_CATEGORIES.ITEM.COLDFIREPIT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.COLDFIREPIT"
+msgid "Endothermic Fire Pit"
+msgstr "Focolare endotermico"
+
+#. SKIN_TAG_CATEGORIES.ITEM.CROCKPOT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.CROCKPOT"
+msgid "Crock Pot"
+msgstr "Pentola di coccio"
+
+#. SKIN_TAG_CATEGORIES.ITEM.DRAGONFLYCHEST
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.DRAGONFLYCHEST"
+msgid "Scaled Chest"
+msgstr "Scrigno squamato"
+
+#. SKIN_TAG_CATEGORIES.ITEM.DRAGONFLY_FURNACE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.DRAGONFLY_FURNACE"
+msgid "Scaled Furnace"
+msgstr "Fornace squamata"
+
+#. SKIN_TAG_CATEGORIES.ITEM.EARMUFFSHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.EARMUFFSHAT"
+msgid "Rabbit Earmuffs"
+msgstr "Paraorecchie di coniglio"
+
+#. SKIN_TAG_CATEGORIES.ITEM.ENDTABLE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.ENDTABLE"
+msgid "End Table"
+msgstr "Tavolino"
+
+#. SKIN_TAG_CATEGORIES.ITEM.EYEBRELLAHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.EYEBRELLAHAT"
+msgid "Eyebrella"
+msgstr "Occhiombrello"
+
+#. SKIN_TAG_CATEGORIES.ITEM.FARM_HOE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.FARM_HOE"
+msgid "Garden Hoe"
+msgstr "Zappa da orto"
+
+#. SKIN_TAG_CATEGORIES.ITEM.FEATHERFAN
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.FEATHERFAN"
+msgid "Luxury Fan"
+msgstr "Ventaglio di lusso"
+
+#. SKIN_TAG_CATEGORIES.ITEM.FEATHERHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.FEATHERHAT"
+msgid "Feather Hat"
+msgstr "Cappello di piuma"
+
+#. SKIN_TAG_CATEGORIES.ITEM.FENCE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.FENCE"
+msgid "Wood Fence"
+msgstr "Steccato"
+
+#. SKIN_TAG_CATEGORIES.ITEM.FENCE_GATE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.FENCE_GATE"
+msgid "Wood Gate"
+msgstr "Cancello di legno"
+
+#. SKIN_TAG_CATEGORIES.ITEM.FIREPIT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.FIREPIT"
+msgid "Fire Pit"
+msgstr "Focolare"
+
+#. SKIN_TAG_CATEGORIES.ITEM.FIRESTAFF
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.FIRESTAFF"
+msgid "Fire Staff"
+msgstr "Bastone di fuoco"
+
+#. SKIN_TAG_CATEGORIES.ITEM.FIRESUPPRESSOR
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.FIRESUPPRESSOR"
+msgid "Ice Flingomatic"
+msgstr "Lanciaghiaccio"
+
+#. SKIN_TAG_CATEGORIES.ITEM.FISHBOX
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.FISHBOX"
+msgid "Tin Fishin' Bin "
+msgstr "Scatola del pescatore "
+
+#. SKIN_TAG_CATEGORIES.ITEM.FLOWERHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.FLOWERHAT"
+msgid "Garland"
+msgstr "Ghirlanda"
+
+#. SKIN_TAG_CATEGORIES.ITEM.FOOTBALLHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.FOOTBALLHAT"
+msgid "Football Helmet"
+msgstr "Casco da football"
+
+#. SKIN_TAG_CATEGORIES.ITEM.GLASSCUTTER
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.GLASSCUTTER"
+msgid "Glass Cutter"
+msgstr "Mannaia di vetro"
+
+#. SKIN_TAG_CATEGORIES.ITEM.GLOMMER
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.GLOMMER"
+msgid "Glommer"
+msgstr "Glommo"
+
+#. SKIN_TAG_CATEGORIES.ITEM.GOLDENAXE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.GOLDENAXE"
+msgid "Luxury Axe"
+msgstr "Ascia di lusso"
+
+#. SKIN_TAG_CATEGORIES.ITEM.GOLDENFARMHOE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.GOLDENFARMHOE"
+msgid "Splendid Garden Hoe"
+msgstr "Zappa da orto superba"
+
+#. SKIN_TAG_CATEGORIES.ITEM.GOLDENPICKAXE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.GOLDENPICKAXE"
+msgid "Opulent Pickaxe"
+msgstr "Piccone opulento"
+
+#. SKIN_TAG_CATEGORIES.ITEM.GOLDENSHOVEL
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.GOLDENSHOVEL"
+msgid "Regal Shovel"
+msgstr "Pala regale"
+
+#. SKIN_TAG_CATEGORIES.ITEM.GRASS_UMBRELLA
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.GRASS_UMBRELLA"
+msgid "Pretty Parasol"
+msgstr "Ombrellino grazioso"
+
+#. SKIN_TAG_CATEGORIES.ITEM.GREENSTAFF
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.GREENSTAFF"
+msgid "Deconstruction Staff"
+msgstr "Bastone decostruttivo"
+
+#. SKIN_TAG_CATEGORIES.ITEM.HAMBAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.HAMBAT"
+msgid "Ham Bat"
+msgstr "Prosciutto di pipistrello"
+
+#. SKIN_TAG_CATEGORIES.ITEM.HAMMER
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.HAMMER"
+msgid "Hammer"
+msgstr "Martello"
+
+#. SKIN_TAG_CATEGORIES.ITEM.HEATROCK
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.HEATROCK"
+msgid "Thermal Stone"
+msgstr "Pietra termale"
+
+#. SKIN_TAG_CATEGORIES.ITEM.HUTCH
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.HUTCH"
+msgid "Hutch"
+msgstr "Hutch"
+
+#. SKIN_TAG_CATEGORIES.ITEM.ICEBOX
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.ICEBOX"
+msgid "Ice Box"
+msgstr "Recipiente di ghiaccio"
+
+#. SKIN_TAG_CATEGORIES.ITEM.ICESTAFF
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.ICESTAFF"
+msgid "Ice Staff"
+msgstr "Bastone glaciale"
+
+#. SKIN_TAG_CATEGORIES.ITEM.KRAMPUS_SACK
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.KRAMPUS_SACK"
+msgid "Krampus Sack"
+msgstr "Sacco di Krampus"
+
+#. SKIN_TAG_CATEGORIES.ITEM.LANTERN
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.LANTERN"
+msgid "Lantern"
+msgstr "Lanterna"
+
+#. SKIN_TAG_CATEGORIES.ITEM.LIGHTER
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.LIGHTER"
+msgid "Willow's Lighter"
+msgstr "Accendino di Willow"
+
+#. SKIN_TAG_CATEGORIES.ITEM.LIGHTNING_ROD
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.LIGHTNING_ROD"
+msgid "Lightning Rod"
+msgstr "Parafulmine"
+
+#. SKIN_TAG_CATEGORIES.ITEM.LUREPLANT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.LUREPLANT"
+msgid "Lureplant"
+msgstr "Pianta adescatrice"
+
+#. SKIN_TAG_CATEGORIES.ITEM.MANIPULATOR
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.MANIPULATOR"
+msgid "Shadow Manipulator"
+msgstr "Manipolatore d'ombra"
+
+#. SKIN_TAG_CATEGORIES.ITEM.MAST
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.MAST"
+msgid "Mast"
+msgstr "Albero maestro"
+
+#. SKIN_TAG_CATEGORIES.ITEM.MASTUPGRADE_LAMP
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.MASTUPGRADE_LAMP"
+msgid "Deck Illuminator"
+msgstr "Illuminatore di ponte"
+
+#. SKIN_TAG_CATEGORIES.ITEM.MASTUPGRADE_ROD
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.MASTUPGRADE_ROD"
+msgid "Lightning Conductor"
+msgstr "Conduttore di fulmini"
+
+#. SKIN_TAG_CATEGORIES.ITEM.MEATRACK
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.MEATRACK"
+msgid "Drying Rack"
+msgstr "Essiccatore"
+
+#. SKIN_TAG_CATEGORIES.ITEM.MERMHOUSE_CRAFTED
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.MERMHOUSE_CRAFTED"
+msgid "Craftsmerm House"
+msgstr "Casa del mermo artigiano"
+
+#. SKIN_TAG_CATEGORIES.ITEM.MINISIGN
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.MINISIGN"
+msgid "Mini Sign"
+msgstr "Mini segnale"
+
+#. SKIN_TAG_CATEGORIES.ITEM.MULTITOOL_AXE_PICKAXE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.MULTITOOL_AXE_PICKAXE"
+msgid "Pick/Axe"
+msgstr "Piccascia"
+
+#. SKIN_TAG_CATEGORIES.ITEM.MUSHROOM_LIGHT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.MUSHROOM_LIGHT"
+msgid "Mushlight"
+msgstr "Luce di fungo"
+
+#. SKIN_TAG_CATEGORIES.ITEM.MUSHROOM_LIGHT2
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.MUSHROOM_LIGHT2"
+msgid "Glowcap"
+msgstr "Cappello luminescente"
+
+#. SKIN_TAG_CATEGORIES.ITEM.NIGHTSWORD
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.NIGHTSWORD"
+msgid "Dark Sword"
+msgstr "Spada oscura"
+
+#. SKIN_TAG_CATEGORIES.ITEM.OAR
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.OAR"
+msgid "Oar"
+msgstr "Remo"
+
+#. SKIN_TAG_CATEGORIES.ITEM.OARDRIFTWOOD
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.OARDRIFTWOOD"
+msgid "Driftwood Oar"
+msgstr "Remo di legno marino"
+
+#. SKIN_TAG_CATEGORIES.ITEM.OCEANFISHINGROD
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.OCEANFISHINGROD"
+msgid "Sea Fishing Rod"
+msgstr "Canna per pesca in mare"
+
+#. SKIN_TAG_CATEGORIES.ITEM.ORANGESTAFF
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.ORANGESTAFF"
+msgid "The Lazy Explorer"
+msgstr "L'esploratore pigro"
+
+#. SKIN_TAG_CATEGORIES.ITEM.PANFLUTE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.PANFLUTE"
+msgid "Pan Flute"
+msgstr "Flauto di Pan"
+
+#. SKIN_TAG_CATEGORIES.ITEM.PICKAXE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.PICKAXE"
+msgid "Pickaxe"
+msgstr "Piccone"
+
+#. SKIN_TAG_CATEGORIES.ITEM.PIGGYBACK
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.PIGGYBACK"
+msgid "Piggyback"
+msgstr "Zaino suino"
+
+#. SKIN_TAG_CATEGORIES.ITEM.PIGHOUSE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.PIGHOUSE"
+msgid "Pig House"
+msgstr "Casa del maiale"
+
+#. SKIN_TAG_CATEGORIES.ITEM.PITCHFORK
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.PITCHFORK"
+msgid "Pitchfork"
+msgstr "Forcone"
+
+#. SKIN_TAG_CATEGORIES.ITEM.RABBITHOUSE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.RABBITHOUSE"
+msgid "Rabbit Hutch"
+msgstr "Conigliera"
+
+#. SKIN_TAG_CATEGORIES.ITEM.RAINOMETER
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.RAINOMETER"
+msgid "Rainometer"
+msgstr "Pioggiometro"
+
+#. SKIN_TAG_CATEGORIES.ITEM.RAZOR
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.RAZOR"
+msgid "Razor"
+msgstr "Rasoio"
+
+#. SKIN_TAG_CATEGORIES.ITEM.RESKIN
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.RESKIN"
+msgid "Clean Sweeper"
+msgstr "Scopino rinnovatore"
+
+#. SKIN_TAG_CATEGORIES.ITEM.REVIVER
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.REVIVER"
+msgid "Telltale Heart"
+msgstr "Cuore rivelatore"
+
+#. SKIN_TAG_CATEGORIES.ITEM.RUINSHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.RUINSHAT"
+msgid "Thulecite Crown"
+msgstr "Corona di tulecite"
+
+#. SKIN_TAG_CATEGORIES.ITEM.RUINS_BAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.RUINS_BAT"
+msgid "Thulecite Club"
+msgstr "Mazza di tulecite"
+
+#. SKIN_TAG_CATEGORIES.ITEM.SADDLE_BASIC
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.SADDLE_BASIC"
+msgid "Saddle"
+msgstr "Sella"
+
+#. SKIN_TAG_CATEGORIES.ITEM.SALTBOX
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.SALTBOX"
+msgid "Salt Box"
+msgstr "Recipiente di sale"
+
+#. SKIN_TAG_CATEGORIES.ITEM.SCIENCEMACHINE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.SCIENCEMACHINE"
+msgid "Science Machine"
+msgstr "Macchina della scienza"
+
+#. SKIN_TAG_CATEGORIES.ITEM.SCULPTINGTABLE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.SCULPTINGTABLE"
+msgid "Potter's Wheel"
+msgstr "Ruota del vasaio"
+
+#. SKIN_TAG_CATEGORIES.ITEM.SEAFARINGPROTO
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.SEAFARINGPROTO"
+msgid "Think Tank"
+msgstr "Serbatoio pensante"
+
+#. SKIN_TAG_CATEGORIES.ITEM.SEEDPOUCH
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.SEEDPOUCH"
+msgid "Seed Pack-It"
+msgstr "Zaino dei semi"
+
+#. SKIN_TAG_CATEGORIES.ITEM.SHOVEL
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.SHOVEL"
+msgid "Shovel"
+msgstr "Pala"
+
+#. SKIN_TAG_CATEGORIES.ITEM.SKELETONHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.SKELETONHAT"
+msgid "Bone Helm"
+msgstr "Elmetto di ossa"
+
+#. SKIN_TAG_CATEGORIES.ITEM.SPEAR
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.SPEAR"
+msgid "Spear"
+msgstr "Lancia"
+
+#. SKIN_TAG_CATEGORIES.ITEM.SPEAR_WATHGRITHR
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.SPEAR_WATHGRITHR"
+msgid "Battle Spear"
+msgstr "Lancia da battaglia"
+
+#. SKIN_TAG_CATEGORIES.ITEM.STEERINGWHEEL
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.STEERINGWHEEL"
+msgid "Steering Wheel"
+msgstr "Timone"
+
+#. SKIN_TAG_CATEGORIES.ITEM.STRAWHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.STRAWHAT"
+msgid "Straw Hat"
+msgstr "Cappello di paglia"
+
+#. SKIN_TAG_CATEGORIES.ITEM.SUPERTACKLECONTAINER
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.SUPERTACKLECONTAINER"
+msgid "Spectackler Box"
+msgstr "Bi-cassetta da pesca"
+
+#. SKIN_TAG_CATEGORIES.ITEM.TACKLECONTAINER
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.TACKLECONTAINER"
+msgid "Tackle Box"
+msgstr "Cassetta da pesca"
+
+#. SKIN_TAG_CATEGORIES.ITEM.TELEBASE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.TELEBASE"
+msgid "Telelocator Focus"
+msgstr "Concentra-telelocatore"
+
+#. SKIN_TAG_CATEGORIES.ITEM.TELESTAFF
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.TELESTAFF"
+msgid "Telelocator Staff"
+msgstr "Bastone telelocatore"
+
+#. SKIN_TAG_CATEGORIES.ITEM.TENT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.TENT"
+msgid "Tent"
+msgstr "Tenda"
+
+#. SKIN_TAG_CATEGORIES.ITEM.TOPHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.TOPHAT"
+msgid "Top Hat"
+msgstr "Cappello a cilindro"
+
+#. SKIN_TAG_CATEGORIES.ITEM.TORCH
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.TORCH"
+msgid "Torch"
+msgstr "Torcia"
+
+#. SKIN_TAG_CATEGORIES.ITEM.TRAP
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.TRAP"
+msgid "Trap"
+msgstr "Trappola"
+
+#. SKIN_TAG_CATEGORIES.ITEM.TRAP_TEETH
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.TRAP_TEETH"
+msgid "Tooth Trap"
+msgstr "Trappola dentale"
+
+#. SKIN_TAG_CATEGORIES.ITEM.UMBRELLA
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.UMBRELLA"
+msgid "Umbrella"
+msgstr "Ombrello"
+
+#. SKIN_TAG_CATEGORIES.ITEM.WALL_MOONROCK
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.WALL_MOONROCK"
+msgid "Moon Rock Wall"
+msgstr "Muro di lunaroccia"
+
+#. SKIN_TAG_CATEGORIES.ITEM.WALL_RUINS
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.WALL_RUINS"
+msgid "Thulecite Wall"
+msgstr "Muro di tulecite"
+
+#. SKIN_TAG_CATEGORIES.ITEM.WALL_STONE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.WALL_STONE"
+msgid "Stone Wall"
+msgstr "Muro di pietra"
+
+#. SKIN_TAG_CATEGORIES.ITEM.WALRUSHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.WALRUSHAT"
+msgid "Tam o' Shanter"
+msgstr "Tam o' shanter"
+
+#. SKIN_TAG_CATEGORIES.ITEM.WALTERHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.WALTERHAT"
+msgid "Pinetree Pioneer Hat"
+msgstr "Cappello da Pioniere dei pini"
+
+#. SKIN_TAG_CATEGORIES.ITEM.WARDROBE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.WARDROBE"
+msgid "Wardrobe"
+msgstr "Guardaroba"
+
+#. SKIN_TAG_CATEGORIES.ITEM.WATERINGCAN
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.WATERINGCAN"
+msgid "Watering Can"
+msgstr "Annaffiatoio"
+
+#. SKIN_TAG_CATEGORIES.ITEM.WATERMELONHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.WATERMELONHAT"
+msgid "Fashion Melon"
+msgstr "Anguria di moda"
+
+#. SKIN_TAG_CATEGORIES.ITEM.WATHGRITHRHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.WATHGRITHRHAT"
+msgid "Battle Helm"
+msgstr "Elmo da battaglia"
+
+#. SKIN_TAG_CATEGORIES.ITEM.WEBBER_BEARD
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.WEBBER_BEARD"
+msgid "Webber's Beard"
+msgstr "Barba di Webber"
+
+#. SKIN_TAG_CATEGORIES.ITEM.WHIP
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.WHIP"
+msgid "Tail o' Three Cats"
+msgstr "Tre code di gatto"
+
+#. SKIN_TAG_CATEGORIES.ITEM.WILSON_BEARD
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.WILSON_BEARD"
+msgid "Wilson's Beard"
+msgstr "Barba di Wilson"
+
+#. SKIN_TAG_CATEGORIES.ITEM.WINTERHAT
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.WINTERHAT"
+msgid "Winter Hat"
+msgstr "Cappello invernale"
+
+#. SKIN_TAG_CATEGORIES.ITEM.WINTEROMETER
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.WINTEROMETER"
+msgid "Thermal Measurer"
+msgstr "Misuratore termico"
+
+#. SKIN_TAG_CATEGORIES.ITEM.WORMHOLE
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.WORMHOLE"
+msgid "Worm Hole"
+msgstr "Buco del verme"
+
+#. SKIN_TAG_CATEGORIES.ITEM.YELLOWSTAFF
+msgctxt "SKIN_TAG_CATEGORIES.ITEM.YELLOWSTAFF"
+msgid "Star Caller's Staff"
+msgstr "Bastone chiamastelle"
+
+#. SKIN_TAG_CATEGORIES.TYPE.BASE
+msgctxt "SKIN_TAG_CATEGORIES.TYPE.BASE"
+msgid "Head/Base"
+msgstr "Testa/base"
+
+#. SKIN_TAG_CATEGORIES.TYPE.BEEFALO
+msgctxt "SKIN_TAG_CATEGORIES.TYPE.BEEFALO"
+msgid "Beefalo Clothing"
+msgstr "Abiti per mufali"
+
+#. SKIN_TAG_CATEGORIES.TYPE.CHARACTER
+msgctxt "SKIN_TAG_CATEGORIES.TYPE.CHARACTER"
+msgid "Character"
+msgstr "Personaggio"
+
+#. SKIN_TAG_CATEGORIES.TYPE.CLOTHING
+msgctxt "SKIN_TAG_CATEGORIES.TYPE.CLOTHING"
+msgid "Clothing"
+msgstr "Abbigliamento"
+
+#. SKIN_TAG_CATEGORIES.TYPE.CRAFTABLE
+msgctxt "SKIN_TAG_CATEGORIES.TYPE.CRAFTABLE"
+msgid "Craftable"
+msgstr "Forgiabile"
+
+#. SKIN_TAG_CATEGORIES.TYPE.CUP
+msgctxt "SKIN_TAG_CATEGORIES.TYPE.CUP"
+msgid "Cup"
+msgstr "Tazza"
+
+#. SKIN_TAG_CATEGORIES.TYPE.EMOJI
+msgctxt "SKIN_TAG_CATEGORIES.TYPE.EMOJI"
+msgid "Emoticon"
+msgstr "Emoticon"
+
+#. SKIN_TAG_CATEGORIES.TYPE.EMOTE
+msgctxt "SKIN_TAG_CATEGORIES.TYPE.EMOTE"
+msgid "Emote"
+msgstr "Emote"
+
+#. SKIN_TAG_CATEGORIES.TYPE.LOADING
+msgctxt "SKIN_TAG_CATEGORIES.TYPE.LOADING"
+msgid "Loading Image"
+msgstr "Caricamento immagine..."
+
+#. SKIN_TAG_CATEGORIES.TYPE.MYSTERYBOX
+msgctxt "SKIN_TAG_CATEGORIES.TYPE.MYSTERYBOX"
+msgid "Mystery Box"
+msgstr "Scatola misteriosa"
+
+#. SKIN_TAG_CATEGORIES.TYPE.PET
+msgctxt "SKIN_TAG_CATEGORIES.TYPE.PET"
+msgid "Critter"
+msgstr "Creatura"
+
+#. SKIN_TAG_CATEGORIES.TYPE.PLAYERPORTRAIT
+msgctxt "SKIN_TAG_CATEGORIES.TYPE.PLAYERPORTRAIT"
+msgid "Player Portrait"
+msgstr "Ritratto giocatore"
+
+#. SKIN_TAG_CATEGORIES.TYPE.PROFILEFLAIR
+msgctxt "SKIN_TAG_CATEGORIES.TYPE.PROFILEFLAIR"
+msgid "Profile Icon"
+msgstr "Icona del profilo"
+

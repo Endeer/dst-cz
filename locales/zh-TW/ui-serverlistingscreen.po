@@ -1,0 +1,805 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.SERVERLISTINGSCREEN.ANY
+msgctxt "UI.SERVERLISTINGSCREEN.ANY"
+msgid "Any"
+msgstr "任意"
+
+#. UI.SERVERLISTINGSCREEN.BACK
+msgctxt "UI.SERVERLISTINGSCREEN.BACK"
+msgid "Back"
+msgstr "返回"
+
+#. UI.SERVERLISTINGSCREEN.CANCEL
+msgctxt "UI.SERVERLISTINGSCREEN.CANCEL"
+msgid "Cancel"
+msgstr "取消"
+
+#. UI.SERVERLISTINGSCREEN.CHANGE_SORT
+msgctxt "UI.SERVERLISTINGSCREEN.CHANGE_SORT"
+msgid "Change Sort"
+msgstr "更改順序"
+
+#. UI.SERVERLISTINGSCREEN.CHANGE_TABS
+msgctxt "UI.SERVERLISTINGSCREEN.CHANGE_TABS"
+msgid "Change Tab"
+msgstr "更改選項卡"
+
+#. UI.SERVERLISTINGSCREEN.CHAR_AGE_1
+msgctxt "UI.SERVERLISTINGSCREEN.CHAR_AGE_1"
+msgid "Survived "
+msgstr "倖存了"
+
+#. UI.SERVERLISTINGSCREEN.CHAR_AGE_2
+msgctxt "UI.SERVERLISTINGSCREEN.CHAR_AGE_2"
+msgid " Day"
+msgstr "天"
+
+#. UI.SERVERLISTINGSCREEN.CHAR_AGE_3
+msgctxt "UI.SERVERLISTINGSCREEN.CHAR_AGE_3"
+msgid " Days"
+msgstr "天"
+
+#. UI.SERVERLISTINGSCREEN.CLANONLY
+msgctxt "UI.SERVERLISTINGSCREEN.CLANONLY"
+msgid "Steam Group:"
+msgstr "Steam 群組："
+
+#. UI.SERVERLISTINGSCREEN.CLAN_CLOSED_ICON_HOVER
+msgctxt "UI.SERVERLISTINGSCREEN.CLAN_CLOSED_ICON_HOVER"
+msgid "Private Group Server (Your Group)"
+msgstr "私人群伺服器（你的群組）"
+
+#. UI.SERVERLISTINGSCREEN.CLAN_OPEN_ICON_HOVER
+msgctxt "UI.SERVERLISTINGSCREEN.CLAN_OPEN_ICON_HOVER"
+msgid "Group Server (Your Group)"
+msgstr "群組伺服器（你的群組）"
+
+#. UI.SERVERLISTINGSCREEN.CLAN_OTHER_ICON_HOVER
+msgctxt "UI.SERVERLISTINGSCREEN.CLAN_OTHER_ICON_HOVER"
+msgid "Group Server"
+msgstr "群組伺服器"
+
+#. UI.SERVERLISTINGSCREEN.CLIENT_MODS_DISABLED_BODY
+msgctxt "UI.SERVERLISTINGSCREEN.CLIENT_MODS_DISABLED_BODY"
+msgid "Your client mods will be temporarily disabled while playing on this server."
+msgstr "在這個伺服器上玩遊戲時，你的用戶端模組將暫時被禁用。"
+
+#. UI.SERVERLISTINGSCREEN.CLIENT_MODS_DISABLED_TITLE
+msgctxt "UI.SERVERLISTINGSCREEN.CLIENT_MODS_DISABLED_TITLE"
+msgid "Client Mods Disabled"
+msgstr "用戶端模組被禁用"
+
+#. UI.SERVERLISTINGSCREEN.CLOUD_SAVE_HOVER
+msgctxt "UI.SERVERLISTINGSCREEN.CLOUD_SAVE_HOVER"
+msgid "Cloud Save"
+msgstr "雲存檔"
+
+#. UI.SERVERLISTINGSCREEN.CONNECTION
+msgctxt "UI.SERVERLISTINGSCREEN.CONNECTION"
+msgid "Connection:"
+msgstr "連接："
+
+#. UI.SERVERLISTINGSCREEN.CONTINUE
+msgctxt "UI.SERVERLISTINGSCREEN.CONTINUE"
+msgid "Continue"
+msgstr "繼續"
+
+#. UI.SERVERLISTINGSCREEN.CUSTOM
+msgctxt "UI.SERVERLISTINGSCREEN.CUSTOM"
+msgid "Custom"
+msgstr "自訂"
+
+#. UI.SERVERLISTINGSCREEN.DAYDESC
+msgctxt "UI.SERVERLISTINGSCREEN.DAYDESC"
+msgid "Day "
+msgstr "天"
+
+#. UI.SERVERLISTINGSCREEN.DEDICATED
+msgctxt "UI.SERVERLISTINGSCREEN.DEDICATED"
+msgid "Dedicated"
+msgstr "專用"
+
+#. UI.SERVERLISTINGSCREEN.DEDICATED_ICON_HOVER
+msgctxt "UI.SERVERLISTINGSCREEN.DEDICATED_ICON_HOVER"
+msgid "Dedicated Server"
+msgstr "專用伺服器"
+
+#. UI.SERVERLISTINGSCREEN.DEDICATED_KLEI_ICON_HOVER
+msgctxt "UI.SERVERLISTINGSCREEN.DEDICATED_KLEI_ICON_HOVER"
+msgid "Klei Official Server"
+msgstr "科雷官方伺服器"
+
+#. UI.SERVERLISTINGSCREEN.DESC_LOADING
+msgctxt "UI.SERVERLISTINGSCREEN.DESC_LOADING"
+msgid "[Description Loading...]"
+msgstr "[描述載入中...]"
+
+#. UI.SERVERLISTINGSCREEN.DETAILS
+msgctxt "UI.SERVERLISTINGSCREEN.DETAILS"
+msgid "Details"
+msgstr "詳細資訊"
+
+#. UI.SERVERLISTINGSCREEN.DIRECTCONNECT
+msgctxt "UI.SERVERLISTINGSCREEN.DIRECTCONNECT"
+msgid "Direct Connect"
+msgstr "直接連接"
+
+#. UI.SERVERLISTINGSCREEN.EARLY_SEASON_1
+msgctxt "UI.SERVERLISTINGSCREEN.EARLY_SEASON_1"
+msgid "Early "
+msgstr "早"
+
+#. UI.SERVERLISTINGSCREEN.EARLY_SEASON_2
+msgctxt "UI.SERVERLISTINGSCREEN.EARLY_SEASON_2"
+msgid ""
+msgstr ""
+
+#. UI.SERVERLISTINGSCREEN.EVENT
+msgctxt "UI.SERVERLISTINGSCREEN.EVENT"
+msgid "Event:"
+msgstr "事件："
+
+#. UI.SERVERLISTINGSCREEN.FILTERS
+msgctxt "UI.SERVERLISTINGSCREEN.FILTERS"
+msgid "Filters"
+msgstr "篩檢程式"
+
+#. UI.SERVERLISTINGSCREEN.FILTER_RESET
+msgctxt "UI.SERVERLISTINGSCREEN.FILTER_RESET"
+msgid "Reset Filters"
+msgstr "重設篩檢程式"
+
+#. UI.SERVERLISTINGSCREEN.FRIENDSONLY
+msgctxt "UI.SERVERLISTINGSCREEN.FRIENDSONLY"
+msgid "Friends:"
+msgstr "好友："
+
+#. UI.SERVERLISTINGSCREEN.FRIEND_ICON_HOVER
+msgctxt "UI.SERVERLISTINGSCREEN.FRIEND_ICON_HOVER"
+msgid "Friends Playing"
+msgstr "好友遊戲中"
+
+#. UI.SERVERLISTINGSCREEN.FRIEND_SERVER_ICON_HOVER
+msgctxt "UI.SERVERLISTINGSCREEN.FRIEND_SERVER_ICON_HOVER"
+msgid "Friend-Hosted"
+msgstr "好友創建"
+
+#. UI.SERVERLISTINGSCREEN.GAMEMODE
+msgctxt "UI.SERVERLISTINGSCREEN.GAMEMODE"
+msgid "Game Mode:"
+msgstr "遊戲模式："
+
+#. UI.SERVERLISTINGSCREEN.GROUP_LOADING
+msgctxt "UI.SERVERLISTINGSCREEN.GROUP_LOADING"
+msgid "Group Loading..."
+msgstr "群組載入中….."
+
+#. UI.SERVERLISTINGSCREEN.GROUP_NONE
+msgctxt "UI.SERVERLISTINGSCREEN.GROUP_NONE"
+msgid "No group"
+msgstr "無群組"
+
+#. UI.SERVERLISTINGSCREEN.GROUP_UNKNOWN
+msgctxt "UI.SERVERLISTINGSCREEN.GROUP_UNKNOWN"
+msgid "Group Unknown"
+msgstr "未知群組"
+
+#. UI.SERVERLISTINGSCREEN.HASCHARACTER
+msgctxt "UI.SERVERLISTINGSCREEN.HASCHARACTER"
+msgid "Previously Visited:"
+msgstr "訪問歷史："
+
+#. UI.SERVERLISTINGSCREEN.HASPASSWORD
+msgctxt "UI.SERVERLISTINGSCREEN.HASPASSWORD"
+msgid "Password Protected:"
+msgstr "密碼保護："
+
+#. UI.SERVERLISTINGSCREEN.HASPASSWORD_DETAIL
+msgctxt "UI.SERVERLISTINGSCREEN.HASPASSWORD_DETAIL"
+msgid "Password Protected"
+msgstr "密碼保護"
+
+#. UI.SERVERLISTINGSCREEN.HASPVP
+msgctxt "UI.SERVERLISTINGSCREEN.HASPVP"
+msgid "PvP:"
+msgstr "玩家對戰："
+
+#. UI.SERVERLISTINGSCREEN.HASPVP_DETAIL
+msgctxt "UI.SERVERLISTINGSCREEN.HASPVP_DETAIL"
+msgid "PvP"
+msgstr "玩家對戰"
+
+#. UI.SERVERLISTINGSCREEN.HIDDEN_DESCRIPTION
+msgctxt "UI.SERVERLISTINGSCREEN.HIDDEN_DESCRIPTION"
+msgid "*****"
+msgstr "*****"
+
+#. UI.SERVERLISTINGSCREEN.HIDDEN_NAME
+msgctxt "UI.SERVERLISTINGSCREEN.HIDDEN_NAME"
+msgid "This server name has been filtered"
+msgstr "伺服器名稱已過濾"
+
+#. UI.SERVERLISTINGSCREEN.HIDDEN_NAME_LISTING
+msgctxt "UI.SERVERLISTINGSCREEN.HIDDEN_NAME_LISTING"
+msgid "This server name has been filtered"
+msgstr "伺服器名稱已過濾"
+
+#. UI.SERVERLISTINGSCREEN.HOSTED
+msgctxt "UI.SERVERLISTINGSCREEN.HOSTED"
+msgid "Hosted"
+msgstr "玩家創建"
+
+#. UI.SERVERLISTINGSCREEN.INTENTION_BUTTON
+msgctxt "UI.SERVERLISTINGSCREEN.INTENTION_BUTTON"
+msgid "Choose Playstyle"
+msgstr "選擇遊戲風格"
+
+#. UI.SERVERLISTINGSCREEN.INTENTION_DESC.ANY
+msgctxt "UI.SERVERLISTINGSCREEN.INTENTION_DESC.ANY"
+msgid "You're, like, laidback and flexible, man. Any world is good with you."
+msgstr "你就像從容靈活的人。任何世界都適合你。"
+
+#. UI.SERVERLISTINGSCREEN.INTENTION_DESC.COMPETITIVE
+msgctxt "UI.SERVERLISTINGSCREEN.INTENTION_DESC.COMPETITIVE"
+msgid "You'll show your opponents exactly what you're made of by playing smarter, harder, faster and coming out on top!"
+msgstr "玩得更機智、迅速、努力，玩到頂峰，你會讓你的對手知道你是誰！"
+
+#. UI.SERVERLISTINGSCREEN.INTENTION_DESC.COOPERATIVE
+msgctxt "UI.SERVERLISTINGSCREEN.INTENTION_DESC.COOPERATIVE"
+msgid "Teamwork is your guiding principal. It's not enough to just not starve, you have to not starve... Together!"
+msgstr "團隊合作是指導方針！不挨餓還不夠 ，大家必須吃飽……一起！"
+
+#. UI.SERVERLISTINGSCREEN.INTENTION_DESC.MADNESS
+msgctxt "UI.SERVERLISTINGSCREEN.INTENTION_DESC.MADNESS"
+msgid "Who knows what'll happen next? Mass fighting, crazy dance parties, pits filled with carnivorous spiders... it's pure madness!"
+msgstr "誰知道下一刻會發生什麼？大規模戰鬥、瘋狂的舞會、爬滿食肉蜘蛛的坑…….純粹是瘋狂！"
+
+#. UI.SERVERLISTINGSCREEN.INTENTION_DESC.SOCIAL
+msgctxt "UI.SERVERLISTINGSCREEN.INTENTION_DESC.SOCIAL"
+msgid "You want to hang out, make friends, and play for fun. You don't care so much if you win or lose, as long as everyone's having a good time!"
+msgstr "想出去玩、交朋友、開心地玩。不要太在意輸贏，只要每個人會玩得開心！"
+
+#. UI.SERVERLISTINGSCREEN.INTENTION_FILTER
+msgctxt "UI.SERVERLISTINGSCREEN.INTENTION_FILTER"
+msgid "Playstyle:"
+msgstr "遊戲風格："
+
+#. UI.SERVERLISTINGSCREEN.INTENTION_TITLE
+msgctxt "UI.SERVERLISTINGSCREEN.INTENTION_TITLE"
+msgid "What's your playstyle?"
+msgstr "你的遊戲風格是什麼？"
+
+#. UI.SERVERLISTINGSCREEN.ISDEDICATED
+msgctxt "UI.SERVERLISTINGSCREEN.ISDEDICATED"
+msgid "Dedicated Server"
+msgstr "專用伺服器"
+
+#. UI.SERVERLISTINGSCREEN.ISEMPTY
+msgctxt "UI.SERVERLISTINGSCREEN.ISEMPTY"
+msgid "Show Empty Servers:"
+msgstr "顯示空閒伺服器："
+
+#. UI.SERVERLISTINGSCREEN.ISFULL
+msgctxt "UI.SERVERLISTINGSCREEN.ISFULL"
+msgid "Show Full Servers:"
+msgstr "顯示滿員伺服器："
+
+#. UI.SERVERLISTINGSCREEN.ISPAUSED
+msgctxt "UI.SERVERLISTINGSCREEN.ISPAUSED"
+msgid "Hide Paused Servers:"
+msgstr "隱藏暫停的伺服器："
+
+#. UI.SERVERLISTINGSCREEN.JOIN
+msgctxt "UI.SERVERLISTINGSCREEN.JOIN"
+msgid "Join"
+msgstr "加入"
+
+#. UI.SERVERLISTINGSCREEN.LAN
+msgctxt "UI.SERVERLISTINGSCREEN.LAN"
+msgid "LAN"
+msgstr "LAN"
+
+#. UI.SERVERLISTINGSCREEN.LATE_SEASON_1
+msgctxt "UI.SERVERLISTINGSCREEN.LATE_SEASON_1"
+msgid "Late "
+msgstr "晚"
+
+#. UI.SERVERLISTINGSCREEN.LATE_SEASON_2
+msgctxt "UI.SERVERLISTINGSCREEN.LATE_SEASON_2"
+msgid ""
+msgstr ""
+
+#. UI.SERVERLISTINGSCREEN.LOGOUT
+msgctxt "UI.SERVERLISTINGSCREEN.LOGOUT"
+msgid "Log Out"
+msgstr "退出"
+
+#. UI.SERVERLISTINGSCREEN.MAXCURRPLAYERS
+msgctxt "UI.SERVERLISTINGSCREEN.MAXCURRPLAYERS"
+msgid "Max Players Active"
+msgstr "最多活躍玩家"
+
+#. UI.SERVERLISTINGSCREEN.MAXSERVERSIZE
+msgctxt "UI.SERVERLISTINGSCREEN.MAXSERVERSIZE"
+msgid "Max Players"
+msgstr "最多玩家"
+
+#. UI.SERVERLISTINGSCREEN.MINCURRPLAYERS
+msgctxt "UI.SERVERLISTINGSCREEN.MINCURRPLAYERS"
+msgid "Min Players Active"
+msgstr "最少活躍玩家"
+
+#. UI.SERVERLISTINGSCREEN.MINE
+msgctxt "UI.SERVERLISTINGSCREEN.MINE"
+msgid "Mine"
+msgstr "我的"
+
+#. UI.SERVERLISTINGSCREEN.MINOPENSLOTS
+msgctxt "UI.SERVERLISTINGSCREEN.MINOPENSLOTS"
+msgid "Min Slots Open:"
+msgstr "最低可加入人數："
+
+#. UI.SERVERLISTINGSCREEN.MISSINGDATABODY
+msgctxt "UI.SERVERLISTINGSCREEN.MISSINGDATABODY"
+msgid "This server is not up to date. We cannot display its world settings."
+msgstr "此伺服器未更新。無法顯示其世界設置。"
+
+#. UI.SERVERLISTINGSCREEN.MISSINGDATATITLE
+msgctxt "UI.SERVERLISTINGSCREEN.MISSINGDATATITLE"
+msgid "Out-of-Date Server"
+msgstr "過期伺服器"
+
+#. UI.SERVERLISTINGSCREEN.MODSENABLED
+msgctxt "UI.SERVERLISTINGSCREEN.MODSENABLED"
+msgid "Mods Enabled:"
+msgstr "啟用模組："
+
+#. UI.SERVERLISTINGSCREEN.MODSTITLE
+msgctxt "UI.SERVERLISTINGSCREEN.MODSTITLE"
+msgid "Mods"
+msgstr "模組"
+
+#. UI.SERVERLISTINGSCREEN.MODS_HIDDEN_LAN
+msgctxt "UI.SERVERLISTINGSCREEN.MODS_HIDDEN_LAN"
+msgid "The mods list isn't visible over LAN.\nWhy not scooch over and ask your friend?"
+msgstr "在 LAN 上模組列表不可見。\n為什麼不挪一下位置，詢問你的朋友呢？"
+
+#. UI.SERVERLISTINGSCREEN.MODS_HIDDEN_MISMATCH
+msgctxt "UI.SERVERLISTINGSCREEN.MODS_HIDDEN_MISMATCH"
+msgid "Unable to retrieve mod list due to a version mismatch."
+msgstr "版本不匹配，未能檢索模組列表。"
+
+#. UI.SERVERLISTINGSCREEN.MODS_ICON_HOVER
+msgctxt "UI.SERVERLISTINGSCREEN.MODS_ICON_HOVER"
+msgid "Modded"
+msgstr "已啟用模組"
+
+#. UI.SERVERLISTINGSCREEN.MODS_LOADING
+msgctxt "UI.SERVERLISTINGSCREEN.MODS_LOADING"
+msgid "Mods Loading..."
+msgstr "模組載入中……"
+
+#. UI.SERVERLISTINGSCREEN.MOD_WARNING_BODY
+msgctxt "UI.SERVERLISTINGSCREEN.MOD_WARNING_BODY"
+msgid "This server has mods enabled. Klei won't be able to help if you encounter issues while playing on a modded server."
+msgstr "此伺服器已啟用模組。在啟用模組伺服器上打遊戲時，如果您遇到問題，Klei無法提供幫助。"
+
+#. UI.SERVERLISTINGSCREEN.MOD_WARNING_TITLE
+msgctxt "UI.SERVERLISTINGSCREEN.MOD_WARNING_TITLE"
+msgid "Mods Enabled"
+msgstr "已啟用模組"
+
+#. UI.SERVERLISTINGSCREEN.NAME
+msgctxt "UI.SERVERLISTINGSCREEN.NAME"
+msgid "Name"
+msgstr "名稱"
+
+#. UI.SERVERLISTINGSCREEN.NO
+msgctxt "UI.SERVERLISTINGSCREEN.NO"
+msgid "No"
+msgstr "否"
+
+#. UI.SERVERLISTINGSCREEN.NOMODS
+msgctxt "UI.SERVERLISTINGSCREEN.NOMODS"
+msgid "No Mods"
+msgstr "無模組"
+
+#. UI.SERVERLISTINGSCREEN.NOSERVERSELECTED
+msgctxt "UI.SERVERLISTINGSCREEN.NOSERVERSELECTED"
+msgid "No Server Selected"
+msgstr "未選擇伺服器"
+
+#. UI.SERVERLISTINGSCREEN.NOTAGS
+msgctxt "UI.SERVERLISTINGSCREEN.NOTAGS"
+msgid "No Tags"
+msgstr "無標籤"
+
+#. UI.SERVERLISTINGSCREEN.NO_CONNECTION
+msgctxt "UI.SERVERLISTINGSCREEN.NO_CONNECTION"
+msgid "Not Connected"
+msgstr "未連線"
+
+#. UI.SERVERLISTINGSCREEN.NO_CONNECTION_TO_MASTER_SERVER
+msgctxt "UI.SERVERLISTINGSCREEN.NO_CONNECTION_TO_MASTER_SERVER"
+msgid "Network Error"
+msgstr "網路出錯"
+
+#. UI.SERVERLISTINGSCREEN.NO_CONNECTION_TO_MASTER_SERVER_DESC
+msgctxt "UI.SERVERLISTINGSCREEN.NO_CONNECTION_TO_MASTER_SERVER_DESC"
+msgid "Failed to connect to the master server.\nPlease check your network connection."
+msgstr "無法連接主要伺服器。\n請檢查您的網路連接。"
+
+#. UI.SERVERLISTINGSCREEN.NO_DESC
+msgctxt "UI.SERVERLISTINGSCREEN.NO_DESC"
+msgid "[No Description]"
+msgstr "[無描述]"
+
+#. UI.SERVERLISTINGSCREEN.OFF
+msgctxt "UI.SERVERLISTINGSCREEN.OFF"
+msgid "Off"
+msgstr "關閉"
+
+#. UI.SERVERLISTINGSCREEN.OFFICIAL
+msgctxt "UI.SERVERLISTINGSCREEN.OFFICIAL"
+msgid "Klei Official"
+msgstr "科雷官方伺服器"
+
+#. UI.SERVERLISTINGSCREEN.OFFLINE
+msgctxt "UI.SERVERLISTINGSCREEN.OFFLINE"
+msgid "Offline"
+msgstr "線下"
+
+#. UI.SERVERLISTINGSCREEN.OFFLINEMODEBODYJOIN
+msgctxt "UI.SERVERLISTINGSCREEN.OFFLINEMODEBODYJOIN"
+msgid "Are you sure you want to join an offline world? You will not be able to receive or use Collection Items in this world."
+msgstr "確定加入線下世界？您將無法收到或使用此世界中的收藏物品。"
+
+#. UI.SERVERLISTINGSCREEN.OFFLINEWARNINGTITLE
+msgctxt "UI.SERVERLISTINGSCREEN.OFFLINEWARNINGTITLE"
+msgid "Offline World"
+msgstr "線下世界"
+
+#. UI.SERVERLISTINGSCREEN.OFFLINE_DESC
+msgctxt "UI.SERVERLISTINGSCREEN.OFFLINE_DESC"
+msgid "This is an offline world.\nMany details remain a mystery, but it looks like people are having fun."
+msgstr "這是一個離線世界。\n許多細節還是個迷，但似乎人們都玩得很愉快。"
+
+#. UI.SERVERLISTINGSCREEN.OFFLINE_MODE_BODY
+msgctxt "UI.SERVERLISTINGSCREEN.OFFLINE_MODE_BODY"
+msgid "You are not logged in and can't play in online games.\nTry playing over LAN or restarting the game to log in."
+msgstr "您未登錄，無法玩線上遊戲。\n請嘗試通過 LAN 玩遊戲或重啟遊戲以登錄。"
+
+#. UI.SERVERLISTINGSCREEN.OFFLINE_MODE_BODY_PS4
+msgctxt "UI.SERVERLISTINGSCREEN.OFFLINE_MODE_BODY_PS4"
+msgid "You are currently in offline mode and cannot join online worlds. Please log in and try again."
+msgstr "您當前處於離線模式，無法加入線上世界。請登錄並再次嘗試。"
+
+#. UI.SERVERLISTINGSCREEN.OFFLINE_MODE_TITLE
+msgctxt "UI.SERVERLISTINGSCREEN.OFFLINE_MODE_TITLE"
+msgid "Offline"
+msgstr "線下"
+
+#. UI.SERVERLISTINGSCREEN.OFFLINE_MODE_TITLE_PS4
+msgctxt "UI.SERVERLISTINGSCREEN.OFFLINE_MODE_TITLE_PS4"
+msgid "Online Not Available"
+msgstr "網路不可用"
+
+#. UI.SERVERLISTINGSCREEN.OK
+msgctxt "UI.SERVERLISTINGSCREEN.OK"
+msgid "OK"
+msgstr "好的"
+
+#. UI.SERVERLISTINGSCREEN.ON
+msgctxt "UI.SERVERLISTINGSCREEN.ON"
+msgid "On"
+msgstr "開"
+
+#. UI.SERVERLISTINGSCREEN.ONLINE
+msgctxt "UI.SERVERLISTINGSCREEN.ONLINE"
+msgid "Online"
+msgstr "線上"
+
+#. UI.SERVERLISTINGSCREEN.OUT_OF
+msgctxt "UI.SERVERLISTINGSCREEN.OUT_OF"
+msgid "of"
+msgstr "之"
+
+#. UI.SERVERLISTINGSCREEN.PASSWORDREQUIRED
+msgctxt "UI.SERVERLISTINGSCREEN.PASSWORDREQUIRED"
+msgid "Server Requires Password"
+msgstr "伺服器需要密碼"
+
+#. UI.SERVERLISTINGSCREEN.PASSWORD_ICON_HOVER
+msgctxt "UI.SERVERLISTINGSCREEN.PASSWORD_ICON_HOVER"
+msgid "Passworded"
+msgstr "密碼保護"
+
+#. UI.SERVERLISTINGSCREEN.PAUSED
+msgctxt "UI.SERVERLISTINGSCREEN.PAUSED"
+msgid "Paused"
+msgstr "暫停"
+
+#. UI.SERVERLISTINGSCREEN.PAUSEDWARNING_BODY
+msgctxt "UI.SERVERLISTINGSCREEN.PAUSEDWARNING_BODY"
+msgid "Are you sure you want to join a paused world? You will not be able to play until the server is unpaused."
+msgstr "你確定要加入暫停的世界嗎？在伺服器取消暫停前，你將無法遊戲。"
+
+#. UI.SERVERLISTINGSCREEN.PAUSEDWARNING_TITLE
+msgctxt "UI.SERVERLISTINGSCREEN.PAUSEDWARNING_TITLE"
+msgid "Paused World"
+msgstr "暫停的世界"
+
+#. UI.SERVERLISTINGSCREEN.PHASES.DAY
+msgctxt "UI.SERVERLISTINGSCREEN.PHASES.DAY"
+msgid "Daytime"
+msgstr "白天"
+
+#. UI.SERVERLISTINGSCREEN.PHASES.DUSK
+msgctxt "UI.SERVERLISTINGSCREEN.PHASES.DUSK"
+msgid "Dusk"
+msgstr "黃昏"
+
+#. UI.SERVERLISTINGSCREEN.PHASES.NIGHT
+msgctxt "UI.SERVERLISTINGSCREEN.PHASES.NIGHT"
+msgid "Night"
+msgstr "夜晚"
+
+#. UI.SERVERLISTINGSCREEN.PING
+msgctxt "UI.SERVERLISTINGSCREEN.PING"
+msgid "Ping"
+msgstr "Ping"
+
+#. UI.SERVERLISTINGSCREEN.PLAYERS
+msgctxt "UI.SERVERLISTINGSCREEN.PLAYERS"
+msgid "Players"
+msgstr "玩家"
+
+#. UI.SERVERLISTINGSCREEN.PLAYERS_LOADING
+msgctxt "UI.SERVERLISTINGSCREEN.PLAYERS_LOADING"
+msgid "Players Loading..."
+msgstr "玩家載入中……"
+
+#. UI.SERVERLISTINGSCREEN.PLAYERS_UNKNOWN
+msgctxt "UI.SERVERLISTINGSCREEN.PLAYERS_UNKNOWN"
+msgid "Players Unknown"
+msgstr "未知玩家"
+
+#. UI.SERVERLISTINGSCREEN.PRIVATE
+msgctxt "UI.SERVERLISTINGSCREEN.PRIVATE"
+msgid "Private"
+msgstr "私人"
+
+#. UI.SERVERLISTINGSCREEN.PVP_ICON_HOVER
+msgctxt "UI.SERVERLISTINGSCREEN.PVP_ICON_HOVER"
+msgid "PvP"
+msgstr "玩家對戰"
+
+#. UI.SERVERLISTINGSCREEN.REFRESH
+msgctxt "UI.SERVERLISTINGSCREEN.REFRESH"
+msgid "Refresh"
+msgstr "刷新"
+
+#. UI.SERVERLISTINGSCREEN.REFRESHING
+msgctxt "UI.SERVERLISTINGSCREEN.REFRESHING"
+msgid "Refreshing..."
+msgstr "刷新中..."
+
+#. UI.SERVERLISTINGSCREEN.REPORT
+msgctxt "UI.SERVERLISTINGSCREEN.REPORT"
+msgid "Report Server"
+msgstr "舉報伺服器"
+
+#. UI.SERVERLISTINGSCREEN.REPORTREASON
+msgctxt "UI.SERVERLISTINGSCREEN.REPORTREASON"
+msgid "Reason for Report"
+msgstr "報告原因"
+
+#. UI.SERVERLISTINGSCREEN.SEARCH
+msgctxt "UI.SERVERLISTINGSCREEN.SEARCH"
+msgid "Search"
+msgstr "搜索"
+
+#. UI.SERVERLISTINGSCREEN.SEARCHING_SERVERS
+msgctxt "UI.SERVERLISTINGSCREEN.SEARCHING_SERVERS"
+msgid "Searching Servers..."
+msgstr "正在搜索伺服器..."
+
+#. UI.SERVERLISTINGSCREEN.SEASONFILTER
+msgctxt "UI.SERVERLISTINGSCREEN.SEASONFILTER"
+msgid "Season:"
+msgstr "季節："
+
+#. UI.SERVERLISTINGSCREEN.SEASONS.AUTUMN
+msgctxt "UI.SERVERLISTINGSCREEN.SEASONS.AUTUMN"
+msgid "Autumn"
+msgstr "秋"
+
+#. UI.SERVERLISTINGSCREEN.SEASONS.SPRING
+msgctxt "UI.SERVERLISTINGSCREEN.SEASONS.SPRING"
+msgid "Spring"
+msgstr "春"
+
+#. UI.SERVERLISTINGSCREEN.SEASONS.SUMMER
+msgctxt "UI.SERVERLISTINGSCREEN.SEASONS.SUMMER"
+msgid "Summer"
+msgstr "夏"
+
+#. UI.SERVERLISTINGSCREEN.SEASONS.WINTER
+msgctxt "UI.SERVERLISTINGSCREEN.SEASONS.WINTER"
+msgid "Winter"
+msgstr "冬"
+
+#. UI.SERVERLISTINGSCREEN.SERVERACTIONS
+msgctxt "UI.SERVERLISTINGSCREEN.SERVERACTIONS"
+msgid "Server Actions..."
+msgstr "伺服器操作..."
+
+#. UI.SERVERLISTINGSCREEN.SERVERDETAILS
+msgctxt "UI.SERVERLISTINGSCREEN.SERVERDETAILS"
+msgid "Details"
+msgstr "詳細資訊"
+
+#. UI.SERVERLISTINGSCREEN.SERVERTYPE
+msgctxt "UI.SERVERLISTINGSCREEN.SERVERTYPE"
+msgid "Server Type:"
+msgstr "伺服器類型："
+
+#. UI.SERVERLISTINGSCREEN.SERVER_LANGUAGE_WARNING_BODY
+msgctxt "UI.SERVERLISTINGSCREEN.SERVER_LANGUAGE_WARNING_BODY"
+msgid "Your language option doesn't match the language set by this server, do want to join anyways?"
+msgstr "你的語言選項與此伺服器設置的語言不匹配，是否仍然要加入？"
+
+#. UI.SERVERLISTINGSCREEN.SERVER_LANGUAGE_WARNING_TITLE
+msgctxt "UI.SERVERLISTINGSCREEN.SERVER_LANGUAGE_WARNING_TITLE"
+msgid "Server Language Mismatch"
+msgstr "伺服器語言不匹配"
+
+#. UI.SERVERLISTINGSCREEN.SERVER_LIST_TITLE
+msgctxt "UI.SERVERLISTINGSCREEN.SERVER_LIST_TITLE"
+msgid "Servers"
+msgstr "伺服器"
+
+#. UI.SERVERLISTINGSCREEN.SERVER_LIST_TITLE_INTENT
+msgctxt "UI.SERVERLISTINGSCREEN.SERVER_LIST_TITLE_INTENT"
+msgid "%s Servers"
+msgstr "%s 伺服器"
+
+#. UI.SERVERLISTINGSCREEN.SHOWING
+msgctxt "UI.SERVERLISTINGSCREEN.SHOWING"
+msgid "shown"
+msgstr "已顯示"
+
+#. UI.SERVERLISTINGSCREEN.SHOWING_FMT
+msgctxt "UI.SERVERLISTINGSCREEN.SHOWING_FMT"
+msgid "({viewed} of {total} shown)"
+msgstr "（已查看{viewed}，共計顯示{total}）"
+
+#. UI.SERVERLISTINGSCREEN.SHOWLAN
+msgctxt "UI.SERVERLISTINGSCREEN.SHOWLAN"
+msgid "Show LAN:"
+msgstr "顯示 LAN："
+
+#. UI.SERVERLISTINGSCREEN.SHOW_MOD_WARNING
+msgctxt "UI.SERVERLISTINGSCREEN.SHOW_MOD_WARNING"
+msgid "Do not show this again"
+msgstr "不再顯示"
+
+#. UI.SERVERLISTINGSCREEN.SORTING_TYPES.PING
+msgctxt "UI.SERVERLISTINGSCREEN.SORTING_TYPES.PING"
+msgid "Best Connection"
+msgstr "最優連接"
+
+#. UI.SERVERLISTINGSCREEN.SORTING_TYPES.PLAYERCOUNT
+msgctxt "UI.SERVERLISTINGSCREEN.SORTING_TYPES.PLAYERCOUNT"
+msgid "Most Active Players"
+msgstr "最活躍玩家"
+
+#. UI.SERVERLISTINGSCREEN.SORTING_TYPES.RELEVANCE
+msgctxt "UI.SERVERLISTINGSCREEN.SORTING_TYPES.RELEVANCE"
+msgid "Relevance"
+msgstr "相關性"
+
+#. UI.SERVERLISTINGSCREEN.SORTING_TYPES.SERVER_NAME_AZ
+msgctxt "UI.SERVERLISTINGSCREEN.SORTING_TYPES.SERVER_NAME_AZ"
+msgid "Server Name A-Z"
+msgstr "伺服器名稱 A-Z"
+
+#. UI.SERVERLISTINGSCREEN.SORTING_TYPES.SERVER_NAME_ZA
+msgctxt "UI.SERVERLISTINGSCREEN.SORTING_TYPES.SERVER_NAME_ZA"
+msgid "Server Name Z-A"
+msgstr "伺服器名稱 Z-A"
+
+#. UI.SERVERLISTINGSCREEN.SORT_BY
+msgctxt "UI.SERVERLISTINGSCREEN.SORT_BY"
+msgid "Sort By:"
+msgstr "排序條件："
+
+#. UI.SERVERLISTINGSCREEN.TAGSTITLE
+msgctxt "UI.SERVERLISTINGSCREEN.TAGSTITLE"
+msgid "Tags"
+msgstr "標籤"
+
+#. UI.SERVERLISTINGSCREEN.TAGS_LOADING
+msgctxt "UI.SERVERLISTINGSCREEN.TAGS_LOADING"
+msgid "Tags Loading..."
+msgstr "標籤載入中….."
+
+#. UI.SERVERLISTINGSCREEN.TOGGLE_SERVER_NAME
+msgctxt "UI.SERVERLISTINGSCREEN.TOGGLE_SERVER_NAME"
+msgid "Filter Server Name"
+msgstr "過濾伺服器名稱"
+
+#. UI.SERVERLISTINGSCREEN.UNKNOWN
+msgctxt "UI.SERVERLISTINGSCREEN.UNKNOWN"
+msgid "Unknown"
+msgstr "未知"
+
+#. UI.SERVERLISTINGSCREEN.UNKNOWN_PHASE
+msgctxt "UI.SERVERLISTINGSCREEN.UNKNOWN_PHASE"
+msgid "???"
+msgstr "???"
+
+#. UI.SERVERLISTINGSCREEN.UNKNOWN_SEASON
+msgctxt "UI.SERVERLISTINGSCREEN.UNKNOWN_SEASON"
+msgid "Season Unknown"
+msgstr "未知季節"
+
+#. UI.SERVERLISTINGSCREEN.VERSIONCHECK
+msgctxt "UI.SERVERLISTINGSCREEN.VERSIONCHECK"
+msgid "Version Matches:"
+msgstr "版本匹配："
+
+#. UI.SERVERLISTINGSCREEN.VIEWGROUP
+msgctxt "UI.SERVERLISTINGSCREEN.VIEWGROUP"
+msgid "View Group Profile"
+msgstr "查看群組檔案"
+
+#. UI.SERVERLISTINGSCREEN.VIEWMODS
+msgctxt "UI.SERVERLISTINGSCREEN.VIEWMODS"
+msgid "View Mods"
+msgstr "查看模組"
+
+#. UI.SERVERLISTINGSCREEN.VIEWMODS_LAN
+msgctxt "UI.SERVERLISTINGSCREEN.VIEWMODS_LAN"
+msgid "Mods Unknown"
+msgstr "未知模組"
+
+#. UI.SERVERLISTINGSCREEN.VIEWPLAYERS
+msgctxt "UI.SERVERLISTINGSCREEN.VIEWPLAYERS"
+msgid "View Players"
+msgstr "查看玩家"
+
+#. UI.SERVERLISTINGSCREEN.VIEWTAGS
+msgctxt "UI.SERVERLISTINGSCREEN.VIEWTAGS"
+msgid "View Tags"
+msgstr "查看標籤"
+
+#. UI.SERVERLISTINGSCREEN.VIEWWORLD
+msgctxt "UI.SERVERLISTINGSCREEN.VIEWWORLD"
+msgid "View World"
+msgstr "查看世界"
+
+#. UI.SERVERLISTINGSCREEN.WILDERNESS
+msgctxt "UI.SERVERLISTINGSCREEN.WILDERNESS"
+msgid "Wilderness"
+msgstr "荒野"
+
+#. UI.SERVERLISTINGSCREEN.WORLD_LOADING
+msgctxt "UI.SERVERLISTINGSCREEN.WORLD_LOADING"
+msgid "World Loading..."
+msgstr "世界載入中……"
+
+#. UI.SERVERLISTINGSCREEN.WORLD_UNKNOWN
+msgctxt "UI.SERVERLISTINGSCREEN.WORLD_UNKNOWN"
+msgid "World Unknown"
+msgstr "未知世界"
+
+#. UI.SERVERLISTINGSCREEN.YES
+msgctxt "UI.SERVERLISTINGSCREEN.YES"
+msgid "Yes"
+msgstr "是"
+

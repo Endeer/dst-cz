@@ -1,0 +1,330 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. BOARLORD_PLAYERDEATH_BANTER.1
+msgctxt "BOARLORD_PLAYERDEATH_BANTER.1"
+msgid "Ha!"
+msgstr "훗!"
+
+#. BOARLORD_PLAYERDEATH_BANTER.2
+msgctxt "BOARLORD_PLAYERDEATH_BANTER.2"
+msgid "You are unworthy."
+msgstr "한심하군."
+
+#. BOARLORD_PLAYERDEATH_BANTER.3
+msgctxt "BOARLORD_PLAYERDEATH_BANTER.3"
+msgid "You never stood a chance."
+msgstr "처음부터 상대가 되지 않았다."
+
+#. BOARLORD_PLAYERDEATH_BANTER.4
+msgctxt "BOARLORD_PLAYERDEATH_BANTER.4"
+msgid "Ha ha!"
+msgstr "하하!"
+
+#. BOARLORD_PLAYERDEATH_BANTER.5
+msgctxt "BOARLORD_PLAYERDEATH_BANTER.5"
+msgid "Weak."
+msgstr "약하군."
+
+#. BOARLORD_PLAYERDEATH_BANTER.6
+msgctxt "BOARLORD_PLAYERDEATH_BANTER.6"
+msgid "We are stronger."
+msgstr "우리가 더 강해."
+
+#. BOARLORD_PLAYERDEATH_BANTER.7
+msgctxt "BOARLORD_PLAYERDEATH_BANTER.7"
+msgid "Well struck!"
+msgstr "잘했다!"
+
+#. BOARLORD_PLAYERS_DEFEATED_BATTLECRY.1
+msgctxt "BOARLORD_PLAYERS_DEFEATED_BATTLECRY.1"
+msgid "At last, our realm returns to glory!"
+msgstr "드디어 우리 세계의 영광을 되찾았다!"
+
+#. BOARLORD_PLAYERS_DEFEATED_BATTLECRY.2
+msgctxt "BOARLORD_PLAYERS_DEFEATED_BATTLECRY.2"
+msgid "Warriors, rekindle the Gateway..."
+msgstr "전사들이여, 관문을 발동하라..."
+
+#. BOARLORD_PLAYERS_DEFEATED_BATTLECRY.3
+msgctxt "BOARLORD_PLAYERS_DEFEATED_BATTLECRY.3"
+msgid "Today we take the Throne!"
+msgstr "오늘 우리가 옥좌를 차지한다!"
+
+#. BOARLORD_ROUND1_FIGHT_BANTER.1
+msgctxt "BOARLORD_ROUND1_FIGHT_BANTER.1"
+msgid "It's good to have a challenge once again!"
+msgstr "간만에 몸 좀 풀어볼까!"
+
+#. BOARLORD_ROUND1_FIGHT_BANTER.2
+msgctxt "BOARLORD_ROUND1_FIGHT_BANTER.2"
+msgid "This should be fun."
+msgstr "이거 재밌겠는데."
+
+#. BOARLORD_ROUND1_FIGHT_BANTER.3
+msgctxt "BOARLORD_ROUND1_FIGHT_BANTER.3"
+msgid "More pigs! Overwhelm them!"
+msgstr "돼지가 더 있다! 완전히 제압해!"
+
+#. BOARLORD_ROUND1_FIGHT_BANTER.4
+msgctxt "BOARLORD_ROUND1_FIGHT_BANTER.4"
+msgid "More pigs!"
+msgstr "돼지가 더 있군!"
+
+#. BOARLORD_ROUND1_START.1
+msgctxt "BOARLORD_ROUND1_START.1"
+msgid "What have we here?"
+msgstr "얼씨구, 이게 뭐람?"
+
+#. BOARLORD_ROUND1_START.2
+msgctxt "BOARLORD_ROUND1_START.2"
+msgid "Gatekeepers? Ha! Have you come to return us to the Throne?"
+msgstr "문지기인가? 훗! 우리를 옥좌로 돌려보내기 위해 왔나?"
+
+#. BOARLORD_ROUND1_START.3
+msgctxt "BOARLORD_ROUND1_START.3"
+msgid "I am Battlemaster Pugna, and I protect what is mine."
+msgstr "나는 전장의 주인 퍼그나. 나는 내 것을 지킨다."
+
+#. BOARLORD_ROUND1_START.4
+msgctxt "BOARLORD_ROUND1_START.4"
+msgid "Warriors. Release the pigs!"
+msgstr "전사들이여, 돼지들을 풀어라!"
+
+#. BOARLORD_ROUND2_FIGHT_BANTER.1
+msgctxt "BOARLORD_ROUND2_FIGHT_BANTER.1"
+msgid "For the Forge!"
+msgstr "Forge를 위하여!"
+
+#. BOARLORD_ROUND2_FIGHT_BANTER.2
+msgctxt "BOARLORD_ROUND2_FIGHT_BANTER.2"
+msgid "Give the Gatekeepers no quarter!"
+msgstr "문지기들에게 밀려서는 안 된다!"
+
+#. BOARLORD_ROUND2_FIGHT_BANTER.3
+msgctxt "BOARLORD_ROUND2_FIGHT_BANTER.3"
+msgid "Fly your banners proudly, warriors!"
+msgstr "당당하게 기치를 높여라, 전사들이여!"
+
+#. BOARLORD_ROUND2_START.1
+msgctxt "BOARLORD_ROUND2_START.1"
+msgid "Impressive. You handled our foot soldiers with ease."
+msgstr "대단하군. 우리 보병 부대를 손쉽게 물리쳤어."
+
+#. BOARLORD_ROUND2_START.2
+msgctxt "BOARLORD_ROUND2_START.2"
+msgid "But our battalions are trained to work together."
+msgstr "하지만 우리 대대는 협동 공격 훈련을 받았지."
+
+#. BOARLORD_ROUND2_START.3
+msgctxt "BOARLORD_ROUND2_START.3"
+msgid "Can you do the same? Crocommanders, to the ring!"
+msgstr "너희도 할 수 있겠나? 악어사령관들은 출전하라!"
+
+#. BOARLORD_ROUND3_START.1
+msgctxt "BOARLORD_ROUND3_START.1"
+msgid "We've endured more here than you know."
+msgstr "우리가 여기서 얼마나 버텼는지 너희는 상상도 못 해."
+
+#. BOARLORD_ROUND3_START.2
+msgctxt "BOARLORD_ROUND3_START.2"
+msgid "And as forging fires temper steel,"
+msgstr "풀무의 불이 강철을 단련하듯이,"
+
+#. BOARLORD_ROUND3_START.3
+msgctxt "BOARLORD_ROUND3_START.3"
+msgid "Hardship has only made us stronger."
+msgstr "고난은 우리를 더 강하게 만들었지."
+
+#. BOARLORD_ROUND3_START.4
+msgctxt "BOARLORD_ROUND3_START.4"
+msgid "Now, Snortoises. Attack!"
+msgstr "자, 코자라들이여, 공격하라!"
+
+#. BOARLORD_ROUND4_FIGHT_BANTER.1
+msgctxt "BOARLORD_ROUND4_FIGHT_BANTER.1"
+msgid "End this now my warriors!"
+msgstr "지금 끝내는 거다, 내 전사들이여!"
+
+#. BOARLORD_ROUND4_FIGHT_BANTER.2
+msgctxt "BOARLORD_ROUND4_FIGHT_BANTER.2"
+msgid "We... cannot lose the Forge..."
+msgstr "Forge를... 잃을 수는 없다..."
+
+#. BOARLORD_ROUND4_PLAYER_VICTORY.1
+msgctxt "BOARLORD_ROUND4_PLAYER_VICTORY.1"
+msgid "No! How can this be?!"
+msgstr "아니! 어떻게 이럴 수가?!"
+
+#. BOARLORD_ROUND4_PLAYER_VICTORY.2
+msgctxt "BOARLORD_ROUND4_PLAYER_VICTORY.2"
+msgid "You have defeated the mighty Boarilla!"
+msgstr "용맹의 멧돼릴라를 무찌르다니!"
+
+#. BOARLORD_ROUND4_PLAYER_VICTORY.3
+msgctxt "BOARLORD_ROUND4_PLAYER_VICTORY.3"
+msgid "You may have won the battle, Gatekeepers... but not the war!"
+msgstr "너희 문지기들이 이 전투에서는 이겼을지 모르나... 전쟁에서 이긴 것은 아니다!"
+
+#. BOARLORD_ROUND4_START.1
+msgctxt "BOARLORD_ROUND4_START.1"
+msgid "...Do you understand the forces you serve?"
+msgstr "...너희들이 섬기는 그 힘이 무엇인지는 아느냐?"
+
+#. BOARLORD_ROUND4_START.2
+msgctxt "BOARLORD_ROUND4_START.2"
+msgid "They destroy all They touch..."
+msgstr "그것은 건드리는 것마다 파괴한다..."
+
+#. BOARLORD_ROUND4_START.3
+msgctxt "BOARLORD_ROUND4_START.3"
+msgid "We were severed from the Throne, trapped in a realm of stone and fire!"
+msgstr "우리는 옥좌로부터 단절되고 돌과 불의 영역에 갇히고 말았다!"
+
+#. BOARLORD_ROUND4_START.4
+msgctxt "BOARLORD_ROUND4_START.4"
+msgid "That is why we cannot let you win."
+msgstr "그래서 너희가 이기도록 놔둘 수 없다."
+
+#. BOARLORD_ROUND4_TRAILS_INTRO.1
+msgctxt "BOARLORD_ROUND4_TRAILS_INTRO.1"
+msgid "Send in the Boarilla."
+msgstr "멧돼릴라를 내보내라."
+
+#. BOARLORD_ROUND5_BOARRIOR_INTRO.1
+msgctxt "BOARLORD_ROUND5_BOARRIOR_INTRO.1"
+msgid "Grand Forge Boarrior!"
+msgstr "위대한 Forge의 멧투사!"
+
+#. BOARLORD_ROUND5_BOARRIOR_INTRO.2
+msgctxt "BOARLORD_ROUND5_BOARRIOR_INTRO.2"
+msgid "The ring is yours! Destroy them, my champion!"
+msgstr "자, 너의 무대다! 적을 깔아뭉개라, 나의 챔피언이여!"
+
+#. BOARLORD_ROUND5_FIGHT_BANTER1.1
+msgctxt "BOARLORD_ROUND5_FIGHT_BANTER1.1"
+msgid "The Gatekeepers must not take the Forge!"
+msgstr "문지기들이 Forge를 차지해서는 안 된다!"
+
+#. BOARLORD_ROUND5_FIGHT_BANTER1.2
+msgctxt "BOARLORD_ROUND5_FIGHT_BANTER1.2"
+msgid "Drive the interlopers back!"
+msgstr "침입자들을 내쫓아라!"
+
+#. BOARLORD_ROUND5_FIGHT_BANTER1.3
+msgctxt "BOARLORD_ROUND5_FIGHT_BANTER1.3"
+msgid "Do not hold back! Kill them!"
+msgstr "봐줄 필요 없다! 죽여라!"
+
+#. BOARLORD_ROUND5_FIGHT_BANTER2.1
+msgctxt "BOARLORD_ROUND5_FIGHT_BANTER2.1"
+msgid "Why are the Gatekeepers still not dead?!"
+msgstr "문지기들이 왜 아직도 안 죽었나?!"
+
+#. BOARLORD_ROUND5_FIGHT_BANTER2.2
+msgctxt "BOARLORD_ROUND5_FIGHT_BANTER2.2"
+msgid "Destroy them!!"
+msgstr "놈들을 박살 내라!!"
+
+#. BOARLORD_ROUND5_FIGHT_BANTER2.3
+msgctxt "BOARLORD_ROUND5_FIGHT_BANTER2.3"
+msgid "We will not live in the Throne's shadow!"
+msgstr "우리는 옥좌의 그늘에서만 살지 않을 것이다!"
+
+#. BOARLORD_ROUND5_PLAYER_VICTORY.1
+msgctxt "BOARLORD_ROUND5_PLAYER_VICTORY.1"
+msgid "What?! My champion!?!"
+msgstr "이럴 수가?! 내 챔피언이!?!"
+
+#. BOARLORD_ROUND5_PLAYER_VICTORY.2
+msgctxt "BOARLORD_ROUND5_PLAYER_VICTORY.2"
+msgid "I see. You've demonstrated your might."
+msgstr "그래. 그대의 실력은 충분히 보았다."
+
+#. BOARLORD_ROUND5_PLAYER_VICTORY.3
+msgctxt "BOARLORD_ROUND5_PLAYER_VICTORY.3"
+msgid "...But we will live to fight again!!"
+msgstr "...하지만 우리는 살아남아서 다시 싸울 것이다!!"
+
+#. BOARLORD_ROUND5_START.1
+msgctxt "BOARLORD_ROUND5_START.1"
+msgid "Know this, Gatekeepers:"
+msgstr "새겨들어라, 문지기들이여."
+
+#. BOARLORD_ROUND5_START.2
+msgctxt "BOARLORD_ROUND5_START.2"
+msgid "Once you are dead, we will activate the Gateway."
+msgstr "너희가 죽으면 우리는 관문을 작동할 것이다."
+
+#. BOARLORD_ROUND5_START.3
+msgctxt "BOARLORD_ROUND5_START.3"
+msgid "We'll return to the hub and destroy the Throne."
+msgstr "우리는 허브로 돌아와 옥좌를 파괴할 것이다."
+
+#. BOARLORD_ROUND5_START.4
+msgctxt "BOARLORD_ROUND5_START.4"
+msgid "We will end this, once and for all."
+msgstr "완전히 끝장을 낼 것이다."
+
+#. BOARLORD_ROUND6_PLAYER_VICTORY.1
+msgctxt "BOARLORD_ROUND6_PLAYER_VICTORY.1"
+msgid "You have won the battle,"
+msgstr "전투에서는 너희가 이겼을지 몰라도,"
+
+#. BOARLORD_ROUND6_PLAYER_VICTORY.2
+msgctxt "BOARLORD_ROUND6_PLAYER_VICTORY.2"
+msgid "But the war rages on eternally."
+msgstr "전쟁은 영원히 계속될 것이다."
+
+#. BOARLORD_ROUND6_PLAYER_VICTORY.3
+msgctxt "BOARLORD_ROUND6_PLAYER_VICTORY.3"
+msgid "We are not ready to give up yet."
+msgstr "우리는 아직 포기할 수 없다."
+
+#. BOARLORD_ROUND6_START.1
+msgctxt "BOARLORD_ROUND6_START.1"
+msgid "We do not fear you."
+msgstr "우리는 너희들이 두렵지 않다."
+
+#. BOARLORD_ROUND6_START.2
+msgctxt "BOARLORD_ROUND6_START.2"
+msgid "But you will fear us!"
+msgstr "하지만 너희는 우리를 두려워하게 될 것이다!"
+
+#. BOARLORD_ROUND6_START.3
+msgctxt "BOARLORD_ROUND6_START.3"
+msgid "Fear my new champions! Fear the Rhinocebros!"
+msgstr "내 무시무시한 챔피언들을 보라! 코뿔소 형제를 보고 공포를 느껴라!"
+
+#. BOARLORD_ROUND7_PLAYER_VICTORY.1
+msgctxt "BOARLORD_ROUND7_PLAYER_VICTORY.1"
+msgid "No! My Forge, felled by the Throne's lapdogs!"
+msgstr "이럴 수가! 내 Forge가 옥좌의 하수인들의 손에 떨어지다니!"
+
+#. BOARLORD_ROUND7_PLAYER_VICTORY.2
+msgctxt "BOARLORD_ROUND7_PLAYER_VICTORY.2"
+msgid "Please. No more, Gatekeepers. We surrender."
+msgstr "제발 그만해라, 문지기들아. 항복한다."
+
+#. BOARLORD_ROUND7_PLAYER_VICTORY.3
+msgctxt "BOARLORD_ROUND7_PLAYER_VICTORY.3"
+msgid "The day is yours, as is the Gateway."
+msgstr "오늘은 너희가 이겼다. 관문은 너희들 차지다."
+
+#. BOARLORD_ROUND7_START.1
+msgctxt "BOARLORD_ROUND7_START.1"
+msgid "You have had many victories, Gatekeepers..."
+msgstr "그동안 너희 문지기들이 여러 차례 승리하기는 했다만..."
+
+#. BOARLORD_ROUND7_START.2
+msgctxt "BOARLORD_ROUND7_START.2"
+msgid "...but from our dungeons comes our most brutal warrior."
+msgstr "...이제 우리 던전에서 가장 무시무시한 전사를 상대해봐라."
+
+#. BOARLORD_ROUND7_START.3
+msgctxt "BOARLORD_ROUND7_START.3"
+msgid "Behold: The Infernal Swineclops!"
+msgstr "지옥의 외눈돼지다!"
+

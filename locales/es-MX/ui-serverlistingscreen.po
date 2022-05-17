@@ -1,0 +1,805 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.SERVERLISTINGSCREEN.ANY
+msgctxt "UI.SERVERLISTINGSCREEN.ANY"
+msgid "Any"
+msgstr "Cualquiera"
+
+#. UI.SERVERLISTINGSCREEN.BACK
+msgctxt "UI.SERVERLISTINGSCREEN.BACK"
+msgid "Back"
+msgstr "Atrás"
+
+#. UI.SERVERLISTINGSCREEN.CANCEL
+msgctxt "UI.SERVERLISTINGSCREEN.CANCEL"
+msgid "Cancel"
+msgstr "Cancelar"
+
+#. UI.SERVERLISTINGSCREEN.CHANGE_SORT
+msgctxt "UI.SERVERLISTINGSCREEN.CHANGE_SORT"
+msgid "Change Sort"
+msgstr "Cambiar orden"
+
+#. UI.SERVERLISTINGSCREEN.CHANGE_TABS
+msgctxt "UI.SERVERLISTINGSCREEN.CHANGE_TABS"
+msgid "Change Tab"
+msgstr "Cambiar pestaña"
+
+#. UI.SERVERLISTINGSCREEN.CHAR_AGE_1
+msgctxt "UI.SERVERLISTINGSCREEN.CHAR_AGE_1"
+msgid "Survived "
+msgstr "Sobrevivió "
+
+#. UI.SERVERLISTINGSCREEN.CHAR_AGE_2
+msgctxt "UI.SERVERLISTINGSCREEN.CHAR_AGE_2"
+msgid " Day"
+msgstr " Día"
+
+#. UI.SERVERLISTINGSCREEN.CHAR_AGE_3
+msgctxt "UI.SERVERLISTINGSCREEN.CHAR_AGE_3"
+msgid " Days"
+msgstr " Días"
+
+#. UI.SERVERLISTINGSCREEN.CLANONLY
+msgctxt "UI.SERVERLISTINGSCREEN.CLANONLY"
+msgid "Steam Group:"
+msgstr "Grupo de Steam:"
+
+#. UI.SERVERLISTINGSCREEN.CLAN_CLOSED_ICON_HOVER
+msgctxt "UI.SERVERLISTINGSCREEN.CLAN_CLOSED_ICON_HOVER"
+msgid "Private Group Server (Your Group)"
+msgstr "Servidor de grupo privado (tu grupo)"
+
+#. UI.SERVERLISTINGSCREEN.CLAN_OPEN_ICON_HOVER
+msgctxt "UI.SERVERLISTINGSCREEN.CLAN_OPEN_ICON_HOVER"
+msgid "Group Server (Your Group)"
+msgstr "Servidor de grupo (tu grupo)"
+
+#. UI.SERVERLISTINGSCREEN.CLAN_OTHER_ICON_HOVER
+msgctxt "UI.SERVERLISTINGSCREEN.CLAN_OTHER_ICON_HOVER"
+msgid "Group Server"
+msgstr "Servidor de grupo"
+
+#. UI.SERVERLISTINGSCREEN.CLIENT_MODS_DISABLED_BODY
+msgctxt "UI.SERVERLISTINGSCREEN.CLIENT_MODS_DISABLED_BODY"
+msgid "Your client mods will be temporarily disabled while playing on this server."
+msgstr "Tus modificaciones del cliente se deshabilitarán temporalmente mientras juegas en este servidor."
+
+#. UI.SERVERLISTINGSCREEN.CLIENT_MODS_DISABLED_TITLE
+msgctxt "UI.SERVERLISTINGSCREEN.CLIENT_MODS_DISABLED_TITLE"
+msgid "Client Mods Disabled"
+msgstr "Modificaciones de cliente deshabilitadas"
+
+#. UI.SERVERLISTINGSCREEN.CLOUD_SAVE_HOVER
+msgctxt "UI.SERVERLISTINGSCREEN.CLOUD_SAVE_HOVER"
+msgid "Cloud Save"
+msgstr ""
+
+#. UI.SERVERLISTINGSCREEN.CONNECTION
+msgctxt "UI.SERVERLISTINGSCREEN.CONNECTION"
+msgid "Connection:"
+msgstr "Conexión:"
+
+#. UI.SERVERLISTINGSCREEN.CONTINUE
+msgctxt "UI.SERVERLISTINGSCREEN.CONTINUE"
+msgid "Continue"
+msgstr "Continuar"
+
+#. UI.SERVERLISTINGSCREEN.CUSTOM
+msgctxt "UI.SERVERLISTINGSCREEN.CUSTOM"
+msgid "Custom"
+msgstr "Personalizado"
+
+#. UI.SERVERLISTINGSCREEN.DAYDESC
+msgctxt "UI.SERVERLISTINGSCREEN.DAYDESC"
+msgid "Day "
+msgstr "Día "
+
+#. UI.SERVERLISTINGSCREEN.DEDICATED
+msgctxt "UI.SERVERLISTINGSCREEN.DEDICATED"
+msgid "Dedicated"
+msgstr "Dedicado"
+
+#. UI.SERVERLISTINGSCREEN.DEDICATED_ICON_HOVER
+msgctxt "UI.SERVERLISTINGSCREEN.DEDICATED_ICON_HOVER"
+msgid "Dedicated Server"
+msgstr "Servidor dedicado"
+
+#. UI.SERVERLISTINGSCREEN.DEDICATED_KLEI_ICON_HOVER
+msgctxt "UI.SERVERLISTINGSCREEN.DEDICATED_KLEI_ICON_HOVER"
+msgid "Klei Official Server"
+msgstr "Servidor oficial de Klei"
+
+#. UI.SERVERLISTINGSCREEN.DESC_LOADING
+msgctxt "UI.SERVERLISTINGSCREEN.DESC_LOADING"
+msgid "[Description Loading...]"
+msgstr "[Cargando descripción...]"
+
+#. UI.SERVERLISTINGSCREEN.DETAILS
+msgctxt "UI.SERVERLISTINGSCREEN.DETAILS"
+msgid "Details"
+msgstr "Detalles"
+
+#. UI.SERVERLISTINGSCREEN.DIRECTCONNECT
+msgctxt "UI.SERVERLISTINGSCREEN.DIRECTCONNECT"
+msgid "Direct Connect"
+msgstr "Conexión directa"
+
+#. UI.SERVERLISTINGSCREEN.EARLY_SEASON_1
+msgctxt "UI.SERVERLISTINGSCREEN.EARLY_SEASON_1"
+msgid "Early "
+msgstr "Inicio de "
+
+#. UI.SERVERLISTINGSCREEN.EARLY_SEASON_2
+msgctxt "UI.SERVERLISTINGSCREEN.EARLY_SEASON_2"
+msgid ""
+msgstr ""
+
+#. UI.SERVERLISTINGSCREEN.EVENT
+msgctxt "UI.SERVERLISTINGSCREEN.EVENT"
+msgid "Event:"
+msgstr "Evento:"
+
+#. UI.SERVERLISTINGSCREEN.FILTERS
+msgctxt "UI.SERVERLISTINGSCREEN.FILTERS"
+msgid "Filters"
+msgstr "Filtros"
+
+#. UI.SERVERLISTINGSCREEN.FILTER_RESET
+msgctxt "UI.SERVERLISTINGSCREEN.FILTER_RESET"
+msgid "Reset Filters"
+msgstr "Reiniciar filtros"
+
+#. UI.SERVERLISTINGSCREEN.FRIENDSONLY
+msgctxt "UI.SERVERLISTINGSCREEN.FRIENDSONLY"
+msgid "Friends:"
+msgstr "Amigos:"
+
+#. UI.SERVERLISTINGSCREEN.FRIEND_ICON_HOVER
+msgctxt "UI.SERVERLISTINGSCREEN.FRIEND_ICON_HOVER"
+msgid "Friends Playing"
+msgstr "Amigos jugando"
+
+#. UI.SERVERLISTINGSCREEN.FRIEND_SERVER_ICON_HOVER
+msgctxt "UI.SERVERLISTINGSCREEN.FRIEND_SERVER_ICON_HOVER"
+msgid "Friend-Hosted"
+msgstr "Creado por amigo"
+
+#. UI.SERVERLISTINGSCREEN.GAMEMODE
+msgctxt "UI.SERVERLISTINGSCREEN.GAMEMODE"
+msgid "Game Mode:"
+msgstr "Modo de juego:"
+
+#. UI.SERVERLISTINGSCREEN.GROUP_LOADING
+msgctxt "UI.SERVERLISTINGSCREEN.GROUP_LOADING"
+msgid "Group Loading..."
+msgstr "Cargando grupo..."
+
+#. UI.SERVERLISTINGSCREEN.GROUP_NONE
+msgctxt "UI.SERVERLISTINGSCREEN.GROUP_NONE"
+msgid "No group"
+msgstr "Sin grupo"
+
+#. UI.SERVERLISTINGSCREEN.GROUP_UNKNOWN
+msgctxt "UI.SERVERLISTINGSCREEN.GROUP_UNKNOWN"
+msgid "Group Unknown"
+msgstr "Grupo desconocido"
+
+#. UI.SERVERLISTINGSCREEN.HASCHARACTER
+msgctxt "UI.SERVERLISTINGSCREEN.HASCHARACTER"
+msgid "Previously Visited:"
+msgstr "Anteriormente visitado:"
+
+#. UI.SERVERLISTINGSCREEN.HASPASSWORD
+msgctxt "UI.SERVERLISTINGSCREEN.HASPASSWORD"
+msgid "Password Protected:"
+msgstr "Protegido con contraseña:"
+
+#. UI.SERVERLISTINGSCREEN.HASPASSWORD_DETAIL
+msgctxt "UI.SERVERLISTINGSCREEN.HASPASSWORD_DETAIL"
+msgid "Password Protected"
+msgstr "Protegido con contraseña"
+
+#. UI.SERVERLISTINGSCREEN.HASPVP
+msgctxt "UI.SERVERLISTINGSCREEN.HASPVP"
+msgid "PvP:"
+msgstr "JcJ:"
+
+#. UI.SERVERLISTINGSCREEN.HASPVP_DETAIL
+msgctxt "UI.SERVERLISTINGSCREEN.HASPVP_DETAIL"
+msgid "PvP"
+msgstr "JcJ"
+
+#. UI.SERVERLISTINGSCREEN.HIDDEN_DESCRIPTION
+msgctxt "UI.SERVERLISTINGSCREEN.HIDDEN_DESCRIPTION"
+msgid "*****"
+msgstr "*****"
+
+#. UI.SERVERLISTINGSCREEN.HIDDEN_NAME
+msgctxt "UI.SERVERLISTINGSCREEN.HIDDEN_NAME"
+msgid "This server name has been filtered"
+msgstr "Se filtró el nombre de este servidor"
+
+#. UI.SERVERLISTINGSCREEN.HIDDEN_NAME_LISTING
+msgctxt "UI.SERVERLISTINGSCREEN.HIDDEN_NAME_LISTING"
+msgid "This server name has been filtered"
+msgstr "Se filtró el nombre de este servidor"
+
+#. UI.SERVERLISTINGSCREEN.HOSTED
+msgctxt "UI.SERVERLISTINGSCREEN.HOSTED"
+msgid "Hosted"
+msgstr "Alojados"
+
+#. UI.SERVERLISTINGSCREEN.INTENTION_BUTTON
+msgctxt "UI.SERVERLISTINGSCREEN.INTENTION_BUTTON"
+msgid "Choose Playstyle"
+msgstr "Elegir estilo de juego"
+
+#. UI.SERVERLISTINGSCREEN.INTENTION_DESC.ANY
+msgctxt "UI.SERVERLISTINGSCREEN.INTENTION_DESC.ANY"
+msgid "You're, like, laidback and flexible, man. Any world is good with you."
+msgstr "Eres, digamos, una persona relajada y flexible. Cualquier mundo te parece bien."
+
+#. UI.SERVERLISTINGSCREEN.INTENTION_DESC.COMPETITIVE
+msgctxt "UI.SERVERLISTINGSCREEN.INTENTION_DESC.COMPETITIVE"
+msgid "You'll show your opponents exactly what you're made of by playing smarter, harder, faster and coming out on top!"
+msgstr "¡Demostrarás a tus oponentes de lo que eres exactamente capaz jugando de forma más inteligente, más fuerte y más rápida para llegar a lo más alto!"
+
+#. UI.SERVERLISTINGSCREEN.INTENTION_DESC.COOPERATIVE
+msgctxt "UI.SERVERLISTINGSCREEN.INTENTION_DESC.COOPERATIVE"
+msgid "Teamwork is your guiding principal. It's not enough to just not starve, you have to not starve... Together!"
+msgstr "El trabajo en equipo es lo principal. No solo es suficiente con no morirse de hambre, sino que hay que hacerlo... ¡juntos!"
+
+#. UI.SERVERLISTINGSCREEN.INTENTION_DESC.MADNESS
+msgctxt "UI.SERVERLISTINGSCREEN.INTENTION_DESC.MADNESS"
+msgid "Who knows what'll happen next? Mass fighting, crazy dance parties, pits filled with carnivorous spiders... it's pure madness!"
+msgstr "¿Quién sabe lo que ocurrirá después? Luchas masivas, fiestas locas con bailes, fosos llenos de arañas carnívoras... ¡Es una locura!"
+
+#. UI.SERVERLISTINGSCREEN.INTENTION_DESC.SOCIAL
+msgctxt "UI.SERVERLISTINGSCREEN.INTENTION_DESC.SOCIAL"
+msgid "You want to hang out, make friends, and play for fun. You don't care so much if you win or lose, as long as everyone's having a good time!"
+msgstr "Quieres pasar el rato, hacer amigos y jugar para divertirte. Te da un poco igual si ganas o pierdes, ¡con tal de que todo el mundo la pase bien!"
+
+#. UI.SERVERLISTINGSCREEN.INTENTION_FILTER
+msgctxt "UI.SERVERLISTINGSCREEN.INTENTION_FILTER"
+msgid "Playstyle:"
+msgstr "Estilo de juego:"
+
+#. UI.SERVERLISTINGSCREEN.INTENTION_TITLE
+msgctxt "UI.SERVERLISTINGSCREEN.INTENTION_TITLE"
+msgid "What's your playstyle?"
+msgstr "¿Cuál es tu estilo de juego?"
+
+#. UI.SERVERLISTINGSCREEN.ISDEDICATED
+msgctxt "UI.SERVERLISTINGSCREEN.ISDEDICATED"
+msgid "Dedicated Server"
+msgstr "Servidor dedicado"
+
+#. UI.SERVERLISTINGSCREEN.ISEMPTY
+msgctxt "UI.SERVERLISTINGSCREEN.ISEMPTY"
+msgid "Show Empty Servers:"
+msgstr "Mostrar servidores vacíos:"
+
+#. UI.SERVERLISTINGSCREEN.ISFULL
+msgctxt "UI.SERVERLISTINGSCREEN.ISFULL"
+msgid "Show Full Servers:"
+msgstr "Mostrar servidores completos:"
+
+#. UI.SERVERLISTINGSCREEN.ISPAUSED
+msgctxt "UI.SERVERLISTINGSCREEN.ISPAUSED"
+msgid "Hide Paused Servers:"
+msgstr ""
+
+#. UI.SERVERLISTINGSCREEN.JOIN
+msgctxt "UI.SERVERLISTINGSCREEN.JOIN"
+msgid "Join"
+msgstr "Unirse"
+
+#. UI.SERVERLISTINGSCREEN.LAN
+msgctxt "UI.SERVERLISTINGSCREEN.LAN"
+msgid "LAN"
+msgstr "LAN"
+
+#. UI.SERVERLISTINGSCREEN.LATE_SEASON_1
+msgctxt "UI.SERVERLISTINGSCREEN.LATE_SEASON_1"
+msgid "Late "
+msgstr "Final de "
+
+#. UI.SERVERLISTINGSCREEN.LATE_SEASON_2
+msgctxt "UI.SERVERLISTINGSCREEN.LATE_SEASON_2"
+msgid ""
+msgstr ""
+
+#. UI.SERVERLISTINGSCREEN.LOGOUT
+msgctxt "UI.SERVERLISTINGSCREEN.LOGOUT"
+msgid "Log Out"
+msgstr "Cerrar sesión"
+
+#. UI.SERVERLISTINGSCREEN.MAXCURRPLAYERS
+msgctxt "UI.SERVERLISTINGSCREEN.MAXCURRPLAYERS"
+msgid "Max Players Active"
+msgstr "Máximo de jugadores activos"
+
+#. UI.SERVERLISTINGSCREEN.MAXSERVERSIZE
+msgctxt "UI.SERVERLISTINGSCREEN.MAXSERVERSIZE"
+msgid "Max Players"
+msgstr "Jugadores máximos"
+
+#. UI.SERVERLISTINGSCREEN.MINCURRPLAYERS
+msgctxt "UI.SERVERLISTINGSCREEN.MINCURRPLAYERS"
+msgid "Min Players Active"
+msgstr "Mínimo de jugadores activo"
+
+#. UI.SERVERLISTINGSCREEN.MINE
+msgctxt "UI.SERVERLISTINGSCREEN.MINE"
+msgid "Mine"
+msgstr "Extraer"
+
+#. UI.SERVERLISTINGSCREEN.MINOPENSLOTS
+msgctxt "UI.SERVERLISTINGSCREEN.MINOPENSLOTS"
+msgid "Min Slots Open:"
+msgstr "Espacios mínimos abiertos:"
+
+#. UI.SERVERLISTINGSCREEN.MISSINGDATABODY
+msgctxt "UI.SERVERLISTINGSCREEN.MISSINGDATABODY"
+msgid "This server is not up to date. We cannot display its world settings."
+msgstr "Este servidor no está actualizado. No podemos mostrar la configuración de su mundo."
+
+#. UI.SERVERLISTINGSCREEN.MISSINGDATATITLE
+msgctxt "UI.SERVERLISTINGSCREEN.MISSINGDATATITLE"
+msgid "Out-of-Date Server"
+msgstr "Servidor obsoleto"
+
+#. UI.SERVERLISTINGSCREEN.MODSENABLED
+msgctxt "UI.SERVERLISTINGSCREEN.MODSENABLED"
+msgid "Mods Enabled:"
+msgstr "Modificaciones habilitadas:"
+
+#. UI.SERVERLISTINGSCREEN.MODSTITLE
+msgctxt "UI.SERVERLISTINGSCREEN.MODSTITLE"
+msgid "Mods"
+msgstr "Modificaciones"
+
+#. UI.SERVERLISTINGSCREEN.MODS_HIDDEN_LAN
+msgctxt "UI.SERVERLISTINGSCREEN.MODS_HIDDEN_LAN"
+msgid "The mods list isn't visible over LAN.\nWhy not scooch over and ask your friend?"
+msgstr "La lista de modificaciones no se puede ver a través de LAN.\n¿Por qué no vas y se la pides a tu amigo?"
+
+#. UI.SERVERLISTINGSCREEN.MODS_HIDDEN_MISMATCH
+msgctxt "UI.SERVERLISTINGSCREEN.MODS_HIDDEN_MISMATCH"
+msgid "Unable to retrieve mod list due to a version mismatch."
+msgstr "No se pudo obtener la lista de modificaciones debido a un conflicto de versiones."
+
+#. UI.SERVERLISTINGSCREEN.MODS_ICON_HOVER
+msgctxt "UI.SERVERLISTINGSCREEN.MODS_ICON_HOVER"
+msgid "Modded"
+msgstr "Modificado"
+
+#. UI.SERVERLISTINGSCREEN.MODS_LOADING
+msgctxt "UI.SERVERLISTINGSCREEN.MODS_LOADING"
+msgid "Mods Loading..."
+msgstr "Cargando modificaciones..."
+
+#. UI.SERVERLISTINGSCREEN.MOD_WARNING_BODY
+msgctxt "UI.SERVERLISTINGSCREEN.MOD_WARNING_BODY"
+msgid "This server has mods enabled. Klei won't be able to help if you encounter issues while playing on a modded server."
+msgstr "Este servidor tiene modificaciones habilitadas. Klei no podrá ofrecer ayuda si encuentras problemas al jugar en un servidor con modificaciones."
+
+#. UI.SERVERLISTINGSCREEN.MOD_WARNING_TITLE
+msgctxt "UI.SERVERLISTINGSCREEN.MOD_WARNING_TITLE"
+msgid "Mods Enabled"
+msgstr "Modificaciones habilitadas"
+
+#. UI.SERVERLISTINGSCREEN.NAME
+msgctxt "UI.SERVERLISTINGSCREEN.NAME"
+msgid "Name"
+msgstr "Nombre"
+
+#. UI.SERVERLISTINGSCREEN.NO
+msgctxt "UI.SERVERLISTINGSCREEN.NO"
+msgid "No"
+msgstr "No"
+
+#. UI.SERVERLISTINGSCREEN.NOMODS
+msgctxt "UI.SERVERLISTINGSCREEN.NOMODS"
+msgid "No Mods"
+msgstr "Sin modificaciones"
+
+#. UI.SERVERLISTINGSCREEN.NOSERVERSELECTED
+msgctxt "UI.SERVERLISTINGSCREEN.NOSERVERSELECTED"
+msgid "No Server Selected"
+msgstr "No se seleccionó ningún servidor"
+
+#. UI.SERVERLISTINGSCREEN.NOTAGS
+msgctxt "UI.SERVERLISTINGSCREEN.NOTAGS"
+msgid "No Tags"
+msgstr "Sin etiquetas"
+
+#. UI.SERVERLISTINGSCREEN.NO_CONNECTION
+msgctxt "UI.SERVERLISTINGSCREEN.NO_CONNECTION"
+msgid "Not Connected"
+msgstr "No conectado"
+
+#. UI.SERVERLISTINGSCREEN.NO_CONNECTION_TO_MASTER_SERVER
+msgctxt "UI.SERVERLISTINGSCREEN.NO_CONNECTION_TO_MASTER_SERVER"
+msgid "Network Error"
+msgstr "Error del servidor"
+
+#. UI.SERVERLISTINGSCREEN.NO_CONNECTION_TO_MASTER_SERVER_DESC
+msgctxt "UI.SERVERLISTINGSCREEN.NO_CONNECTION_TO_MASTER_SERVER_DESC"
+msgid "Failed to connect to the master server.\nPlease check your network connection."
+msgstr "Error al conectarse al servidor principal.\nComprueba tu conexión a la red."
+
+#. UI.SERVERLISTINGSCREEN.NO_DESC
+msgctxt "UI.SERVERLISTINGSCREEN.NO_DESC"
+msgid "[No Description]"
+msgstr "[Sin descripción]"
+
+#. UI.SERVERLISTINGSCREEN.OFF
+msgctxt "UI.SERVERLISTINGSCREEN.OFF"
+msgid "Off"
+msgstr "Desactivado"
+
+#. UI.SERVERLISTINGSCREEN.OFFICIAL
+msgctxt "UI.SERVERLISTINGSCREEN.OFFICIAL"
+msgid "Klei Official"
+msgstr "Klei Oficial"
+
+#. UI.SERVERLISTINGSCREEN.OFFLINE
+msgctxt "UI.SERVERLISTINGSCREEN.OFFLINE"
+msgid "Offline"
+msgstr "Sin conexión"
+
+#. UI.SERVERLISTINGSCREEN.OFFLINEMODEBODYJOIN
+msgctxt "UI.SERVERLISTINGSCREEN.OFFLINEMODEBODYJOIN"
+msgid "Are you sure you want to join an offline world? You will not be able to receive or use Collection Items in this world."
+msgstr "¿Seguro que quieres unirte a un mundo sin conexión? No podrás recibir ni utilizar objetos de colección en este mundo."
+
+#. UI.SERVERLISTINGSCREEN.OFFLINEWARNINGTITLE
+msgctxt "UI.SERVERLISTINGSCREEN.OFFLINEWARNINGTITLE"
+msgid "Offline World"
+msgstr "Mundo sin conexión"
+
+#. UI.SERVERLISTINGSCREEN.OFFLINE_DESC
+msgctxt "UI.SERVERLISTINGSCREEN.OFFLINE_DESC"
+msgid "This is an offline world.\nMany details remain a mystery, but it looks like people are having fun."
+msgstr "Este es un mundo sin conexión.\nMuchos detalles siguen siendo un misterio, pero parece que la gente se está divirtiendo."
+
+#. UI.SERVERLISTINGSCREEN.OFFLINE_MODE_BODY
+msgctxt "UI.SERVERLISTINGSCREEN.OFFLINE_MODE_BODY"
+msgid "You are not logged in and can't play in online games.\nTry playing over LAN or restarting the game to log in."
+msgstr "No estás conectado y no puedes jugar partidas en línea.\nIntenta jugar a través de LAN o reinicia el juego para conectarte."
+
+#. UI.SERVERLISTINGSCREEN.OFFLINE_MODE_BODY_PS4
+msgctxt "UI.SERVERLISTINGSCREEN.OFFLINE_MODE_BODY_PS4"
+msgid "You are currently in offline mode and cannot join online worlds. Please log in and try again."
+msgstr "Estás en el modo sin conexión y no puedes unirte a mundos conectados. Inicia sesión e inténtalo de nuevo."
+
+#. UI.SERVERLISTINGSCREEN.OFFLINE_MODE_TITLE
+msgctxt "UI.SERVERLISTINGSCREEN.OFFLINE_MODE_TITLE"
+msgid "Offline"
+msgstr "Sin conexión"
+
+#. UI.SERVERLISTINGSCREEN.OFFLINE_MODE_TITLE_PS4
+msgctxt "UI.SERVERLISTINGSCREEN.OFFLINE_MODE_TITLE_PS4"
+msgid "Online Not Available"
+msgstr "Modo en línea no disponible"
+
+#. UI.SERVERLISTINGSCREEN.OK
+msgctxt "UI.SERVERLISTINGSCREEN.OK"
+msgid "OK"
+msgstr "Aceptar"
+
+#. UI.SERVERLISTINGSCREEN.ON
+msgctxt "UI.SERVERLISTINGSCREEN.ON"
+msgid "On"
+msgstr "Activado"
+
+#. UI.SERVERLISTINGSCREEN.ONLINE
+msgctxt "UI.SERVERLISTINGSCREEN.ONLINE"
+msgid "Online"
+msgstr "Conectado"
+
+#. UI.SERVERLISTINGSCREEN.OUT_OF
+msgctxt "UI.SERVERLISTINGSCREEN.OUT_OF"
+msgid "of"
+msgstr "de"
+
+#. UI.SERVERLISTINGSCREEN.PASSWORDREQUIRED
+msgctxt "UI.SERVERLISTINGSCREEN.PASSWORDREQUIRED"
+msgid "Server Requires Password"
+msgstr "El servidor necesita contraseña"
+
+#. UI.SERVERLISTINGSCREEN.PASSWORD_ICON_HOVER
+msgctxt "UI.SERVERLISTINGSCREEN.PASSWORD_ICON_HOVER"
+msgid "Passworded"
+msgstr "Con contraseña"
+
+#. UI.SERVERLISTINGSCREEN.PAUSED
+msgctxt "UI.SERVERLISTINGSCREEN.PAUSED"
+msgid "Paused"
+msgstr "En pausa"
+
+#. UI.SERVERLISTINGSCREEN.PAUSEDWARNING_BODY
+msgctxt "UI.SERVERLISTINGSCREEN.PAUSEDWARNING_BODY"
+msgid "Are you sure you want to join a paused world? You will not be able to play until the server is unpaused."
+msgstr ""
+
+#. UI.SERVERLISTINGSCREEN.PAUSEDWARNING_TITLE
+msgctxt "UI.SERVERLISTINGSCREEN.PAUSEDWARNING_TITLE"
+msgid "Paused World"
+msgstr ""
+
+#. UI.SERVERLISTINGSCREEN.PHASES.DAY
+msgctxt "UI.SERVERLISTINGSCREEN.PHASES.DAY"
+msgid "Daytime"
+msgstr "Hora del día"
+
+#. UI.SERVERLISTINGSCREEN.PHASES.DUSK
+msgctxt "UI.SERVERLISTINGSCREEN.PHASES.DUSK"
+msgid "Dusk"
+msgstr "Atardecer"
+
+#. UI.SERVERLISTINGSCREEN.PHASES.NIGHT
+msgctxt "UI.SERVERLISTINGSCREEN.PHASES.NIGHT"
+msgid "Night"
+msgstr "Noche"
+
+#. UI.SERVERLISTINGSCREEN.PING
+msgctxt "UI.SERVERLISTINGSCREEN.PING"
+msgid "Ping"
+msgstr "Ping"
+
+#. UI.SERVERLISTINGSCREEN.PLAYERS
+msgctxt "UI.SERVERLISTINGSCREEN.PLAYERS"
+msgid "Players"
+msgstr "Jugadores"
+
+#. UI.SERVERLISTINGSCREEN.PLAYERS_LOADING
+msgctxt "UI.SERVERLISTINGSCREEN.PLAYERS_LOADING"
+msgid "Players Loading..."
+msgstr "Cargando jugadores..."
+
+#. UI.SERVERLISTINGSCREEN.PLAYERS_UNKNOWN
+msgctxt "UI.SERVERLISTINGSCREEN.PLAYERS_UNKNOWN"
+msgid "Players Unknown"
+msgstr "Jugadores desconocidos"
+
+#. UI.SERVERLISTINGSCREEN.PRIVATE
+msgctxt "UI.SERVERLISTINGSCREEN.PRIVATE"
+msgid "Private"
+msgstr "Privado"
+
+#. UI.SERVERLISTINGSCREEN.PVP_ICON_HOVER
+msgctxt "UI.SERVERLISTINGSCREEN.PVP_ICON_HOVER"
+msgid "PvP"
+msgstr "JcJ"
+
+#. UI.SERVERLISTINGSCREEN.REFRESH
+msgctxt "UI.SERVERLISTINGSCREEN.REFRESH"
+msgid "Refresh"
+msgstr "Actualizar"
+
+#. UI.SERVERLISTINGSCREEN.REFRESHING
+msgctxt "UI.SERVERLISTINGSCREEN.REFRESHING"
+msgid "Refreshing..."
+msgstr "Actualizando..."
+
+#. UI.SERVERLISTINGSCREEN.REPORT
+msgctxt "UI.SERVERLISTINGSCREEN.REPORT"
+msgid "Report Server"
+msgstr "Denunciar servidor"
+
+#. UI.SERVERLISTINGSCREEN.REPORTREASON
+msgctxt "UI.SERVERLISTINGSCREEN.REPORTREASON"
+msgid "Reason for Report"
+msgstr "Razón de la notificación"
+
+#. UI.SERVERLISTINGSCREEN.SEARCH
+msgctxt "UI.SERVERLISTINGSCREEN.SEARCH"
+msgid "Search"
+msgstr "Buscar"
+
+#. UI.SERVERLISTINGSCREEN.SEARCHING_SERVERS
+msgctxt "UI.SERVERLISTINGSCREEN.SEARCHING_SERVERS"
+msgid "Searching Servers..."
+msgstr "Buscando servidores..."
+
+#. UI.SERVERLISTINGSCREEN.SEASONFILTER
+msgctxt "UI.SERVERLISTINGSCREEN.SEASONFILTER"
+msgid "Season:"
+msgstr "Estación:"
+
+#. UI.SERVERLISTINGSCREEN.SEASONS.AUTUMN
+msgctxt "UI.SERVERLISTINGSCREEN.SEASONS.AUTUMN"
+msgid "Autumn"
+msgstr "Otoño"
+
+#. UI.SERVERLISTINGSCREEN.SEASONS.SPRING
+msgctxt "UI.SERVERLISTINGSCREEN.SEASONS.SPRING"
+msgid "Spring"
+msgstr "Primavera"
+
+#. UI.SERVERLISTINGSCREEN.SEASONS.SUMMER
+msgctxt "UI.SERVERLISTINGSCREEN.SEASONS.SUMMER"
+msgid "Summer"
+msgstr "Verano"
+
+#. UI.SERVERLISTINGSCREEN.SEASONS.WINTER
+msgctxt "UI.SERVERLISTINGSCREEN.SEASONS.WINTER"
+msgid "Winter"
+msgstr "Invierno"
+
+#. UI.SERVERLISTINGSCREEN.SERVERACTIONS
+msgctxt "UI.SERVERLISTINGSCREEN.SERVERACTIONS"
+msgid "Server Actions..."
+msgstr "Acciones del servidor..."
+
+#. UI.SERVERLISTINGSCREEN.SERVERDETAILS
+msgctxt "UI.SERVERLISTINGSCREEN.SERVERDETAILS"
+msgid "Details"
+msgstr "Detalles"
+
+#. UI.SERVERLISTINGSCREEN.SERVERTYPE
+msgctxt "UI.SERVERLISTINGSCREEN.SERVERTYPE"
+msgid "Server Type:"
+msgstr "Tipo de servidor:"
+
+#. UI.SERVERLISTINGSCREEN.SERVER_LANGUAGE_WARNING_BODY
+msgctxt "UI.SERVERLISTINGSCREEN.SERVER_LANGUAGE_WARNING_BODY"
+msgid "Your language option doesn't match the language set by this server, do want to join anyways?"
+msgstr "Tu opción de idioma no coincide con el idioma de este servidor. ¿Quieres unirte de todas formas?"
+
+#. UI.SERVERLISTINGSCREEN.SERVER_LANGUAGE_WARNING_TITLE
+msgctxt "UI.SERVERLISTINGSCREEN.SERVER_LANGUAGE_WARNING_TITLE"
+msgid "Server Language Mismatch"
+msgstr "Diferencia de idioma del servidor"
+
+#. UI.SERVERLISTINGSCREEN.SERVER_LIST_TITLE
+msgctxt "UI.SERVERLISTINGSCREEN.SERVER_LIST_TITLE"
+msgid "Servers"
+msgstr "Servidores"
+
+#. UI.SERVERLISTINGSCREEN.SERVER_LIST_TITLE_INTENT
+msgctxt "UI.SERVERLISTINGSCREEN.SERVER_LIST_TITLE_INTENT"
+msgid "%s Servers"
+msgstr "Servidores de %s"
+
+#. UI.SERVERLISTINGSCREEN.SHOWING
+msgctxt "UI.SERVERLISTINGSCREEN.SHOWING"
+msgid "shown"
+msgstr "mostrados"
+
+#. UI.SERVERLISTINGSCREEN.SHOWING_FMT
+msgctxt "UI.SERVERLISTINGSCREEN.SHOWING_FMT"
+msgid "({viewed} of {total} shown)"
+msgstr "({viewed} de {total} mostrados)"
+
+#. UI.SERVERLISTINGSCREEN.SHOWLAN
+msgctxt "UI.SERVERLISTINGSCREEN.SHOWLAN"
+msgid "Show LAN:"
+msgstr "Mostrar LAN:"
+
+#. UI.SERVERLISTINGSCREEN.SHOW_MOD_WARNING
+msgctxt "UI.SERVERLISTINGSCREEN.SHOW_MOD_WARNING"
+msgid "Do not show this again"
+msgstr "No volver a mostrar"
+
+#. UI.SERVERLISTINGSCREEN.SORTING_TYPES.PING
+msgctxt "UI.SERVERLISTINGSCREEN.SORTING_TYPES.PING"
+msgid "Best Connection"
+msgstr "Mejor conexión"
+
+#. UI.SERVERLISTINGSCREEN.SORTING_TYPES.PLAYERCOUNT
+msgctxt "UI.SERVERLISTINGSCREEN.SORTING_TYPES.PLAYERCOUNT"
+msgid "Most Active Players"
+msgstr "Jugadores más activos"
+
+#. UI.SERVERLISTINGSCREEN.SORTING_TYPES.RELEVANCE
+msgctxt "UI.SERVERLISTINGSCREEN.SORTING_TYPES.RELEVANCE"
+msgid "Relevance"
+msgstr "Relevancia"
+
+#. UI.SERVERLISTINGSCREEN.SORTING_TYPES.SERVER_NAME_AZ
+msgctxt "UI.SERVERLISTINGSCREEN.SORTING_TYPES.SERVER_NAME_AZ"
+msgid "Server Name A-Z"
+msgstr "Nombre del servidor A-Z"
+
+#. UI.SERVERLISTINGSCREEN.SORTING_TYPES.SERVER_NAME_ZA
+msgctxt "UI.SERVERLISTINGSCREEN.SORTING_TYPES.SERVER_NAME_ZA"
+msgid "Server Name Z-A"
+msgstr "Nombre del servidor Z-A"
+
+#. UI.SERVERLISTINGSCREEN.SORT_BY
+msgctxt "UI.SERVERLISTINGSCREEN.SORT_BY"
+msgid "Sort By:"
+msgstr "Ordenar por:"
+
+#. UI.SERVERLISTINGSCREEN.TAGSTITLE
+msgctxt "UI.SERVERLISTINGSCREEN.TAGSTITLE"
+msgid "Tags"
+msgstr "Etiquetas"
+
+#. UI.SERVERLISTINGSCREEN.TAGS_LOADING
+msgctxt "UI.SERVERLISTINGSCREEN.TAGS_LOADING"
+msgid "Tags Loading..."
+msgstr "Cargando etiquetas..."
+
+#. UI.SERVERLISTINGSCREEN.TOGGLE_SERVER_NAME
+msgctxt "UI.SERVERLISTINGSCREEN.TOGGLE_SERVER_NAME"
+msgid "Filter Server Name"
+msgstr "Filtrar nombre de servidor"
+
+#. UI.SERVERLISTINGSCREEN.UNKNOWN
+msgctxt "UI.SERVERLISTINGSCREEN.UNKNOWN"
+msgid "Unknown"
+msgstr "Desconocido"
+
+#. UI.SERVERLISTINGSCREEN.UNKNOWN_PHASE
+msgctxt "UI.SERVERLISTINGSCREEN.UNKNOWN_PHASE"
+msgid "???"
+msgstr "???"
+
+#. UI.SERVERLISTINGSCREEN.UNKNOWN_SEASON
+msgctxt "UI.SERVERLISTINGSCREEN.UNKNOWN_SEASON"
+msgid "Season Unknown"
+msgstr "Estación desconocida"
+
+#. UI.SERVERLISTINGSCREEN.VERSIONCHECK
+msgctxt "UI.SERVERLISTINGSCREEN.VERSIONCHECK"
+msgid "Version Matches:"
+msgstr "Versión compatible:"
+
+#. UI.SERVERLISTINGSCREEN.VIEWGROUP
+msgctxt "UI.SERVERLISTINGSCREEN.VIEWGROUP"
+msgid "View Group Profile"
+msgstr "Ver perfil del grupo"
+
+#. UI.SERVERLISTINGSCREEN.VIEWMODS
+msgctxt "UI.SERVERLISTINGSCREEN.VIEWMODS"
+msgid "View Mods"
+msgstr "Ver modificaciones"
+
+#. UI.SERVERLISTINGSCREEN.VIEWMODS_LAN
+msgctxt "UI.SERVERLISTINGSCREEN.VIEWMODS_LAN"
+msgid "Mods Unknown"
+msgstr "Modificaciones desconocidas"
+
+#. UI.SERVERLISTINGSCREEN.VIEWPLAYERS
+msgctxt "UI.SERVERLISTINGSCREEN.VIEWPLAYERS"
+msgid "View Players"
+msgstr "Ver jugadores"
+
+#. UI.SERVERLISTINGSCREEN.VIEWTAGS
+msgctxt "UI.SERVERLISTINGSCREEN.VIEWTAGS"
+msgid "View Tags"
+msgstr "Ver etiquetas"
+
+#. UI.SERVERLISTINGSCREEN.VIEWWORLD
+msgctxt "UI.SERVERLISTINGSCREEN.VIEWWORLD"
+msgid "View World"
+msgstr "Ver mundo"
+
+#. UI.SERVERLISTINGSCREEN.WILDERNESS
+msgctxt "UI.SERVERLISTINGSCREEN.WILDERNESS"
+msgid "Wilderness"
+msgstr "Naturaleza salvaje"
+
+#. UI.SERVERLISTINGSCREEN.WORLD_LOADING
+msgctxt "UI.SERVERLISTINGSCREEN.WORLD_LOADING"
+msgid "World Loading..."
+msgstr "Cargando mundo..."
+
+#. UI.SERVERLISTINGSCREEN.WORLD_UNKNOWN
+msgctxt "UI.SERVERLISTINGSCREEN.WORLD_UNKNOWN"
+msgid "World Unknown"
+msgstr "Mundo desconocido"
+
+#. UI.SERVERLISTINGSCREEN.YES
+msgctxt "UI.SERVERLISTINGSCREEN.YES"
+msgid "Yes"
+msgstr "Sí"
+

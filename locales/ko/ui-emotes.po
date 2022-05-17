@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.EMOTES.ACTIONS
+msgctxt "UI.EMOTES.ACTIONS"
+msgid "Actions"
+msgstr "행동"
+
+#. UI.EMOTES.ANGRY
+msgctxt "UI.EMOTES.ANGRY"
+msgid "Angry"
+msgstr "화남"
+
+#. UI.EMOTES.BIGPET
+msgctxt "UI.EMOTES.BIGPET"
+msgid "Pet"
+msgstr "쓰다듬기"
+
+#. UI.EMOTES.BONESAW
+msgctxt "UI.EMOTES.BONESAW"
+msgid "Bonesaw"
+msgstr "뼈톱"
+
+#. UI.EMOTES.CAROL
+msgctxt "UI.EMOTES.CAROL"
+msgid "Carol"
+msgstr "캐럴"
+
+#. UI.EMOTES.CHEER
+msgctxt "UI.EMOTES.CHEER"
+msgid "Cheer"
+msgstr "환호"
+
+#. UI.EMOTES.CHICKEN
+msgctxt "UI.EMOTES.CHICKEN"
+msgid "Chicken Dance"
+msgstr "닭 춤"
+
+#. UI.EMOTES.CRY
+msgctxt "UI.EMOTES.CRY"
+msgid "Sad"
+msgstr "슬픔"
+
+#. UI.EMOTES.DANCE
+msgctxt "UI.EMOTES.DANCE"
+msgid "Dance"
+msgstr "춤추기"
+
+#. UI.EMOTES.EMOTIONS
+msgctxt "UI.EMOTES.EMOTIONS"
+msgid "Emotions"
+msgstr "감정"
+
+#. UI.EMOTES.FACEPALM
+msgctxt "UI.EMOTES.FACEPALM"
+msgid "Facepalm"
+msgstr "절레절레"
+
+#. UI.EMOTES.FISTSHAKE
+msgctxt "UI.EMOTES.FISTSHAKE"
+msgid "Fist Shake"
+msgstr "주먹 불끈"
+
+#. UI.EMOTES.FLEX
+msgctxt "UI.EMOTES.FLEX"
+msgid "Flex"
+msgstr "울끈불끈"
+
+#. UI.EMOTES.HAPPY
+msgctxt "UI.EMOTES.HAPPY"
+msgid "Happy"
+msgstr "행복해."
+
+#. UI.EMOTES.HELPTEXTPREFIX
+msgctxt "UI.EMOTES.HELPTEXTPREFIX"
+msgid "Emote:  "
+msgstr "감정:  "
+
+#. UI.EMOTES.IMPATIENT
+msgctxt "UI.EMOTES.IMPATIENT"
+msgid "Impatient"
+msgstr "조급함"
+
+#. UI.EMOTES.JOY
+msgctxt "UI.EMOTES.JOY"
+msgid "Joy"
+msgstr "기쁨"
+
+#. UI.EMOTES.KISS
+msgctxt "UI.EMOTES.KISS"
+msgid "Kiss"
+msgstr "키스"
+
+#. UI.EMOTES.LAUGH
+msgctxt "UI.EMOTES.LAUGH"
+msgid "Laugh"
+msgstr "웃음"
+
+#. UI.EMOTES.NO
+msgctxt "UI.EMOTES.NO"
+msgid "Annoyed"
+msgstr "짜증 남"
+
+#. UI.EMOTES.PET
+msgctxt "UI.EMOTES.PET"
+msgid "Pet"
+msgstr "쓰다듬기"
+
+#. UI.EMOTES.POSE
+msgctxt "UI.EMOTES.POSE"
+msgid "Pose"
+msgstr "포즈"
+
+#. UI.EMOTES.ROBOT
+msgctxt "UI.EMOTES.ROBOT"
+msgid "Robot Dance"
+msgstr "로봇 춤"
+
+#. UI.EMOTES.RUDE
+msgctxt "UI.EMOTES.RUDE"
+msgid "Threaten"
+msgstr "위협"
+
+#. UI.EMOTES.SHRUG
+msgctxt "UI.EMOTES.SHRUG"
+msgid "Shrug"
+msgstr "어깨 으쓱"
+
+#. UI.EMOTES.SIT
+msgctxt "UI.EMOTES.SIT"
+msgid "Sit"
+msgstr "앉기"
+
+#. UI.EMOTES.SLEEPY
+msgctxt "UI.EMOTES.SLEEPY"
+msgid "Sleepy"
+msgstr "졸림"
+
+#. UI.EMOTES.SLOWCLAP
+msgctxt "UI.EMOTES.SLOWCLAP"
+msgid "Slow Clap"
+msgstr "느긋한 박수"
+
+#. UI.EMOTES.SQUAT
+msgctxt "UI.EMOTES.SQUAT"
+msgid "Squat"
+msgstr "쭈그리기"
+
+#. UI.EMOTES.STEP
+msgctxt "UI.EMOTES.STEP"
+msgid "Step Dance"
+msgstr "스텝 댄스"
+
+#. UI.EMOTES.SWOON
+msgctxt "UI.EMOTES.SWOON"
+msgid "Swoon"
+msgstr "기절"
+
+#. UI.EMOTES.TOAST
+msgctxt "UI.EMOTES.TOAST"
+msgid "Toast"
+msgstr "건배"
+
+#. UI.EMOTES.UNLOCKABLES
+msgctxt "UI.EMOTES.UNLOCKABLES"
+msgid "Extras"
+msgstr "추가 요소"
+
+#. UI.EMOTES.WAVE
+msgctxt "UI.EMOTES.WAVE"
+msgid "Wave"
+msgstr "손 흔들기"
+
+#. UI.EMOTES.YAWN
+msgctxt "UI.EMOTES.YAWN"
+msgid "Yawn"
+msgstr "하품"
+

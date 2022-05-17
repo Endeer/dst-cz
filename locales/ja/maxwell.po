@@ -1,0 +1,310 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_1.ONE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_1.ONE"
+msgid "Oh, you found my portal did you?"
+msgstr "おぉ、僕のポータルを見つけたな？"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_1.THREE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_1.THREE"
+msgid "Hmm. Let's try something a little more challenging, shall we?"
+msgstr "うーむ…何かもう少し挑戦しがいのあるものに取り組んでみようか？"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_1.TWO
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_1.TWO"
+msgid "You'd think you would have learned your lesson by now."
+msgstr "これまでに学ぶべき事は習得したと思っているだろう。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_2.ONE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_2.ONE"
+msgid "Well would you look at that, you survived."
+msgstr "おぉ驚いたね、生き延びたとは。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_2.TWO
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_2.TWO"
+msgid "One down, four to go!"
+msgstr "1つ終わったから、あと4つだ！"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_3.ONE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_3.ONE"
+msgid "What? You're still here?"
+msgstr "何だって！？まだここにいるのか？"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_3.TWO
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_3.TWO"
+msgid "Impressive. But you should probably stop while you're ahead."
+msgstr "素晴らしい。しかし途中で多分止まることになる。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_4.ONE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_4.ONE"
+msgid "Say, pal."
+msgstr "ねえ、君。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_4.THREE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_4.THREE"
+msgid "Turn back now, or I may have to resort to drastic measures."
+msgstr "今引き返すか、思い切った方法が必要かも。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_4.TWO
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_4.TWO"
+msgid "You're really pushing your luck."
+msgstr "ずいぶん図に乗っているようだね。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_5.ONE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_5.ONE"
+msgid "You insolent, pitiful, insignificant ant!"
+msgstr "生意気で惨めな、取るに足らないありんこ野郎！"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_5.THREE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_5.THREE"
+msgid "You will regret coming any further..."
+msgstr "もっと進むと後悔する羽目に…。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_5.TWO
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_5.TWO"
+msgid "Do not arouse the wrath of the Great Maxwell!"
+msgstr "偉大なるMaxwellの怒りを呼び起こすな！"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.COMBATFAIL.1
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.COMBATFAIL.1"
+msgid "Where would be the sport in that?"
+msgstr "それじゃ何の一興にもならないだろう？"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.COMBATFAIL.2
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.COMBATFAIL.2"
+msgid "Who do you think allowed you to make that?"
+msgstr "誰が君にそんなことを許すと思うのかい？"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.1
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.1"
+msgid "Is this what you were expecting?"
+msgstr "君が望んでいたのはこれかい？"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.10
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.10"
+msgid "Just dust. And the void. And Them."
+msgstr "単なるチリ。そして空虚感。そして、彼ら。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.11
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.11"
+msgid "I've learned so much since then. I've built so much."
+msgstr "あれから沢山学んだよ。ずいぶん鍛えられた。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.12
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.12"
+msgid "But even a King is bound to the board."
+msgstr "たとえ王様でもハマるはずだ。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.13
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.13"
+msgid "You can't change the rules of the game."
+msgstr "このゲームのルール変更は不可能だ。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.14
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.14"
+msgid "I don't know what they want. They... they just watch."
+msgstr "どうしたいのかわからない。奴らは…ただ観ているだけ。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.15
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.15"
+msgid "Unless you get too close. Then..."
+msgstr "君が近づきすぎない限り。それから…"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.16
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.16"
+msgid "Well, there's a reason I stay so dapper."
+msgstr "いや、僕が小粋でいられるのには理由がある。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.17
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.17"
+msgid "What year is it out there? Time moves differently here."
+msgstr "いったい今、何年なんだい？ここでは時の流れが違うんだ。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.18
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.18"
+msgid "Go on, stay a while. Keep us company."
+msgstr "しばらくそのままじっとしていろ。つきあえ。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.19
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.19"
+msgid "Or put the key in the box. It's your decision."
+msgstr "それとも、鍵をかけておこうか。おまえ次第だ。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.2
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.2"
+msgid "Forgive me if I don't get up."
+msgstr "起き上がらなくても許してくれ。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.20
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.20"
+msgid "Either way, you're just delaying the inevitable."
+msgstr "君はどのみち、避けて通れないことを先送りにしているだけだ。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.21
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.21"
+msgid "Reality is like that, sometimes."
+msgstr "現実とは、時にそんなものだよ。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.22
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.22"
+msgid "I think I've said enough."
+msgstr "もう十分しゃべったな。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.23
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.23"
+msgid "..."
+msgstr "..."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.3
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.3"
+msgid "You've been an interesting plaything, but I've grown tired of this game."
+msgstr "君は面白いおもちゃだったが、もうこのゲームには飽きてしまったよ。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.4
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.4"
+msgid "Or maybe They've grown tired of me."
+msgstr "それとも、僕が愛想をつかされたのかもな。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.5
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.5"
+msgid "Heh. Took them long enough."
+msgstr "へー。それほど長くプレイしたのか。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.6
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.6"
+msgid "They'll show you terrible, beautiful things."
+msgstr "とても不快な物や美しい物を見せてくれるだろうよ。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.7
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.7"
+msgid "It will change you, like it did me."
+msgstr "プレイが君を変えるだろう、僕もそうだったように。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.8
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.8"
+msgid "It's best not to fight it."
+msgstr "戦わないのが最善の策さ。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.9
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.9"
+msgid "There wasn't much here when I showed up."
+msgstr "僕が現われた時には、大したことはなかった。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.ONE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.ONE"
+msgid "Well, this is it."
+msgstr "うーん、ここまでか。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.TELEPORTFAIL
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.TELEPORTFAIL"
+msgid "Don't you think I've tried that?"
+msgstr "もう既に僕が試したとは思わないのか？"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.TELEPORTFAIL2
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.TELEPORTFAIL2"
+msgid "This is the end of the line. We have no escape."
+msgstr "これで一巻の終わり。もう逃げられない。"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.TWO
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.TWO"
+msgid "You found me. Now, what are you going to do?"
+msgstr "僕を見つけたな。これから、一体どうするつもりだ？"
+
+#. MAXWELL_ADVENTUREINTROS.TWOLANDS.FOUR
+msgctxt "MAXWELL_ADVENTUREINTROS.TWOLANDS.FOUR"
+msgid "All I want in return is a truce."
+msgstr "お返しに欲しいのは、停戦だけだ。"
+
+#. MAXWELL_ADVENTUREINTROS.TWOLANDS.ONE
+msgctxt "MAXWELL_ADVENTUREINTROS.TWOLANDS.ONE"
+msgid "Say, pal."
+msgstr "ねえ、君。"
+
+#. MAXWELL_ADVENTUREINTROS.TWOLANDS.THREE
+msgctxt "MAXWELL_ADVENTUREINTROS.TWOLANDS.THREE"
+msgid "I'll give you food, gold, pigs, whatever you need."
+msgstr "食べ物や黄金のブタ、必要な物なら何でもあげよう。"
+
+#. MAXWELL_ADVENTUREINTROS.TWOLANDS.TWO
+msgctxt "MAXWELL_ADVENTUREINTROS.TWOLANDS.TWO"
+msgid "Let's make a deal. You can stay here. Settle down, even."
+msgstr "じゃあ取引だ。ここに留まっていいよ。住み着いても構わない。"
+
+#. MAXWELL_ADVENTURETHRONE.LEVEL_6.HIT.ONE
+msgctxt "MAXWELL_ADVENTURETHRONE.LEVEL_6.HIT.ONE"
+msgid "The throne won't allow that. I've tried."
+msgstr "国王はそれを許可しない。努力はしたけれど。"
+
+#. MAXWELL_ADVENTURETHRONE.LEVEL_6.INTRO.ONE
+msgctxt "MAXWELL_ADVENTURETHRONE.LEVEL_6.INTRO.ONE"
+msgid "Is this how it ends?"
+msgstr "これで終わりなのか？"
+
+#. MAXWELL_ADVENTURETHRONE.LEVEL_6.NOUNLOCK.ONE
+msgctxt "MAXWELL_ADVENTURETHRONE.LEVEL_6.NOUNLOCK.ONE"
+msgid "Ah, I am a fool. I had dared to hope."
+msgstr "あー、なんてバカなんだ。うかつにも希望を持っていた。"
+
+#. MAXWELL_ADVENTURETHRONE.LEVEL_6.PHONOGRAPHOFF.ONE
+msgctxt "MAXWELL_ADVENTURETHRONE.LEVEL_6.PHONOGRAPHOFF.ONE"
+msgid "Thank you. I have been listening to that song for an eternity."
+msgstr "ありがとう。この歌を永遠に聴いているところだったよ。"
+
+#. MAXWELL_ADVENTURETHRONE.LEVEL_6.PHONOGRAPHON.ONE
+msgctxt "MAXWELL_ADVENTURETHRONE.LEVEL_6.PHONOGRAPHON.ONE"
+msgid "I guess I deserve that."
+msgstr "自業自得ってところか。"
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_4.ONE
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_4.ONE"
+msgid "Fine. Just remember that you chose this."
+msgstr "良いだろう。自分でこの選択をしたということを忘れるなよ。"
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_6.FOUR.ONE
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_6.FOUR.ONE"
+msgid "It's just that..."
+msgstr "ただ単に…"
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_6.FOUR.TWO
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_6.FOUR.TWO"
+msgid "I've become accustomed to winning."
+msgstr "私のほうが勝利に慣れているだけさ。"
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_6.ONE
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_6.ONE"
+msgid "We're not so different, you and I."
+msgstr "私たちは大して変わりない、おまえと私はな。"
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_6.THREE.ONE
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_6.THREE.ONE"
+msgid "Oh, did you think you were the first?"
+msgstr "もしや、おまえが最初だと思ったのでは？"
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_6.THREE.TWO
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_6.THREE.TWO"
+msgid "HA!"
+msgstr "へえ！"
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_6.TWO.ONE
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_6.TWO.ONE"
+msgid "That's why I brought you here."
+msgstr "だからおまえをここに連れてきたのだ。"
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_6.TWO.TWO
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_6.TWO.TWO"
+msgid "That's why I brought all of them here."
+msgstr "だからここに全部持ってきたのさ。"
+
+#. MAXWELL_SANDBOXINTROS.ONE
+msgctxt "MAXWELL_SANDBOXINTROS.ONE"
+msgid "Say pal, you don't look so good."
+msgstr "おい、友よ、あまり元気がなさそうだな。"
+
+#. MAXWELL_SANDBOXINTROS.TWO
+msgctxt "MAXWELL_SANDBOXINTROS.TWO"
+msgid "You'd better find something to eat before night comes!"
+msgstr "夜が来る前に何か食べる物を見つけたほうがいい。"
+

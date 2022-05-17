@@ -1,0 +1,435 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.aggroheld
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.aggroheld"
+msgid "seconds with creatures' attention"
+msgstr "segundos con atención de las criaturas"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.aggroheld2
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.aggroheld2"
+msgid "seconds with creatures' attention"
+msgstr "segundos con atención de las criaturas"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.altattacks
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.altattacks"
+msgid "special attacks used"
+msgstr "ataques especiales utilizados"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.attacks
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.attacks"
+msgid "swings landed"
+msgstr "golpes dados"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.blowdarts
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.blowdarts"
+msgid "darts hit their mark"
+msgstr "dardos que han alcanzado su objetivo"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.blowdarts2
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.blowdarts2"
+msgid "darts hit their mark"
+msgstr "dardos que han alcanzado su objetivo"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.corpsesrevived
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.corpsesrevived"
+msgid "allies revived"
+msgstr "aliados resucitados"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.deaths
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.deaths"
+msgid "deaths"
+msgstr "muertes"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.guardsbroken
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.guardsbroken"
+msgid "enemy guards broken"
+msgstr "guardias enemigas rotas"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.healingdone
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.healingdone"
+msgid "health restored"
+msgstr "salud restaurada"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.healingdone2
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.healingdone2"
+msgid "health restored"
+msgstr "salud restaurada"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.kills
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.kills"
+msgid "killing blows"
+msgstr "golpes mortales"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.kills2
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.kills2"
+msgid "killing blows struck"
+msgstr "golpes mortales asestados"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.none
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.none"
+msgid "thanks for playing"
+msgstr "gracias por jugar"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.numcc
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.numcc"
+msgid "enemies immobilized"
+msgstr "enemigos inmovilizados"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.spellscast
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.spellscast"
+msgid "spells cast"
+msgstr "conjuros lanzados"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.standards
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.standards"
+msgid "battle standards destroyed"
+msgstr "estandartes de batalla destruidos"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.stepcounter
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.stepcounter"
+msgid "steps taken"
+msgstr "pasos dados"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.total_damagedealt
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.total_damagedealt"
+msgid "damage dealt"
+msgstr "daño infligido"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.total_damagedealt2
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.total_damagedealt2"
+msgid "damage dealt"
+msgstr "daño infligido"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.total_damagetaken
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.total_damagetaken"
+msgid "damage taken"
+msgstr "daño recibido"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.total_damagetaken2
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.total_damagetaken2"
+msgid "damage taken for the team"
+msgstr "daño recibido por el equipo"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.turtillusflips
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.turtillusflips"
+msgid "Snortoises flipped"
+msgstr "Bufurtugas volteadas"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.NO_STAT_VALUE
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.NO_STAT_VALUE"
+msgid "-"
+msgstr "-"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.aggroheld
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.aggroheld"
+msgid "Distraction"
+msgstr "Distracción"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.aggroheld2
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.aggroheld2"
+msgid "Expert Decoy"
+msgstr "Trampa experta"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.altattacks
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.altattacks"
+msgid "Powerful"
+msgstr "Poderoso"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.attacks
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.attacks"
+msgid "Combatant"
+msgstr "Combatiente"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.blowdarts
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.blowdarts"
+msgid "Sharpshooter"
+msgstr "Tirador de primera"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.blowdarts2
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.blowdarts2"
+msgid "Ace Marksman"
+msgstr "Tirador experto"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.corpsesrevived
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.corpsesrevived"
+msgid "Resurrector"
+msgstr "Resurrector"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.deaths
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.deaths"
+msgid "Reborn"
+msgstr "Renacido"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.guardsbroken
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.guardsbroken"
+msgid "Breacher"
+msgstr "Rompedor"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.healingdone
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.healingdone"
+msgid "Healer"
+msgstr "Curador"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.healingdone2
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.healingdone2"
+msgid "Doctor"
+msgstr "Doctor"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.kills
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.kills"
+msgid "Assassin"
+msgstr "Asesino"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.kills2
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.kills2"
+msgid "Master Assassin"
+msgstr "Asesino maestro"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.none
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.none"
+msgid "Participator!"
+msgstr "¡Participativo!"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.numcc
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.numcc"
+msgid "Immobilizer"
+msgstr "Inmovilizador"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.spellscast
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.spellscast"
+msgid "Archmage"
+msgstr "Archimago"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.standards
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.standards"
+msgid "Vandal"
+msgstr "Vándalo"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.stepcounter
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.stepcounter"
+msgid "Fast-Paced"
+msgstr "Trepidante"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.total_damagedealt
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.total_damagedealt"
+msgid "Brawler"
+msgstr "Alborotador"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.total_damagedealt2
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.total_damagedealt2"
+msgid "Merciless"
+msgstr "Sin piedad"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.total_damagetaken
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.total_damagetaken"
+msgid "Protector"
+msgstr "Protector"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.total_damagetaken2
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.total_damagetaken2"
+msgid "Loyal Guardian"
+msgstr "Guardián leal"
+
+#. UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.turtillusflips
+msgctxt "UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.turtillusflips"
+msgid "Turtle Flipper"
+msgstr "Volteador de tortugas"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.buys
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.buys"
+msgid "goods bought from traders"
+msgstr "artículos comprados de comerciantes"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.crops_farmed
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.crops_farmed"
+msgid "fresh crops farmed"
+msgstr "cultivos cosechados"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.crops_farmed2
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.crops_farmed2"
+msgid "fresh crops farmed"
+msgstr "cultivos cosechados"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.crops_picked
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.crops_picked"
+msgid "fresh crops picked"
+msgstr "cultivos frescos recogidos"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.crops_planted
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.crops_planted"
+msgid "fresh crops planted"
+msgstr "cultivos plantados"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.crops_rotten
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.crops_rotten"
+msgid "crops left to rot"
+msgstr "cultivos que se echaron a perder"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.herbs_picked
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.herbs_picked"
+msgid "wild plants picked"
+msgstr "plantas salvajes recogidas"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.herbs_picked2
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.herbs_picked2"
+msgid "wild plants picked"
+msgstr "plantas salvajes recogidas"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.logs
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.logs"
+msgid "logs harvested"
+msgstr "troncos recogidos"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.logs2
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.logs2"
+msgid "logs harvested"
+msgstr "troncos recogidos"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_burnt
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_burnt"
+msgid "meals burnt to cinders"
+msgstr "comidas hechas cenizas"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_burnt2
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_burnt2"
+msgid "meals burnt to cinders"
+msgstr "comidas hechas cenizas"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_made
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_made"
+msgid "meals cooked"
+msgstr "comidas cocinadas"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_made2
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_made2"
+msgid "meals cooked"
+msgstr "comidas cocinadas"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_saved
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_saved"
+msgid "meals saved from the fire"
+msgstr "comidas salvadas del fuego"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_saved2
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_saved2"
+msgid "meals saved from the fire"
+msgstr "comidas salvadas del fuego"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.none
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.none"
+msgid "thanks for playing"
+msgstr "gracias por jugar"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.stepcounter
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.stepcounter"
+msgid "steps taken"
+msgstr "pasos dados"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.tributes
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.tributes"
+msgid "dishes sacrificed to the Altar"
+msgstr "platos sacrificados al altar"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.NO_STAT_VALUE
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.NO_STAT_VALUE"
+msgid "-"
+msgstr "-"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.buys
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.buys"
+msgid "Barterer"
+msgstr "Comerciante"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.crops_farmed
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.crops_farmed"
+msgid "Farmhand"
+msgstr "Trabajador del campo"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.crops_farmed2
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.crops_farmed2"
+msgid "Greenthumb"
+msgstr "Jardinero nato"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.crops_picked
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.crops_picked"
+msgid "Harvester"
+msgstr "Cosechador"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.crops_planted
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.crops_planted"
+msgid "Sower"
+msgstr "Sembrador"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.crops_rotten
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.crops_rotten"
+msgid "Composter"
+msgstr "Compostador"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.herbs_picked
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.herbs_picked"
+msgid "Forager"
+msgstr "Recolector"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.herbs_picked2
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.herbs_picked2"
+msgid "Master Gatherer"
+msgstr "Recolector maestro"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.logs
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.logs"
+msgid "Lumberjack"
+msgstr "Leñador"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.logs2
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.logs2"
+msgid "Clearcutter"
+msgstr "Talador"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_burnt
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_burnt"
+msgid "Overcooker"
+msgstr "Quemador de comida"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_burnt2
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_burnt2"
+msgid "Kitchen Disaster"
+msgstr "Desastre en la cocina"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_made
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_made"
+msgid "Sous Chef"
+msgstr "Asistente de chef"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_made2
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_made2"
+msgid "Master Chef"
+msgstr "Maestro chef"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_saved
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_saved"
+msgid "Meal Saver"
+msgstr "Salvador de comidas"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_saved2
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_saved2"
+msgid "Kitchen Rescuer"
+msgstr "Rescatador de cocina"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.none
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.none"
+msgid "Participator!"
+msgstr "¡Participativo!"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.stepcounter
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.stepcounter"
+msgid "Fast-Paced"
+msgstr "Trepidante"
+
+#. UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.tributes
+msgctxt "UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.tributes"
+msgid "Gnaw Worshipper"
+msgstr "Adorador de la Roedora"
+

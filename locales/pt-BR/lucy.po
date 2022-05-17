@@ -1,0 +1,1010 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. LUCY.beaver_down_early.1
+msgctxt "LUCY.beaver_down_early.1"
+msgid "Are you okay?"
+msgstr "Você está bem?"
+
+#. LUCY.beaver_down_early.2
+msgctxt "LUCY.beaver_down_early.2"
+msgid "You alright, big guy?"
+msgstr "Está bem, grandão?"
+
+#. LUCY.beaver_down_early.3
+msgctxt "LUCY.beaver_down_early.3"
+msgid "What's wrong?"
+msgstr "O que houve?"
+
+#. LUCY.beaver_down_early.4
+msgctxt "LUCY.beaver_down_early.4"
+msgid "Are you sure you're feeling alright?"
+msgstr "Tem certeza que está se sentindo bem?"
+
+#. LUCY.beaver_down_early.5
+msgctxt "LUCY.beaver_down_early.5"
+msgid "You're looking extra gruff today."
+msgstr "Você está mais impaciente que o normal hoje."
+
+#. LUCY.beaver_down_early.6
+msgctxt "LUCY.beaver_down_early.6"
+msgid "You look distracted."
+msgstr "Você parece distraído."
+
+#. LUCY.beaver_down_early.7
+msgctxt "LUCY.beaver_down_early.7"
+msgid "Why are you making that face?"
+msgstr "Por que está fazendo essa cara?"
+
+#. LUCY.beaver_down_early.8
+msgctxt "LUCY.beaver_down_early.8"
+msgid "Try to take deep breaths, okay?"
+msgstr "Tente respirar fundo, ok?"
+
+#. LUCY.beaver_down_late.1
+msgctxt "LUCY.beaver_down_late.1"
+msgid "You're overdoing it!"
+msgstr "Você está exagerando!"
+
+#. LUCY.beaver_down_late.2
+msgctxt "LUCY.beaver_down_late.2"
+msgid "You're not pacing yourself!"
+msgstr "Você não está indo com calma!"
+
+#. LUCY.beaver_down_late.3
+msgctxt "LUCY.beaver_down_late.3"
+msgid "You're about to change!"
+msgstr "Você está prestes a se transformar!"
+
+#. LUCY.beaver_down_late.4
+msgctxt "LUCY.beaver_down_late.4"
+msgid "Take it easy!"
+msgstr "Vai com calma!"
+
+#. LUCY.beaver_down_late.5
+msgctxt "LUCY.beaver_down_late.5"
+msgid "You've gotta slow down!"
+msgstr "Você precisa ir mais devagar!"
+
+#. LUCY.beaver_down_late.6
+msgctxt "LUCY.beaver_down_late.6"
+msgid "Slow down, I'm worried about you!"
+msgstr "Devagar, estou preocupada com você!"
+
+#. LUCY.beaver_down_late.7
+msgctxt "LUCY.beaver_down_late.7"
+msgid "Watch out! You're going to turn!"
+msgstr "Cuidado! Você vai se transformar!"
+
+#. LUCY.beaver_down_mid.1
+msgctxt "LUCY.beaver_down_mid.1"
+msgid "Hello? Can you hear me?"
+msgstr "Alô? Está ouvindo?"
+
+#. LUCY.beaver_down_mid.2
+msgctxt "LUCY.beaver_down_mid.2"
+msgid "Isn't it about time for a nice wood snack?"
+msgstr "Não está na hora de um bom lanchinho de madeira?"
+
+#. LUCY.beaver_down_mid.3
+msgctxt "LUCY.beaver_down_mid.3"
+msgid "Woodie! Remember to eat your twigs!"
+msgstr "Woodie! Lembre de comer seu graveto!"
+
+#. LUCY.beaver_down_mid.4
+msgctxt "LUCY.beaver_down_mid.4"
+msgid "You might want to eat a log."
+msgstr "Talvez seja melhor comer uma tora."
+
+#. LUCY.beaver_down_mid.5
+msgctxt "LUCY.beaver_down_mid.5"
+msgid "Mmm, bark... doesn't that sound good right now? Hm?"
+msgstr "Hmm, casca de árvore... Não parece bom agora? Hm?"
+
+#. LUCY.beaver_down_mid.6
+msgctxt "LUCY.beaver_down_mid.6"
+msgid "Have you been putting off your wood meals again?"
+msgstr "Você está passando suas refeições de madeira de novo?"
+
+#. LUCY.beaver_down_mid.7
+msgctxt "LUCY.beaver_down_mid.7"
+msgid "Hey, hey, have a woodchip."
+msgstr "Ei, ei, coma uma lasca de madeira."
+
+#. LUCY.beaver_down_mid.8
+msgctxt "LUCY.beaver_down_mid.8"
+msgid "You know what happens if you don't eat enough wood!"
+msgstr "Você sabe o que acontece se não comer madeira suficiente!"
+
+#. LUCY.beaver_up_waslow.1
+msgctxt "LUCY.beaver_up_waslow.1"
+msgid "That was a close one!"
+msgstr "Essa foi por pouco!"
+
+#. LUCY.beaver_up_waslow.2
+msgctxt "LUCY.beaver_up_waslow.2"
+msgid "I think we'll be alright."
+msgstr "Acho que vamos ficar bem."
+
+#. LUCY.beaver_up_waslow.3
+msgctxt "LUCY.beaver_up_waslow.3"
+msgid "You're looking much better now."
+msgstr "Você parece muito melhor agora."
+
+#. LUCY.beaver_up_waslow.4
+msgctxt "LUCY.beaver_up_waslow.4"
+msgid "It's passed. For now."
+msgstr "Passou. Por enquanto."
+
+#. LUCY.beaver_up_waslow.5
+msgctxt "LUCY.beaver_up_waslow.5"
+msgid "I was silly to doubt you."
+msgstr "Fui tola de duvidar de você."
+
+#. LUCY.beaver_up_waslow.6
+msgctxt "LUCY.beaver_up_waslow.6"
+msgid "Wow, I was afraid you were in for it!"
+msgstr "Nossa, achei que você já era!"
+
+#. LUCY.beaver_up_waslow.7
+msgctxt "LUCY.beaver_up_waslow.7"
+msgid "I think the colour's returning to your cheeks."
+msgstr "Acho que você está recuperando a cor!"
+
+#. LUCY.beaver_up_waslow.8
+msgctxt "LUCY.beaver_up_waslow.8"
+msgid "It's back in the lodge. Phew!"
+msgstr "Voltou pra cabana. Ufa!"
+
+#. LUCY.equipped.1
+msgctxt "LUCY.equipped.1"
+msgid "Let's chop some trees!"
+msgstr "Vamos cortar umas árvores!"
+
+#. LUCY.equipped.10
+msgctxt "LUCY.equipped.10"
+msgid "Chop chop chop. Heh."
+msgstr "Corta, corta, corta. He."
+
+#. LUCY.equipped.11
+msgctxt "LUCY.equipped.11"
+msgid "Chop, c-c-chop!"
+msgstr "Corta, c-c-corta!"
+
+#. LUCY.equipped.12
+msgctxt "LUCY.equipped.12"
+msgid "So, stone trees... what's up with that?"
+msgstr "Então, árvores de pedra... Que que tá pegando?"
+
+#. LUCY.equipped.13
+msgctxt "LUCY.equipped.13"
+msgid "Let's find a small grove and just go nuts!"
+msgstr "Vamos procurar um bosquezinho e fazer a festa!"
+
+#. LUCY.equipped.2
+msgctxt "LUCY.equipped.2"
+msgid "Nice day for a walk!"
+msgstr "É um ótimo dia para uma caminhada!"
+
+#. LUCY.equipped.3
+msgctxt "LUCY.equipped.3"
+msgid "We make a good team!"
+msgstr "Formamos uma bela equipe!"
+
+#. LUCY.equipped.4
+msgctxt "LUCY.equipped.4"
+msgid "There must be some trees around here somewhere."
+msgstr "Devem haver algumas árvores por aqui em algum lugar."
+
+#. LUCY.equipped.5
+msgctxt "LUCY.equipped.5"
+msgid "This is perfect chopping weather."
+msgstr "Esse é um clima perfeito pra cortar."
+
+#. LUCY.equipped.6
+msgctxt "LUCY.equipped.6"
+msgid "A perfect day for some chopping."
+msgstr "Um dia perfeito pra cortar um pouquinho."
+
+#. LUCY.equipped.7
+msgctxt "LUCY.equipped.7"
+msgid "You've got chops, buddy."
+msgstr "Olha só esse corte, amigo."
+
+#. LUCY.equipped.8
+msgctxt "LUCY.equipped.8"
+msgid "Hey! Chop some trees!"
+msgstr "Ei! Corte umas árvores!"
+
+#. LUCY.equipped.9
+msgctxt "LUCY.equipped.9"
+msgid "All work and no play makes me want to chop some trees."
+msgstr "Tanto trabalho e nenhuma diversão me faz querer cortar umas árvores."
+
+#. LUCY.in_container.1
+msgctxt "LUCY.in_container.1"
+msgid "It's dark in here!"
+msgstr "Está escuro aqui!"
+
+#. LUCY.in_container.10
+msgctxt "LUCY.in_container.10"
+msgid "I can't see anything!"
+msgstr "Não consigo ver nada!"
+
+#. LUCY.in_container.11
+msgctxt "LUCY.in_container.11"
+msgid "This is honestly the worst."
+msgstr "Isso aqui é mesmo a pior coisa."
+
+#. LUCY.in_container.12
+msgctxt "LUCY.in_container.12"
+msgid "I hate it in here."
+msgstr "Odeio esse lugar."
+
+#. LUCY.in_container.13
+msgctxt "LUCY.in_container.13"
+msgid "What did I ever do to you?"
+msgstr "O que fiz pra você?"
+
+#. LUCY.in_container.2
+msgctxt "LUCY.in_container.2"
+msgid "I'm scared!"
+msgstr "Estou com medo!"
+
+#. LUCY.in_container.3
+msgctxt "LUCY.in_container.3"
+msgid "Help! Get me out!"
+msgstr "Socorro! Me tira daqui!"
+
+#. LUCY.in_container.4
+msgctxt "LUCY.in_container.4"
+msgid "There's nothing to chop in here!"
+msgstr "Não tem nada pra cortar aqui!"
+
+#. LUCY.in_container.5
+msgctxt "LUCY.in_container.5"
+msgid "This sucks."
+msgstr "Que chatice!"
+
+#. LUCY.in_container.6
+msgctxt "LUCY.in_container.6"
+msgid "Getttt meeee outttt!"
+msgstr "Meee tiraaa daquiii!"
+
+#. LUCY.in_container.7
+msgctxt "LUCY.in_container.7"
+msgid "I'm claustrophobic!"
+msgstr "Sou claustrofóbica!"
+
+#. LUCY.in_container.8
+msgctxt "LUCY.in_container.8"
+msgid "I have a fear of tight spaces!"
+msgstr "Tenho medo de espaços fechados!"
+
+#. LUCY.in_container.9
+msgctxt "LUCY.in_container.9"
+msgid "I can't breathe! Wait."
+msgstr "Não posso respirar! Espere."
+
+#. LUCY.on_chopped.1
+msgctxt "LUCY.on_chopped.1"
+msgid "Woooooo!"
+msgstr "Uuuuuu!"
+
+#. LUCY.on_chopped.10
+msgctxt "LUCY.on_chopped.10"
+msgid "Woo-hoohoo!"
+msgstr "Uhu-huhu!"
+
+#. LUCY.on_chopped.11
+msgctxt "LUCY.on_chopped.11"
+msgid "RAAAA!"
+msgstr "URRÁÁÁÁ!"
+
+#. LUCY.on_chopped.12
+msgctxt "LUCY.on_chopped.12"
+msgid "Die! Die!"
+msgstr "Morra! Morra!"
+
+#. LUCY.on_chopped.13
+msgctxt "LUCY.on_chopped.13"
+msgid "Chop! Chop!"
+msgstr "Corta! Corta!"
+
+#. LUCY.on_chopped.14
+msgctxt "LUCY.on_chopped.14"
+msgid "Destruction!"
+msgstr "Destruição!"
+
+#. LUCY.on_chopped.15
+msgctxt "LUCY.on_chopped.15"
+msgid "CHOP!"
+msgstr "CORTA!"
+
+#. LUCY.on_chopped.16
+msgctxt "LUCY.on_chopped.16"
+msgid "This is AWESOME!"
+msgstr "Isso é INCRÍVEL!"
+
+#. LUCY.on_chopped.17
+msgctxt "LUCY.on_chopped.17"
+msgid "Death to all trees!"
+msgstr "Morte a todas as árvores!"
+
+#. LUCY.on_chopped.18
+msgctxt "LUCY.on_chopped.18"
+msgid "Again! Let's chop another!"
+msgstr "De novo! Vamos cortar outra!"
+
+#. LUCY.on_chopped.19
+msgctxt "LUCY.on_chopped.19"
+msgid "Nice swing!"
+msgstr "Belo golpe!"
+
+#. LUCY.on_chopped.2
+msgctxt "LUCY.on_chopped.2"
+msgid "Yeah!"
+msgstr "É!"
+
+#. LUCY.on_chopped.20
+msgctxt "LUCY.on_chopped.20"
+msgid "Too easy!"
+msgstr "Que fácil!"
+
+#. LUCY.on_chopped.3
+msgctxt "LUCY.on_chopped.3"
+msgid "Stupid tree!"
+msgstr "Árvore idiota!"
+
+#. LUCY.on_chopped.4
+msgctxt "LUCY.on_chopped.4"
+msgid "Nom nom nom!"
+msgstr "Nhac, nhac, nhac!"
+
+#. LUCY.on_chopped.5
+msgctxt "LUCY.on_chopped.5"
+msgid "We did it!"
+msgstr "Conseguimos!"
+
+#. LUCY.on_chopped.6
+msgctxt "LUCY.on_chopped.6"
+msgid "I feel ALIVE!"
+msgstr "Me sinto VIVA!"
+
+#. LUCY.on_chopped.7
+msgctxt "LUCY.on_chopped.7"
+msgid "HaHAHA!"
+msgstr "HaHAHA!"
+
+#. LUCY.on_chopped.8
+msgctxt "LUCY.on_chopped.8"
+msgid "YEEEESS!"
+msgstr "SIIIMM!"
+
+#. LUCY.on_chopped.9
+msgctxt "LUCY.on_chopped.9"
+msgid "This is what I live for!"
+msgstr "É pra isso que vivo!"
+
+#. LUCY.on_dropped.1
+msgctxt "LUCY.on_dropped.1"
+msgid "You'll come back, right?"
+msgstr "Você vai voltar, né?"
+
+#. LUCY.on_dropped.10
+msgctxt "LUCY.on_dropped.10"
+msgid "Aren't we friends?"
+msgstr "Não somos amigos?"
+
+#. LUCY.on_dropped.11
+msgctxt "LUCY.on_dropped.11"
+msgid "Who chucks a talking axe?!"
+msgstr "Quem não gosta de um machado falante!?"
+
+#. LUCY.on_dropped.12
+msgctxt "LUCY.on_dropped.12"
+msgid "I... don't understand!"
+msgstr "Eu... não entendo."
+
+#. LUCY.on_dropped.13
+msgctxt "LUCY.on_dropped.13"
+msgid "Can we talk about this?"
+msgstr "Podemos falar sobre isso?"
+
+#. LUCY.on_dropped.14
+msgctxt "LUCY.on_dropped.14"
+msgid "Don't forget about me!"
+msgstr "Não se esqueça de mim!"
+
+#. LUCY.on_dropped.15
+msgctxt "LUCY.on_dropped.15"
+msgid "Oof!"
+msgstr "Au!"
+
+#. LUCY.on_dropped.16
+msgctxt "LUCY.on_dropped.16"
+msgid "I don't like where this is going."
+msgstr "Não estou gostando do rumo disso."
+
+#. LUCY.on_dropped.17
+msgctxt "LUCY.on_dropped.17"
+msgid "Are... are you gonna make like a tree?"
+msgstr "Você... vai fazer, tipo, uma árvore?"
+
+#. LUCY.on_dropped.18
+msgctxt "LUCY.on_dropped.18"
+msgid "Ouch!"
+msgstr "Ai!"
+
+#. LUCY.on_dropped.2
+msgctxt "LUCY.on_dropped.2"
+msgid "What did I say?"
+msgstr "O que eu disse?"
+
+#. LUCY.on_dropped.3
+msgctxt "LUCY.on_dropped.3"
+msgid "Oh, that's low."
+msgstr "Oh, que baixeza!"
+
+#. LUCY.on_dropped.4
+msgctxt "LUCY.on_dropped.4"
+msgid "Don't leave! I... I think I smell roses!"
+msgstr "Não vá embora! Eu... eu acho que sinto cheiro de rosas!"
+
+#. LUCY.on_dropped.5
+msgctxt "LUCY.on_dropped.5"
+msgid "I know this is only temporary..."
+msgstr "Sei que isso é só temporário..."
+
+#. LUCY.on_dropped.6
+msgctxt "LUCY.on_dropped.6"
+msgid "Awww..."
+msgstr "Aii..."
+
+#. LUCY.on_dropped.7
+msgctxt "LUCY.on_dropped.7"
+msgid "Oh, is that how it is?!"
+msgstr "Ah, é assim, então?!"
+
+#. LUCY.on_dropped.8
+msgctxt "LUCY.on_dropped.8"
+msgid "Hey! I'd never throw you away!"
+msgstr "Ei! Eu nunca jogaria você fora!"
+
+#. LUCY.on_dropped.9
+msgctxt "LUCY.on_dropped.9"
+msgid "Why would you throw me away?"
+msgstr "Por que você me jogou fora?"
+
+#. LUCY.on_ground.1
+msgctxt "LUCY.on_ground.1"
+msgid "Come back! Take we with you!"
+msgstr "Volte! Me leve com você!"
+
+#. LUCY.on_ground.10
+msgctxt "LUCY.on_ground.10"
+msgid "Hey! Get back over here!"
+msgstr "Ei! Volte aqui!"
+
+#. LUCY.on_ground.11
+msgctxt "LUCY.on_ground.11"
+msgid "I can't chop trees by myself!"
+msgstr "Não posso derrubar árvores sozinho!"
+
+#. LUCY.on_ground.12
+msgctxt "LUCY.on_ground.12"
+msgid "So... lonely..."
+msgstr "Que... solidão..."
+
+#. LUCY.on_ground.13
+msgctxt "LUCY.on_ground.13"
+msgid "I guess I'll just stay here then..."
+msgstr "Acho que vou ter que ficar aqui..."
+
+#. LUCY.on_ground.14
+msgctxt "LUCY.on_ground.14"
+msgid "What if I get stolen?!"
+msgstr "E se eu for roubada!?"
+
+#. LUCY.on_ground.2
+msgctxt "LUCY.on_ground.2"
+msgid "Where did you go?"
+msgstr "Onde você foi?"
+
+#. LUCY.on_ground.3
+msgctxt "LUCY.on_ground.3"
+msgid "Take me with you!"
+msgstr "Me leve com você!"
+
+#. LUCY.on_ground.4
+msgctxt "LUCY.on_ground.4"
+msgid "It's cold!"
+msgstr "Está frio!"
+
+#. LUCY.on_ground.5
+msgctxt "LUCY.on_ground.5"
+msgid "I'm getting dirty!"
+msgstr "Estou ficando suja!"
+
+#. LUCY.on_ground.6
+msgctxt "LUCY.on_ground.6"
+msgid "There's monsters around you know!"
+msgstr "Tem monstros por aí, sabia?"
+
+#. LUCY.on_ground.7
+msgctxt "LUCY.on_ground.7"
+msgid "I resent that!"
+msgstr "Não gosto disso!"
+
+#. LUCY.on_ground.8
+msgctxt "LUCY.on_ground.8"
+msgid "You're abandoning me?!"
+msgstr "Você está me abandonando?!"
+
+#. LUCY.on_ground.9
+msgctxt "LUCY.on_ground.9"
+msgid "But... but we're inseparable!"
+msgstr "Mas, mas... somos inseparáveis!"
+
+#. LUCY.on_haunt.1
+msgctxt "LUCY.on_haunt.1"
+msgid "Ouch, that hurts."
+msgstr "Au, isso dói."
+
+#. LUCY.on_haunt.10
+msgctxt "LUCY.on_haunt.10"
+msgid "What did I ever do to you!?"
+msgstr "Mas o que foi que eu fiz pra você?"
+
+#. LUCY.on_haunt.11
+msgctxt "LUCY.on_haunt.11"
+msgid "You're the ghostest with the mostest!"
+msgstr "Você é um fantasma bem fantasmagórico!"
+
+#. LUCY.on_haunt.12
+msgctxt "LUCY.on_haunt.12"
+msgid "Don't take it out on me just 'cause you're dead!"
+msgstr "Não desconta em mim só porque você morreu!"
+
+#. LUCY.on_haunt.13
+msgctxt "LUCY.on_haunt.13"
+msgid "If you were corporeal I'd chop you!"
+msgstr "Se você tivesse um corpo! Eu cortaria ele!"
+
+#. LUCY.on_haunt.14
+msgctxt "LUCY.on_haunt.14"
+msgid "OOooOOooOOoo! Haha, just kidding."
+msgstr "OOooOOooOOoo! Ha, ha, brincadeira."
+
+#. LUCY.on_haunt.15
+msgctxt "LUCY.on_haunt.15"
+msgid "Creepy!"
+msgstr "Assustador!"
+
+#. LUCY.on_haunt.16
+msgctxt "LUCY.on_haunt.16"
+msgid "Brrr! You're cold!"
+msgstr "Brrr! Que frio!"
+
+#. LUCY.on_haunt.17
+msgctxt "LUCY.on_haunt.17"
+msgid "You got ectoplasm on my handle!!"
+msgstr "Você derrubou ectoplasma no meu punho!!"
+
+#. LUCY.on_haunt.18
+msgctxt "LUCY.on_haunt.18"
+msgid "Knock it off!"
+msgstr "Deixa disso!"
+
+#. LUCY.on_haunt.19
+msgctxt "LUCY.on_haunt.19"
+msgid "Rude!"
+msgstr "Que falta de educação."
+
+#. LUCY.on_haunt.2
+msgctxt "LUCY.on_haunt.2"
+msgid "ooOOoooOO to you too."
+msgstr "ooOOoooOO pra você também."
+
+#. LUCY.on_haunt.20
+msgctxt "LUCY.on_haunt.20"
+msgid "I am an axe possessed!"
+msgstr "Sou um machado possuído!"
+
+#. LUCY.on_haunt.21
+msgctxt "LUCY.on_haunt.21"
+msgid "Pick on someone your own size!"
+msgstr "Vai encher alguém do seu tamanho!"
+
+#. LUCY.on_haunt.22
+msgctxt "LUCY.on_haunt.22"
+msgid "Hey!"
+msgstr "Ei!"
+
+#. LUCY.on_haunt.23
+msgctxt "LUCY.on_haunt.23"
+msgid "Jeez! Did I anger you in a past life?"
+msgstr "Nossa! Eu irritei você numa vida passada?"
+
+#. LUCY.on_haunt.24
+msgctxt "LUCY.on_haunt.24"
+msgid "I'm white as a sheet."
+msgstr "Estou branca como uma folha."
+
+#. LUCY.on_haunt.25
+msgctxt "LUCY.on_haunt.25"
+msgid "You're looking boo-tiful today."
+msgstr "Você está buu-nito hoje."
+
+#. LUCY.on_haunt.3
+msgctxt "LUCY.on_haunt.3"
+msgid "Now I'm a HAUNTED axe."
+msgstr "Agora sou um machado ASSOMBRADO."
+
+#. LUCY.on_haunt.4
+msgctxt "LUCY.on_haunt.4"
+msgid "I'm not scared of you, ghost!"
+msgstr "Não tenho medo de você, fantasma!"
+
+#. LUCY.on_haunt.5
+msgctxt "LUCY.on_haunt.5"
+msgid "Boo who?"
+msgstr "Que pena!"
+
+#. LUCY.on_haunt.6
+msgctxt "LUCY.on_haunt.6"
+msgid "I've seen scarier."
+msgstr "Já vi coisas mais assustadoras."
+
+#. LUCY.on_haunt.7
+msgctxt "LUCY.on_haunt.7"
+msgid "You think I'm afraid of you?"
+msgstr "Você acha que tenho medo de você?"
+
+#. LUCY.on_haunt.8
+msgctxt "LUCY.on_haunt.8"
+msgid "Do you worst, ghost."
+msgstr "Mostre seu pior, fantasma."
+
+#. LUCY.on_haunt.9
+msgctxt "LUCY.on_haunt.9"
+msgid "Go bother someBODY else! Haha."
+msgstr "Vai incomodar outra pessoa!"
+
+#. LUCY.on_pickedup.1
+msgctxt "LUCY.on_pickedup.1"
+msgid "I missed you so much!"
+msgstr "Eu senti tanto a sua falta!"
+
+#. LUCY.on_pickedup.10
+msgctxt "LUCY.on_pickedup.10"
+msgid "Did you miss me?"
+msgstr "Você sentiu a minha?"
+
+#. LUCY.on_pickedup.11
+msgctxt "LUCY.on_pickedup.11"
+msgid "Together again!"
+msgstr "Juntos novamente!"
+
+#. LUCY.on_pickedup.2
+msgctxt "LUCY.on_pickedup.2"
+msgid "Ahhh, I'm back where I belong."
+msgstr "Ahhh, voltei pro meu lugar."
+
+#. LUCY.on_pickedup.3
+msgctxt "LUCY.on_pickedup.3"
+msgid "It feels so good to be reunited!"
+msgstr "Me sinto tão bem de voltar!"
+
+#. LUCY.on_pickedup.4
+msgctxt "LUCY.on_pickedup.4"
+msgid "I was afraid you'd never come back."
+msgstr "Tinha medo que você não ia voltar pra me buscar!"
+
+#. LUCY.on_pickedup.5
+msgctxt "LUCY.on_pickedup.5"
+msgid "You came back for me!"
+msgstr "Você voltou pra mim!"
+
+#. LUCY.on_pickedup.6
+msgctxt "LUCY.on_pickedup.6"
+msgid "Oh, thank goodness."
+msgstr "Oh, ainda bem."
+
+#. LUCY.on_pickedup.7
+msgctxt "LUCY.on_pickedup.7"
+msgid "Oh, it was awful!"
+msgstr "Oh, foi horrível!"
+
+#. LUCY.on_pickedup.8
+msgctxt "LUCY.on_pickedup.8"
+msgid "Never do that again! My little heart can't take it."
+msgstr "Nunca faça isso de novo! Meu coraçãozinho não aguenta."
+
+#. LUCY.on_pickedup.9
+msgctxt "LUCY.on_pickedup.9"
+msgid "From now on we'll be inseparable."
+msgstr "De agora em diante seremos inseparáveis."
+
+#. LUCY.on_woodie_pickedup_other.1
+msgctxt "LUCY.on_woodie_pickedup_other.1"
+msgid "You two-timer!"
+msgstr "Seu traidor!"
+
+#. LUCY.on_woodie_pickedup_other.10
+msgctxt "LUCY.on_woodie_pickedup_other.10"
+msgid "She's an impostor!"
+msgstr "Ela é uma impostora!"
+
+#. LUCY.on_woodie_pickedup_other.11
+msgctxt "LUCY.on_woodie_pickedup_other.11"
+msgid "It's like you don't even know me!"
+msgstr "Parece que você nem me conhece!"
+
+#. LUCY.on_woodie_pickedup_other.12
+msgctxt "LUCY.on_woodie_pickedup_other.12"
+msgid "Get rid of her! It's freaking me out."
+msgstr "Livre-se dela! Isso está me deixando louca."
+
+#. LUCY.on_woodie_pickedup_other.13
+msgctxt "LUCY.on_woodie_pickedup_other.13"
+msgid "I'm having an identity crisis over here."
+msgstr "Estou tendo uma crise de identidade aqui."
+
+#. LUCY.on_woodie_pickedup_other.14
+msgctxt "LUCY.on_woodie_pickedup_other.14"
+msgid "Oh, you're just AXING for trouble!"
+msgstr "Ah é, machado não é roubado?"
+
+#. LUCY.on_woodie_pickedup_other.15
+msgctxt "LUCY.on_woodie_pickedup_other.15"
+msgid "You can't have two Lucys!"
+msgstr "Você não pode ter duas Lucys!"
+
+#. LUCY.on_woodie_pickedup_other.16
+msgctxt "LUCY.on_woodie_pickedup_other.16"
+msgid "You can't have him! He's mine!"
+msgstr "Você não pode ficar com ele! Ele é meu!"
+
+#. LUCY.on_woodie_pickedup_other.2
+msgctxt "LUCY.on_woodie_pickedup_other.2"
+msgid "But I'M your one and only Lucy!"
+msgstr "Mas EU sou a sua primeira e única Lucy!"
+
+#. LUCY.on_woodie_pickedup_other.3
+msgctxt "LUCY.on_woodie_pickedup_other.3"
+msgid "There can be only one!"
+msgstr "Só pode haver uma!"
+
+#. LUCY.on_woodie_pickedup_other.4
+msgctxt "LUCY.on_woodie_pickedup_other.4"
+msgid "How dare you do this to me!"
+msgstr "Como se atreve a fazer isso comigo!"
+
+#. LUCY.on_woodie_pickedup_other.5
+msgctxt "LUCY.on_woodie_pickedup_other.5"
+msgid "You're replacing me?!"
+msgstr "Você está me substituindo?!"
+
+#. LUCY.on_woodie_pickedup_other.6
+msgctxt "LUCY.on_woodie_pickedup_other.6"
+msgid "That's not me!"
+msgstr "Essa não sou eu!"
+
+#. LUCY.on_woodie_pickedup_other.7
+msgctxt "LUCY.on_woodie_pickedup_other.7"
+msgid "Betrayal!"
+msgstr "Traição!"
+
+#. LUCY.on_woodie_pickedup_other.8
+msgctxt "LUCY.on_woodie_pickedup_other.8"
+msgid "Ooo I'll remember that!"
+msgstr "Ooo. Não vou esquecer disso!"
+
+#. LUCY.on_woodie_pickedup_other.9
+msgctxt "LUCY.on_woodie_pickedup_other.9"
+msgid "Hey! Can't you tell us apart?"
+msgstr "Ei! Você não consegue ver a diferença?"
+
+#. LUCY.other_owner.1
+msgctxt "LUCY.other_owner.1"
+msgid "I don't know you."
+msgstr "Não conheço você."
+
+#. LUCY.other_owner.10
+msgctxt "LUCY.other_owner.10"
+msgid "Get your mitts off me!"
+msgstr "Tire suas patas de mim!"
+
+#. LUCY.other_owner.11
+msgctxt "LUCY.other_owner.11"
+msgid "Drop me this instant!"
+msgstr "Me largue agora mesmo!"
+
+#. LUCY.other_owner.12
+msgctxt "LUCY.other_owner.12"
+msgid "How dare you pick me up?!"
+msgstr "Como você se atreve a me pegar?!"
+
+#. LUCY.other_owner.13
+msgctxt "LUCY.other_owner.13"
+msgid "Yuck, your hands are greasy!"
+msgstr "Eca, suas mãos estão engorduradas!"
+
+#. LUCY.other_owner.14
+msgctxt "LUCY.other_owner.14"
+msgid "Let me go!"
+msgstr "Me solta!"
+
+#. LUCY.other_owner.15
+msgctxt "LUCY.other_owner.15"
+msgid "Help! I'm being kidnapped."
+msgstr "Socorro! Estão me machaquestrando!"
+
+#. LUCY.other_owner.16
+msgctxt "LUCY.other_owner.16"
+msgid "Stranger danger!"
+msgstr "Não posso cortar com estranhos!"
+
+#. LUCY.other_owner.2
+msgctxt "LUCY.other_owner.2"
+msgid "Put me down!"
+msgstr "Me larga!"
+
+#. LUCY.other_owner.3
+msgctxt "LUCY.other_owner.3"
+msgid "Hey! Fresh!"
+msgstr "Ei! Novinho!"
+
+#. LUCY.other_owner.4
+msgctxt "LUCY.other_owner.4"
+msgid "Gross."
+msgstr "Nojento."
+
+#. LUCY.other_owner.5
+msgctxt "LUCY.other_owner.5"
+msgid "Excuse you!"
+msgstr "Com licença, você!"
+
+#. LUCY.other_owner.6
+msgctxt "LUCY.other_owner.6"
+msgid "Ummmm, EXCUSE me??"
+msgstr "Ummmm, com LICENÇA, eu??"
+
+#. LUCY.other_owner.7
+msgctxt "LUCY.other_owner.7"
+msgid "Leave me alone, you brute!"
+msgstr "Me deixe em paz, seu mamute!"
+
+#. LUCY.other_owner.8
+msgctxt "LUCY.other_owner.8"
+msgid "Put me down! You smell!"
+msgstr "Me larga! Você fede!"
+
+#. LUCY.other_owner.9
+msgctxt "LUCY.other_owner.9"
+msgid "Did I say you could take me?"
+msgstr "Eu disse que você podia me pegar?"
+
+#. LUCY.transform_beaver.1
+msgctxt "LUCY.transform_beaver.1"
+msgid "Oh no!"
+msgstr "Oh, não!"
+
+#. LUCY.transform_beaver.2
+msgctxt "LUCY.transform_beaver.2"
+msgid "You have to fight it!"
+msgstr "Você precisa lutar contra isso!"
+
+#. LUCY.transform_beaver.3
+msgctxt "LUCY.transform_beaver.3"
+msgid "No! Fight it!"
+msgstr "Não! Lute contra ela!"
+
+#. LUCY.transform_beaver.4
+msgctxt "LUCY.transform_beaver.4"
+msgid "You've gotta resist!"
+msgstr "Você precisa resistir!"
+
+#. LUCY.transform_beaver.5
+msgctxt "LUCY.transform_beaver.5"
+msgid "It happened again!"
+msgstr "Aconteceu de novo!"
+
+#. LUCY.transform_beaver.6
+msgctxt "LUCY.transform_beaver.6"
+msgid "The curse!"
+msgstr "A maldição!"
+
+#. LUCY.transform_beaver.7
+msgctxt "LUCY.transform_beaver.7"
+msgid "Not again!"
+msgstr "De novo não!"
+
+#. LUCY.transform_beaver.8
+msgctxt "LUCY.transform_beaver.8"
+msgid "You don't have to do this!"
+msgstr "Você não precisa fazer isso!"
+
+#. LUCY.transform_beaver.9
+msgctxt "LUCY.transform_beaver.9"
+msgid "I warned you!"
+msgstr "Eu te avisei!"
+
+#. LUCY.transform_woodie.1
+msgctxt "LUCY.transform_woodie.1"
+msgid "You're back!"
+msgstr "Você voltou!"
+
+#. LUCY.transform_woodie.10
+msgctxt "LUCY.transform_woodie.10"
+msgid "You look much better."
+msgstr "Você parece muito melhor."
+
+#. LUCY.transform_woodie.11
+msgctxt "LUCY.transform_woodie.11"
+msgid "Phew! That was scary!"
+msgstr "Ufa! Isso foi assustador!"
+
+#. LUCY.transform_woodie.12
+msgctxt "LUCY.transform_woodie.12"
+msgid "I'm glad it's over..."
+msgstr "Ainda bem que acabou..."
+
+#. LUCY.transform_woodie.13
+msgctxt "LUCY.transform_woodie.13"
+msgid "Let's not do that again."
+msgstr "Não vamos fazer isso de novo."
+
+#. LUCY.transform_woodie.14
+msgctxt "LUCY.transform_woodie.14"
+msgid "Remember your breathing exercises!"
+msgstr "Lembre dos exercícios de respiração!"
+
+#. LUCY.transform_woodie.15
+msgctxt "LUCY.transform_woodie.15"
+msgid "Everything is going to be fine. Just focus!"
+msgstr "Vai ficar tudo bem. Concentre-se!"
+
+#. LUCY.transform_woodie.2
+msgctxt "LUCY.transform_woodie.2"
+msgid "Are you okay?"
+msgstr "Você está bem?"
+
+#. LUCY.transform_woodie.3
+msgctxt "LUCY.transform_woodie.3"
+msgid "That was a rough one, huh?"
+msgstr "Essa foi forte, hein?"
+
+#. LUCY.transform_woodie.4
+msgctxt "LUCY.transform_woodie.4"
+msgid "Don't let that happen again!"
+msgstr "Não deixe isso acontecer de novo!"
+
+#. LUCY.transform_woodie.5
+msgctxt "LUCY.transform_woodie.5"
+msgid "You scared me!"
+msgstr "Você me assustou!"
+
+#. LUCY.transform_woodie.6
+msgctxt "LUCY.transform_woodie.6"
+msgid "I think that creepy girl is mad at you."
+msgstr "Acho que aquela garotinha estranha estava zangada com você."
+
+#. LUCY.transform_woodie.7
+msgctxt "LUCY.transform_woodie.7"
+msgid "I'm so glad you're alright!"
+msgstr "Estou tão feliz que você está bem!"
+
+#. LUCY.transform_woodie.8
+msgctxt "LUCY.transform_woodie.8"
+msgid "Whew! Still in one piece?"
+msgstr "Ufa! Inteiro ainda?"
+
+#. LUCY.transform_woodie.9
+msgctxt "LUCY.transform_woodie.9"
+msgid "It's good to have you back, buddy."
+msgstr "Que bom que você voltou, companheiro."
+

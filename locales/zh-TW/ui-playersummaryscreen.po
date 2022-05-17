@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.PLAYERSUMMARYSCREEN.CURRENCY_EXPLAIN
+msgctxt "UI.PLAYERSUMMARYSCREEN.CURRENCY_EXPLAIN"
+msgid "Items can be unraveled into Spools to weave special items."
+msgstr "物品可以拆散成多個線軸，用來編織特殊物品。"
+
+#. UI.PLAYERSUMMARYSCREEN.CURRENCY_LABEL
+msgctxt "UI.PLAYERSUMMARYSCREEN.CURRENCY_LABEL"
+msgid "Spools"
+msgstr "線軸"
+
+#. UI.PLAYERSUMMARYSCREEN.ENCOUNTER_COUNT_FMT
+msgctxt "UI.PLAYERSUMMARYSCREEN.ENCOUNTER_COUNT_FMT"
+msgid "Time played with: {time}"
+msgstr "遊戲時間：{time}"
+
+#. UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_BODY
+msgctxt "UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_BODY"
+msgid "Unfortunately you failed to download your item collection, would you like you try again?"
+msgstr "下載物品收藏失敗，是否重新下載？"
+
+#. UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_NO
+msgctxt "UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_NO"
+msgid "No"
+msgstr "否"
+
+#. UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_TITLE
+msgctxt "UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_TITLE"
+msgid "Item Collection Download Failed"
+msgstr "下載物品收藏失敗"
+
+#. UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_YES
+msgctxt "UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_YES"
+msgid "Yes"
+msgstr "是"
+
+#. UI.PLAYERSUMMARYSCREEN.FESTIVAL_HISTORY
+msgctxt "UI.PLAYERSUMMARYSCREEN.FESTIVAL_HISTORY"
+msgid "Through the Gateway"
+msgstr "穿過大門"
+
+#. UI.PLAYERSUMMARYSCREEN.GET_INVENTORY
+msgctxt "UI.PLAYERSUMMARYSCREEN.GET_INVENTORY"
+msgid "Downloading Item Collection"
+msgstr "物品收藏下載中"
+
+#. UI.PLAYERSUMMARYSCREEN.LEVEL_ACHIEVED_FMT
+msgctxt "UI.PLAYERSUMMARYSCREEN.LEVEL_ACHIEVED_FMT"
+msgid "{event_title} level accomplished:"
+msgstr "已達成{event_title}等級："
+
+#. UI.PLAYERSUMMARYSCREEN.LOADING_STUFF
+msgctxt "UI.PLAYERSUMMARYSCREEN.LOADING_STUFF"
+msgid "Loading Discoveries..."
+msgstr "正在載入探索..."
+
+#. UI.PLAYERSUMMARYSCREEN.MOST_COMMON_DEATH
+msgctxt "UI.PLAYERSUMMARYSCREEN.MOST_COMMON_DEATH"
+msgid "Often Killed By"
+msgstr "經常死於："
+
+#. UI.PLAYERSUMMARYSCREEN.MOST_COMMON_FRIEND
+msgctxt "UI.PLAYERSUMMARYSCREEN.MOST_COMMON_FRIEND"
+msgid "Friendliest Friend"
+msgstr "最鐵的朋友"
+
+#. UI.PLAYERSUMMARYSCREEN.MOST_COMMON_FRIENDS
+msgctxt "UI.PLAYERSUMMARYSCREEN.MOST_COMMON_FRIENDS"
+msgid "Friendliest Friends"
+msgstr "最鐵的朋友"
+
+#. UI.PLAYERSUMMARYSCREEN.NEW_STUFF
+msgctxt "UI.PLAYERSUMMARYSCREEN.NEW_STUFF"
+msgid "Recent Discoveries"
+msgstr "最新發現"
+
+#. UI.PLAYERSUMMARYSCREEN.NO_DEATHS
+msgctxt "UI.PLAYERSUMMARYSCREEN.NO_DEATHS"
+msgid "No survivor deaths on record."
+msgstr "記錄中沒有冒險家死亡。"
+
+#. UI.PLAYERSUMMARYSCREEN.NO_FRIENDS
+msgctxt "UI.PLAYERSUMMARYSCREEN.NO_FRIENDS"
+msgid "Play online and make some friends."
+msgstr "線上玩，交朋友。"
+
+#. UI.PLAYERSUMMARYSCREEN.NO_ITEMS
+msgctxt "UI.PLAYERSUMMARYSCREEN.NO_ITEMS"
+msgid "Start playing to earn items!"
+msgstr "開始遊戲，贏得物品！"
+
+#. UI.PLAYERSUMMARYSCREEN.OFFLINE_NO_ITEMS
+msgctxt "UI.PLAYERSUMMARYSCREEN.OFFLINE_NO_ITEMS"
+msgid "Log in to starting earning items."
+msgstr "登錄並開始賺取物品。"
+
+#. UI.PLAYERSUMMARYSCREEN.POINTS_LABEL
+msgctxt "UI.PLAYERSUMMARYSCREEN.POINTS_LABEL"
+msgid "Klei Points"
+msgstr "科雷點數"
+
+#. UI.PLAYERSUMMARYSCREEN.PURCHASE
+msgctxt "UI.PLAYERSUMMARYSCREEN.PURCHASE"
+msgid "Shop"
+msgstr "購物"
+
+#. UI.PLAYERSUMMARYSCREEN.TITLE
+msgctxt "UI.PLAYERSUMMARYSCREEN.TITLE"
+msgid "Item Collection"
+msgstr "物品收藏"
+
+#. UI.PLAYERSUMMARYSCREEN.TOOLTIP_HISTORY
+msgctxt "UI.PLAYERSUMMARYSCREEN.TOOLTIP_HISTORY"
+msgid "View missed connections and revisit past lives"
+msgstr "查看錯過的邂逅，回顧前世的生活"
+
+#. UI.PLAYERSUMMARYSCREEN.TOOLTIP_MYSTERYBOX
+msgctxt "UI.PLAYERSUMMARYSCREEN.TOOLTIP_MYSTERYBOX"
+msgid "Open chests to receive new curios"
+msgstr "打開箱子接收新的珍寶"
+
+#. UI.PLAYERSUMMARYSCREEN.TOOLTIP_PURCHASE
+msgctxt "UI.PLAYERSUMMARYSCREEN.TOOLTIP_PURCHASE"
+msgid "Browse purchasable skin sets"
+msgstr "流覽可購買的皮膚套裝"
+
+#. UI.PLAYERSUMMARYSCREEN.TOOLTIP_SKINS
+msgctxt "UI.PLAYERSUMMARYSCREEN.TOOLTIP_SKINS"
+msgid "View and equip your curios"
+msgstr "查看並裝備你的珍寶"
+
+#. UI.PLAYERSUMMARYSCREEN.TOOLTIP_TRADE
+msgctxt "UI.PLAYERSUMMARYSCREEN.TOOLTIP_TRADE"
+msgid "Trade your old items in for something new!"
+msgstr "用你的舊物品換些新玩意！"
+
+#. UI.PLAYERSUMMARYSCREEN.TRADING
+msgctxt "UI.PLAYERSUMMARYSCREEN.TRADING"
+msgid "Trade Inn"
+msgstr "交易小店"
+
+#. UI.PLAYERSUMMARYSCREEN.UNOPENED_BOXES_FMT
+msgctxt "UI.PLAYERSUMMARYSCREEN.UNOPENED_BOXES_FMT"
+msgid "{num_boxes} unopened Chests"
+msgstr "{num_boxes}個未打開的箱子"
+
+#. UI.PLAYERSUMMARYSCREEN.XP_LABEL
+msgctxt "UI.PLAYERSUMMARYSCREEN.XP_LABEL"
+msgid "XP Earned"
+msgstr "已贏得 XP"
+

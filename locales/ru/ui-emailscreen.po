@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.EMAILSCREEN.APR
+msgctxt "UI.EMAILSCREEN.APR"
+msgid "Apr"
+msgstr "Апр"
+
+#. UI.EMAILSCREEN.AUG
+msgctxt "UI.EMAILSCREEN.AUG"
+msgid "Aug"
+msgstr "Авг"
+
+#. UI.EMAILSCREEN.BIRTHDAY
+msgctxt "UI.EMAILSCREEN.BIRTHDAY"
+msgid "Birthdate:"
+msgstr "День рождения:"
+
+#. UI.EMAILSCREEN.BIRTHDAYREASON
+msgctxt "UI.EMAILSCREEN.BIRTHDAYREASON"
+msgid "We need to know your birthdate in order to send age appropriate updates!\nDon't worry, we won't spam you or sell your information."
+msgstr "Нам нужно знать, когда у вас день рождения, чтобы отправлять подходящие вам по возрасту письма!\nНе переживайте, мы не спамеры и не продаем личные данные пользователей."
+
+#. UI.EMAILSCREEN.CANCEL
+msgctxt "UI.EMAILSCREEN.CANCEL"
+msgid "Cancel"
+msgstr "Отменить"
+
+#. UI.EMAILSCREEN.DAY
+msgctxt "UI.EMAILSCREEN.DAY"
+msgid "D"
+msgstr "Д"
+
+#. UI.EMAILSCREEN.DEC
+msgctxt "UI.EMAILSCREEN.DEC"
+msgid "Dec"
+msgstr "Дек"
+
+#. UI.EMAILSCREEN.EMAIL
+msgctxt "UI.EMAILSCREEN.EMAIL"
+msgid "Email:"
+msgstr "Электронная почта:"
+
+#. UI.EMAILSCREEN.FEB
+msgctxt "UI.EMAILSCREEN.FEB"
+msgid "Feb"
+msgstr "Фев"
+
+#. UI.EMAILSCREEN.INVALIDDATE
+msgctxt "UI.EMAILSCREEN.INVALIDDATE"
+msgid "We need to know your birthdate in order to send age appropriate updates!"
+msgstr "Нам нужно знать, когда у вас день рождения, чтобы отправлять подходящие вам по возрасту письма!"
+
+#. UI.EMAILSCREEN.INVALIDDATETITLE
+msgctxt "UI.EMAILSCREEN.INVALIDDATETITLE"
+msgid "Invalid Date"
+msgstr "Недопустимая дата"
+
+#. UI.EMAILSCREEN.INVALIDEMAIL
+msgctxt "UI.EMAILSCREEN.INVALIDEMAIL"
+msgid "If you don't enter your email address, we won't be able to tell you about new stuff!"
+msgstr "Если вы не поделитесь адресом электронной почты, мы не сможем рассказывать вам о наших обновлениях!"
+
+#. UI.EMAILSCREEN.INVALIDEMAILTITLE
+msgctxt "UI.EMAILSCREEN.INVALIDEMAILTITLE"
+msgid "Invalid Email"
+msgstr "Недопустимый адрес электронной почты."
+
+#. UI.EMAILSCREEN.JAN
+msgctxt "UI.EMAILSCREEN.JAN"
+msgid "Jan"
+msgstr "Янв"
+
+#. UI.EMAILSCREEN.JUL
+msgctxt "UI.EMAILSCREEN.JUL"
+msgid "Jul"
+msgstr "Июл"
+
+#. UI.EMAILSCREEN.JUN
+msgctxt "UI.EMAILSCREEN.JUN"
+msgid "Jun"
+msgstr "Июн"
+
+#. UI.EMAILSCREEN.MAR
+msgctxt "UI.EMAILSCREEN.MAR"
+msgid "Mar"
+msgstr "Мар"
+
+#. UI.EMAILSCREEN.MAY
+msgctxt "UI.EMAILSCREEN.MAY"
+msgid "May"
+msgstr "Май"
+
+#. UI.EMAILSCREEN.MONTH
+msgctxt "UI.EMAILSCREEN.MONTH"
+msgid "M"
+msgstr "М"
+
+#. UI.EMAILSCREEN.NOV
+msgctxt "UI.EMAILSCREEN.NOV"
+msgid "Nov"
+msgstr "Ноя"
+
+#. UI.EMAILSCREEN.OCT
+msgctxt "UI.EMAILSCREEN.OCT"
+msgid "Oct"
+msgstr "Окт"
+
+#. UI.EMAILSCREEN.OK
+msgctxt "UI.EMAILSCREEN.OK"
+msgid "Ok"
+msgstr "Ok"
+
+#. UI.EMAILSCREEN.SEP
+msgctxt "UI.EMAILSCREEN.SEP"
+msgid "Sep"
+msgstr "Сен"
+
+#. UI.EMAILSCREEN.SIGNUPFAIL
+msgctxt "UI.EMAILSCREEN.SIGNUPFAIL"
+msgid "Looks like we had some trouble signing you up. Please try again later if you don't receive a confirmation email."
+msgstr "Похоже, во время регистрации что-то пошло не так. Если вам не придет письмо с подтверждением, попробуйте еще раз."
+
+#. UI.EMAILSCREEN.SIGNUPFAILTITLE
+msgctxt "UI.EMAILSCREEN.SIGNUPFAILTITLE"
+msgid "Something Went Wrong"
+msgstr "Что-то пошло не так"
+
+#. UI.EMAILSCREEN.SIGNUPSUBMIT
+msgctxt "UI.EMAILSCREEN.SIGNUPSUBMIT"
+msgid "Please wait a moment while we sign you up."
+msgstr "Подождите немного, пока мы вас зарегистрируем."
+
+#. UI.EMAILSCREEN.SIGNUPSUBMITTITLE
+msgctxt "UI.EMAILSCREEN.SIGNUPSUBMITTITLE"
+msgid "Sending..."
+msgstr "Отправка…"
+
+#. UI.EMAILSCREEN.SIGNUPSUCCESS
+msgctxt "UI.EMAILSCREEN.SIGNUPSUCCESS"
+msgid "Thanks for signing up! You should receive a confirmation email in your inbox."
+msgstr "Спасибо за регистрацию! Скоро вам должно прийти письмо с подтверждением."
+
+#. UI.EMAILSCREEN.SIGNUPSUCCESSTITLE
+msgctxt "UI.EMAILSCREEN.SIGNUPSUCCESSTITLE"
+msgid "Success!"
+msgstr "Успешно!"
+
+#. UI.EMAILSCREEN.SUBSCRIBE
+msgctxt "UI.EMAILSCREEN.SUBSCRIBE"
+msgid "Subscribe"
+msgstr "Подписаться"
+
+#. UI.EMAILSCREEN.TITLE
+msgctxt "UI.EMAILSCREEN.TITLE"
+msgid "Keep me updated with Don't Starve news"
+msgstr "Держите меня в курсе всех новостей по Don't Starve"
+
+#. UI.EMAILSCREEN.YEAR
+msgctxt "UI.EMAILSCREEN.YEAR"
+msgid "YYYY"
+msgstr "ГГГГ"
+

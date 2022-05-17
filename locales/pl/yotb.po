@@ -1,0 +1,660 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. YOTB_ALREADY_GOT_YOURS
+msgctxt "YOTB_ALREADY_GOT_YOURS"
+msgid "You already got yours. No double dipping."
+msgstr "Masz już swoje. Nie ma dokładek."
+
+#. YOTB_APPRAISE_END
+msgctxt "YOTB_APPRAISE_END"
+msgid "Wonderful item you've got there."
+msgstr "Udało ci się zdobyć wspaniały przedmiot."
+
+#. YOTB_APPRAISE_START
+msgctxt "YOTB_APPRAISE_START"
+msgid "Let's see what you have there."
+msgstr "Zobaczmy, co tam masz."
+
+#. YOTB_COLLECT_PRIZE_QUICK
+msgctxt "YOTB_COLLECT_PRIZE_QUICK"
+msgid "Things are getting out of hand, hurry up and collect your prizes!"
+msgstr "Sytuacja wymyka się spod kontroli, pośpiesz się i odbierz swoje nagrody!"
+
+#. YOTB_CONGRATS_WINNER
+msgctxt "YOTB_CONGRATS_WINNER"
+msgid "Congrats little guy! You win!"
+msgstr "Gratulacje! Wygrywasz!"
+
+#. YOTB_CONGRATS_WINNER_SECOND
+msgctxt "YOTB_CONGRATS_WINNER_SECOND"
+msgid "Congratulations!"
+msgstr "Gratulacje!"
+
+#. YOTB_CONGRATS_WINNER_THIRD
+msgctxt "YOTB_CONGRATS_WINNER_THIRD"
+msgid "Take a bow!"
+msgstr "Przyjmij moje najszczersze gratulacje!"
+
+#. YOTB_CONSOLE_PRIZES
+msgctxt "YOTB_CONSOLE_PRIZES"
+msgid "Everyone gets to take something home."
+msgstr "Każdy zabierze coś do domu."
+
+#. YOTB_CONTEST_BEGIN
+msgctxt "YOTB_CONTEST_BEGIN"
+msgid "OK, lets get this show going..."
+msgstr "Dobra, zacznijmy tę zabawę..."
+
+#. YOTB_CONTEST_END
+msgctxt "YOTB_CONTEST_END"
+msgid "Very nice, I think we're done."
+msgstr "Znakomicie, chyba skończyliśmy."
+
+#. YOTB_CONTEST_FEARSOME_EXTREMEHIGH.1
+msgctxt "YOTB_CONTEST_FEARSOME_EXTREMEHIGH.1"
+msgid "This one is much too fearsome."
+msgstr "Ten jest zbyt przerażający."
+
+#. YOTB_CONTEST_FEARSOME_EXTREMEHIGH.2
+msgctxt "YOTB_CONTEST_FEARSOME_EXTREMEHIGH.2"
+msgid "This beefalo's fierceness is well beyond my taste today."
+msgstr "Zadziorność tego wołka nie jest dziś w moim guście."
+
+#. YOTB_CONTEST_FEARSOME_EXTREMELOW.1
+msgctxt "YOTB_CONTEST_FEARSOME_EXTREMELOW.1"
+msgid "Today's beefalo needs to be a lot more fierce than this teddy bear."
+msgstr "W dzisiejszych czasach wołki muszą być bardziej zadziorne niż ten misiaczek."
+
+#. YOTB_CONTEST_FEARSOME_EXTREMELOW.2
+msgctxt "YOTB_CONTEST_FEARSOME_EXTREMELOW.2"
+msgid "I'm looking for something way more fearsome today."
+msgstr "Dziś szukam wołka, który wykaże się o wiele większą zadziornością."
+
+#. YOTB_CONTEST_FEARSOME_HIGH.1
+msgctxt "YOTB_CONTEST_FEARSOME_HIGH.1"
+msgid "This beefalo is just a little fiercer than I want."
+msgstr "Ten wołek jest nieco zbyt zadziorny na mój gust."
+
+#. YOTB_CONTEST_FEARSOME_HIGH.2
+msgctxt "YOTB_CONTEST_FEARSOME_HIGH.2"
+msgid "Being a little too fierce can be good, but not today."
+msgstr "Odrobinę zbyt duża zadziorność może być dobra, ale nie dzisiaj."
+
+#. YOTB_CONTEST_FEARSOME_LOW.1
+msgctxt "YOTB_CONTEST_FEARSOME_LOW.1"
+msgid "Maybe this beefalo could be a little more fierce."
+msgstr "Może ten wołek mógłby być nieco bardziej zadziorny."
+
+#. YOTB_CONTEST_FEARSOME_LOW.2
+msgctxt "YOTB_CONTEST_FEARSOME_LOW.2"
+msgid "This beefalo is not as fierce as I'd like, but it's close."
+msgstr "Ten wołek nie jest tak zadziorny, jak powinien, ale jest bliski ideału."
+
+#. YOTB_CONTEST_FEARSOME_PERFECT.1
+msgctxt "YOTB_CONTEST_FEARSOME_PERFECT.1"
+msgid "I like this one's ferocity."
+msgstr "Podoba mi się zadziorność tego wołka."
+
+#. YOTB_CONTEST_FEARSOME_PERFECT.2
+msgctxt "YOTB_CONTEST_FEARSOME_PERFECT.2"
+msgid "This beefalo fills me with just the right amount of fear."
+msgstr "Ten wołek budzi we mnie odpowiedni strach."
+
+#. YOTB_CONTEST_FEARSOME_TARGET_EXTREMEHIGH.1
+msgctxt "YOTB_CONTEST_FEARSOME_TARGET_EXTREMEHIGH.1"
+msgid "Finally, I'm in the mood for a good scare. Let's see your most fearsome beefalo!"
+msgstr "Nareszcie. Mam ochotę się bać. Zobaczmy waszego najbardziej przerażającego wołka!"
+
+#. YOTB_CONTEST_FEARSOME_TARGET_EXTREMELOW.1
+msgctxt "YOTB_CONTEST_FEARSOME_TARGET_EXTREMELOW.1"
+msgid "Finally, today's winner needs to be a teddy bear. My heart can't take a scare."
+msgstr "Dzisiejszy zwycięzca musi być łagodny jak baranek. Moje serce nie zniesie kolejnego skoku ciśnienia."
+
+#. YOTB_CONTEST_FEARSOME_TARGET_HIGH.1
+msgctxt "YOTB_CONTEST_FEARSOME_TARGET_HIGH.1"
+msgid "Finally, today's winner will be only mildly more fearsome than friendly."
+msgstr "Ostatecznie dzisiejszy zwycięzca będzie jedynie odrobinę bardziej straszny niż przyjazny."
+
+#. YOTB_CONTEST_FEARSOME_TARGET_LOW.1
+msgctxt "YOTB_CONTEST_FEARSOME_TARGET_LOW.1"
+msgid "Finally, I'd like to see a beefalo that's just a bit more friendly than scary."
+msgstr "Wreszcie chciałbym zobaczyć wołka, który jest odrobinę bardziej przyjazny niż straszny."
+
+#. YOTB_CONTEST_FEARSOME_TARGET_PERFECT.1
+msgctxt "YOTB_CONTEST_FEARSOME_TARGET_PERFECT.1"
+msgid "Finally, I can't quite decide. Show me a good balance of fearsome and friendly."
+msgstr "Nie mogę się zdecydować. Pokażcie mi idealny kompromis między budzeniem grozy a sympatycznością."
+
+#. YOTB_CONTEST_FEARSOME_TARGET_VERYHIGH.1
+msgctxt "YOTB_CONTEST_FEARSOME_TARGET_VERYHIGH.1"
+msgid "Finally, I'm looking for something quite fierce."
+msgstr "Szukam wołka, który będzie dość zadziorny."
+
+#. YOTB_CONTEST_FEARSOME_TARGET_VERYHIGH.2
+msgctxt "YOTB_CONTEST_FEARSOME_TARGET_VERYHIGH.2"
+msgid "Finally, I want something quite fearsome looking."
+msgstr "Szukam wołka, który będzie wyglądał dość strasznie."
+
+#. YOTB_CONTEST_FEARSOME_TARGET_VERYLOW.1
+msgctxt "YOTB_CONTEST_FEARSOME_TARGET_VERYLOW.1"
+msgid "Finally, I'm looking for only the tiniest hint of ferocity."
+msgstr "Na koniec szukam wołka, który będzie cechował się odrobiną zaciekłości."
+
+#. YOTB_CONTEST_FEARSOME_TARGET_VERYLOW.2
+msgctxt "YOTB_CONTEST_FEARSOME_TARGET_VERYLOW.2"
+msgid "Finally, today I want to see a little ferocity, but just a touch."
+msgstr "Dziś oczekuję odrobiny zadziorności, ale dosłownie w minimalnej ilości."
+
+#. YOTB_CONTEST_FEARSOME_VERYHIGH.1
+msgctxt "YOTB_CONTEST_FEARSOME_VERYHIGH.1"
+msgid "This specimen is more fierce than I want."
+msgstr "Ten okaz jest zbyt zadziorny jak na mój gust."
+
+#. YOTB_CONTEST_FEARSOME_VERYHIGH.2
+msgctxt "YOTB_CONTEST_FEARSOME_VERYHIGH.2"
+msgid "I respect how fearsome this beefalo is, but it's more than I like."
+msgstr "Szanuję to, jaką grozę budzi ten wołek, ale to nie w moim guście."
+
+#. YOTB_CONTEST_FEARSOME_VERYLOW.1
+msgctxt "YOTB_CONTEST_FEARSOME_VERYLOW.1"
+msgid "I'd like my beefalo to be a fair bit more fearsome than this."
+msgstr "Chciałbym, aby mój wołek był odrobinę bardziej przerażający."
+
+#. YOTB_CONTEST_FEARSOME_VERYLOW.2
+msgctxt "YOTB_CONTEST_FEARSOME_VERYLOW.2"
+msgid "This one is not quite fierce enough, by a good margin."
+msgstr "Ten nie jest wystarczająco zadziorny, sporo mu brakuje."
+
+#. YOTB_CONTEST_FESTIVE_EXTREMEHIGH.1
+msgctxt "YOTB_CONTEST_FESTIVE_EXTREMEHIGH.1"
+msgid "This one is much too festive."
+msgstr "Ten jest zbyt odświętny."
+
+#. YOTB_CONTEST_FESTIVE_EXTREMEHIGH.2
+msgctxt "YOTB_CONTEST_FESTIVE_EXTREMEHIGH.2"
+msgid "This beefalo's festiveness is well beyond my taste today."
+msgstr "Odświętność tego wołka nie jest dziś w moim guście."
+
+#. YOTB_CONTEST_FESTIVE_EXTREMELOW.1
+msgctxt "YOTB_CONTEST_FESTIVE_EXTREMELOW.1"
+msgid "Today's beefalo needs to be a lot more festive than this curmudgeon."
+msgstr "W dzisiejszych czasach wołki muszą być bardziej odświętne niż ten gbur."
+
+#. YOTB_CONTEST_FESTIVE_EXTREMELOW.2
+msgctxt "YOTB_CONTEST_FESTIVE_EXTREMELOW.2"
+msgid "I'm looking for something way more festive today."
+msgstr "Dziś szukam wołka, który będzie wyglądał o wiele bardziej odświętnie."
+
+#. YOTB_CONTEST_FESTIVE_HIGH.1
+msgctxt "YOTB_CONTEST_FESTIVE_HIGH.1"
+msgid "This beefalo is just a little more festive than I want."
+msgstr "Ten wołek jest nieco zbyt odświętny jak na mój gust."
+
+#. YOTB_CONTEST_FESTIVE_HIGH.2
+msgctxt "YOTB_CONTEST_FESTIVE_HIGH.2"
+msgid "Being a little too festive can be good, but not today."
+msgstr "Odrobinę zbyt duża odświętność może być dobra, ale nie dzisiaj."
+
+#. YOTB_CONTEST_FESTIVE_LOW.1
+msgctxt "YOTB_CONTEST_FESTIVE_LOW.1"
+msgid "Maybe this beefalo could be a little more festive."
+msgstr "Może ten wołek mógłby wyglądać nieco mniej odświętnie."
+
+#. YOTB_CONTEST_FESTIVE_LOW.2
+msgctxt "YOTB_CONTEST_FESTIVE_LOW.2"
+msgid "This beefalo is not as festive as I'd like, but it's close."
+msgstr "Ten wołek nie wygląda tak odświętnie, jak powinien, ale jest bliski ideału."
+
+#. YOTB_CONTEST_FESTIVE_PERFECT.1
+msgctxt "YOTB_CONTEST_FESTIVE_PERFECT.1"
+msgid "I like this one's festivity."
+msgstr "Podoba mi się odświętny wygląd tego wołka."
+
+#. YOTB_CONTEST_FESTIVE_PERFECT.2
+msgctxt "YOTB_CONTEST_FESTIVE_PERFECT.2"
+msgid "This beefalo is just festive enough."
+msgstr "Ten wołek wygląda wystarczająco odświętnie."
+
+#. YOTB_CONTEST_FESTIVE_TARGET_EXTREMEHIGH.1
+msgctxt "YOTB_CONTEST_FESTIVE_TARGET_EXTREMEHIGH.1"
+msgid "Also, the winner should be the most festive of beasts."
+msgstr "Zwycięzca musi wyglądać najodświętniej ze wszystkich wołków."
+
+#. YOTB_CONTEST_FESTIVE_TARGET_EXTREMELOW.1
+msgctxt "YOTB_CONTEST_FESTIVE_TARGET_EXTREMELOW.1"
+msgid "Also, I don't want to see even a hint of festivity in today's Champion."
+msgstr "Dzisiejszy zwycięzca nie może ani trochę wyglądać odświętnie."
+
+#. YOTB_CONTEST_FESTIVE_TARGET_EXTREMELOW.2
+msgctxt "YOTB_CONTEST_FESTIVE_TARGET_EXTREMELOW.2"
+msgid "Also, I'm in no mood for festivity today. I'd better not see a trace of it!"
+msgstr "Nie jestem dziś w nastroju na odświętny wygląd. Nie chcę widzieć żadnych ozdób!"
+
+#. YOTB_CONTEST_FESTIVE_TARGET_HIGH.1
+msgctxt "YOTB_CONTEST_FESTIVE_TARGET_HIGH.1"
+msgid "Also, there should be a lot of festivity, with just a dash of somberness."
+msgstr "Warto postawić na odświętność z odrobiną powagi."
+
+#. YOTB_CONTEST_FESTIVE_TARGET_LOW.1
+msgctxt "YOTB_CONTEST_FESTIVE_TARGET_LOW.1"
+msgid "Also, today's winner will be a bit more somber than festive."
+msgstr "Dzisiejszy zwycięzca powinien wyglądać odrobinę poważniej niż odświętnie."
+
+#. YOTB_CONTEST_FESTIVE_TARGET_PERFECT.1
+msgctxt "YOTB_CONTEST_FESTIVE_TARGET_PERFECT.1"
+msgid "Also, I'm looking for a tasteful mix of festivity and somberness."
+msgstr "Szukam gustownej mieszanki odświętności i powagi."
+
+#. YOTB_CONTEST_FESTIVE_TARGET_PERFECT.2
+msgctxt "YOTB_CONTEST_FESTIVE_TARGET_PERFECT.2"
+msgid "Also, today's champion will be a perfect balance of somber and festive."
+msgstr "Dzisiejszy zwycięzca musi wyróżniać się perfekcyjnym wyważeniem powagi i odświętnego wyglądu."
+
+#. YOTB_CONTEST_FESTIVE_TARGET_VERYHIGH.1
+msgctxt "YOTB_CONTEST_FESTIVE_TARGET_VERYHIGH.1"
+msgid "Also, I'm looking for quite a lot of festivity today."
+msgstr "Dziś oczekuję bardzo odświętnego wyglądu."
+
+#. YOTB_CONTEST_FESTIVE_TARGET_VERYLOW.1
+msgctxt "YOTB_CONTEST_FESTIVE_TARGET_VERYLOW.1"
+msgid "Also, I only want to see the tiniest hint of festivity."
+msgstr "Dzisiaj chcę, by wołki wyglądały tylko odrobinę odświętnie."
+
+#. YOTB_CONTEST_FESTIVE_VERYHIGH.1
+msgctxt "YOTB_CONTEST_FESTIVE_VERYHIGH.1"
+msgid "This fella is more festive than I want."
+msgstr "Ten wołek wygląda zbyt odświętnie jak na mój gust."
+
+#. YOTB_CONTEST_FESTIVE_VERYHIGH.2
+msgctxt "YOTB_CONTEST_FESTIVE_VERYHIGH.2"
+msgid "I respect how festive this beefalo is, but it's more than I like."
+msgstr "Szanuję to, jak odświętnie wygląda ten wołek, ale to nie w moim guście."
+
+#. YOTB_CONTEST_FESTIVE_VERYLOW.1
+msgctxt "YOTB_CONTEST_FESTIVE_VERYLOW.1"
+msgid "I'd like my beefalo to be a fair bit more festive than this."
+msgstr "Chciałbym, aby mój wołek wyglądał odrobinę bardziej odświętnie."
+
+#. YOTB_CONTEST_FESTIVE_VERYLOW.2
+msgctxt "YOTB_CONTEST_FESTIVE_VERYLOW.2"
+msgid "This one is not quite festive enough, by a good margin."
+msgstr "Ten nie wygląda wystarczająco odświętnie, sporo mu brakuje."
+
+#. YOTB_CONTEST_FIGHT_END
+msgctxt "YOTB_CONTEST_FIGHT_END"
+msgid "Alright, contest over for now folks!"
+msgstr "Dobrze, moi drodzy, na razie kończymy konkurs!"
+
+#. YOTB_CONTEST_FIRST_PLACE
+msgctxt "YOTB_CONTEST_FIRST_PLACE"
+msgid "Finally, my first place pick is..."
+msgstr "Uwaga, uwaga, zwycięzcą zostaje..."
+
+#. YOTB_CONTEST_FORMAL_EXTREMEHIGH.1
+msgctxt "YOTB_CONTEST_FORMAL_EXTREMEHIGH.1"
+msgid "This one is much too formal."
+msgstr "Ten wygląda zbyt elegancko."
+
+#. YOTB_CONTEST_FORMAL_EXTREMEHIGH.2
+msgctxt "YOTB_CONTEST_FORMAL_EXTREMEHIGH.2"
+msgid "This beefalo's formalness is well beyond my taste today."
+msgstr "Elegancki wygląd tego wołka nie jest dziś w moim guście."
+
+#. YOTB_CONTEST_FORMAL_EXTREMELOW.1
+msgctxt "YOTB_CONTEST_FORMAL_EXTREMELOW.1"
+msgid "Today's beefalo needs to be a lot more formal than this ragamuffin."
+msgstr "W dzisiejszych czasach wołki muszą wyglądać o wiele bardziej elegancko niż ten obszarpaniec."
+
+#. YOTB_CONTEST_FORMAL_EXTREMELOW.2
+msgctxt "YOTB_CONTEST_FORMAL_EXTREMELOW.2"
+msgid "I'm looking for something way more formal today."
+msgstr "Dziś szukam wołka, który będzie wyglądał o wiele bardziej elegancko."
+
+#. YOTB_CONTEST_FORMAL_HIGH.1
+msgctxt "YOTB_CONTEST_FORMAL_HIGH.1"
+msgid "This beefalo is just a little more formal than I want."
+msgstr "Ten wołek jest nieco zbyt elegancki jak na mój gust."
+
+#. YOTB_CONTEST_FORMAL_HIGH.2
+msgctxt "YOTB_CONTEST_FORMAL_HIGH.2"
+msgid "Being a little too formal can be good, but not today."
+msgstr "Odrobina przesady w elegancji może być dobra, ale nie dzisiaj."
+
+#. YOTB_CONTEST_FORMAL_LOW.1
+msgctxt "YOTB_CONTEST_FORMAL_LOW.1"
+msgid "Maybe this beefalo could be a little more formal."
+msgstr "Może ten wołek mógłby wyglądać nieco bardziej elegancko."
+
+#. YOTB_CONTEST_FORMAL_LOW.2
+msgctxt "YOTB_CONTEST_FORMAL_LOW.2"
+msgid "This beefalo is not as formal as I'd like, but it's close."
+msgstr "Ten wołek nie wygląda tak elegancko, jak powinien, ale jest bliski ideału."
+
+#. YOTB_CONTEST_FORMAL_PERFECT.1
+msgctxt "YOTB_CONTEST_FORMAL_PERFECT.1"
+msgid "I like this one's formalness."
+msgstr "Podoba mi się elegancki wygląd tego wołka."
+
+#. YOTB_CONTEST_FORMAL_PERFECT.2
+msgctxt "YOTB_CONTEST_FORMAL_PERFECT.2"
+msgid "This beefalo is just formal enough."
+msgstr "Ten wołek wygląda wystarczająco elegancko."
+
+#. YOTB_CONTEST_FORMAL_TARGET_EXTREMEHIGH.1
+msgctxt "YOTB_CONTEST_FORMAL_TARGET_EXTREMEHIGH.1"
+msgid "Everything about today's winner should scream \"formality.\""
+msgstr "Dzisiejszy wołek powinien być chodzącą definicją elegancji."
+
+#. YOTB_CONTEST_FORMAL_TARGET_EXTREMELOW.1
+msgctxt "YOTB_CONTEST_FORMAL_TARGET_EXTREMELOW.1"
+msgid "My taste today is for a complete lack of formality."
+msgstr "Dzisiaj mam ochotę na całkowity brak elegancji."
+
+#. YOTB_CONTEST_FORMAL_TARGET_HIGH.1
+msgctxt "YOTB_CONTEST_FORMAL_TARGET_HIGH.1"
+msgid "Today's beefalo should have a slight edge of formality."
+msgstr "Dzisiaj zwycięski wołek powinien cechować się odrobiną elegancji."
+
+#. YOTB_CONTEST_FORMAL_TARGET_LOW.1
+msgctxt "YOTB_CONTEST_FORMAL_TARGET_LOW.1"
+msgid "My pick for today will be a bit more unconventional than formal."
+msgstr "Dziś wybiorę wołka, który będzie bardziej ekstrawagancki niż elegancki."
+
+#. YOTB_CONTEST_FORMAL_TARGET_PERFECT.1
+msgctxt "YOTB_CONTEST_FORMAL_TARGET_PERFECT.1"
+msgid "I want to see a perfect blend of unconventional and formal."
+msgstr "Chcę ujrzeć doskonałą kombinację ekstrawagancji i elegancji."
+
+#. YOTB_CONTEST_FORMAL_TARGET_VERYHIGH.1
+msgctxt "YOTB_CONTEST_FORMAL_TARGET_VERYHIGH.1"
+msgid "I'd like to see the high end of formality today, with just a dash of disorder."
+msgstr "Dziś zależy mi na bardzo dużej elegancji z odrobiną nieładu."
+
+#. YOTB_CONTEST_FORMAL_TARGET_VERYLOW.1
+msgctxt "YOTB_CONTEST_FORMAL_TARGET_VERYLOW.1"
+msgid "I want to see something mostly unconventional, with just a whiff of formality."
+msgstr "Chcę czegoś dość ekstrawaganckiego z lekką nutką elegancji."
+
+#. YOTB_CONTEST_FORMAL_VERYHIGH.1
+msgctxt "YOTB_CONTEST_FORMAL_VERYHIGH.1"
+msgid "This specimen is more formal than I want."
+msgstr "Ten okaz jest zbyt elegancki jak na mój gust."
+
+#. YOTB_CONTEST_FORMAL_VERYHIGH.2
+msgctxt "YOTB_CONTEST_FORMAL_VERYHIGH.2"
+msgid "I respect how formal this beefalo is, but it's more than I like."
+msgstr "Szanuję to, jak elegancko wygląda ten wołek, ale to nie w moim guście."
+
+#. YOTB_CONTEST_FORMAL_VERYLOW.1
+msgctxt "YOTB_CONTEST_FORMAL_VERYLOW.1"
+msgid "I'd like my beefalo to be a fair bit more formal than this."
+msgstr "Chciałbym, aby mój wołek wyglądał odrobinę bardziej elegancko."
+
+#. YOTB_CONTEST_FORMAL_VERYLOW.2
+msgctxt "YOTB_CONTEST_FORMAL_VERYLOW.2"
+msgid "This one is not quite formal enough, by a good margin."
+msgstr "Ten nie wygląda wystarczająco elegancko, sporo mu brakuje."
+
+#. YOTB_CONTEST_SECOND_PLACE
+msgctxt "YOTB_CONTEST_SECOND_PLACE"
+msgid "And In second place..."
+msgstr "Drugie miejsce zajmuje..."
+
+#. YOTB_CONTEST_START
+msgctxt "YOTB_CONTEST_START"
+msgid "Well well well, lemme get a look at the menagerie."
+msgstr "Proszę, proszę, niech no obejrzę sobie tę menażerię."
+
+#. YOTB_CONTEST_TARGET_PARAMS
+msgctxt "YOTB_CONTEST_TARGET_PARAMS"
+msgid "My perfect beefalo changes from day to day..."
+msgstr "Moje wyobrażenie o idealnym wołku zmienia się codziennie..."
+
+#. YOTB_CONTEST_THIRD_PLACE
+msgctxt "YOTB_CONTEST_THIRD_PLACE"
+msgid "Alright, my pick for third place is..."
+msgstr "No dobrze, a trzecie miejsce zdobywa..."
+
+#. YOTB_DOLL_FEARSOME_TARGET_EXTREMEHIGH.1
+msgctxt "YOTB_DOLL_FEARSOME_TARGET_EXTREMEHIGH.1"
+msgid "Finally, this is the most fearsome of dolls!"
+msgstr "Nareszcie! To najbardziej przerażająca lalka!"
+
+#. YOTB_DOLL_FEARSOME_TARGET_EXTREMELOW.1
+msgctxt "YOTB_DOLL_FEARSOME_TARGET_EXTREMELOW.1"
+msgid "Finally, this is like a teddy bear. My heart is at ease."
+msgstr "Nareszcie! Ta wygląda niczym pluszowy miś. To miód na moje serce."
+
+#. YOTB_DOLL_FEARSOME_TARGET_HIGH.1
+msgctxt "YOTB_DOLL_FEARSOME_TARGET_HIGH.1"
+msgid "Finally, it's only mildly more fearsome than friendly."
+msgstr "Jest jedynie odrobinę bardziej straszna niż przyjazna."
+
+#. YOTB_DOLL_FEARSOME_TARGET_LOW.1
+msgctxt "YOTB_DOLL_FEARSOME_TARGET_LOW.1"
+msgid "Finally, this is just a bit more friendly than scary."
+msgstr "Jest odrobinę bardziej przyjazna niż straszna."
+
+#. YOTB_DOLL_FEARSOME_TARGET_PERFECT.1
+msgctxt "YOTB_DOLL_FEARSOME_TARGET_PERFECT.1"
+msgid "Finally, it has a good balance of fearsome and friendly."
+msgstr "To idealny kompromis między budzeniem grozy a sympatycznością."
+
+#. YOTB_DOLL_FEARSOME_TARGET_VERYHIGH.1
+msgctxt "YOTB_DOLL_FEARSOME_TARGET_VERYHIGH.1"
+msgid "Finally, it's quite fierce."
+msgstr "Ta wygląda na dość zadziorną."
+
+#. YOTB_DOLL_FEARSOME_TARGET_VERYHIGH.2
+msgctxt "YOTB_DOLL_FEARSOME_TARGET_VERYHIGH.2"
+msgid "Finally, this is quite fearsome looking."
+msgstr "Ta lalka wygląda dość przerażająco."
+
+#. YOTB_DOLL_FEARSOME_TARGET_VERYLOW.1
+msgctxt "YOTB_DOLL_FEARSOME_TARGET_VERYLOW.1"
+msgid "Finally, it has the tiniest hint of ferocity."
+msgstr "O tej lalce można powiedzieć, że cechuje się odrobiną waleczności."
+
+#. YOTB_DOLL_FEARSOME_TARGET_VERYLOW.2
+msgctxt "YOTB_DOLL_FEARSOME_TARGET_VERYLOW.2"
+msgid "Finally, I can see a little ferocity, but just a touch."
+msgstr "Dostrzegam w niej odrobinę waleczności, ale w minimalnej ilości."
+
+#. YOTB_DOLL_FESTIVE_TARGET_EXTREMEHIGH.1
+msgctxt "YOTB_DOLL_FESTIVE_TARGET_EXTREMEHIGH.1"
+msgid "Also, it's the most festive of dolls."
+msgstr "To najbardziej odświętnie wyglądająca lalka."
+
+#. YOTB_DOLL_FESTIVE_TARGET_EXTREMELOW.1
+msgctxt "YOTB_DOLL_FESTIVE_TARGET_EXTREMELOW.1"
+msgid "Also, I don't see even a hint of festivity in this."
+msgstr "Nie dostrzegam w niej ani odrobiny odświętności."
+
+#. YOTB_DOLL_FESTIVE_TARGET_HIGH.1
+msgctxt "YOTB_DOLL_FESTIVE_TARGET_HIGH.1"
+msgid "Also, it has a lot of festivity, with just a dash of somberness."
+msgstr "Wyróżnia się dużą dozą odświętności z lekką nutką powagi."
+
+#. YOTB_DOLL_FESTIVE_TARGET_LOW.1
+msgctxt "YOTB_DOLL_FESTIVE_TARGET_LOW.1"
+msgid "Also, this is a bit more somber than festive."
+msgstr "Ta lalka wydaje się bardziej poważna niż odświętna."
+
+#. YOTB_DOLL_FESTIVE_TARGET_PERFECT.1
+msgctxt "YOTB_DOLL_FESTIVE_TARGET_PERFECT.1"
+msgid "Also, this is tasteful mix of festivity and somberness."
+msgstr "To gustowna mieszanka odświętności i powagi."
+
+#. YOTB_DOLL_FESTIVE_TARGET_PERFECT.2
+msgctxt "YOTB_DOLL_FESTIVE_TARGET_PERFECT.2"
+msgid "Also, it's a perfect balance of somber and festive."
+msgstr "To przykład perfekcyjnego wyważenia powagi i odświętnego wyglądu."
+
+#. YOTB_DOLL_FESTIVE_TARGET_VERYHIGH.1
+msgctxt "YOTB_DOLL_FESTIVE_TARGET_VERYHIGH.1"
+msgid "Also, it has quite a lot of festivity."
+msgstr "Wyróżnia się dużą dozą odświętności."
+
+#. YOTB_DOLL_FESTIVE_TARGET_VERYLOW.1
+msgctxt "YOTB_DOLL_FESTIVE_TARGET_VERYLOW.1"
+msgid "Also, it has only the tiniest hint of festivity."
+msgstr "Ta lalka cechuje się jedynie odrobiną odświętności."
+
+#. YOTB_DOLL_FORMAL_TARGET_EXTREMEHIGH.1
+msgctxt "YOTB_DOLL_FORMAL_TARGET_EXTREMEHIGH.1"
+msgid "Everything about this screams \"formality.\""
+msgstr "Ta lalka to wręcz definicja elegancji."
+
+#. YOTB_DOLL_FORMAL_TARGET_EXTREMELOW.1
+msgctxt "YOTB_DOLL_FORMAL_TARGET_EXTREMELOW.1"
+msgid "It has a complete lack of formality."
+msgstr "Jest całkowicie pozbawiona elegancji."
+
+#. YOTB_DOLL_FORMAL_TARGET_HIGH.1
+msgctxt "YOTB_DOLL_FORMAL_TARGET_HIGH.1"
+msgid "This has a slight edge of formality."
+msgstr "Ta lalka cechuje się odrobiną elegancji."
+
+#. YOTB_DOLL_FORMAL_TARGET_LOW.1
+msgctxt "YOTB_DOLL_FORMAL_TARGET_LOW.1"
+msgid "This a bit more unconventional than formal."
+msgstr "Ta lalka jest nieco bardziej ekstrawagancka niż elegancka."
+
+#. YOTB_DOLL_FORMAL_TARGET_PERFECT.1
+msgctxt "YOTB_DOLL_FORMAL_TARGET_PERFECT.1"
+msgid "It's a perfect blend of unconventional and formal."
+msgstr "To doskonała kombinacja ekstrawagancji i elegancji."
+
+#. YOTB_DOLL_FORMAL_TARGET_VERYHIGH.1
+msgctxt "YOTB_DOLL_FORMAL_TARGET_VERYHIGH.1"
+msgid "This is the high end of formality, with just a dash of disorder."
+msgstr "Ta lalka to przykład dużej elegancji z odrobiną nieładu."
+
+#. YOTB_DOLL_FORMAL_TARGET_VERYLOW.1
+msgctxt "YOTB_DOLL_FORMAL_TARGET_VERYLOW.1"
+msgid "This is mostly unconventional, with just a whiff of formality."
+msgstr "Wygląd tej lalki to ekstrawagancja z lekką nutką elegancji."
+
+#. YOTB_EXTRA_BEEF
+msgctxt "YOTB_EXTRA_BEEF"
+msgid "Let's round up some locals to make things interesting."
+msgstr "Zgromadźmy lokalnych mieszkańców, aby było ciekawiej."
+
+#. YOTB_GIVE_PRIZE_BIG
+msgctxt "YOTB_GIVE_PRIZE_BIG"
+msgid "Congrats! Don't spend it all in once place."
+msgstr "Gratulacje! Nie wydaj wszystkiego na raz."
+
+#. YOTB_GIVE_PRIZE_SMALL
+msgctxt "YOTB_GIVE_PRIZE_SMALL"
+msgid "Here you go, well done you."
+msgstr "Proszę bardzo, gratuluję."
+
+#. YOTB_GUESS_WHO_1
+msgctxt "YOTB_GUESS_WHO_1"
+msgid "Alright, which of these beauties do you think is today's winner!?"
+msgstr "Jak państwo sądzą, kto okaże się dzisiejszym zwycięzcą?!"
+
+#. YOTB_GUESS_WHO_2
+msgctxt "YOTB_GUESS_WHO_2"
+msgid "Take your time, choose wisely."
+msgstr "Bez pośpiechu, dokonajcie przemyślanego wyboru."
+
+#. YOTB_GUESS_WHO_3
+msgctxt "YOTB_GUESS_WHO_3"
+msgid "OK, now hurry up..."
+msgstr "Dobrze, pora się pośpieszyć..."
+
+#. YOTB_GUESS_WHO_4
+msgctxt "YOTB_GUESS_WHO_4"
+msgid "Time's up!"
+msgstr "Czas minął!"
+
+#. YOTB_GUESS_WHO_5
+msgctxt "YOTB_GUESS_WHO_5"
+msgid "Alright, my pick for today's contest is..."
+msgstr "No dobrze, w dzisiejszym konkursie wybieram..."
+
+#. YOTB_HEY.1
+msgctxt "YOTB_HEY.1"
+msgid "Hiya!"
+msgstr "Hej, hej!"
+
+#. YOTB_HEY.2
+msgctxt "YOTB_HEY.2"
+msgid "Hey!"
+msgstr "Hej!"
+
+#. YOTB_HEY.3
+msgctxt "YOTB_HEY.3"
+msgid "Howdy!"
+msgstr "Hejka!"
+
+#. YOTB_HEY.4
+msgctxt "YOTB_HEY.4"
+msgid "Greetings!"
+msgstr "Witaj!"
+
+#. YOTB_HURRY_PRIZE
+msgctxt "YOTB_HURRY_PRIZE"
+msgid "Come get your prize, I won't wait all day."
+msgstr "Odbierz swoją nagrodę, nie będę czekać cały dzień."
+
+#. YOTB_NOTHING_FOR_YOU
+msgctxt "YOTB_NOTHING_FOR_YOU"
+msgid "Sorry, you didn't win anything this time."
+msgstr "Przykro mi, tym razem nie udało ci się niczego wygrać."
+
+#. YOTB_NO_EXTRA_BEEF
+msgctxt "YOTB_NO_EXTRA_BEEF"
+msgid "What an eclectic looking bunch."
+msgstr "Cóż za eklektyczne zbiorowisko."
+
+#. YOTB_NO_PRIZE
+msgctxt "YOTB_NO_PRIZE"
+msgid "No one guessed right today! There's always tomorrow."
+msgstr "Dzisiaj nikomu nie udało się zgadnąć! Może jutro się uda."
+
+#. YOTB_PATTERNS
+msgctxt "YOTB_PATTERNS"
+msgid "Everyone, enjoy some complimentary fashion scraps!"
+msgstr "Zapraszam na rozdanie modnych dodatków!"
+
+#. YOTB_PRIZE
+msgctxt "YOTB_PRIZE"
+msgid "Only one winner! Don't spend it all in one place!"
+msgstr "Zwycięzca jest tylko jeden! Nie wydaj wszystkiego od razu!"
+
+#. YOTB_PRIZES
+msgctxt "YOTB_PRIZES"
+msgid "Here's your prizes, winners!"
+msgstr "Oto wasze nagrody, drodzy zwycięzcy!"
+
+#. YOTB_START_FAIL_DANGER
+msgctxt "YOTB_START_FAIL_DANGER"
+msgid "Sorry, it's not safe enough around here!"
+msgstr "Przykro mi, nie jest tu wystarczająco bezpiecznie!"
+
+#. YOTB_START_FAIL_LATE
+msgctxt "YOTB_START_FAIL_LATE"
+msgid "Sorry, it's too late to start today."
+msgstr "Przykro mi, ale dziś już jest za późno."
+
+#. YOTB_START_FAIL_NOT_ENOUGH_POSTS
+msgctxt "YOTB_START_FAIL_NOT_ENOUGH_POSTS"
+msgid "I don't see enough Stages out yet."
+msgstr "Nie widzę wystarczającej liczby scen."
+
+#. YOTB_START_FAIL_NO_CONTESTANTS
+msgctxt "YOTB_START_FAIL_NO_CONTESTANTS"
+msgid "I don't see any contestants to judge, do you?"
+msgstr "Nie widzę żadnych uczestników konkursu, a ty?"
+
+#. YOTB_TOO_LATE_PRIZE
+msgctxt "YOTB_TOO_LATE_PRIZE"
+msgid "Sorry, can't wait any longer. Bye now."
+msgstr "Przykro mi, nie mogę dłużej czekać. Do zobaczenia."
+

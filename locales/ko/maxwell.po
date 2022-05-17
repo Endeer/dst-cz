@@ -1,0 +1,310 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_1.ONE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_1.ONE"
+msgid "Oh, you found my portal did you?"
+msgstr "오호, 내 포털을 찾았군?"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_1.THREE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_1.THREE"
+msgid "Hmm. Let's try something a little more challenging, shall we?"
+msgstr "음. 그럼 이제 좀 더 어려운 걸 해볼까?"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_1.TWO
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_1.TWO"
+msgid "You'd think you would have learned your lesson by now."
+msgstr "이제 제법 요령을 터득했다고 생각하고 있겠군."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_2.ONE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_2.ONE"
+msgid "Well would you look at that, you survived."
+msgstr "히야, 살아남다니, 제법인걸."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_2.TWO
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_2.TWO"
+msgid "One down, four to go!"
+msgstr "한 판은 넘겼고, 이제 네 판 남았어!"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_3.ONE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_3.ONE"
+msgid "What? You're still here?"
+msgstr "아니? 아직도 있었나?"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_3.TWO
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_3.TWO"
+msgid "Impressive. But you should probably stop while you're ahead."
+msgstr "대단한걸. 하지만 아직 여유가 있을 때 그만두는 게 좋지."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_4.ONE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_4.ONE"
+msgid "Say, pal."
+msgstr "어이, 친구."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_4.THREE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_4.THREE"
+msgid "Turn back now, or I may have to resort to drastic measures."
+msgstr "지금 돌아서지 않으면 내가 앞으로 과감한 수단을 쓰는 수가 있어."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_4.TWO
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_4.TWO"
+msgid "You're really pushing your luck."
+msgstr "아무리 운이 좋아도 한계가 있는 법이야."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_5.ONE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_5.ONE"
+msgid "You insolent, pitiful, insignificant ant!"
+msgstr "이 건방지고, 한심하고, 하찮은 개미 같은 녀석!"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_5.THREE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_5.THREE"
+msgid "You will regret coming any further..."
+msgstr "이 이상 진행한다면 후회하게 될 거야..."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_5.TWO
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_5.TWO"
+msgid "Do not arouse the wrath of the Great Maxwell!"
+msgstr "이 위대한 맥스웰의 심기를 감히 건드리지 않는 게 좋을걸!"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.COMBATFAIL.1
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.COMBATFAIL.1"
+msgid "Where would be the sport in that?"
+msgstr "이래서야 재미없지!"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.COMBATFAIL.2
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.COMBATFAIL.2"
+msgid "Who do you think allowed you to make that?"
+msgstr "애초에 네가 그걸 만들도록 허용한 게 누구라고 생각해?"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.1
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.1"
+msgid "Is this what you were expecting?"
+msgstr "혹시 이걸 기대했나?"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.10
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.10"
+msgid "Just dust. And the void. And Them."
+msgstr "먼지뿐이지. 공허 속에서. 그리고 그들도."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.11
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.11"
+msgid "I've learned so much since then. I've built so much."
+msgstr "그 이후로 많은 걸 배웠어. 아주 많은 걸 만들었고."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.12
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.12"
+msgid "But even a King is bound to the board."
+msgstr "하지만 게임보드에서는 왕조차 놓여 있는 말에 지나지 않아."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.13
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.13"
+msgid "You can't change the rules of the game."
+msgstr "놀이의 규칙을 바꿀 수는 없어."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.14
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.14"
+msgid "I don't know what they want. They... they just watch."
+msgstr "그들이 원하는 게 무엇인지는 나도 몰라. 그들은... 관찰만 하니까."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.15
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.15"
+msgid "Unless you get too close. Then..."
+msgstr "너무 가까이 가지만 않는다면 말이야. 그럴 경우..."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.16
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.16"
+msgid "Well, there's a reason I stay so dapper."
+msgstr "뭐, 내가 항상 멋을 챙기는 데에는 이유가 있거든."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.17
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.17"
+msgid "What year is it out there? Time moves differently here."
+msgstr "바깥은 지금 몇 년도이지? 여기에서는 시간이 다르게 흘러."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.18
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.18"
+msgid "Go on, stay a while. Keep us company."
+msgstr "그래, 여기 계속 있어봐. 함께 지내자고."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.19
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.19"
+msgid "Or put the key in the box. It's your decision."
+msgstr "아니면 상자에 열쇠를 넣든가. 마음대로 해."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.2
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.2"
+msgid "Forgive me if I don't get up."
+msgstr "내가 일어나지 않는 걸 양해해줘."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.20
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.20"
+msgid "Either way, you're just delaying the inevitable."
+msgstr "어떻게 하든, 필연적인 운명을 지연할 뿐이야."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.21
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.21"
+msgid "Reality is like that, sometimes."
+msgstr "현실이란 게 때로는 그렇거든."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.22
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.22"
+msgid "I think I've said enough."
+msgstr "난 이제 할 말을 다 했어."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.23
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.23"
+msgid "..."
+msgstr "..."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.3
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.3"
+msgid "You've been an interesting plaything, but I've grown tired of this game."
+msgstr "여태 재미있게 지켜봤지만, 이제 이 놀이도 지겨워졌어."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.4
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.4"
+msgid "Or maybe They've grown tired of me."
+msgstr "어쩌면 그들에게 나에게 질린 것인지도 모르지."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.5
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.5"
+msgid "Heh. Took them long enough."
+msgstr "훗. 그렇다면 정말 오래 걸린 셈이고."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.6
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.6"
+msgid "They'll show you terrible, beautiful things."
+msgstr "그들이 너에게 끔찍하면서도 아름다운 것을 보여줄 거야."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.7
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.7"
+msgid "It will change you, like it did me."
+msgstr "그건 나를 바꾼 것처럼 널 바꿀 것이고."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.8
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.8"
+msgid "It's best not to fight it."
+msgstr "저항은 하지 않는 게 좋아."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.9
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.9"
+msgid "There wasn't much here when I showed up."
+msgstr "내가 여기 왔을 때는 뭐가 별로 없었거든."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.ONE
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.ONE"
+msgid "Well, this is it."
+msgstr "이걸로 끝이군."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.TELEPORTFAIL
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.TELEPORTFAIL"
+msgid "Don't you think I've tried that?"
+msgstr "나라고 그걸 시도하지 않았을 것 같아?"
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.TELEPORTFAIL2
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.TELEPORTFAIL2"
+msgid "This is the end of the line. We have no escape."
+msgstr "이게 끝이야. 도망갈 곳은 없어."
+
+#. MAXWELL_ADVENTUREINTROS.LEVEL_6.TWO
+msgctxt "MAXWELL_ADVENTUREINTROS.LEVEL_6.TWO"
+msgid "You found me. Now, what are you going to do?"
+msgstr "날 찾았군. 자, 이제 어떻게 할 생각이지?"
+
+#. MAXWELL_ADVENTUREINTROS.TWOLANDS.FOUR
+msgctxt "MAXWELL_ADVENTUREINTROS.TWOLANDS.FOUR"
+msgid "All I want in return is a truce."
+msgstr "그 대신 내가 원하는 것은 우리 사이의 휴전이야."
+
+#. MAXWELL_ADVENTUREINTROS.TWOLANDS.ONE
+msgctxt "MAXWELL_ADVENTUREINTROS.TWOLANDS.ONE"
+msgid "Say, pal."
+msgstr "어이, 친구."
+
+#. MAXWELL_ADVENTUREINTROS.TWOLANDS.THREE
+msgctxt "MAXWELL_ADVENTUREINTROS.TWOLANDS.THREE"
+msgid "I'll give you food, gold, pigs, whatever you need."
+msgstr "음식이든, 금이든, 돼지든, 필요한 거라면 뭐든지 줄게."
+
+#. MAXWELL_ADVENTUREINTROS.TWOLANDS.TWO
+msgctxt "MAXWELL_ADVENTUREINTROS.TWOLANDS.TWO"
+msgid "Let's make a deal. You can stay here. Settle down, even."
+msgstr "나랑 거래를 하자고. 넌 여기에서 그냥 지내. 아예 정착해도 좋아."
+
+#. MAXWELL_ADVENTURETHRONE.LEVEL_6.HIT.ONE
+msgctxt "MAXWELL_ADVENTURETHRONE.LEVEL_6.HIT.ONE"
+msgid "The throne won't allow that. I've tried."
+msgstr "그건 옥좌가 허락하지 않아. 내가 이미 시도해 봤다고."
+
+#. MAXWELL_ADVENTURETHRONE.LEVEL_6.INTRO.ONE
+msgctxt "MAXWELL_ADVENTURETHRONE.LEVEL_6.INTRO.ONE"
+msgid "Is this how it ends?"
+msgstr "이렇게 끝나는 것인가?"
+
+#. MAXWELL_ADVENTURETHRONE.LEVEL_6.NOUNLOCK.ONE
+msgctxt "MAXWELL_ADVENTURETHRONE.LEVEL_6.NOUNLOCK.ONE"
+msgid "Ah, I am a fool. I had dared to hope."
+msgstr "아, 내가 어리석었지. 감히 희망을 품다니."
+
+#. MAXWELL_ADVENTURETHRONE.LEVEL_6.PHONOGRAPHOFF.ONE
+msgctxt "MAXWELL_ADVENTURETHRONE.LEVEL_6.PHONOGRAPHOFF.ONE"
+msgid "Thank you. I have been listening to that song for an eternity."
+msgstr "고마워. 억겁의 세월 동안 그 노래만 나와서 지겹던 참이었거든."
+
+#. MAXWELL_ADVENTURETHRONE.LEVEL_6.PHONOGRAPHON.ONE
+msgctxt "MAXWELL_ADVENTURETHRONE.LEVEL_6.PHONOGRAPHON.ONE"
+msgid "I guess I deserve that."
+msgstr "뭐, 난 그래도 싸지."
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_4.ONE
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_4.ONE"
+msgid "Fine. Just remember that you chose this."
+msgstr "알았어. 이게 네가 선택한 것이라는 걸 명심해."
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_6.FOUR.ONE
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_6.FOUR.ONE"
+msgid "It's just that..."
+msgstr "그저..."
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_6.FOUR.TWO
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_6.FOUR.TWO"
+msgid "I've become accustomed to winning."
+msgstr "나는 이기는 것에 익숙해졌을 뿐이지."
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_6.ONE
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_6.ONE"
+msgid "We're not so different, you and I."
+msgstr "너하고 난 별로 다르지 않아."
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_6.THREE.ONE
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_6.THREE.ONE"
+msgid "Oh, did you think you were the first?"
+msgstr "오호, 자기가 처음인 줄 알았나 보지?"
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_6.THREE.TWO
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_6.THREE.TWO"
+msgid "HA!"
+msgstr "하!"
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_6.TWO.ONE
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_6.TWO.ONE"
+msgid "That's why I brought you here."
+msgstr "그래서 내가 널 여기로 데려온 거야."
+
+#. MAXWELL_ADVENTURE_HEAD.LEVEL_6.TWO.TWO
+msgctxt "MAXWELL_ADVENTURE_HEAD.LEVEL_6.TWO.TWO"
+msgid "That's why I brought all of them here."
+msgstr "그래서 내가 모두를 여기로 데려온 거야."
+
+#. MAXWELL_SANDBOXINTROS.ONE
+msgctxt "MAXWELL_SANDBOXINTROS.ONE"
+msgid "Say pal, you don't look so good."
+msgstr "어이, 친구. 상태가 안 좋아 보이는데."
+
+#. MAXWELL_SANDBOXINTROS.TWO
+msgctxt "MAXWELL_SANDBOXINTROS.TWO"
+msgid "You'd better find something to eat before night comes!"
+msgstr "밤이 되기 전에 먹을 것을 찾아 봐."
+

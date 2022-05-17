@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. RABBIT_BATTLECRY.1
+msgctxt "RABBIT_BATTLECRY.1"
+msgid "HOP!"
+msgstr "跳啊！"
+
+#. RABBIT_BATTLECRY.2
+msgctxt "RABBIT_BATTLECRY.2"
+msgid "KILL!"
+msgstr "杀啊！"
+
+#. RABBIT_BATTLECRY.3
+msgctxt "RABBIT_BATTLECRY.3"
+msgid "DIE!"
+msgstr "去死！"
+
+#. RABBIT_GIVEUP.1
+msgctxt "RABBIT_GIVEUP.1"
+msgid "DONE."
+msgstr "结束。"
+
+#. RABBIT_GIVEUP.2
+msgctxt "RABBIT_GIVEUP.2"
+msgid "LATER."
+msgstr "再见。"
+
+#. RABBIT_MEAT_BATTLECRY.1
+msgctxt "RABBIT_MEAT_BATTLECRY.1"
+msgid "MEAT!"
+msgstr "肉！"
+
+#. RABBIT_MEAT_BATTLECRY.2
+msgctxt "RABBIT_MEAT_BATTLECRY.2"
+msgid "UNCLEAN!"
+msgstr "邪恶！"
+
+#. RABBIT_MEAT_BATTLECRY.3
+msgctxt "RABBIT_MEAT_BATTLECRY.3"
+msgid "MURDERER!"
+msgstr "凶手！"
+
+#. RABBIT_MEAT_BATTLECRY.4
+msgctxt "RABBIT_MEAT_BATTLECRY.4"
+msgid "REVENGE!"
+msgstr "复仇！"
+
+#. RABBIT_MEAT_BATTLECRY.5
+msgctxt "RABBIT_MEAT_BATTLECRY.5"
+msgid "MONSTER!"
+msgstr "怪物！"
+
+#. RABBIT_PANICBOSS.1
+msgctxt "RABBIT_PANICBOSS.1"
+msgid "RUN!"
+msgstr "快跑！"
+
+#. RABBIT_PANICBOSS.2
+msgctxt "RABBIT_PANICBOSS.2"
+msgid "AHHH!"
+msgstr "啊——！"
+
+#. RABBIT_PANICBOSS.3
+msgctxt "RABBIT_PANICBOSS.3"
+msgid "IT MAD"
+msgstr "它生气了"
+
+#. RABBIT_PANICBOSS.4
+msgctxt "RABBIT_PANICBOSS.4"
+msgid "EHHH!"
+msgstr "呃呃呃！"
+
+#. RABBIT_PANICFIRE.1
+msgctxt "RABBIT_PANICFIRE.1"
+msgid "EEEH!"
+msgstr "咦！"
+
+#. RABBIT_PANICFIRE.2
+msgctxt "RABBIT_PANICFIRE.2"
+msgid "OOH!"
+msgstr "哦！"
+
+#. RABBIT_PANICFIRE.3
+msgctxt "RABBIT_PANICFIRE.3"
+msgid "AAAH!"
+msgstr "啊！"
+
+#. RABBIT_PANICHAUNT.1
+msgctxt "RABBIT_PANICHAUNT.1"
+msgid "SCARED!"
+msgstr "吓到了！"
+
+#. RABBIT_PANICHAUNT.2
+msgctxt "RABBIT_PANICHAUNT.2"
+msgid "AAAH!!"
+msgstr "啊！！"
+
+#. RABBIT_PANICHAUNT.3
+msgctxt "RABBIT_PANICHAUNT.3"
+msgid "OHH!"
+msgstr "哦哦！"
+
+#. RABBIT_PANICHAUNT.4
+msgctxt "RABBIT_PANICHAUNT.4"
+msgid "GHOST!"
+msgstr "幽灵!"
+
+#. RABBIT_PANICHOUSEFIRE.1
+msgctxt "RABBIT_PANICHOUSEFIRE.1"
+msgid "HOME!"
+msgstr "回家！"
+
+#. RABBIT_PANICHOUSEFIRE.2
+msgctxt "RABBIT_PANICHOUSEFIRE.2"
+msgid "FIRE!"
+msgstr "火！"
+
+#. RABBIT_PANICHOUSEFIRE.3
+msgctxt "RABBIT_PANICHOUSEFIRE.3"
+msgid "BURNING!"
+msgstr "燃烧吧！"
+
+#. RABBIT_RESCUE.1
+msgctxt "RABBIT_RESCUE.1"
+msgid "KILL!"
+msgstr "杀啊！"
+
+#. RABBIT_RESCUE.2
+msgctxt "RABBIT_RESCUE.2"
+msgid "FIGHT!"
+msgstr "战斗!"
+
+#. RABBIT_RESCUE.3
+msgctxt "RABBIT_RESCUE.3"
+msgid "BITE!"
+msgstr "咬！"
+
+#. RABBIT_RESCUE.4
+msgctxt "RABBIT_RESCUE.4"
+msgid "PUNCH!"
+msgstr "用拳头打！"
+
+#. RABBIT_RETREAT.1
+msgctxt "RABBIT_RETREAT.1"
+msgid "AWAY!"
+msgstr "走开！"
+
+#. RABBIT_RETREAT.2
+msgctxt "RABBIT_RETREAT.2"
+msgid "HURT!"
+msgstr "痛！"
+
+#. RABBIT_RETREAT.3
+msgctxt "RABBIT_RETREAT.3"
+msgid "HOME!"
+msgstr "回家！"
+
+#. RABBIT_RETREAT.4
+msgctxt "RABBIT_RETREAT.4"
+msgid "RUN!"
+msgstr "快跑！"
+

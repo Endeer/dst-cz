@@ -1,0 +1,660 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. YOTB_ALREADY_GOT_YOURS
+msgctxt "YOTB_ALREADY_GOT_YOURS"
+msgid "You already got yours. No double dipping."
+msgstr "你已經有了。別吃著碗裡看著鍋裡。"
+
+#. YOTB_APPRAISE_END
+msgctxt "YOTB_APPRAISE_END"
+msgid "Wonderful item you've got there."
+msgstr "你的這件東西真不錯。"
+
+#. YOTB_APPRAISE_START
+msgctxt "YOTB_APPRAISE_START"
+msgid "Let's see what you have there."
+msgstr "來看看你有點啥。"
+
+#. YOTB_COLLECT_PRIZE_QUICK
+msgctxt "YOTB_COLLECT_PRIZE_QUICK"
+msgid "Things are getting out of hand, hurry up and collect your prizes!"
+msgstr "局勢正在失控，趕緊領取你的獎品吧！"
+
+#. YOTB_CONGRATS_WINNER
+msgctxt "YOTB_CONGRATS_WINNER"
+msgid "Congrats little guy! You win!"
+msgstr "恭喜你，小傢伙！你贏了！"
+
+#. YOTB_CONGRATS_WINNER_SECOND
+msgctxt "YOTB_CONGRATS_WINNER_SECOND"
+msgid "Congratulations!"
+msgstr "祝賀！"
+
+#. YOTB_CONGRATS_WINNER_THIRD
+msgctxt "YOTB_CONGRATS_WINNER_THIRD"
+msgid "Take a bow!"
+msgstr "一鞠躬！"
+
+#. YOTB_CONSOLE_PRIZES
+msgctxt "YOTB_CONSOLE_PRIZES"
+msgid "Everyone gets to take something home."
+msgstr "每個人都能帶點東西回家。"
+
+#. YOTB_CONTEST_BEGIN
+msgctxt "YOTB_CONTEST_BEGIN"
+msgid "OK, lets get this show going..."
+msgstr "好嘞，好戲開始嘍……"
+
+#. YOTB_CONTEST_END
+msgctxt "YOTB_CONTEST_END"
+msgid "Very nice, I think we're done."
+msgstr "非常好，比賽圓滿落幕。"
+
+#. YOTB_CONTEST_FEARSOME_EXTREMEHIGH.1
+msgctxt "YOTB_CONTEST_FEARSOME_EXTREMEHIGH.1"
+msgid "This one is much too fearsome."
+msgstr "那個太嚇人了。"
+
+#. YOTB_CONTEST_FEARSOME_EXTREMEHIGH.2
+msgctxt "YOTB_CONTEST_FEARSOME_EXTREMEHIGH.2"
+msgid "This beefalo's fierceness is well beyond my taste today."
+msgstr "這頭皮弗婁牛的兇猛程度超過了我想要的。"
+
+#. YOTB_CONTEST_FEARSOME_EXTREMELOW.1
+msgctxt "YOTB_CONTEST_FEARSOME_EXTREMELOW.1"
+msgid "Today's beefalo needs to be a lot more fierce than this teddy bear."
+msgstr "今天的皮弗婁牛起碼應該比這只泰迪熊兇猛一些吧。"
+
+#. YOTB_CONTEST_FEARSOME_EXTREMELOW.2
+msgctxt "YOTB_CONTEST_FEARSOME_EXTREMELOW.2"
+msgid "I'm looking for something way more fearsome today."
+msgstr "我想要看到的是比這個恐怖許多的搭配。"
+
+#. YOTB_CONTEST_FEARSOME_HIGH.1
+msgctxt "YOTB_CONTEST_FEARSOME_HIGH.1"
+msgid "This beefalo is just a little fiercer than I want."
+msgstr "這頭皮弗婁牛的兇猛程度比我想要的多出了一點。"
+
+#. YOTB_CONTEST_FEARSOME_HIGH.2
+msgctxt "YOTB_CONTEST_FEARSOME_HIGH.2"
+msgid "Being a little too fierce can be good, but not today."
+msgstr "過於兇猛有時候是好事，但今天不行。"
+
+#. YOTB_CONTEST_FEARSOME_LOW.1
+msgctxt "YOTB_CONTEST_FEARSOME_LOW.1"
+msgid "Maybe this beefalo could be a little more fierce."
+msgstr "也許這頭皮弗婁牛應該更兇猛一些。"
+
+#. YOTB_CONTEST_FEARSOME_LOW.2
+msgctxt "YOTB_CONTEST_FEARSOME_LOW.2"
+msgid "This beefalo is not as fierce as I'd like, but it's close."
+msgstr "這頭皮弗婁牛雖然不及我想要的那麼嚇人，但是也接近了。"
+
+#. YOTB_CONTEST_FEARSOME_PERFECT.1
+msgctxt "YOTB_CONTEST_FEARSOME_PERFECT.1"
+msgid "I like this one's ferocity."
+msgstr "我喜歡它的兇猛程度。"
+
+#. YOTB_CONTEST_FEARSOME_PERFECT.2
+msgctxt "YOTB_CONTEST_FEARSOME_PERFECT.2"
+msgid "This beefalo fills me with just the right amount of fear."
+msgstr "這頭皮弗婁牛讓我害怕的恰到好處。"
+
+#. YOTB_CONTEST_FEARSOME_TARGET_EXTREMEHIGH.1
+msgctxt "YOTB_CONTEST_FEARSOME_TARGET_EXTREMEHIGH.1"
+msgid "Finally, I'm in the mood for a good scare. Let's see your most fearsome beefalo!"
+msgstr "都到最後了，我想被好好嚇嚇。亮出你最驚悚的皮弗婁牛吧！"
+
+#. YOTB_CONTEST_FEARSOME_TARGET_EXTREMELOW.1
+msgctxt "YOTB_CONTEST_FEARSOME_TARGET_EXTREMELOW.1"
+msgid "Finally, today's winner needs to be a teddy bear. My heart can't take a scare."
+msgstr "最後，今天的贏家要像泰迪熊一樣可愛。我的小心臟經不起任何驚嚇了。"
+
+#. YOTB_CONTEST_FEARSOME_TARGET_HIGH.1
+msgctxt "YOTB_CONTEST_FEARSOME_TARGET_HIGH.1"
+msgid "Finally, today's winner will be only mildly more fearsome than friendly."
+msgstr "最後，今天的贏家應該是比較嚇人的。"
+
+#. YOTB_CONTEST_FEARSOME_TARGET_LOW.1
+msgctxt "YOTB_CONTEST_FEARSOME_TARGET_LOW.1"
+msgid "Finally, I'd like to see a beefalo that's just a bit more friendly than scary."
+msgstr "最後，我想要看到一頭友好而不嚇人的皮弗婁牛。"
+
+#. YOTB_CONTEST_FEARSOME_TARGET_PERFECT.1
+msgctxt "YOTB_CONTEST_FEARSOME_TARGET_PERFECT.1"
+msgid "Finally, I can't quite decide. Show me a good balance of fearsome and friendly."
+msgstr "最後，我有點難以決定。向我展示一頭兼具嚇人和友好的皮弗婁牛吧。"
+
+#. YOTB_CONTEST_FEARSOME_TARGET_VERYHIGH.1
+msgctxt "YOTB_CONTEST_FEARSOME_TARGET_VERYHIGH.1"
+msgid "Finally, I'm looking for something quite fierce."
+msgstr "最後，我想看到十分兇猛的皮弗婁牛。"
+
+#. YOTB_CONTEST_FEARSOME_TARGET_VERYHIGH.2
+msgctxt "YOTB_CONTEST_FEARSOME_TARGET_VERYHIGH.2"
+msgid "Finally, I want something quite fearsome looking."
+msgstr "最後，我想看到一頭很嚇人的皮弗婁牛。"
+
+#. YOTB_CONTEST_FEARSOME_TARGET_VERYLOW.1
+msgctxt "YOTB_CONTEST_FEARSOME_TARGET_VERYLOW.1"
+msgid "Finally, I'm looking for only the tiniest hint of ferocity."
+msgstr "最後，我想看一頭只有一點點兇猛的皮弗婁牛。"
+
+#. YOTB_CONTEST_FEARSOME_TARGET_VERYLOW.2
+msgctxt "YOTB_CONTEST_FEARSOME_TARGET_VERYLOW.2"
+msgid "Finally, today I want to see a little ferocity, but just a touch."
+msgstr "最後，今天我想看到略微的兇猛。"
+
+#. YOTB_CONTEST_FEARSOME_VERYHIGH.1
+msgctxt "YOTB_CONTEST_FEARSOME_VERYHIGH.1"
+msgid "This specimen is more fierce than I want."
+msgstr "這個選手的兇猛超出了我想要的程度。"
+
+#. YOTB_CONTEST_FEARSOME_VERYHIGH.2
+msgctxt "YOTB_CONTEST_FEARSOME_VERYHIGH.2"
+msgid "I respect how fearsome this beefalo is, but it's more than I like."
+msgstr "我尊敬這頭兇猛異常的皮弗婁牛，但是過猶不及啊。"
+
+#. YOTB_CONTEST_FEARSOME_VERYLOW.1
+msgctxt "YOTB_CONTEST_FEARSOME_VERYLOW.1"
+msgid "I'd like my beefalo to be a fair bit more fearsome than this."
+msgstr "我希望我的皮弗婁牛能比這更可怕一些。"
+
+#. YOTB_CONTEST_FEARSOME_VERYLOW.2
+msgctxt "YOTB_CONTEST_FEARSOME_VERYLOW.2"
+msgid "This one is not quite fierce enough, by a good margin."
+msgstr "這頭還遠遠不夠兇猛。"
+
+#. YOTB_CONTEST_FESTIVE_EXTREMEHIGH.1
+msgctxt "YOTB_CONTEST_FESTIVE_EXTREMEHIGH.1"
+msgid "This one is much too festive."
+msgstr "這個太喜慶了。"
+
+#. YOTB_CONTEST_FESTIVE_EXTREMEHIGH.2
+msgctxt "YOTB_CONTEST_FESTIVE_EXTREMEHIGH.2"
+msgid "This beefalo's festiveness is well beyond my taste today."
+msgstr "這頭皮弗婁牛過於喜慶。"
+
+#. YOTB_CONTEST_FESTIVE_EXTREMELOW.1
+msgctxt "YOTB_CONTEST_FESTIVE_EXTREMELOW.1"
+msgid "Today's beefalo needs to be a lot more festive than this curmudgeon."
+msgstr "今天的皮弗婁牛應該比這個老古板更喜慶。"
+
+#. YOTB_CONTEST_FESTIVE_EXTREMELOW.2
+msgctxt "YOTB_CONTEST_FESTIVE_EXTREMELOW.2"
+msgid "I'm looking for something way more festive today."
+msgstr "我今天想找比這個遠更喜慶的展示。"
+
+#. YOTB_CONTEST_FESTIVE_HIGH.1
+msgctxt "YOTB_CONTEST_FESTIVE_HIGH.1"
+msgid "This beefalo is just a little more festive than I want."
+msgstr "這頭皮弗婁牛比我想要的更喜慶一些。"
+
+#. YOTB_CONTEST_FESTIVE_HIGH.2
+msgctxt "YOTB_CONTEST_FESTIVE_HIGH.2"
+msgid "Being a little too festive can be good, but not today."
+msgstr "過於喜慶有時候是好事，但今天不行。"
+
+#. YOTB_CONTEST_FESTIVE_LOW.1
+msgctxt "YOTB_CONTEST_FESTIVE_LOW.1"
+msgid "Maybe this beefalo could be a little more festive."
+msgstr "也許這頭皮弗婁牛應該更喜慶一些。"
+
+#. YOTB_CONTEST_FESTIVE_LOW.2
+msgctxt "YOTB_CONTEST_FESTIVE_LOW.2"
+msgid "This beefalo is not as festive as I'd like, but it's close."
+msgstr "這頭皮弗婁牛雖然沒有我想要的那麼喜慶，但也差不多了。"
+
+#. YOTB_CONTEST_FESTIVE_PERFECT.1
+msgctxt "YOTB_CONTEST_FESTIVE_PERFECT.1"
+msgid "I like this one's festivity."
+msgstr "我喜歡這頭的喜慶程度。"
+
+#. YOTB_CONTEST_FESTIVE_PERFECT.2
+msgctxt "YOTB_CONTEST_FESTIVE_PERFECT.2"
+msgid "This beefalo is just festive enough."
+msgstr "這頭皮弗婁牛喜慶的剛剛好。"
+
+#. YOTB_CONTEST_FESTIVE_TARGET_EXTREMEHIGH.1
+msgctxt "YOTB_CONTEST_FESTIVE_TARGET_EXTREMEHIGH.1"
+msgid "Also, the winner should be the most festive of beasts."
+msgstr "還有，最喜慶的野獸將最終勝出。"
+
+#. YOTB_CONTEST_FESTIVE_TARGET_EXTREMELOW.1
+msgctxt "YOTB_CONTEST_FESTIVE_TARGET_EXTREMELOW.1"
+msgid "Also, I don't want to see even a hint of festivity in today's Champion."
+msgstr "還有，我不想在今天的冠軍身上看到一絲的喜慶。"
+
+#. YOTB_CONTEST_FESTIVE_TARGET_EXTREMELOW.2
+msgctxt "YOTB_CONTEST_FESTIVE_TARGET_EXTREMELOW.2"
+msgid "Also, I'm in no mood for festivity today. I'd better not see a trace of it!"
+msgstr "還有，我今天沒心情過節。最好不要讓我看到一點喜慶的痕跡!"
+
+#. YOTB_CONTEST_FESTIVE_TARGET_HIGH.1
+msgctxt "YOTB_CONTEST_FESTIVE_TARGET_HIGH.1"
+msgid "Also, there should be a lot of festivity, with just a dash of somberness."
+msgstr "還有，應該在很多的喜慶中夾帶一絲憂鬱。"
+
+#. YOTB_CONTEST_FESTIVE_TARGET_LOW.1
+msgctxt "YOTB_CONTEST_FESTIVE_TARGET_LOW.1"
+msgid "Also, today's winner will be a bit more somber than festive."
+msgstr "還有，今天的獲獎者應該稍微憂鬱一些。"
+
+#. YOTB_CONTEST_FESTIVE_TARGET_PERFECT.1
+msgctxt "YOTB_CONTEST_FESTIVE_TARGET_PERFECT.1"
+msgid "Also, I'm looking for a tasteful mix of festivity and somberness."
+msgstr "還有，我在尋找一種半喜慶半憂鬱的優雅裝束。"
+
+#. YOTB_CONTEST_FESTIVE_TARGET_PERFECT.2
+msgctxt "YOTB_CONTEST_FESTIVE_TARGET_PERFECT.2"
+msgid "Also, today's champion will be a perfect balance of somber and festive."
+msgstr "還有，今天的冠軍將是能夠完美平衡憂鬱與喜慶的選手。"
+
+#. YOTB_CONTEST_FESTIVE_TARGET_VERYHIGH.1
+msgctxt "YOTB_CONTEST_FESTIVE_TARGET_VERYHIGH.1"
+msgid "Also, I'm looking for quite a lot of festivity today."
+msgstr "還有，我今天想看到比較高的喜慶程度。"
+
+#. YOTB_CONTEST_FESTIVE_TARGET_VERYLOW.1
+msgctxt "YOTB_CONTEST_FESTIVE_TARGET_VERYLOW.1"
+msgid "Also, I only want to see the tiniest hint of festivity."
+msgstr "還有，我只想看到一點點的喜慶程度。"
+
+#. YOTB_CONTEST_FESTIVE_VERYHIGH.1
+msgctxt "YOTB_CONTEST_FESTIVE_VERYHIGH.1"
+msgid "This fella is more festive than I want."
+msgstr "這傢伙的喜慶程度超過了我想要的。"
+
+#. YOTB_CONTEST_FESTIVE_VERYHIGH.2
+msgctxt "YOTB_CONTEST_FESTIVE_VERYHIGH.2"
+msgid "I respect how festive this beefalo is, but it's more than I like."
+msgstr "我尊敬這頭喜慶過頭的皮弗婁牛，但是過猶不及啊。"
+
+#. YOTB_CONTEST_FESTIVE_VERYLOW.1
+msgctxt "YOTB_CONTEST_FESTIVE_VERYLOW.1"
+msgid "I'd like my beefalo to be a fair bit more festive than this."
+msgstr "我希望我的皮弗婁牛能比這頭更喜慶。"
+
+#. YOTB_CONTEST_FESTIVE_VERYLOW.2
+msgctxt "YOTB_CONTEST_FESTIVE_VERYLOW.2"
+msgid "This one is not quite festive enough, by a good margin."
+msgstr "這頭還遠遠不夠喜慶。"
+
+#. YOTB_CONTEST_FIGHT_END
+msgctxt "YOTB_CONTEST_FIGHT_END"
+msgid "Alright, contest over for now folks!"
+msgstr "好了，比賽結束了！"
+
+#. YOTB_CONTEST_FIRST_PLACE
+msgctxt "YOTB_CONTEST_FIRST_PLACE"
+msgid "Finally, my first place pick is..."
+msgstr "最後，我宣佈第一名是……"
+
+#. YOTB_CONTEST_FORMAL_EXTREMEHIGH.1
+msgctxt "YOTB_CONTEST_FORMAL_EXTREMEHIGH.1"
+msgid "This one is much too formal."
+msgstr "這個太過正式。"
+
+#. YOTB_CONTEST_FORMAL_EXTREMEHIGH.2
+msgctxt "YOTB_CONTEST_FORMAL_EXTREMEHIGH.2"
+msgid "This beefalo's formalness is well beyond my taste today."
+msgstr "這頭皮弗婁牛的正式程度超過了我想要的。"
+
+#. YOTB_CONTEST_FORMAL_EXTREMELOW.1
+msgctxt "YOTB_CONTEST_FORMAL_EXTREMELOW.1"
+msgid "Today's beefalo needs to be a lot more formal than this ragamuffin."
+msgstr "今天的皮弗婁牛應該比這個邋遢蛋穿得更正式。"
+
+#. YOTB_CONTEST_FORMAL_EXTREMELOW.2
+msgctxt "YOTB_CONTEST_FORMAL_EXTREMELOW.2"
+msgid "I'm looking for something way more formal today."
+msgstr "我今天想找比它更正式的裝束。"
+
+#. YOTB_CONTEST_FORMAL_HIGH.1
+msgctxt "YOTB_CONTEST_FORMAL_HIGH.1"
+msgid "This beefalo is just a little more formal than I want."
+msgstr "這頭皮弗婁牛的正式程度超過了我想要的範圍。"
+
+#. YOTB_CONTEST_FORMAL_HIGH.2
+msgctxt "YOTB_CONTEST_FORMAL_HIGH.2"
+msgid "Being a little too formal can be good, but not today."
+msgstr "過於正式有時候是好事，但今天不行。"
+
+#. YOTB_CONTEST_FORMAL_LOW.1
+msgctxt "YOTB_CONTEST_FORMAL_LOW.1"
+msgid "Maybe this beefalo could be a little more formal."
+msgstr "也許這頭皮弗婁牛可以更正式一點。"
+
+#. YOTB_CONTEST_FORMAL_LOW.2
+msgctxt "YOTB_CONTEST_FORMAL_LOW.2"
+msgid "This beefalo is not as formal as I'd like, but it's close."
+msgstr "這頭皮弗婁牛雖然沒有我想要的那麼正式，但也差不多了。"
+
+#. YOTB_CONTEST_FORMAL_PERFECT.1
+msgctxt "YOTB_CONTEST_FORMAL_PERFECT.1"
+msgid "I like this one's formalness."
+msgstr "我喜歡這頭的正式程度。"
+
+#. YOTB_CONTEST_FORMAL_PERFECT.2
+msgctxt "YOTB_CONTEST_FORMAL_PERFECT.2"
+msgid "This beefalo is just formal enough."
+msgstr "這頭皮弗婁牛正式的剛剛好。"
+
+#. YOTB_CONTEST_FORMAL_TARGET_EXTREMEHIGH.1
+msgctxt "YOTB_CONTEST_FORMAL_TARGET_EXTREMEHIGH.1"
+msgid "Everything about today's winner should scream \"formality.\""
+msgstr "今天的勝出者應該從頭到腳都在吐露著“正式”。"
+
+#. YOTB_CONTEST_FORMAL_TARGET_EXTREMELOW.1
+msgctxt "YOTB_CONTEST_FORMAL_TARGET_EXTREMELOW.1"
+msgid "My taste today is for a complete lack of formality."
+msgstr "我今天想要的是與正式毫無關係。"
+
+#. YOTB_CONTEST_FORMAL_TARGET_HIGH.1
+msgctxt "YOTB_CONTEST_FORMAL_TARGET_HIGH.1"
+msgid "Today's beefalo should have a slight edge of formality."
+msgstr "今天的皮弗婁牛應該只有略微的正式。"
+
+#. YOTB_CONTEST_FORMAL_TARGET_LOW.1
+msgctxt "YOTB_CONTEST_FORMAL_TARGET_LOW.1"
+msgid "My pick for today will be a bit more unconventional than formal."
+msgstr "我今天想要看到的更多是休閒，只需要很低的正式程度。"
+
+#. YOTB_CONTEST_FORMAL_TARGET_PERFECT.1
+msgctxt "YOTB_CONTEST_FORMAL_TARGET_PERFECT.1"
+msgid "I want to see a perfect blend of unconventional and formal."
+msgstr "我想要看到休閒與正式的完美平衡。"
+
+#. YOTB_CONTEST_FORMAL_TARGET_VERYHIGH.1
+msgctxt "YOTB_CONTEST_FORMAL_TARGET_VERYHIGH.1"
+msgid "I'd like to see the high end of formality today, with just a dash of disorder."
+msgstr "我今天想好好看看高端的正式搭配一點點的休閒。"
+
+#. YOTB_CONTEST_FORMAL_TARGET_VERYLOW.1
+msgctxt "YOTB_CONTEST_FORMAL_TARGET_VERYLOW.1"
+msgid "I want to see something mostly unconventional, with just a whiff of formality."
+msgstr "我想看看以休閒為主，正式為輔的搭配。"
+
+#. YOTB_CONTEST_FORMAL_VERYHIGH.1
+msgctxt "YOTB_CONTEST_FORMAL_VERYHIGH.1"
+msgid "This specimen is more formal than I want."
+msgstr "這個選手的正式程度超過了我想要的範圍。"
+
+#. YOTB_CONTEST_FORMAL_VERYHIGH.2
+msgctxt "YOTB_CONTEST_FORMAL_VERYHIGH.2"
+msgid "I respect how formal this beefalo is, but it's more than I like."
+msgstr "我尊敬這頭正式過頭的皮弗婁牛，但是過猶不及啊。"
+
+#. YOTB_CONTEST_FORMAL_VERYLOW.1
+msgctxt "YOTB_CONTEST_FORMAL_VERYLOW.1"
+msgid "I'd like my beefalo to be a fair bit more formal than this."
+msgstr "我希望我的皮弗婁牛能比這頭更正式。"
+
+#. YOTB_CONTEST_FORMAL_VERYLOW.2
+msgctxt "YOTB_CONTEST_FORMAL_VERYLOW.2"
+msgid "This one is not quite formal enough, by a good margin."
+msgstr "這頭還遠遠不夠正式。"
+
+#. YOTB_CONTEST_SECOND_PLACE
+msgctxt "YOTB_CONTEST_SECOND_PLACE"
+msgid "And In second place..."
+msgstr "第二名是……"
+
+#. YOTB_CONTEST_START
+msgctxt "YOTB_CONTEST_START"
+msgid "Well well well, lemme get a look at the menagerie."
+msgstr "觀眾朋友們，一起來欣賞這場精彩的動物展覽吧。"
+
+#. YOTB_CONTEST_TARGET_PARAMS
+msgctxt "YOTB_CONTEST_TARGET_PARAMS"
+msgid "My perfect beefalo changes from day to day..."
+msgstr "我對完美皮弗婁牛的定義每天都在變化……"
+
+#. YOTB_CONTEST_THIRD_PLACE
+msgctxt "YOTB_CONTEST_THIRD_PLACE"
+msgid "Alright, my pick for third place is..."
+msgstr "好的，獲得第三名的是……"
+
+#. YOTB_DOLL_FEARSOME_TARGET_EXTREMEHIGH.1
+msgctxt "YOTB_DOLL_FEARSOME_TARGET_EXTREMEHIGH.1"
+msgid "Finally, this is the most fearsome of dolls!"
+msgstr "最後，這就是最嚇人的玩偶！"
+
+#. YOTB_DOLL_FEARSOME_TARGET_EXTREMELOW.1
+msgctxt "YOTB_DOLL_FEARSOME_TARGET_EXTREMELOW.1"
+msgid "Finally, this is like a teddy bear. My heart is at ease."
+msgstr "最後，這頭就像泰迪熊一樣。我心裡總算舒服了。"
+
+#. YOTB_DOLL_FEARSOME_TARGET_HIGH.1
+msgctxt "YOTB_DOLL_FEARSOME_TARGET_HIGH.1"
+msgid "Finally, it's only mildly more fearsome than friendly."
+msgstr "最後，我宣佈這頭是比較嚇人的。"
+
+#. YOTB_DOLL_FEARSOME_TARGET_LOW.1
+msgctxt "YOTB_DOLL_FEARSOME_TARGET_LOW.1"
+msgid "Finally, this is just a bit more friendly than scary."
+msgstr "最後，我宣佈這頭是友好而不嚇人的。"
+
+#. YOTB_DOLL_FEARSOME_TARGET_PERFECT.1
+msgctxt "YOTB_DOLL_FEARSOME_TARGET_PERFECT.1"
+msgid "Finally, it has a good balance of fearsome and friendly."
+msgstr "最後，我宣佈這頭兼具嚇人和友好。"
+
+#. YOTB_DOLL_FEARSOME_TARGET_VERYHIGH.1
+msgctxt "YOTB_DOLL_FEARSOME_TARGET_VERYHIGH.1"
+msgid "Finally, it's quite fierce."
+msgstr "最後，我宣佈這頭十分兇猛。"
+
+#. YOTB_DOLL_FEARSOME_TARGET_VERYHIGH.2
+msgctxt "YOTB_DOLL_FEARSOME_TARGET_VERYHIGH.2"
+msgid "Finally, this is quite fearsome looking."
+msgstr "最後，我宣佈這頭很嚇人。"
+
+#. YOTB_DOLL_FEARSOME_TARGET_VERYLOW.1
+msgctxt "YOTB_DOLL_FEARSOME_TARGET_VERYLOW.1"
+msgid "Finally, it has the tiniest hint of ferocity."
+msgstr "最後，我宣佈這頭只有一點點兇猛。"
+
+#. YOTB_DOLL_FEARSOME_TARGET_VERYLOW.2
+msgctxt "YOTB_DOLL_FEARSOME_TARGET_VERYLOW.2"
+msgid "Finally, I can see a little ferocity, but just a touch."
+msgstr "最後，我宣佈這頭略微的兇猛。"
+
+#. YOTB_DOLL_FESTIVE_TARGET_EXTREMEHIGH.1
+msgctxt "YOTB_DOLL_FESTIVE_TARGET_EXTREMEHIGH.1"
+msgid "Also, it's the most festive of dolls."
+msgstr "還有，它就是最喜慶的玩偶。"
+
+#. YOTB_DOLL_FESTIVE_TARGET_EXTREMELOW.1
+msgctxt "YOTB_DOLL_FESTIVE_TARGET_EXTREMELOW.1"
+msgid "Also, I don't see even a hint of festivity in this."
+msgstr "還有，它身上沒有看到一絲的喜慶。"
+
+#. YOTB_DOLL_FESTIVE_TARGET_HIGH.1
+msgctxt "YOTB_DOLL_FESTIVE_TARGET_HIGH.1"
+msgid "Also, it has a lot of festivity, with just a dash of somberness."
+msgstr "還有，它在喜慶中夾帶一絲憂鬱。"
+
+#. YOTB_DOLL_FESTIVE_TARGET_LOW.1
+msgctxt "YOTB_DOLL_FESTIVE_TARGET_LOW.1"
+msgid "Also, this is a bit more somber than festive."
+msgstr "還有，它就是稍微憂鬱一些。"
+
+#. YOTB_DOLL_FESTIVE_TARGET_PERFECT.1
+msgctxt "YOTB_DOLL_FESTIVE_TARGET_PERFECT.1"
+msgid "Also, this is tasteful mix of festivity and somberness."
+msgstr "還有，它身上就是那種半喜慶半憂鬱的優雅裝束。"
+
+#. YOTB_DOLL_FESTIVE_TARGET_PERFECT.2
+msgctxt "YOTB_DOLL_FESTIVE_TARGET_PERFECT.2"
+msgid "Also, it's a perfect balance of somber and festive."
+msgstr "還有，它身上就是那種完美平衡憂鬱與喜慶的優雅裝束。"
+
+#. YOTB_DOLL_FESTIVE_TARGET_VERYHIGH.1
+msgctxt "YOTB_DOLL_FESTIVE_TARGET_VERYHIGH.1"
+msgid "Also, it has quite a lot of festivity."
+msgstr "還有，它身上有比較高的喜慶程度。"
+
+#. YOTB_DOLL_FESTIVE_TARGET_VERYLOW.1
+msgctxt "YOTB_DOLL_FESTIVE_TARGET_VERYLOW.1"
+msgid "Also, it has only the tiniest hint of festivity."
+msgstr "還有，它身上只有一點點的喜慶程度。"
+
+#. YOTB_DOLL_FORMAL_TARGET_EXTREMEHIGH.1
+msgctxt "YOTB_DOLL_FORMAL_TARGET_EXTREMEHIGH.1"
+msgid "Everything about this screams \"formality.\""
+msgstr "它從頭到腳都在吐露著“正式”。"
+
+#. YOTB_DOLL_FORMAL_TARGET_EXTREMELOW.1
+msgctxt "YOTB_DOLL_FORMAL_TARGET_EXTREMELOW.1"
+msgid "It has a complete lack of formality."
+msgstr "它與正式毫無關係"
+
+#. YOTB_DOLL_FORMAL_TARGET_HIGH.1
+msgctxt "YOTB_DOLL_FORMAL_TARGET_HIGH.1"
+msgid "This has a slight edge of formality."
+msgstr "它只有略微的正式。"
+
+#. YOTB_DOLL_FORMAL_TARGET_LOW.1
+msgctxt "YOTB_DOLL_FORMAL_TARGET_LOW.1"
+msgid "This a bit more unconventional than formal."
+msgstr "它更多是休閒，只有很低的正式程度。"
+
+#. YOTB_DOLL_FORMAL_TARGET_PERFECT.1
+msgctxt "YOTB_DOLL_FORMAL_TARGET_PERFECT.1"
+msgid "It's a perfect blend of unconventional and formal."
+msgstr "它做到了休閒與正式的完美平衡。"
+
+#. YOTB_DOLL_FORMAL_TARGET_VERYHIGH.1
+msgctxt "YOTB_DOLL_FORMAL_TARGET_VERYHIGH.1"
+msgid "This is the high end of formality, with just a dash of disorder."
+msgstr "它做到了高端的正式搭配一點點的休閒。"
+
+#. YOTB_DOLL_FORMAL_TARGET_VERYLOW.1
+msgctxt "YOTB_DOLL_FORMAL_TARGET_VERYLOW.1"
+msgid "This is mostly unconventional, with just a whiff of formality."
+msgstr "這正是休閒為主，正式為輔的搭配。"
+
+#. YOTB_EXTRA_BEEF
+msgctxt "YOTB_EXTRA_BEEF"
+msgid "Let's round up some locals to make things interesting."
+msgstr "我們邀請一些本地居民參賽，增加一點趣味。"
+
+#. YOTB_GIVE_PRIZE_BIG
+msgctxt "YOTB_GIVE_PRIZE_BIG"
+msgid "Congrats! Don't spend it all in once place."
+msgstr "祝賀各位獲獎者！可別把獎品一下全揮霍完。"
+
+#. YOTB_GIVE_PRIZE_SMALL
+msgctxt "YOTB_GIVE_PRIZE_SMALL"
+msgid "Here you go, well done you."
+msgstr "這是你的獎品，幹得漂亮。"
+
+#. YOTB_GUESS_WHO_1
+msgctxt "YOTB_GUESS_WHO_1"
+msgid "Alright, which of these beauties do you think is today's winner!?"
+msgstr "好的，這些美牛中，你覺得哪個是今天的贏家！？"
+
+#. YOTB_GUESS_WHO_2
+msgctxt "YOTB_GUESS_WHO_2"
+msgid "Take your time, choose wisely."
+msgstr "請慢慢選，好好選。"
+
+#. YOTB_GUESS_WHO_3
+msgctxt "YOTB_GUESS_WHO_3"
+msgid "OK, now hurry up..."
+msgstr "好的，現在請抓緊時間……"
+
+#. YOTB_GUESS_WHO_4
+msgctxt "YOTB_GUESS_WHO_4"
+msgid "Time's up!"
+msgstr "時候到！"
+
+#. YOTB_GUESS_WHO_5
+msgctxt "YOTB_GUESS_WHO_5"
+msgid "Alright, my pick for today's contest is..."
+msgstr "好的，我選出的獲獎者是……"
+
+#. YOTB_HEY.1
+msgctxt "YOTB_HEY.1"
+msgid "Hiya!"
+msgstr "你好啊！"
+
+#. YOTB_HEY.2
+msgctxt "YOTB_HEY.2"
+msgid "Hey!"
+msgstr "喂！"
+
+#. YOTB_HEY.3
+msgctxt "YOTB_HEY.3"
+msgid "Howdy!"
+msgstr "幸會！"
+
+#. YOTB_HEY.4
+msgctxt "YOTB_HEY.4"
+msgid "Greetings!"
+msgstr "向你問候！"
+
+#. YOTB_HURRY_PRIZE
+msgctxt "YOTB_HURRY_PRIZE"
+msgid "Come get your prize, I won't wait all day."
+msgstr "來拿你的獎品吧，我不會等一整天的。"
+
+#. YOTB_NOTHING_FOR_YOU
+msgctxt "YOTB_NOTHING_FOR_YOU"
+msgid "Sorry, you didn't win anything this time."
+msgstr "對不起，你這次什麼都沒贏。"
+
+#. YOTB_NO_EXTRA_BEEF
+msgctxt "YOTB_NO_EXTRA_BEEF"
+msgid "What an eclectic looking bunch."
+msgstr "多麼奔放的風格啊。"
+
+#. YOTB_NO_PRIZE
+msgctxt "YOTB_NO_PRIZE"
+msgid "No one guessed right today! There's always tomorrow."
+msgstr "今天沒有人猜對! 不過明天還有機會。"
+
+#. YOTB_PATTERNS
+msgctxt "YOTB_PATTERNS"
+msgid "Everyone, enjoy some complimentary fashion scraps!"
+msgstr "送大家一些免費的時尚碎片!"
+
+#. YOTB_PRIZE
+msgctxt "YOTB_PRIZE"
+msgid "Only one winner! Don't spend it all in one place!"
+msgstr "只有一人勝出！可別把獎品一下全揮霍完！"
+
+#. YOTB_PRIZES
+msgctxt "YOTB_PRIZES"
+msgid "Here's your prizes, winners!"
+msgstr "請各位勝出者收下你們的獎品！"
+
+#. YOTB_START_FAIL_DANGER
+msgctxt "YOTB_START_FAIL_DANGER"
+msgid "Sorry, it's not safe enough around here!"
+msgstr "抱歉，這周圍不夠安全!"
+
+#. YOTB_START_FAIL_LATE
+msgctxt "YOTB_START_FAIL_LATE"
+msgid "Sorry, it's too late to start today."
+msgstr "對不起，今天太晚了，開始不了。"
+
+#. YOTB_START_FAIL_NOT_ENOUGH_POSTS
+msgctxt "YOTB_START_FAIL_NOT_ENOUGH_POSTS"
+msgid "I don't see enough Stages out yet."
+msgstr "搭起來的舞臺還不夠多。"
+
+#. YOTB_START_FAIL_NO_CONTESTANTS
+msgctxt "YOTB_START_FAIL_NO_CONTESTANTS"
+msgid "I don't see any contestants to judge, do you?"
+msgstr "看不到要評判的選手，你看到了嗎？"
+
+#. YOTB_TOO_LATE_PRIZE
+msgctxt "YOTB_TOO_LATE_PRIZE"
+msgid "Sorry, can't wait any longer. Bye now."
+msgstr "抱歉，我等不了了。再見。"
+

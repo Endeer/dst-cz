@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.HELP.ACCEPT
+msgctxt "UI.HELP.ACCEPT"
+msgid "Accept Changes"
+msgstr "Accetta modifiche"
+
+#. UI.HELP.APPLY
+msgctxt "UI.HELP.APPLY"
+msgid "Apply"
+msgstr "Applica"
+
+#. UI.HELP.BACK
+msgctxt "UI.HELP.BACK"
+msgid "Back"
+msgstr "Indietro"
+
+#. UI.HELP.CANCEL
+msgctxt "UI.HELP.CANCEL"
+msgid "Cancel"
+msgstr "Annulla"
+
+#. UI.HELP.CHANGECHARACTER
+msgctxt "UI.HELP.CHANGECHARACTER"
+msgid "Change Character"
+msgstr "Cambia personaggio"
+
+#. UI.HELP.CHANGEPAGE
+msgctxt "UI.HELP.CHANGEPAGE"
+msgid "Change Page"
+msgstr "Cambia pagina"
+
+#. UI.HELP.CHANGEVALUE
+msgctxt "UI.HELP.CHANGEVALUE"
+msgid "Change Value"
+msgstr "Cambia valore"
+
+#. UI.HELP.CHANGE_MESSAGE
+msgctxt "UI.HELP.CHANGE_MESSAGE"
+msgid "Change Message"
+msgstr "Modifica il messaggio"
+
+#. UI.HELP.CHANGE_TAB
+msgctxt "UI.HELP.CHANGE_TAB"
+msgid "Change Tab"
+msgstr "Cambia scheda"
+
+#. UI.HELP.CHANGE_TEXT
+msgctxt "UI.HELP.CHANGE_TEXT"
+msgid "Change Text"
+msgstr "Cambia testo"
+
+#. UI.HELP.CLOSE
+msgctxt "UI.HELP.CLOSE"
+msgid "Close"
+msgstr "Chiudi"
+
+#. UI.HELP.CONFIGURE
+msgctxt "UI.HELP.CONFIGURE"
+msgid "Configure"
+msgstr "Configura"
+
+#. UI.HELP.ENTER_TEXT
+msgctxt "UI.HELP.ENTER_TEXT"
+msgid "Enter Text"
+msgstr "Inserisci testo"
+
+#. UI.HELP.NEXT
+msgctxt "UI.HELP.NEXT"
+msgid "Next"
+msgstr "Prossimo"
+
+#. UI.HELP.NEXTPAGE
+msgctxt "UI.HELP.NEXTPAGE"
+msgid "Next Page"
+msgstr "Pagina successiva"
+
+#. UI.HELP.NEXTVALUE
+msgctxt "UI.HELP.NEXTVALUE"
+msgid "Next Value"
+msgstr "Valore successivo"
+
+#. UI.HELP.PREV
+msgctxt "UI.HELP.PREV"
+msgid "Previous"
+msgstr "Precedente"
+
+#. UI.HELP.PREVPAGE
+msgctxt "UI.HELP.PREVPAGE"
+msgid "Prev. Page"
+msgstr "Pagina precedente"
+
+#. UI.HELP.PREVVALUE
+msgctxt "UI.HELP.PREVVALUE"
+msgid "Previous Value"
+msgstr "Valore precedente"
+
+#. UI.HELP.RANDOM
+msgctxt "UI.HELP.RANDOM"
+msgid "Random"
+msgstr "Casuale"
+
+#. UI.HELP.REVERT
+msgctxt "UI.HELP.REVERT"
+msgid "Revert Changes"
+msgstr "Annulla modifiche"
+
+#. UI.HELP.ROTATE_LEFT
+msgctxt "UI.HELP.ROTATE_LEFT"
+msgid "Rotate Left"
+msgstr "Ruota a sinistra"
+
+#. UI.HELP.ROTATE_RIGHT
+msgctxt "UI.HELP.ROTATE_RIGHT"
+msgid "Rotate Right"
+msgstr "Ruota a destra"
+
+#. UI.HELP.SAVEPRESET
+msgctxt "UI.HELP.SAVEPRESET"
+msgid "Save Preset"
+msgstr "Salva configurazione"
+
+#. UI.HELP.SCROLL
+msgctxt "UI.HELP.SCROLL"
+msgid "Scroll"
+msgstr "Scorri"
+
+#. UI.HELP.SCROLLBACK
+msgctxt "UI.HELP.SCROLLBACK"
+msgid "Scroll Up"
+msgstr "Scorri in su"
+
+#. UI.HELP.SCROLLFWD
+msgctxt "UI.HELP.SCROLLFWD"
+msgid "Scroll Down"
+msgstr "Scorri in giù"
+
+#. UI.HELP.SELECT
+msgctxt "UI.HELP.SELECT"
+msgid "Select"
+msgstr "Seleziona"
+
+#. UI.HELP.SERVERACTIONS
+msgctxt "UI.HELP.SERVERACTIONS"
+msgid "More Server Actions"
+msgstr "Altre azioni del server"
+
+#. UI.HELP.SHOWCHAT
+msgctxt "UI.HELP.SHOWCHAT"
+msgid "Show the Chat Tab"
+msgstr "Mostra scheda della chat"
+
+#. UI.HELP.SHOWPLAYERS
+msgctxt "UI.HELP.SHOWPLAYERS"
+msgid "Show the Players Tab"
+msgstr "Mostra scheda dei giocatori"
+
+#. UI.HELP.TOGGLE
+msgctxt "UI.HELP.TOGGLE"
+msgid "Toggle"
+msgstr "Attiva/disattiva"
+
+#. UI.HELP.VIEWGROUP
+msgctxt "UI.HELP.VIEWGROUP"
+msgid "View Group Page"
+msgstr "Visualizza pagina gruppo"
+
+#. UI.HELP.ZOOM_IN
+msgctxt "UI.HELP.ZOOM_IN"
+msgid "Zoom In"
+msgstr "Avvicina"
+
+#. UI.HELP.ZOOM_OUT
+msgctxt "UI.HELP.ZOOM_OUT"
+msgid "Zoom Out"
+msgstr "Allontana"
+

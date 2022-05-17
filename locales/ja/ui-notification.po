@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.NOTIFICATION.BANNEDFROMGAME
+msgctxt "UI.NOTIFICATION.BANNEDFROMGAME"
+msgid "%s was banned from the game."
+msgstr "%sはゲームから追放されました。"
+
+#. UI.NOTIFICATION.CHECK_DAILY_GIFT
+msgctxt "UI.NOTIFICATION.CHECK_DAILY_GIFT"
+msgid "Checking for daily gifts"
+msgstr "日替わりプレゼントのチェック"
+
+#. UI.NOTIFICATION.CHECK_EVENT
+msgctxt "UI.NOTIFICATION.CHECK_EVENT"
+msgid "Catching up on current events"
+msgstr "時事問題をキャッチアップします"
+
+#. UI.NOTIFICATION.CHECK_INVENTORY
+msgctxt "UI.NOTIFICATION.CHECK_INVENTORY"
+msgid "Updating inventory"
+msgstr "インベントリの更新"
+
+#. UI.NOTIFICATION.CHECK_KEYVALUESTORES
+msgctxt "UI.NOTIFICATION.CHECK_KEYVALUESTORES"
+msgid "Grabbing profile details"
+msgstr "プロフィール詳細を取得中"
+
+#. UI.NOTIFICATION.CHECK_SHOP
+msgctxt "UI.NOTIFICATION.CHECK_SHOP"
+msgid "Updating the shop"
+msgstr "ショップの更新"
+
+#. UI.NOTIFICATION.CONNECTING
+msgctxt "UI.NOTIFICATION.CONNECTING"
+msgid "Connecting"
+msgstr "接続中…"
+
+#. UI.NOTIFICATION.CURRENTLY_SPEAKING
+msgctxt "UI.NOTIFICATION.CURRENTLY_SPEAKING"
+msgid "Currently Speaking..."
+msgstr "現在話しているのは..."
+
+#. UI.NOTIFICATION.DEFAULTVOTEFAILEDFMT
+msgctxt "UI.NOTIFICATION.DEFAULTVOTEFAILEDFMT"
+msgid "The %s has failed."
+msgstr "%sは、否決されました。"
+
+#. UI.NOTIFICATION.DEFAULTVOTENAMEFMT
+msgctxt "UI.NOTIFICATION.DEFAULTVOTENAMEFMT"
+msgid "vote"
+msgstr "投票"
+
+#. UI.NOTIFICATION.DEFAULTVOTEPASSEDFMT
+msgctxt "UI.NOTIFICATION.DEFAULTVOTEPASSEDFMT"
+msgid "The %s has passed."
+msgstr "%sはパスしました。"
+
+#. UI.NOTIFICATION.DICEROLLED
+msgctxt "UI.NOTIFICATION.DICEROLLED"
+msgid "%s rolls %s (1-%i)"
+msgstr "%sは%sを出しました(1-%i)"
+
+#. UI.NOTIFICATION.DISCONNECT_CONTROLLER
+msgctxt "UI.NOTIFICATION.DISCONNECT_CONTROLLER"
+msgid " to Disconnect"
+msgstr "で切断"
+
+#. UI.NOTIFICATION.DISCONNECT_KB
+msgctxt "UI.NOTIFICATION.DISCONNECT_KB"
+msgid ") to Disconnect"
+msgstr ")で切断"
+
+#. UI.NOTIFICATION.INITIALIZING_SERVER
+msgctxt "UI.NOTIFICATION.INITIALIZING_SERVER"
+msgid "Initializing Server"
+msgstr "サーバー開始中"
+
+#. UI.NOTIFICATION.JOINEDGAME
+msgctxt "UI.NOTIFICATION.JOINEDGAME"
+msgid "%s has joined the game."
+msgstr "%sがゲームに参加。"
+
+#. UI.NOTIFICATION.KICKEDFROMGAME
+msgctxt "UI.NOTIFICATION.KICKEDFROMGAME"
+msgid "%s was kicked from the game."
+msgstr "%sはゲームから一時追放されました。"
+
+#. UI.NOTIFICATION.LAUNCHING_SERVER
+msgctxt "UI.NOTIFICATION.LAUNCHING_SERVER"
+msgid "Launching Server"
+msgstr "サーバー起動中"
+
+#. UI.NOTIFICATION.LEFTGAME
+msgctxt "UI.NOTIFICATION.LEFTGAME"
+msgid "%s has left the game."
+msgstr "%sがゲームから退出。"
+
+#. UI.NOTIFICATION.LOADING
+msgctxt "UI.NOTIFICATION.LOADING"
+msgid "Loading"
+msgstr "Loading"
+
+#. UI.NOTIFICATION.LOGIN
+msgctxt "UI.NOTIFICATION.LOGIN"
+msgid "Logging in"
+msgstr "ログイン中"
+
+#. UI.NOTIFICATION.NEW_SKIN_ANNOUNCEMENT
+msgctxt "UI.NOTIFICATION.NEW_SKIN_ANNOUNCEMENT"
+msgid "%s got a new skin: "
+msgstr "%sが新しいスキンを入手： "
+
+#. UI.NOTIFICATION.PRESS_CONTROLLER
+msgctxt "UI.NOTIFICATION.PRESS_CONTROLLER"
+msgid "Press "
+msgstr "PRESS"
+
+#. UI.NOTIFICATION.PRESS_KB
+msgctxt "UI.NOTIFICATION.PRESS_KB"
+msgid "Press ("
+msgstr "PRESS ("
+
+#. UI.NOTIFICATION.RESTORING
+msgctxt "UI.NOTIFICATION.RESTORING"
+msgid "Restoring Backup"
+msgstr "バックアップの復元"
+
+#. UI.NOTIFICATION.RETRYING
+msgctxt "UI.NOTIFICATION.RETRYING"
+msgid "Retrying"
+msgstr "再試行"
+
+#. UI.NOTIFICATION.SERVER_WORLDGEN
+msgctxt "UI.NOTIFICATION.SERVER_WORLDGEN"
+msgid "Server is Generating World"
+msgstr "ワールドを生成中"
+
+#. UI.NOTIFICATION.WORLDGENERATING_SERVER
+msgctxt "UI.NOTIFICATION.WORLDGENERATING_SERVER"
+msgid "Generating World"
+msgstr "ワールドを生成中"
+

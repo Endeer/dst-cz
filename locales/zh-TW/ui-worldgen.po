@@ -1,0 +1,330 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.WORLDGEN.CAVETITLE
+msgctxt "UI.WORLDGEN.CAVETITLE"
+msgid "CARVING OUT CAVE"
+msgstr "正在鑿刻洞穴"
+
+#. UI.WORLDGEN.NOUNS.1
+msgctxt "UI.WORLDGEN.NOUNS.1"
+msgid "trees..."
+msgstr "樹木..."
+
+#. UI.WORLDGEN.NOUNS.10
+msgctxt "UI.WORLDGEN.NOUNS.10"
+msgid "Abigail's ectoplasm..."
+msgstr "阿比蓋爾的靈質..."
+
+#. UI.WORLDGEN.NOUNS.11
+msgctxt "UI.WORLDGEN.NOUNS.11"
+msgid "Webber's fur..."
+msgstr "韋伯的毛皮…"
+
+#. UI.WORLDGEN.NOUNS.12
+msgctxt "UI.WORLDGEN.NOUNS.12"
+msgid "Wolfgang's moustache..."
+msgstr "沃爾夫岡的鬍鬚…"
+
+#. UI.WORLDGEN.NOUNS.13
+msgctxt "UI.WORLDGEN.NOUNS.13"
+msgid "Wickerbottom's glasses..."
+msgstr "薇克巴頓的眼鏡…"
+
+#. UI.WORLDGEN.NOUNS.14
+msgctxt "UI.WORLDGEN.NOUNS.14"
+msgid "Wigfrid's umlauts..."
+msgstr "薇格弗德的字體..."
+
+#. UI.WORLDGEN.NOUNS.15
+msgctxt "UI.WORLDGEN.NOUNS.15"
+msgid "Willow's teddy bear..."
+msgstr "薇洛的泰迪熊…"
+
+#. UI.WORLDGEN.NOUNS.16
+msgctxt "UI.WORLDGEN.NOUNS.16"
+msgid "Woodie's plaid..."
+msgstr "伍迪的格子襯衫…"
+
+#. UI.WORLDGEN.NOUNS.17
+msgctxt "UI.WORLDGEN.NOUNS.17"
+msgid "WX-78's gears..."
+msgstr "WX-78的齒輪…"
+
+#. UI.WORLDGEN.NOUNS.18
+msgctxt "UI.WORLDGEN.NOUNS.18"
+msgid "Winona's tools..."
+msgstr "薇諾娜的工具…"
+
+#. UI.WORLDGEN.NOUNS.19
+msgctxt "UI.WORLDGEN.NOUNS.19"
+msgid "Wortox's hooves..."
+msgstr "沃拓克斯的蹄子..."
+
+#. UI.WORLDGEN.NOUNS.2
+msgctxt "UI.WORLDGEN.NOUNS.2"
+msgid "pathos..."
+msgstr "情感..."
+
+#. UI.WORLDGEN.NOUNS.20
+msgctxt "UI.WORLDGEN.NOUNS.20"
+msgid "Wormwood's leaves..."
+msgstr "沃姆伍德的葉子..."
+
+#. UI.WORLDGEN.NOUNS.21
+msgctxt "UI.WORLDGEN.NOUNS.21"
+msgid "Warly's spices..."
+msgstr "沃利的調味品..."
+
+#. UI.WORLDGEN.NOUNS.22
+msgctxt "UI.WORLDGEN.NOUNS.22"
+msgid "a monarch's sorrow..."
+msgstr "帝王的悲傷…"
+
+#. UI.WORLDGEN.NOUNS.23
+msgctxt "UI.WORLDGEN.NOUNS.23"
+msgid "an inescapable nostalgia..."
+msgstr "揮之不去的鄉愁…"
+
+#. UI.WORLDGEN.NOUNS.24
+msgctxt "UI.WORLDGEN.NOUNS.24"
+msgid "gold and marble..."
+msgstr "黃金和大理石…"
+
+#. UI.WORLDGEN.NOUNS.25
+msgctxt "UI.WORLDGEN.NOUNS.25"
+msgid "thorns..."
+msgstr "尖刺…"
+
+#. UI.WORLDGEN.NOUNS.26
+msgctxt "UI.WORLDGEN.NOUNS.26"
+msgid "unbreakable bonds..."
+msgstr "牢不可破的聯繫…"
+
+#. UI.WORLDGEN.NOUNS.27
+msgctxt "UI.WORLDGEN.NOUNS.27"
+msgid "intense friendship..."
+msgstr "深厚的友誼…"
+
+#. UI.WORLDGEN.NOUNS.28
+msgctxt "UI.WORLDGEN.NOUNS.28"
+msgid "common goals..."
+msgstr "共同目標…"
+
+#. UI.WORLDGEN.NOUNS.29
+msgctxt "UI.WORLDGEN.NOUNS.29"
+msgid "a comforting togetherness..."
+msgstr "歡樂相聚…"
+
+#. UI.WORLDGEN.NOUNS.3
+msgctxt "UI.WORLDGEN.NOUNS.3"
+msgid "pines..."
+msgstr "松樹..."
+
+#. UI.WORLDGEN.NOUNS.30
+msgctxt "UI.WORLDGEN.NOUNS.30"
+msgid "buckets and buckets of loot..."
+msgstr "成桶的戰利品..."
+
+#. UI.WORLDGEN.NOUNS.31
+msgctxt "UI.WORLDGEN.NOUNS.31"
+msgid "game theory..."
+msgstr "遊戲理論..."
+
+#. UI.WORLDGEN.NOUNS.32
+msgctxt "UI.WORLDGEN.NOUNS.32"
+msgid "poignant tragedy..."
+msgstr "心酸的悲劇…"
+
+#. UI.WORLDGEN.NOUNS.33
+msgctxt "UI.WORLDGEN.NOUNS.33"
+msgid "a hint of shadow..."
+msgstr "一絲幽影…"
+
+#. UI.WORLDGEN.NOUNS.34
+msgctxt "UI.WORLDGEN.NOUNS.34"
+msgid "food..."
+msgstr "食物..."
+
+#. UI.WORLDGEN.NOUNS.35
+msgctxt "UI.WORLDGEN.NOUNS.35"
+msgid "lovely roses..."
+msgstr "可愛的玫瑰…"
+
+#. UI.WORLDGEN.NOUNS.36
+msgctxt "UI.WORLDGEN.NOUNS.36"
+msgid "gems..."
+msgstr "寶石…"
+
+#. UI.WORLDGEN.NOUNS.37
+msgctxt "UI.WORLDGEN.NOUNS.37"
+msgid "souls..."
+msgstr "靈魂..."
+
+#. UI.WORLDGEN.NOUNS.38
+msgctxt "UI.WORLDGEN.NOUNS.38"
+msgid "unspeakable things..."
+msgstr "無法言說的事情…"
+
+#. UI.WORLDGEN.NOUNS.39
+msgctxt "UI.WORLDGEN.NOUNS.39"
+msgid "primal instincts..."
+msgstr "原始本能…"
+
+#. UI.WORLDGEN.NOUNS.4
+msgctxt "UI.WORLDGEN.NOUNS.4"
+msgid "spiders..."
+msgstr "蜘蛛..."
+
+#. UI.WORLDGEN.NOUNS.40
+msgctxt "UI.WORLDGEN.NOUNS.40"
+msgid "terrible darkness..."
+msgstr "可怕的黑暗…"
+
+#. UI.WORLDGEN.NOUNS.41
+msgctxt "UI.WORLDGEN.NOUNS.41"
+msgid "a touch of magic..."
+msgstr "一點魔法…"
+
+#. UI.WORLDGEN.NOUNS.5
+msgctxt "UI.WORLDGEN.NOUNS.5"
+msgid "monsters..."
+msgstr "怪物..."
+
+#. UI.WORLDGEN.NOUNS.6
+msgctxt "UI.WORLDGEN.NOUNS.6"
+msgid "a keen sense of despair..."
+msgstr "強烈的絕望感..."
+
+#. UI.WORLDGEN.NOUNS.7
+msgctxt "UI.WORLDGEN.NOUNS.7"
+msgid "Wilson's beard..."
+msgstr "威爾遜的鬍鬚..."
+
+#. UI.WORLDGEN.NOUNS.8
+msgctxt "UI.WORLDGEN.NOUNS.8"
+msgid "Maxwell's pocket squares..."
+msgstr "麥斯威爾的口袋方巾..."
+
+#. UI.WORLDGEN.NOUNS.9
+msgctxt "UI.WORLDGEN.NOUNS.9"
+msgid "Wendy's pigtails..."
+msgstr "溫蒂的辮子…"
+
+#. UI.WORLDGEN.TITLE
+msgctxt "UI.WORLDGEN.TITLE"
+msgid "GENERATING WORLD"
+msgstr "正在生成世界"
+
+#. UI.WORLDGEN.VERBS.1
+msgctxt "UI.WORLDGEN.VERBS.1"
+msgid "Wrangling"
+msgstr "正在放牧"
+
+#. UI.WORLDGEN.VERBS.10
+msgctxt "UI.WORLDGEN.VERBS.10"
+msgid "Crafting"
+msgstr "正在製作"
+
+#. UI.WORLDGEN.VERBS.11
+msgctxt "UI.WORLDGEN.VERBS.11"
+msgid "Imbuing"
+msgstr "正在灌輸"
+
+#. UI.WORLDGEN.VERBS.12
+msgctxt "UI.WORLDGEN.VERBS.12"
+msgid "Randomizing"
+msgstr "正在隨機化"
+
+#. UI.WORLDGEN.VERBS.13
+msgctxt "UI.WORLDGEN.VERBS.13"
+msgid "Redecorating"
+msgstr "正在重新裝飾"
+
+#. UI.WORLDGEN.VERBS.14
+msgctxt "UI.WORLDGEN.VERBS.14"
+msgid "Sprucing up"
+msgstr "正在打扮整齊"
+
+#. UI.WORLDGEN.VERBS.15
+msgctxt "UI.WORLDGEN.VERBS.15"
+msgid "Manifesting"
+msgstr "正在顯示"
+
+#. UI.WORLDGEN.VERBS.16
+msgctxt "UI.WORLDGEN.VERBS.16"
+msgid "Summoning"
+msgstr "正在召喚"
+
+#. UI.WORLDGEN.VERBS.17
+msgctxt "UI.WORLDGEN.VERBS.17"
+msgid "Compiling"
+msgstr "正在編譯"
+
+#. UI.WORLDGEN.VERBS.18
+msgctxt "UI.WORLDGEN.VERBS.18"
+msgid "Building"
+msgstr "正在建造"
+
+#. UI.WORLDGEN.VERBS.19
+msgctxt "UI.WORLDGEN.VERBS.19"
+msgid "Spawning"
+msgstr "正在繁殖"
+
+#. UI.WORLDGEN.VERBS.2
+msgctxt "UI.WORLDGEN.VERBS.2"
+msgid "Generating"
+msgstr "正在生成"
+
+#. UI.WORLDGEN.VERBS.20
+msgctxt "UI.WORLDGEN.VERBS.20"
+msgid "Rendering"
+msgstr "正在渲染"
+
+#. UI.WORLDGEN.VERBS.21
+msgctxt "UI.WORLDGEN.VERBS.21"
+msgid "Enchanting"
+msgstr "正在附魔"
+
+#. UI.WORLDGEN.VERBS.22
+msgctxt "UI.WORLDGEN.VERBS.22"
+msgid "Solving"
+msgstr "正在解決"
+
+#. UI.WORLDGEN.VERBS.3
+msgctxt "UI.WORLDGEN.VERBS.3"
+msgid "Herding"
+msgstr "正在召集"
+
+#. UI.WORLDGEN.VERBS.4
+msgctxt "UI.WORLDGEN.VERBS.4"
+msgid "Embiggening"
+msgstr "正在擴大"
+
+#. UI.WORLDGEN.VERBS.5
+msgctxt "UI.WORLDGEN.VERBS.5"
+msgid "Iterating upon"
+msgstr "正在複製"
+
+#. UI.WORLDGEN.VERBS.6
+msgctxt "UI.WORLDGEN.VERBS.6"
+msgid "Insinuating"
+msgstr "正在暗示"
+
+#. UI.WORLDGEN.VERBS.7
+msgctxt "UI.WORLDGEN.VERBS.7"
+msgid "Reticulating"
+msgstr "正在網狀劃分"
+
+#. UI.WORLDGEN.VERBS.8
+msgctxt "UI.WORLDGEN.VERBS.8"
+msgid "Inserting"
+msgstr "正在插入"
+
+#. UI.WORLDGEN.VERBS.9
+msgctxt "UI.WORLDGEN.VERBS.9"
+msgid "Framing"
+msgstr "正在構造"
+

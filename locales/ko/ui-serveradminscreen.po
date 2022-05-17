@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.SERVERADMINSCREEN.APPLY
+msgctxt "UI.SERVERADMINSCREEN.APPLY"
+msgid "Apply"
+msgstr "적용"
+
+#. UI.SERVERADMINSCREEN.BACK
+msgctxt "UI.SERVERADMINSCREEN.BACK"
+msgid "Back"
+msgstr "뒤로"
+
+#. UI.SERVERADMINSCREEN.BANNED
+msgctxt "UI.SERVERADMINSCREEN.BANNED"
+msgid "Banned on "
+msgstr "차단일: "
+
+#. UI.SERVERADMINSCREEN.BANNED_PLAYERS_HEADER
+msgctxt "UI.SERVERADMINSCREEN.BANNED_PLAYERS_HEADER"
+msgid "Banned Players"
+msgstr "차단된 플레이어"
+
+#. UI.SERVERADMINSCREEN.CANCEL
+msgctxt "UI.SERVERADMINSCREEN.CANCEL"
+msgid "Cancel"
+msgstr "취소"
+
+#. UI.SERVERADMINSCREEN.CLEAR_LIST_BODY
+msgctxt "UI.SERVERADMINSCREEN.CLEAR_LIST_BODY"
+msgid "Do you want to delete all banned players?\nThis will affect all servers you create."
+msgstr "차단한 플레이어를 전원 삭제하시겠습니까?\n이는 귀하가 생성하는 모든 서버에 영향을 줍니다."
+
+#. UI.SERVERADMINSCREEN.CLEAR_LIST_TITLE
+msgctxt "UI.SERVERADMINSCREEN.CLEAR_LIST_TITLE"
+msgid "Unban all?"
+msgstr "모두 차단 해제하시겠습니까?"
+
+#. UI.SERVERADMINSCREEN.CLEAR_PLAYERS
+msgctxt "UI.SERVERADMINSCREEN.CLEAR_PLAYERS"
+msgid "Unban All"
+msgstr "모두 차단 해제"
+
+#. UI.SERVERADMINSCREEN.DATE
+msgctxt "UI.SERVERADMINSCREEN.DATE"
+msgid "Date"
+msgstr "날짜"
+
+#. UI.SERVERADMINSCREEN.DAY
+msgctxt "UI.SERVERADMINSCREEN.DAY"
+msgid "Day"
+msgstr "일"
+
+#. UI.SERVERADMINSCREEN.DAY_UNKNOWN
+msgctxt "UI.SERVERADMINSCREEN.DAY_UNKNOWN"
+msgid "Unknown Day"
+msgstr "알 수 없는 날"
+
+#. UI.SERVERADMINSCREEN.DAY_V2
+msgctxt "UI.SERVERADMINSCREEN.DAY_V2"
+msgid "Day {day_count}"
+msgstr "제{day_count}일"
+
+#. UI.SERVERADMINSCREEN.DELETE_ENTRY_BODY
+msgctxt "UI.SERVERADMINSCREEN.DELETE_ENTRY_BODY"
+msgid "Do you want to delete \""
+msgstr "\""
+
+#. UI.SERVERADMINSCREEN.DELETE_ENTRY_BODY_2
+msgctxt "UI.SERVERADMINSCREEN.DELETE_ENTRY_BODY_2"
+msgid "\" from your ban list?\nThis will affect all servers you create."
+msgstr "\"을(를) 차단 목록에서 삭제하시겠습니까?\n이는 귀하가 생성하는 모든 서버에 영향을 줍니다."
+
+#. UI.SERVERADMINSCREEN.DELETE_ENTRY_TITLE
+msgctxt "UI.SERVERADMINSCREEN.DELETE_ENTRY_TITLE"
+msgid "Unban Player?"
+msgstr "플레이어를 차단 해제하시겠습니까?"
+
+#. UI.SERVERADMINSCREEN.EMPTY_SLOT
+msgctxt "UI.SERVERADMINSCREEN.EMPTY_SLOT"
+msgid "EMPTY"
+msgstr "비었음"
+
+#. UI.SERVERADMINSCREEN.EMPTY_SLOT_TITLE
+msgctxt "UI.SERVERADMINSCREEN.EMPTY_SLOT_TITLE"
+msgid "Empty Slot"
+msgstr "빈 슬롯"
+
+#. UI.SERVERADMINSCREEN.HEADER_DAY
+msgctxt "UI.SERVERADMINSCREEN.HEADER_DAY"
+msgid "Restore Day {day_count}"
+msgstr "제{day_count}일 복구"
+
+#. UI.SERVERADMINSCREEN.HEADER_DAY_UNKNOWN
+msgctxt "UI.SERVERADMINSCREEN.HEADER_DAY_UNKNOWN"
+msgid "Restore Unknown Day"
+msgstr "알 수 없는 날 복구"
+
+#. UI.SERVERADMINSCREEN.LOSE_CHANGES_BODY
+msgctxt "UI.SERVERADMINSCREEN.LOSE_CHANGES_BODY"
+msgid "Do you want abandon your changes?"
+msgstr "변경 사항을 취소하시겠습니까?"
+
+#. UI.SERVERADMINSCREEN.LOSE_CHANGES_TITLE
+msgctxt "UI.SERVERADMINSCREEN.LOSE_CHANGES_TITLE"
+msgid "Lose Changes?"
+msgstr "변경 사항 취소"
+
+#. UI.SERVERADMINSCREEN.NO
+msgctxt "UI.SERVERADMINSCREEN.NO"
+msgid "No"
+msgstr "아니요"
+
+#. UI.SERVERADMINSCREEN.NO_PLAYER_SELECTED
+msgctxt "UI.SERVERADMINSCREEN.NO_PLAYER_SELECTED"
+msgid "No Player Selected"
+msgstr "선택한 플레이어 없음"
+
+#. UI.SERVERADMINSCREEN.PLAYER
+msgctxt "UI.SERVERADMINSCREEN.PLAYER"
+msgid "Player"
+msgstr "플레이어"
+
+#. UI.SERVERADMINSCREEN.PLAYER_DELETE
+msgctxt "UI.SERVERADMINSCREEN.PLAYER_DELETE"
+msgid "Unban"
+msgstr "차단 해제"
+
+#. UI.SERVERADMINSCREEN.PLAYER_DETAILS
+msgctxt "UI.SERVERADMINSCREEN.PLAYER_DETAILS"
+msgid "View Details"
+msgstr "세부 사항 보기"
+
+#. UI.SERVERADMINSCREEN.RESTORE_SNAPSHOT
+msgctxt "UI.SERVERADMINSCREEN.RESTORE_SNAPSHOT"
+msgid "Restore Snapshot"
+msgstr "스냅샷 복원"
+
+#. UI.SERVERADMINSCREEN.RESTORE_SNAPSHOT_BODY
+msgctxt "UI.SERVERADMINSCREEN.RESTORE_SNAPSHOT_BODY"
+msgid "Do you want to restore this save? You will lose all changes made to the world past the selected day, as well as all subsequent saves. This cannot be undone."
+msgstr "이 저장 항목을 복원하시겠습니까? 선택한 날짜 이후의 모든 변경 사항 및 그 이후의 저장 항목들 전부 잃게 됩니다. 이 작업은 취소할 수 없습니다."
+
+#. UI.SERVERADMINSCREEN.RESTORE_SNAPSHOT_HEADER
+msgctxt "UI.SERVERADMINSCREEN.RESTORE_SNAPSHOT_HEADER"
+msgid "Restore %s"
+msgstr "%s 복원"
+
+#. UI.SERVERADMINSCREEN.SERVER_DESCRIPTION
+msgctxt "UI.SERVERADMINSCREEN.SERVER_DESCRIPTION"
+msgid "Server Description:"
+msgstr "서버 설명:"
+
+#. UI.SERVERADMINSCREEN.SERVER_NAME
+msgctxt "UI.SERVERADMINSCREEN.SERVER_NAME"
+msgid "Server Name:"
+msgstr "서버 이름:"
+
+#. UI.SERVERADMINSCREEN.SNAPSHOTS_TITLE
+msgctxt "UI.SERVERADMINSCREEN.SNAPSHOTS_TITLE"
+msgid "Snapshots: "
+msgstr "스냅샷: "
+
+#. UI.SERVERADMINSCREEN.SYSTEMMESSAGE
+msgctxt "UI.SERVERADMINSCREEN.SYSTEMMESSAGE"
+msgid "Server"
+msgstr "서버"
+
+#. UI.SERVERADMINSCREEN.UNDO_PLAYERS
+msgctxt "UI.SERVERADMINSCREEN.UNDO_PLAYERS"
+msgid "Undo All"
+msgstr "모두 실행 취소"
+
+#. UI.SERVERADMINSCREEN.UNKNOWN
+msgctxt "UI.SERVERADMINSCREEN.UNKNOWN"
+msgid "Unknown"
+msgstr "알 수 없음"
+
+#. UI.SERVERADMINSCREEN.UNKNOWN_DATE
+msgctxt "UI.SERVERADMINSCREEN.UNKNOWN_DATE"
+msgid "????-??-??"
+msgstr "????-??-??"
+
+#. UI.SERVERADMINSCREEN.UNKNOWN_DAY
+msgctxt "UI.SERVERADMINSCREEN.UNKNOWN_DAY"
+msgid "???"
+msgstr "???"
+
+#. UI.SERVERADMINSCREEN.UNKNOWN_DAY_PS4
+msgctxt "UI.SERVERADMINSCREEN.UNKNOWN_DAY_PS4"
+msgid "Creation of the World"
+msgstr "세계 생성"
+
+#. UI.SERVERADMINSCREEN.UNKNOWN_USER_NAME
+msgctxt "UI.SERVERADMINSCREEN.UNKNOWN_USER_NAME"
+msgid "[unknown]"
+msgstr "[알 수 없음]"
+
+#. UI.SERVERADMINSCREEN.YES
+msgctxt "UI.SERVERADMINSCREEN.YES"
+msgid "Yes"
+msgstr "예"
+

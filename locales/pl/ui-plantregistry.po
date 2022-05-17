@@ -1,0 +1,295 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.PLANTREGISTRY.DESCRIPTIONS.ASPARAGUS
+msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.ASPARAGUS"
+msgid "Green spears of vegetabley goodness. -W"
+msgstr "Zielone, długie i smakowite. - W."
+
+#. UI.PLANTREGISTRY.DESCRIPTIONS.CARROT
+msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.CARROT"
+msgid "The perennial favorite of Bunnymen. -W"
+msgstr "Odwieczny przysmak królikoludzi. - W."
+
+#. UI.PLANTREGISTRY.DESCRIPTIONS.CORN
+msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.CORN"
+msgid "An a-maize-ingly versatile crop. -W"
+msgstr "Niezwykle wszechstronna roślina. - W."
+
+#. UI.PLANTREGISTRY.DESCRIPTIONS.DRAGONFRUIT
+msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.DRAGONFRUIT"
+msgid "Produces a delectable fruit with a striking appearance. -W"
+msgstr "Rodzi pyszne owoce o zaskakującym wyglądzie. - W."
+
+#. UI.PLANTREGISTRY.DESCRIPTIONS.DURIAN
+msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.DURIAN"
+msgid "A foul smelling fruit, favored by a certain green swamp dweller. -W"
+msgstr "Brzydko pachnący owoc, ceniony przez pewną mieszkankę zielonych bagnisk. - W."
+
+#. UI.PLANTREGISTRY.DESCRIPTIONS.EGGPLANT
+msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.EGGPLANT"
+msgid "Zero percent egg, ninety-nine percent plant. Science has yet to explain the rest. -W"
+msgstr "Bakłażan zwany jest również jajkiem krzewiastym. Naukowcy wciąż badają zawartość jajka w bakłażanie. - W."
+
+#. UI.PLANTREGISTRY.DESCRIPTIONS.GARLIC
+msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.GARLIC"
+msgid "Cloves of garlic pair well with a nice stake. -W"
+msgstr "Ząbki czosnku doskonale komponują się ze stekiem. - W."
+
+#. UI.PLANTREGISTRY.DESCRIPTIONS.MISSING
+msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.MISSING"
+msgid "Unknown"
+msgstr "Nieznany"
+
+#. UI.PLANTREGISTRY.DESCRIPTIONS.ONION
+msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.ONION"
+msgid "A ripe onion plant is enough to bring tears of delight to any gardener. -W"
+msgstr "Dojrzałe cebule potrafią wzruszyć każdego ogrodnika. - W."
+
+#. UI.PLANTREGISTRY.DESCRIPTIONS.PEPPER
+msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.PEPPER"
+msgid "A hot pepper plant is the perfect thing to spice up your garden. -W"
+msgstr "Ostra papryczka doda każdemu ogródkowi nieco pikanterii. - W."
+
+#. UI.PLANTREGISTRY.DESCRIPTIONS.POMEGRANATE
+msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.POMEGRANATE"
+msgid "Never take the juicy sweetness of a pom for granate. -W"
+msgstr "Poczuj eksplozję smaków. - W."
+
+#. UI.PLANTREGISTRY.DESCRIPTIONS.POTATO
+msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.POTATO"
+msgid "Sturdy, dependable, and loved by moustachioed strongmen. -W"
+msgstr "Solidny, niezawodny i uwielbiany przez siłaczy z wąsem. - W."
+
+#. UI.PLANTREGISTRY.DESCRIPTIONS.PUMPKIN
+msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.PUMPKIN"
+msgid "Compared to other gourds, the pumpkin plant squashes the competition. -W"
+msgstr "W porównaniu z innymi tykwami dynia bije konkurencję na... dyńkę. - W."
+
+#. UI.PLANTREGISTRY.DESCRIPTIONS.TOMATO
+msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.TOMATO"
+msgid "Tomatoes are an excellent source of vitamins, and make for a convenient projectile. -W"
+msgstr "Pomidory są doskonałym źródłem witamin oraz świetnie sprawdzają się jako pociski. - W."
+
+#. UI.PLANTREGISTRY.DESCRIPTIONS.WATERMELON
+msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.WATERMELON"
+msgid "Fifty percent water, fifty percent melon. -W"
+msgstr "Pięćdziesiąt procent wody, pięćdziesiąt procent arbuza. - W."
+
+#. UI.PLANTREGISTRY.EFFECTS.NONE
+msgctxt "UI.PLANTREGISTRY.EFFECTS.NONE"
+msgid "None"
+msgstr "Brak"
+
+#. UI.PLANTREGISTRY.EFFECTS.WEED_FIRENETTLE
+msgctxt "UI.PLANTREGISTRY.EFFECTS.WEED_FIRENETTLE"
+msgid "These nettles can cause quite the burning sensation."
+msgstr "Te pokrzywy wywierają prawdziwie piekące wrażenie."
+
+#. UI.PLANTREGISTRY.EFFECTS.WEED_FORGETMELOTS
+msgctxt "UI.PLANTREGISTRY.EFFECTS.WEED_FORGETMELOTS"
+msgid "Has a tendency to come back when dug up."
+msgstr "Mają tendencję do wyrastania z powrotem w miejscu, z którego zostały wykopane."
+
+#. UI.PLANTREGISTRY.EFFECTS.WEED_IVY
+msgctxt "UI.PLANTREGISTRY.EFFECTS.WEED_IVY"
+msgid "Attacks survivors when they disturb a nearby plant"
+msgstr "Atakuje rozbitków, gdy zakłócą spokój pobliskiej rośliny."
+
+#. UI.PLANTREGISTRY.EFFECTS.WEED_TILLWEED
+msgctxt "UI.PLANTREGISTRY.EFFECTS.WEED_TILLWEED"
+msgid "Its roots make a real mess of things, but its flowers are said to have healing properties."
+msgstr "Jego gałęzie tworzą straszny bałagan, ale podobno kwiaty mają właściwości lecznicze."
+
+#. UI.PLANTREGISTRY.FARMPLANTS.DESCRIPTION
+msgctxt "UI.PLANTREGISTRY.FARMPLANTS.DESCRIPTION"
+msgid "Field Notes"
+msgstr "Notatki polowe"
+
+#. UI.PLANTREGISTRY.FARMPLANTS.NUTRIENTS
+msgctxt "UI.PLANTREGISTRY.FARMPLANTS.NUTRIENTS"
+msgid "Nutrient Cycling"
+msgstr "Cykliczna zmiana składników odżywczych"
+
+#. UI.PLANTREGISTRY.FARMPLANTS.PRODUCT
+msgctxt "UI.PLANTREGISTRY.FARMPLANTS.PRODUCT"
+msgid "Product"
+msgstr "Produkt"
+
+#. UI.PLANTREGISTRY.FARMPLANTS.SEASONS
+msgctxt "UI.PLANTREGISTRY.FARMPLANTS.SEASONS"
+msgid "Seasons"
+msgstr "Pory roku"
+
+#. UI.PLANTREGISTRY.FARMPLANTS.SEED
+msgctxt "UI.PLANTREGISTRY.FARMPLANTS.SEED"
+msgid "Seed"
+msgstr "Nasiona"
+
+#. UI.PLANTREGISTRY.FARMPLANTS.WATER
+msgctxt "UI.PLANTREGISTRY.FARMPLANTS.WATER"
+msgid "Water Consumption"
+msgstr "Zużycie wody"
+
+#. UI.PLANTREGISTRY.MYSTERY_FERTILIZER
+msgctxt "UI.PLANTREGISTRY.MYSTERY_FERTILIZER"
+msgid "Unknown Fertilizer"
+msgstr "Nieznany nawóz"
+
+#. UI.PLANTREGISTRY.MYSTERY_PLANT
+msgctxt "UI.PLANTREGISTRY.MYSTERY_PLANT"
+msgid "Unknown Plant"
+msgstr "Nieznana roślina"
+
+#. UI.PLANTREGISTRY.NEEDSMORERESEARCH
+msgctxt "UI.PLANTREGISTRY.NEEDSMORERESEARCH"
+msgid "Unknown"
+msgstr "Nieznany"
+
+#. UI.PLANTREGISTRY.NEEDSPLANTRESEARCH
+msgctxt "UI.PLANTREGISTRY.NEEDSPLANTRESEARCH"
+msgid "Research this plant with the Gardeneer Hat to learn more about it."
+msgstr "Zbadaj tę roślinę za pomocą czapki ogrodnika, aby dowiedzieć się o niej więcej."
+
+#. UI.PLANTREGISTRY.NUTRIENTS.CONSUME
+msgctxt "UI.PLANTREGISTRY.NUTRIENTS.CONSUME"
+msgid "Consumes "
+msgstr "Zużywa "
+
+#. UI.PLANTREGISTRY.NUTRIENTS.NEUTRAL
+msgctxt "UI.PLANTREGISTRY.NUTRIENTS.NEUTRAL"
+msgid "Doesn't affect "
+msgstr "Nie wpływa na "
+
+#. UI.PLANTREGISTRY.NUTRIENTS.NUTRIENT_1
+msgctxt "UI.PLANTREGISTRY.NUTRIENTS.NUTRIENT_1"
+msgid "Growth Formula"
+msgstr "Wzrastacz"
+
+#. UI.PLANTREGISTRY.NUTRIENTS.NUTRIENT_2
+msgctxt "UI.PLANTREGISTRY.NUTRIENTS.NUTRIENT_2"
+msgid "Compost"
+msgstr "Kompost"
+
+#. UI.PLANTREGISTRY.NUTRIENTS.NUTRIENT_3
+msgctxt "UI.PLANTREGISTRY.NUTRIENTS.NUTRIENT_3"
+msgid "Manure"
+msgstr "Kupa"
+
+#. UI.PLANTREGISTRY.NUTRIENTS.RESTORE
+msgctxt "UI.PLANTREGISTRY.NUTRIENTS.RESTORE"
+msgid "Restores "
+msgstr "Przywraca "
+
+#. UI.PLANTREGISTRY.ONLINE_DATA_DOWNLOAD_FAILED
+msgctxt "UI.PLANTREGISTRY.ONLINE_DATA_DOWNLOAD_FAILED"
+msgid "Failed to sync online plant registry data."
+msgstr "Nie udało się zsynchronizować danych sieciowych rejestru roślin."
+
+#. UI.PLANTREGISTRY.ONLINE_DATA_USER_OFFLINE
+msgctxt "UI.PLANTREGISTRY.ONLINE_DATA_USER_OFFLINE"
+msgid "Login to retrieve online plant registry data."
+msgstr "Zaloguj się, aby odzyskać dane sieciowe rejestru roślin."
+
+#. UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.BOLTING
+msgctxt "UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.BOLTING"
+msgid "Bolting"
+msgstr "Przekwitnięta"
+
+#. UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.GROWN
+msgctxt "UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.GROWN"
+msgid "Grown"
+msgstr "Wyrośnięta"
+
+#. UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.MEDIUM
+msgctxt "UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.MEDIUM"
+msgid "Medium"
+msgstr "Średni"
+
+#. UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.OVERSIZED
+msgctxt "UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.OVERSIZED"
+msgid "Giant"
+msgstr "Olbrzymia"
+
+#. UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.OVERSIZED_ROTTING
+msgctxt "UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.OVERSIZED_ROTTING"
+msgid "Rotting"
+msgstr "Gnijąca"
+
+#. UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.PICKED
+msgctxt "UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.PICKED"
+msgid "Picked"
+msgstr "Zebrana"
+
+#. UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.ROTTING
+msgctxt "UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.ROTTING"
+msgid "Rotting"
+msgstr "Gnijąca"
+
+#. UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.SEED
+msgctxt "UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.SEED"
+msgid "Seed"
+msgstr "Nasiona"
+
+#. UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.SMALL
+msgctxt "UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.SMALL"
+msgid "Small"
+msgstr "Mały/a/e"
+
+#. UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.SPROUT
+msgctxt "UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.SPROUT"
+msgid "Sprout"
+msgstr "Kiełkowanie"
+
+#. UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.SUMMARY
+msgctxt "UI.PLANTREGISTRY.PLANT_GROWTH_STAGES.SUMMARY"
+msgid "Summary"
+msgstr "Podsumowanie"
+
+#. UI.PLANTREGISTRY.TAB_TITLE_FERTILIZERS
+msgctxt "UI.PLANTREGISTRY.TAB_TITLE_FERTILIZERS"
+msgid "Fertilizers"
+msgstr "Nawozy"
+
+#. UI.PLANTREGISTRY.TAB_TITLE_MOD_FERTILIZERS
+msgctxt "UI.PLANTREGISTRY.TAB_TITLE_MOD_FERTILIZERS"
+msgid "Mod Fertilizers"
+msgstr "Zmodyfikowane nawozy"
+
+#. UI.PLANTREGISTRY.TAB_TITLE_MOD_PLANTS
+msgctxt "UI.PLANTREGISTRY.TAB_TITLE_MOD_PLANTS"
+msgid "Mod Plants"
+msgstr "Zmodyfikowane rośliny"
+
+#. UI.PLANTREGISTRY.TAB_TITLE_PLANTS
+msgctxt "UI.PLANTREGISTRY.TAB_TITLE_PLANTS"
+msgid "Plants"
+msgstr "Rośliny"
+
+#. UI.PLANTREGISTRY.WEEDPLANTS.DESCRIPTION
+msgctxt "UI.PLANTREGISTRY.WEEDPLANTS.DESCRIPTION"
+msgid "Description"
+msgstr "Opis"
+
+#. UI.PLANTREGISTRY.WEEDPLANTS.EFFECTS
+msgctxt "UI.PLANTREGISTRY.WEEDPLANTS.EFFECTS"
+msgid "Effects"
+msgstr "Efekty"
+
+#. UI.PLANTREGISTRY.WEEDPLANTS.NUTRIENTS
+msgctxt "UI.PLANTREGISTRY.WEEDPLANTS.NUTRIENTS"
+msgid "Nutrient Cycling"
+msgstr "Cykliczna zmiana składników odżywczych"
+
+#. UI.PLANTREGISTRY.WEEDPLANTS.PRODUCT
+msgctxt "UI.PLANTREGISTRY.WEEDPLANTS.PRODUCT"
+msgid "Product"
+msgstr "Produkt"
+
+#. UI.PLANTREGISTRY.WEEDPLANTS.WATER
+msgctxt "UI.PLANTREGISTRY.WEEDPLANTS.WATER"
+msgid "Water Consumption"
+msgstr "Zużycie wody"
+

@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.SERVERADMINSCREEN.APPLY
+msgctxt "UI.SERVERADMINSCREEN.APPLY"
+msgid "Apply"
+msgstr "Übernehmen"
+
+#. UI.SERVERADMINSCREEN.BACK
+msgctxt "UI.SERVERADMINSCREEN.BACK"
+msgid "Back"
+msgstr "Zurück"
+
+#. UI.SERVERADMINSCREEN.BANNED
+msgctxt "UI.SERVERADMINSCREEN.BANNED"
+msgid "Banned on "
+msgstr "Gesperrt am "
+
+#. UI.SERVERADMINSCREEN.BANNED_PLAYERS_HEADER
+msgctxt "UI.SERVERADMINSCREEN.BANNED_PLAYERS_HEADER"
+msgid "Banned Players"
+msgstr "Gesperrte Spieler"
+
+#. UI.SERVERADMINSCREEN.CANCEL
+msgctxt "UI.SERVERADMINSCREEN.CANCEL"
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#. UI.SERVERADMINSCREEN.CLEAR_LIST_BODY
+msgctxt "UI.SERVERADMINSCREEN.CLEAR_LIST_BODY"
+msgid "Do you want to delete all banned players?\nThis will affect all servers you create."
+msgstr "Möchtest du alle gesperrten Spieler löschen?\nDas wirkt sich auf alle von dir erstellten Server aus."
+
+#. UI.SERVERADMINSCREEN.CLEAR_LIST_TITLE
+msgctxt "UI.SERVERADMINSCREEN.CLEAR_LIST_TITLE"
+msgid "Unban all?"
+msgstr "Alle Sperren aufheben?"
+
+#. UI.SERVERADMINSCREEN.CLEAR_PLAYERS
+msgctxt "UI.SERVERADMINSCREEN.CLEAR_PLAYERS"
+msgid "Unban All"
+msgstr "Alle Sperren\naufheben"
+
+#. UI.SERVERADMINSCREEN.DATE
+msgctxt "UI.SERVERADMINSCREEN.DATE"
+msgid "Date"
+msgstr "Datum"
+
+#. UI.SERVERADMINSCREEN.DAY
+msgctxt "UI.SERVERADMINSCREEN.DAY"
+msgid "Day"
+msgstr "Tag"
+
+#. UI.SERVERADMINSCREEN.DAY_UNKNOWN
+msgctxt "UI.SERVERADMINSCREEN.DAY_UNKNOWN"
+msgid "Unknown Day"
+msgstr "Unbekannter Tag"
+
+#. UI.SERVERADMINSCREEN.DAY_V2
+msgctxt "UI.SERVERADMINSCREEN.DAY_V2"
+msgid "Day {day_count}"
+msgstr "Tag {day_count}"
+
+#. UI.SERVERADMINSCREEN.DELETE_ENTRY_BODY
+msgctxt "UI.SERVERADMINSCREEN.DELETE_ENTRY_BODY"
+msgid "Do you want to delete \""
+msgstr "Möchtest du \""
+
+#. UI.SERVERADMINSCREEN.DELETE_ENTRY_BODY_2
+msgctxt "UI.SERVERADMINSCREEN.DELETE_ENTRY_BODY_2"
+msgid "\" from your ban list?\nThis will affect all servers you create."
+msgstr "\" von deiner Sperrliste löschen?\nDas wird sich auf alle von dir erstellten Server auswirken."
+
+#. UI.SERVERADMINSCREEN.DELETE_ENTRY_TITLE
+msgctxt "UI.SERVERADMINSCREEN.DELETE_ENTRY_TITLE"
+msgid "Unban Player?"
+msgstr "Spielersperre aufheben?"
+
+#. UI.SERVERADMINSCREEN.EMPTY_SLOT
+msgctxt "UI.SERVERADMINSCREEN.EMPTY_SLOT"
+msgid "EMPTY"
+msgstr "LEER"
+
+#. UI.SERVERADMINSCREEN.EMPTY_SLOT_TITLE
+msgctxt "UI.SERVERADMINSCREEN.EMPTY_SLOT_TITLE"
+msgid "Empty Slot"
+msgstr "Leerer Slot"
+
+#. UI.SERVERADMINSCREEN.HEADER_DAY
+msgctxt "UI.SERVERADMINSCREEN.HEADER_DAY"
+msgid "Restore Day {day_count}"
+msgstr "Tag {day_count} wiederherstellen"
+
+#. UI.SERVERADMINSCREEN.HEADER_DAY_UNKNOWN
+msgctxt "UI.SERVERADMINSCREEN.HEADER_DAY_UNKNOWN"
+msgid "Restore Unknown Day"
+msgstr "Unbekannten Tag wiederherstellen"
+
+#. UI.SERVERADMINSCREEN.LOSE_CHANGES_BODY
+msgctxt "UI.SERVERADMINSCREEN.LOSE_CHANGES_BODY"
+msgid "Do you want abandon your changes?"
+msgstr "Sollen die Änderungen verworfen werden?"
+
+#. UI.SERVERADMINSCREEN.LOSE_CHANGES_TITLE
+msgctxt "UI.SERVERADMINSCREEN.LOSE_CHANGES_TITLE"
+msgid "Lose Changes?"
+msgstr "Änderungen verwerfen?"
+
+#. UI.SERVERADMINSCREEN.NO
+msgctxt "UI.SERVERADMINSCREEN.NO"
+msgid "No"
+msgstr "Nein"
+
+#. UI.SERVERADMINSCREEN.NO_PLAYER_SELECTED
+msgctxt "UI.SERVERADMINSCREEN.NO_PLAYER_SELECTED"
+msgid "No Player Selected"
+msgstr "Kein Spieler gewählt"
+
+#. UI.SERVERADMINSCREEN.PLAYER
+msgctxt "UI.SERVERADMINSCREEN.PLAYER"
+msgid "Player"
+msgstr "Spieler"
+
+#. UI.SERVERADMINSCREEN.PLAYER_DELETE
+msgctxt "UI.SERVERADMINSCREEN.PLAYER_DELETE"
+msgid "Unban"
+msgstr "Entsperren"
+
+#. UI.SERVERADMINSCREEN.PLAYER_DETAILS
+msgctxt "UI.SERVERADMINSCREEN.PLAYER_DETAILS"
+msgid "View Details"
+msgstr "Details anzeigen"
+
+#. UI.SERVERADMINSCREEN.RESTORE_SNAPSHOT
+msgctxt "UI.SERVERADMINSCREEN.RESTORE_SNAPSHOT"
+msgid "Restore Snapshot"
+msgstr "Snapshot wiederherstellen"
+
+#. UI.SERVERADMINSCREEN.RESTORE_SNAPSHOT_BODY
+msgctxt "UI.SERVERADMINSCREEN.RESTORE_SNAPSHOT_BODY"
+msgid "Do you want to restore this save? You will lose all changes made to the world past the selected day, as well as all subsequent saves. This cannot be undone."
+msgstr "Möchtest du dieses gespeicherte Spiel wiederherstellen? Alle Änderungen, die du seitdem an der Welt vorgenommen hast, sowie alle danach gespeicherten Spielstände gehen dabei verloren. Das kann nicht rückgängig gemacht werden."
+
+#. UI.SERVERADMINSCREEN.RESTORE_SNAPSHOT_HEADER
+msgctxt "UI.SERVERADMINSCREEN.RESTORE_SNAPSHOT_HEADER"
+msgid "Restore %s"
+msgstr "%s wiederherstellen"
+
+#. UI.SERVERADMINSCREEN.SERVER_DESCRIPTION
+msgctxt "UI.SERVERADMINSCREEN.SERVER_DESCRIPTION"
+msgid "Server Description:"
+msgstr "Server-Beschreibung:"
+
+#. UI.SERVERADMINSCREEN.SERVER_NAME
+msgctxt "UI.SERVERADMINSCREEN.SERVER_NAME"
+msgid "Server Name:"
+msgstr "Servername:"
+
+#. UI.SERVERADMINSCREEN.SNAPSHOTS_TITLE
+msgctxt "UI.SERVERADMINSCREEN.SNAPSHOTS_TITLE"
+msgid "Snapshots: "
+msgstr "Snapshots: "
+
+#. UI.SERVERADMINSCREEN.SYSTEMMESSAGE
+msgctxt "UI.SERVERADMINSCREEN.SYSTEMMESSAGE"
+msgid "Server"
+msgstr "Server"
+
+#. UI.SERVERADMINSCREEN.UNDO_PLAYERS
+msgctxt "UI.SERVERADMINSCREEN.UNDO_PLAYERS"
+msgid "Undo All"
+msgstr "Alles rückgängig"
+
+#. UI.SERVERADMINSCREEN.UNKNOWN
+msgctxt "UI.SERVERADMINSCREEN.UNKNOWN"
+msgid "Unknown"
+msgstr "Unbekannt"
+
+#. UI.SERVERADMINSCREEN.UNKNOWN_DATE
+msgctxt "UI.SERVERADMINSCREEN.UNKNOWN_DATE"
+msgid "????-??-??"
+msgstr "????-??-??"
+
+#. UI.SERVERADMINSCREEN.UNKNOWN_DAY
+msgctxt "UI.SERVERADMINSCREEN.UNKNOWN_DAY"
+msgid "???"
+msgstr "???"
+
+#. UI.SERVERADMINSCREEN.UNKNOWN_DAY_PS4
+msgctxt "UI.SERVERADMINSCREEN.UNKNOWN_DAY_PS4"
+msgid "Creation of the World"
+msgstr "Erschaffung der Welt"
+
+#. UI.SERVERADMINSCREEN.UNKNOWN_USER_NAME
+msgctxt "UI.SERVERADMINSCREEN.UNKNOWN_USER_NAME"
+msgid "[unknown]"
+msgstr "[unbekannt]"
+
+#. UI.SERVERADMINSCREEN.YES
+msgctxt "UI.SERVERADMINSCREEN.YES"
+msgid "Yes"
+msgstr "Ja"
+

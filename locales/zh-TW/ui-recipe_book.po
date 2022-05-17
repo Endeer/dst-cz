@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. UI.RECIPE_BOOK.CRAVINGS.BREAD
+msgctxt "UI.RECIPE_BOOK.CRAVINGS.BREAD"
+msgid "Bread"
+msgstr "麵包"
+
+#. UI.RECIPE_BOOK.CRAVINGS.CHEESE
+msgctxt "UI.RECIPE_BOOK.CRAVINGS.CHEESE"
+msgid "Cheese"
+msgstr "乳酪"
+
+#. UI.RECIPE_BOOK.CRAVINGS.FISH
+msgctxt "UI.RECIPE_BOOK.CRAVINGS.FISH"
+msgid "Fish"
+msgstr "魚"
+
+#. UI.RECIPE_BOOK.CRAVINGS.MEAT
+msgctxt "UI.RECIPE_BOOK.CRAVINGS.MEAT"
+msgid "Meat"
+msgstr "肉"
+
+#. UI.RECIPE_BOOK.CRAVINGS.PASTA
+msgctxt "UI.RECIPE_BOOK.CRAVINGS.PASTA"
+msgid "Pasta"
+msgstr "義大利面"
+
+#. UI.RECIPE_BOOK.CRAVINGS.SNACK
+msgctxt "UI.RECIPE_BOOK.CRAVINGS.SNACK"
+msgid "Snack"
+msgstr "零食"
+
+#. UI.RECIPE_BOOK.CRAVINGS.SOUP
+msgctxt "UI.RECIPE_BOOK.CRAVINGS.SOUP"
+msgid "Soup"
+msgstr "湯"
+
+#. UI.RECIPE_BOOK.CRAVINGS.SWEET
+msgctxt "UI.RECIPE_BOOK.CRAVINGS.SWEET"
+msgid "Dessert"
+msgstr "甜點"
+
+#. UI.RECIPE_BOOK.CRAVINGS.VEGGIE
+msgctxt "UI.RECIPE_BOOK.CRAVINGS.VEGGIE"
+msgid "Veggie"
+msgstr "素食"
+
+#. UI.RECIPE_BOOK.DETAILS_LABEL_CRAVING
+msgctxt "UI.RECIPE_BOOK.DETAILS_LABEL_CRAVING"
+msgid "Satisfies Craving"
+msgstr "滿足渴望"
+
+#. UI.RECIPE_BOOK.DETAILS_LABEL_CRAVINGS
+msgctxt "UI.RECIPE_BOOK.DETAILS_LABEL_CRAVINGS"
+msgid "Satisfies Cravings"
+msgstr "滿足渴望"
+
+#. UI.RECIPE_BOOK.DETAILS_LABEL_RECIPES
+msgctxt "UI.RECIPE_BOOK.DETAILS_LABEL_RECIPES"
+msgid "Recent Recipes"
+msgstr "最近食譜"
+
+#. UI.RECIPE_BOOK.DETAILS_LABEL_STATION
+msgctxt "UI.RECIPE_BOOK.DETAILS_LABEL_STATION"
+msgid "Cooking Station"
+msgstr "烹飪台"
+
+#. UI.RECIPE_BOOK.DETAILS_LABEL_STATIONS
+msgctxt "UI.RECIPE_BOOK.DETAILS_LABEL_STATIONS"
+msgid "Cooking Stations"
+msgstr "烹飪台"
+
+#. UI.RECIPE_BOOK.DETAILS_LABEL_TRIBUTE
+msgctxt "UI.RECIPE_BOOK.DETAILS_LABEL_TRIBUTE"
+msgid "Offering"
+msgstr "供品"
+
+#. UI.RECIPE_BOOK.DETAILS_LABEL_TRIBUTE_SILVER
+msgctxt "UI.RECIPE_BOOK.DETAILS_LABEL_TRIBUTE_SILVER"
+msgid "{dish} Offering"
+msgstr "{dish}供品"
+
+#. UI.RECIPE_BOOK.DETAILS_LABEL_TRIBUTE_SILVER_UNKNOWN
+msgctxt "UI.RECIPE_BOOK.DETAILS_LABEL_TRIBUTE_SILVER_UNKNOWN"
+msgid "Silver Dish Offering"
+msgstr "銀盤供品"
+
+#. UI.RECIPE_BOOK.DETAILS_SPINNER_CRAVING
+msgctxt "UI.RECIPE_BOOK.DETAILS_SPINNER_CRAVING"
+msgid "Craving"
+msgstr "渴望"
+
+#. UI.RECIPE_BOOK.DETAILS_SPINNER_STATION
+msgctxt "UI.RECIPE_BOOK.DETAILS_SPINNER_STATION"
+msgid "Station"
+msgstr "工作臺"
+
+#. UI.RECIPE_BOOK.DISCOVERED_RECIPES
+msgctxt "UI.RECIPE_BOOK.DISCOVERED_RECIPES"
+msgid "Discovered Recipes"
+msgstr "已發現食譜"
+
+#. UI.RECIPE_BOOK.FILTER_ANY
+msgctxt "UI.RECIPE_BOOK.FILTER_ANY"
+msgid "Any"
+msgstr "任意"
+
+#. UI.RECIPE_BOOK.NO_CRAVING
+msgctxt "UI.RECIPE_BOOK.NO_CRAVING"
+msgid "None"
+msgstr "無"
+
+#. UI.RECIPE_BOOK.NO_TRIBUTE_VALUE
+msgctxt "UI.RECIPE_BOOK.NO_TRIBUTE_VALUE"
+msgid "None"
+msgstr "無"
+
+#. UI.RECIPE_BOOK.STATIONS.GRILL
+msgctxt "UI.RECIPE_BOOK.STATIONS.GRILL"
+msgid "Grill"
+msgstr "烤架"
+
+#. UI.RECIPE_BOOK.STATIONS.OVEN
+msgctxt "UI.RECIPE_BOOK.STATIONS.OVEN"
+msgid "Oven"
+msgstr "烤箱"
+
+#. UI.RECIPE_BOOK.STATIONS.POT
+msgctxt "UI.RECIPE_BOOK.STATIONS.POT"
+msgid "Cookpot"
+msgstr "鍋"
+
+#. UI.RECIPE_BOOK.SYRUP_RECIPE_ID
+msgctxt "UI.RECIPE_BOOK.SYRUP_RECIPE_ID"
+msgid "**"
+msgstr "**"
+
+#. UI.RECIPE_BOOK.TITLE
+msgctxt "UI.RECIPE_BOOK.TITLE"
+msgid "Recipe Book"
+msgstr "食譜"
+
+#. UI.RECIPE_BOOK.TRIBUTE_UNKNOWN
+msgctxt "UI.RECIPE_BOOK.TRIBUTE_UNKNOWN"
+msgid "Unknown"
+msgstr "未知"
+
+#. UI.RECIPE_BOOK.UNKNOWN_DATA
+msgctxt "UI.RECIPE_BOOK.UNKNOWN_DATA"
+msgid "???"
+msgstr "???"
+
+#. UI.RECIPE_BOOK.UNKNOWN_RECIPE
+msgctxt "UI.RECIPE_BOOK.UNKNOWN_RECIPE"
+msgid "Unknown"
+msgstr "未知"
+

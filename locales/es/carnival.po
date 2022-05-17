@@ -1,0 +1,375 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS.1
+msgctxt "CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS.1"
+msgid "Wow! It's so festive!"
+msgstr "¡Hala, menuda fiesta!"
+
+#. CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS.2
+msgctxt "CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS.2"
+msgid "Best Cawnival ever!"
+msgstr "¡Es la mejor Cuerviferia del mundo!"
+
+#. CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS.3
+msgctxt "CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS.3"
+msgid "Last year's Cawnival was not this fancy."
+msgstr "La Cuerviferia del año pasado no era tan guay."
+
+#. CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS.4
+msgctxt "CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS.4"
+msgid "I wanna watch the games!"
+msgstr "¡Quiero ver los juegos!"
+
+#. CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS.5
+msgctxt "CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS.5"
+msgid "Have you checked out the Prize Booth yet?"
+msgstr "¿Has ido a ver el puesto de los premios?"
+
+#. CARNIVAL_CROWKID_DECOR_AMBIENT_NONE.1
+msgctxt "CARNIVAL_CROWKID_DECOR_AMBIENT_NONE.1"
+msgid "They must still be setting up."
+msgstr "Estarán preparando las cosas..."
+
+#. CARNIVAL_CROWKID_DECOR_AMBIENT_NONE.2
+msgctxt "CARNIVAL_CROWKID_DECOR_AMBIENT_NONE.2"
+msgid "Where's the party?"
+msgstr "¿Dónde está la fiesta?"
+
+#. CARNIVAL_CROWKID_DECOR_AMBIENT_NONE.3
+msgctxt "CARNIVAL_CROWKID_DECOR_AMBIENT_NONE.3"
+msgid "Most boring Midsummer Cawnival ever."
+msgstr "Es la Cuerviferia del Solsticio más aburrida del mundo."
+
+#. CARNIVAL_CROWKID_DECOR_AMBIENT_NONE.4
+msgctxt "CARNIVAL_CROWKID_DECOR_AMBIENT_NONE.4"
+msgid "More like Caw-no-val."
+msgstr "Esto es un Cuervimuermo."
+
+#. CARNIVAL_CROWKID_DECOR_AMBIENT_NONE.5
+msgctxt "CARNIVAL_CROWKID_DECOR_AMBIENT_NONE.5"
+msgid "Looks like I got here too early..."
+msgstr "Creo que he llegado muy pronto..."
+
+#. CARNIVAL_CROWKID_DECOR_AMBIENT_NONE.6
+msgctxt "CARNIVAL_CROWKID_DECOR_AMBIENT_NONE.6"
+msgid "I'm gonna tell my friends to wait until there's more set up."
+msgstr "Les diré a mis amigos que esperen hasta que haya más cosas listas."
+
+#. CARNIVAL_CROWKID_DECOR_AMBIENT_SOME.1
+msgctxt "CARNIVAL_CROWKID_DECOR_AMBIENT_SOME.1"
+msgid "Nicely set up."
+msgstr "No está mal."
+
+#. CARNIVAL_CROWKID_DECOR_AMBIENT_SOME.2
+msgctxt "CARNIVAL_CROWKID_DECOR_AMBIENT_SOME.2"
+msgid "There is never enough flair."
+msgstr "La elegancia lo es todo."
+
+#. CARNIVAL_CROWKID_DECOR_AMBIENT_SOME.3
+msgctxt "CARNIVAL_CROWKID_DECOR_AMBIENT_SOME.3"
+msgid "I've seen better Cawnivals."
+msgstr "He visto Cuerviferias mejores..."
+
+#. CARNIVAL_CROWKID_DECOR_AMBIENT_SOME.4
+msgctxt "CARNIVAL_CROWKID_DECOR_AMBIENT_SOME.4"
+msgid "The party is just getting started!"
+msgstr "¡La fiesta está a puntito de empezar!"
+
+#. CARNIVAL_CROWKID_DECOR_PLAYER_LOTS.1
+msgctxt "CARNIVAL_CROWKID_DECOR_PLAYER_LOTS.1"
+msgid "Wow! It's so festive!"
+msgstr "¡Hala, menuda fiesta!"
+
+#. CARNIVAL_CROWKID_DECOR_PLAYER_LOTS.2
+msgctxt "CARNIVAL_CROWKID_DECOR_PLAYER_LOTS.2"
+msgid "Nicely done."
+msgstr "Muy bien."
+
+#. CARNIVAL_CROWKID_DECOR_PLAYER_LOTS.3
+msgctxt "CARNIVAL_CROWKID_DECOR_PLAYER_LOTS.3"
+msgid "You must be good at these games."
+msgstr "Seguro que se te dan bien estos juegos."
+
+#. CARNIVAL_CROWKID_DECOR_PLAYER_LOTS.4
+msgctxt "CARNIVAL_CROWKID_DECOR_PLAYER_LOTS.4"
+msgid "Have you tried Egg Scramble? It's my favorite game!"
+msgstr "¿Has probado los Huevos revueltos? ¡Es mi juego favorito!"
+
+#. CARNIVAL_CROWKID_DECOR_PLAYER_LOTS.5
+msgctxt "CARNIVAL_CROWKID_DECOR_PLAYER_LOTS.5"
+msgid "I watched someone play Hubbub for Grub, and now I'm hungry..."
+msgstr "He visto a alguien jugar a Pelea por las larvas y ahora tengo hambre..."
+
+#. CARNIVAL_CROWKID_DECOR_PLAYER_LOTS.6
+msgctxt "CARNIVAL_CROWKID_DECOR_PLAYER_LOTS.6"
+msgid "Have you won any prizes yet?"
+msgstr "¿Has ganado algún premio?"
+
+#. CARNIVAL_CROWKID_DECOR_PLAYER_NONE.1
+msgctxt "CARNIVAL_CROWKID_DECOR_PLAYER_NONE.1"
+msgid "You should decorate more."
+msgstr "Tendrías que decorar un poco más."
+
+#. CARNIVAL_CROWKID_DECOR_PLAYER_NONE.2
+msgctxt "CARNIVAL_CROWKID_DECOR_PLAYER_NONE.2"
+msgid "Where are the decorations?"
+msgstr "¿Y la decoración?"
+
+#. CARNIVAL_CROWKID_DECOR_PLAYER_NONE.3
+msgctxt "CARNIVAL_CROWKID_DECOR_PLAYER_NONE.3"
+msgid "It's not a Cawnival without decorations around the Tree!"
+msgstr "Una Cuerviferia no es nada sin decoración alrededor del árbol."
+
+#. CARNIVAL_CROWKID_DECOR_PLAYER_NONE.4
+msgctxt "CARNIVAL_CROWKID_DECOR_PLAYER_NONE.4"
+msgid "This must be your first Cawnival."
+msgstr "Supongo que es tu primera Cuerviferia."
+
+#. CARNIVAL_CROWKID_DECOR_PLAYER_SOME.1
+msgctxt "CARNIVAL_CROWKID_DECOR_PLAYER_SOME.1"
+msgid "You're doing a pretty good job."
+msgstr "Lo estás haciendo bastante bien."
+
+#. CARNIVAL_CROWKID_DECOR_PLAYER_SOME.2
+msgctxt "CARNIVAL_CROWKID_DECOR_PLAYER_SOME.2"
+msgid "I wish there were more decorations around the Cawnival Tree..."
+msgstr "Ojalá hubiera más decoración alrededor del árbol de la Cuerviferia..."
+
+#. CARNIVAL_CROWKID_DECOR_PLAYER_SOME.3
+msgctxt "CARNIVAL_CROWKID_DECOR_PLAYER_SOME.3"
+msgid "I've seen better Cawnivals. Just saying."
+msgstr "He visto Cuerviferias mejores, la verdad."
+
+#. CARNIVAL_CROWKID_DECOR_PLAYER_SOME.4
+msgctxt "CARNIVAL_CROWKID_DECOR_PLAYER_SOME.4"
+msgid "Gotta say, last year's Cawnival was better..."
+msgstr "La Cuerviferia del año pasado fue mejor, eh..."
+
+#. CARNIVAL_CROWKID_GAME_GOTO.1
+msgctxt "CARNIVAL_CROWKID_GAME_GOTO.1"
+msgid "Ooooh someone's playing!"
+msgstr "¡Hala! ¡Hay alguien jugando!"
+
+#. CARNIVAL_CROWKID_GAME_GOTO.2
+msgctxt "CARNIVAL_CROWKID_GAME_GOTO.2"
+msgid "Let's watch the featherfree creature play!"
+msgstr "¡Vamos a ver jugar a la criatura sin plumas!"
+
+#. CARNIVAL_CROWKID_GAME_GOTO.3
+msgctxt "CARNIVAL_CROWKID_GAME_GOTO.3"
+msgid "Look, someone's about to play!"
+msgstr "¡Mira, alguien va a jugar!"
+
+#. CARNIVAL_CROWKID_GAME_GOTO.4
+msgctxt "CARNIVAL_CROWKID_GAME_GOTO.4"
+msgid "I love watching these games!"
+msgstr "¡Me encanta ver estos juegos!"
+
+#. CARNIVAL_CROWKID_GAME_GOTO.5
+msgctxt "CARNIVAL_CROWKID_GAME_GOTO.5"
+msgid "Oooh, that game's my favorite!"
+msgstr "Oh... ¡Este juego es mi favorito!"
+
+#. CARNIVAL_CROWKID_OTHERGAME_GOTO.1
+msgctxt "CARNIVAL_CROWKID_OTHERGAME_GOTO.1"
+msgid "What kind of game is that?"
+msgstr "Hala, ¿qué clase de juego es ese?"
+
+#. CARNIVAL_CROWKID_OTHERGAME_GOTO.2
+msgctxt "CARNIVAL_CROWKID_OTHERGAME_GOTO.2"
+msgid "Are the featherless creatures fighting? I want to watch!"
+msgstr "¿Se están peleando las criaturas sin plumas? ¡Quiero ir a mirar!"
+
+#. CARNIVAL_CROWKID_SCARED.1
+msgctxt "CARNIVAL_CROWKID_SCARED.1"
+msgid "Caaah!"
+msgstr "¡Caaaa!"
+
+#. CARNIVAL_CROWKID_SCARED.2
+msgctxt "CARNIVAL_CROWKID_SCARED.2"
+msgid "Time to take off!"
+msgstr "¡Hora de largarse!"
+
+#. CARNIVAL_CROWKID_SCARED.3
+msgctxt "CARNIVAL_CROWKID_SCARED.3"
+msgid "The feathers are flying!"
+msgstr "¡Que se tiran de las plumas!"
+
+#. CARNIVAL_CROWKID_SCARED.4
+msgctxt "CARNIVAL_CROWKID_SCARED.4"
+msgid "No thanks!"
+msgstr "¡No, gracias!"
+
+#. CARNIVAL_CROWKID_SCARED.5
+msgctxt "CARNIVAL_CROWKID_SCARED.5"
+msgid "I'm outta here!"
+msgstr "¡Me largo de aquí!"
+
+#. CARNIVAL_CROWKID_SCARED.6
+msgctxt "CARNIVAL_CROWKID_SCARED.6"
+msgid "Scatter!!"
+msgstr "¡Fuera!"
+
+#. CARNIVAL_HOST_ANNOUNCE_CARNIVAL.1
+msgctxt "CARNIVAL_HOST_ANNOUNCE_CARNIVAL.1"
+msgid "Yes, yes! This place will do nicely!"
+msgstr "Sí, sí, este sitio es perfecto."
+
+#. CARNIVAL_HOST_ANNOUNCE_CARNIVAL.2
+msgctxt "CARNIVAL_HOST_ANNOUNCE_CARNIVAL.2"
+msgid "A perfect spot for my famous, fantabulous, (fiscally fruitful) Cawnival!"
+msgstr "¡Es el lugar perfecto para mi Cuerviferia fantástica, fabulosa (y físicamente fructífera)!"
+
+#. CARNIVAL_HOST_ANNOUNCE_CARNIVAL.3
+msgctxt "CARNIVAL_HOST_ANNOUNCE_CARNIVAL.3"
+msgid "You there! How would you like to be a part of something spectacular?!"
+msgstr "¡Oye, tú! ¿Quieres formar parte de algo espectacular?"
+
+#. CARNIVAL_HOST_ANNOUNCE_CARNIVAL.4
+msgctxt "CARNIVAL_HOST_ANNOUNCE_CARNIVAL.4"
+msgid "It is I, a merry wanderer with feathers black as night!"
+msgstr "¡Aquí me tenéis! Soy ese alegre rondador con plumas del color del cielo nocturno."
+
+#. CARNIVAL_HOST_ANNOUNCE_CARNIVAL.5
+msgctxt "CARNIVAL_HOST_ANNOUNCE_CARNIVAL.5"
+msgid "I've been known by many names, but you may call me Corvus Goodfeather!"
+msgstr "Me llaman por incontables nombres, ¡pero tú puedes llamarme Corvus el Bueno!"
+
+#. CARNIVAL_HOST_ANNOUNCE_CARNIVAL.6
+msgctxt "CARNIVAL_HOST_ANNOUNCE_CARNIVAL.6"
+msgid "\"Not yet mid-summer\", you say? Well my friend, the early bird gets the worm!"
+msgstr "¿Que todavía no estamos en pleno verano? Bueno, a quien madruga, el cuervo le ayuda, ¿no?"
+
+#. CARNIVAL_HOST_ANNOUNCE_GENERIC.1
+msgctxt "CARNIVAL_HOST_ANNOUNCE_GENERIC.1"
+msgid "The Cawnival is underway!"
+msgstr "¡Ha empezado la Cuerviferia!"
+
+#. CARNIVAL_HOST_ANNOUNCE_GENERIC.2
+msgctxt "CARNIVAL_HOST_ANNOUNCE_GENERIC.2"
+msgid "Welcome, welcome, one and all!"
+msgstr "¡Bienvenidos, damas y caballeros!"
+
+#. CARNIVAL_HOST_ANNOUNCE_GENERIC.3
+msgctxt "CARNIVAL_HOST_ANNOUNCE_GENERIC.3"
+msgid "Buy your tokens here!"
+msgstr "¡Comprad fichas aquí!"
+
+#. CARNIVAL_HOST_ANNOUNCE_GENERIC.4
+msgctxt "CARNIVAL_HOST_ANNOUNCE_GENERIC.4"
+msgid "Enjoy the Cawnival!"
+msgstr "¡A disfrutar de la Cuerviferia!"
+
+#. CARNIVAL_HOST_ANNOUNCE_GENERIC.5
+msgctxt "CARNIVAL_HOST_ANNOUNCE_GENERIC.5"
+msgid "Why not purchase a lovely miniature to set under the Tree?"
+msgstr "¿No quieres comprar una miniatura para ponerla bajo el árbol?"
+
+#. CARNIVAL_HOST_ANNOUNCE_GENERIC.6
+msgctxt "CARNIVAL_HOST_ANNOUNCE_GENERIC.6"
+msgid "The games look fun, don't they? Why not purchase a token or twelve?"
+msgstr "¿A que los juegos tienen buena pinta? ¿Y si compráis una ficha? O una docena..."
+
+#. CARNIVAL_HOST_ANNOUNCE_GENERIC.7
+msgctxt "CARNIVAL_HOST_ANNOUNCE_GENERIC.7"
+msgid "Win tickets, trade tickets for fabulous prizes!"
+msgstr "¡Conseguid tíquets y cambiadlos por premios fabulosos!"
+
+#. CARNIVAL_HOST_ANNOUNCE_GENERIC.8
+msgctxt "CARNIVAL_HOST_ANNOUNCE_GENERIC.8"
+msgid "Take a glance at the Prize Booth, friends! We have spectacular trinkets from far and wide!"
+msgstr "¡Echad un vistazo al puesto de los premios, queridos amigos! ¡Tenemos artilugios de todo tipo!"
+
+#. CARNIVAL_HOST_ANNOUNCE_GENERIC.9
+msgctxt "CARNIVAL_HOST_ANNOUNCE_GENERIC.9"
+msgid "\"Not yet mid-summer\", you say? Well my friend, the early bird gets the worm!"
+msgstr "¿Que todavía no estamos en pleno verano? Bueno, a quien madruga, el cuervo le ayuda, ¿no?"
+
+#. CARNIVAL_HOST_GAME_BORED.1
+msgctxt "CARNIVAL_HOST_GAME_BORED.1"
+msgid "Oh, I think you nearly scored a point that time!"
+msgstr "Ay, casi consigues marcar un tanto y todo."
+
+#. CARNIVAL_HOST_GAME_BORED.2
+msgctxt "CARNIVAL_HOST_GAME_BORED.2"
+msgid "Have you never played a Cawnival game before?"
+msgstr "¿Has jugado en la Cuerviferia alguna vez? Porque..."
+
+#. CARNIVAL_HOST_GAME_BORED.3
+msgctxt "CARNIVAL_HOST_GAME_BORED.3"
+msgid "Better luck next time, perhaps?"
+msgstr "A ver si tienes más suerte a la próxima."
+
+#. CARNIVAL_HOST_GAME_CHEER.1
+msgctxt "CARNIVAL_HOST_GAME_CHEER.1"
+msgid "Yes, yes! You're a natural!"
+msgstr "¡Así se hace! Tú tienes un don."
+
+#. CARNIVAL_HOST_GAME_CHEER.2
+msgctxt "CARNIVAL_HOST_GAME_CHEER.2"
+msgid "You've got a good grasp of the game, I see!"
+msgstr "Ya veo que se te da muy bien esto, ¿eh?"
+
+#. CARNIVAL_HOST_GAME_CHEER.3
+msgctxt "CARNIVAL_HOST_GAME_CHEER.3"
+msgid "Such an excellent performance! I do hope you purchase more tokens to show us again!"
+msgstr "¡Lo has hecho de maravilla! Espero que compres más fichas para deleitarnos con otra demostración."
+
+#. CARNIVAL_HOST_GAME_END_BORED.1
+msgctxt "CARNIVAL_HOST_GAME_END_BORED.1"
+msgid "Too bad. Better luck next time!"
+msgstr "Qué pena... A ver si tienes más suerte a la próxima."
+
+#. CARNIVAL_HOST_GAME_END_BORED.2
+msgctxt "CARNIVAL_HOST_GAME_END_BORED.2"
+msgid "I have plenty more tokens to sell if you'd like to try again!"
+msgstr "Tengo fichas a montones por si quieres volver a intentarlo."
+
+#. CARNIVAL_HOST_GAME_END_CHEER.1
+msgctxt "CARNIVAL_HOST_GAME_END_CHEER.1"
+msgid "Well done, well done! Now why don't you go peruse our Prize Booth?"
+msgstr "¡Bien hecho! Bueno, ¿por qué no vas a echar un vistazo al puesto de los premios?"
+
+#. CARNIVAL_HOST_GAME_END_CHEER.2
+msgctxt "CARNIVAL_HOST_GAME_END_CHEER.2"
+msgid "What an astonishing display! Here, let old Corvus Goodfeather give you an extra ticket."
+msgstr "¡Eso ha sido digno de ver! Toma, deja que el viejo Corvus el Bueno que te dé otro tíquet."
+
+#. CARNIVAL_HOST_OTHERGAME_TALK.1
+msgctxt "CARNIVAL_HOST_OTHERGAME_TALK.1"
+msgid "What is this game?"
+msgstr "¿Qué juego es este?"
+
+#. CARNIVAL_HOST_OTHERGAME_TALK.2
+msgctxt "CARNIVAL_HOST_OTHERGAME_TALK.2"
+msgid "What an odd game. Not nearly as fun as the ones we have at the Cawnival!"
+msgstr "Qué juego más raro... No es ni la mitad de divertido que los de la Cuerviferia."
+
+#. CARNIVAL_HOST_OTHERGAME_TALK.3
+msgctxt "CARNIVAL_HOST_OTHERGAME_TALK.3"
+msgid "I'm not familiar with the rules..."
+msgstr "Por desgracia, no me sé las reglas..."
+
+#. CARNIVAL_HOST_SELL_GENERIC.1
+msgctxt "CARNIVAL_HOST_SELL_GENERIC.1"
+msgid "Look here, I have such wonderful games for you to play!"
+msgstr "¡Pasen y vean! Tengo juegos maravillosos para todo el mundo."
+
+#. CARNIVAL_HOST_SELL_GENERIC.2
+msgctxt "CARNIVAL_HOST_SELL_GENERIC.2"
+msgid "A Cawnival is not complete without some fun and games."
+msgstr "Una Cuerviferia no es nada sin diversión y juegos por doquier."
+
+#. CARNIVAL_HOST_SELL_PLAZA.1
+msgctxt "CARNIVAL_HOST_SELL_PLAZA.1"
+msgid "Yes, yes! The centerpiece must be set!"
+msgstr "Sí, sí... ¡Hay que colocar el árbol, es nuestra piedra angular!"
+
+#. CARNIVAL_HOST_SELL_PLAZA.2
+msgctxt "CARNIVAL_HOST_SELL_PLAZA.2"
+msgid "The Cawnival cannot begin until the Tree is planted!"
+msgstr "La Cuerviferia no podrá empezar hasta que plantemos el árbol."
+

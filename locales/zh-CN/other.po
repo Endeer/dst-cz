@@ -1,0 +1,1380 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. ANTIADDICTION.EXIT_SOON
+msgctxt "ANTIADDICTION.EXIT_SOON"
+msgid "Your time for today is up. Please exit."
+msgstr "你今天已经玩了很久了。请退出游戏。"
+
+#. ANTIADDICTION.HOUR_1
+msgctxt "ANTIADDICTION.HOUR_1"
+msgid "You've played for one hour."
+msgstr "你已经玩了一个小时。"
+
+#. ANTIADDICTION.HOUR_2
+msgctxt "ANTIADDICTION.HOUR_2"
+msgid "You've played for two hours."
+msgstr "你已经玩了两个小时。"
+
+#. ANTIADDICTION.HOUR_3
+msgctxt "ANTIADDICTION.HOUR_3"
+msgid "You've played for three hours."
+msgstr "你已经玩了三个小时。"
+
+#. ANTIADDICTION.HOUR_4
+msgctxt "ANTIADDICTION.HOUR_4"
+msgid "You've played for four hours."
+msgstr "你已经玩了四个小时。"
+
+#. ANTIADDICTION.HOUR_5
+msgctxt "ANTIADDICTION.HOUR_5"
+msgid "You've played for five hours."
+msgstr "你已经玩了五个小时。"
+
+#. ANTIADDICTION.HOUR_X
+msgctxt "ANTIADDICTION.HOUR_X"
+msgid "You've played for several hours."
+msgstr "你已经玩了好几个小时。"
+
+#. CROWNAMES.1
+msgctxt "CROWNAMES.1"
+msgid "Apollo"
+msgstr "阿波罗"
+
+#. CROWNAMES.10
+msgctxt "CROWNAMES.10"
+msgid "Symone"
+msgstr "薛蒙妮"
+
+#. CROWNAMES.11
+msgctxt "CROWNAMES.11"
+msgid "Baxter"
+msgstr "巴克斯特"
+
+#. CROWNAMES.12
+msgctxt "CROWNAMES.12"
+msgid "Robyn"
+msgstr "罗宾"
+
+#. CROWNAMES.13
+msgctxt "CROWNAMES.13"
+msgid "Helena"
+msgstr "海伦娜"
+
+#. CROWNAMES.14
+msgctxt "CROWNAMES.14"
+msgid "Quincy"
+msgstr "昆西"
+
+#. CROWNAMES.15
+msgctxt "CROWNAMES.15"
+msgid "Nick"
+msgstr "尼克"
+
+#. CROWNAMES.16
+msgctxt "CROWNAMES.16"
+msgid "Francis"
+msgstr "弗朗西斯"
+
+#. CROWNAMES.17
+msgctxt "CROWNAMES.17"
+msgid "Tom"
+msgstr "汤姆"
+
+#. CROWNAMES.18
+msgctxt "CROWNAMES.18"
+msgid "Lysander"
+msgstr "利桑德"
+
+#. CROWNAMES.19
+msgctxt "CROWNAMES.19"
+msgid "Demetrius"
+msgstr "德米特里厄斯"
+
+#. CROWNAMES.2
+msgctxt "CROWNAMES.2"
+msgid "Russel"
+msgstr "罗素"
+
+#. CROWNAMES.20
+msgctxt "CROWNAMES.20"
+msgid "Hermia"
+msgstr "赫米亚"
+
+#. CROWNAMES.21
+msgctxt "CROWNAMES.21"
+msgid "Becca"
+msgstr "贝卡"
+
+#. CROWNAMES.3
+msgctxt "CROWNAMES.3"
+msgid "Jet"
+msgstr "杰特"
+
+#. CROWNAMES.4
+msgctxt "CROWNAMES.4"
+msgid "Bram"
+msgstr "布拉姆"
+
+#. CROWNAMES.5
+msgctxt "CROWNAMES.5"
+msgid "Corbett"
+msgstr "科贝特"
+
+#. CROWNAMES.6
+msgctxt "CROWNAMES.6"
+msgid "Korbin"
+msgstr "科宾"
+
+#. CROWNAMES.7
+msgctxt "CROWNAMES.7"
+msgid "Ava"
+msgstr "阿华"
+
+#. CROWNAMES.8
+msgctxt "CROWNAMES.8"
+msgid "Merle"
+msgstr "梅勒"
+
+#. CROWNAMES.9
+msgctxt "CROWNAMES.9"
+msgid "Swift"
+msgstr "斯威夫特"
+
+#. DESCRIBE_NULL
+msgctxt "DESCRIBE_NULL"
+msgid "MISSING DESCRIPTION STRING"
+msgstr "MISSING DESCRIPTION STRING"
+
+#. DIRECTIONS.E
+msgctxt "DIRECTIONS.E"
+msgid "East"
+msgstr "东"
+
+#. DIRECTIONS.N
+msgctxt "DIRECTIONS.N"
+msgid "North"
+msgstr "北"
+
+#. DIRECTIONS.NE
+msgctxt "DIRECTIONS.NE"
+msgid "Northeast"
+msgstr "东北"
+
+#. DIRECTIONS.NW
+msgctxt "DIRECTIONS.NW"
+msgid "Northwest"
+msgstr "西北"
+
+#. DIRECTIONS.S
+msgctxt "DIRECTIONS.S"
+msgid "South"
+msgstr "南"
+
+#. DIRECTIONS.SE
+msgctxt "DIRECTIONS.SE"
+msgid "Southeast"
+msgstr "东南"
+
+#. DIRECTIONS.SW
+msgctxt "DIRECTIONS.SW"
+msgid "Southwest"
+msgstr "西南"
+
+#. DIRECTIONS.W
+msgctxt "DIRECTIONS.W"
+msgid "West"
+msgstr "西"
+
+#. DISEASEDITEM
+msgctxt "DISEASEDITEM"
+msgid "Diseased"
+msgstr "生病"
+
+#. DROPALL
+msgctxt "DROPALL"
+msgid "Drop All"
+msgstr "全部丢弃"
+
+#. EYEOFTERROR_CANCEL
+msgctxt "EYEOFTERROR_CANCEL"
+msgid "The evil presence has subsided."
+msgstr "邪恶的存在已经退散。"
+
+#. EYEOFTERROR_COMING
+msgctxt "EYEOFTERROR_COMING"
+msgid "You feel an evil presence watching you..."
+msgstr "你感觉到有一种邪恶的存在在看着你……"
+
+#. EYEOFTERROR_TARGET
+msgctxt "EYEOFTERROR_TARGET"
+msgid "The Eye of Terror turns its gaze toward {player_name}"
+msgstr "恐怖之眼盯上了{player_name}"
+
+#. GOATKID_TALK_CLOSED.1
+msgctxt "GOATKID_TALK_CLOSED.1"
+msgid "I'll only talk to you if Mumsy says it's okay."
+msgstr "只有妈妈说可以，我才会和你说话。"
+
+#. GOATKID_TALK_CLOSED.2
+msgctxt "GOATKID_TALK_CLOSED.2"
+msgid "Go talk to my mum. Baa."
+msgstr "去跟我妈妈说吧，咩。"
+
+#. GOATKID_TALK_CLOSED.3
+msgctxt "GOATKID_TALK_CLOSED.3"
+msgid "Can you ask my mum before we play?"
+msgstr "在我们一块玩之前，你可以先问问我妈妈吗？"
+
+#. GOATKID_TALK_CLOSED.4
+msgctxt "GOATKID_TALK_CLOSED.4"
+msgid "Go ask Mumsy if we can play. Baa."
+msgstr "去问问妈妈我们可不可以一块玩。咩。"
+
+#. GOATKID_TALK_GREETING.1
+msgctxt "GOATKID_TALK_GREETING.1"
+msgid "Pipton lets me have sweets, when Mumsy says it's okay."
+msgstr "妈妈同意时，皮普顿就让我吃糖果。"
+
+#. GOATKID_TALK_GREETING.2
+msgctxt "GOATKID_TALK_GREETING.2"
+msgid "I like playing with the pebble crabs."
+msgstr "我喜欢和石蟹玩。"
+
+#. GOATKID_TALK_GREETING.3
+msgctxt "GOATKID_TALK_GREETING.3"
+msgid "Our house used to be around here, baa."
+msgstr "我们家以前就在这附近，咩。"
+
+#. GOATKID_TALK_GREETING.4
+msgctxt "GOATKID_TALK_GREETING.4"
+msgid "Mumsy says my friends can't come out to play."
+msgstr "妈妈说我的朋友们不能出来玩。"
+
+#. GOATKID_TALK_GREETING.5
+msgctxt "GOATKID_TALK_GREETING.5"
+msgid "I wish my bike still worked, baa."
+msgstr "我真希望我的自行车还能骑，咩。"
+
+#. GOATKID_TALK_GREETING.6
+msgctxt "GOATKID_TALK_GREETING.6"
+msgid "Sammy was a goat before, like mum and I."
+msgstr "萨米以前是山羊，就像我和我妈妈一样。"
+
+#. GOATKID_TALK_GREETING.7
+msgctxt "GOATKID_TALK_GREETING.7"
+msgid "Mumsy tells me not to look at the sky."
+msgstr "妈妈叫我别看天空。"
+
+#. GOATKID_TALK_TRADE.1
+msgctxt "GOATKID_TALK_TRADE.1"
+msgid "Baaaa! My favorite!"
+msgstr "咩！我的最爱！"
+
+#. GOATKID_TALK_TRADE.2
+msgctxt "GOATKID_TALK_TRADE.2"
+msgid "Oh, thanks!"
+msgstr "哦，谢谢！"
+
+#. GOATKID_TALK_TRADE.3
+msgctxt "GOATKID_TALK_TRADE.3"
+msgid "We're friends now, right?"
+msgstr "我们现在是朋友了，对吧？"
+
+#. GOATKID_TALK_TRADE.4
+msgctxt "GOATKID_TALK_TRADE.4"
+msgid "Baa!"
+msgstr "咩！"
+
+#. GOATKID_TALK_TRADE.5
+msgctxt "GOATKID_TALK_TRADE.5"
+msgid "Mumsy says always to say \"thank-you\"."
+msgstr "妈妈说一定要讲\"谢谢你\"。"
+
+#. GOATKID_TALK_TRADE.6
+msgctxt "GOATKID_TALK_TRADE.6"
+msgid "Tradesies are fun."
+msgstr "交易真好玩。"
+
+#. GOATKID_TALK_TRADE.7
+msgctxt "GOATKID_TALK_TRADE.7"
+msgid "Baa, thanks!"
+msgstr "咩，谢谢！"
+
+#. GREENAMULET_TOOLTIP
+msgctxt "GREENAMULET_TOOLTIP"
+msgid "Reduced Material Cost"
+msgstr "减少材料成本"
+
+#. INSPECTMOD
+msgctxt "INSPECTMOD"
+msgid "Inspect"
+msgstr "查看"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.random
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.random"
+msgid "\nSelect a random survivor"
+msgstr "\n选择一名随机的冒险家"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.walter
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.walter"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "PLACEHOLDER"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wanda
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wanda"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "PLACEHOLDER"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.warly
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.warly"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "PLACEHOLDER"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wathgrithr
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wathgrithr"
+msgid "*Battle cries increase nearby allies' next attack damage by 25%\n*Gains less aggro when attacking\n\nExpertise:\nMelee, Darts"
+msgstr "*战吼使附近盟友的下一次攻击伤害力增加 25％\n*攻击时吸引的仇恨较少\n \n\n擅长：\n近战，吹箭"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.waxwell
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.waxwell"
+msgid "*Summons Shadow Duelists after focusing attacks on a single target\n\n\nExpertise:\nBooks, Staves"
+msgstr "*针对一个目标集中攻击多次后，召唤暗影决斗者\n \n \n\n擅长：\n书本，魔杖"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.webber
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.webber"
+msgid "*Accompanied by itsy bitsy spiders\n\n\n\nExpertise:\nDarts"
+msgstr "*有小蜘蛛作为跟班\n\n\n\n专长：\n吹箭"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wendy
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wendy"
+msgid "*Protected by her twin sister, Abigail\n\n\n\nExpertise:\nDarts, Staves"
+msgstr "*拥有双胞胎姐妹阿比盖尔的保护\n\n\n\n专长：\n吹箭、法杖"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wes
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wes"
+msgid "*Can be revived twice as quickly\n*Gains minimal aggro when attacking\n*Less likely to lose aggro once drawn\n\nExpertise:\nMelee, Darts, Staves"
+msgstr "*能以两倍速度被复活\n*攻击时吸引的仇恨较少\n*仇恨高后就难以降低\n \n擅长：\n近战，吹箭，魔杖"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wickerbottom
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wickerbottom"
+msgid "*Gains a buff after dealing sufficient damage, amplifying her next spell\n\n\nExpertise:\nBooks, Staves"
+msgstr "*在应对足够伤害后获得 buff，增强她的下一个魔法\n \n \n擅长：\n书本，魔杖"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.willow
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.willow"
+msgid "*Protected by Bernie the Bear\n*Fire and Explosive attack damage increased by 10%\n\nExpertise:\nDarts, Staves"
+msgstr "*受到伯尼熊保护\n*火力和爆炸式攻击的损害增加 10%\n \n 擅长：\n吹箭，魔杖"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wilson
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wilson"
+msgid "*Revives allies twice as quickly\n*Restores three times more health when reviving allies\n\nExpertise:\nMelee, Darts, Staves"
+msgstr "*令盟友以两倍速度复活\n*复活盟友时恢复三倍生命值\n \n擅长：\n近战，吹箭，魔杖"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.winona
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.winona"
+msgid "*All ability cooldowns are 10% faster\n\n\n\nExpertise:\nMelee, Darts, Staves"
+msgstr "所有技能的冷却时间减少10%\n\n\n\n专长:\n近战, 吹箭, 法杖"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wolfgang
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wolfgang"
+msgid "*Becomes Mighty when health is low, increasing attack power, defense, and movement speed for 10 seconds\n\nExpertise:\nMelee"
+msgstr "*当生命值低时变强，持续 10 秒提升攻击力、防御力和移动速度\n \n |\n擅长：\n近战"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.woodie
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.woodie"
+msgid "*Lucy returns to Woodie when thrown\n*Attack speed increased when wielding Lucy\n\nExpertise:\nMelee"
+msgstr "*被丢出去后，露西会回到伍迪的手里\n*使用露西作为武器时攻击速度提高\n\n专长：\n近战"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.woodie_canada
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.woodie_canada"
+msgid "*Lucy returns to Woodie when thrown\n*Attack speed increased when wielding Lucy\n\nExpertise:\nMelee"
+msgstr "*被丢出去后，露西会回到伍迪的手里\n*使用露西作为武器时攻击速度提高\n\n专长：\n近战"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.woodie_us
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.woodie_us"
+msgid "*Lucy returns to Woodie when thrown\n*Attack speed increased when wielding Lucy\n\nExpertise:\nMelee"
+msgstr "*被丢出去后，露西会回到伍迪的手里\n*使用露西作为武器时攻击速度提高\n\n专长：\n近战"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wormwood
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wormwood"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "PLACEHOLDER"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wortox
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wortox"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "PLACEHOLDER"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wurt
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wurt"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "PLACEHOLDER"
+
+#. LAVAARENA_CHARACTER_DESCRIPTIONS.wx78
+msgctxt "LAVAARENA_CHARACTER_DESCRIPTIONS.wx78"
+msgid "*Shocks enemies when attacked\n*Electric attack damage increased by 50%\n\nExpertise:\nMelee"
+msgstr "*受到攻击时电击敌人\n*电击伤害提升 50%\n \n擅长：\n近战"
+
+#. MAPRECORDER.LOCATION.CAVE
+msgctxt "MAPRECORDER.LOCATION.CAVE"
+msgid " in the caves"
+msgstr "在洞穴里"
+
+#. MAPRECORDER.LOCATION.DEFAULT
+msgctxt "MAPRECORDER.LOCATION.DEFAULT"
+msgid ""
+msgstr ""
+
+#. MAPRECORDER.MAPDESC
+msgctxt "MAPRECORDER.MAPDESC"
+msgid "Mapped{location} by {author} on day {day}."
+msgstr "由{author}在第{day}天{location}绘制。"
+
+#. MAPRECORDER.UNKNOWN_AUTHOR
+msgctxt "MAPRECORDER.UNKNOWN_AUTHOR"
+msgid "an explorer"
+msgstr "一位探索者"
+
+#. MAPRECORDER.UNKNOWN_DAY
+msgctxt "MAPRECORDER.UNKNOWN_DAY"
+msgid "???"
+msgstr "???"
+
+#. MESSAGEBOTTLE_NOTES.1
+msgctxt "MESSAGEBOTTLE_NOTES.1"
+msgid "\"I know you're still out there, my dear. I won't ever give up.\""
+msgstr "\"我知道你还在外面，我亲爱的。我不会放弃的。\""
+
+#. MESSAGEBOTTLE_NOTES.2
+msgctxt "MESSAGEBOTTLE_NOTES.2"
+msgid "\"I'm waiting for you. At the spot where we first met. I've been waiting so long...\""
+msgstr "\"我一直在等你。就在我们第一次见面的地方。我等了好久……\""
+
+#. MESSAGEBOTTLE_NOTES.3
+msgctxt "MESSAGEBOTTLE_NOTES.3"
+msgid "\"Please come home. I miss you so much.\""
+msgstr "\"请回家吧。我真的好想你。\""
+
+#. MESSAGEBOTTLE_NOTES.4
+msgctxt "MESSAGEBOTTLE_NOTES.4"
+msgid "\"I still have the last gift you gave me. \"A pearl for Pearl\"... remember?\""
+msgstr "\"我还留着你上次送我的礼物。 \"送给珍珠的珍珠\"……你还记得吗？\""
+
+#. MESSAGEBOTTLE_NOTES.5
+msgctxt "MESSAGEBOTTLE_NOTES.5"
+msgid "\"I'll keep sending messages, until one reaches you...\""
+msgstr "\"我会一直写信给你，直到你收到……\""
+
+#. MESSAGEBOTTLE_NOTES.6
+msgctxt "MESSAGEBOTTLE_NOTES.6"
+msgid "\"Have you found your treasure yet? When you do, will you come home?\""
+msgstr "\"你找到了要找的宝藏吗？找到以后，你会回家吗？\""
+
+#. MODS.VERSIONING.OUT_OF_DATE
+msgctxt "MODS.VERSIONING.OUT_OF_DATE"
+msgid "Mod \"%s\" is out of date. The server needs to get the latest version from the Steam Workshop so other users can join."
+msgstr "\"%s\"模组 已过期。服务器需要从 Steam 创意工坊获得最新版本，这样其他的用户才可以加入。"
+
+#. MODS.VERSIONING.OUT_OF_DATE_RAIL
+msgctxt "MODS.VERSIONING.OUT_OF_DATE_RAIL"
+msgid "Mod \"%s\" is out of date. The server needs to get the latest version so other users can join."
+msgstr "\"%s\"MOD过时了。服务器需要从创客空间下载最新版本以让其他玩家加入。"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMOREXTRAHEAVY
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMOREXTRAHEAVY"
+msgid "90% Protection\n-15% Move Speed\nKnockback Resistance"
+msgstr "90% 防护\n-15% 移动速度\n抵抗击退"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMORHEAVY
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMORHEAVY"
+msgid "85% Protection"
+msgstr "85% 防护"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMORLIGHT
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMORLIGHT"
+msgid "50% Protection\n+5% Faster Cooldown"
+msgstr "50% 防护\n+5% 快速冷却"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMORLIGHTSPEED
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMORLIGHTSPEED"
+msgid "60% Protection\n+10% Move Speed"
+msgstr "60% 防护\n+10% 移动速度"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMORMEDIUM
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMORMEDIUM"
+msgid "75% Protection"
+msgstr "75% 防护"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMORMEDIUMDAMAGER
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMORMEDIUMDAMAGER"
+msgid "75% Protection\n+10% Physical Damage"
+msgstr "75% 防护\n+10% 物理伤害"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMORMEDIUMRECHARGER
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMORMEDIUMRECHARGER"
+msgid "75% Protection\n+10% Faster Cooldown"
+msgstr "75% 防护\n+10% 快速冷却"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPDAMAGER
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPDAMAGER"
+msgid "80% Protection\n+50 Max Health\n+20% Physical Damage"
+msgstr "80% 保护力\n+50 最大生命值\n+20% 物理伤害"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPEXTRAHEAVY
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPEXTRAHEAVY"
+msgid "90% Protection\n+100 Max Health\nKnockback Resistance"
+msgstr "90% 保护力\n+100 最大生命值\n抵抗击退"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPPETMASTERY
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPPETMASTERY"
+msgid "80% Protection\n+75 Max Health\nCompanion Buff"
+msgstr "80% 保护力\n+75 最大生命值\n同伴能力提升"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPRECHARGER
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPRECHARGER"
+msgid "80% Protection\n+50 Max Health\n+15% Faster Cooldown"
+msgstr "80% 保护力\n+50 最大生命值\n+15% 冷却速度加快"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_CROWNDAMAGERHAT
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_CROWNDAMAGERHAT"
+msgid "+15% Physical Damage\n+10% Faster Cooldown\n+10% Move Speed"
+msgstr "+15% 物理伤害\n+10% 快速冷却\n+10% 移动速度"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_EYECIRCLETHAT
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_EYECIRCLETHAT"
+msgid "+25% Magic Damage\n+10% Faster Cooldown\n+10% Move Speed"
+msgstr "+25% 魔法伤害\n+10% 快速冷却\n+10% 移动速度"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_FEATHERCROWNHAT
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_FEATHERCROWNHAT"
+msgid "+20% Move Speed"
+msgstr "+20% 移动速度"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_HEALINGFLOWERHAT
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_HEALINGFLOWERHAT"
+msgid "+25% Healing Received"
+msgstr "+25% 被治疗效果"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_HEALINGGARLANDHAT
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_HEALINGGARLANDHAT"
+msgid "+2 HP/s (80% HP Max)\n+10% Faster Cooldown\n+10% Move Speed"
+msgstr "+2 HP/s （最多 80% HP）\n+10% 快速冷却\n+10% 移动速度"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_LIGHTDAMAGERHAT
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_LIGHTDAMAGERHAT"
+msgid "+10% Physical Damage"
+msgstr "+10% 物理伤害"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_RECHARGERHAT
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_RECHARGERHAT"
+msgid "+10% Faster Cooldown"
+msgstr "+10% 快速冷却"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_STRONGDAMAGERHAT
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_STRONGDAMAGERHAT"
+msgid "+15% Physical Damage"
+msgstr "+15% 物理伤害"
+
+#. NAME_DETAIL_EXTENTION.LAVAARENA_TIARAFLOWERPETALSHAT
+msgctxt "NAME_DETAIL_EXTENTION.LAVAARENA_TIARAFLOWERPETALSHAT"
+msgid "+20% Healing Dealt"
+msgstr "+20% 治疗效果"
+
+#. PIG_ELITE_FIGHTER_INTRO.1
+msgctxt "PIG_ELITE_FIGHTER_INTRO.1"
+msgid "I HELP!"
+msgstr "我来帮忙了！"
+
+#. PIG_ELITE_FIGHTER_INTRO.2
+msgctxt "PIG_ELITE_FIGHTER_INTRO.2"
+msgid "SMASHY! SMASHY!"
+msgstr "打碎！打碎！"
+
+#. PIG_ELITE_FIGHTER_INTRO.3
+msgctxt "PIG_ELITE_FIGHTER_INTRO.3"
+msgid "PUNCH TIME!"
+msgstr "拳击时间！"
+
+#. PIG_ELITE_FIGHTER_INTRO.4
+msgctxt "PIG_ELITE_FIGHTER_INTRO.4"
+msgid "WHERE I SMASH?"
+msgstr "我砸哪？"
+
+#. PIG_ELITE_FIGHTER_OUTRO.1
+msgctxt "PIG_ELITE_FIGHTER_OUTRO.1"
+msgid "PIGGY, AWAY!"
+msgstr "小猪去也！"
+
+#. PIG_ELITE_FIGHTER_OUTRO.2
+msgctxt "PIG_ELITE_FIGHTER_OUTRO.2"
+msgid "I PUNCHED!"
+msgstr "我打过了！"
+
+#. PIG_ELITE_FIGHTER_OUTRO.3
+msgctxt "PIG_ELITE_FIGHTER_OUTRO.3"
+msgid "I GO NOW!"
+msgstr "我走了！"
+
+#. PIG_ELITE_FIGHTER_OUTRO.4
+msgctxt "PIG_ELITE_FIGHTER_OUTRO.4"
+msgid "SEE YA!"
+msgstr "再见！"
+
+#. PIG_ELITE_GOLD.1
+msgctxt "PIG_ELITE_GOLD.1"
+msgid "MINE!"
+msgstr "我的！"
+
+#. PIG_ELITE_GOLD.2
+msgctxt "PIG_ELITE_GOLD.2"
+msgid "MY GOLD!"
+msgstr "我的黄金！"
+
+#. PIG_ELITE_GOLD.3
+msgctxt "PIG_ELITE_GOLD.3"
+msgid "I TAKE GOLD!"
+msgstr "我要黄金！"
+
+#. PIG_ELITE_INTRO.1
+msgctxt "PIG_ELITE_INTRO.1"
+msgid "FOR KING!"
+msgstr "为了国王！"
+
+#. PIG_ELITE_INTRO.2
+msgctxt "PIG_ELITE_INTRO.2"
+msgid "GET GOLD!"
+msgstr "获得黄金！"
+
+#. PIG_ELITE_POST_MATCH.1
+msgctxt "PIG_ELITE_POST_MATCH.1"
+msgid "YOU BAD AT THIS. GET BETTER"
+msgstr "你太糟糕了，提升一下自己吧"
+
+#. PIG_ELITE_POST_MATCH.2
+msgctxt "PIG_ELITE_POST_MATCH.2"
+msgid "TRY AGAIN SOMETIME?"
+msgstr "什么时候再试一次？"
+
+#. PIG_ELITE_POST_MATCH.3
+msgctxt "PIG_ELITE_POST_MATCH.3"
+msgid "YOU WORTHY OPPONENT"
+msgstr "你是个值得尊敬的对手"
+
+#. PIG_ELITE_POST_MATCH.4
+msgctxt "PIG_ELITE_POST_MATCH.4"
+msgid "YOU HUMBLE US"
+msgstr "你挫败了我们"
+
+#. PIG_ELITE_POST_MATCH.5
+msgctxt "PIG_ELITE_POST_MATCH.5"
+msgid "GOOD MATCH. WE GO BED NOW"
+msgstr "打得好。我们去睡觉了"
+
+#. PIG_ELITE_POST_MATCH.6
+msgctxt "PIG_ELITE_POST_MATCH.6"
+msgid "YOU CHEATER. WE NO LIKE CHEATERS"
+msgstr "你作弊。我们不喜欢作弊的人"
+
+#. PIG_ELITE_SALTY.1
+msgctxt "PIG_ELITE_SALTY.1"
+msgid "CHEATER!"
+msgstr "作弊！"
+
+#. PIG_ELITE_SALTY.2
+msgctxt "PIG_ELITE_SALTY.2"
+msgid "NO FAIR"
+msgstr "不公平"
+
+#. PIG_ELITE_SALTY.3
+msgctxt "PIG_ELITE_SALTY.3"
+msgid "NOT ALLOWED DO THAT!"
+msgstr "不允许这样做！"
+
+#. PIG_ELITE_SMACK.1
+msgctxt "PIG_ELITE_SMACK.1"
+msgid "YOU GO SMASH!"
+msgstr "你完蛋了！"
+
+#. PIG_ELITE_SMACK.2
+msgctxt "PIG_ELITE_SMACK.2"
+msgid "I BASH YOU!"
+msgstr "我打晕你！"
+
+#. PIG_ELITE_SMACK.3
+msgctxt "PIG_ELITE_SMACK.3"
+msgid "STAY AWAY!"
+msgstr "离远点！"
+
+#. PIG_ELITE_SMACK.4
+msgctxt "PIG_ELITE_SMACK.4"
+msgid "FUN!"
+msgstr "好玩！"
+
+#. PIG_GUARD_TALK_FIGHT.1
+msgctxt "PIG_GUARD_TALK_FIGHT.1"
+msgid "FOR KING!"
+msgstr "为了国王！"
+
+#. PIG_GUARD_TALK_FIGHT.2
+msgctxt "PIG_GUARD_TALK_FIGHT.2"
+msgid "DEFEND!"
+msgstr "保卫！"
+
+#. PIG_GUARD_TALK_FIGHT.3
+msgctxt "PIG_GUARD_TALK_FIGHT.3"
+msgid "SAVE KING!"
+msgstr "拯救国王！"
+
+#. PIG_GUARD_TALK_GOHOME.1
+msgctxt "PIG_GUARD_TALK_GOHOME.1"
+msgid "MUST DEFEND!"
+msgstr "必须保卫！"
+
+#. PIG_GUARD_TALK_GOHOME.2
+msgctxt "PIG_GUARD_TALK_GOHOME.2"
+msgid "I PROTECT"
+msgstr "保卫"
+
+#. PIG_GUARD_TALK_GOHOME.3
+msgctxt "PIG_GUARD_TALK_GOHOME.3"
+msgid "KING! KING!"
+msgstr "国王！国王！"
+
+#. PIG_GUARD_TALK_LOOKATWILSON.1
+msgctxt "PIG_GUARD_TALK_LOOKATWILSON.1"
+msgid "YOU LEAVE NOW"
+msgstr "你马上离开"
+
+#. PIG_GUARD_TALK_LOOKATWILSON.2
+msgctxt "PIG_GUARD_TALK_LOOKATWILSON.2"
+msgid "YOU GO AWAY"
+msgstr "你走开"
+
+#. PIG_GUARD_TALK_LOOKATWILSON.3
+msgctxt "PIG_GUARD_TALK_LOOKATWILSON.3"
+msgid "YOU NO STAY"
+msgstr "你不能留下"
+
+#. PIG_GUARD_TALK_TORCH.1
+msgctxt "PIG_GUARD_TALK_TORCH.1"
+msgid "TORCH GET LOW"
+msgstr "火炬变暗了"
+
+#. PIG_GUARD_TALK_TORCH.2
+msgctxt "PIG_GUARD_TALK_TORCH.2"
+msgid "MAKE TORCH BRIGHT"
+msgstr "点亮火炬"
+
+#. PIG_GUARD_TALK_TORCH.3
+msgctxt "PIG_GUARD_TALK_TORCH.3"
+msgid "MORE BURNING"
+msgstr "烧旺点"
+
+#. PSN
+msgctxt "PSN"
+msgid "PlayStation™Network"
+msgstr "PlayStation™Network"
+
+#. SELECT
+msgctxt "SELECT"
+msgid "Select"
+msgstr "选择"
+
+#. SET_DESCRIPTIONS.body_ugly_winterhat_black_davys
+msgctxt "SET_DESCRIPTIONS.body_ugly_winterhat_black_davys"
+msgid "You might as well get one in every color."
+msgstr "不妨每种颜色都来一个。"
+
+#. SET_DESCRIPTIONS.body_ugly_winterhat_pink_hibiscus
+msgctxt "SET_DESCRIPTIONS.body_ugly_winterhat_pink_hibiscus"
+msgid "As a matter of fact, having a matching hat and sweater is VERY fashionable."
+msgstr "事实上，帽子和毛衣的搭配是非常时尚的。"
+
+#. SET_DESCRIPTIONS.emote_carol
+msgctxt "SET_DESCRIPTIONS.emote_carol"
+msgid "The spirit of Winter's Feast will keep you warm when you go a-caroling tonight!"
+msgstr "冬季盛宴的氛围会带给你温暖，只要你今晚吟唱颂歌！"
+
+#. SET_DESCRIPTIONS.emote_fistshake
+msgctxt "SET_DESCRIPTIONS.emote_fistshake"
+msgid "Why, you!"
+msgstr "怎么样啊，你！"
+
+#. SET_DESCRIPTIONS.emote_sleepy
+msgctxt "SET_DESCRIPTIONS.emote_sleepy"
+msgid "You look cozy from top to bottom. Sweet dreams, sleepy survivor!"
+msgstr "你从头到尾看起来都很安逸。做个美梦，昏昏欲睡的冒险家！"
+
+#. SET_DESCRIPTIONS.emote_yawn
+msgctxt "SET_DESCRIPTIONS.emote_yawn"
+msgid "You are so ready for a nap. You've never been more ready for anything in your entire life."
+msgstr "你已经准备好打会盹了。在你的一生中你还没为其他任何事做好这么万全的准备过。"
+
+#. SET_NAMES.body_ugly_winterhat_black_davys
+msgctxt "SET_NAMES.body_ugly_winterhat_black_davys"
+msgid "Black Winter Hat Ensemble"
+msgstr "黑色冬帽套装"
+
+#. SET_NAMES.body_ugly_winterhat_pink_hibiscus
+msgctxt "SET_NAMES.body_ugly_winterhat_pink_hibiscus"
+msgid "Pink Winter Hat Ensemble"
+msgstr "粉色冬帽套装"
+
+#. SET_NAMES.emote_carol
+msgctxt "SET_NAMES.emote_carol"
+msgid "Caroler's Ensemble"
+msgstr "圣歌者套装"
+
+#. SET_NAMES.emote_fistshake
+msgctxt "SET_NAMES.emote_fistshake"
+msgid "Forge Set Ensemble"
+msgstr "熔炉套装"
+
+#. SET_NAMES.emote_sleepy
+msgctxt "SET_NAMES.emote_sleepy"
+msgid "Sleepytime Ensemble"
+msgstr "昏昏欲睡套装"
+
+#. SET_NAMES.emote_yawn
+msgctxt "SET_NAMES.emote_yawn"
+msgid "Yawny Jammies Ensemble"
+msgstr "哈欠睡衣套装"
+
+#. SHARD.MIGRATION_FAILED.DST_SHARD_DESTINATION_FULL
+msgctxt "SHARD.MIGRATION_FAILED.DST_SHARD_DESTINATION_FULL"
+msgid "[WIP] Destination is full!"
+msgstr "[WIP] Destination is full!"
+
+#. SHARD.MIGRATION_FAILED.DST_SHARD_MIGRATION_CANCELLED
+msgctxt "SHARD.MIGRATION_FAILED.DST_SHARD_MIGRATION_CANCELLED"
+msgid "[WIP] Migration canceled"
+msgstr "[WIP] Migration canceled"
+
+#. SHARD.MIGRATION_FAILED.DST_SHARD_MIGRATION_DESTINATION_NOT_READY
+msgctxt "SHARD.MIGRATION_FAILED.DST_SHARD_MIGRATION_DESTINATION_NOT_READY"
+msgid "[WIP] Destination is not ready!"
+msgstr "[WIP] Destination is not ready!"
+
+#. SMALLGHOST_TALK.1
+msgctxt "SMALLGHOST_TALK.1"
+msgid "ooOOoo"
+msgstr "哦哦哦哦哦哦"
+
+#. SMALLGHOST_TALK.2
+msgctxt "SMALLGHOST_TALK.2"
+msgid "OOoo"
+msgstr "嗷嗷嗷嗷"
+
+#. SMALLGHOST_TALK.3
+msgctxt "SMALLGHOST_TALK.3"
+msgid "OoOoOoO"
+msgstr "喔喔喔喔喔喔喔"
+
+#. SMOLDERINGITEM
+msgctxt "SMOLDERINGITEM"
+msgid "Smoldering"
+msgstr "冒烟"
+
+#. SONGS.WALTER_GLOMMER_GUTS.lines.1.duration
+msgctxt "SONGS.WALTER_GLOMMER_GUTS.lines.1.duration"
+msgid "4.3"
+msgstr "4.3"
+
+#. SONGS.WALTER_GLOMMER_GUTS.lines.1.message
+msgctxt "SONGS.WALTER_GLOMMER_GUTS.lines.1.message"
+msgid "Great pink gobs of greasy grimy Glommer guts,"
+msgstr "粉红、大块、油腻、粘稠的格罗姆内脏，"
+
+#. SONGS.WALTER_GLOMMER_GUTS.lines.2.duration
+msgctxt "SONGS.WALTER_GLOMMER_GUTS.lines.2.duration"
+msgid "1.9"
+msgstr "1.9"
+
+#. SONGS.WALTER_GLOMMER_GUTS.lines.2.message
+msgctxt "SONGS.WALTER_GLOMMER_GUTS.lines.2.message"
+msgid "Icky sticky spider legs,"
+msgstr "恶心、粘人的蜘蛛腿，"
+
+#. SONGS.WALTER_GLOMMER_GUTS.lines.3.duration
+msgctxt "SONGS.WALTER_GLOMMER_GUTS.lines.3.duration"
+msgid "2.1"
+msgstr "2.1"
+
+#. SONGS.WALTER_GLOMMER_GUTS.lines.3.message
+msgctxt "SONGS.WALTER_GLOMMER_GUTS.lines.3.message"
+msgid "Scrambled rotten Tallbird eggs,"
+msgstr "翻炒的坏高脚鸟蛋，"
+
+#. SONGS.WALTER_GLOMMER_GUTS.lines.4.duration
+msgctxt "SONGS.WALTER_GLOMMER_GUTS.lines.4.duration"
+msgid "4"
+msgstr "4"
+
+#. SONGS.WALTER_GLOMMER_GUTS.lines.4.message
+msgctxt "SONGS.WALTER_GLOMMER_GUTS.lines.4.message"
+msgid "French fried eyeplant floating in a pool of mud,"
+msgstr "法式炸眼草漂浮在泥潭中，"
+
+#. SONGS.WALTER_GLOMMER_GUTS.lines.5.duration
+msgctxt "SONGS.WALTER_GLOMMER_GUTS.lines.5.duration"
+msgid "3.3"
+msgstr "3.3"
+
+#. SONGS.WALTER_GLOMMER_GUTS.lines.5.message
+msgctxt "SONGS.WALTER_GLOMMER_GUTS.lines.5.message"
+msgid "And me without my spoon."
+msgstr "我手里却没有勺子。"
+
+#. STACKMOD
+msgctxt "STACKMOD"
+msgid "Stack"
+msgstr "堆放"
+
+#. STALKER_BATTLECRY.1
+msgctxt "STALKER_BATTLECRY.1"
+msgid "Huurgh..."
+msgstr "呃……"
+
+#. STALKER_BATTLECRY.2
+msgctxt "STALKER_BATTLECRY.2"
+msgid "...(growl)..."
+msgstr "……（咆哮声）……"
+
+#. STALKER_BATTLECRY.3
+msgctxt "STALKER_BATTLECRY.3"
+msgid "...gruuuugh..."
+msgstr "……呃……"
+
+#. STALKER_BATTLECRY.4
+msgctxt "STALKER_BATTLECRY.4"
+msgid "Hrrgh..."
+msgstr "呃……"
+
+#. STALKER_BATTLECRY.5
+msgctxt "STALKER_BATTLECRY.5"
+msgid "...grraaugh..."
+msgstr "……呃……"
+
+#. STALKER_BATTLECRY.6
+msgctxt "STALKER_BATTLECRY.6"
+msgid "...(rumble)..."
+msgstr "……（隆隆声）……"
+
+#. STALKER_BATTLECRY.7
+msgctxt "STALKER_BATTLECRY.7"
+msgid "...gruh..."
+msgstr "呃……"
+
+#. STALKER_PLAYER_BATTLECRY.1
+msgctxt "STALKER_PLAYER_BATTLECRY.1"
+msgid "Huurgh..."
+msgstr "呃……"
+
+#. STALKER_PLAYER_BATTLECRY.2
+msgctxt "STALKER_PLAYER_BATTLECRY.2"
+msgid "...gruuuugh..."
+msgstr "……呃……"
+
+#. STALKER_PLAYER_BATTLECRY.3
+msgctxt "STALKER_PLAYER_BATTLECRY.3"
+msgid "...grraaugh..."
+msgstr "……呃……"
+
+#. STALKER_PLAYER_BATTLECRY.4
+msgctxt "STALKER_PLAYER_BATTLECRY.4"
+msgid "...(gurgle)..."
+msgstr "……（咯咯声）……"
+
+#. STALKER_PLAYER_BATTLECRY.5
+msgctxt "STALKER_PLAYER_BATTLECRY.5"
+msgid "...(crunch)..."
+msgstr "……（咬碎声）……"
+
+#. STALKER_PLAYER_BATTLECRY.6
+msgctxt "STALKER_PLAYER_BATTLECRY.6"
+msgid "...Y-yy..."
+msgstr "...咦..."
+
+#. STALKER_PLAYER_BATTLECRY.7
+msgctxt "STALKER_PLAYER_BATTLECRY.7"
+msgid "...W-wwh..."
+msgstr "……唔……"
+
+#. SWAMPIGNAMES.1
+msgctxt "SWAMPIGNAMES.1"
+msgid "Titus"
+msgstr "提图斯"
+
+#. SWAMPIGNAMES.10
+msgctxt "SWAMPIGNAMES.10"
+msgid "Pertinax"
+msgstr "佩蒂纳克斯"
+
+#. SWAMPIGNAMES.11
+msgctxt "SWAMPIGNAMES.11"
+msgid "Didius"
+msgstr "狄第乌斯"
+
+#. SWAMPIGNAMES.12
+msgctxt "SWAMPIGNAMES.12"
+msgid "Septmius"
+msgstr "塞普蒂默斯"
+
+#. SWAMPIGNAMES.13
+msgctxt "SWAMPIGNAMES.13"
+msgid "Caracalla"
+msgstr "卡拉卡拉"
+
+#. SWAMPIGNAMES.14
+msgctxt "SWAMPIGNAMES.14"
+msgid "Geta"
+msgstr "格塔"
+
+#. SWAMPIGNAMES.15
+msgctxt "SWAMPIGNAMES.15"
+msgid "Marcrinus"
+msgstr "马克林鲁斯"
+
+#. SWAMPIGNAMES.16
+msgctxt "SWAMPIGNAMES.16"
+msgid "Elagabalus"
+msgstr "埃拉加巴卢斯"
+
+#. SWAMPIGNAMES.17
+msgctxt "SWAMPIGNAMES.17"
+msgid "Severus"
+msgstr "西弗勒斯"
+
+#. SWAMPIGNAMES.18
+msgctxt "SWAMPIGNAMES.18"
+msgid "Maximinus"
+msgstr "马克西姆斯"
+
+#. SWAMPIGNAMES.19
+msgctxt "SWAMPIGNAMES.19"
+msgid "Gordian"
+msgstr "戈尔迪"
+
+#. SWAMPIGNAMES.2
+msgctxt "SWAMPIGNAMES.2"
+msgid "Domitian"
+msgstr "图密善"
+
+#. SWAMPIGNAMES.20
+msgctxt "SWAMPIGNAMES.20"
+msgid "Pupienus"
+msgstr "普皮恩努斯"
+
+#. SWAMPIGNAMES.21
+msgctxt "SWAMPIGNAMES.21"
+msgid "Balbinus"
+msgstr "巴尔比努斯"
+
+#. SWAMPIGNAMES.3
+msgctxt "SWAMPIGNAMES.3"
+msgid "Nerva"
+msgstr "涅尔瓦"
+
+#. SWAMPIGNAMES.4
+msgctxt "SWAMPIGNAMES.4"
+msgid "Trajan"
+msgstr "图拉真"
+
+#. SWAMPIGNAMES.5
+msgctxt "SWAMPIGNAMES.5"
+msgid "Hadrian"
+msgstr "哈德良"
+
+#. SWAMPIGNAMES.6
+msgctxt "SWAMPIGNAMES.6"
+msgid "Antonius"
+msgstr "安东尼厄斯"
+
+#. SWAMPIGNAMES.7
+msgctxt "SWAMPIGNAMES.7"
+msgid "Lucius"
+msgstr "卢修斯"
+
+#. SWAMPIGNAMES.8
+msgctxt "SWAMPIGNAMES.8"
+msgid "Marcus"
+msgstr "马库斯"
+
+#. SWAMPIGNAMES.9
+msgctxt "SWAMPIGNAMES.9"
+msgid "Commodus"
+msgstr "康茂德"
+
+#. SWAMPIG_TALK_TO_WILSON.1
+msgctxt "SWAMPIG_TALK_TO_WILSON.1"
+msgid "KIND ELDER SICK. NEED REST"
+msgstr "好心的长老生病了。需要休息"
+
+#. SWAMPIG_TALK_TO_WILSON.2
+msgctxt "SWAMPIG_TALK_TO_WILSON.2"
+msgid "YOU DIFFERENT"
+msgstr "你不一样"
+
+#. SWAMPIG_TALK_TO_WILSON.3
+msgctxt "SWAMPIG_TALK_TO_WILSON.3"
+msgid "HELLO"
+msgstr "你好"
+
+#. SWAMPIG_TALK_TO_WILSON.4
+msgctxt "SWAMPIG_TALK_TO_WILSON.4"
+msgid "YOU HELP PIGS?"
+msgstr "你帮猪？"
+
+#. SWAMPIG_TALK_TO_WILSON.5
+msgctxt "SWAMPIG_TALK_TO_WILSON.5"
+msgid "YOU WEIRD GOAT"
+msgstr "你这奇怪的山羊"
+
+#. SWAMPIG_TALK_TO_WILSON.6
+msgctxt "SWAMPIG_TALK_TO_WILSON.6"
+msgid "YOU FEED GNAW?"
+msgstr "你喂饕餮？"
+
+#. SWAMPIG_TALK_TO_WILSON.7
+msgctxt "SWAMPIG_TALK_TO_WILSON.7"
+msgid "(SNIFF SNIFF) (SNORT)"
+msgstr "（嗅一嗅）（喷鼻息）"
+
+#. SWAP
+msgctxt "SWAP"
+msgid "Swap"
+msgstr "交换"
+
+#. TAGS.CLAN
+msgctxt "TAGS.CLAN"
+msgid "group"
+msgstr "群组"
+
+#. TAGS.FRIENDSONLY
+msgctxt "TAGS.FRIENDSONLY"
+msgid "friendsonly"
+msgstr "仅限朋友"
+
+#. TAGS.GAMEMODE.LAVAARENA
+msgctxt "TAGS.GAMEMODE.LAVAARENA"
+msgid "the_forge"
+msgstr "the_forge"
+
+#. TAGS.GAMEMODE.QUAGMIRE
+msgctxt "TAGS.GAMEMODE.QUAGMIRE"
+msgid "the_gorge"
+msgstr "the_gorge"
+
+#. TAGS.LOCAL
+msgctxt "TAGS.LOCAL"
+msgid "localonly"
+msgstr "仅限本地"
+
+#. TAGS.LOCATION.CAVE
+msgctxt "TAGS.LOCATION.CAVE"
+msgid "caves"
+msgstr "洞穴"
+
+#. TAGS.MULTISERVER
+msgctxt "TAGS.MULTISERVER"
+msgid "multilevel"
+msgstr "多层"
+
+#. TAGS.PVP
+msgctxt "TAGS.PVP"
+msgid "pvp"
+msgstr "玩家对战"
+
+#. TAGS.VOTE
+msgctxt "TAGS.VOTE"
+msgid "vote"
+msgstr "投票"
+
+#. THANKS_POPUP.ANRARG
+msgctxt "THANKS_POPUP.ANRARG"
+msgid "Metheus has taken heed"
+msgstr "米修斯已经察觉"
+
+#. THANKS_POPUP.ARG
+msgctxt "THANKS_POPUP.ARG"
+msgid "Pulvis et umbra sumus"
+msgstr "我们是尘埃和幽影"
+
+#. THANKS_POPUP.CUPID
+msgctxt "THANKS_POPUP.CUPID"
+msgid "Happy Valentine's Day\nfrom your friends at Klei"
+msgstr "情人节快乐\n来自你在 科雷的朋友"
+
+#. THANKS_POPUP.DAILY_GIFT
+msgctxt "THANKS_POPUP.DAILY_GIFT"
+msgid "Welcome back!\nPlease enjoy this daily gift."
+msgstr "请收下您的每日礼物！"
+
+#. THANKS_POPUP.DEFAULT
+msgctxt "THANKS_POPUP.DEFAULT"
+msgid "Thanks for playing"
+msgstr "感谢赏玩"
+
+#. THANKS_POPUP.GORGE
+msgctxt "THANKS_POPUP.GORGE"
+msgid "Thanks for playing during the\nGorge event"
+msgstr "感谢赏玩\n暴食"
+
+#. THANKS_POPUP.GORGE_TOURNAMENT
+msgctxt "THANKS_POPUP.GORGE_TOURNAMENT"
+msgid "Thanks for participating in the\nGorge Tournament"
+msgstr "感谢参加\n暴食锦标赛"
+
+#. THANKS_POPUP.HAMLET
+msgctxt "THANKS_POPUP.HAMLET"
+msgid "Thanks for playing"
+msgstr "感谢赏玩"
+
+#. THANKS_POPUP.HOTLAVA
+msgctxt "THANKS_POPUP.HOTLAVA"
+msgid "That's hot!"
+msgstr "开始炽热！"
+
+#. THANKS_POPUP.LUNAR
+msgctxt "THANKS_POPUP.LUNAR"
+msgid "Thanks for playing during the\nYear of the Gobbler event"
+msgstr "感谢您参与\n火鸡之年活动"
+
+#. THANKS_POPUP.ONI
+msgctxt "THANKS_POPUP.ONI"
+msgid "Thanks for playing"
+msgstr "感谢赏玩"
+
+#. THANKS_POPUP.ROG
+msgctxt "THANKS_POPUP.ROG"
+msgid "Thanks for playing"
+msgstr "感谢赏玩"
+
+#. THANKS_POPUP.ROGR
+msgctxt "THANKS_POPUP.ROGR"
+msgid "Thank you for buying the Reign of Giants DLC"
+msgstr "感谢购买"
+
+#. THANKS_POPUP.ROT2
+msgctxt "THANKS_POPUP.ROT2"
+msgid "Sending well wishes\nand shell fishes!"
+msgstr "送出美好祝愿\n和贝壳鱼类"
+
+#. THANKS_POPUP.STORE
+msgctxt "THANKS_POPUP.STORE"
+msgid "Enjoy your gift"
+msgstr "享受你的礼物"
+
+#. THANKS_POPUP.SW
+msgctxt "THANKS_POPUP.SW"
+msgid "Thanks for playing"
+msgstr "感谢赏玩"
+
+#. THANKS_POPUP.SWR
+msgctxt "THANKS_POPUP.SWR"
+msgid "Thank you for buying the ShipWrecked DLC"
+msgstr "感谢购买"
+
+#. THANKS_POPUP.TOT
+msgctxt "THANKS_POPUP.TOT"
+msgid "Wishing you fair winds and following seas\non the Turn of Tides!"
+msgstr "祝你在改潮换代中\n一帆风顺！"
+
+#. THANKS_POPUP.TWITCH
+msgctxt "THANKS_POPUP.TWITCH"
+msgid "Thanks for watching game streams"
+msgstr "感谢观看游戏直播"
+
+#. THANKS_POPUP.TWITCH_DROP
+msgctxt "THANKS_POPUP.TWITCH_DROP"
+msgid "Thanks for watching game streams"
+msgstr "感谢观看游戏直播"
+
+#. THANKS_POPUP.VARG
+msgctxt "THANKS_POPUP.VARG"
+msgid "Thanks for playing during the\nYear of the Varg event"
+msgstr "感谢您参与\n座狼之年活动"
+
+#. THANKS_POPUP.WINTER
+msgctxt "THANKS_POPUP.WINTER"
+msgid "Happy Winter's Feast\nfrom your friends at Klei"
+msgstr "冬季盛宴快乐\n来自你在 科雷的朋友"
+
+#. THANKS_POPUP.YOTB
+msgctxt "THANKS_POPUP.YOTB"
+msgid "Thanks for playing during the\nYear of the Beefalo event"
+msgstr "感谢您参与\n皮弗娄牛之年活动"
+
+#. THANKS_POPUP.YOTP
+msgctxt "THANKS_POPUP.YOTP"
+msgid "Thanks for playing during the\nYear of the Pig King event"
+msgstr "感谢您参与\n猪王之年活动"
+
+#. TRADEMOD
+msgctxt "TRADEMOD"
+msgid "Move"
+msgstr "移动"
+
+#. TWINS_COMING
+msgctxt "TWINS_COMING"
+msgid "This is going to be a terrible night..."
+msgstr "这将是一个恐怖之夜……"
+
+#. TWINS_TARGET
+msgctxt "TWINS_TARGET"
+msgid "The Twins turn their gaze toward {player_name}"
+msgstr "双子魔眼盯上了{player_name}"
+
+#. WET_PREFIX.CLOTHING
+msgctxt "WET_PREFIX.CLOTHING"
+msgid "Soaked"
+msgstr "湿透的"
+
+#. WET_PREFIX.FOOD
+msgctxt "WET_PREFIX.FOOD"
+msgid "Soggy"
+msgstr "湿漉漉的"
+
+#. WET_PREFIX.FUEL
+msgctxt "WET_PREFIX.FUEL"
+msgid "Water-Logged"
+msgstr "受潮的"
+
+#. WET_PREFIX.GENERIC
+msgctxt "WET_PREFIX.GENERIC"
+msgid "Wet"
+msgstr "潮湿的"
+
+#. WET_PREFIX.NONE
+msgctxt "WET_PREFIX.NONE"
+msgid ""
+msgstr ""
+
+#. WET_PREFIX.POUCH
+msgctxt "WET_PREFIX.POUCH"
+msgid "Soggy"
+msgstr "湿漉漉的"
+
+#. WET_PREFIX.RABBITHOLE
+msgctxt "WET_PREFIX.RABBITHOLE"
+msgid "Collapsed"
+msgstr "坍塌的"
+
+#. WET_PREFIX.TOOL
+msgctxt "WET_PREFIX.TOOL"
+msgid "Slippery"
+msgstr "湿滑的"
+
+#. WET_PREFIX.WETGOOP
+msgctxt "WET_PREFIX.WETGOOP"
+msgid "Very"
+msgstr "更糟糕的"
+
+#. WITHEREDITEM
+msgctxt "WITHEREDITEM"
+msgid "Withered"
+msgstr "枯萎的"
+

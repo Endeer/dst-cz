@@ -1,0 +1,1240 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. HERMITCRAB_ANNOUNCE_OCEANFISHING_BADCAST.1
+msgctxt "HERMITCRAB_ANNOUNCE_OCEANFISHING_BADCAST.1"
+msgid "I'm not quite as good at this as I used to be..."
+msgstr "J'étais meilleure dans ma jeunesse..."
+
+#. HERMITCRAB_ANNOUNCE_OCEANFISHING_BOTHERED.HIGH.1
+msgctxt "HERMITCRAB_ANNOUNCE_OCEANFISHING_BOTHERED.HIGH.1"
+msgid "I can always make time for you, dearie."
+msgstr "J'ai toujours du temps pour toi, trésor."
+
+#. HERMITCRAB_ANNOUNCE_OCEANFISHING_BOTHERED.LOW.1
+msgctxt "HERMITCRAB_ANNOUNCE_OCEANFISHING_BOTHERED.LOW.1"
+msgid "Ack! You made me lose my fish!"
+msgstr "Ah ! Tu m'as fait perdre mon poisson !"
+
+#. HERMITCRAB_ANNOUNCE_OCEANFISHING_BOTHERED.MED.1
+msgctxt "HERMITCRAB_ANNOUNCE_OCEANFISHING_BOTHERED.MED.1"
+msgid "You couldn't wait for a better time?"
+msgstr "Tu ne pouvais pas attendre un peu ?"
+
+#. HERMITCRAB_ANNOUNCE_OCEANFISHING_GOTAWAY.1.1
+msgctxt "HERMITCRAB_ANNOUNCE_OCEANFISHING_GOTAWAY.1.1"
+msgid "Why you slippery little nincompoop!"
+msgstr "Espèce de fripon glissant !"
+
+#. HERMITCRAB_ANNOUNCE_OCEANFISHING_GOTAWAY.1.2
+msgctxt "HERMITCRAB_ANNOUNCE_OCEANFISHING_GOTAWAY.1.2"
+msgid "Get back on my hook!"
+msgstr "Reviens sur mon hameçon !"
+
+#. HERMITCRAB_ANNOUNCE_OCEANFISHING_IDLE_QUOTE.1
+msgctxt "HERMITCRAB_ANNOUNCE_OCEANFISHING_IDLE_QUOTE.1"
+msgid "Hmph. The fish aren't biting today..."
+msgstr "Hmf. Ça ne mord pas aujourd'hui."
+
+#. HERMITCRAB_ANNOUNCE_OCEANFISHING_IDLE_QUOTE.2
+msgctxt "HERMITCRAB_ANNOUNCE_OCEANFISHING_IDLE_QUOTE.2"
+msgid "Don't be so fussy, get on my hook!"
+msgstr "Cesse de tergiverser et viens sur mon hameçon !"
+
+#. HERMITCRAB_ANNOUNCE_OCEANFISHING_IDLE_QUOTE.3
+msgctxt "HERMITCRAB_ANNOUNCE_OCEANFISHING_IDLE_QUOTE.3"
+msgid "\"I often look from the highest hill\""
+msgstr "« Souvent depuis la plus haute colline »"
+
+#. HERMITCRAB_ANNOUNCE_OCEANFISHING_IDLE_QUOTE.4
+msgctxt "HERMITCRAB_ANNOUNCE_OCEANFISHING_IDLE_QUOTE.4"
+msgid "\"that I might see my boatman...\""
+msgstr "« Je te cherche du regard sur l’océan, mon marin »"
+
+#. HERMITCRAB_ANNOUNCE_OCEANFISHING_IDLE_QUOTE.5
+msgctxt "HERMITCRAB_ANNOUNCE_OCEANFISHING_IDLE_QUOTE.5"
+msgid "hmm-de-dmm..."
+msgstr "La li la laaaa..."
+
+#. HERMITCRAB_ANNOUNCE_OCEANFISHING_IDLE_QUOTE.6
+msgctxt "HERMITCRAB_ANNOUNCE_OCEANFISHING_IDLE_QUOTE.6"
+msgid "Never seem to catch anything..."
+msgstr "Pourquoi ça ne mord jamais ?"
+
+#. HERMITCRAB_ANNOUNCE_OCEANFISHING_LINESNAP.1
+msgctxt "HERMITCRAB_ANNOUNCE_OCEANFISHING_LINESNAP.1"
+msgid "Ack! Stupid thing!"
+msgstr "Ah ! La bougresse !"
+
+#. HERMITCRAB_ANNOUNCE_OCEANFISHING_LINETOOLOOSE.1
+msgctxt "HERMITCRAB_ANNOUNCE_OCEANFISHING_LINETOOLOOSE.1"
+msgid "Oooh, these tired old claws!"
+msgstr "Ooooh, mais pauvres vieilles pinces !"
+
+#. HERMITCRAB_ANNOUNCE_ROYALTY.1
+msgctxt "HERMITCRAB_ANNOUNCE_ROYALTY.1"
+msgid "Well, don't you look all high and mighty."
+msgstr "Tu te donnes de grands airs !"
+
+#. HERMITCRAB_ANNOUNCE_ROYALTY.2
+msgctxt "HERMITCRAB_ANNOUNCE_ROYALTY.2"
+msgid "I didn't realize I was in the presence of \"royalty\"."
+msgstr "Je ne me rendais pas compte que j'étais en présence de la famille royale."
+
+#. HERMITCRAB_ANNOUNCE_ROYALTY.3
+msgctxt "HERMITCRAB_ANNOUNCE_ROYALTY.3"
+msgid "It takes more than a hoity-toity hat to impress me."
+msgstr "Un chapeau de fanfaron ne suffira pas à m'impressionner."
+
+#. HERMITCRAB_ATTEMPT_TRADE.HIGH.1.1
+msgctxt "HERMITCRAB_ATTEMPT_TRADE.HIGH.1.1"
+msgid "My favorite customer!"
+msgstr "Tu fais partie de mes clients préférés !"
+
+#. HERMITCRAB_ATTEMPT_TRADE.HIGH.1.2
+msgctxt "HERMITCRAB_ATTEMPT_TRADE.HIGH.1.2"
+msgid "What do you need today, dearie?"
+msgstr "De quoi as-tu besoin aujourd'hui, trésor ?"
+
+#. HERMITCRAB_ATTEMPT_TRADE.LOW.1
+msgctxt "HERMITCRAB_ATTEMPT_TRADE.LOW.1"
+msgid "Don't talk to me if you have nothing to trade."
+msgstr "Ne me dérange pas si tu n'as rien à échanger."
+
+#. HERMITCRAB_ATTEMPT_TRADE.MED.1
+msgctxt "HERMITCRAB_ATTEMPT_TRADE.MED.1"
+msgid "Have anything to trade today?"
+msgstr "Tu as quelque chose pour moi ?"
+
+#. HERMITCRAB_COMPLAIN.FILL_MEATRACKS.HIGH.1
+msgctxt "HERMITCRAB_COMPLAIN.FILL_MEATRACKS.HIGH.1"
+msgid "Could you dry some meat for me, dearie?"
+msgstr "Pourrais-tu faire sécher de la viande pour moi, trésor ?"
+
+#. HERMITCRAB_COMPLAIN.FILL_MEATRACKS.LOW.1
+msgctxt "HERMITCRAB_COMPLAIN.FILL_MEATRACKS.LOW.1"
+msgid "Hmph... never any meat around here for drying..."
+msgstr "Hmf... Il n'y a jamais de viande à faire sécher ici..."
+
+#. HERMITCRAB_COMPLAIN.FILL_MEATRACKS.MED.1.1
+msgctxt "HERMITCRAB_COMPLAIN.FILL_MEATRACKS.MED.1.1"
+msgid "My drying racks are empty again?"
+msgstr "Mes séchoirs à viande sont encore vides."
+
+#. HERMITCRAB_COMPLAIN.FILL_MEATRACKS.MED.1.2
+msgctxt "HERMITCRAB_COMPLAIN.FILL_MEATRACKS.MED.1.2"
+msgid "So much work for these old claws..."
+msgstr "C'est trop de travail pour mes vieilles griffes..."
+
+#. HERMITCRAB_COMPLAIN.GIVE_FISH_AUTUM.HIGH.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FISH_AUTUM.HIGH.1"
+msgid "Would you bring me a Fallounder, dearie?"
+msgstr "Tu peux m'apporter un octobrème, trésor ?"
+
+#. HERMITCRAB_COMPLAIN.GIVE_FISH_AUTUM.LOW.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FISH_AUTUM.LOW.1"
+msgid "I think Fallounders are in season."
+msgstr "Je crois que c'est la saison des octobrèmes."
+
+#. HERMITCRAB_COMPLAIN.GIVE_FISH_AUTUM.MED.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FISH_AUTUM.MED.1"
+msgid "Nothing says autumn like some tasty Fallounder..."
+msgstr "Les succulents octobrèmes symbolisent parfaitement l'automne."
+
+#. HERMITCRAB_COMPLAIN.GIVE_FISH_SPRING.HIGH.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FISH_SPRING.HIGH.1"
+msgid "Let me know if you catch a Bloomfin Tuna, dearie!"
+msgstr "Préviens-moi si tu pêches un thon fleuri, trésor !"
+
+#. HERMITCRAB_COMPLAIN.GIVE_FISH_SPRING.LOW.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FISH_SPRING.LOW.1"
+msgid "Thought I saw some Bloomfin Tuna yesterday..."
+msgstr "J'ai cru apercevoir un thon fleuri hier..."
+
+#. HERMITCRAB_COMPLAIN.GIVE_FISH_SPRING.MED.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FISH_SPRING.MED.1"
+msgid "This weather is perfect for Bloomfin Tuna..."
+msgstr "Ce temps est idéal pour les thons fleuris..."
+
+#. HERMITCRAB_COMPLAIN.GIVE_FISH_SUMMER.HIGH.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FISH_SUMMER.HIGH.1"
+msgid "I would love a Scorching Sunfish, if you have it."
+msgstr "J'adorerais un poissoleil ardent, si tu en as un."
+
+#. HERMITCRAB_COMPLAIN.GIVE_FISH_SUMMER.LOW.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FISH_SUMMER.LOW.1"
+msgid "The Scorching Sunfish should be migrating now."
+msgstr "C'est la saison de la migration du poissoleil ardent."
+
+#. HERMITCRAB_COMPLAIN.GIVE_FISH_SUMMER.MED.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FISH_SUMMER.MED.1"
+msgid "Nothing says summer like some Scorching Sunfish..."
+msgstr "Rien ne m'évoque autant l'été que le poissoleil ardent."
+
+#. HERMITCRAB_COMPLAIN.GIVE_FISH_WINTER.HIGH.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FISH_WINTER.HIGH.1"
+msgid "Dearie, could you catch an Ice Bream for me?"
+msgstr "Trésor, pourrais-tu me pêcher une dorade glacée ?"
+
+#. HERMITCRAB_COMPLAIN.GIVE_FISH_WINTER.LOW.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FISH_WINTER.LOW.1"
+msgid "Hmph. Should be Ice Bream season right about now."
+msgstr "Hmf. C'est la saison des dorades glacées."
+
+#. HERMITCRAB_COMPLAIN.GIVE_FISH_WINTER.MED.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FISH_WINTER.MED.1"
+msgid "I used to catch Ice Bream all through the winter..."
+msgstr "Autrefois, je pêchais des dorades glacées tout au long de l'hiver."
+
+#. HERMITCRAB_COMPLAIN.GIVE_FLOWER_SALAD.HIGH.1.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FLOWER_SALAD.HIGH.1.1"
+msgid "Flower salad brings back such memories..."
+msgstr "La salade de fleurs ravive toujours tant de souvenirs..."
+
+#. HERMITCRAB_COMPLAIN.GIVE_FLOWER_SALAD.HIGH.1.2
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FLOWER_SALAD.HIGH.1.2"
+msgid "Could you make some for me?"
+msgstr "Pourrais-tu m'en préparer ?"
+
+#. HERMITCRAB_COMPLAIN.GIVE_FLOWER_SALAD.LOW.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FLOWER_SALAD.LOW.1"
+msgid "Hmph. No ingredients for flower salad around..."
+msgstr "Hmf. Je ne trouve les pas ingrédients de la salade de fleurs par ici..."
+
+#. HERMITCRAB_COMPLAIN.GIVE_FLOWER_SALAD.MED.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FLOWER_SALAD.MED.1"
+msgid "My sweetie used to make my favorite... flower salad..."
+msgstr "Mon biquet me préparait mon plat préféré : de la salade de fleurs..."
+
+#. HERMITCRAB_COMPLAIN.GIVE_HEAVY_FISH.HIGH.1.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_HEAVY_FISH.HIGH.1.1"
+msgid "If you could bring me some big fish..."
+msgstr "Si seulement vous pouviez m'apporter un gros poisson..."
+
+#. HERMITCRAB_COMPLAIN.GIVE_HEAVY_FISH.HIGH.1.2
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_HEAVY_FISH.HIGH.1.2"
+msgid "I'd be so happy!"
+msgstr "Je serais si heureuse !"
+
+#. HERMITCRAB_COMPLAIN.GIVE_HEAVY_FISH.LOW.1.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_HEAVY_FISH.LOW.1.1"
+msgid "(Grumble)... only ever catch minnows..."
+msgstr "*Grogne*... Je ne pêche que du menu fretin..."
+
+#. HERMITCRAB_COMPLAIN.GIVE_HEAVY_FISH.LOW.1.2
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_HEAVY_FISH.LOW.1.2"
+msgid "Never a nice big fish..."
+msgstr "Je n'ai jamais pêché de gros poisson..."
+
+#. HERMITCRAB_COMPLAIN.GIVE_HEAVY_FISH.MED.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_HEAVY_FISH.MED.1"
+msgid "If only SOMEONE could bring me some big, juicy fish..."
+msgstr "Si seulement QUELQU'UN pouvait m'apporter un gros poisson bien dodu..."
+
+#. HERMITCRAB_COMPLAIN.GIVE_PUFFY_VEST.HIGH.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_PUFFY_VEST.HIGH.1"
+msgid "Ooooh, I do wish I had something warm to wear."
+msgstr "Oooooh, j'aimerais tant avoir quelque chose de chaud à me mettre."
+
+#. HERMITCRAB_COMPLAIN.GIVE_PUFFY_VEST.LOW.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_PUFFY_VEST.LOW.1"
+msgid "(Grumble) It's freezing out here!"
+msgstr "*Grogne* On gèle aujourd'hui !"
+
+#. HERMITCRAB_COMPLAIN.GIVE_PUFFY_VEST.MED.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_PUFFY_VEST.MED.1"
+msgid "Brrr, this cold weather is terrible for my rheumatism."
+msgstr "Brrr, le froid est terrible pour mes rhumatismes."
+
+#. HERMITCRAB_COMPLAIN.GIVE_UMBRELLA.HIGH.1.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_UMBRELLA.HIGH.1.1"
+msgid "What terrible weather."
+msgstr "Quel temps épouvantable !"
+
+#. HERMITCRAB_COMPLAIN.GIVE_UMBRELLA.HIGH.1.2
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_UMBRELLA.HIGH.1.2"
+msgid "Do you have an umbrella, dearie?"
+msgstr "Aurais-tu un parapluie, trésor ?"
+
+#. HERMITCRAB_COMPLAIN.GIVE_UMBRELLA.LOW.1.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_UMBRELLA.LOW.1.1"
+msgid "Miserable rain..."
+msgstr "La pluie me rend triste..."
+
+#. HERMITCRAB_COMPLAIN.GIVE_UMBRELLA.LOW.1.2
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_UMBRELLA.LOW.1.2"
+msgid "I'll catch my death..."
+msgstr "Je vais attraper la mort..."
+
+#. HERMITCRAB_COMPLAIN.GIVE_UMBRELLA.MED.1.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_UMBRELLA.MED.1.1"
+msgid "I'm getting soaked to the chitin!"
+msgstr "Ma chitine est trempée !"
+
+#. HERMITCRAB_COMPLAIN.GIVE_UMBRELLA.MED.1.2
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_UMBRELLA.MED.1.2"
+msgid "If only I had an umbrella..."
+msgstr "Si seulement j'avais un parapluie..."
+
+#. HERMITCRAB_COMPLAIN.PLANT_BERRIES.HIGH.1.1
+msgctxt "HERMITCRAB_COMPLAIN.PLANT_BERRIES.HIGH.1.1"
+msgid "Care to help me with some gardening?"
+msgstr "Pourrais-tu faire un peu de jardinage pour moi ?"
+
+#. HERMITCRAB_COMPLAIN.PLANT_BERRIES.HIGH.1.2
+msgctxt "HERMITCRAB_COMPLAIN.PLANT_BERRIES.HIGH.1.2"
+msgid "I need some new berry bushes."
+msgstr "J'ai besoin de nouveaux buissons à baies."
+
+#. HERMITCRAB_COMPLAIN.PLANT_BERRIES.LOW.1
+msgctxt "HERMITCRAB_COMPLAIN.PLANT_BERRIES.LOW.1"
+msgid "All of my berry bushes died."
+msgstr "Tous mes buissons à baies sont morts."
+
+#. HERMITCRAB_COMPLAIN.PLANT_BERRIES.MED.1
+msgctxt "HERMITCRAB_COMPLAIN.PLANT_BERRIES.MED.1"
+msgid "I miss my garden... I used to grow berries..."
+msgstr "Mon jardin me manque... J'y faisais pousser des baies..."
+
+#. HERMITCRAB_COMPLAIN.PLANT_FLOWERS.HIGH.1.1
+msgctxt "HERMITCRAB_COMPLAIN.PLANT_FLOWERS.HIGH.1.1"
+msgid "Dearie, would you..."
+msgstr "Trésor, pourrais-tu..."
+
+#. HERMITCRAB_COMPLAIN.PLANT_FLOWERS.HIGH.1.2
+msgctxt "HERMITCRAB_COMPLAIN.PLANT_FLOWERS.HIGH.1.2"
+msgid "Help me plant some flowers?"
+msgstr "M'aider à planter des fleurs ?"
+
+#. HERMITCRAB_COMPLAIN.PLANT_FLOWERS.LOW.1
+msgctxt "HERMITCRAB_COMPLAIN.PLANT_FLOWERS.LOW.1"
+msgid "Useless lazy bees... not a drop of honey..."
+msgstr "Ces abeilles inutiles... Pas une goutte de miel..."
+
+#. HERMITCRAB_COMPLAIN.PLANT_FLOWERS.MED.1
+msgctxt "HERMITCRAB_COMPLAIN.PLANT_FLOWERS.MED.1"
+msgid "When I had my flower garden, the bees made honey all the time."
+msgstr "Quand j'avais des fleurs, les abeilles produisaient tout le temps du miel."
+
+#. HERMITCRAB_COMPLAIN.REMOVE_JUNK.HIGH.1
+msgctxt "HERMITCRAB_COMPLAIN.REMOVE_JUNK.HIGH.1"
+msgid "You look spry! Could you get rid of that junk in the water?"
+msgstr "Tu as l'air en forme ! Pourrais-tu retirer tout ce bazar, dans l'eau ?"
+
+#. HERMITCRAB_COMPLAIN.REMOVE_JUNK.LOW.1
+msgctxt "HERMITCRAB_COMPLAIN.REMOVE_JUNK.LOW.1"
+msgid "(Grumble)... water's all full of junk..."
+msgstr "*Grogne*... Il y a tout un tas de choses dans l'eau..."
+
+#. HERMITCRAB_COMPLAIN.REMOVE_JUNK.MED.1
+msgctxt "HERMITCRAB_COMPLAIN.REMOVE_JUNK.MED.1"
+msgid "The water's so full of junk, I can't even see the fish!"
+msgstr "Il y a tellement de choses dans l'eau que je ne vois même pas les poissons !"
+
+#. HERMITCRAB_COMPLAIN.REMOVE_LUREPLANT.HIGH.1.1
+msgctxt "HERMITCRAB_COMPLAIN.REMOVE_LUREPLANT.HIGH.1.1"
+msgid "Would you be a dear?"
+msgstr "Pourrais-tu me rendre un service, trésor ?"
+
+#. HERMITCRAB_COMPLAIN.REMOVE_LUREPLANT.HIGH.1.2
+msgctxt "HERMITCRAB_COMPLAIN.REMOVE_LUREPLANT.HIGH.1.2"
+msgid "Take care of that awful plant for me."
+msgstr "Occupe-toi de cette ignoble plante pour moi."
+
+#. HERMITCRAB_COMPLAIN.REMOVE_LUREPLANT.LOW.1.1
+msgctxt "HERMITCRAB_COMPLAIN.REMOVE_LUREPLANT.LOW.1.1"
+msgid "That horrible plant..."
+msgstr "Cette horrible plante..."
+
+#. HERMITCRAB_COMPLAIN.REMOVE_LUREPLANT.LOW.1.2
+msgctxt "HERMITCRAB_COMPLAIN.REMOVE_LUREPLANT.LOW.1.2"
+msgid "Such an eyesore..."
+msgstr "Elle me gâche la vue !"
+
+#. HERMITCRAB_COMPLAIN.REMOVE_LUREPLANT.MED.1
+msgctxt "HERMITCRAB_COMPLAIN.REMOVE_LUREPLANT.MED.1"
+msgid "That lureplant is going to take over my whole yard!"
+msgstr "Cette plante leurre va envahir tout mon jardin !"
+
+#. HERMITCRAB_DEFAULT_REWARD.HIGH.1
+msgctxt "HERMITCRAB_DEFAULT_REWARD.HIGH.1"
+msgid "Such a big help! Thank you."
+msgstr "Tu m'es d'une aide inestimable ! Merci."
+
+#. HERMITCRAB_DEFAULT_REWARD.LOW.1.1
+msgctxt "HERMITCRAB_DEFAULT_REWARD.LOW.1.1"
+msgid "I guess you want something for helping me out?"
+msgstr "J'imagine que tu veux quelque chose en remerciement ?"
+
+#. HERMITCRAB_DEFAULT_REWARD.LOW.1.2
+msgctxt "HERMITCRAB_DEFAULT_REWARD.LOW.1.2"
+msgid "Fine."
+msgstr "Très bien."
+
+#. HERMITCRAB_DEFAULT_REWARD.MED.1
+msgctxt "HERMITCRAB_DEFAULT_REWARD.MED.1"
+msgid "I guess it's not so bad having you around."
+msgstr "C'est plutôt agréable de t'avoir dans les parages."
+
+#. HERMITCRAB_FIGHT.1.1
+msgctxt "HERMITCRAB_FIGHT.1.1"
+msgid "You louse!"
+msgstr "Mufle !"
+
+#. HERMITCRAB_FIGHT.1.2
+msgctxt "HERMITCRAB_FIGHT.1.2"
+msgid "Bullying a sweet, innocent old lady like myself!"
+msgstr "T'en prendre à une vieille dame innocente comme moi !"
+
+#. HERMITCRAB_GETFISH_BIG.1
+msgctxt "HERMITCRAB_GETFISH_BIG.1"
+msgid "Now that's a proper-sized fish!"
+msgstr "Voilà un beau poisson !"
+
+#. HERMITCRAB_GIVE_PEARL.1
+msgctxt "HERMITCRAB_GIVE_PEARL.1"
+msgid "If you find my sweetie on your travels..."
+msgstr "Si tu trouves mon biquet au cours de tes pérégrinations..."
+
+#. HERMITCRAB_GIVE_PEARL.2
+msgctxt "HERMITCRAB_GIVE_PEARL.2"
+msgid "Could you... give him that pearl?"
+msgstr "Pourrais-tu... lui donner cette perle ?"
+
+#. HERMITCRAB_GIVE_PEARL.3
+msgctxt "HERMITCRAB_GIVE_PEARL.3"
+msgid "He'll recognize it."
+msgstr "Il la reconnaîtra."
+
+#. HERMITCRAB_GOT_PEARL.1
+msgctxt "HERMITCRAB_GOT_PEARL.1"
+msgid "Oh..."
+msgstr "Oh..."
+
+#. HERMITCRAB_GOT_PEARL.2
+msgctxt "HERMITCRAB_GOT_PEARL.2"
+msgid "...I think I understand now."
+msgstr "...Je crois que je comprends."
+
+#. HERMITCRAB_GOT_PEARL.3
+msgctxt "HERMITCRAB_GOT_PEARL.3"
+msgid "Thank you for bringing this back to me."
+msgstr "Merci de me l'avoir rapportée."
+
+#. HERMITCRAB_GOT_PEARL.4
+msgctxt "HERMITCRAB_GOT_PEARL.4"
+msgid "I'm so glad you kept coming back."
+msgstr "Je suis contente que tu aies continué à revenir."
+
+#. HERMITCRAB_GOT_PEARL.5
+msgctxt "HERMITCRAB_GOT_PEARL.5"
+msgid "My friend."
+msgstr "Tu as toute mon amitié."
+
+#. HERMITCRAB_GO_HOME.1
+msgctxt "HERMITCRAB_GO_HOME.1"
+msgid "Time to rest this old chitin."
+msgstr "Il est temps pour moi de reposer ma vieille chitine."
+
+#. HERMITCRAB_GREETING.0.1
+msgctxt "HERMITCRAB_GREETING.0.1"
+msgid "Go away!"
+msgstr "Ouste !"
+
+#. HERMITCRAB_GREETING.0.2
+msgctxt "HERMITCRAB_GREETING.0.2"
+msgid "Shoo!"
+msgstr "Du vent !"
+
+#. HERMITCRAB_GREETING.0.3
+msgctxt "HERMITCRAB_GREETING.0.3"
+msgid "Leave me alone!"
+msgstr "Laisse-moi tranquille !"
+
+#. HERMITCRAB_GREETING.0.4
+msgctxt "HERMITCRAB_GREETING.0.4"
+msgid "No trespassing!"
+msgstr "C'est une propriété privée !"
+
+#. HERMITCRAB_GREETING.0.5
+msgctxt "HERMITCRAB_GREETING.0.5"
+msgid "Get off my beach!"
+msgstr "C'est ma plage ici !"
+
+#. HERMITCRAB_GREETING.1.1
+msgctxt "HERMITCRAB_GREETING.1.1"
+msgid "Hmph."
+msgstr "Hmf."
+
+#. HERMITCRAB_GREETING.1.2
+msgctxt "HERMITCRAB_GREETING.1.2"
+msgid "Go find someone else to bother!"
+msgstr "Va embêter quelqu'un d'autre !"
+
+#. HERMITCRAB_GREETING.10.1
+msgctxt "HERMITCRAB_GREETING.10.1"
+msgid "How have you been, dearie?"
+msgstr "Comment ça va, trésor ?"
+
+#. HERMITCRAB_GREETING.10.2
+msgctxt "HERMITCRAB_GREETING.10.2"
+msgid "If it isn't my favorite visitor!"
+msgstr "Ça me fait plaisir de te voir !"
+
+#. HERMITCRAB_GREETING.10.3
+msgctxt "HERMITCRAB_GREETING.10.3"
+msgid "Are you eating enough?"
+msgstr "Tu n'as que la peau sur les os !"
+
+#. HERMITCRAB_GREETING.2.1
+msgctxt "HERMITCRAB_GREETING.2.1"
+msgid "What are you doing here?"
+msgstr "Qu'est-ce que tu fais ici ?"
+
+#. HERMITCRAB_GREETING.2.2
+msgctxt "HERMITCRAB_GREETING.2.2"
+msgid "What do you want?"
+msgstr "Qu'est-ce que tu veux ?"
+
+#. HERMITCRAB_GREETING.3.1
+msgctxt "HERMITCRAB_GREETING.3.1"
+msgid "You're back?"
+msgstr "Te revoilà !"
+
+#. HERMITCRAB_GREETING.3.2
+msgctxt "HERMITCRAB_GREETING.3.2"
+msgid "Don't you have anything better to do?"
+msgstr "Tu n'as rien de mieux à faire ?"
+
+#. HERMITCRAB_GREETING.3.3
+msgctxt "HERMITCRAB_GREETING.3.3"
+msgid "Troublesome whipper-snapper..."
+msgstr "Arrête de me courir sur le haricot !"
+
+#. HERMITCRAB_GREETING.4.1.1
+msgctxt "HERMITCRAB_GREETING.4.1.1"
+msgid "You're persistent"
+msgstr "Tu es tenace."
+
+#. HERMITCRAB_GREETING.4.1.2
+msgctxt "HERMITCRAB_GREETING.4.1.2"
+msgid "I'll give you that."
+msgstr "Je veux bien l'admettre."
+
+#. HERMITCRAB_GREETING.4.2
+msgctxt "HERMITCRAB_GREETING.4.2"
+msgid "Hmph. Just don't make a nuisance of yourself."
+msgstr "Hmf. Bon, tâche de ne pas te faire remarquer."
+
+#. HERMITCRAB_GREETING.5.1
+msgctxt "HERMITCRAB_GREETING.5.1"
+msgid "Just can't get enough of my sparkling personality, hmm?"
+msgstr "Tu ne peux pas te passer de ma personnalité brillante ?"
+
+#. HERMITCRAB_GREETING.5.2.1
+msgctxt "HERMITCRAB_GREETING.5.2.1"
+msgid "Well, if it isn't... hm..."
+msgstr "Eh bien, si ce n'est pas... euh..."
+
+#. HERMITCRAB_GREETING.5.2.2
+msgctxt "HERMITCRAB_GREETING.5.2.2"
+msgid "What was your name?"
+msgstr "Comment tu t'appelles, déjà ?"
+
+#. HERMITCRAB_GREETING.6.1
+msgctxt "HERMITCRAB_GREETING.6.1"
+msgid "Why are you helping me?"
+msgstr "Pourquoi m'aides-tu ?"
+
+#. HERMITCRAB_GREETING.7.1
+msgctxt "HERMITCRAB_GREETING.7.1"
+msgid "It's been hard taking care of this old place by myself."
+msgstr "C'est si difficile pour moi d'entretenir cet endroit toute seule."
+
+#. HERMITCRAB_GREETING.7.2
+msgctxt "HERMITCRAB_GREETING.7.2"
+msgid "I think I forgot how nice it is to have visitors."
+msgstr "J'avais oublié à quel point c'est agréable d'avoir de la visite."
+
+#. HERMITCRAB_GREETING.7.3
+msgctxt "HERMITCRAB_GREETING.7.3"
+msgid "I've been awfully hard on you, haven't I?"
+msgstr "Je crois que j'ai été très dure avec toi."
+
+#. HERMITCRAB_GREETING.8.1
+msgctxt "HERMITCRAB_GREETING.8.1"
+msgid "Hello again!"
+msgstr "Rebonjour !"
+
+#. HERMITCRAB_GREETING.8.2
+msgctxt "HERMITCRAB_GREETING.8.2"
+msgid "Well, if it isn't %s!"
+msgstr "Eh bien, si ce n'est pas %s !"
+
+#. HERMITCRAB_GREETING.9.1
+msgctxt "HERMITCRAB_GREETING.9.1"
+msgid "It's so nice to see you, dearie!"
+msgstr "Je suis si contente de te revoir, trésor !"
+
+#. HERMITCRAB_GREETING.9.2.1
+msgctxt "HERMITCRAB_GREETING.9.2.1"
+msgid "This world is so full of dangers..."
+msgstr "Le monde est si dangereux..."
+
+#. HERMITCRAB_GREETING.9.2.2
+msgctxt "HERMITCRAB_GREETING.9.2.2"
+msgid "You be careful out there, alright?"
+msgstr "Fais attention à toi, d'accord ?"
+
+#. HERMITCRAB_GROUP_REWARD.HIGH.1.1
+msgctxt "HERMITCRAB_GROUP_REWARD.HIGH.1.1"
+msgid "You've done such a wonderful job!"
+msgstr "Tu as fait du très bon travail !"
+
+#. HERMITCRAB_GROUP_REWARD.HIGH.1.2
+msgctxt "HERMITCRAB_GROUP_REWARD.HIGH.1.2"
+msgid "Here, it's the least I can do."
+msgstr "Tiens, c'est le moins que je puisse faire."
+
+#. HERMITCRAB_GROUP_REWARD.LOW.1.1
+msgctxt "HERMITCRAB_GROUP_REWARD.LOW.1.1"
+msgid "I don't know what you're playing at"
+msgstr "Je ne sais pas à quoi tu joues,"
+
+#. HERMITCRAB_GROUP_REWARD.LOW.1.2
+msgctxt "HERMITCRAB_GROUP_REWARD.LOW.1.2"
+msgid "but don't think I owe you now!"
+msgstr "mais je ne te dois rien !"
+
+#. HERMITCRAB_GROUP_REWARD.MED.1
+msgctxt "HERMITCRAB_GROUP_REWARD.MED.1"
+msgid "You've been busy! I suppose I should repay you."
+msgstr "Tu as bien travaillé ! Je t'en dois une."
+
+#. HERMITCRAB_HARVESTMEAT.HIGH.1
+msgctxt "HERMITCRAB_HARVESTMEAT.HIGH.1"
+msgid "Oooh, I do love some tasty dried meats!"
+msgstr "Ooooh, j'aime tellement la viande séchée !"
+
+#. HERMITCRAB_HARVESTMEAT.LOW.1
+msgctxt "HERMITCRAB_HARVESTMEAT.LOW.1"
+msgid "Hmph... looks pretty stringy."
+msgstr "Hmf... C'est très fibreux."
+
+#. HERMITCRAB_HARVESTMEAT.MED.1
+msgctxt "HERMITCRAB_HARVESTMEAT.MED.1"
+msgid "Hm... doesn't look too bad."
+msgstr "Ça n'a pas l'air mal."
+
+#. HERMITCRAB_INTRODUCE.1.1
+msgctxt "HERMITCRAB_INTRODUCE.1.1"
+msgid "You've done so much for me."
+msgstr "Tu en as tant fait pour moi."
+
+#. HERMITCRAB_INTRODUCE.1.2
+msgctxt "HERMITCRAB_INTRODUCE.1.2"
+msgid "Please, call me Pearl."
+msgstr "Je t'en prie, appelle-moi Perle."
+
+#. HERMITCRAB_INVESTIGATE.FILL_MEATRACKS.HIGH.1
+msgctxt "HERMITCRAB_INVESTIGATE.FILL_MEATRACKS.HIGH.1"
+msgid "Hoo-hoo! That's some tasty jerky in the making!"
+msgstr "Waouh, ça va faire de la viande séchée succulente !"
+
+#. HERMITCRAB_INVESTIGATE.FILL_MEATRACKS.LOW.1
+msgctxt "HERMITCRAB_INVESTIGATE.FILL_MEATRACKS.LOW.1"
+msgid "You don't want it anymore? Has it gone off?"
+msgstr "Tu n'en veux plus ? Elle a tourné ?"
+
+#. HERMITCRAB_INVESTIGATE.FILL_MEATRACKS.MED.1
+msgctxt "HERMITCRAB_INVESTIGATE.FILL_MEATRACKS.MED.1"
+msgid "I'll never say no to free meat!"
+msgstr "Je ne refuse jamais de la viande gratuite !"
+
+#. HERMITCRAB_INVESTIGATE.PLANT_BERRIES.HIGH.1
+msgctxt "HERMITCRAB_INVESTIGATE.PLANT_BERRIES.HIGH.1"
+msgid "You are quite the gardener, dearie!"
+msgstr "Tu as la main verte, trésor !"
+
+#. HERMITCRAB_INVESTIGATE.PLANT_BERRIES.LOW.1
+msgctxt "HERMITCRAB_INVESTIGATE.PLANT_BERRIES.LOW.1"
+msgid "Well. At least you're doing something useful."
+msgstr "Au moins, tu te rends utile."
+
+#. HERMITCRAB_INVESTIGATE.PLANT_BERRIES.MED.1
+msgctxt "HERMITCRAB_INVESTIGATE.PLANT_BERRIES.MED.1"
+msgid "Maybe another one over there?"
+msgstr "Peut-être qu'il en reste ?"
+
+#. HERMITCRAB_INVESTIGATE.PLANT_FLOWERS.HIGH.1
+msgctxt "HERMITCRAB_INVESTIGATE.PLANT_FLOWERS.HIGH.1"
+msgid "How pretty!"
+msgstr "C'est joli !"
+
+#. HERMITCRAB_INVESTIGATE.PLANT_FLOWERS.LOW.1
+msgctxt "HERMITCRAB_INVESTIGATE.PLANT_FLOWERS.LOW.1"
+msgid "Huh? What are you doing?"
+msgstr "Mais qu'est-ce que tu fais ?"
+
+#. HERMITCRAB_INVESTIGATE.PLANT_FLOWERS.MED.1
+msgctxt "HERMITCRAB_INVESTIGATE.PLANT_FLOWERS.MED.1"
+msgid "Hm... those look nice."
+msgstr "Oh, c'est joli !"
+
+#. HERMITCRAB_INVESTIGATE.REMOVE_LUREPLANT.HIGH.1
+msgctxt "HERMITCRAB_INVESTIGATE.REMOVE_LUREPLANT.HIGH.1"
+msgid "You really showed that awful plant!"
+msgstr "Tu as montré à cette horrible plante de quel bois tu te chauffes !"
+
+#. HERMITCRAB_INVESTIGATE.REMOVE_LUREPLANT.LOW.1
+msgctxt "HERMITCRAB_INVESTIGATE.REMOVE_LUREPLANT.LOW.1"
+msgid "Fantastic. My old pest was removed by my new pest."
+msgstr "Fantastique. Mon ancien parasite a été éliminé par mon nouveau parasite."
+
+#. HERMITCRAB_INVESTIGATE.REMOVE_LUREPLANT.MED.1
+msgctxt "HERMITCRAB_INVESTIGATE.REMOVE_LUREPLANT.MED.1"
+msgid "Well, glad that's taken care of."
+msgstr "Voilà une bonne chose de faite."
+
+#. HERMITCRAB_LEVEL10_LOWHEALTH.1.1
+msgctxt "HERMITCRAB_LEVEL10_LOWHEALTH.1.1"
+msgid "Goodness, what happened to you?"
+msgstr "Grands dieux, que t'est-il arrivé ?"
+
+#. HERMITCRAB_LEVEL10_LOWHEALTH.1.2
+msgctxt "HERMITCRAB_LEVEL10_LOWHEALTH.1.2"
+msgid " You need to be more careful!"
+msgstr " Tu dois faire plus attention !"
+
+#. HERMITCRAB_LEVEL10_LOWHUNGER.1.1
+msgctxt "HERMITCRAB_LEVEL10_LOWHUNGER.1.1"
+msgid "Hmph... you look skinny."
+msgstr "Hmf, tu es bien trop maigre."
+
+#. HERMITCRAB_LEVEL10_LOWHUNGER.1.2
+msgctxt "HERMITCRAB_LEVEL10_LOWHUNGER.1.2"
+msgid "Have you been eating well?"
+msgstr "Est-ce que tu manges bien, au moins ?"
+
+#. HERMITCRAB_LEVEL10_LOWSANITY.1.1
+msgctxt "HERMITCRAB_LEVEL10_LOWSANITY.1.1"
+msgid "You look like something's troubling you."
+msgstr "On dirait que tu as l'esprit ailleurs."
+
+#. HERMITCRAB_LEVEL10_LOWSANITY.1.2
+msgctxt "HERMITCRAB_LEVEL10_LOWSANITY.1.2"
+msgid "Is everything alright, dearie?"
+msgstr "Tout va bien, trésor ?"
+
+#. HERMITCRAB_LEVEL10_PLAYERGOOD.1
+msgctxt "HERMITCRAB_LEVEL10_PLAYERGOOD.1"
+msgid "Glad to see you looking well, dearie."
+msgstr "Je suis contente de te voir en forme, trésor."
+
+#. HERMITCRAB_MOON_FISSURE_VENT.HIGH.1
+msgctxt "HERMITCRAB_MOON_FISSURE_VENT.HIGH.1"
+msgid "I didn't notice those weird spooks until I'd settled in."
+msgstr "Je n'ai remarqué ces infamies que quand je me suis installée ici."
+
+#. HERMITCRAB_MOON_FISSURE_VENT.HIGH.2
+msgctxt "HERMITCRAB_MOON_FISSURE_VENT.HIGH.2"
+msgid "They were awful, made my shell crawl..."
+msgstr "Elles me donnaient la chair de poule..."
+
+#. HERMITCRAB_MOON_FISSURE_VENT.HIGH.3
+msgctxt "HERMITCRAB_MOON_FISSURE_VENT.HIGH.3"
+msgid "One of us had to go, and it wasn't going to be me!"
+msgstr "C'était elles ou moi !"
+
+#. HERMITCRAB_MOON_FISSURE_VENT.LOW.1
+msgctxt "HERMITCRAB_MOON_FISSURE_VENT.LOW.1"
+msgid "Took me forever to plug up those darn fissures..."
+msgstr "Ça m'a pris des lustres de boucher ces satanées fissures..."
+
+#. HERMITCRAB_MOON_FISSURE_VENT.LOW.2
+msgctxt "HERMITCRAB_MOON_FISSURE_VENT.LOW.2"
+msgid "Don't go messing with those!"
+msgstr "Ne t'en approche pas !"
+
+#. HERMITCRAB_MOON_FISSURE_VENT.MED.1
+msgctxt "HERMITCRAB_MOON_FISSURE_VENT.MED.1"
+msgid "Not the best lawn ornaments, but they keep the head clear."
+msgstr "C'est vrai que ce n'est pas la plus belle des décorations pour ma pelouse."
+
+#. HERMITCRAB_PANIC.1
+msgctxt "HERMITCRAB_PANIC.1"
+msgid "I can't see a darn thing!"
+msgstr "Je n'y vois rien !"
+
+#. HERMITCRAB_PANICFIRE.1
+msgctxt "HERMITCRAB_PANICFIRE.1"
+msgid "Aaah! I will NOT be broiled!"
+msgstr "Aaaaah ! Je refuse d'être passée à la marmite !"
+
+#. HERMITCRAB_PANICHAUNT.1
+msgctxt "HERMITCRAB_PANICHAUNT.1"
+msgid "You're not taking me yet, spirits!"
+msgstr "Vous ne m'aurez pas, sales spectres !"
+
+#. HERMITCRAB_PLANTED_LUREPLANT_DIED.HIGH.1
+msgctxt "HERMITCRAB_PLANTED_LUREPLANT_DIED.HIGH.1"
+msgid "Dearie, I know you planted that.\nYou don't need to impress me."
+msgstr "Trésor, je sais que tu as planté ça.\nTu n'as pas besoin de m'impressionner."
+
+#. HERMITCRAB_PLANTED_LUREPLANT_DIED.LOW.1
+msgctxt "HERMITCRAB_PLANTED_LUREPLANT_DIED.LOW.1"
+msgid "Nice try.\nYou don't get anything for cleaning up your own messes."
+msgstr "Bel essai.\nTu n'obtiendras rien en nettoyant ce que tu as mis toi-même."
+
+#. HERMITCRAB_PLANTED_LUREPLANT_DIED.MED.1
+msgctxt "HERMITCRAB_PLANTED_LUREPLANT_DIED.MED.1"
+msgid "Do you want a reward that bad?"
+msgstr "Tu veux tellement une récompense ?"
+
+#. HERMITCRAB_REFUSE_COAT.1
+msgctxt "HERMITCRAB_REFUSE_COAT.1"
+msgid "You keep it, I'm not chilly."
+msgstr "Garde-le, je n'ai pas froid."
+
+#. HERMITCRAB_REFUSE_COAT_HASONE.1
+msgctxt "HERMITCRAB_REFUSE_COAT_HASONE.1"
+msgid "I like the coat I have, thank you very much."
+msgstr "J'aime beaucoup mon manteau, mais merci."
+
+#. HERMITCRAB_REFUSE_ICE_HAD.1
+msgctxt "HERMITCRAB_REFUSE_ICE_HAD.1"
+msgid "I don't need any more ice."
+msgstr "Je n'ai pas besoin de plus de glace."
+
+#. HERMITCRAB_REFUSE_ICE_HOT.1
+msgctxt "HERMITCRAB_REFUSE_ICE_HOT.1"
+msgid "Don't be silly, it's already freezing out here!"
+msgstr "Ne sois pas bête, on gèle déjà ici !"
+
+#. HERMITCRAB_REFUSE_SALAD.1.1
+msgctxt "HERMITCRAB_REFUSE_SALAD.1.1"
+msgid "I don't want that right now..."
+msgstr "Je n'ai pas besoin de ça..."
+
+#. HERMITCRAB_REFUSE_SALAD.1.2
+msgctxt "HERMITCRAB_REFUSE_SALAD.1.2"
+msgid "it makes me too sad..."
+msgstr "Ça me rend triste..."
+
+#. HERMITCRAB_REFUSE_SMALL_FISH.1
+msgctxt "HERMITCRAB_REFUSE_SMALL_FISH.1"
+msgid "You think {weight} is impressive?\nWhat is that, a minnow?"
+msgstr "Tu crois que c'est impressionnant, {weight} ?\nCe n'est qu'un bébé."
+
+#. HERMITCRAB_REFUSE_SMALL_FISH.2
+msgctxt "HERMITCRAB_REFUSE_SMALL_FISH.2"
+msgid "Wow, {weight}...\nI've never caught a fish this small."
+msgstr "Oh, {weight}...\nJe n'ai jamais pêché un si petit poisson."
+
+#. HERMITCRAB_REFUSE_SMALL_FISH.3
+msgctxt "HERMITCRAB_REFUSE_SMALL_FISH.3"
+msgid "Only {weight}?\nYou should have put it back."
+msgstr "Seulement {weight} ?\nTu aurais dû le remettre à l'eau."
+
+#. HERMITCRAB_REFUSE_UMBRELLA.1
+msgctxt "HERMITCRAB_REFUSE_UMBRELLA.1"
+msgid "It's not even raining..."
+msgstr "Il ne pleut même pas..."
+
+#. HERMITCRAB_REFUSE_UMBRELLA_HASONE.1
+msgctxt "HERMITCRAB_REFUSE_UMBRELLA_HASONE.1"
+msgid "My own umbrella will do just fine, thank you."
+msgstr "Mon propre parapluie me convient très bien, merci."
+
+#. HERMITCRAB_REFUSE_VEST.1
+msgctxt "HERMITCRAB_REFUSE_VEST.1"
+msgid "I'd boil if I wore that in this heat!"
+msgstr "Je vais bouillir si je porte ça en plein soleil !"
+
+#. HERMITCRAB_REWARD.FILL_MEATRACKS.HIGH.1
+msgctxt "HERMITCRAB_REWARD.FILL_MEATRACKS.HIGH.1"
+msgid "I hope it wasn't too much trouble..."
+msgstr "J'espère que cela ne t'a pas pris trop de temps."
+
+#. HERMITCRAB_REWARD.FILL_MEATRACKS.LOW.1
+msgctxt "HERMITCRAB_REWARD.FILL_MEATRACKS.LOW.1"
+msgid "Let me guess, you want something in return? Fine..."
+msgstr "Attendez, tu veux quelque chose en échange, c'est ça ? Très bien..."
+
+#. HERMITCRAB_REWARD.FILL_MEATRACKS.MED.1
+msgctxt "HERMITCRAB_REWARD.FILL_MEATRACKS.MED.1"
+msgid "Thanks... but don't think this means we're friends!"
+msgstr "Merci... mais tu ne gagnes pas mon amitié pour autant !"
+
+#. HERMITCRAB_REWARD.FIX_HOUSE_1.HIGH.1
+msgctxt "HERMITCRAB_REWARD.FIX_HOUSE_1.HIGH.1"
+msgid "My goodness, it looks good as new!"
+msgstr "Grands dieux, elle est comme neuve !"
+
+#. HERMITCRAB_REWARD.FIX_HOUSE_1.LOW.1
+msgctxt "HERMITCRAB_REWARD.FIX_HOUSE_1.LOW.1"
+msgid "Oh good, you didn't completely ruin my house."
+msgstr "Malheur, tu as complètement détruit ma maison."
+
+#. HERMITCRAB_REWARD.FIX_HOUSE_1.MED.1
+msgctxt "HERMITCRAB_REWARD.FIX_HOUSE_1.MED.1"
+msgid "I'd been meaning to fix the place up for a while..."
+msgstr "Ça fait des lustres que je voulais faire des travaux."
+
+#. HERMITCRAB_REWARD.FIX_HOUSE_2.HIGH.1
+msgctxt "HERMITCRAB_REWARD.FIX_HOUSE_2.HIGH.1"
+msgid "Oh dearie, I love what you've done with the place!"
+msgstr "Oh, trésor, j'adore ce que tu as fait !"
+
+#. HERMITCRAB_REWARD.FIX_HOUSE_2.LOW.1
+msgctxt "HERMITCRAB_REWARD.FIX_HOUSE_2.LOW.1"
+msgid "...I suppose that is an improvement."
+msgstr "...J'imagine que c'est mieux qu'avant."
+
+#. HERMITCRAB_REWARD.FIX_HOUSE_2.MED.1
+msgctxt "HERMITCRAB_REWARD.FIX_HOUSE_2.MED.1"
+msgid "You... did this for me...?"
+msgstr "Tu... as fait ça pour moi... ?"
+
+#. HERMITCRAB_REWARD.FIX_HOUSE_3.HIGH.1.1
+msgctxt "HERMITCRAB_REWARD.FIX_HOUSE_3.HIGH.1.1"
+msgid "Oh, it's wonderful!"
+msgstr "Oh, c'est merveilleux !"
+
+#. HERMITCRAB_REWARD.FIX_HOUSE_3.HIGH.1.2
+msgctxt "HERMITCRAB_REWARD.FIX_HOUSE_3.HIGH.1.2"
+msgid "I feel like a Queen in her palace"
+msgstr "Je me sens comme une reine dans son palais."
+
+#. HERMITCRAB_REWARD.FIX_HOUSE_3.HIGH.1.3
+msgctxt "HERMITCRAB_REWARD.FIX_HOUSE_3.HIGH.1.3"
+msgid "Hoo-hoo!"
+msgstr "Wouhouuuu !"
+
+#. HERMITCRAB_REWARD.FIX_HOUSE_3.LOW.1
+msgctxt "HERMITCRAB_REWARD.FIX_HOUSE_3.LOW.1"
+msgid "Oh. That does look a bit better."
+msgstr "Oh. C'est un peu mieux."
+
+#. HERMITCRAB_REWARD.FIX_HOUSE_3.MED.1.1
+msgctxt "HERMITCRAB_REWARD.FIX_HOUSE_3.MED.1.1"
+msgid "I barely recognize the place!"
+msgstr "Je reconnais à peine ma maison !"
+
+#. HERMITCRAB_REWARD.FIX_HOUSE_3.MED.1.2
+msgctxt "HERMITCRAB_REWARD.FIX_HOUSE_3.MED.1.2"
+msgid "Oh don't look worried, that's a good thing."
+msgstr "Oh, ne t'en fais pas, ça me plaît."
+
+#. HERMITCRAB_REWARD.GIVE_FISH_AUTUM.HIGH.1
+msgctxt "HERMITCRAB_REWARD.GIVE_FISH_AUTUM.HIGH.1"
+msgid "Thank you dearie! Here, why don't you take one of these."
+msgstr "Merci, trésor. Tiens, prends ça."
+
+#. HERMITCRAB_REWARD.GIVE_FISH_AUTUM.LOW.1
+msgctxt "HERMITCRAB_REWARD.GIVE_FISH_AUTUM.LOW.1"
+msgid "Hmph. You could've caught it faster if you used this."
+msgstr "Hmf. Tu aurais été plus rapide avec ça."
+
+#. HERMITCRAB_REWARD.GIVE_FISH_AUTUM.MED.1
+msgctxt "HERMITCRAB_REWARD.GIVE_FISH_AUTUM.MED.1"
+msgid "Oh... thanks. Here, take this for your trouble."
+msgstr "Oh... Merci. Tiens, prends ça."
+
+#. HERMITCRAB_REWARD.GIVE_FISH_SPRING.HIGH.1
+msgctxt "HERMITCRAB_REWARD.GIVE_FISH_SPRING.HIGH.1"
+msgid "Thank you dearie! Here, why don't you take one of these."
+msgstr "Merci, trésor. Tiens, prends ça."
+
+#. HERMITCRAB_REWARD.GIVE_FISH_SPRING.LOW.1
+msgctxt "HERMITCRAB_REWARD.GIVE_FISH_SPRING.LOW.1"
+msgid "Hmph. You could've caught it faster if you used this."
+msgstr "Hmf. Tu aurais été plus rapide avec ça."
+
+#. HERMITCRAB_REWARD.GIVE_FISH_SPRING.MED.1
+msgctxt "HERMITCRAB_REWARD.GIVE_FISH_SPRING.MED.1"
+msgid "Oh... thanks. Here, take this for your trouble."
+msgstr "Oh... Merci. Tiens, prends ça."
+
+#. HERMITCRAB_REWARD.GIVE_FISH_SUMMER.HIGH.1
+msgctxt "HERMITCRAB_REWARD.GIVE_FISH_SUMMER.HIGH.1"
+msgid "Thank you dearie! Here, why don't you take one of these."
+msgstr "Merci, trésor. Tiens, prends ça."
+
+#. HERMITCRAB_REWARD.GIVE_FISH_SUMMER.LOW.1
+msgctxt "HERMITCRAB_REWARD.GIVE_FISH_SUMMER.LOW.1"
+msgid "Hmph. You could've caught it faster if you used this."
+msgstr "Hmf. Tu aurais été plus rapide avec ça."
+
+#. HERMITCRAB_REWARD.GIVE_FISH_SUMMER.MED.1
+msgctxt "HERMITCRAB_REWARD.GIVE_FISH_SUMMER.MED.1"
+msgid "Oh... thanks. Here, take this for your trouble."
+msgstr "Oh... Merci. Tiens, prends ça."
+
+#. HERMITCRAB_REWARD.GIVE_FISH_WINTER.HIGH.1
+msgctxt "HERMITCRAB_REWARD.GIVE_FISH_WINTER.HIGH.1"
+msgid "Thank you dearie! Here, why don't you take one of these."
+msgstr "Merci, trésor. Tiens, prends ça."
+
+#. HERMITCRAB_REWARD.GIVE_FISH_WINTER.LOW.1
+msgctxt "HERMITCRAB_REWARD.GIVE_FISH_WINTER.LOW.1"
+msgid "Hmph. You could've caught it faster if you used this."
+msgstr "Hmf. Tu aurais été plus rapide avec ça."
+
+#. HERMITCRAB_REWARD.GIVE_FISH_WINTER.MED.1
+msgctxt "HERMITCRAB_REWARD.GIVE_FISH_WINTER.MED.1"
+msgid "Oh... thanks. Here, take this for your trouble."
+msgstr "Oh... Merci. Tiens, prends ça."
+
+#. HERMITCRAB_REWARD.GIVE_FLOWER_SALAD.HIGH.1.1
+msgctxt "HERMITCRAB_REWARD.GIVE_FLOWER_SALAD.HIGH.1.1"
+msgid "Thank you dearie..."
+msgstr "Merci, trésor..."
+
+#. HERMITCRAB_REWARD.GIVE_FLOWER_SALAD.HIGH.1.2
+msgctxt "HERMITCRAB_REWARD.GIVE_FLOWER_SALAD.HIGH.1.2"
+msgid "Have you seen any other crabs on your travels?"
+msgstr "As-tu rencontré d'autres crabes lors de tes pérégrinations ?"
+
+#. HERMITCRAB_REWARD.GIVE_FLOWER_SALAD.LOW.1
+msgctxt "HERMITCRAB_REWARD.GIVE_FLOWER_SALAD.LOW.1"
+msgid "..."
+msgstr "..."
+
+#. HERMITCRAB_REWARD.GIVE_FLOWER_SALAD.MED.1
+msgctxt "HERMITCRAB_REWARD.GIVE_FLOWER_SALAD.MED.1"
+msgid "...Thank you. It's been a long time."
+msgstr "...Merci. Ça fait si longtemps."
+
+#. HERMITCRAB_REWARD.GIVE_HEAVY_FISH.HIGH.1.1
+msgctxt "HERMITCRAB_REWARD.GIVE_HEAVY_FISH.HIGH.1.1"
+msgid "Hoo-hoo!"
+msgstr "Wouhou !"
+
+#. HERMITCRAB_REWARD.GIVE_HEAVY_FISH.HIGH.1.2
+msgctxt "HERMITCRAB_REWARD.GIVE_HEAVY_FISH.HIGH.1.2"
+msgid "That's some pretty impressive fish, dearie!"
+msgstr "Ce poisson est impressionnant, trésor !"
+
+#. HERMITCRAB_REWARD.GIVE_HEAVY_FISH.LOW.1.1
+msgctxt "HERMITCRAB_REWARD.GIVE_HEAVY_FISH.LOW.1.1"
+msgid "Why are you giving me this?"
+msgstr "Pourquoi tu me donnes ça ?"
+
+#. HERMITCRAB_REWARD.GIVE_HEAVY_FISH.LOW.1.2
+msgctxt "HERMITCRAB_REWARD.GIVE_HEAVY_FISH.LOW.1.2"
+msgid "Wait, I never said I wouldn't take it!"
+msgstr "Attends, je n'ai jamais dit que j'allais le prendre !"
+
+#. HERMITCRAB_REWARD.GIVE_HEAVY_FISH.MED.1
+msgctxt "HERMITCRAB_REWARD.GIVE_HEAVY_FISH.MED.1"
+msgid "Ooooh, that's a hefty pile of fish!"
+msgstr "Ooooh, c'est un gros tas de poissons !"
+
+#. HERMITCRAB_REWARD.GIVE_PUFFY_VEST.HIGH.1
+msgctxt "HERMITCRAB_REWARD.GIVE_PUFFY_VEST.HIGH.1"
+msgid "Oh dearie, you're so thoughtful!"
+msgstr "Trésor, c'est gentil de penser à moi !"
+
+#. HERMITCRAB_REWARD.GIVE_PUFFY_VEST.LOW.1
+msgctxt "HERMITCRAB_REWARD.GIVE_PUFFY_VEST.LOW.1"
+msgid "Hmph. At least I won't freeze to death."
+msgstr "Hmf. Au moins je ne vais pas mourir gelée."
+
+#. HERMITCRAB_REWARD.GIVE_PUFFY_VEST.MED.1
+msgctxt "HERMITCRAB_REWARD.GIVE_PUFFY_VEST.MED.1"
+msgid "That's... very nice of you."
+msgstr "C'est... une belle attention."
+
+#. HERMITCRAB_REWARD.GIVE_UMBRELLA.HIGH.1
+msgctxt "HERMITCRAB_REWARD.GIVE_UMBRELLA.HIGH.1"
+msgid "What would I do without you, dearie?"
+msgstr "Que ferais-je sans toi, trésor ?"
+
+#. HERMITCRAB_REWARD.GIVE_UMBRELLA.LOW.1
+msgctxt "HERMITCRAB_REWARD.GIVE_UMBRELLA.LOW.1"
+msgid "I guess this will do."
+msgstr "Ça ira."
+
+#. HERMITCRAB_REWARD.GIVE_UMBRELLA.MED.1
+msgctxt "HERMITCRAB_REWARD.GIVE_UMBRELLA.MED.1"
+msgid "Why are you being so nice to me?"
+msgstr "Pourquoi es-tu si gentil avec moi ?"
+
+#. HERMITCRAB_REWARD.PLANT_BERRIES.HIGH.1.1
+msgctxt "HERMITCRAB_REWARD.PLANT_BERRIES.HIGH.1.1"
+msgid "Ooooh, such a thoughtful young whipper-snapper!"
+msgstr "Ooooooh, c'est gentil d'avoir pensé à moi !"
+
+#. HERMITCRAB_REWARD.PLANT_BERRIES.HIGH.1.2
+msgctxt "HERMITCRAB_REWARD.PLANT_BERRIES.HIGH.1.2"
+msgid "Let me pinch your cheeks!"
+msgstr "Laisse-moi te pincer les joues !"
+
+#. HERMITCRAB_REWARD.PLANT_BERRIES.LOW.1.1
+msgctxt "HERMITCRAB_REWARD.PLANT_BERRIES.LOW.1.1"
+msgid "You could've planted them in neater rows..."
+msgstr "Tu aurais pu faire des rangées plus régulières..."
+
+#. HERMITCRAB_REWARD.PLANT_BERRIES.LOW.1.2
+msgctxt "HERMITCRAB_REWARD.PLANT_BERRIES.LOW.1.2"
+msgid "But I guess it'll do."
+msgstr "Mais ça ira."
+
+#. HERMITCRAB_REWARD.PLANT_BERRIES.MED.1
+msgctxt "HERMITCRAB_REWARD.PLANT_BERRIES.MED.1"
+msgid "I can't remember the last time I had fresh berries!"
+msgstr "Ça fait si longtemps que je n'ai pas mangé de baies !"
+
+#. HERMITCRAB_REWARD.PLANT_FLOWERS.HIGH.1
+msgctxt "HERMITCRAB_REWARD.PLANT_FLOWERS.HIGH.1"
+msgid "My bees haven't looked this happy in years!"
+msgstr "Mes abeilles n'ont pas été aussi heureuses depuis des années !"
+
+#. HERMITCRAB_REWARD.PLANT_FLOWERS.LOW.1
+msgctxt "HERMITCRAB_REWARD.PLANT_FLOWERS.LOW.1"
+msgid "Well, at least my bees are happy now."
+msgstr "Au moins, mes abeilles sont satisfaites."
+
+#. HERMITCRAB_REWARD.PLANT_FLOWERS.MED.1
+msgctxt "HERMITCRAB_REWARD.PLANT_FLOWERS.MED.1"
+msgid "My bees are buzzing with excitement!"
+msgstr "Mes abeilles vrombissent de joie !"
+
+#. HERMITCRAB_REWARD.REMOVE_JUNK.HIGH.1.1
+msgctxt "HERMITCRAB_REWARD.REMOVE_JUNK.HIGH.1.1"
+msgid "Ahhh..."
+msgstr "Ahhh..."
+
+#. HERMITCRAB_REWARD.REMOVE_JUNK.HIGH.1.2
+msgctxt "HERMITCRAB_REWARD.REMOVE_JUNK.HIGH.1.2"
+msgid "It's such a weight off my mind to have that junk gone."
+msgstr "C'est un gros poids en moins pour moi."
+
+#. HERMITCRAB_REWARD.REMOVE_JUNK.LOW.1
+msgctxt "HERMITCRAB_REWARD.REMOVE_JUNK.LOW.1"
+msgid "Hmph. Took you long enough."
+msgstr "Hmf. Tu as pris ton temps."
+
+#. HERMITCRAB_REWARD.REMOVE_JUNK.MED.1
+msgctxt "HERMITCRAB_REWARD.REMOVE_JUNK.MED.1"
+msgid "Should be easier to fish with all that junk gone!"
+msgstr "Ça sera plus facile de pêcher quand tout ça sera parti !"
+
+#. HERMITCRAB_REWARD.REMOVE_LUREPLANT.HIGH.1.1
+msgctxt "HERMITCRAB_REWARD.REMOVE_LUREPLANT.HIGH.1.1"
+msgid "What a relief!"
+msgstr "Quel soulagement !"
+
+#. HERMITCRAB_REWARD.REMOVE_LUREPLANT.HIGH.1.2
+msgctxt "HERMITCRAB_REWARD.REMOVE_LUREPLANT.HIGH.1.2"
+msgid "That plant's been side-eying me for some time."
+msgstr "Cette plante me jette des regards noirs depuis trop longtemps."
+
+#. HERMITCRAB_REWARD.REMOVE_LUREPLANT.LOW.1.1
+msgctxt "HERMITCRAB_REWARD.REMOVE_LUREPLANT.LOW.1.1"
+msgid "You think you deserve a reward or something?"
+msgstr "Tu penses mériter une récompense ?"
+
+#. HERMITCRAB_REWARD.REMOVE_LUREPLANT.LOW.1.2
+msgctxt "HERMITCRAB_REWARD.REMOVE_LUREPLANT.LOW.1.2"
+msgid "Hmph."
+msgstr "Hmf."
+
+#. HERMITCRAB_REWARD.REMOVE_LUREPLANT.MED.1
+msgctxt "HERMITCRAB_REWARD.REMOVE_LUREPLANT.MED.1"
+msgid "Guess you're at least a half decent weed killer."
+msgstr "Tu as du talent pour désherber."
+
+#. HERMITCRAB_STORE_UNLOCK_1.1.1
+msgctxt "HERMITCRAB_STORE_UNLOCK_1.1.1"
+msgid "So do you want to trade?"
+msgstr "Tu veux faire un échange ?"
+
+#. HERMITCRAB_STORE_UNLOCK_1.1.2
+msgctxt "HERMITCRAB_STORE_UNLOCK_1.1.2"
+msgid "or are you just wasting my time?"
+msgstr "Ou tu me fais juste perdre mon temps ?"
+
+#. HERMITCRAB_STORE_UNLOCK_2.1.1
+msgctxt "HERMITCRAB_STORE_UNLOCK_2.1.1"
+msgid "I miiight have some lures to trade..."
+msgstr "J'aurais peut-être quelques leurres à t'échanger..."
+
+#. HERMITCRAB_STORE_UNLOCK_2.1.2
+msgctxt "HERMITCRAB_STORE_UNLOCK_2.1.2"
+msgid "if you can afford them."
+msgstr "Si tu as les moyens."
+
+#. HERMITCRAB_STORE_UNLOCK_3.1.1
+msgctxt "HERMITCRAB_STORE_UNLOCK_3.1.1"
+msgid "Alright, you've twisted my claw."
+msgstr "Très bien, tu m'as convaincue."
+
+#. HERMITCRAB_STORE_UNLOCK_3.1.2
+msgctxt "HERMITCRAB_STORE_UNLOCK_3.1.2"
+msgid " I'll show you my GOOD lures."
+msgstr " Je vais te montrer les BONS leurres."
+
+#. HERMITCRAB_STORE_UNLOCK_4.1.1
+msgctxt "HERMITCRAB_STORE_UNLOCK_4.1.1"
+msgid "I've got some new things to trade"
+msgstr "J'ai de nouvelles choses à échanger,"
+
+#. HERMITCRAB_STORE_UNLOCK_4.1.2
+msgctxt "HERMITCRAB_STORE_UNLOCK_4.1.2"
+msgid "but they don't come cheap!"
+msgstr "Mais elles ne sont pas données !"
+
+#. HERMITCRAB_STORE_UNLOCK_5.1.1
+msgctxt "HERMITCRAB_STORE_UNLOCK_5.1.1"
+msgid "This old shell must be going soft..."
+msgstr "Ma vieille carapace se ramollit..."
+
+#. HERMITCRAB_STORE_UNLOCK_5.1.2
+msgctxt "HERMITCRAB_STORE_UNLOCK_5.1.2"
+msgid "I put something special in the shop."
+msgstr "J'ai mis des choses très spéciales dans la boutique."
+
+#. HERMITCRAB_TALK_ONPURCHASE.HIGH.1
+msgctxt "HERMITCRAB_TALK_ONPURCHASE.HIGH.1"
+msgid "Give me a holler if you need anything else!"
+msgstr "Appelle-moi si tu as besoin d'autre chose !"
+
+#. HERMITCRAB_TALK_ONPURCHASE.LOW.1
+msgctxt "HERMITCRAB_TALK_ONPURCHASE.LOW.1"
+msgid "Great. Now leave me alone."
+msgstr "Très bien. Maintenant, laisse-moi tranquille."
+
+#. HERMITCRAB_TALK_ONPURCHASE.MED.1
+msgctxt "HERMITCRAB_TALK_ONPURCHASE.MED.1"
+msgid "Pleasure doing business."
+msgstr "C'est un plaisir de faire des affaires avec toi."
+
+#. HERMITCRAB_THROWBOTTLE.HIGH.1
+msgctxt "HERMITCRAB_THROWBOTTLE.HIGH.1"
+msgid "Maybe this will be the one to reach him..."
+msgstr "Celle-ci lui parviendra peut-être..."
+
+#. HERMITCRAB_THROWBOTTLE.LOW.1.1
+msgctxt "HERMITCRAB_THROWBOTTLE.LOW.1.1"
+msgid "You've been snatching up my bottles!"
+msgstr "Tu me voles mes bouteilles !"
+
+#. HERMITCRAB_THROWBOTTLE.LOW.1.2
+msgctxt "HERMITCRAB_THROWBOTTLE.LOW.1.2"
+msgid "Now I need to send out twice as many!"
+msgstr "Maintenant je vais devoir en envoyer deux fois plus !"
+
+#. HERMITCRAB_THROWBOTTLE.MED.1
+msgctxt "HERMITCRAB_THROWBOTTLE.MED.1"
+msgid "I suppose I'm glad they reached anyone, really."
+msgstr "Je suppose que je devrais m'estimer heureuse que quelqu'un les ait trouvées."
+
+#. HERMITCRAB_WANT_HOUSE.1
+msgctxt "HERMITCRAB_WANT_HOUSE.1"
+msgid "I could really use some help fixing up my house..."
+msgstr "J'ai besoin d'un coup de main pour réparer ma maison..."
+

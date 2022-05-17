@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.random
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.random"
+msgid "\nSelect a random survivor"
+msgstr "\nWybierz losowego rozbitka"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.walter
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.walter"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "* TYMCZASOWE\n\n\n\nBiegłość:\nTYMCZASOWE"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.wanda
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.wanda"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "* TYMCZASOWE\n\n\n\nBiegłość:\nTYMCZASOWE"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.warly
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.warly"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "* TYMCZASOWE\n\n\n\nBiegłość:\nTYMCZASOWE"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.wathgrithr
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.wathgrithr"
+msgid "*Harvests an extra meat when slaughtering Beefalo\n\n\n*Expertise:\nGathering"
+msgstr "* Zdobywa więcej mięsa z wołków\n\n\n* Biegłość:\nzbieractwo"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.waxwell
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.waxwell"
+msgid "*Summons a Shadow Logger\n\n\n\n*Expertise:\nGathering"
+msgstr "* Przyzywa leśnika cienia\n\n\n\n* Biegłość:\nzbieractwo"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.webber
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.webber"
+msgid "*Sows seeds and harvests plants much more quickly\n\n\n*Expertise:\nFarming"
+msgstr "* Sadzi i zbiera plony znacznie szybciej od innych\n\n\n* Biegłość:\nuprawy"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.wendy
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.wendy"
+msgid "*Improves nearby Grill efficiency\n\n\n\n*Expertise:\nCooking"
+msgstr "* Zwiększa wydajność pobliskich grillów\n\n\n\n* Biegłość:\ngotowanie"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.wes
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.wes"
+msgid "*Expert haggler\n\n\n\n*Expertise:\nShopping"
+msgstr "* Ekspert w targowaniu się\n\n\n\n* Biegłość:\nzakupy"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.wickerbottom
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.wickerbottom"
+msgid "*Has just the book for the occasion\n*Inspects food to determine if it matches the Gnaw's craving\n\n*Expertise:\nFarming"
+msgstr "* Ma książkę w sam raz na tę okazję\n* Potrafi określić, czy posiłek spełnia wymagania Gryzienia\n\n* Biegłość:\nUprawy"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.willow
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.willow"
+msgid "*Logs burn longer on the fire\n\n\n\n*Expertise:\nCooking"
+msgstr "* Drewno w ogniu starcza na dłużej\n\n\n\n* Biegłość:\ngotowanie"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.wilson
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.wilson"
+msgid "*Improves nearby Cookpot efficiency\n*Inspects food to determine if it matches the Gnaw's craving\n\n*Expertise:\nCooking"
+msgstr "* Zwiększa wydajność pobliskich garnków\n* Potrafi określić, czy posiłek spełnia wymagania Gryzienia\n\n* Biegłość:\ngotowanie"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.winona
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.winona"
+msgid "*Performs most actions slightly faster\n\n\n\n*Expertise:\nFarming"
+msgstr "* Większość działań zajmuje jej nieco mniej czasu\n\n\n\n* Biegłość:\nuprawy"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.wolfgang
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.wolfgang"
+msgid "*Improves nearby Oven efficiency\n\n\n\n*Expertise:\nCooking"
+msgstr "* Zwiększa wydajność pobliskich piecyków\n\n\n\n* Biegłość:\ngotowanie"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.woodie
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.woodie"
+msgid "*Chops wood more quickly\n\n\n\n*Expertise:\nGathering"
+msgstr "* Rąbie drewno szybciej od innych\n\n\n\n* Biegłość:\nzbieractwo"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.woodie_canada
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.woodie_canada"
+msgid "*Chops wood more quickly\n\n\n\n*Expertise:\nGathering"
+msgstr "* Rąbie drewno szybciej od innych\n\n\n\n* Biegłość:\nzbieractwo"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.woodie_us
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.woodie_us"
+msgid "*Chops wood more quickly\n\n\n\n*Expertise:\nGathering"
+msgstr "* Rąbie drewno szybciej od innych\n\n\n\n* Biegłość:\nzbieractwo"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.wormwood
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.wormwood"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "* TYMCZASOWE\n\n\n\nBiegłość:\nTYMCZASOWE"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.wortox
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.wortox"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "* TYMCZASOWE\n\n\n\nBiegłość:\nTYMCZASOWE"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.wurt
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.wurt"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "* TYMCZASOWE\n\n\n\nBiegłość:\nTYMCZASOWE"
+
+#. QUAGMIRE_CHARACTER_DESCRIPTIONS.wx78
+msgctxt "QUAGMIRE_CHARACTER_DESCRIPTIONS.wx78"
+msgid "*Enhanced robotic runspeed\n\n\n\n*Expertise:\nGathering"
+msgstr "* Zwiększona funkcjonalność wykonawcza\n\n\n\n* Biegłość:\nZbieractwo"
+
+#. QUAGMIRE_ELDER_TALK_BUY.1
+msgctxt "QUAGMIRE_ELDER_TALK_BUY.1"
+msgid "THANK-YOU. NOW LET ELDER REST."
+msgstr "DZIĘKI. TERAZ STARSZY ODPOCZNIE."
+
+#. QUAGMIRE_ELDER_TALK_BUY.2
+msgctxt "QUAGMIRE_ELDER_TALK_BUY.2"
+msgid "YES. YOU GOOD GOAT."
+msgstr "TAK. TY DOBRA KOZA."
+
+#. QUAGMIRE_ELDER_TALK_BUY.3
+msgctxt "QUAGMIRE_ELDER_TALK_BUY.3"
+msgid "MAYBE NOW WE FIX HOUSES"
+msgstr "MOŻE TERAZ NAPRAWIMY DOMY."
+
+#. QUAGMIRE_ELDER_TALK_BUY.4
+msgctxt "QUAGMIRE_ELDER_TALK_BUY.4"
+msgid "THANK-YOU"
+msgstr "DZIĘKI."
+
+#. QUAGMIRE_ELDER_TALK_BUY.5
+msgctxt "QUAGMIRE_ELDER_TALK_BUY.5"
+msgid "ELDER'S EYE FEEL HEAVY"
+msgstr "POWIEKI STARSZEGO SĄ CIĘŻKIE."
+
+#. QUAGMIRE_ELDER_TALK_BUY.6
+msgctxt "QUAGMIRE_ELDER_TALK_BUY.6"
+msgid "GOOD LUCK. WITH GNAW."
+msgstr "POWODZENIA. Z GRYZIENIEM."
+
+#. QUAGMIRE_ELDER_TALK_BUY.7
+msgctxt "QUAGMIRE_ELDER_TALK_BUY.7"
+msgid "THANK-YOU, LITTLE GOAT."
+msgstr "DZIĘKI, MAŁA KOZA."
+
+#. QUAGMIRE_ELDER_TALK_GREETING.1
+msgctxt "QUAGMIRE_ELDER_TALK_GREETING.1"
+msgid "HRF? YOU TRADE? SUPPLIES?"
+msgstr "HMPF? TY HANDEL? ZAPASY?"
+
+#. QUAGMIRE_ELDER_TALK_GREETING.2
+msgctxt "QUAGMIRE_ELDER_TALK_GREETING.2"
+msgid "HRF? SLEEP... GIVE ELDER NIGHTMARES"
+msgstr "HMPF? SEN... SPRAWIA, ŻE STARSZY MA KOSZMARY."
+
+#. QUAGMIRE_ELDER_TALK_GREETING.3
+msgctxt "QUAGMIRE_ELDER_TALK_GREETING.3"
+msgid "HRF! OUR HOMES DESTROYED"
+msgstr "HMPF! NASZE DOMY ZNISZCZONE!"
+
+#. QUAGMIRE_ELDER_TALK_GREETING.4
+msgctxt "QUAGMIRE_ELDER_TALK_GREETING.4"
+msgid "HRF! GNAW MAD AT PIGS"
+msgstr "HMPF! GRYZIEŃ ZŁY NA ŚWINIE!"
+
+#. QUAGMIRE_ELDER_TALK_GREETING.5
+msgctxt "QUAGMIRE_ELDER_TALK_GREETING.5"
+msgid "HRF! MOST GOATS NO HELP TO PIGS"
+msgstr "HMPF! WIĘKSZOŚĆ KÓZ NIE POMAGAĆ PROSIAKOM."
+
+#. QUAGMIRE_ELDER_TALK_GREETING.6
+msgctxt "QUAGMIRE_ELDER_TALK_GREETING.6"
+msgid "HRF! WE NEED FIX HOUSES"
+msgstr "HMPF! MUSIMY NAPRAWIĆ DOMY."
+
+#. QUAGMIRE_ELDER_TALK_GREETING.7
+msgctxt "QUAGMIRE_ELDER_TALK_GREETING.7"
+msgid "HRF? ...WHAT LITTLE PIGS DO IF ELDER GONE?"
+msgstr "HMPF...? A CO POCZNĄ ŚWINKI, JAK ZABRAKNĄĆ STARSZEGO?"
+
+#. QUAGMIRE_ELDER_TALK_SLEEP.1
+msgctxt "QUAGMIRE_ELDER_TALK_SLEEP.1"
+msgid "...HRUMPF..."
+msgstr "...CHRUMPF..."
+
+#. QUAGMIRE_ELDER_TALK_SLEEP.2
+msgctxt "QUAGMIRE_ELDER_TALK_SLEEP.2"
+msgid "(SNORT) ...s...scales..."
+msgstr "(CHRAPANIE) ...ł...łuski..."
+
+#. QUAGMIRE_ELDER_TALK_SLEEP.3
+msgctxt "QUAGMIRE_ELDER_TALK_SLEEP.3"
+msgid "...p...plague..."
+msgstr "...p...plaga..."
+
+#. QUAGMIRE_ELDER_TALK_SLEEP.4
+msgctxt "QUAGMIRE_ELDER_TALK_SLEEP.4"
+msgid "...zzzZZzzz..."
+msgstr "...zzzZZzzz..."
+
+#. QUAGMIRE_ELDER_TALK_SLEEP.5
+msgctxt "QUAGMIRE_ELDER_TALK_SLEEP.5"
+msgid "...g-GNAW..."
+msgstr "...g-GRYZIEŃ..."
+
+#. QUAGMIRE_ELDER_TALK_SLEEP.6
+msgctxt "QUAGMIRE_ELDER_TALK_SLEEP.6"
+msgid "...s-sky..."
+msgstr "...n-niebo..."
+

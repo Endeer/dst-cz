@@ -1,0 +1,1240 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. HERMITCRAB_ANNOUNCE_OCEANFISHING_BADCAST.1
+msgctxt "HERMITCRAB_ANNOUNCE_OCEANFISHING_BADCAST.1"
+msgid "I'm not quite as good at this as I used to be..."
+msgstr "昔みたいに上手じゃないんだよ…"
+
+#. HERMITCRAB_ANNOUNCE_OCEANFISHING_BOTHERED.HIGH.1
+msgctxt "HERMITCRAB_ANNOUNCE_OCEANFISHING_BOTHERED.HIGH.1"
+msgid "I can always make time for you, dearie."
+msgstr "アンタのためならいつだっていいよ。"
+
+#. HERMITCRAB_ANNOUNCE_OCEANFISHING_BOTHERED.LOW.1
+msgctxt "HERMITCRAB_ANNOUNCE_OCEANFISHING_BOTHERED.LOW.1"
+msgid "Ack! You made me lose my fish!"
+msgstr "おい！アンタのせいで魚が逃げたじゃないかい！"
+
+#. HERMITCRAB_ANNOUNCE_OCEANFISHING_BOTHERED.MED.1
+msgctxt "HERMITCRAB_ANNOUNCE_OCEANFISHING_BOTHERED.MED.1"
+msgid "You couldn't wait for a better time?"
+msgstr "もっとマシなタイミングでこれなかったかい？"
+
+#. HERMITCRAB_ANNOUNCE_OCEANFISHING_GOTAWAY.1.1
+msgctxt "HERMITCRAB_ANNOUNCE_OCEANFISHING_GOTAWAY.1.1"
+msgid "Why you slippery little nincompoop!"
+msgstr "なんだこのイカレヌメヌメちび！"
+
+#. HERMITCRAB_ANNOUNCE_OCEANFISHING_GOTAWAY.1.2
+msgctxt "HERMITCRAB_ANNOUNCE_OCEANFISHING_GOTAWAY.1.2"
+msgid "Get back on my hook!"
+msgstr "針に戻りな！"
+
+#. HERMITCRAB_ANNOUNCE_OCEANFISHING_IDLE_QUOTE.1
+msgctxt "HERMITCRAB_ANNOUNCE_OCEANFISHING_IDLE_QUOTE.1"
+msgid "Hmph. The fish aren't biting today..."
+msgstr "ふう。魚が全然かからないのう…"
+
+#. HERMITCRAB_ANNOUNCE_OCEANFISHING_IDLE_QUOTE.2
+msgctxt "HERMITCRAB_ANNOUNCE_OCEANFISHING_IDLE_QUOTE.2"
+msgid "Don't be so fussy, get on my hook!"
+msgstr "そんなに警戒するでないよ、引っかかれ！"
+
+#. HERMITCRAB_ANNOUNCE_OCEANFISHING_IDLE_QUOTE.3
+msgctxt "HERMITCRAB_ANNOUNCE_OCEANFISHING_IDLE_QUOTE.3"
+msgid "\"I often look from the highest hill\""
+msgstr "「よく一番高い丘からみるんだ」"
+
+#. HERMITCRAB_ANNOUNCE_OCEANFISHING_IDLE_QUOTE.4
+msgctxt "HERMITCRAB_ANNOUNCE_OCEANFISHING_IDLE_QUOTE.4"
+msgid "\"that I might see my boatman...\""
+msgstr "「船頭がみえるくらいのね」"
+
+#. HERMITCRAB_ANNOUNCE_OCEANFISHING_IDLE_QUOTE.5
+msgctxt "HERMITCRAB_ANNOUNCE_OCEANFISHING_IDLE_QUOTE.5"
+msgid "hmm-de-dmm..."
+msgstr "うーん、ぐぬぬ…"
+
+#. HERMITCRAB_ANNOUNCE_OCEANFISHING_IDLE_QUOTE.6
+msgctxt "HERMITCRAB_ANNOUNCE_OCEANFISHING_IDLE_QUOTE.6"
+msgid "Never seem to catch anything..."
+msgstr "何も捕まえられなそうだよ…"
+
+#. HERMITCRAB_ANNOUNCE_OCEANFISHING_LINESNAP.1
+msgctxt "HERMITCRAB_ANNOUNCE_OCEANFISHING_LINESNAP.1"
+msgid "Ack! Stupid thing!"
+msgstr "おい！ばかもの！"
+
+#. HERMITCRAB_ANNOUNCE_OCEANFISHING_LINETOOLOOSE.1
+msgctxt "HERMITCRAB_ANNOUNCE_OCEANFISHING_LINETOOLOOSE.1"
+msgid "Oooh, these tired old claws!"
+msgstr "おお、このくたびれた古バサミめ！"
+
+#. HERMITCRAB_ANNOUNCE_ROYALTY.1
+msgctxt "HERMITCRAB_ANNOUNCE_ROYALTY.1"
+msgid "Well, don't you look all high and mighty."
+msgstr "うーん、傲慢そうだねえ。"
+
+#. HERMITCRAB_ANNOUNCE_ROYALTY.2
+msgctxt "HERMITCRAB_ANNOUNCE_ROYALTY.2"
+msgid "I didn't realize I was in the presence of \"royalty\"."
+msgstr "「忠義」が自分にもあったとは、気づかなかったねえ。"
+
+#. HERMITCRAB_ANNOUNCE_ROYALTY.3
+msgctxt "HERMITCRAB_ANNOUNCE_ROYALTY.3"
+msgid "It takes more than a hoity-toity hat to impress me."
+msgstr "うかれた帽子くらいでアタシが驚くと思うなよ。"
+
+#. HERMITCRAB_ATTEMPT_TRADE.HIGH.1.1
+msgctxt "HERMITCRAB_ATTEMPT_TRADE.HIGH.1.1"
+msgid "My favorite customer!"
+msgstr "お気に入りのお客さんだ！"
+
+#. HERMITCRAB_ATTEMPT_TRADE.HIGH.1.2
+msgctxt "HERMITCRAB_ATTEMPT_TRADE.HIGH.1.2"
+msgid "What do you need today, dearie?"
+msgstr "今日は何が欲しいんだい？"
+
+#. HERMITCRAB_ATTEMPT_TRADE.LOW.1
+msgctxt "HERMITCRAB_ATTEMPT_TRADE.LOW.1"
+msgid "Don't talk to me if you have nothing to trade."
+msgstr "何も交換するものがないなら話しかるんでないよ。"
+
+#. HERMITCRAB_ATTEMPT_TRADE.MED.1
+msgctxt "HERMITCRAB_ATTEMPT_TRADE.MED.1"
+msgid "Have anything to trade today?"
+msgstr "何か交換するものがあるのかい？"
+
+#. HERMITCRAB_COMPLAIN.FILL_MEATRACKS.HIGH.1
+msgctxt "HERMITCRAB_COMPLAIN.FILL_MEATRACKS.HIGH.1"
+msgid "Could you dry some meat for me, dearie?"
+msgstr "ちょっと肉を乾燥させてくれるかい？"
+
+#. HERMITCRAB_COMPLAIN.FILL_MEATRACKS.LOW.1
+msgctxt "HERMITCRAB_COMPLAIN.FILL_MEATRACKS.LOW.1"
+msgid "Hmph... never any meat around here for drying..."
+msgstr "ふう。乾燥用の肉がここらには全然ないのう…。"
+
+#. HERMITCRAB_COMPLAIN.FILL_MEATRACKS.MED.1.1
+msgctxt "HERMITCRAB_COMPLAIN.FILL_MEATRACKS.MED.1.1"
+msgid "My drying racks are empty again?"
+msgstr "乾燥棚がまた空っぽなのかい？"
+
+#. HERMITCRAB_COMPLAIN.FILL_MEATRACKS.MED.1.2
+msgctxt "HERMITCRAB_COMPLAIN.FILL_MEATRACKS.MED.1.2"
+msgid "So much work for these old claws..."
+msgstr "この古バサミには大仕事だよ…"
+
+#. HERMITCRAB_COMPLAIN.GIVE_FISH_AUTUM.HIGH.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FISH_AUTUM.HIGH.1"
+msgid "Would you bring me a Fallounder, dearie?"
+msgstr "フォーラウンダーを持ってきてくれるかい？"
+
+#. HERMITCRAB_COMPLAIN.GIVE_FISH_AUTUM.LOW.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FISH_AUTUM.LOW.1"
+msgid "I think Fallounders are in season."
+msgstr "フォーラウンダーの季節だとおもうよ。"
+
+#. HERMITCRAB_COMPLAIN.GIVE_FISH_AUTUM.MED.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FISH_AUTUM.MED.1"
+msgid "Nothing says autumn like some tasty Fallounder..."
+msgstr "秋といえばやっぱりフォーラウンダーだねえ…"
+
+#. HERMITCRAB_COMPLAIN.GIVE_FISH_SPRING.HIGH.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FISH_SPRING.HIGH.1"
+msgid "Let me know if you catch a Bloomfin Tuna, dearie!"
+msgstr "花ヒレマグロを捕まえたら教えておくれ！"
+
+#. HERMITCRAB_COMPLAIN.GIVE_FISH_SPRING.LOW.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FISH_SPRING.LOW.1"
+msgid "Thought I saw some Bloomfin Tuna yesterday..."
+msgstr "昨日花ヒレマグロを見かけた気がするんだけどねえ…"
+
+#. HERMITCRAB_COMPLAIN.GIVE_FISH_SPRING.MED.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FISH_SPRING.MED.1"
+msgid "This weather is perfect for Bloomfin Tuna..."
+msgstr "この天候は花ヒレマグロ釣りには最適だよ..."
+
+#. HERMITCRAB_COMPLAIN.GIVE_FISH_SUMMER.HIGH.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FISH_SUMMER.HIGH.1"
+msgid "I would love a Scorching Sunfish, if you have it."
+msgstr "灼熱マンボウを持っているならいただこうかねえ。"
+
+#. HERMITCRAB_COMPLAIN.GIVE_FISH_SUMMER.LOW.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FISH_SUMMER.LOW.1"
+msgid "The Scorching Sunfish should be migrating now."
+msgstr "今頃灼熱マンボウが回遊しているはずだよ。"
+
+#. HERMITCRAB_COMPLAIN.GIVE_FISH_SUMMER.MED.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FISH_SUMMER.MED.1"
+msgid "Nothing says summer like some Scorching Sunfish..."
+msgstr "夏といえばやっぱり灼熱マンボウだねえ…"
+
+#. HERMITCRAB_COMPLAIN.GIVE_FISH_WINTER.HIGH.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FISH_WINTER.HIGH.1"
+msgid "Dearie, could you catch an Ice Bream for me?"
+msgstr "アイスブリームを捕まえてきてくれるかい？"
+
+#. HERMITCRAB_COMPLAIN.GIVE_FISH_WINTER.LOW.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FISH_WINTER.LOW.1"
+msgid "Hmph. Should be Ice Bream season right about now."
+msgstr "ふう. そろそろアイスブリームの季節のはずだよ。"
+
+#. HERMITCRAB_COMPLAIN.GIVE_FISH_WINTER.MED.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FISH_WINTER.MED.1"
+msgid "I used to catch Ice Bream all through the winter..."
+msgstr "かつては冬の間中アイスブリームをとっていたものだよ…"
+
+#. HERMITCRAB_COMPLAIN.GIVE_FLOWER_SALAD.HIGH.1.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FLOWER_SALAD.HIGH.1.1"
+msgid "Flower salad brings back such memories..."
+msgstr "フラワーサラダが想い出を呼び起こしてくれたよ…"
+
+#. HERMITCRAB_COMPLAIN.GIVE_FLOWER_SALAD.HIGH.1.2
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FLOWER_SALAD.HIGH.1.2"
+msgid "Could you make some for me?"
+msgstr "アタシにちょっと作ってくれるかい？"
+
+#. HERMITCRAB_COMPLAIN.GIVE_FLOWER_SALAD.LOW.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FLOWER_SALAD.LOW.1"
+msgid "Hmph. No ingredients for flower salad around..."
+msgstr "ふう。フラワーサラダの材料がこの辺にはないねえ…"
+
+#. HERMITCRAB_COMPLAIN.GIVE_FLOWER_SALAD.MED.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_FLOWER_SALAD.MED.1"
+msgid "My sweetie used to make my favorite... flower salad..."
+msgstr "アタシの愛しい人がかつて作ってくれんだよ...フラワーサラダ…"
+
+#. HERMITCRAB_COMPLAIN.GIVE_HEAVY_FISH.HIGH.1.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_HEAVY_FISH.HIGH.1.1"
+msgid "If you could bring me some big fish..."
+msgstr "アンタが大きな魚を取ってきてくれたら…"
+
+#. HERMITCRAB_COMPLAIN.GIVE_HEAVY_FISH.HIGH.1.2
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_HEAVY_FISH.HIGH.1.2"
+msgid "I'd be so happy!"
+msgstr "とてもうれしいよ！"
+
+#. HERMITCRAB_COMPLAIN.GIVE_HEAVY_FISH.LOW.1.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_HEAVY_FISH.LOW.1.1"
+msgid "(Grumble)... only ever catch minnows..."
+msgstr "（ブツブツ）…小魚ばっかし…"
+
+#. HERMITCRAB_COMPLAIN.GIVE_HEAVY_FISH.LOW.1.2
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_HEAVY_FISH.LOW.1.2"
+msgid "Never a nice big fish..."
+msgstr "おいしそうな大きな魚なんて一度もない…"
+
+#. HERMITCRAB_COMPLAIN.GIVE_HEAVY_FISH.MED.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_HEAVY_FISH.MED.1"
+msgid "If only SOMEONE could bring me some big, juicy fish..."
+msgstr "ダレカサンが大きくてプリプリの魚を取ってきてくれたらな…"
+
+#. HERMITCRAB_COMPLAIN.GIVE_PUFFY_VEST.HIGH.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_PUFFY_VEST.HIGH.1"
+msgid "Ooooh, I do wish I had something warm to wear."
+msgstr "おーー！　何か暖かい服を持ってたらよかったのだけどねえ。"
+
+#. HERMITCRAB_COMPLAIN.GIVE_PUFFY_VEST.LOW.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_PUFFY_VEST.LOW.1"
+msgid "(Grumble) It's freezing out here!"
+msgstr "（ブツブツ）ここは凍るように寒いのう！"
+
+#. HERMITCRAB_COMPLAIN.GIVE_PUFFY_VEST.MED.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_PUFFY_VEST.MED.1"
+msgid "Brrr, this cold weather is terrible for my rheumatism."
+msgstr "ブルブル、寒空はリュウマチには最悪だよ。"
+
+#. HERMITCRAB_COMPLAIN.GIVE_UMBRELLA.HIGH.1.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_UMBRELLA.HIGH.1.1"
+msgid "What terrible weather."
+msgstr "なんてひどい天気なんだろうねえ。"
+
+#. HERMITCRAB_COMPLAIN.GIVE_UMBRELLA.HIGH.1.2
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_UMBRELLA.HIGH.1.2"
+msgid "Do you have an umbrella, dearie?"
+msgstr "傘は持っているかい？"
+
+#. HERMITCRAB_COMPLAIN.GIVE_UMBRELLA.LOW.1.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_UMBRELLA.LOW.1.1"
+msgid "Miserable rain..."
+msgstr "みじめな雨だよ..."
+
+#. HERMITCRAB_COMPLAIN.GIVE_UMBRELLA.LOW.1.2
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_UMBRELLA.LOW.1.2"
+msgid "I'll catch my death..."
+msgstr "風邪ひいちまうよ..."
+
+#. HERMITCRAB_COMPLAIN.GIVE_UMBRELLA.MED.1.1
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_UMBRELLA.MED.1.1"
+msgid "I'm getting soaked to the chitin!"
+msgstr "キチン質漬けになっちまってるよ！"
+
+#. HERMITCRAB_COMPLAIN.GIVE_UMBRELLA.MED.1.2
+msgctxt "HERMITCRAB_COMPLAIN.GIVE_UMBRELLA.MED.1.2"
+msgid "If only I had an umbrella..."
+msgstr "傘がありさえすればのう…"
+
+#. HERMITCRAB_COMPLAIN.PLANT_BERRIES.HIGH.1.1
+msgctxt "HERMITCRAB_COMPLAIN.PLANT_BERRIES.HIGH.1.1"
+msgid "Care to help me with some gardening?"
+msgstr "ガーデニングを手伝ってくれるかい？"
+
+#. HERMITCRAB_COMPLAIN.PLANT_BERRIES.HIGH.1.2
+msgctxt "HERMITCRAB_COMPLAIN.PLANT_BERRIES.HIGH.1.2"
+msgid "I need some new berry bushes."
+msgstr "新しい木イチゴの低木が必要だのう。"
+
+#. HERMITCRAB_COMPLAIN.PLANT_BERRIES.LOW.1
+msgctxt "HERMITCRAB_COMPLAIN.PLANT_BERRIES.LOW.1"
+msgid "All of my berry bushes died."
+msgstr "木イチゴの低木は全部枯れたよ。"
+
+#. HERMITCRAB_COMPLAIN.PLANT_BERRIES.MED.1
+msgctxt "HERMITCRAB_COMPLAIN.PLANT_BERRIES.MED.1"
+msgid "I miss my garden... I used to grow berries..."
+msgstr "アタシの庭が恋しいのう…かつてはキイチゴを育てていたんだよ…"
+
+#. HERMITCRAB_COMPLAIN.PLANT_FLOWERS.HIGH.1.1
+msgctxt "HERMITCRAB_COMPLAIN.PLANT_FLOWERS.HIGH.1.1"
+msgid "Dearie, would you..."
+msgstr "アンタ…"
+
+#. HERMITCRAB_COMPLAIN.PLANT_FLOWERS.HIGH.1.2
+msgctxt "HERMITCRAB_COMPLAIN.PLANT_FLOWERS.HIGH.1.2"
+msgid "Help me plant some flowers?"
+msgstr "花を植えるのを手伝ってくれるかい？"
+
+#. HERMITCRAB_COMPLAIN.PLANT_FLOWERS.LOW.1
+msgctxt "HERMITCRAB_COMPLAIN.PLANT_FLOWERS.LOW.1"
+msgid "Useless lazy bees... not a drop of honey..."
+msgstr "役立たずの怠けバチ…蜜を落としもしない…"
+
+#. HERMITCRAB_COMPLAIN.PLANT_FLOWERS.MED.1
+msgctxt "HERMITCRAB_COMPLAIN.PLANT_FLOWERS.MED.1"
+msgid "When I had my flower garden, the bees made honey all the time."
+msgstr "フラワーガーデンがあったときは、ハチどもはいつでも蜜を集めていたよ。"
+
+#. HERMITCRAB_COMPLAIN.REMOVE_JUNK.HIGH.1
+msgctxt "HERMITCRAB_COMPLAIN.REMOVE_JUNK.HIGH.1"
+msgid "You look spry! Could you get rid of that junk in the water?"
+msgstr "アンタは元気そうだな。あの水の中のガラクタをしょぶんしてくれないかねえ？"
+
+#. HERMITCRAB_COMPLAIN.REMOVE_JUNK.LOW.1
+msgctxt "HERMITCRAB_COMPLAIN.REMOVE_JUNK.LOW.1"
+msgid "(Grumble)... water's all full of junk..."
+msgstr "（ぶつぶつ）水の中が…がらくたでいっぱいだよ..."
+
+#. HERMITCRAB_COMPLAIN.REMOVE_JUNK.MED.1
+msgctxt "HERMITCRAB_COMPLAIN.REMOVE_JUNK.MED.1"
+msgid "The water's so full of junk, I can't even see the fish!"
+msgstr "がらくたばかりで魚なんか見えやしないよ！"
+
+#. HERMITCRAB_COMPLAIN.REMOVE_LUREPLANT.HIGH.1.1
+msgctxt "HERMITCRAB_COMPLAIN.REMOVE_LUREPLANT.HIGH.1.1"
+msgid "Would you be a dear?"
+msgstr "ちょっと手伝ってくれないかい？"
+
+#. HERMITCRAB_COMPLAIN.REMOVE_LUREPLANT.HIGH.1.2
+msgctxt "HERMITCRAB_COMPLAIN.REMOVE_LUREPLANT.HIGH.1.2"
+msgid "Take care of that awful plant for me."
+msgstr "あのひどい植物をどうにかしておくれ。"
+
+#. HERMITCRAB_COMPLAIN.REMOVE_LUREPLANT.LOW.1.1
+msgctxt "HERMITCRAB_COMPLAIN.REMOVE_LUREPLANT.LOW.1.1"
+msgid "That horrible plant..."
+msgstr "あのいまいましい植物め…"
+
+#. HERMITCRAB_COMPLAIN.REMOVE_LUREPLANT.LOW.1.2
+msgctxt "HERMITCRAB_COMPLAIN.REMOVE_LUREPLANT.LOW.1.2"
+msgid "Such an eyesore..."
+msgstr "なんと目が痛い…"
+
+#. HERMITCRAB_COMPLAIN.REMOVE_LUREPLANT.MED.1
+msgctxt "HERMITCRAB_COMPLAIN.REMOVE_LUREPLANT.MED.1"
+msgid "That lureplant is going to take over my whole yard!"
+msgstr "ルアープラントがこの庭を侵食しつくす気だ！"
+
+#. HERMITCRAB_DEFAULT_REWARD.HIGH.1
+msgctxt "HERMITCRAB_DEFAULT_REWARD.HIGH.1"
+msgid "Such a big help! Thank you."
+msgstr "助かったよ！ありがとうね。"
+
+#. HERMITCRAB_DEFAULT_REWARD.LOW.1.1
+msgctxt "HERMITCRAB_DEFAULT_REWARD.LOW.1.1"
+msgid "I guess you want something for helping me out?"
+msgstr "手助けの見返りがほしいんだろう？"
+
+#. HERMITCRAB_DEFAULT_REWARD.LOW.1.2
+msgctxt "HERMITCRAB_DEFAULT_REWARD.LOW.1.2"
+msgid "Fine."
+msgstr "いいだろう。"
+
+#. HERMITCRAB_DEFAULT_REWARD.MED.1
+msgctxt "HERMITCRAB_DEFAULT_REWARD.MED.1"
+msgid "I guess it's not so bad having you around."
+msgstr "アンタをそばに置いておくのも悪くなさそうだねえ。"
+
+#. HERMITCRAB_FIGHT.1.1
+msgctxt "HERMITCRAB_FIGHT.1.1"
+msgid "You louse!"
+msgstr "ろくでもないやつ！"
+
+#. HERMITCRAB_FIGHT.1.2
+msgctxt "HERMITCRAB_FIGHT.1.2"
+msgid "Bullying a sweet, innocent old lady like myself!"
+msgstr "アタシみたいな愛らしい無垢なおばあちゃんをいじめるなんて！"
+
+#. HERMITCRAB_GETFISH_BIG.1
+msgctxt "HERMITCRAB_GETFISH_BIG.1"
+msgid "Now that's a proper-sized fish!"
+msgstr "ちょうどいい大きさの魚じゃないか！"
+
+#. HERMITCRAB_GIVE_PEARL.1
+msgctxt "HERMITCRAB_GIVE_PEARL.1"
+msgid "If you find my sweetie on your travels..."
+msgstr "もし旅の途中でアタシの愛しい人を見つけたら…"
+
+#. HERMITCRAB_GIVE_PEARL.2
+msgctxt "HERMITCRAB_GIVE_PEARL.2"
+msgid "Could you... give him that pearl?"
+msgstr "この真珠を渡してくれるかい？"
+
+#. HERMITCRAB_GIVE_PEARL.3
+msgctxt "HERMITCRAB_GIVE_PEARL.3"
+msgid "He'll recognize it."
+msgstr "あの人ならわかるだろう。"
+
+#. HERMITCRAB_GOT_PEARL.1
+msgctxt "HERMITCRAB_GOT_PEARL.1"
+msgid "Oh..."
+msgstr "おお…"
+
+#. HERMITCRAB_GOT_PEARL.2
+msgctxt "HERMITCRAB_GOT_PEARL.2"
+msgid "...I think I understand now."
+msgstr "…わかったよ。"
+
+#. HERMITCRAB_GOT_PEARL.3
+msgctxt "HERMITCRAB_GOT_PEARL.3"
+msgid "Thank you for bringing this back to me."
+msgstr "これを返しに来てくれてありがとうねえ。"
+
+#. HERMITCRAB_GOT_PEARL.4
+msgctxt "HERMITCRAB_GOT_PEARL.4"
+msgid "I'm so glad you kept coming back."
+msgstr "また会いに来てくれてうれしいよ。"
+
+#. HERMITCRAB_GOT_PEARL.5
+msgctxt "HERMITCRAB_GOT_PEARL.5"
+msgid "My friend."
+msgstr "友人よ。"
+
+#. HERMITCRAB_GO_HOME.1
+msgctxt "HERMITCRAB_GO_HOME.1"
+msgid "Time to rest this old chitin."
+msgstr "古いキチン質を休ませる時間だよ。"
+
+#. HERMITCRAB_GREETING.0.1
+msgctxt "HERMITCRAB_GREETING.0.1"
+msgid "Go away!"
+msgstr "あっちに行って！"
+
+#. HERMITCRAB_GREETING.0.2
+msgctxt "HERMITCRAB_GREETING.0.2"
+msgid "Shoo!"
+msgstr "シッシッ！"
+
+#. HERMITCRAB_GREETING.0.3
+msgctxt "HERMITCRAB_GREETING.0.3"
+msgid "Leave me alone!"
+msgstr "あっち行け！"
+
+#. HERMITCRAB_GREETING.0.4
+msgctxt "HERMITCRAB_GREETING.0.4"
+msgid "No trespassing!"
+msgstr "進入禁止だよ！"
+
+#. HERMITCRAB_GREETING.0.5
+msgctxt "HERMITCRAB_GREETING.0.5"
+msgid "Get off my beach!"
+msgstr "アタシのビーチから出な！"
+
+#. HERMITCRAB_GREETING.1.1
+msgctxt "HERMITCRAB_GREETING.1.1"
+msgid "Hmph."
+msgstr "ふう。"
+
+#. HERMITCRAB_GREETING.1.2
+msgctxt "HERMITCRAB_GREETING.1.2"
+msgid "Go find someone else to bother!"
+msgstr "他のやつの邪魔をしてな！"
+
+#. HERMITCRAB_GREETING.10.1
+msgctxt "HERMITCRAB_GREETING.10.1"
+msgid "How have you been, dearie?"
+msgstr "元気にしてたかい？"
+
+#. HERMITCRAB_GREETING.10.2
+msgctxt "HERMITCRAB_GREETING.10.2"
+msgid "If it isn't my favorite visitor!"
+msgstr "アタシの大好きなお客さんじゃないかい！"
+
+#. HERMITCRAB_GREETING.10.3
+msgctxt "HERMITCRAB_GREETING.10.3"
+msgid "Are you eating enough?"
+msgstr "おなか一杯になったかい？"
+
+#. HERMITCRAB_GREETING.2.1
+msgctxt "HERMITCRAB_GREETING.2.1"
+msgid "What are you doing here?"
+msgstr "ここで何をしてるんだい？"
+
+#. HERMITCRAB_GREETING.2.2
+msgctxt "HERMITCRAB_GREETING.2.2"
+msgid "What do you want?"
+msgstr "一体どうしたいんだ？"
+
+#. HERMITCRAB_GREETING.3.1
+msgctxt "HERMITCRAB_GREETING.3.1"
+msgid "You're back?"
+msgstr "戻ったのかい？"
+
+#. HERMITCRAB_GREETING.3.2
+msgctxt "HERMITCRAB_GREETING.3.2"
+msgid "Don't you have anything better to do?"
+msgstr "もっとマシなことをしたらどうだい？"
+
+#. HERMITCRAB_GREETING.3.3
+msgctxt "HERMITCRAB_GREETING.3.3"
+msgid "Troublesome whipper-snapper..."
+msgstr "めんどうなウィッパースナッパーだよ…"
+
+#. HERMITCRAB_GREETING.4.1.1
+msgctxt "HERMITCRAB_GREETING.4.1.1"
+msgid "You're persistent"
+msgstr "アンタはしつこいねえ"
+
+#. HERMITCRAB_GREETING.4.1.2
+msgctxt "HERMITCRAB_GREETING.4.1.2"
+msgid "I'll give you that."
+msgstr "あげるよ。"
+
+#. HERMITCRAB_GREETING.4.2
+msgctxt "HERMITCRAB_GREETING.4.2"
+msgid "Hmph. Just don't make a nuisance of yourself."
+msgstr "ふう。迷惑をかけるんじゃないよ。"
+
+#. HERMITCRAB_GREETING.5.1
+msgctxt "HERMITCRAB_GREETING.5.1"
+msgid "Just can't get enough of my sparkling personality, hmm?"
+msgstr "アタシの輝く魅力がもっとほしいんだろ、んん？"
+
+#. HERMITCRAB_GREETING.5.2.1
+msgctxt "HERMITCRAB_GREETING.5.2.1"
+msgid "Well, if it isn't... hm..."
+msgstr "うーん…もしや…"
+
+#. HERMITCRAB_GREETING.5.2.2
+msgctxt "HERMITCRAB_GREETING.5.2.2"
+msgid "What was your name?"
+msgstr "アンタの名前は？"
+
+#. HERMITCRAB_GREETING.6.1
+msgctxt "HERMITCRAB_GREETING.6.1"
+msgid "Why are you helping me?"
+msgstr "何故アタシを助けるんだい？"
+
+#. HERMITCRAB_GREETING.7.1
+msgctxt "HERMITCRAB_GREETING.7.1"
+msgid "It's been hard taking care of this old place by myself."
+msgstr "この古びれた場所を一人で管理するのは大変だったよ。"
+
+#. HERMITCRAB_GREETING.7.2
+msgctxt "HERMITCRAB_GREETING.7.2"
+msgid "I think I forgot how nice it is to have visitors."
+msgstr "訪問者がいることがどれだけ素敵なことか忘れていたようだよ。"
+
+#. HERMITCRAB_GREETING.7.3
+msgctxt "HERMITCRAB_GREETING.7.3"
+msgid "I've been awfully hard on you, haven't I?"
+msgstr "アタシはひどいくらいおまえにきつく当たっていただろう？"
+
+#. HERMITCRAB_GREETING.8.1
+msgctxt "HERMITCRAB_GREETING.8.1"
+msgid "Hello again!"
+msgstr "毎度こんにちわ。"
+
+#. HERMITCRAB_GREETING.8.2
+msgctxt "HERMITCRAB_GREETING.8.2"
+msgid "Well, if it isn't %s!"
+msgstr "うーん。もしや%sではないのか？"
+
+#. HERMITCRAB_GREETING.9.1
+msgctxt "HERMITCRAB_GREETING.9.1"
+msgid "It's so nice to see you, dearie!"
+msgstr "あえてよかったよ！"
+
+#. HERMITCRAB_GREETING.9.2.1
+msgctxt "HERMITCRAB_GREETING.9.2.1"
+msgid "This world is so full of dangers..."
+msgstr "この世界は本当に危険であふれているな…"
+
+#. HERMITCRAB_GREETING.9.2.2
+msgctxt "HERMITCRAB_GREETING.9.2.2"
+msgid "You be careful out there, alright?"
+msgstr "外に出たら気を付けるんだよ、いいかい？"
+
+#. HERMITCRAB_GROUP_REWARD.HIGH.1.1
+msgctxt "HERMITCRAB_GROUP_REWARD.HIGH.1.1"
+msgid "You've done such a wonderful job!"
+msgstr "よくがんばったな！"
+
+#. HERMITCRAB_GROUP_REWARD.HIGH.1.2
+msgctxt "HERMITCRAB_GROUP_REWARD.HIGH.1.2"
+msgid "Here, it's the least I can do."
+msgstr "ほら、こんなことしかしてあげられないけれどねえ。"
+
+#. HERMITCRAB_GROUP_REWARD.LOW.1.1
+msgctxt "HERMITCRAB_GROUP_REWARD.LOW.1.1"
+msgid "I don't know what you're playing at"
+msgstr "アンタが何で遊んでるんだかわからないよ。"
+
+#. HERMITCRAB_GROUP_REWARD.LOW.1.2
+msgctxt "HERMITCRAB_GROUP_REWARD.LOW.1.2"
+msgid "but don't think I owe you now!"
+msgstr "アンタに借りなんかないよ！"
+
+#. HERMITCRAB_GROUP_REWARD.MED.1
+msgctxt "HERMITCRAB_GROUP_REWARD.MED.1"
+msgid "You've been busy! I suppose I should repay you."
+msgstr "アンタは忙しくしてたんだね。アンタに恩返しをするべきなんだろうねえ。"
+
+#. HERMITCRAB_HARVESTMEAT.HIGH.1
+msgctxt "HERMITCRAB_HARVESTMEAT.HIGH.1"
+msgid "Oooh, I do love some tasty dried meats!"
+msgstr "おお！おいしい乾燥肉が大好きなんだよ！"
+
+#. HERMITCRAB_HARVESTMEAT.LOW.1
+msgctxt "HERMITCRAB_HARVESTMEAT.LOW.1"
+msgid "Hmph... looks pretty stringy."
+msgstr "ふう。筋だらけなようだねえ。"
+
+#. HERMITCRAB_HARVESTMEAT.MED.1
+msgctxt "HERMITCRAB_HARVESTMEAT.MED.1"
+msgid "Hm... doesn't look too bad."
+msgstr "ふむ…見た目は悪くないねえ。"
+
+#. HERMITCRAB_INTRODUCE.1.1
+msgctxt "HERMITCRAB_INTRODUCE.1.1"
+msgid "You've done so much for me."
+msgstr "アンタにはいろいろしてもらったねえ。"
+
+#. HERMITCRAB_INTRODUCE.1.2
+msgctxt "HERMITCRAB_INTRODUCE.1.2"
+msgid "Please, call me Pearl."
+msgstr "パールって呼んでね、お願いね。"
+
+#. HERMITCRAB_INVESTIGATE.FILL_MEATRACKS.HIGH.1
+msgctxt "HERMITCRAB_INVESTIGATE.FILL_MEATRACKS.HIGH.1"
+msgid "Hoo-hoo! That's some tasty jerky in the making!"
+msgstr "ヤッホー！おいしいジャーキーを作ってるんじゃないか！"
+
+#. HERMITCRAB_INVESTIGATE.FILL_MEATRACKS.LOW.1
+msgctxt "HERMITCRAB_INVESTIGATE.FILL_MEATRACKS.LOW.1"
+msgid "You don't want it anymore? Has it gone off?"
+msgstr "もういらないのかい？腐っちまったかい？"
+
+#. HERMITCRAB_INVESTIGATE.FILL_MEATRACKS.MED.1
+msgctxt "HERMITCRAB_INVESTIGATE.FILL_MEATRACKS.MED.1"
+msgid "I'll never say no to free meat!"
+msgstr "タダ肉は大歓迎だよ！"
+
+#. HERMITCRAB_INVESTIGATE.PLANT_BERRIES.HIGH.1
+msgctxt "HERMITCRAB_INVESTIGATE.PLANT_BERRIES.HIGH.1"
+msgid "You are quite the gardener, dearie!"
+msgstr "かなりの園芸家じゃないかい！"
+
+#. HERMITCRAB_INVESTIGATE.PLANT_BERRIES.LOW.1
+msgctxt "HERMITCRAB_INVESTIGATE.PLANT_BERRIES.LOW.1"
+msgid "Well. At least you're doing something useful."
+msgstr "うーん。すくなくともアンタは役にたってるよ。"
+
+#. HERMITCRAB_INVESTIGATE.PLANT_BERRIES.MED.1
+msgctxt "HERMITCRAB_INVESTIGATE.PLANT_BERRIES.MED.1"
+msgid "Maybe another one over there?"
+msgstr "もしかして他のがあっちにあるのかい？"
+
+#. HERMITCRAB_INVESTIGATE.PLANT_FLOWERS.HIGH.1
+msgctxt "HERMITCRAB_INVESTIGATE.PLANT_FLOWERS.HIGH.1"
+msgid "How pretty!"
+msgstr "なんと綺麗な。"
+
+#. HERMITCRAB_INVESTIGATE.PLANT_FLOWERS.LOW.1
+msgctxt "HERMITCRAB_INVESTIGATE.PLANT_FLOWERS.LOW.1"
+msgid "Huh? What are you doing?"
+msgstr "え？なにをしているんだい？"
+
+#. HERMITCRAB_INVESTIGATE.PLANT_FLOWERS.MED.1
+msgctxt "HERMITCRAB_INVESTIGATE.PLANT_FLOWERS.MED.1"
+msgid "Hm... those look nice."
+msgstr "ふむ…よさそうだねえ。"
+
+#. HERMITCRAB_INVESTIGATE.REMOVE_LUREPLANT.HIGH.1
+msgctxt "HERMITCRAB_INVESTIGATE.REMOVE_LUREPLANT.HIGH.1"
+msgid "You really showed that awful plant!"
+msgstr "アンタ本当にひどい植物をみせたのかい！"
+
+#. HERMITCRAB_INVESTIGATE.REMOVE_LUREPLANT.LOW.1
+msgctxt "HERMITCRAB_INVESTIGATE.REMOVE_LUREPLANT.LOW.1"
+msgid "Fantastic. My old pest was removed by my new pest."
+msgstr "素晴らしい！害虫が新しい害虫にとってかわられたよ。"
+
+#. HERMITCRAB_INVESTIGATE.REMOVE_LUREPLANT.MED.1
+msgctxt "HERMITCRAB_INVESTIGATE.REMOVE_LUREPLANT.MED.1"
+msgid "Well, glad that's taken care of."
+msgstr "ええっと、解決してうれしいよ。"
+
+#. HERMITCRAB_LEVEL10_LOWHEALTH.1.1
+msgctxt "HERMITCRAB_LEVEL10_LOWHEALTH.1.1"
+msgid "Goodness, what happened to you?"
+msgstr "おやまあ、どうしたのかい？"
+
+#. HERMITCRAB_LEVEL10_LOWHEALTH.1.2
+msgctxt "HERMITCRAB_LEVEL10_LOWHEALTH.1.2"
+msgid " You need to be more careful!"
+msgstr " もっと気を付けないとだめだよ！"
+
+#. HERMITCRAB_LEVEL10_LOWHUNGER.1.1
+msgctxt "HERMITCRAB_LEVEL10_LOWHUNGER.1.1"
+msgid "Hmph... you look skinny."
+msgstr "ふう…アンタガリガリだねえ。"
+
+#. HERMITCRAB_LEVEL10_LOWHUNGER.1.2
+msgctxt "HERMITCRAB_LEVEL10_LOWHUNGER.1.2"
+msgid "Have you been eating well?"
+msgstr "ちゃんとたべているのかい？"
+
+#. HERMITCRAB_LEVEL10_LOWSANITY.1.1
+msgctxt "HERMITCRAB_LEVEL10_LOWSANITY.1.1"
+msgid "You look like something's troubling you."
+msgstr "何か悩み事があるようだね。"
+
+#. HERMITCRAB_LEVEL10_LOWSANITY.1.2
+msgctxt "HERMITCRAB_LEVEL10_LOWSANITY.1.2"
+msgid "Is everything alright, dearie?"
+msgstr "すべて順調かい？"
+
+#. HERMITCRAB_LEVEL10_PLAYERGOOD.1
+msgctxt "HERMITCRAB_LEVEL10_PLAYERGOOD.1"
+msgid "Glad to see you looking well, dearie."
+msgstr "元気そうでなによりだよ。"
+
+#. HERMITCRAB_MOON_FISSURE_VENT.HIGH.1
+msgctxt "HERMITCRAB_MOON_FISSURE_VENT.HIGH.1"
+msgid "I didn't notice those weird spooks until I'd settled in."
+msgstr "棲みつくまでこの妙なお化けたちには気づかなかったんだよ。"
+
+#. HERMITCRAB_MOON_FISSURE_VENT.HIGH.2
+msgctxt "HERMITCRAB_MOON_FISSURE_VENT.HIGH.2"
+msgid "They were awful, made my shell crawl..."
+msgstr "あいつらはひどいんだよ、アタシの背中をムズムズさせるんだよ…"
+
+#. HERMITCRAB_MOON_FISSURE_VENT.HIGH.3
+msgctxt "HERMITCRAB_MOON_FISSURE_VENT.HIGH.3"
+msgid "One of us had to go, and it wasn't going to be me!"
+msgstr "誰かが行かなければならないよ、それはアタシじゃないよ！"
+
+#. HERMITCRAB_MOON_FISSURE_VENT.LOW.1
+msgctxt "HERMITCRAB_MOON_FISSURE_VENT.LOW.1"
+msgid "Took me forever to plug up those darn fissures..."
+msgstr "一生かかったってこのひどい裂け目を埋められやしないよ…"
+
+#. HERMITCRAB_MOON_FISSURE_VENT.LOW.2
+msgctxt "HERMITCRAB_MOON_FISSURE_VENT.LOW.2"
+msgid "Don't go messing with those!"
+msgstr "しくじるんじゃないよ！"
+
+#. HERMITCRAB_MOON_FISSURE_VENT.MED.1
+msgctxt "HERMITCRAB_MOON_FISSURE_VENT.MED.1"
+msgid "Not the best lawn ornaments, but they keep the head clear."
+msgstr "最高の芝飾りではないけど、まあ頭をきれいに保ってくれるんだね。"
+
+#. HERMITCRAB_PANIC.1
+msgctxt "HERMITCRAB_PANIC.1"
+msgid "I can't see a darn thing!"
+msgstr "なんにもみえやしないよ！"
+
+#. HERMITCRAB_PANICFIRE.1
+msgctxt "HERMITCRAB_PANICFIRE.1"
+msgid "Aaah! I will NOT be broiled!"
+msgstr "あああ！わたしを炙ろうなんてさせやしないよ！"
+
+#. HERMITCRAB_PANICHAUNT.1
+msgctxt "HERMITCRAB_PANICHAUNT.1"
+msgid "You're not taking me yet, spirits!"
+msgstr "聖霊よ、まだ私を連れてはいかないでおくれ！"
+
+#. HERMITCRAB_PLANTED_LUREPLANT_DIED.HIGH.1
+msgctxt "HERMITCRAB_PLANTED_LUREPLANT_DIED.HIGH.1"
+msgid "Dearie, I know you planted that.\nYou don't need to impress me."
+msgstr "アンタがそれを植えたのは知ってるよ。\nアピールしなくたっていいさ。"
+
+#. HERMITCRAB_PLANTED_LUREPLANT_DIED.LOW.1
+msgctxt "HERMITCRAB_PLANTED_LUREPLANT_DIED.LOW.1"
+msgid "Nice try.\nYou don't get anything for cleaning up your own messes."
+msgstr "よくがんばったよ。\n尻ぬぐいしたってなんにももらえないよ。"
+
+#. HERMITCRAB_PLANTED_LUREPLANT_DIED.MED.1
+msgctxt "HERMITCRAB_PLANTED_LUREPLANT_DIED.MED.1"
+msgid "Do you want a reward that bad?"
+msgstr "そんなに褒美が欲しいのかい？"
+
+#. HERMITCRAB_REFUSE_COAT.1
+msgctxt "HERMITCRAB_REFUSE_COAT.1"
+msgid "You keep it, I'm not chilly."
+msgstr "取っておきな。私は寒くないからね。"
+
+#. HERMITCRAB_REFUSE_COAT_HASONE.1
+msgctxt "HERMITCRAB_REFUSE_COAT_HASONE.1"
+msgid "I like the coat I have, thank you very much."
+msgstr "わたしは自分のコートが好きなんだよ、感謝するよ。"
+
+#. HERMITCRAB_REFUSE_ICE_HAD.1
+msgctxt "HERMITCRAB_REFUSE_ICE_HAD.1"
+msgid "I don't need any more ice."
+msgstr "もう氷はいらないよ。"
+
+#. HERMITCRAB_REFUSE_ICE_HOT.1
+msgctxt "HERMITCRAB_REFUSE_ICE_HOT.1"
+msgid "Don't be silly, it's already freezing out here!"
+msgstr "冗談はよしてよ、もうこんなに寒いんだよ！"
+
+#. HERMITCRAB_REFUSE_SALAD.1.1
+msgctxt "HERMITCRAB_REFUSE_SALAD.1.1"
+msgid "I don't want that right now..."
+msgstr "今はいらないよ…"
+
+#. HERMITCRAB_REFUSE_SALAD.1.2
+msgctxt "HERMITCRAB_REFUSE_SALAD.1.2"
+msgid "it makes me too sad..."
+msgstr "悲しすぎるよ…"
+
+#. HERMITCRAB_REFUSE_SMALL_FISH.1
+msgctxt "HERMITCRAB_REFUSE_SMALL_FISH.1"
+msgid "You think {weight} is impressive?\nWhat is that, a minnow?"
+msgstr "アンタ{weight} ってすごいと思うかい？\nこれはなんだい、小魚かい？"
+
+#. HERMITCRAB_REFUSE_SMALL_FISH.2
+msgctxt "HERMITCRAB_REFUSE_SMALL_FISH.2"
+msgid "Wow, {weight}...\nI've never caught a fish this small."
+msgstr "ワオ、{weight}…\nこんなに小さい魚は捕まえたことがないよ。"
+
+#. HERMITCRAB_REFUSE_SMALL_FISH.3
+msgctxt "HERMITCRAB_REFUSE_SMALL_FISH.3"
+msgid "Only {weight}?\nYou should have put it back."
+msgstr "たった{weight}？\nそれは戻すべきだよ。"
+
+#. HERMITCRAB_REFUSE_UMBRELLA.1
+msgctxt "HERMITCRAB_REFUSE_UMBRELLA.1"
+msgid "It's not even raining..."
+msgstr "雨だって降っていないのに…"
+
+#. HERMITCRAB_REFUSE_UMBRELLA_HASONE.1
+msgctxt "HERMITCRAB_REFUSE_UMBRELLA_HASONE.1"
+msgid "My own umbrella will do just fine, thank you."
+msgstr "自分の傘で間に合うよ、ありがとうね。"
+
+#. HERMITCRAB_REFUSE_VEST.1
+msgctxt "HERMITCRAB_REFUSE_VEST.1"
+msgid "I'd boil if I wore that in this heat!"
+msgstr "この暑さの中でそんなもの着てたらゆだっちまうよ！"
+
+#. HERMITCRAB_REWARD.FILL_MEATRACKS.HIGH.1
+msgctxt "HERMITCRAB_REWARD.FILL_MEATRACKS.HIGH.1"
+msgid "I hope it wasn't too much trouble..."
+msgstr "そんなに面倒でないといいのだけどね…"
+
+#. HERMITCRAB_REWARD.FILL_MEATRACKS.LOW.1
+msgctxt "HERMITCRAB_REWARD.FILL_MEATRACKS.LOW.1"
+msgid "Let me guess, you want something in return? Fine..."
+msgstr "見返りが欲しいんだろ、そうだろう？わかったよ…"
+
+#. HERMITCRAB_REWARD.FILL_MEATRACKS.MED.1
+msgctxt "HERMITCRAB_REWARD.FILL_MEATRACKS.MED.1"
+msgid "Thanks... but don't think this means we're friends!"
+msgstr "ありがとうね…けど友だちになったわけじゃないよ！"
+
+#. HERMITCRAB_REWARD.FIX_HOUSE_1.HIGH.1
+msgctxt "HERMITCRAB_REWARD.FIX_HOUSE_1.HIGH.1"
+msgid "My goodness, it looks good as new!"
+msgstr "おやまあ、新品同様だねえ！"
+
+#. HERMITCRAB_REWARD.FIX_HOUSE_1.LOW.1
+msgctxt "HERMITCRAB_REWARD.FIX_HOUSE_1.LOW.1"
+msgid "Oh good, you didn't completely ruin my house."
+msgstr "よかった、私の家を完全にダメにはしてないようだね。"
+
+#. HERMITCRAB_REWARD.FIX_HOUSE_1.MED.1
+msgctxt "HERMITCRAB_REWARD.FIX_HOUSE_1.MED.1"
+msgid "I'd been meaning to fix the place up for a while..."
+msgstr "当分の間この場所を修理するつもりだったよ…"
+
+#. HERMITCRAB_REWARD.FIX_HOUSE_2.HIGH.1
+msgctxt "HERMITCRAB_REWARD.FIX_HOUSE_2.HIGH.1"
+msgid "Oh dearie, I love what you've done with the place!"
+msgstr "おお！気に入ったよ、アンタがこの場所に色々してくれたこと！"
+
+#. HERMITCRAB_REWARD.FIX_HOUSE_2.LOW.1
+msgctxt "HERMITCRAB_REWARD.FIX_HOUSE_2.LOW.1"
+msgid "...I suppose that is an improvement."
+msgstr "…改善なんだと思うよ。"
+
+#. HERMITCRAB_REWARD.FIX_HOUSE_2.MED.1
+msgctxt "HERMITCRAB_REWARD.FIX_HOUSE_2.MED.1"
+msgid "You... did this for me...?"
+msgstr "アンタが…アタシのために…？"
+
+#. HERMITCRAB_REWARD.FIX_HOUSE_3.HIGH.1.1
+msgctxt "HERMITCRAB_REWARD.FIX_HOUSE_3.HIGH.1.1"
+msgid "Oh, it's wonderful!"
+msgstr "おお！すばらしいじゃないか！"
+
+#. HERMITCRAB_REWARD.FIX_HOUSE_3.HIGH.1.2
+msgctxt "HERMITCRAB_REWARD.FIX_HOUSE_3.HIGH.1.2"
+msgid "I feel like a Queen in her palace"
+msgstr "お城の女王になったような気分だよ！"
+
+#. HERMITCRAB_REWARD.FIX_HOUSE_3.HIGH.1.3
+msgctxt "HERMITCRAB_REWARD.FIX_HOUSE_3.HIGH.1.3"
+msgid "Hoo-hoo!"
+msgstr "ヤッホー！"
+
+#. HERMITCRAB_REWARD.FIX_HOUSE_3.LOW.1
+msgctxt "HERMITCRAB_REWARD.FIX_HOUSE_3.LOW.1"
+msgid "Oh. That does look a bit better."
+msgstr "おお。少しはマシに見えるよ。"
+
+#. HERMITCRAB_REWARD.FIX_HOUSE_3.MED.1.1
+msgctxt "HERMITCRAB_REWARD.FIX_HOUSE_3.MED.1.1"
+msgid "I barely recognize the place!"
+msgstr "見違えるほどここは変わったよ！"
+
+#. HERMITCRAB_REWARD.FIX_HOUSE_3.MED.1.2
+msgctxt "HERMITCRAB_REWARD.FIX_HOUSE_3.MED.1.2"
+msgid "Oh don't look worried, that's a good thing."
+msgstr "おお、心配そうには見えないよ、いいことだよ。"
+
+#. HERMITCRAB_REWARD.GIVE_FISH_AUTUM.HIGH.1
+msgctxt "HERMITCRAB_REWARD.GIVE_FISH_AUTUM.HIGH.1"
+msgid "Thank you dearie! Here, why don't you take one of these."
+msgstr "ありがとうね、一つ持ってお行きよ。"
+
+#. HERMITCRAB_REWARD.GIVE_FISH_AUTUM.LOW.1
+msgctxt "HERMITCRAB_REWARD.GIVE_FISH_AUTUM.LOW.1"
+msgid "Hmph. You could've caught it faster if you used this."
+msgstr "ふう。これを使ってたらもっと早く捕まえられてたかもしれないね。"
+
+#. HERMITCRAB_REWARD.GIVE_FISH_AUTUM.MED.1
+msgctxt "HERMITCRAB_REWARD.GIVE_FISH_AUTUM.MED.1"
+msgid "Oh... thanks. Here, take this for your trouble."
+msgstr "おお…ありがとうね。アンタの悩みのためにこれをあげるよ。"
+
+#. HERMITCRAB_REWARD.GIVE_FISH_SPRING.HIGH.1
+msgctxt "HERMITCRAB_REWARD.GIVE_FISH_SPRING.HIGH.1"
+msgid "Thank you dearie! Here, why don't you take one of these."
+msgstr "ありがとうね、一つ持ってお行きよ。"
+
+#. HERMITCRAB_REWARD.GIVE_FISH_SPRING.LOW.1
+msgctxt "HERMITCRAB_REWARD.GIVE_FISH_SPRING.LOW.1"
+msgid "Hmph. You could've caught it faster if you used this."
+msgstr "ふう。これを使ってたらもっと早く捕まえられてたかもしれないね。"
+
+#. HERMITCRAB_REWARD.GIVE_FISH_SPRING.MED.1
+msgctxt "HERMITCRAB_REWARD.GIVE_FISH_SPRING.MED.1"
+msgid "Oh... thanks. Here, take this for your trouble."
+msgstr "おお…ありがとうね。アンタの悩みのためにこれをあげるよ。"
+
+#. HERMITCRAB_REWARD.GIVE_FISH_SUMMER.HIGH.1
+msgctxt "HERMITCRAB_REWARD.GIVE_FISH_SUMMER.HIGH.1"
+msgid "Thank you dearie! Here, why don't you take one of these."
+msgstr "ありがとうね、一つ持ってお行きよ。"
+
+#. HERMITCRAB_REWARD.GIVE_FISH_SUMMER.LOW.1
+msgctxt "HERMITCRAB_REWARD.GIVE_FISH_SUMMER.LOW.1"
+msgid "Hmph. You could've caught it faster if you used this."
+msgstr "ふう。これを使ってたらもっと早く捕まえられてたかもしれないね。"
+
+#. HERMITCRAB_REWARD.GIVE_FISH_SUMMER.MED.1
+msgctxt "HERMITCRAB_REWARD.GIVE_FISH_SUMMER.MED.1"
+msgid "Oh... thanks. Here, take this for your trouble."
+msgstr "おお…ありがとうね。アンタの悩みのためにこれをあげるよ。"
+
+#. HERMITCRAB_REWARD.GIVE_FISH_WINTER.HIGH.1
+msgctxt "HERMITCRAB_REWARD.GIVE_FISH_WINTER.HIGH.1"
+msgid "Thank you dearie! Here, why don't you take one of these."
+msgstr "ありがとうね、一つ持ってお行きよ。"
+
+#. HERMITCRAB_REWARD.GIVE_FISH_WINTER.LOW.1
+msgctxt "HERMITCRAB_REWARD.GIVE_FISH_WINTER.LOW.1"
+msgid "Hmph. You could've caught it faster if you used this."
+msgstr "ふう。これを使ってたらもっと早く捕まえられてたかもしれないね。"
+
+#. HERMITCRAB_REWARD.GIVE_FISH_WINTER.MED.1
+msgctxt "HERMITCRAB_REWARD.GIVE_FISH_WINTER.MED.1"
+msgid "Oh... thanks. Here, take this for your trouble."
+msgstr "おお…ありがとうね。アンタの悩みのためにこれをあげるよ。"
+
+#. HERMITCRAB_REWARD.GIVE_FLOWER_SALAD.HIGH.1.1
+msgctxt "HERMITCRAB_REWARD.GIVE_FLOWER_SALAD.HIGH.1.1"
+msgid "Thank you dearie..."
+msgstr "ありがとうね…"
+
+#. HERMITCRAB_REWARD.GIVE_FLOWER_SALAD.HIGH.1.2
+msgctxt "HERMITCRAB_REWARD.GIVE_FLOWER_SALAD.HIGH.1.2"
+msgid "Have you seen any other crabs on your travels?"
+msgstr "旅の途中で他のカニたちを見たかい？"
+
+#. HERMITCRAB_REWARD.GIVE_FLOWER_SALAD.LOW.1
+msgctxt "HERMITCRAB_REWARD.GIVE_FLOWER_SALAD.LOW.1"
+msgid "..."
+msgstr "..."
+
+#. HERMITCRAB_REWARD.GIVE_FLOWER_SALAD.MED.1
+msgctxt "HERMITCRAB_REWARD.GIVE_FLOWER_SALAD.MED.1"
+msgid "...Thank you. It's been a long time."
+msgstr "…ありがとうね。久しぶりだね。"
+
+#. HERMITCRAB_REWARD.GIVE_HEAVY_FISH.HIGH.1.1
+msgctxt "HERMITCRAB_REWARD.GIVE_HEAVY_FISH.HIGH.1.1"
+msgid "Hoo-hoo!"
+msgstr "ヤッホー！"
+
+#. HERMITCRAB_REWARD.GIVE_HEAVY_FISH.HIGH.1.2
+msgctxt "HERMITCRAB_REWARD.GIVE_HEAVY_FISH.HIGH.1.2"
+msgid "That's some pretty impressive fish, dearie!"
+msgstr "なかなか印象的な魚じゃないか！"
+
+#. HERMITCRAB_REWARD.GIVE_HEAVY_FISH.LOW.1.1
+msgctxt "HERMITCRAB_REWARD.GIVE_HEAVY_FISH.LOW.1.1"
+msgid "Why are you giving me this?"
+msgstr "何故アタシにくれるんだい？"
+
+#. HERMITCRAB_REWARD.GIVE_HEAVY_FISH.LOW.1.2
+msgctxt "HERMITCRAB_REWARD.GIVE_HEAVY_FISH.LOW.1.2"
+msgid "Wait, I never said I wouldn't take it!"
+msgstr "待って、もらわないとは言ってないよ！"
+
+#. HERMITCRAB_REWARD.GIVE_HEAVY_FISH.MED.1
+msgctxt "HERMITCRAB_REWARD.GIVE_HEAVY_FISH.MED.1"
+msgid "Ooooh, that's a hefty pile of fish!"
+msgstr "おおお、それはかなりの魚の山だねえ！"
+
+#. HERMITCRAB_REWARD.GIVE_PUFFY_VEST.HIGH.1
+msgctxt "HERMITCRAB_REWARD.GIVE_PUFFY_VEST.HIGH.1"
+msgid "Oh dearie, you're so thoughtful!"
+msgstr "アンタはなんと思慮深いんだろうかね！"
+
+#. HERMITCRAB_REWARD.GIVE_PUFFY_VEST.LOW.1
+msgctxt "HERMITCRAB_REWARD.GIVE_PUFFY_VEST.LOW.1"
+msgid "Hmph. At least I won't freeze to death."
+msgstr "ふう。少なくとも凍え死ぬは免れそうだ。"
+
+#. HERMITCRAB_REWARD.GIVE_PUFFY_VEST.MED.1
+msgctxt "HERMITCRAB_REWARD.GIVE_PUFFY_VEST.MED.1"
+msgid "That's... very nice of you."
+msgstr "アンタ…いいやつだねえ。"
+
+#. HERMITCRAB_REWARD.GIVE_UMBRELLA.HIGH.1
+msgctxt "HERMITCRAB_REWARD.GIVE_UMBRELLA.HIGH.1"
+msgid "What would I do without you, dearie?"
+msgstr "アンタなしで何をしろっていうんだい？"
+
+#. HERMITCRAB_REWARD.GIVE_UMBRELLA.LOW.1
+msgctxt "HERMITCRAB_REWARD.GIVE_UMBRELLA.LOW.1"
+msgid "I guess this will do."
+msgstr "これで何とかなると思うよ。"
+
+#. HERMITCRAB_REWARD.GIVE_UMBRELLA.MED.1
+msgctxt "HERMITCRAB_REWARD.GIVE_UMBRELLA.MED.1"
+msgid "Why are you being so nice to me?"
+msgstr "なぜアタシにそんなに良くしてくれるんだい？"
+
+#. HERMITCRAB_REWARD.PLANT_BERRIES.HIGH.1.1
+msgctxt "HERMITCRAB_REWARD.PLANT_BERRIES.HIGH.1.1"
+msgid "Ooooh, such a thoughtful young whipper-snapper!"
+msgstr "おおおお、なんと思慮深くて若いウィッパースナッパーなんだ！"
+
+#. HERMITCRAB_REWARD.PLANT_BERRIES.HIGH.1.2
+msgctxt "HERMITCRAB_REWARD.PLANT_BERRIES.HIGH.1.2"
+msgid "Let me pinch your cheeks!"
+msgstr "アンタの頬をつねらせてよ！"
+
+#. HERMITCRAB_REWARD.PLANT_BERRIES.LOW.1.1
+msgctxt "HERMITCRAB_REWARD.PLANT_BERRIES.LOW.1.1"
+msgid "You could've planted them in neater rows..."
+msgstr "もっと整った列に植えれたのに…"
+
+#. HERMITCRAB_REWARD.PLANT_BERRIES.LOW.1.2
+msgctxt "HERMITCRAB_REWARD.PLANT_BERRIES.LOW.1.2"
+msgid "But I guess it'll do."
+msgstr "でもまあ大丈夫だろう。"
+
+#. HERMITCRAB_REWARD.PLANT_BERRIES.MED.1
+msgctxt "HERMITCRAB_REWARD.PLANT_BERRIES.MED.1"
+msgid "I can't remember the last time I had fresh berries!"
+msgstr "最後に新鮮な木イチゴを食べたときなんて思い出せないねえ。"
+
+#. HERMITCRAB_REWARD.PLANT_FLOWERS.HIGH.1
+msgctxt "HERMITCRAB_REWARD.PLANT_FLOWERS.HIGH.1"
+msgid "My bees haven't looked this happy in years!"
+msgstr "もう何年もハチがこんなに幸せそうにしてるところは見てないよ！"
+
+#. HERMITCRAB_REWARD.PLANT_FLOWERS.LOW.1
+msgctxt "HERMITCRAB_REWARD.PLANT_FLOWERS.LOW.1"
+msgid "Well, at least my bees are happy now."
+msgstr "いや、少なくともハチたちは今幸せだよ。"
+
+#. HERMITCRAB_REWARD.PLANT_FLOWERS.MED.1
+msgctxt "HERMITCRAB_REWARD.PLANT_FLOWERS.MED.1"
+msgid "My bees are buzzing with excitement!"
+msgstr "ハチたちが喜んでブンブン飛んでいるよ！"
+
+#. HERMITCRAB_REWARD.REMOVE_JUNK.HIGH.1.1
+msgctxt "HERMITCRAB_REWARD.REMOVE_JUNK.HIGH.1.1"
+msgid "Ahhh..."
+msgstr "あああ．．．"
+
+#. HERMITCRAB_REWARD.REMOVE_JUNK.HIGH.1.2
+msgctxt "HERMITCRAB_REWARD.REMOVE_JUNK.HIGH.1.2"
+msgid "It's such a weight off my mind to have that junk gone."
+msgstr "そのガラクタが処分されて肩の荷が下りた気分だよ。"
+
+#. HERMITCRAB_REWARD.REMOVE_JUNK.LOW.1
+msgctxt "HERMITCRAB_REWARD.REMOVE_JUNK.LOW.1"
+msgid "Hmph. Took you long enough."
+msgstr "ふう。ずいぶん時間がかかったねえ。"
+
+#. HERMITCRAB_REWARD.REMOVE_JUNK.MED.1
+msgctxt "HERMITCRAB_REWARD.REMOVE_JUNK.MED.1"
+msgid "Should be easier to fish with all that junk gone!"
+msgstr "ガラクタ全部なくなった今、釣りが簡単になったはずだよ！"
+
+#. HERMITCRAB_REWARD.REMOVE_LUREPLANT.HIGH.1.1
+msgctxt "HERMITCRAB_REWARD.REMOVE_LUREPLANT.HIGH.1.1"
+msgid "What a relief!"
+msgstr "安心だねえ！"
+
+#. HERMITCRAB_REWARD.REMOVE_LUREPLANT.HIGH.1.2
+msgctxt "HERMITCRAB_REWARD.REMOVE_LUREPLANT.HIGH.1.2"
+msgid "That plant's been side-eying me for some time."
+msgstr "時々その植物はアタシを横目で見てるんだよ。"
+
+#. HERMITCRAB_REWARD.REMOVE_LUREPLANT.LOW.1.1
+msgctxt "HERMITCRAB_REWARD.REMOVE_LUREPLANT.LOW.1.1"
+msgid "You think you deserve a reward or something?"
+msgstr "自分が褒美か何かをもらうに値するとおもってるのかい？"
+
+#. HERMITCRAB_REWARD.REMOVE_LUREPLANT.LOW.1.2
+msgctxt "HERMITCRAB_REWARD.REMOVE_LUREPLANT.LOW.1.2"
+msgid "Hmph."
+msgstr "ふう。"
+
+#. HERMITCRAB_REWARD.REMOVE_LUREPLANT.MED.1
+msgctxt "HERMITCRAB_REWARD.REMOVE_LUREPLANT.MED.1"
+msgid "Guess you're at least a half decent weed killer."
+msgstr "少なくとも半分くらいは効果がありそうな除草剤だねえ。"
+
+#. HERMITCRAB_STORE_UNLOCK_1.1.1
+msgctxt "HERMITCRAB_STORE_UNLOCK_1.1.1"
+msgid "So do you want to trade?"
+msgstr "で、交換するのかい？"
+
+#. HERMITCRAB_STORE_UNLOCK_1.1.2
+msgctxt "HERMITCRAB_STORE_UNLOCK_1.1.2"
+msgid "or are you just wasting my time?"
+msgstr "それとも私の邪魔をしに来たのかい？"
+
+#. HERMITCRAB_STORE_UNLOCK_2.1.1
+msgctxt "HERMITCRAB_STORE_UNLOCK_2.1.1"
+msgid "I miiight have some lures to trade..."
+msgstr "交換できるルアーがあるかもしれないよ…"
+
+#. HERMITCRAB_STORE_UNLOCK_2.1.2
+msgctxt "HERMITCRAB_STORE_UNLOCK_2.1.2"
+msgid "if you can afford them."
+msgstr "アンタが買えるならねえ。"
+
+#. HERMITCRAB_STORE_UNLOCK_3.1.1
+msgctxt "HERMITCRAB_STORE_UNLOCK_3.1.1"
+msgid "Alright, you've twisted my claw."
+msgstr "わかったよ、アンタはアタシのハサミをひねってるんだよ。"
+
+#. HERMITCRAB_STORE_UNLOCK_3.1.2
+msgctxt "HERMITCRAB_STORE_UNLOCK_3.1.2"
+msgid " I'll show you my GOOD lures."
+msgstr " わたしの良いルアーをみせてあげようか。"
+
+#. HERMITCRAB_STORE_UNLOCK_4.1.1
+msgctxt "HERMITCRAB_STORE_UNLOCK_4.1.1"
+msgid "I've got some new things to trade"
+msgstr "新商品追加されてるよ"
+
+#. HERMITCRAB_STORE_UNLOCK_4.1.2
+msgctxt "HERMITCRAB_STORE_UNLOCK_4.1.2"
+msgid "but they don't come cheap!"
+msgstr "けどそんなに安く手に入らないよ！"
+
+#. HERMITCRAB_STORE_UNLOCK_5.1.1
+msgctxt "HERMITCRAB_STORE_UNLOCK_5.1.1"
+msgid "This old shell must be going soft..."
+msgstr "この古い殻は柔らかくなっていくにちがいないよ…"
+
+#. HERMITCRAB_STORE_UNLOCK_5.1.2
+msgctxt "HERMITCRAB_STORE_UNLOCK_5.1.2"
+msgid "I put something special in the shop."
+msgstr "店に特別なものを追加したよ。"
+
+#. HERMITCRAB_TALK_ONPURCHASE.HIGH.1
+msgctxt "HERMITCRAB_TALK_ONPURCHASE.HIGH.1"
+msgid "Give me a holler if you need anything else!"
+msgstr "他に何か必要ならアタシに声をかけるんだよ！"
+
+#. HERMITCRAB_TALK_ONPURCHASE.LOW.1
+msgctxt "HERMITCRAB_TALK_ONPURCHASE.LOW.1"
+msgid "Great. Now leave me alone."
+msgstr "すごいねえ。じゃあもうどっかへ行っておくれ。"
+
+#. HERMITCRAB_TALK_ONPURCHASE.MED.1
+msgctxt "HERMITCRAB_TALK_ONPURCHASE.MED.1"
+msgid "Pleasure doing business."
+msgstr "またよろしくねえ。"
+
+#. HERMITCRAB_THROWBOTTLE.HIGH.1
+msgctxt "HERMITCRAB_THROWBOTTLE.HIGH.1"
+msgid "Maybe this will be the one to reach him..."
+msgstr "もしかしたらこれはあの人に届くかもしれないねえ…"
+
+#. HERMITCRAB_THROWBOTTLE.LOW.1.1
+msgctxt "HERMITCRAB_THROWBOTTLE.LOW.1.1"
+msgid "You've been snatching up my bottles!"
+msgstr "アンタがアタシのボトルを奪ってたのかい！"
+
+#. HERMITCRAB_THROWBOTTLE.LOW.1.2
+msgctxt "HERMITCRAB_THROWBOTTLE.LOW.1.2"
+msgid "Now I need to send out twice as many!"
+msgstr "二倍の送らなきゃいけなくなったじゃないか！"
+
+#. HERMITCRAB_THROWBOTTLE.MED.1
+msgctxt "HERMITCRAB_THROWBOTTLE.MED.1"
+msgid "I suppose I'm glad they reached anyone, really."
+msgstr "届いてよかったと喜ぶべきなんだろうね。"
+
+#. HERMITCRAB_WANT_HOUSE.1
+msgctxt "HERMITCRAB_WANT_HOUSE.1"
+msgid "I could really use some help fixing up my house..."
+msgstr "家の修理を手伝ってもらえたらねえ…"
+

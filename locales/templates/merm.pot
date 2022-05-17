@@ -1,0 +1,725 @@
+msgid ""
+msgstr ""
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
+#. MERM1_TALK_GREETING.1
+msgctxt "MERM1_TALK_GREETING.1"
+msgid "Thoughts don't come to me like they used to."
+msgstr ""
+
+#. MERM1_TALK_GREETING.2
+msgctxt "MERM1_TALK_GREETING.2"
+msgid "Who's Mumsy again? Ah, right. Nice lady."
+msgstr ""
+
+#. MERM1_TALK_GREETING.3
+msgctxt "MERM1_TALK_GREETING.3"
+msgid "Been havin' odd cravings for fish lately. Hmf."
+msgstr ""
+
+#. MERM1_TALK_GREETING.4
+msgctxt "MERM1_TALK_GREETING.4"
+msgid "Pip's too uptight. Always worryin' about me."
+msgstr ""
+
+#. MERM1_TALK_GREETING.5
+msgctxt "MERM1_TALK_GREETING.5"
+msgid "Hey, trade with ol'Sammy!"
+msgstr ""
+
+#. MERM1_TALK_GREETING.6
+msgctxt "MERM1_TALK_GREETING.6"
+msgid "SEEDS! SEEDS HERE!"
+msgstr ""
+
+#. MERM1_TALK_GREETING.7
+msgctxt "MERM1_TALK_GREETING.7"
+msgid "What was I doing? ...Oh, SEEDS HERE!"
+msgstr ""
+
+#. MERM1_TALK_TRADE.1
+msgctxt "MERM1_TALK_TRADE.1"
+msgid "Alright, alright, get a move on."
+msgstr ""
+
+#. MERM1_TALK_TRADE.2
+msgctxt "MERM1_TALK_TRADE.2"
+msgid "'Pleasure."
+msgstr ""
+
+#. MERM1_TALK_TRADE.3
+msgctxt "MERM1_TALK_TRADE.3"
+msgid "Always in a rush, you lot."
+msgstr ""
+
+#. MERM1_TALK_TRADE.4
+msgctxt "MERM1_TALK_TRADE.4"
+msgid "The plague ain't so bad, y'know."
+msgstr ""
+
+#. MERM1_TALK_TRADE.5
+msgctxt "MERM1_TALK_TRADE.5"
+msgid "Come back now, y'hear?"
+msgstr ""
+
+#. MERM1_TALK_TRADE.6
+msgctxt "MERM1_TALK_TRADE.6"
+msgid "Who're you again?"
+msgstr ""
+
+#. MERM1_TALK_TRADE.7
+msgctxt "MERM1_TALK_TRADE.7"
+msgid "Thanks, stranger."
+msgstr ""
+
+#. MERM2_TALK_GREETING.1
+msgctxt "MERM2_TALK_GREETING.1"
+msgid "Good afternoon! Care to trade?"
+msgstr ""
+
+#. MERM2_TALK_GREETING.2
+msgctxt "MERM2_TALK_GREETING.2"
+msgid "At least the sickness didn't take my moustache. Ho ho!"
+msgstr ""
+
+#. MERM2_TALK_GREETING.3
+msgctxt "MERM2_TALK_GREETING.3"
+msgid "Sammy's faculties are slipping, but you didn't hear it from me."
+msgstr ""
+
+#. MERM2_TALK_GREETING.4
+msgctxt "MERM2_TALK_GREETING.4"
+msgid "Many of our sick disappeared into the sea. Odd, that."
+msgstr ""
+
+#. MERM2_TALK_GREETING.5
+msgctxt "MERM2_TALK_GREETING.5"
+msgid "Shame you couldn't see the town in its glory days."
+msgstr ""
+
+#. MERM2_TALK_GREETING.6
+msgctxt "MERM2_TALK_GREETING.6"
+msgid "I've only the finest goods for sale."
+msgstr ""
+
+#. MERM2_TALK_GREETING.7
+msgctxt "MERM2_TALK_GREETING.7"
+msgid "This is a dreadful place for a kid to grow up in."
+msgstr ""
+
+#. MERM2_TALK_TRADE.1
+msgctxt "MERM2_TALK_TRADE.1"
+msgid "In a hurry, then?"
+msgstr ""
+
+#. MERM2_TALK_TRADE.2
+msgctxt "MERM2_TALK_TRADE.2"
+msgid "Don't tarry now, friend."
+msgstr ""
+
+#. MERM2_TALK_TRADE.3
+msgctxt "MERM2_TALK_TRADE.3"
+msgid "I'll not waste anymore of your time."
+msgstr ""
+
+#. MERM2_TALK_TRADE.4
+msgctxt "MERM2_TALK_TRADE.4"
+msgid "I tip my hat to you."
+msgstr ""
+
+#. MERM2_TALK_TRADE.5
+msgctxt "MERM2_TALK_TRADE.5"
+msgid "It's been a pleasure."
+msgstr ""
+
+#. MERM2_TALK_TRADE.6
+msgctxt "MERM2_TALK_TRADE.6"
+msgid "Gnaw smile on you."
+msgstr ""
+
+#. MERMNAMES.1
+msgctxt "MERMNAMES.1"
+msgid "Flargle"
+msgstr ""
+
+#. MERMNAMES.10
+msgctxt "MERMNAMES.10"
+msgid "Glogh"
+msgstr ""
+
+#. MERMNAMES.11
+msgctxt "MERMNAMES.11"
+msgid "Glop"
+msgstr ""
+
+#. MERMNAMES.12
+msgctxt "MERMNAMES.12"
+msgid "Glot"
+msgstr ""
+
+#. MERMNAMES.13
+msgctxt "MERMNAMES.13"
+msgid "Glugh"
+msgstr ""
+
+#. MERMNAMES.14
+msgctxt "MERMNAMES.14"
+msgid "Glup"
+msgstr ""
+
+#. MERMNAMES.15
+msgctxt "MERMNAMES.15"
+msgid "Glurp"
+msgstr ""
+
+#. MERMNAMES.16
+msgctxt "MERMNAMES.16"
+msgid "Glurt"
+msgstr ""
+
+#. MERMNAMES.17
+msgctxt "MERMNAMES.17"
+msgid "Glurble"
+msgstr ""
+
+#. MERMNAMES.18
+msgctxt "MERMNAMES.18"
+msgid "Gogh"
+msgstr ""
+
+#. MERMNAMES.19
+msgctxt "MERMNAMES.19"
+msgid "Gop"
+msgstr ""
+
+#. MERMNAMES.2
+msgctxt "MERMNAMES.2"
+msgid "Flop"
+msgstr ""
+
+#. MERMNAMES.20
+msgctxt "MERMNAMES.20"
+msgid "Gopt"
+msgstr ""
+
+#. MERMNAMES.21
+msgctxt "MERMNAMES.21"
+msgid "Gorp"
+msgstr ""
+
+#. MERMNAMES.22
+msgctxt "MERMNAMES.22"
+msgid "Gort"
+msgstr ""
+
+#. MERMNAMES.23
+msgctxt "MERMNAMES.23"
+msgid "Gugh"
+msgstr ""
+
+#. MERMNAMES.24
+msgctxt "MERMNAMES.24"
+msgid "Gup"
+msgstr ""
+
+#. MERMNAMES.25
+msgctxt "MERMNAMES.25"
+msgid "Gupt"
+msgstr ""
+
+#. MERMNAMES.26
+msgctxt "MERMNAMES.26"
+msgid "Gurble"
+msgstr ""
+
+#. MERMNAMES.27
+msgctxt "MERMNAMES.27"
+msgid "Gurp"
+msgstr ""
+
+#. MERMNAMES.28
+msgctxt "MERMNAMES.28"
+msgid "Gurt"
+msgstr ""
+
+#. MERMNAMES.29
+msgctxt "MERMNAMES.29"
+msgid "Audrey"
+msgstr ""
+
+#. MERMNAMES.3
+msgctxt "MERMNAMES.3"
+msgid "Flot"
+msgstr ""
+
+#. MERMNAMES.30
+msgctxt "MERMNAMES.30"
+msgid "Jeffrey"
+msgstr ""
+
+#. MERMNAMES.31
+msgctxt "MERMNAMES.31"
+msgid "Johnny"
+msgstr ""
+
+#. MERMNAMES.32
+msgctxt "MERMNAMES.32"
+msgid "Isabella"
+msgstr ""
+
+#. MERMNAMES.33
+msgctxt "MERMNAMES.33"
+msgid "Madeline"
+msgstr ""
+
+#. MERMNAMES.34
+msgctxt "MERMNAMES.34"
+msgid "Michael"
+msgstr ""
+
+#. MERMNAMES.35
+msgctxt "MERMNAMES.35"
+msgid "Penelope"
+msgstr ""
+
+#. MERMNAMES.36
+msgctxt "MERMNAMES.36"
+msgid "Sarah"
+msgstr ""
+
+#. MERMNAMES.37
+msgctxt "MERMNAMES.37"
+msgid "Simon"
+msgstr ""
+
+#. MERMNAMES.38
+msgctxt "MERMNAMES.38"
+msgid "Trevor"
+msgstr ""
+
+#. MERMNAMES.4
+msgctxt "MERMNAMES.4"
+msgid "Flugh"
+msgstr ""
+
+#. MERMNAMES.5
+msgctxt "MERMNAMES.5"
+msgid "Flupt"
+msgstr ""
+
+#. MERMNAMES.6
+msgctxt "MERMNAMES.6"
+msgid "Flurgle"
+msgstr ""
+
+#. MERMNAMES.7
+msgctxt "MERMNAMES.7"
+msgid "Fopt"
+msgstr ""
+
+#. MERMNAMES.8
+msgctxt "MERMNAMES.8"
+msgid "Furp"
+msgstr ""
+
+#. MERMNAMES.9
+msgctxt "MERMNAMES.9"
+msgid "Furt"
+msgstr ""
+
+#. MERM_BATTLECRY.1.1
+msgctxt "MERM_BATTLECRY.1.1"
+msgid "Glorp! Go away!"
+msgstr ""
+
+#. MERM_BATTLECRY.1.2
+msgctxt "MERM_BATTLECRY.1.2"
+msgid "Glorp! Glorpy glup!"
+msgstr ""
+
+#. MERM_BATTLECRY.2.1
+msgctxt "MERM_BATTLECRY.2.1"
+msgid "Destroy you!"
+msgstr ""
+
+#. MERM_BATTLECRY.2.2
+msgctxt "MERM_BATTLECRY.2.2"
+msgid "Wult glut!"
+msgstr ""
+
+#. MERM_GUARD_BATTLECRY.1.1
+msgctxt "MERM_GUARD_BATTLECRY.1.1"
+msgid "To battle!"
+msgstr ""
+
+#. MERM_GUARD_BATTLECRY.1.2
+msgctxt "MERM_GUARD_BATTLECRY.1.2"
+msgid "Wult flrot!"
+msgstr ""
+
+#. MERM_GUARD_BATTLECRY.2.1
+msgctxt "MERM_GUARD_BATTLECRY.2.1"
+msgid "For glory of Mermfolk!"
+msgstr ""
+
+#. MERM_GUARD_BATTLECRY.2.2
+msgctxt "MERM_GUARD_BATTLECRY.2.2"
+msgid "Flort Glurtsu flut!"
+msgstr ""
+
+#. MERM_GUARD_BATTLECRY.3.1
+msgctxt "MERM_GUARD_BATTLECRY.3.1"
+msgid "ATTAAAACK!!"
+msgstr ""
+
+#. MERM_GUARD_BATTLECRY.3.2
+msgctxt "MERM_GUARD_BATTLECRY.3.2"
+msgid "GLOT FLOOOORPH!!"
+msgstr ""
+
+#. MERM_GUARD_BATTLECRY.4.1
+msgctxt "MERM_GUARD_BATTLECRY.4.1"
+msgid "Defend King!"
+msgstr ""
+
+#. MERM_GUARD_BATTLECRY.4.2
+msgctxt "MERM_GUARD_BATTLECRY.4.2"
+msgid "Glurph Glurtsen!"
+msgstr ""
+
+#. MERM_KING_TALK_HUNGER_CLOSE_STARVING
+msgctxt "MERM_KING_TALK_HUNGER_CLOSE_STARVING"
+msgid "Treachery... villainy! To let King waste away like this..."
+msgstr ""
+
+#. MERM_KING_TALK_HUNGER_FULL
+msgctxt "MERM_KING_TALK_HUNGER_FULL"
+msgid "Have done well. Now go."
+msgstr ""
+
+#. MERM_KING_TALK_HUNGER_HUNGRISH
+msgctxt "MERM_KING_TALK_HUNGER_HUNGRISH"
+msgid "King feeling a bit peckish..."
+msgstr ""
+
+#. MERM_KING_TALK_HUNGER_HUNGRY
+msgctxt "MERM_KING_TALK_HUNGER_HUNGRY"
+msgid "King desires food!"
+msgstr ""
+
+#. MERM_KING_TALK_HUNGER_STARVING
+msgctxt "MERM_KING_TALK_HUNGER_STARVING"
+msgid "Hungry... HUNGRY! HUNGRYYYY!!!"
+msgstr ""
+
+#. MERM_KING_TALK_HUNGER_VERY_HUNGRY
+msgctxt "MERM_KING_TALK_HUNGER_VERY_HUNGRY"
+msgid "What take so long? Make offerings to your King!"
+msgstr ""
+
+#. MERM_TALK_CLOSED.1
+msgctxt "MERM_TALK_CLOSED.1"
+msgid "Ya talk to ol'Mumsy yet?"
+msgstr ""
+
+#. MERM_TALK_CLOSED.2
+msgctxt "MERM_TALK_CLOSED.2"
+msgid "I ain't taking business right now."
+msgstr ""
+
+#. MERM_TALK_CLOSED.3
+msgctxt "MERM_TALK_CLOSED.3"
+msgid "Don't keep the lady waiting."
+msgstr ""
+
+#. MERM_TALK_CLOSED.4
+msgctxt "MERM_TALK_CLOSED.4"
+msgid "Speak with Mumsy. Hurry on, then."
+msgstr ""
+
+#. MERM_TALK_CONTEST_OOOH.1
+msgctxt "MERM_TALK_CONTEST_OOOH.1"
+msgid "Such taste."
+msgstr ""
+
+#. MERM_TALK_CONTEST_OOOH.2
+msgctxt "MERM_TALK_CONTEST_OOOH.2"
+msgid "Nicely done."
+msgstr ""
+
+#. MERM_TALK_CONTEST_OOOH.3
+msgctxt "MERM_TALK_CONTEST_OOOH.3"
+msgid "Such beauty."
+msgstr ""
+
+#. MERM_TALK_CONTEST_PANIC.1
+msgctxt "MERM_TALK_CONTEST_PANIC.1"
+msgid "Must choose!"
+msgstr ""
+
+#. MERM_TALK_CONTEST_PANIC.2
+msgctxt "MERM_TALK_CONTEST_PANIC.2"
+msgid "How decide?!"
+msgstr ""
+
+#. MERM_TALK_FIND_FOOD.1.1
+msgctxt "MERM_TALK_FIND_FOOD.1.1"
+msgid "Will come with you."
+msgstr ""
+
+#. MERM_TALK_FIND_FOOD.1.2
+msgctxt "MERM_TALK_FIND_FOOD.1.2"
+msgid "Flort glut."
+msgstr ""
+
+#. MERM_TALK_FIND_FOOD.2.1
+msgctxt "MERM_TALK_FIND_FOOD.2.1"
+msgid "Make Mermfolk strong!"
+msgstr ""
+
+#. MERM_TALK_FIND_FOOD.2.2
+msgctxt "MERM_TALK_FIND_FOOD.2.2"
+msgid "Blut gloppy Glurtsu!"
+msgstr ""
+
+#. MERM_TALK_FIND_FOOD.3.1
+msgctxt "MERM_TALK_FIND_FOOD.3.1"
+msgid "This do fine."
+msgstr ""
+
+#. MERM_TALK_FIND_FOOD.3.2
+msgctxt "MERM_TALK_FIND_FOOD.3.2"
+msgid "Glort grolt flut."
+msgstr ""
+
+#. MERM_TALK_FIND_FOOD.4.1
+msgctxt "MERM_TALK_FIND_FOOD.4.1"
+msgid "Find something tasty!"
+msgstr ""
+
+#. MERM_TALK_FIND_FOOD.4.2
+msgctxt "MERM_TALK_FIND_FOOD.4.2"
+msgid "Glurt florpy flut!"
+msgstr ""
+
+#. MERM_TALK_FOLLOWWILSON.1.1
+msgctxt "MERM_TALK_FOLLOWWILSON.1.1"
+msgid "Will come with you."
+msgstr ""
+
+#. MERM_TALK_FOLLOWWILSON.1.2
+msgctxt "MERM_TALK_FOLLOWWILSON.1.2"
+msgid "Flort glut."
+msgstr ""
+
+#. MERM_TALK_FOLLOWWILSON.2.1
+msgctxt "MERM_TALK_FOLLOWWILSON.2.1"
+msgid "Make Mermfolk strong!"
+msgstr ""
+
+#. MERM_TALK_FOLLOWWILSON.2.2
+msgctxt "MERM_TALK_FOLLOWWILSON.2.2"
+msgid "Blut gloppy Glurtsu!"
+msgstr ""
+
+#. MERM_TALK_FOLLOWWILSON.3.1
+msgctxt "MERM_TALK_FOLLOWWILSON.3.1"
+msgid "You help Mermfolk!"
+msgstr ""
+
+#. MERM_TALK_FOLLOWWILSON.3.2
+msgctxt "MERM_TALK_FOLLOWWILSON.3.2"
+msgid "Glut Glurtsu flopt!"
+msgstr ""
+
+#. MERM_TALK_FOLLOWWILSON.4.1
+msgctxt "MERM_TALK_FOLLOWWILSON.4.1"
+msgid "You okay."
+msgstr ""
+
+#. MERM_TALK_FOLLOWWILSON.4.2
+msgctxt "MERM_TALK_FOLLOWWILSON.4.2"
+msgid "Florpy flort."
+msgstr ""
+
+#. MERM_TALK_HELP_CHOP_WOOD.1.1
+msgctxt "MERM_TALK_HELP_CHOP_WOOD.1.1"
+msgid "Will come with you."
+msgstr ""
+
+#. MERM_TALK_HELP_CHOP_WOOD.1.2
+msgctxt "MERM_TALK_HELP_CHOP_WOOD.1.2"
+msgid "Flort glut."
+msgstr ""
+
+#. MERM_TALK_HELP_CHOP_WOOD.2.1
+msgctxt "MERM_TALK_HELP_CHOP_WOOD.2.1"
+msgid "Make Mermfolk strong!"
+msgstr ""
+
+#. MERM_TALK_HELP_CHOP_WOOD.2.2
+msgctxt "MERM_TALK_HELP_CHOP_WOOD.2.2"
+msgid "Blut gloppy Glurtsu!"
+msgstr ""
+
+#. MERM_TALK_HELP_CHOP_WOOD.3.1
+msgctxt "MERM_TALK_HELP_CHOP_WOOD.3.1"
+msgid "Chop, choppy, chop!"
+msgstr ""
+
+#. MERM_TALK_HELP_CHOP_WOOD.3.2
+msgctxt "MERM_TALK_HELP_CHOP_WOOD.3.2"
+msgid "Grop, groppy, grop!"
+msgstr ""
+
+#. MERM_TALK_HELP_CHOP_WOOD.4.1
+msgctxt "MERM_TALK_HELP_CHOP_WOOD.4.1"
+msgid "Work hard, florp!"
+msgstr ""
+
+#. MERM_TALK_HELP_CHOP_WOOD.4.2
+msgctxt "MERM_TALK_HELP_CHOP_WOOD.4.2"
+msgid "Glort blut, florp!"
+msgstr ""
+
+#. MERM_TALK_HELP_HAMMER.1.1
+msgctxt "MERM_TALK_HELP_HAMMER.1.1"
+msgid "Will come with you."
+msgstr ""
+
+#. MERM_TALK_HELP_HAMMER.1.2
+msgctxt "MERM_TALK_HELP_HAMMER.1.2"
+msgid "Flort glut."
+msgstr ""
+
+#. MERM_TALK_HELP_HAMMER.2.1
+msgctxt "MERM_TALK_HELP_HAMMER.2.1"
+msgid "Make Mermfolk strong!"
+msgstr ""
+
+#. MERM_TALK_HELP_HAMMER.2.2
+msgctxt "MERM_TALK_HELP_HAMMER.2.2"
+msgid "Blut gloppy Glurtsu!"
+msgstr ""
+
+#. MERM_TALK_HELP_HAMMER.3.1
+msgctxt "MERM_TALK_HELP_HAMMER.3.1"
+msgid "Smash! Smash!"
+msgstr ""
+
+#. MERM_TALK_HELP_HAMMER.3.2
+msgctxt "MERM_TALK_HELP_HAMMER.3.2"
+msgid "Florph! Florph!"
+msgstr ""
+
+#. MERM_TALK_HELP_HAMMER.4.1
+msgctxt "MERM_TALK_HELP_HAMMER.4.1"
+msgid "Work hard, florp!"
+msgstr ""
+
+#. MERM_TALK_HELP_HAMMER.4.2
+msgctxt "MERM_TALK_HELP_HAMMER.4.2"
+msgid "Glort blut, florp!"
+msgstr ""
+
+#. MERM_TALK_HELP_MINE_ROCK.1.1
+msgctxt "MERM_TALK_HELP_MINE_ROCK.1.1"
+msgid "Will come with you."
+msgstr ""
+
+#. MERM_TALK_HELP_MINE_ROCK.1.2
+msgctxt "MERM_TALK_HELP_MINE_ROCK.1.2"
+msgid "Flort glut."
+msgstr ""
+
+#. MERM_TALK_HELP_MINE_ROCK.2.1
+msgctxt "MERM_TALK_HELP_MINE_ROCK.2.1"
+msgid "Make Mermfolk strong!"
+msgstr ""
+
+#. MERM_TALK_HELP_MINE_ROCK.2.2
+msgctxt "MERM_TALK_HELP_MINE_ROCK.2.2"
+msgid "Blut gloppy Glurtsu!"
+msgstr ""
+
+#. MERM_TALK_HELP_MINE_ROCK.3.1
+msgctxt "MERM_TALK_HELP_MINE_ROCK.3.1"
+msgid "Break rock, easy!"
+msgstr ""
+
+#. MERM_TALK_HELP_MINE_ROCK.3.2
+msgctxt "MERM_TALK_HELP_MINE_ROCK.3.2"
+msgid "Wult wop, florty flort!"
+msgstr ""
+
+#. MERM_TALK_HELP_MINE_ROCK.4.1
+msgctxt "MERM_TALK_HELP_MINE_ROCK.4.1"
+msgid "Work hard, florp!"
+msgstr ""
+
+#. MERM_TALK_HELP_MINE_ROCK.4.2
+msgctxt "MERM_TALK_HELP_MINE_ROCK.4.2"
+msgid "Glort blut, florp!"
+msgstr ""
+
+#. MERM_TALK_PANICBOSS.1.1
+msgctxt "MERM_TALK_PANICBOSS.1.1"
+msgid "Something coming!"
+msgstr ""
+
+#. MERM_TALK_PANICBOSS.1.2
+msgctxt "MERM_TALK_PANICBOSS.1.2"
+msgid "Gloppy flort!"
+msgstr ""
+
+#. MERM_TALK_PANICBOSS.2.1
+msgctxt "MERM_TALK_PANICBOSS.2.1"
+msgid "Aaah!! Bad thing! Bad thing!"
+msgstr ""
+
+#. MERM_TALK_PANICBOSS.2.2
+msgctxt "MERM_TALK_PANICBOSS.2.2"
+msgid "Gloooorph!! Glurph glot! Glurph glot!"
+msgstr ""
+
+#. MERM_TALK_PANICBOSS.3.1
+msgctxt "MERM_TALK_PANICBOSS.3.1"
+msgid "It come to destroy us!"
+msgstr ""
+
+#. MERM_TALK_PANICBOSS.3.2
+msgctxt "MERM_TALK_PANICBOSS.3.2"
+msgid "Flort wult Glurtsu!"
+msgstr ""
+
+#. MERM_TALK_PANICBOSS_KING.1.1
+msgctxt "MERM_TALK_PANICBOSS_KING.1.1"
+msgid "Rally to King!"
+msgstr ""
+
+#. MERM_TALK_PANICBOSS_KING.1.2
+msgctxt "MERM_TALK_PANICBOSS_KING.1.2"
+msgid "Glurtsen blut flort!"
+msgstr ""
+
+#. MERM_TALK_PANICBOSS_KING.2.1
+msgctxt "MERM_TALK_PANICBOSS_KING.2.1"
+msgid "Hurry! Protect kingdom!"
+msgstr ""
+
+#. MERM_TALK_PANICBOSS_KING.2.2
+msgctxt "MERM_TALK_PANICBOSS_KING.2.2"
+msgid "Flurph flrot! Gloppy Glurtsam!"
+msgstr ""
+
+#. MERM_TALK_PANICBOSS_KING.3.1
+msgctxt "MERM_TALK_PANICBOSS_KING.3.1"
+msgid "S-stay brave!!"
+msgstr ""
+
+#. MERM_TALK_PANICBOSS_KING.3.2
+msgctxt "MERM_TALK_PANICBOSS_KING.3.2"
+msgid "G-glop blut flrot!!"
+msgstr ""
+
