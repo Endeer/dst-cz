@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-17 20:41+0000\n"
+"PO-Revision-Date: 2022-05-18 12:12+0000\n"
 "Last-Translator: Ender Wiggin <f@endeer.cz>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
@@ -32,7 +32,7 @@ msgstr ""
 #. ACTIONS.ACTIVATE.CLIMB
 msgctxt "ACTIONS.ACTIVATE.CLIMB"
 msgid "Climb"
-msgstr ""
+msgstr "Vyšplhat se"
 
 #. ACTIONS.ACTIVATE.CLOSE
 msgctxt "ACTIONS.ACTIVATE.CLOSE"

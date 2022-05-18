@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-18 00:20+0000\n"
+"PO-Revision-Date: 2022-05-18 11:29+0000\n"
 "Last-Translator: Ender Wiggin <f@endeer.cz>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
@@ -187,7 +187,7 @@ msgstr "pavouků..."
 #. UI.WORLDGEN.NOUNS.40
 msgctxt "UI.WORLDGEN.NOUNS.40"
 msgid "terrible darkness..."
-msgstr "strašné temnoty..."
+msgstr "strašlivé temnoty..."
 
 #. UI.WORLDGEN.NOUNS.41
 msgctxt "UI.WORLDGEN.NOUNS.41"
@@ -217,7 +217,7 @@ msgstr "Maxwellových kapesníčků..."
 #. UI.WORLDGEN.NOUNS.9
 msgctxt "UI.WORLDGEN.NOUNS.9"
 msgid "Wendy's pigtails..."
-msgstr "Wendiny copánky..."
+msgstr "Wendiných copánků..."
 
 #. UI.WORLDGEN.TITLE
 msgctxt "UI.WORLDGEN.TITLE"
@@ -252,7 +252,7 @@ msgstr "Renovování"
 #. UI.WORLDGEN.VERBS.14
 msgctxt "UI.WORLDGEN.VERBS.14"
 msgid "Sprucing up"
-msgstr "Vyfešákovávání"
+msgstr "Vystrojování"
 
 #. UI.WORLDGEN.VERBS.15
 msgctxt "UI.WORLDGEN.VERBS.15"
