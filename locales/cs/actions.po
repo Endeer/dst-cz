@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-18 12:15+0000\n"
+"PO-Revision-Date: 2022-05-18 12:20+0000\n"
 "Last-Translator: Ender Wiggin <f@endeer.cz>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
@@ -167,7 +167,7 @@ msgstr ""
 #. ACTIONS.ATTACK.RANGEDSMOTHER
 msgctxt "ACTIONS.ATTACK.RANGEDSMOTHER"
 msgid "Extinguish"
-msgstr ""
+msgstr "Uhasit"
 
 #. ACTIONS.ATTACK.SMASHABLE
 msgctxt "ACTIONS.ATTACK.SMASHABLE"
@@ -187,7 +187,7 @@ msgstr ""
 #. ACTIONS.BAIT
 msgctxt "ACTIONS.BAIT"
 msgid "Bait"
-msgstr ""
+msgstr "Umístit návnadu"
 
 #. ACTIONS.BATHBOMB
 msgctxt "ACTIONS.BATHBOMB"
