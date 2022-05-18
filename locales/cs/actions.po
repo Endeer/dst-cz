@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-18 12:20+0000\n"
+"PO-Revision-Date: 2022-05-18 22:32+0000\n"
 "Last-Translator: Ender Wiggin <f@endeer.cz>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
@@ -17,17 +17,17 @@ msgstr "Opustit"
 #. ACTIONS.ABANDON_QUEST
 msgctxt "ACTIONS.ABANDON_QUEST"
 msgid "Abandon"
-msgstr ""
+msgstr "Vzdát"
 
 #. ACTIONS.ABANDON_SHIP
 msgctxt "ACTIONS.ABANDON_SHIP"
 msgid "Abandon Ship"
-msgstr ""
+msgstr "Opustit loď"
 
 #. ACTIONS.ACTIVATE.ACCOMPLISH
 msgctxt "ACTIONS.ACTIVATE.ACCOMPLISH"
 msgid "Wind"
-msgstr ""
+msgstr "Natáhni"
 
 #. ACTIONS.ACTIVATE.CLIMB
 msgctxt "ACTIONS.ACTIVATE.CLIMB"
@@ -37,7 +37,7 @@ msgstr "Vyšplhat se"
 #. ACTIONS.ACTIVATE.CLOSE
 msgctxt "ACTIONS.ACTIVATE.CLOSE"
 msgid "Close"
-msgstr ""
+msgstr "Zavři"
 
 #. ACTIONS.ACTIVATE.DEACTIVATE
 msgctxt "ACTIONS.ACTIVATE.DEACTIVATE"
@@ -52,27 +52,27 @@ msgstr "Aktivovat"
 #. ACTIONS.ACTIVATE.HIDEANDSEEK
 msgctxt "ACTIONS.ACTIVATE.HIDEANDSEEK"
 msgid "Play Hide and Seek"
-msgstr ""
+msgstr "Hraj na schovávanou"
 
 #. ACTIONS.ACTIVATE.INVESTIGATE
 msgctxt "ACTIONS.ACTIVATE.INVESTIGATE"
 msgid "Investigate"
-msgstr ""
+msgstr "Prozkoumej"
 
 #. ACTIONS.ACTIVATE.OPEN
 msgctxt "ACTIONS.ACTIVATE.OPEN"
 msgid "Open"
-msgstr ""
+msgstr "Otevři"
 
 #. ACTIONS.ACTIVATE.PICK
 msgctxt "ACTIONS.ACTIVATE.PICK"
 msgid "Choose"
-msgstr ""
+msgstr "Vyber"
 
 #. ACTIONS.ACTIVATE.RANSACK
 msgctxt "ACTIONS.ACTIVATE.RANSACK"
 msgid "Ransack"
-msgstr ""
+msgstr "Vypleň"
 
 #. ACTIONS.ACTIVATE.SPELUNK
 msgctxt "ACTIONS.ACTIVATE.SPELUNK"
@@ -82,67 +82,67 @@ msgstr ""
 #. ACTIONS.ACTIVATE.SUMMONHOST
 msgctxt "ACTIONS.ACTIVATE.SUMMONHOST"
 msgid "Ring"
-msgstr ""
+msgstr "Zazvoň"
 
 #. ACTIONS.ACTIVATE.TOUCH
 msgctxt "ACTIONS.ACTIVATE.TOUCH"
 msgid "Touch"
-msgstr ""
+msgstr "Dotkni se"
 
 #. ACTIONS.ACTIVATE.TURN
 msgctxt "ACTIONS.ACTIVATE.TURN"
 msgid "Turn"
-msgstr ""
+msgstr "Otoč"
 
 #. ACTIONS.ADDCOMPOSTABLE
 msgctxt "ACTIONS.ADDCOMPOSTABLE"
 msgid "Give"
-msgstr ""
+msgstr "Přidej"
 
 #. ACTIONS.ADDFUEL
 msgctxt "ACTIONS.ADDFUEL"
 msgid "Add Fuel"
-msgstr ""
+msgstr "Přidej palivo"
 
 #. ACTIONS.ADDWETFUEL
 msgctxt "ACTIONS.ADDWETFUEL"
 msgid "Add Wet Fuel"
-msgstr ""
+msgstr "Přidej mokré palivo"
 
 #. ACTIONS.ADVANCE_TREE_GROWTH
 msgctxt "ACTIONS.ADVANCE_TREE_GROWTH"
 msgid "Apply"
-msgstr ""
+msgstr "Použij"
 
 #. ACTIONS.APPLYCONSTRUCTION
 msgctxt "ACTIONS.APPLYCONSTRUCTION"
 msgid "Build"
-msgstr ""
+msgstr "Postav"
 
 #. ACTIONS.APPLYMODULE
 msgctxt "ACTIONS.APPLYMODULE"
 msgid "Plug In"
-msgstr ""
+msgstr "Zapoj"
 
 #. ACTIONS.APPLYPRESERVATIVE.GENERIC
 msgctxt "ACTIONS.APPLYPRESERVATIVE.GENERIC"
 msgid "Preserve"
-msgstr ""
+msgstr "Konzervuj"
 
 #. ACTIONS.APPLYPRESERVATIVE.SALT
 msgctxt "ACTIONS.APPLYPRESERVATIVE.SALT"
 msgid "Preserve"
-msgstr ""
+msgstr "Nalož do soli"
 
 #. ACTIONS.APPRAISE
 msgctxt "ACTIONS.APPRAISE"
 msgid "Appraise"
-msgstr ""
+msgstr "Oceň"
 
 #. ACTIONS.ASSESSPLANTHAPPINESS.GENERIC
 msgctxt "ACTIONS.ASSESSPLANTHAPPINESS.GENERIC"
 msgid "Assess Happiness"
-msgstr ""
+msgstr "Zhodnoť spokojenost"
 
 #. ACTIONS.ASSESSPLANTHAPPINESS.GENERIC_FMT
 msgctxt "ACTIONS.ASSESSPLANTHAPPINESS.GENERIC_FMT"
@@ -152,17 +152,17 @@ msgstr ""
 #. ACTIONS.ATTACK.GENERIC
 msgctxt "ACTIONS.ATTACK.GENERIC"
 msgid "Attack"
-msgstr ""
+msgstr "Zaútoč"
 
 #. ACTIONS.ATTACK.PROP
 msgctxt "ACTIONS.ATTACK.PROP"
 msgid "Smack"
-msgstr ""
+msgstr "Uhoď"
 
 #. ACTIONS.ATTACK.RANGEDLIGHT
 msgctxt "ACTIONS.ATTACK.RANGEDLIGHT"
 msgid "Light"
-msgstr ""
+msgstr "Zapal"
 
 #. ACTIONS.ATTACK.RANGEDSMOTHER
 msgctxt "ACTIONS.ATTACK.RANGEDSMOTHER"
@@ -172,17 +172,17 @@ msgstr "Uhasit"
 #. ACTIONS.ATTACK.SMASHABLE
 msgctxt "ACTIONS.ATTACK.SMASHABLE"
 msgid "Smash"
-msgstr ""
+msgstr "Rozbij"
 
 #. ACTIONS.ATTACK.WHACK
 msgctxt "ACTIONS.ATTACK.WHACK"
 msgid "Whack"
-msgstr ""
+msgstr "Udeř"
 
 #. ACTIONS.ATTUNE
 msgctxt "ACTIONS.ATTUNE"
 msgid "Attune"
-msgstr ""
+msgstr "Nalaď"
 
 #. ACTIONS.BAIT
 msgctxt "ACTIONS.BAIT"
@@ -192,17 +192,17 @@ msgstr "Umístit návnadu"
 #. ACTIONS.BATHBOMB
 msgctxt "ACTIONS.BATHBOMB"
 msgid "Toss In"
-msgstr ""
+msgstr "Vhoď"
 
 #. ACTIONS.BEDAZZLE
 msgctxt "ACTIONS.BEDAZZLE"
 msgid "Decorate"
-msgstr ""
+msgstr "Ozdob"
 
 #. ACTIONS.BEGIN_QUEST
 msgctxt "ACTIONS.BEGIN_QUEST"
 msgid "Assist"
-msgstr ""
+msgstr "Jdi pomoci"
 
 #. ACTIONS.BLINK.GENERIC
 msgctxt "ACTIONS.BLINK.GENERIC"
@@ -217,67 +217,67 @@ msgstr ""
 #. ACTIONS.BRUSH
 msgctxt "ACTIONS.BRUSH"
 msgid "Brush"
-msgstr ""
+msgstr "Česej"
 
 #. ACTIONS.BUILD
 msgctxt "ACTIONS.BUILD"
 msgid "Build"
-msgstr ""
+msgstr "Postav"
 
 #. ACTIONS.BUNDLE
 msgctxt "ACTIONS.BUNDLE"
 msgid "Use"
-msgstr ""
+msgstr "Použij"
 
 #. ACTIONS.BUNDLESTORE.CONSTRUCT
 msgctxt "ACTIONS.BUNDLESTORE.CONSTRUCT"
 msgid "Add Material"
-msgstr ""
+msgstr "Přidej materiál"
 
 #. ACTIONS.BUNDLESTORE.GENERIC
 msgctxt "ACTIONS.BUNDLESTORE.GENERIC"
 msgid "Store"
-msgstr ""
+msgstr "Uschovej"
 
 #. ACTIONS.BURY
 msgctxt "ACTIONS.BURY"
 msgid "Bury"
-msgstr ""
+msgstr "Pohřbi"
 
 #. ACTIONS.CARNIVALGAME_FEED
 msgctxt "ACTIONS.CARNIVALGAME_FEED"
 msgid "Feed"
-msgstr ""
+msgstr "Nakrm"
 
 #. ACTIONS.CASTAOE.BLOWDART_LAVA
 msgctxt "ACTIONS.CASTAOE.BLOWDART_LAVA"
 msgid "Barrage"
-msgstr ""
+msgstr "Odpal"
 
 #. ACTIONS.CASTAOE.BLOWDART_LAVA2
 msgctxt "ACTIONS.CASTAOE.BLOWDART_LAVA2"
 msgid "Molten Bolt"
-msgstr ""
+msgstr "Tavný šíp"
 
 #. ACTIONS.CASTAOE.BOOK_ELEMENTAL
 msgctxt "ACTIONS.CASTAOE.BOOK_ELEMENTAL"
 msgid "Summon Magma Golem"
-msgstr ""
+msgstr "Vyvolej magmatického golema"
 
 #. ACTIONS.CASTAOE.BOOK_FOSSIL
 msgctxt "ACTIONS.CASTAOE.BOOK_FOSSIL"
 msgid "Petrify"
-msgstr ""
+msgstr "Zkameň"
 
 #. ACTIONS.CASTAOE.FIREBALLSTAFF
 msgctxt "ACTIONS.CASTAOE.FIREBALLSTAFF"
 msgid "Call Cataclysm"
-msgstr ""
+msgstr "Zavolej živly"
 
 #. ACTIONS.CASTAOE.GENERIC
 msgctxt "ACTIONS.CASTAOE.GENERIC"
 msgid "Cast Spell"
-msgstr ""
+msgstr "Čaruj"
 
 #. ACTIONS.CASTAOE.HAMMER_MJOLNIR
 msgctxt "ACTIONS.CASTAOE.HAMMER_MJOLNIR"
@@ -317,27 +317,27 @@ msgstr ""
 #. ACTIONS.CASTSPELL.GENERIC
 msgctxt "ACTIONS.CASTSPELL.GENERIC"
 msgid "Cast Spell"
-msgstr ""
+msgstr "Čaruj"
 
 #. ACTIONS.CASTSPELL.MUSIC
 msgctxt "ACTIONS.CASTSPELL.MUSIC"
 msgid "Play"
-msgstr ""
+msgstr "Zahraj"
 
 #. ACTIONS.CASTSPELL.RESKIN
 msgctxt "ACTIONS.CASTSPELL.RESKIN"
 msgid "Sweep"
-msgstr ""
+msgstr "Opraš"
 
 #. ACTIONS.CASTSPELL.SCIENCE
 msgctxt "ACTIONS.CASTSPELL.SCIENCE"
 msgid "Use Gadget"
-msgstr ""
+msgstr "Použij udělátko"
 
 #. ACTIONS.CASTSUMMON
 msgctxt "ACTIONS.CASTSUMMON"
 msgid "Summon"
-msgstr ""
+msgstr "Vyvolej"
 
 #. ACTIONS.CASTUNSUMMON
 msgctxt "ACTIONS.CASTUNSUMMON"
@@ -347,12 +347,12 @@ msgstr ""
 #. ACTIONS.CAST_NET
 msgctxt "ACTIONS.CAST_NET"
 msgid "Cast Net"
-msgstr ""
+msgstr "Rozhoď síť"
 
 #. ACTIONS.CAST_POCKETWATCH.GENERIC
 msgctxt "ACTIONS.CAST_POCKETWATCH.GENERIC"
 msgid "Activate"
-msgstr ""
+msgstr "Aktivuj"
 
 #. ACTIONS.CAST_POCKETWATCH.RECALL_MARK
 msgctxt "ACTIONS.CAST_POCKETWATCH.RECALL_MARK"
@@ -417,12 +417,12 @@ msgstr ""
 #. ACTIONS.COMMUNEWITHSUMMONED.MAKE_AGGRESSIVE
 msgctxt "ACTIONS.COMMUNEWITHSUMMONED.MAKE_AGGRESSIVE"
 msgid "Rile Up"
-msgstr ""
+msgstr "Naštvi"
 
 #. ACTIONS.COMMUNEWITHSUMMONED.MAKE_DEFENSIVE
 msgctxt "ACTIONS.COMMUNEWITHSUMMONED.MAKE_DEFENSIVE"
 msgid "Soothe"
-msgstr ""
+msgstr "Ukonejši"
 
 #. ACTIONS.COMPARE_WEIGHABLE
 msgctxt "ACTIONS.COMPARE_WEIGHABLE"
@@ -432,12 +432,12 @@ msgstr ""
 #. ACTIONS.CONSTRUCT.GENERIC
 msgctxt "ACTIONS.CONSTRUCT.GENERIC"
 msgid "Build"
-msgstr ""
+msgstr "Postav"
 
 #. ACTIONS.CONSTRUCT.GENERIC_FMT
 msgctxt "ACTIONS.CONSTRUCT.GENERIC_FMT"
 msgid "Build {name}"
-msgstr ""
+msgstr "Postav {name}"
 
 #. ACTIONS.CONSTRUCT.STORE
 msgctxt "ACTIONS.CONSTRUCT.STORE"
@@ -482,7 +482,7 @@ msgstr ""
 #. ACTIONS.DEPLOY.FENCE
 msgctxt "ACTIONS.DEPLOY.FENCE"
 msgid "Build Fence"
-msgstr ""
+msgstr "Postav plot"
 
 #. ACTIONS.DEPLOY.FERTILIZE_GROUND
 msgctxt "ACTIONS.DEPLOY.FERTILIZE_GROUND"
@@ -492,7 +492,7 @@ msgstr ""
 #. ACTIONS.DEPLOY.GATE
 msgctxt "ACTIONS.DEPLOY.GATE"
 msgid "Build Gate"
-msgstr ""
+msgstr "Postav branku"
 
 #. ACTIONS.DEPLOY.GENERIC
 msgctxt "ACTIONS.DEPLOY.GENERIC"
@@ -517,7 +517,7 @@ msgstr ""
 #. ACTIONS.DEPLOY.WALL
 msgctxt "ACTIONS.DEPLOY.WALL"
 msgid "Build Wall"
-msgstr ""
+msgstr "Postav zeď"
 
 #. ACTIONS.DEPLOY.WATER
 msgctxt "ACTIONS.DEPLOY.WATER"
@@ -1327,12 +1327,12 @@ msgstr ""
 #. ACTIONS.STOPCONSTRUCTION.GENERIC
 msgctxt "ACTIONS.STOPCONSTRUCTION.GENERIC"
 msgid "Stop Building"
-msgstr ""
+msgstr "Přestaň stavět"
 
 #. ACTIONS.STOPCONSTRUCTION.GENERIC_FMT
 msgctxt "ACTIONS.STOPCONSTRUCTION.GENERIC_FMT"
 msgid "Stop Building {name}"
-msgstr ""
+msgstr "Přestaň stavět {name}"
 
 #. ACTIONS.STOPUSINGITEM.BEEF_BELL
 msgctxt "ACTIONS.STOPUSINGITEM.BEEF_BELL"
@@ -1457,7 +1457,7 @@ msgstr ""
 #. ACTIONS.TOGGLE_DEPLOY_MODE.FENCE
 msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.FENCE"
 msgid "Build Fence"
-msgstr ""
+msgstr "Postav plot"
 
 #. ACTIONS.TOGGLE_DEPLOY_MODE.FERTILIZE_GROUND
 msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.FERTILIZE_GROUND"
@@ -1467,7 +1467,7 @@ msgstr ""
 #. ACTIONS.TOGGLE_DEPLOY_MODE.GATE
 msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.GATE"
 msgid "Build Gate"
-msgstr ""
+msgstr "Postav branku"
 
 #. ACTIONS.TOGGLE_DEPLOY_MODE.GENERIC
 msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.GENERIC"
@@ -1492,7 +1492,7 @@ msgstr ""
 #. ACTIONS.TOGGLE_DEPLOY_MODE.WALL
 msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.WALL"
 msgid "Build Wall"
-msgstr ""
+msgstr "Postav zeď"
 
 #. ACTIONS.TOGGLE_DEPLOY_MODE.WATER
 msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.WATER"

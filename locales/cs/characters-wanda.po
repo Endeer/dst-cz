@@ -1,7 +1,13 @@
+# 
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-05-18 22:29+0000\n"
+"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
 "POT Version: 2.0\n"
+"X-Generator: Pontoon\n"
 
 #. CHARACTERS.WANDA.ACTIONFAIL.ACTIVATE.CARNIVAL_HOST_HERE
 msgctxt "CHARACTERS.WANDA.ACTIONFAIL.ACTIVATE.CARNIVAL_HOST_HERE"
@@ -935,7 +941,9 @@ msgstr ""
 
 #. CHARACTERS.WANDA.ANNOUNCE_CANFIX
 msgctxt "CHARACTERS.WANDA.ANNOUNCE_CANFIX"
-msgid "\nI've repaired complicated timepieces, fixing this should be easy!"
+msgid ""
+"\n"
+"I've repaired complicated timepieces, fixing this should be easy!"
 msgstr ""
 
 #. CHARACTERS.WANDA.ANNOUNCE_CANNOT_BUILD.NO_INGREDIENTS
@@ -1900,7 +1908,9 @@ msgstr ""
 
 #. CHARACTERS.WANDA.ANNOUNCE_WEIGHT_HEAVY
 msgctxt "CHARACTERS.WANDA.ANNOUNCE_WEIGHT_HEAVY"
-msgid "Weight: {weight}\nHa! I've impressed myself!"
+msgid ""
+"Weight: {weight}\n"
+"Ha! I've impressed myself!"
 msgstr ""
 
 #. CHARACTERS.WANDA.ANNOUNCE_WET
@@ -11840,22 +11850,33 @@ msgstr ""
 
 #. CHARACTERS.WANDA.DESCRIBE.TROPHYSCALE_FISH.HAS_ITEM
 msgctxt "CHARACTERS.WANDA.DESCRIBE.TROPHYSCALE_FISH.HAS_ITEM"
-msgid "Weight: {weight}\nCaught by: {owner}"
+msgid ""
+"Weight: {weight}\n"
+"Caught by: {owner}"
 msgstr ""
 
 #. CHARACTERS.WANDA.DESCRIBE.TROPHYSCALE_FISH.HAS_ITEM_HEAVY
 msgctxt "CHARACTERS.WANDA.DESCRIBE.TROPHYSCALE_FISH.HAS_ITEM_HEAVY"
-msgid "Weight: {weight}\nCaught by: {owner}\nI'm amazed it fits in there!"
+msgid ""
+"Weight: {weight}\n"
+"Caught by: {owner}\n"
+"I'm amazed it fits in there!"
 msgstr ""
 
 #. CHARACTERS.WANDA.DESCRIBE.TROPHYSCALE_FISH.OWNER
 msgctxt "CHARACTERS.WANDA.DESCRIBE.TROPHYSCALE_FISH.OWNER"
-msgid "It does give one a nice sense of achievement.\nWeight: {weight}\nCaught by: {owner}"
+msgid ""
+"It does give one a nice sense of achievement.\n"
+"Weight: {weight}\n"
+"Caught by: {owner}"
 msgstr ""
 
 #. CHARACTERS.WANDA.DESCRIBE.TROPHYSCALE_FISH.OWNER_HEAVY
 msgctxt "CHARACTERS.WANDA.DESCRIBE.TROPHYSCALE_FISH.OWNER_HEAVY"
-msgid "Weight: {weight}\nCaught by: {owner}\nSee? I can be patient sometimes!"
+msgid ""
+"Weight: {weight}\n"
+"Caught by: {owner}\n"
+"See? I can be patient sometimes!"
 msgstr ""
 
 #. CHARACTERS.WANDA.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.BURNING
@@ -11875,12 +11896,18 @@ msgstr ""
 
 #. CHARACTERS.WANDA.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM
 msgctxt "CHARACTERS.WANDA.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM"
-msgid "Weight: {weight}\nHarvested on day: {day}\nInteresting, there's a temporal bubble that keeps it from rotting."
+msgid ""
+"Weight: {weight}\n"
+"Harvested on day: {day}\n"
+"Interesting, there's a temporal bubble that keeps it from rotting."
 msgstr ""
 
 #. CHARACTERS.WANDA.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM_HEAVY
 msgctxt "CHARACTERS.WANDA.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM_HEAVY"
-msgid "Weight: {weight}\nHarvested on day: {day}\nInteresting, there's a temporal bubble that keeps it from rotting."
+msgid ""
+"Weight: {weight}\n"
+"Harvested on day: {day}\n"
+"Interesting, there's a temporal bubble that keeps it from rotting."
 msgstr ""
 
 #. CHARACTERS.WANDA.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM_LIGHT
@@ -13536,7 +13563,7 @@ msgstr ""
 #. CHARACTERS.WANDA.DESCRIBE.YELLOWSTAFF
 msgctxt "CHARACTERS.WANDA.DESCRIBE.YELLOWSTAFF"
 msgid "Does no one else think summoning a small STAR might be dangerous?"
-msgstr ""
+msgstr "On si nikdo jiný nemyslí, že by vyvolání malé HVĚZDY mohlo být nebezpečné?"
 
 #. CHARACTERS.WANDA.DESCRIBE.YOTB_BEEFALOSHRINE.BURNT
 msgctxt "CHARACTERS.WANDA.DESCRIBE.YOTB_BEEFALOSHRINE.BURNT"
@@ -13987,4 +14014,3 @@ msgstr ""
 msgctxt "CHARACTERS.WANDA.QUAGMIRE_ANNOUNCE_WIN"
 msgid "Time to go!"
 msgstr ""
-

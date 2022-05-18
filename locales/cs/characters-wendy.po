@@ -1,47 +1,53 @@
+# 
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-05-18 22:51+0000\n"
+"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
 "POT Version: 2.0\n"
+"X-Generator: Pontoon\n"
 
 #. CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.CARNIVAL_HOST_HERE
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.CARNIVAL_HOST_HERE"
 msgid "Mr. Raven? Are you here?"
-msgstr ""
+msgstr "Pane Havrane? Jste tady?"
 
 #. CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.EMPTY_CATCOONDEN
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.EMPTY_CATCOONDEN"
 msgid "Abandoned. Left to the flies."
-msgstr ""
+msgstr "Opuštěný. Ponechán napospas mouchám."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.HOSTBUSY
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.HOSTBUSY"
 msgid "I suppose he has more important things to do."
-msgstr ""
+msgstr "Asi má na práci důležitější věci."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.KITCOON_HIDEANDSEEK_NOT_ENOUGH_HIDERS
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.KITCOON_HIDEANDSEEK_NOT_ENOUGH_HIDERS"
 msgid "If we play now, they will stand no chance at winning."
-msgstr ""
+msgstr "Pokud budeme hrát teď, nebudou mít šanci."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.KITCOON_HIDEANDSEEK_NOT_ENOUGH_HIDING_SPOTS
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.KITCOON_HIDEANDSEEK_NOT_ENOUGH_HIDING_SPOTS"
 msgid "If we play now, they won't find a place to hide."
-msgstr ""
+msgstr "Pokud budeme hrát teď, nebudou se mít kde schovat."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.KITCOON_HIDEANDSEEK_ONE_GAME_PER_DAY
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.KITCOON_HIDEANDSEEK_ONE_GAME_PER_DAY"
 msgid "If we play more, Abigail will get tired."
-msgstr ""
+msgstr "Pokud budeme hrát častěji, Abigail se unaví."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.LOCKED_GATE
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.LOCKED_GATE"
 msgid "I can't open it without a key."
-msgstr ""
+msgstr "Nemohu to otevřít bez klíče."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.NOCARNIVAL
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "The ravens have deserted this place... I think I'll miss them."
-msgstr ""
+msgstr "Havrani toto místo opustili... Myslím, že mi budou chybět."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -56,17 +62,17 @@ msgstr ""
 #. CHARACTERS.WENDY.ACTIONFAIL.APPRAISE.NOTNOW
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.APPRAISE.NOTNOW"
 msgid "Oh. I suppose he's too busy..."
-msgstr ""
+msgstr "Ach. Asi má moc práce..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.ATTUNE.NOHEALTH
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.ATTUNE.NOHEALTH"
 msgid "I can't... I don't feel so good..."
-msgstr ""
+msgstr "Nemůžu... Necítím se dobře..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.BATHBOMB.ALREADY_BOMBED
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.BATHBOMB.ALREADY_BOMBED"
 msgid "It's already been done."
-msgstr ""
+msgstr "Už je to udělané."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.BATHBOMB.GLASSED
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.BATHBOMB.GLASSED"
@@ -201,17 +207,17 @@ msgstr ""
 #. CHARACTERS.WENDY.ACTIONFAIL.FILL_OCEAN.UNSUITABLE_FOR_PLANTS
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.FILL_OCEAN.UNSUITABLE_FOR_PLANTS"
 msgid "Perhaps if I wanted my garden to die a slow, painful death..."
-msgstr ""
+msgstr "Možná kdybych chtěla, aby moje zahrada umírala pomalu a bolestivě..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.FISH_OCEAN.TOODEEP
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.FISH_OCEAN.TOODEEP"
 msgid "I can't catch anything out here with this flimsy rod."
-msgstr ""
+msgstr "S tímhle chatrným prutem tady nic nechytím."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.ABIGAILHEART
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.ABIGAILHEART"
 msgid "Why isn't it working, Abigail?"
-msgstr ""
+msgstr "Proč to nefunguje, Abigail?"
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.BUSY
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.BUSY"
@@ -221,12 +227,12 @@ msgstr ""
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.CANTSHADOWREVIVE
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.CANTSHADOWREVIVE"
 msgid "It has no will to live."
-msgstr ""
+msgstr "Nemá vůli žít."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.CARNIVALGAME_ALREADY_PLAYING
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.CARNIVALGAME_ALREADY_PLAYING"
 msgid "They already started without me..."
-msgstr ""
+msgstr "Už začali beze mě..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM"
@@ -895,7 +901,9 @@ msgstr ""
 
 #. CHARACTERS.WENDY.ANNOUNCE_CANFIX
 msgctxt "CHARACTERS.WENDY.ANNOUNCE_CANFIX"
-msgid "\nUnlike my heart, this could be mended."
+msgid ""
+"\n"
+"Unlike my heart, this could be mended."
 msgstr ""
 
 #. CHARACTERS.WENDY.ANNOUNCE_CANNOT_BUILD.NO_INGREDIENTS
@@ -1780,7 +1788,9 @@ msgstr ""
 
 #. CHARACTERS.WENDY.ANNOUNCE_WEIGHT_HEAVY
 msgctxt "CHARACTERS.WENDY.ANNOUNCE_WEIGHT_HEAVY"
-msgid "Weight: {weight}\nBurdened with yet another terrible weight..."
+msgid ""
+"Weight: {weight}\n"
+"Burdened with yet another terrible weight..."
 msgstr ""
 
 #. CHARACTERS.WENDY.ANNOUNCE_WET
@@ -11680,22 +11690,33 @@ msgstr ""
 
 #. CHARACTERS.WENDY.DESCRIBE.TROPHYSCALE_FISH.HAS_ITEM
 msgctxt "CHARACTERS.WENDY.DESCRIBE.TROPHYSCALE_FISH.HAS_ITEM"
-msgid "Weight: {weight}\nCaught by: {owner}"
+msgid ""
+"Weight: {weight}\n"
+"Caught by: {owner}"
 msgstr ""
 
 #. CHARACTERS.WENDY.DESCRIBE.TROPHYSCALE_FISH.HAS_ITEM_HEAVY
 msgctxt "CHARACTERS.WENDY.DESCRIBE.TROPHYSCALE_FISH.HAS_ITEM_HEAVY"
-msgid "Weight: {weight}\nCaught by: {owner}\nNot even the strongest are guaranteed survival."
+msgid ""
+"Weight: {weight}\n"
+"Caught by: {owner}\n"
+"Not even the strongest are guaranteed survival."
 msgstr ""
 
 #. CHARACTERS.WENDY.DESCRIBE.TROPHYSCALE_FISH.OWNER
 msgctxt "CHARACTERS.WENDY.DESCRIBE.TROPHYSCALE_FISH.OWNER"
-msgid "Weight: {weight}\nCaught by: {owner}\nOh... I... I did it..."
+msgid ""
+"Weight: {weight}\n"
+"Caught by: {owner}\n"
+"Oh... I... I did it..."
 msgstr ""
 
 #. CHARACTERS.WENDY.DESCRIBE.TROPHYSCALE_FISH.OWNER_HEAVY
 msgctxt "CHARACTERS.WENDY.DESCRIBE.TROPHYSCALE_FISH.OWNER_HEAVY"
-msgid "Weight: {weight}\nCaught by: {owner}\nDo you miss your family, fishy?"
+msgid ""
+"Weight: {weight}\n"
+"Caught by: {owner}\n"
+"Do you miss your family, fishy?"
 msgstr ""
 
 #. CHARACTERS.WENDY.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.BURNING
@@ -11715,12 +11736,18 @@ msgstr ""
 
 #. CHARACTERS.WENDY.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM
 msgctxt "CHARACTERS.WENDY.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM"
-msgid "Weight: {weight}\nHarvested on day: {day}\nI suppose that's good."
+msgid ""
+"Weight: {weight}\n"
+"Harvested on day: {day}\n"
+"I suppose that's good."
 msgstr ""
 
 #. CHARACTERS.WENDY.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM_HEAVY
 msgctxt "CHARACTERS.WENDY.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM_HEAVY"
-msgid "Weight: {weight}\nHarvested on day: {day}\nI'd certainly be crushed under its weight."
+msgid ""
+"Weight: {weight}\n"
+"Harvested on day: {day}\n"
+"I'd certainly be crushed under its weight."
 msgstr ""
 
 #. CHARACTERS.WENDY.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM_LIGHT
@@ -13827,4 +13854,3 @@ msgstr ""
 msgctxt "CHARACTERS.WENDY.QUAGMIRE_ANNOUNCE_WIN"
 msgid "Let us depart this terrible place."
 msgstr ""
-

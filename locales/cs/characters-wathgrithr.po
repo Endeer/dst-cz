@@ -1,7 +1,13 @@
+# 
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-05-18 22:29+0000\n"
+"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
 "POT Version: 2.0\n"
+"X-Generator: Pontoon\n"
 
 #. CHARACTERS.WATHGRITHR.ACTIONFAIL.ACTIVATE.CARNIVAL_HOST_HERE
 msgctxt "CHARACTERS.WATHGRITHR.ACTIONFAIL.ACTIVATE.CARNIVAL_HOST_HERE"
@@ -880,7 +886,9 @@ msgstr ""
 
 #. CHARACTERS.WATHGRITHR.ANNOUNCE_CANFIX
 msgctxt "CHARACTERS.WATHGRITHR.ANNOUNCE_CANFIX"
-msgid "\nI can repair this."
+msgid ""
+"\n"
+"I can repair this."
 msgstr ""
 
 #. CHARACTERS.WATHGRITHR.ANNOUNCE_CANNOT_BUILD.NO_INGREDIENTS
@@ -1725,7 +1733,9 @@ msgstr ""
 
 #. CHARACTERS.WATHGRITHR.ANNOUNCE_WEIGHT_HEAVY
 msgctxt "CHARACTERS.WATHGRITHR.ANNOUNCE_WEIGHT_HEAVY"
-msgid "Weight: {weight}\nBy the gods, I've netted a monster!"
+msgid ""
+"Weight: {weight}\n"
+"By the gods, I've netted a monster!"
 msgstr ""
 
 #. CHARACTERS.WATHGRITHR.ANNOUNCE_WET
@@ -7476,7 +7486,7 @@ msgstr ""
 #. CHARACTERS.WATHGRITHR.DESCRIBE.MOON_ALTAR_LINK
 msgctxt "CHARACTERS.WATHGRITHR.DESCRIBE.MOON_ALTAR_LINK"
 msgid "What have we summoned forth?"
-msgstr ""
+msgstr "Co jsme to přivolali?"
 
 #. CHARACTERS.WATHGRITHR.DESCRIBE.MOON_ALTAR_ROCK_GLASS
 msgctxt "CHARACTERS.WATHGRITHR.DESCRIBE.MOON_ALTAR_ROCK_GLASS"
@@ -11635,22 +11645,33 @@ msgstr ""
 
 #. CHARACTERS.WATHGRITHR.DESCRIBE.TROPHYSCALE_FISH.HAS_ITEM
 msgctxt "CHARACTERS.WATHGRITHR.DESCRIBE.TROPHYSCALE_FISH.HAS_ITEM"
-msgid "Weight: {weight}\nCaught by: {owner}"
+msgid ""
+"Weight: {weight}\n"
+"Caught by: {owner}"
 msgstr ""
 
 #. CHARACTERS.WATHGRITHR.DESCRIBE.TROPHYSCALE_FISH.HAS_ITEM_HEAVY
 msgctxt "CHARACTERS.WATHGRITHR.DESCRIBE.TROPHYSCALE_FISH.HAS_ITEM_HEAVY"
-msgid "Weight: {weight}\nCaught by: {owner}\nA most glorious catch indeed!"
+msgid ""
+"Weight: {weight}\n"
+"Caught by: {owner}\n"
+"A most glorious catch indeed!"
 msgstr ""
 
 #. CHARACTERS.WATHGRITHR.DESCRIBE.TROPHYSCALE_FISH.OWNER
 msgctxt "CHARACTERS.WATHGRITHR.DESCRIBE.TROPHYSCALE_FISH.OWNER"
-msgid "Weight: {weight}\nCaught by: {owner}\nTake heed of my fishing prowess!"
+msgid ""
+"Weight: {weight}\n"
+"Caught by: {owner}\n"
+"Take heed of my fishing prowess!"
 msgstr ""
 
 #. CHARACTERS.WATHGRITHR.DESCRIBE.TROPHYSCALE_FISH.OWNER_HEAVY
 msgctxt "CHARACTERS.WATHGRITHR.DESCRIBE.TROPHYSCALE_FISH.OWNER_HEAVY"
-msgid "Weight: {weight}\nCaught by: {owner}\nT'was nothing for a skilled hunter!"
+msgid ""
+"Weight: {weight}\n"
+"Caught by: {owner}\n"
+"T'was nothing for a skilled hunter!"
 msgstr ""
 
 #. CHARACTERS.WATHGRITHR.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.BURNING
@@ -11670,12 +11691,18 @@ msgstr ""
 
 #. CHARACTERS.WATHGRITHR.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM
 msgctxt "CHARACTERS.WATHGRITHR.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM"
-msgid "Weight: {weight}\nHarvested on day: {day}\nI care not."
+msgid ""
+"Weight: {weight}\n"
+"Harvested on day: {day}\n"
+"I care not."
 msgstr ""
 
 #. CHARACTERS.WATHGRITHR.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM_HEAVY
 msgctxt "CHARACTERS.WATHGRITHR.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM_HEAVY"
-msgid "Weight: {weight}\nHarvested on day: {day}\n'Tis vile, but robust."
+msgid ""
+"Weight: {weight}\n"
+"Harvested on day: {day}\n"
+"'Tis vile, but robust."
 msgstr ""
 
 #. CHARACTERS.WATHGRITHR.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM_LIGHT
@@ -13782,4 +13809,3 @@ msgstr ""
 msgctxt "CHARACTERS.WATHGRITHR.QUAGMIRE_ANNOUNCE_WIN"
 msgid "We shall live to fight another day!"
 msgstr ""
-
