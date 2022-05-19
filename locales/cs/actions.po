@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-18 22:32+0000\n"
+"PO-Revision-Date: 2022-05-19 01:54+0000\n"
 "Last-Translator: Ender Wiggin <f@endeer.cz>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
@@ -342,7 +342,7 @@ msgstr "Vyvolej"
 #. ACTIONS.CASTUNSUMMON
 msgctxt "ACTIONS.CASTUNSUMMON"
 msgid "Return"
-msgstr ""
+msgstr "Odvolat"
 
 #. ACTIONS.CAST_NET
 msgctxt "ACTIONS.CAST_NET"
@@ -357,12 +357,12 @@ msgstr "Aktivuj"
 #. ACTIONS.CAST_POCKETWATCH.RECALL_MARK
 msgctxt "ACTIONS.CAST_POCKETWATCH.RECALL_MARK"
 msgid "Set Time In Space"
-msgstr ""
+msgstr "Urči čas v prostoru"
 
 #. ACTIONS.CAST_POCKETWATCH.REVIVER
 msgctxt "ACTIONS.CAST_POCKETWATCH.REVIVER"
 msgid "Revive"
-msgstr ""
+msgstr "Oživ"
 
 #. ACTIONS.CATCH
 msgctxt "ACTIONS.CATCH"

@@ -1,7 +1,13 @@
+# 
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-05-18 16:14+0000\n"
+"Last-Translator: Maisner <lukas.podolsky@zslichnov.cz>\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
 "POT Version: 2.0\n"
+"X-Generator: Pontoon\n"
 
 #. UI.PLANTREGISTRY.DESCRIPTIONS.ASPARAGUS
 msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.ASPARAGUS"
@@ -76,7 +82,7 @@ msgstr ""
 #. UI.PLANTREGISTRY.DESCRIPTIONS.WATERMELON
 msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.WATERMELON"
 msgid "Fifty percent water, fifty percent melon. -W"
-msgstr ""
+msgstr "Padesát procent voda, padesát procent meloun. -W"
 
 #. UI.PLANTREGISTRY.EFFECTS.NONE
 msgctxt "UI.PLANTREGISTRY.EFFECTS.NONE"
@@ -121,7 +127,7 @@ msgstr ""
 #. UI.PLANTREGISTRY.FARMPLANTS.SEASONS
 msgctxt "UI.PLANTREGISTRY.FARMPLANTS.SEASONS"
 msgid "Seasons"
-msgstr ""
+msgstr "Roční období"
 
 #. UI.PLANTREGISTRY.FARMPLANTS.SEED
 msgctxt "UI.PLANTREGISTRY.FARMPLANTS.SEED"
@@ -292,4 +298,3 @@ msgstr ""
 msgctxt "UI.PLANTREGISTRY.WEEDPLANTS.WATER"
 msgid "Water Consumption"
 msgstr ""
-

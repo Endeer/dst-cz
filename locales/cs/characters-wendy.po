@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-18 22:51+0000\n"
+"PO-Revision-Date: 2022-05-19 02:05+0000\n"
 "Last-Translator: Ender Wiggin <f@endeer.cz>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
@@ -82,12 +82,12 @@ msgstr ""
 #. CHARACTERS.WENDY.ACTIONFAIL.BEGIN_QUEST.ONEGHOST
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.BEGIN_QUEST.ONEGHOST"
 msgid "I can only ferry one soul to their destination at a time..."
-msgstr ""
+msgstr "Najednou mohu dopravit na místo určení jen jednu duši..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.BUILD.HASPET
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.BUILD.HASPET"
 msgid "I can only have one..."
-msgstr ""
+msgstr "Můžu mít jen jednoho..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.BUILD.MOUNTED
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.BUILD.MOUNTED"
@@ -102,7 +102,7 @@ msgstr ""
 #. CHARACTERS.WENDY.ACTIONFAIL.CARNIVALGAME_FEED.TOO_LATE
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.CARNIVALGAME_FEED.TOO_LATE"
 msgid "I was too late..."
-msgstr ""
+msgstr "Přišla jsem pozdě..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.CHANGEIN.BURNING"
@@ -257,12 +257,12 @@ msgstr ""
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.GENERIC
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.GENERIC"
 msgid "No... I can't..."
-msgstr ""
+msgstr "Ne... nemůžu..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.GHOSTHEART
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.GHOSTHEART"
 msgid "Some things should stay dead."
-msgstr ""
+msgstr "Některé věci by měly zůstat mrtvé."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.MUSHROOMFARM_NEEDSLOG
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.MUSHROOMFARM_NEEDSLOG"
@@ -272,12 +272,12 @@ msgstr ""
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.MUSHROOMFARM_NEEDSSHROOM
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.MUSHROOMFARM_NEEDSSHROOM"
 msgid "It doesn't need that. It needs a mushroom."
-msgstr ""
+msgstr "To nepotřebuje. Potřebuje houbu."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.MUSHROOMFARM_NOMOONALLOWED
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.MUSHROOMFARM_NOMOONALLOWED"
 msgid "They won't survive here."
-msgstr ""
+msgstr "To tu nepřežije."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.NOMOON
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.NOMOON"
