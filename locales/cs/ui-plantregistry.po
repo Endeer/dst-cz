@@ -1,8 +1,8 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-20 11:25+0000\n"
-"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
+"PO-Revision-Date: 2022-05-20 22:41+0000\n"
+"Last-Translator: Alyssa <alysaurus98@gmail.com>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
@@ -27,17 +27,17 @@ msgstr "Jsou ty turkyně ale všestranné. -W"
 #. UI.PLANTREGISTRY.DESCRIPTIONS.DRAGONFRUIT
 msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.DRAGONFRUIT"
 msgid "Produces a delectable fruit with a striking appearance. -W"
-msgstr ""
+msgstr "Produkuje lahodné ovoce s nápadným vzhledem. -W"
 
 #. UI.PLANTREGISTRY.DESCRIPTIONS.DURIAN
 msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.DURIAN"
 msgid "A foul smelling fruit, favored by a certain green swamp dweller. -W"
-msgstr ""
+msgstr "Nechutně páchnoucí ovoce, které má v oblibě jistý obyvatel zelených bažin. -W"
 
 #. UI.PLANTREGISTRY.DESCRIPTIONS.EGGPLANT
 msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.EGGPLANT"
 msgid "Zero percent egg, ninety-nine percent plant. Science has yet to explain the rest. -W"
-msgstr ""
+msgstr "Nula procent vejce, devadesát-devět procent rostlina. Věda musí ještě vysvětlit zbytek. -W"
 
 #. UI.PLANTREGISTRY.DESCRIPTIONS.GARLIC
 msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.GARLIC"
@@ -47,7 +47,7 @@ msgstr "Stroužky česneku zní dobře s pěkným kůlem. -W"
 #. UI.PLANTREGISTRY.DESCRIPTIONS.MISSING
 msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.MISSING"
 msgid "Unknown"
-msgstr ""
+msgstr "Neznámé"
 
 #. UI.PLANTREGISTRY.DESCRIPTIONS.ONION
 msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.ONION"
@@ -57,7 +57,7 @@ msgstr ""
 #. UI.PLANTREGISTRY.DESCRIPTIONS.PEPPER
 msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.PEPPER"
 msgid "A hot pepper plant is the perfect thing to spice up your garden. -W"
-msgstr ""
+msgstr "Rostlinka pálivé papričky je ta nejlepší věc na okořenění vaší zahrady. -W"
 
 #. UI.PLANTREGISTRY.DESCRIPTIONS.POMEGRANATE
 msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.POMEGRANATE"

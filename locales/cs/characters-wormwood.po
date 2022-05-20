@@ -1,7 +1,13 @@
+# 
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-05-20 23:25+0000\n"
+"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
 "POT Version: 2.0\n"
+"X-Generator: Pontoon\n"
 
 #. CHARACTERS.WORMWOOD.ACTIONFAIL.ACTIVATE.CARNIVAL_HOST_HERE
 msgctxt "CHARACTERS.WORMWOOD.ACTIONFAIL.ACTIVATE.CARNIVAL_HOST_HERE"
@@ -875,7 +881,9 @@ msgstr ""
 
 #. CHARACTERS.WORMWOOD.ANNOUNCE_CANFIX
 msgctxt "CHARACTERS.WORMWOOD.ANNOUNCE_CANFIX"
-msgid "\nCan fix it!"
+msgid ""
+"\n"
+"Can fix it!"
 msgstr ""
 
 #. CHARACTERS.WORMWOOD.ANNOUNCE_CANNOT_BUILD.NO_INGREDIENTS
@@ -1745,7 +1753,9 @@ msgstr ""
 
 #. CHARACTERS.WORMWOOD.ANNOUNCE_WEIGHT_HEAVY
 msgctxt "CHARACTERS.WORMWOOD.ANNOUNCE_WEIGHT_HEAVY"
-msgid "Weight: {weight}\nHeavy"
+msgid ""
+"Weight: {weight}\n"
+"Heavy"
 msgstr ""
 
 #. CHARACTERS.WORMWOOD.ANNOUNCE_WET
@@ -3121,7 +3131,7 @@ msgstr ""
 #. CHARACTERS.WORMWOOD.DESCRIBE.BOARDS
 msgctxt "CHARACTERS.WORMWOOD.DESCRIBE.BOARDS"
 msgid "Fallen friends"
-msgstr ""
+msgstr "Padlí přátelé"
 
 #. CHARACTERS.WORMWOOD.DESCRIBE.BOARON
 msgctxt "CHARACTERS.WORMWOOD.DESCRIBE.BOARON"
@@ -11670,22 +11680,33 @@ msgstr ""
 
 #. CHARACTERS.WORMWOOD.DESCRIBE.TROPHYSCALE_FISH.HAS_ITEM
 msgctxt "CHARACTERS.WORMWOOD.DESCRIBE.TROPHYSCALE_FISH.HAS_ITEM"
-msgid "Weight: {weight}\nCaught by: {owner}"
+msgid ""
+"Weight: {weight}\n"
+"Caught by: {owner}"
 msgstr ""
 
 #. CHARACTERS.WORMWOOD.DESCRIBE.TROPHYSCALE_FISH.HAS_ITEM_HEAVY
 msgctxt "CHARACTERS.WORMWOOD.DESCRIBE.TROPHYSCALE_FISH.HAS_ITEM_HEAVY"
-msgid "Weight: {weight}\nCaught by: {owner}\nHeavy Glub Glub"
+msgid ""
+"Weight: {weight}\n"
+"Caught by: {owner}\n"
+"Heavy Glub Glub"
 msgstr ""
 
 #. CHARACTERS.WORMWOOD.DESCRIBE.TROPHYSCALE_FISH.OWNER
 msgctxt "CHARACTERS.WORMWOOD.DESCRIBE.TROPHYSCALE_FISH.OWNER"
-msgid "Weight: {weight}\nCaught by: {owner}\nBig!"
+msgid ""
+"Weight: {weight}\n"
+"Caught by: {owner}\n"
+"Big!"
 msgstr ""
 
 #. CHARACTERS.WORMWOOD.DESCRIBE.TROPHYSCALE_FISH.OWNER_HEAVY
 msgctxt "CHARACTERS.WORMWOOD.DESCRIBE.TROPHYSCALE_FISH.OWNER_HEAVY"
-msgid "Weight: {weight}\nCaught by: {owner}\nHeavy Glub Glub"
+msgid ""
+"Weight: {weight}\n"
+"Caught by: {owner}\n"
+"Heavy Glub Glub"
 msgstr ""
 
 #. CHARACTERS.WORMWOOD.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.BURNING
@@ -11705,12 +11726,18 @@ msgstr ""
 
 #. CHARACTERS.WORMWOOD.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM
 msgctxt "CHARACTERS.WORMWOOD.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM"
-msgid "Weight: {weight}\nHarvested on day: {day}\nGood job!"
+msgid ""
+"Weight: {weight}\n"
+"Harvested on day: {day}\n"
+"Good job!"
 msgstr ""
 
 #. CHARACTERS.WORMWOOD.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM_HEAVY
 msgctxt "CHARACTERS.WORMWOOD.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM_HEAVY"
-msgid "Weight: {weight}\nHarvested on day: {day}\nProud of you!"
+msgid ""
+"Weight: {weight}\n"
+"Harvested on day: {day}\n"
+"Proud of you!"
 msgstr ""
 
 #. CHARACTERS.WORMWOOD.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM_LIGHT
@@ -13817,4 +13844,3 @@ msgstr ""
 msgctxt "CHARACTERS.WORMWOOD.QUAGMIRE_ANNOUNCE_WIN"
 msgid "Yay! Did it!"
 msgstr ""
-

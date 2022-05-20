@@ -1,27 +1,33 @@
+# 
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-05-20 23:29+0000\n"
+"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
 "POT Version: 2.0\n"
+"X-Generator: Pontoon\n"
 
 #. WAGSTAFF_GOTTAGO1
 msgctxt "WAGSTAFF_GOTTAGO1"
 msgid "Aha! This selenological anomaly can only mean one thing!"
-msgstr ""
+msgstr "Aha! Tato selenologická anomálie může znamenat jen jedno!"
 
 #. WAGSTAFF_GOTTAGO2
 msgctxt "WAGSTAFF_GOTTAGO2"
 msgid "Now is my chance!"
-msgstr ""
+msgstr "Teď přišla moje šance!"
 
 #. WAGSTAFF_NPC_ATTEMPT_TRADE.1
 msgctxt "WAGSTAFF_NPC_ATTEMPT_TRADE.1"
 msgid "Is it important?"
-msgstr ""
+msgstr "Je to důležité?"
 
 #. WAGSTAFF_NPC_ATTEMPT_TRADE.2
 msgctxt "WAGSTAFF_NPC_ATTEMPT_TRADE.2"
 msgid "Quickly now, timing is critical!"
-msgstr ""
+msgstr "Rychle, načasování je kritické!"
 
 #. WAGSTAFF_NPC_CAPTURESTART
 msgctxt "WAGSTAFF_NPC_CAPTURESTART"
@@ -31,22 +37,22 @@ msgstr ""
 #. WAGSTAFF_NPC_CAPTURESTOP
 msgctxt "WAGSTAFF_NPC_CAPTURESTOP"
 msgid "Thank you for all your hard work."
-msgstr ""
+msgstr "Děkuji za všechnu tvoji tvrdou práci."
 
 #. WAGSTAFF_NPC_CAPTURESTOP2
 msgctxt "WAGSTAFF_NPC_CAPTURESTOP2"
 msgid "Now if you'll excuse me, I have much to do."
-msgstr ""
+msgstr "Teď, když mě omluvíš, mám hodně práce."
 
 #. WAGSTAFF_NPC_EXPERIMENT_DONE_1
 msgctxt "WAGSTAFF_NPC_EXPERIMENT_DONE_1"
 msgid "It's done!"
-msgstr ""
+msgstr "Je to hotovo!"
 
 #. WAGSTAFF_NPC_EXPERIMENT_DONE_2
 msgctxt "WAGSTAFF_NPC_EXPERIMENT_DONE_2"
 msgid "Take this, you'll need it for what we have to do."
-msgstr ""
+msgstr "Vezmi si tohle, budeš to potřebovat k tomu, co musíme udělat."
 
 #. WAGSTAFF_NPC_EXPERIMENT_FAIL_1
 msgctxt "WAGSTAFF_NPC_EXPERIMENT_FAIL_1"
@@ -56,27 +62,27 @@ msgstr ""
 #. WAGSTAFF_NPC_EXPERIMENT_FAIL_2
 msgctxt "WAGSTAFF_NPC_EXPERIMENT_FAIL_2"
 msgid "Back to my notes again..."
-msgstr ""
+msgstr "Zpátky k mým poznámkám..."
 
 #. WAGSTAFF_NPC_MEETING
 msgctxt "WAGSTAFF_NPC_MEETING"
 msgid "You! Of course!"
-msgstr ""
+msgstr "Ty! Samozřejmě!"
 
 #. WAGSTAFF_NPC_MEETING_2
 msgctxt "WAGSTAFF_NPC_MEETING_2"
 msgid "Quick, take these!"
-msgstr ""
+msgstr "Rychle, vezmi si tohle!"
 
 #. WAGSTAFF_NPC_MEETING_3
 msgctxt "WAGSTAFF_NPC_MEETING_3"
 msgid "I'll be needing some assistance shortly."
-msgstr ""
+msgstr "Brzy budu potřebovat nějakou asistenci."
 
 #. WAGSTAFF_NPC_MEETING_4
 msgctxt "WAGSTAFF_NPC_MEETING_4"
 msgid "Find me when you are sufficiently prepared."
-msgstr ""
+msgstr "Najdi mě, až budeš dostatečně připraven."
 
 #. WAGSTAFF_NPC_MEETING_5
 msgctxt "WAGSTAFF_NPC_MEETING_5"
@@ -86,27 +92,27 @@ msgstr ""
 #. WAGSTAFF_NPC_MUMBLE_1.1
 msgctxt "WAGSTAFF_NPC_MUMBLE_1.1"
 msgid "It's close by now..."
-msgstr ""
+msgstr "Teď už je to blízko..."
 
 #. WAGSTAFF_NPC_MUMBLE_1.2
 msgctxt "WAGSTAFF_NPC_MUMBLE_1.2"
 msgid "If I can just find..."
-msgstr ""
+msgstr "Jestli jen najdu..."
 
 #. WAGSTAFF_NPC_MUMBLE_1.3
 msgctxt "WAGSTAFF_NPC_MUMBLE_1.3"
 msgid "If my hypothesis is correct..."
-msgstr ""
+msgstr "Pokud je moje hypotéza správná..."
 
 #. WAGSTAFF_NPC_MUMBLE_1.4
 msgctxt "WAGSTAFF_NPC_MUMBLE_1.4"
 msgid "It's here... somewhere."
-msgstr ""
+msgstr "Je to tady... někde."
 
 #. WAGSTAFF_NPC_NOT_THIS_TOOL.1
 msgctxt "WAGSTAFF_NPC_NOT_THIS_TOOL.1"
 msgid "No no, that's not what I'm looking for!"
-msgstr ""
+msgstr "Ne ne, to není to, co hledám!"
 
 #. WAGSTAFF_NPC_NOT_THIS_TOOL.2
 msgctxt "WAGSTAFF_NPC_NOT_THIS_TOOL.2"
@@ -116,17 +122,17 @@ msgstr ""
 #. WAGSTAFF_NPC_NO_WAY1.1
 msgctxt "WAGSTAFF_NPC_NO_WAY1.1"
 msgid "Blast, I lost the signal."
-msgstr ""
+msgstr "Sakra, ztratil jsem signál."
 
 #. WAGSTAFF_NPC_NO_WAY2.1
 msgctxt "WAGSTAFF_NPC_NO_WAY2.1"
 msgid "I must have miscalculated."
-msgstr ""
+msgstr "Musel jsem se přepočítat."
 
 #. WAGSTAFF_NPC_NO_WAY3.1
 msgctxt "WAGSTAFF_NPC_NO_WAY3.1"
 msgid "Come find me again once I've made some preparations."
-msgstr ""
+msgstr "Přijď mě znovu najít, jakmile udělám nějaké přípravy."
 
 #. WAGSTAFF_NPC_START.1
 msgctxt "WAGSTAFF_NPC_START.1"
@@ -202,4 +208,3 @@ msgstr ""
 msgctxt "WAGSTAFF_NPC_YES_THIS_TOOL.2"
 msgid "At last! Now let's get this finished!"
 msgstr ""
-

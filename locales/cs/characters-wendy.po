@@ -1,8 +1,8 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-20 20:31+0000\n"
-"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
+"PO-Revision-Date: 2022-05-20 22:26+0000\n"
+"Last-Translator: Alyssa <alysaurus98@gmail.com>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
@@ -322,7 +322,7 @@ msgstr "Na hry je už příliš pozdě."
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.SLEEPING
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.SLEEPING"
 msgid "Another time. It's enjoying a temporary death right now..."
-msgstr ""
+msgstr "Někdy jindy. Právě teď si užívá dočasnou smrt..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.SLOTFULL
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.SLOTFULL"
@@ -432,7 +432,7 @@ msgstr ""
 #. CHARACTERS.WENDY.ACTIONFAIL.LOWER_SAIL_FAIL.1
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.LOWER_SAIL_FAIL.1"
 msgid "Well... that was a futile effort."
-msgstr ""
+msgstr "No... to byla marná snaha."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.LOWER_SAIL_FAIL.2
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.LOWER_SAIL_FAIL.2"
@@ -442,7 +442,7 @@ msgstr ""
 #. CHARACTERS.WENDY.ACTIONFAIL.LOWER_SAIL_FAIL.3
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.LOWER_SAIL_FAIL.3"
 msgid "It seems I'm not cut out for a life of sailing."
-msgstr ""
+msgstr "Zdá se, že nejsem stvořena pro život námořníka."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.MARK.ALREADY_MARKED
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.MARK.ALREADY_MARKED"
@@ -457,12 +457,12 @@ msgstr ""
 #. CHARACTERS.WENDY.ACTIONFAIL.MOUNT.INUSE
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.MOUNT.INUSE"
 msgid "I'll have to be quicker to the saddle next time."
-msgstr ""
+msgstr "Příště budu muset být v sedle rychleji."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.MOUNT.SLEEPING
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.MOUNT.SLEEPING"
 msgid "It feels so cruel to wake it from its dreams..."
-msgstr ""
+msgstr "Je to tak kruté probudit ho ze snů..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.MOUNT.TARGETINCOMBAT"

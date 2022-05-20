@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-18 23:05+0000\n"
+"PO-Revision-Date: 2022-05-20 23:26+0000\n"
 "Last-Translator: Ender Wiggin <f@endeer.cz>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
@@ -82,7 +82,7 @@ msgstr "ECHH!"
 #. RABBIT_PANICFIRE.1
 msgctxt "RABBIT_PANICFIRE.1"
 msgid "EEEH!"
-msgstr "EEEECH!"
+msgstr "ÉÉCH!"
 
 #. RABBIT_PANICFIRE.2
 msgctxt "RABBIT_PANICFIRE.2"
@@ -107,7 +107,7 @@ msgstr "AAACH!!"
 #. RABBIT_PANICHAUNT.3
 msgctxt "RABBIT_PANICHAUNT.3"
 msgid "OHH!"
-msgstr "OCHH!"
+msgstr "ÁCH!"
 
 #. RABBIT_PANICHAUNT.4
 msgctxt "RABBIT_PANICHAUNT.4"

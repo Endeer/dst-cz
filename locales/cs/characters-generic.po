@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-19 23:24+0000\n"
+"PO-Revision-Date: 2022-05-20 23:23+0000\n"
 "Last-Translator: Ender Wiggin <f@endeer.cz>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
@@ -3591,7 +3591,7 @@ msgstr ""
 #. CHARACTERS.GENERIC.DESCRIBE.BOARDS
 msgctxt "CHARACTERS.GENERIC.DESCRIBE.BOARDS"
 msgid "Boards."
-msgstr ""
+msgstr "Prkna."
 
 #. CHARACTERS.GENERIC.DESCRIBE.BOARON
 msgctxt "CHARACTERS.GENERIC.DESCRIBE.BOARON"

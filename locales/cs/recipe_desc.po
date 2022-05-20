@@ -1,7 +1,13 @@
+# 
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-05-20 23:24+0000\n"
+"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
 "POT Version: 2.0\n"
+"X-Generator: Pontoon\n"
 
 #. RECIPE_DESC.ABIGAIL_FLOWER
 msgctxt "RECIPE_DESC.ABIGAIL_FLOWER"
@@ -291,7 +297,7 @@ msgstr ""
 #. RECIPE_DESC.BOARDS
 msgctxt "RECIPE_DESC.BOARDS"
 msgid "Like logs, but flatter."
-msgstr ""
+msgstr "Jako polena, ale placatější."
 
 #. RECIPE_DESC.BOATPATCH
 msgctxt "RECIPE_DESC.BOATPATCH"
@@ -2997,4 +3003,3 @@ msgstr ""
 msgctxt "RECIPE_DESC.YOT_CATCOONSHRINE"
 msgid "Make offerings to the elusive catcoon."
 msgstr ""
-
