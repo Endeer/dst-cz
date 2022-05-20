@@ -1,7 +1,13 @@
+# 
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-05-19 23:24+0000\n"
+"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
 "POT Version: 2.0\n"
+"X-Generator: Pontoon\n"
 
 #. CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.CARNIVAL_HOST_HERE
 msgctxt "CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.CARNIVAL_HOST_HERE"
@@ -1040,7 +1046,9 @@ msgstr ""
 
 #. CHARACTERS.GENERIC.ANNOUNCE_CANFIX
 msgctxt "CHARACTERS.GENERIC.ANNOUNCE_CANFIX"
-msgid "\nI think I can fix this!"
+msgid ""
+"\n"
+"I think I can fix this!"
 msgstr ""
 
 #. CHARACTERS.GENERIC.ANNOUNCE_CANNOT_BUILD.NO_INGREDIENTS
@@ -2195,7 +2203,9 @@ msgstr ""
 
 #. CHARACTERS.GENERIC.ANNOUNCE_WEIGHT_HEAVY
 msgctxt "CHARACTERS.GENERIC.ANNOUNCE_WEIGHT_HEAVY"
-msgid "Weight: {weight}\nI'm a fishing heavyweight!"
+msgid ""
+"Weight: {weight}\n"
+"I'm a fishing heavyweight!"
 msgstr ""
 
 #. CHARACTERS.GENERIC.ANNOUNCE_WET
@@ -10091,12 +10101,12 @@ msgstr ""
 #. CHARACTERS.GENERIC.DESCRIBE.RABBITHOLE.GENERIC
 msgctxt "CHARACTERS.GENERIC.DESCRIBE.RABBITHOLE.GENERIC"
 msgid "That must lead to the Kingdom of the Bunnymen."
-msgstr ""
+msgstr "Tudy do Království Zajdů."
 
 #. CHARACTERS.GENERIC.DESCRIBE.RABBITHOLE.SPRING
 msgctxt "CHARACTERS.GENERIC.DESCRIBE.RABBITHOLE.SPRING"
 msgid "The Kingdom of the Bunnymen is closed for the season."
-msgstr ""
+msgstr "Království Zajdů má na jaře zavřeno."
 
 #. CHARACTERS.GENERIC.DESCRIBE.RABBITHOUSE.BURNT
 msgctxt "CHARACTERS.GENERIC.DESCRIBE.RABBITHOUSE.BURNT"
@@ -12175,22 +12185,33 @@ msgstr ""
 
 #. CHARACTERS.GENERIC.DESCRIBE.TROPHYSCALE_FISH.HAS_ITEM
 msgctxt "CHARACTERS.GENERIC.DESCRIBE.TROPHYSCALE_FISH.HAS_ITEM"
-msgid "Weight: {weight}\nCaught by: {owner}"
+msgid ""
+"Weight: {weight}\n"
+"Caught by: {owner}"
 msgstr ""
 
 #. CHARACTERS.GENERIC.DESCRIBE.TROPHYSCALE_FISH.HAS_ITEM_HEAVY
 msgctxt "CHARACTERS.GENERIC.DESCRIBE.TROPHYSCALE_FISH.HAS_ITEM_HEAVY"
-msgid "Weight: {weight}\nCaught by: {owner}\nWhat a catch!"
+msgid ""
+"Weight: {weight}\n"
+"Caught by: {owner}\n"
+"What a catch!"
 msgstr ""
 
 #. CHARACTERS.GENERIC.DESCRIBE.TROPHYSCALE_FISH.OWNER
 msgctxt "CHARACTERS.GENERIC.DESCRIBE.TROPHYSCALE_FISH.OWNER"
-msgid "Not to throw my weight around, buuut...\nWeight: {weight}\nCaught by: {owner}"
+msgid ""
+"Not to throw my weight around, buuut...\n"
+"Weight: {weight}\n"
+"Caught by: {owner}"
 msgstr ""
 
 #. CHARACTERS.GENERIC.DESCRIBE.TROPHYSCALE_FISH.OWNER_HEAVY
 msgctxt "CHARACTERS.GENERIC.DESCRIBE.TROPHYSCALE_FISH.OWNER_HEAVY"
-msgid "Weight: {weight}\nCaught by: {owner}\nIt's the one that DIDN'T get away!"
+msgid ""
+"Weight: {weight}\n"
+"Caught by: {owner}\n"
+"It's the one that DIDN'T get away!"
 msgstr ""
 
 #. CHARACTERS.GENERIC.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.BURNING
@@ -12210,12 +12231,18 @@ msgstr ""
 
 #. CHARACTERS.GENERIC.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM
 msgctxt "CHARACTERS.GENERIC.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM"
-msgid "Weight: {weight}\nHarvested on day: {day}\nNot bad."
+msgid ""
+"Weight: {weight}\n"
+"Harvested on day: {day}\n"
+"Not bad."
 msgstr ""
 
 #. CHARACTERS.GENERIC.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM_HEAVY
 msgctxt "CHARACTERS.GENERIC.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM_HEAVY"
-msgid "Weight: {weight}\nHarvested on day: {day}\nWho knew they grew that big?"
+msgid ""
+"Weight: {weight}\n"
+"Harvested on day: {day}\n"
+"Who knew they grew that big?"
 msgstr ""
 
 #. CHARACTERS.GENERIC.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM_LIGHT
@@ -14332,4 +14359,3 @@ msgstr ""
 msgctxt "CHARACTERS.GENERIC.QUAGMIRE_ANNOUNCE_WIN"
 msgid "Time to go!"
 msgstr ""
-

@@ -1,7 +1,13 @@
+# 
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-05-19 23:27+0000\n"
+"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
 "POT Version: 2.0\n"
+"X-Generator: Pontoon\n"
 
 #. NAMES.ABIGAIL
 msgctxt "NAMES.ABIGAIL"
@@ -7305,12 +7311,16 @@ msgstr ""
 
 #. NAMES.QUAGMIRE_TRADER_MERM
 msgctxt "NAMES.QUAGMIRE_TRADER_MERM"
-msgid "Sammy\nThe Lucid Bog Merm"
+msgid ""
+"Sammy\n"
+"The Lucid Bog Merm"
 msgstr ""
 
 #. NAMES.QUAGMIRE_TRADER_MERM2
 msgctxt "NAMES.QUAGMIRE_TRADER_MERM2"
-msgid "Pipton\nThe Cognizant Bog Merm"
+msgid ""
+"Pipton\n"
+"The Cognizant Bog Merm"
 msgstr ""
 
 #. NAMES.QUAGMIRE_TURNIP
@@ -7346,7 +7356,7 @@ msgstr ""
 #. NAMES.RABBITHOUSE
 msgctxt "NAMES.RABBITHOUSE"
 msgid "Rabbit Hutch"
-msgstr ""
+msgstr "Králičí budka"
 
 #. NAMES.RAIN
 msgctxt "NAMES.RAIN"
@@ -10467,4 +10477,3 @@ msgstr ""
 msgctxt "NAMES.YOT_CATCOONSHRINE"
 msgid "Catcoon Shrine"
 msgstr ""
-

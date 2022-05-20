@@ -1,7 +1,13 @@
+# 
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-05-19 23:26+0000\n"
+"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
 "POT Version: 2.0\n"
+"X-Generator: Pontoon\n"
 
 #. UI.CUSTOMIZATIONSCREEN.ALTERNATEHUNT
 msgctxt "UI.CUSTOMIZATIONSCREEN.ALTERNATEHUNT"
@@ -136,12 +142,12 @@ msgstr ""
 #. UI.CUSTOMIZATIONSCREEN.BUNNYMEN
 msgctxt "UI.CUSTOMIZATIONSCREEN.BUNNYMEN"
 msgid "Rabbit Hutches"
-msgstr ""
+msgstr "Králičí budky"
 
 #. UI.CUSTOMIZATIONSCREEN.BUNNYMEN_SETTING
 msgctxt "UI.CUSTOMIZATIONSCREEN.BUNNYMEN_SETTING"
 msgid "Bunnymen"
-msgstr ""
+msgstr "Zajdové"
 
 #. UI.CUSTOMIZATIONSCREEN.BUTTERFLY
 msgctxt "UI.CUSTOMIZATIONSCREEN.BUTTERFLY"
@@ -505,7 +511,9 @@ msgstr ""
 
 #. UI.CUSTOMIZATIONSCREEN.INVALIDSEASONCOMBO_BODY
 msgctxt "UI.CUSTOMIZATIONSCREEN.INVALIDSEASONCOMBO_BODY"
-msgid "You have set all seasons to \"None\".\nPlease turn on at least one season to continue."
+msgid ""
+"You have set all seasons to \"None\".\n"
+"Please turn on at least one season to continue."
 msgstr ""
 
 #. UI.CUSTOMIZATIONSCREEN.INVALIDSEASONCOMBO_TITLE
@@ -615,7 +623,9 @@ msgstr ""
 
 #. UI.CUSTOMIZATIONSCREEN.MAX_PRESETS_EXCEEDED_BODY
 msgctxt "UI.CUSTOMIZATIONSCREEN.MAX_PRESETS_EXCEEDED_BODY"
-msgid "Only 5 custom presets allowed.\nChoose one to overwrite:"
+msgid ""
+"Only 5 custom presets allowed.\n"
+"Choose one to overwrite:"
 msgstr ""
 
 #. UI.CUSTOMIZATIONSCREEN.MAX_PRESETS_EXCEEDED_TITLE
@@ -1532,4 +1542,3 @@ msgstr ""
 msgctxt "UI.CUSTOMIZATIONSCREEN.YES"
 msgid "Yes"
 msgstr ""
-

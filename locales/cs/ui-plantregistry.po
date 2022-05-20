@@ -1,8 +1,8 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-18 16:14+0000\n"
-"Last-Translator: Maisner <lukas.podolsky@zslichnov.cz>\n"
+"PO-Revision-Date: 2022-05-20 11:25+0000\n"
+"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
@@ -12,17 +12,17 @@ msgstr ""
 #. UI.PLANTREGISTRY.DESCRIPTIONS.ASPARAGUS
 msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.ASPARAGUS"
 msgid "Green spears of vegetabley goodness. -W"
-msgstr ""
+msgstr "Pěkně ta zeleninová dobrota chřestí mezi zuby. -W"
 
 #. UI.PLANTREGISTRY.DESCRIPTIONS.CARROT
 msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.CARROT"
 msgid "The perennial favorite of Bunnymen. -W"
-msgstr ""
+msgstr "Evergreen králičího jídelníčku. -W"
 
 #. UI.PLANTREGISTRY.DESCRIPTIONS.CORN
 msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.CORN"
 msgid "An a-maize-ingly versatile crop. -W"
-msgstr ""
+msgstr "Jsou ty turkyně ale všestranné. -W"
 
 #. UI.PLANTREGISTRY.DESCRIPTIONS.DRAGONFRUIT
 msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.DRAGONFRUIT"
@@ -42,7 +42,7 @@ msgstr ""
 #. UI.PLANTREGISTRY.DESCRIPTIONS.GARLIC
 msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.GARLIC"
 msgid "Cloves of garlic pair well with a nice stake. -W"
-msgstr ""
+msgstr "Stroužky česneku zní dobře s pěkným kůlem. -W"
 
 #. UI.PLANTREGISTRY.DESCRIPTIONS.MISSING
 msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.MISSING"
@@ -102,7 +102,7 @@ msgstr ""
 #. UI.PLANTREGISTRY.EFFECTS.WEED_IVY
 msgctxt "UI.PLANTREGISTRY.EFFECTS.WEED_IVY"
 msgid "Attacks survivors when they disturb a nearby plant"
-msgstr ""
+msgstr "Útočí na nešťastníky, když obtěžují okolní rostliny"
 
 #. UI.PLANTREGISTRY.EFFECTS.WEED_TILLWEED
 msgctxt "UI.PLANTREGISTRY.EFFECTS.WEED_TILLWEED"
@@ -117,7 +117,7 @@ msgstr ""
 #. UI.PLANTREGISTRY.FARMPLANTS.NUTRIENTS
 msgctxt "UI.PLANTREGISTRY.FARMPLANTS.NUTRIENTS"
 msgid "Nutrient Cycling"
-msgstr ""
+msgstr "Koloběh živin"
 
 #. UI.PLANTREGISTRY.FARMPLANTS.PRODUCT
 msgctxt "UI.PLANTREGISTRY.FARMPLANTS.PRODUCT"
@@ -137,22 +137,22 @@ msgstr ""
 #. UI.PLANTREGISTRY.FARMPLANTS.WATER
 msgctxt "UI.PLANTREGISTRY.FARMPLANTS.WATER"
 msgid "Water Consumption"
-msgstr ""
+msgstr "Spotřeba vody"
 
 #. UI.PLANTREGISTRY.MYSTERY_FERTILIZER
 msgctxt "UI.PLANTREGISTRY.MYSTERY_FERTILIZER"
 msgid "Unknown Fertilizer"
-msgstr ""
+msgstr "Neznámé hnojivo"
 
 #. UI.PLANTREGISTRY.MYSTERY_PLANT
 msgctxt "UI.PLANTREGISTRY.MYSTERY_PLANT"
 msgid "Unknown Plant"
-msgstr ""
+msgstr "Neznámá rostlina"
 
 #. UI.PLANTREGISTRY.NEEDSMORERESEARCH
 msgctxt "UI.PLANTREGISTRY.NEEDSMORERESEARCH"
 msgid "Unknown"
-msgstr ""
+msgstr "Neznámo"
 
 #. UI.PLANTREGISTRY.NEEDSPLANTRESEARCH
 msgctxt "UI.PLANTREGISTRY.NEEDSPLANTRESEARCH"
@@ -162,12 +162,12 @@ msgstr ""
 #. UI.PLANTREGISTRY.NUTRIENTS.CONSUME
 msgctxt "UI.PLANTREGISTRY.NUTRIENTS.CONSUME"
 msgid "Consumes "
-msgstr ""
+msgstr "Spotřebovává "
 
 #. UI.PLANTREGISTRY.NUTRIENTS.NEUTRAL
 msgctxt "UI.PLANTREGISTRY.NUTRIENTS.NEUTRAL"
 msgid "Doesn't affect "
-msgstr ""
+msgstr "Neovlivňuje "
 
 #. UI.PLANTREGISTRY.NUTRIENTS.NUTRIENT_1
 msgctxt "UI.PLANTREGISTRY.NUTRIENTS.NUTRIENT_1"
@@ -177,12 +177,12 @@ msgstr ""
 #. UI.PLANTREGISTRY.NUTRIENTS.NUTRIENT_2
 msgctxt "UI.PLANTREGISTRY.NUTRIENTS.NUTRIENT_2"
 msgid "Compost"
-msgstr ""
+msgstr "Kompost"
 
 #. UI.PLANTREGISTRY.NUTRIENTS.NUTRIENT_3
 msgctxt "UI.PLANTREGISTRY.NUTRIENTS.NUTRIENT_3"
 msgid "Manure"
-msgstr ""
+msgstr "Hnůj"
 
 #. UI.PLANTREGISTRY.NUTRIENTS.RESTORE
 msgctxt "UI.PLANTREGISTRY.NUTRIENTS.RESTORE"
@@ -257,7 +257,7 @@ msgstr ""
 #. UI.PLANTREGISTRY.TAB_TITLE_FERTILIZERS
 msgctxt "UI.PLANTREGISTRY.TAB_TITLE_FERTILIZERS"
 msgid "Fertilizers"
-msgstr ""
+msgstr "Hnojiva"
 
 #. UI.PLANTREGISTRY.TAB_TITLE_MOD_FERTILIZERS
 msgctxt "UI.PLANTREGISTRY.TAB_TITLE_MOD_FERTILIZERS"
@@ -272,7 +272,7 @@ msgstr ""
 #. UI.PLANTREGISTRY.TAB_TITLE_PLANTS
 msgctxt "UI.PLANTREGISTRY.TAB_TITLE_PLANTS"
 msgid "Plants"
-msgstr ""
+msgstr "Rostliny"
 
 #. UI.PLANTREGISTRY.WEEDPLANTS.DESCRIPTION
 msgctxt "UI.PLANTREGISTRY.WEEDPLANTS.DESCRIPTION"
@@ -282,12 +282,12 @@ msgstr ""
 #. UI.PLANTREGISTRY.WEEDPLANTS.EFFECTS
 msgctxt "UI.PLANTREGISTRY.WEEDPLANTS.EFFECTS"
 msgid "Effects"
-msgstr ""
+msgstr "Účinky"
 
 #. UI.PLANTREGISTRY.WEEDPLANTS.NUTRIENTS
 msgctxt "UI.PLANTREGISTRY.WEEDPLANTS.NUTRIENTS"
 msgid "Nutrient Cycling"
-msgstr ""
+msgstr "Koloběh živin"
 
 #. UI.PLANTREGISTRY.WEEDPLANTS.PRODUCT
 msgctxt "UI.PLANTREGISTRY.WEEDPLANTS.PRODUCT"
@@ -297,4 +297,4 @@ msgstr ""
 #. UI.PLANTREGISTRY.WEEDPLANTS.WATER
 msgctxt "UI.PLANTREGISTRY.WEEDPLANTS.WATER"
 msgid "Water Consumption"
-msgstr ""
+msgstr "Spotřeba vody"

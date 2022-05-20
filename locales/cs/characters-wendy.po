@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-19 02:05+0000\n"
+"PO-Revision-Date: 2022-05-20 20:31+0000\n"
 "Last-Translator: Ender Wiggin <f@endeer.cz>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
@@ -77,7 +77,7 @@ msgstr "Už je to udělané."
 #. CHARACTERS.WENDY.ACTIONFAIL.BATHBOMB.GLASSED
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.BATHBOMB.GLASSED"
 msgid "It's covered in glass..."
-msgstr ""
+msgstr "Je to pokryté sklem..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.BEGIN_QUEST.ONEGHOST
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.BEGIN_QUEST.ONEGHOST"
@@ -92,12 +92,12 @@ msgstr "Můžu mít jen jednoho..."
 #. CHARACTERS.WENDY.ACTIONFAIL.BUILD.MOUNTED
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.BUILD.MOUNTED"
 msgid "I can't place that from this lofty position."
-msgstr ""
+msgstr "Země je příliš daleko od mého majestátu."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.BUILD.TICOON
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.BUILD.TICOON"
 msgid "The more friends you have, the shallower they are."
-msgstr ""
+msgstr "Čím více přátel máte, tím jsou povrchnější."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.CARNIVALGAME_FEED.TOO_LATE
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.CARNIVALGAME_FEED.TOO_LATE"
@@ -107,12 +107,12 @@ msgstr "Přišla jsem pozdě..."
 #. CHARACTERS.WENDY.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.CHANGEIN.BURNING"
 msgid "I guess I won't be changing again anytime soon."
-msgstr ""
+msgstr "Hádám, že se v dohledné době znovu nepřevleču."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.CHANGEIN.GENERIC
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.CHANGEIN.GENERIC"
 msgid "What's the point."
-msgstr ""
+msgstr "Jaký to má smysl."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.CHANGEIN.INUSE
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.CHANGEIN.INUSE"
@@ -122,12 +122,12 @@ msgstr ""
 #. CHARACTERS.WENDY.ACTIONFAIL.CHANGEIN.NOOCCUPANT
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.CHANGEIN.NOOCCUPANT"
 msgid "There's nothing here for me to groom..."
-msgstr ""
+msgstr "Nemám tu oč pečovat..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR"
 msgid "Perhaps once its fur grows in."
-msgstr ""
+msgstr "Možná až mu doroste srst."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL"
@@ -147,62 +147,62 @@ msgstr ""
 #. CHARACTERS.WENDY.ACTIONFAIL.COMPARE_WEIGHABLE.OVERSIZEDVEGGIES_TOO_SMALL
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.COMPARE_WEIGHABLE.OVERSIZEDVEGGIES_TOO_SMALL"
 msgid "Mine is too small..."
-msgstr ""
+msgstr "Moje je příliš malá..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.CONSTRUCT.EMPTY
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.CONSTRUCT.EMPTY"
 msgid "Nothing comes of nothing."
-msgstr ""
+msgstr "Z ničeho nic nevzejde."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.CONSTRUCT.INUSE
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.CONSTRUCT.INUSE"
 msgid "No one wants to share with me."
-msgstr ""
+msgstr "Nikdo se se mnou nechce dělit."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.CONSTRUCT.MISMATCH
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.CONSTRUCT.MISMATCH"
 msgid "I can't do anything right."
-msgstr ""
+msgstr "Nic nedokážu udělat správně."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.CONSTRUCT.NOTALLOWED
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.CONSTRUCT.NOTALLOWED"
 msgid "It doesn't go there. I know the feeling."
-msgstr ""
+msgstr "Tam to nepasuje. Ten pocit znám."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.COOK.GENERIC
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.COOK.GENERIC"
 msgid "Oh. No one ever taught me to cook."
-msgstr ""
+msgstr "Ach. Nikdo mě nikdy nenaučil vařit."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.COOK.INUSE
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.COOK.INUSE"
 msgid "What are you making...? Smells good..."
-msgstr ""
+msgstr "Co vaříš...? Voní to dobře..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.COOK.TOOFAR
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.COOK.TOOFAR"
 msgid "It's so... far away..."
-msgstr ""
+msgstr "Je to tak... daleko..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.DISMANTLE.COOKING
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.DISMANTLE.COOKING"
 msgid "Mother warned me not to touch a pot while it's cooking."
-msgstr ""
+msgstr "Matka mě varovala, abych se nedotýkala hrnce, když se vaří."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.DISMANTLE.INUSE
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.DISMANTLE.INUSE"
 msgid "Someone's in there."
-msgstr ""
+msgstr "Někdo tam je."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.DISMANTLE.NOTEMPTY
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.DISMANTLE.NOTEMPTY"
 msgid "It isn't empty inside, unlike me."
-msgstr ""
+msgstr "Uvnitř to není prázdné, na rozdíl ode mě."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.DRAW.NOIMAGE
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.DRAW.NOIMAGE"
 msgid "I draw better with references..."
-msgstr ""
+msgstr "Lépe kreslím s referencemi..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.FILL_OCEAN.UNSUITABLE_FOR_PLANTS
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.FILL_OCEAN.UNSUITABLE_FOR_PLANTS"
@@ -222,7 +222,7 @@ msgstr "Proč to nefunguje, Abigail?"
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.BUSY
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.BUSY"
 msgid "It's too busy to pay attention to me..."
-msgstr ""
+msgstr "Má moc práce, nevěnuje mi pozornost..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.CANTSHADOWREVIVE
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.CANTSHADOWREVIVE"
@@ -237,22 +237,22 @@ msgstr "Už začali beze mě..."
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM"
 msgid "That's not what it wants."
-msgstr ""
+msgstr "To není to, co chce."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.DEAD
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.DEAD"
 msgid "They've no need of material possessions where they've gone."
-msgstr ""
+msgstr "Nepotřebují materiální majetek tam, kam odešli."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.DUPLICATE
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.DUPLICATE"
 msgid "Oh... my information's useless..."
-msgstr ""
+msgstr "Oh... moje informace jsou k ničemu..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.FOODFULL
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.FOODFULL"
 msgid "It hasn't yet eaten our last sacrifice..."
-msgstr ""
+msgstr "Ještě nesežral naši poslední oběť..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.GENERIC
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.GENERIC"
@@ -267,7 +267,7 @@ msgstr "Některé věci by měly zůstat mrtvé."
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.MUSHROOMFARM_NEEDSLOG
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.MUSHROOMFARM_NEEDSLOG"
 msgid "It doesn't need that. It needs a magic log."
-msgstr ""
+msgstr "To nepotřebuje. Potřebuje kouzelné poleno."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.MUSHROOMFARM_NEEDSSHROOM
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.MUSHROOMFARM_NEEDSSHROOM"
@@ -282,42 +282,42 @@ msgstr "To tu nepřežije."
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.NOMOON
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.NOMOON"
 msgid "I can't... not in here."
-msgstr ""
+msgstr "Nemůžu... ne tady."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.NOTDISH
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.NOTDISH"
 msgid "That may not be best..."
-msgstr ""
+msgstr "To nemusí být nejlepší..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.NOTGEM
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.NOTGEM"
 msgid "I don't think that will work there..."
-msgstr ""
+msgstr "Nemyslím si, že to tam bude fungovat..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.NOTSCULPTABLE
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.NOTSCULPTABLE"
 msgid "I think that's... wrong..."
-msgstr ""
+msgstr "Myslím, že to je... špatně..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.NOTSTAFF
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.NOTSTAFF"
 msgid "That's not the right thing..."
-msgstr ""
+msgstr "To není ta správná věc..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.PIGKINGGAME_DANGER
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.PIGKINGGAME_DANGER"
 msgid "Danger lurks. There's no time for games."
-msgstr ""
+msgstr "Číhá na nás nebezpečí. Na hry není čas."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.PIGKINGGAME_MESSY
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.PIGKINGGAME_MESSY"
 msgid "Help me clean up, Abigail."
-msgstr ""
+msgstr "Pomoz mi to uklidit, Abigail."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.PIGKINGGAME_TOOLATE
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.PIGKINGGAME_TOOLATE"
 msgid "It's much too late for games."
-msgstr ""
+msgstr "Na hry je už příliš pozdě."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.SLEEPING
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.SLEEPING"
@@ -327,37 +327,37 @@ msgstr ""
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.SLOTFULL
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.SLOTFULL"
 msgid "There's no room..."
-msgstr ""
+msgstr "Není tam místo..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.SPIDERNOHAT
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.SPIDERNOHAT"
 msgid "I have a feeling the spider would get it all rumpled in my pocket."
-msgstr ""
+msgstr "Mám pocit, že by mi to pavouk zmačkal v kapse."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.TERRARIUM_COOLDOWN
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.TERRARIUM_COOLDOWN"
 msgid "I suppose it needs more time to recover from all it has been through."
-msgstr ""
+msgstr "Předpokládám, že potřebuje více času, aby se vzpamatovala ze všeho, čím si prošlo."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.TERRARIUM_REFUSE
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.TERRARIUM_REFUSE"
 msgid "It refused my gift..."
-msgstr ""
+msgstr "Odmítlo to můj dar..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.WRONGGEM
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.WRONGGEM"
 msgid "I got it wrong... again..."
-msgstr ""
+msgstr "Mám to špatně... zase..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVE.WRONGSHADOWFORM
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVE.WRONGSHADOWFORM"
 msgid "These bones are grimly misassembled..."
-msgstr ""
+msgstr "Tyhle kosti jsou znepokojivě špatně složené..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVEALLTOPLAYER.BUSY
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVEALLTOPLAYER.BUSY"
 msgid "Oh... I can tell you're busy..."
-msgstr ""
+msgstr "Oh... vidím, že jsi zaneprázdněn..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVEALLTOPLAYER.DEAD
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVEALLTOPLAYER.DEAD"
@@ -367,17 +367,17 @@ msgstr ""
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVEALLTOPLAYER.FULL
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVEALLTOPLAYER.FULL"
 msgid "They're already too burdened by this world..."
-msgstr ""
+msgstr "Už tak toho nesou na svých bedrech příliš..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVEALLTOPLAYER.SLEEPING
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVEALLTOPLAYER.SLEEPING"
 msgid "They look so peaceful... I'll come back later."
-msgstr ""
+msgstr "Vypadají tak spokojeně... Vrátím se později."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVETOPLAYER.BUSY
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVETOPLAYER.BUSY"
 msgid "Oh... I can tell you're busy..."
-msgstr ""
+msgstr "Och... vidím, že máš hodně práce..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.GIVETOPLAYER.DEAD
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.GIVETOPLAYER.DEAD"
@@ -402,12 +402,12 @@ msgstr ""
 #. CHARACTERS.WENDY.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
 msgid "It won't pay any attention to me..."
-msgstr ""
+msgstr "Nevěnuje mi pozornost..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
 msgid "They are Webber's friends, not mine."
-msgstr ""
+msgstr "Jsou to Webberovi přátelé, ne moji."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.HITCHUP.BEEF_HITCHED
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.HITCHUP.BEEF_HITCHED"
@@ -447,7 +447,7 @@ msgstr ""
 #. CHARACTERS.WENDY.ACTIONFAIL.MARK.ALREADY_MARKED
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.MARK.ALREADY_MARKED"
 msgid "I made my choice."
-msgstr ""
+msgstr "Už jsem se rozhodla."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.MARK.NOT_PARTICIPANT
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.MARK.NOT_PARTICIPANT"
@@ -467,7 +467,7 @@ msgstr ""
 #. CHARACTERS.WENDY.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
 msgid "I'll wait for it to calm down..."
-msgstr ""
+msgstr "Počkám si, až se to uklidní..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.OCEAN_FISHING_POND.WRONGGEAR
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.OCEAN_FISHING_POND.WRONGGEAR"
@@ -477,22 +477,22 @@ msgstr ""
 #. CHARACTERS.WENDY.ACTIONFAIL.OPEN_CRAFTING.PROFESSIONALCHEF
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.OPEN_CRAFTING.PROFESSIONALCHEF"
 msgid "That belongs to Warly."
-msgstr ""
+msgstr "To patří Warlymu."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.OPEN_CRAFTING.SHADOWMAGIC
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.OPEN_CRAFTING.SHADOWMAGIC"
 msgid "Do you want me to read you a story, Abigail?"
-msgstr ""
+msgstr "Chceš, abych ti přečetla pohádku, Abigail?"
 
 #. CHARACTERS.WENDY.ACTIONFAIL.PICKUP.INUSE
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.PICKUP.INUSE"
 msgid "Someone's beat me to it."
-msgstr ""
+msgstr "Někdo mě předběhl."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.PICKUP.NOTMINE_YOTC.1
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.PICKUP.NOTMINE_YOTC.1"
 msgid "It... doesn't seem to like me very much."
-msgstr ""
+msgstr "Zdá se... že mě to nemá moc rádo."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.PICKUP.NOTMINE_YOTC.2
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.PICKUP.NOTMINE_YOTC.2"

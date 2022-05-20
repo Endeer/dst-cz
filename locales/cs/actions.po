@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-19 01:54+0000\n"
+"PO-Revision-Date: 2022-05-20 11:31+0000\n"
 "Last-Translator: Ender Wiggin <f@endeer.cz>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
@@ -12,17 +12,17 @@ msgstr ""
 #. ACTIONS.ABANDON
 msgctxt "ACTIONS.ABANDON"
 msgid "Abandon"
-msgstr "Opustit"
+msgstr "Opusť"
 
 #. ACTIONS.ABANDON_QUEST
 msgctxt "ACTIONS.ABANDON_QUEST"
 msgid "Abandon"
-msgstr "Vzdát"
+msgstr "Vzdej"
 
 #. ACTIONS.ABANDON_SHIP
 msgctxt "ACTIONS.ABANDON_SHIP"
 msgid "Abandon Ship"
-msgstr "Opustit loď"
+msgstr "Opusť loď"
 
 #. ACTIONS.ACTIVATE.ACCOMPLISH
 msgctxt "ACTIONS.ACTIVATE.ACCOMPLISH"
@@ -32,7 +32,7 @@ msgstr "Natáhni"
 #. ACTIONS.ACTIVATE.CLIMB
 msgctxt "ACTIONS.ACTIVATE.CLIMB"
 msgid "Climb"
-msgstr "Vyšplhat se"
+msgstr "Vyšplhej se"
 
 #. ACTIONS.ACTIVATE.CLOSE
 msgctxt "ACTIONS.ACTIVATE.CLOSE"
@@ -42,12 +42,12 @@ msgstr "Zavři"
 #. ACTIONS.ACTIVATE.DEACTIVATE
 msgctxt "ACTIONS.ACTIVATE.DEACTIVATE"
 msgid "Deactivate"
-msgstr "Deaktivovat"
+msgstr "Deaktivuj"
 
 #. ACTIONS.ACTIVATE.GENERIC
 msgctxt "ACTIONS.ACTIVATE.GENERIC"
 msgid "Activate"
-msgstr "Aktivovat"
+msgstr "Aktivuj"
 
 #. ACTIONS.ACTIVATE.HIDEANDSEEK
 msgctxt "ACTIONS.ACTIVATE.HIDEANDSEEK"
@@ -147,7 +147,7 @@ msgstr "Zhodnoť spokojenost"
 #. ACTIONS.ASSESSPLANTHAPPINESS.GENERIC_FMT
 msgctxt "ACTIONS.ASSESSPLANTHAPPINESS.GENERIC_FMT"
 msgid "Assess {plant}'s Happiness"
-msgstr ""
+msgstr "{plant}: zhodnoť spokojenost"
 
 #. ACTIONS.ATTACK.GENERIC
 msgctxt "ACTIONS.ATTACK.GENERIC"
@@ -212,7 +212,7 @@ msgstr ""
 #. ACTIONS.BLINK.SOUL
 msgctxt "ACTIONS.BLINK.SOUL"
 msgid "Soul Hop"
-msgstr ""
+msgstr "Skoč o duši"
 
 #. ACTIONS.BRUSH
 msgctxt "ACTIONS.BRUSH"
@@ -367,7 +367,7 @@ msgstr "Oživ"
 #. ACTIONS.CATCH
 msgctxt "ACTIONS.CATCH"
 msgid "Catch"
-msgstr ""
+msgstr "Chyť"
 
 #. ACTIONS.CHANGEIN.DRESSUP
 msgctxt "ACTIONS.CHANGEIN.DRESSUP"
@@ -377,12 +377,12 @@ msgstr ""
 #. ACTIONS.CHANGEIN.GENERIC
 msgctxt "ACTIONS.CHANGEIN.GENERIC"
 msgid "Use"
-msgstr ""
+msgstr "Použij"
 
 #. ACTIONS.CHANGE_TACKLE.AMMO
 msgctxt "ACTIONS.CHANGE_TACKLE.AMMO"
 msgid "Set Ammo"
-msgstr ""
+msgstr "Změň náboje"
 
 #. ACTIONS.CHANGE_TACKLE.GENERIC
 msgctxt "ACTIONS.CHANGE_TACKLE.GENERIC"
@@ -412,22 +412,22 @@ msgstr ""
 #. ACTIONS.COMBINESTACK
 msgctxt "ACTIONS.COMBINESTACK"
 msgid "Combine Stack"
-msgstr ""
+msgstr "Dej dohromady"
 
 #. ACTIONS.COMMUNEWITHSUMMONED.MAKE_AGGRESSIVE
 msgctxt "ACTIONS.COMMUNEWITHSUMMONED.MAKE_AGGRESSIVE"
 msgid "Rile Up"
-msgstr "Naštvi"
+msgstr "Rozezli"
 
 #. ACTIONS.COMMUNEWITHSUMMONED.MAKE_DEFENSIVE
 msgctxt "ACTIONS.COMMUNEWITHSUMMONED.MAKE_DEFENSIVE"
 msgid "Soothe"
-msgstr "Ukonejši"
+msgstr "Uklidni"
 
 #. ACTIONS.COMPARE_WEIGHABLE
 msgctxt "ACTIONS.COMPARE_WEIGHABLE"
 msgid "Give"
-msgstr ""
+msgstr "Podej"
 
 #. ACTIONS.CONSTRUCT.GENERIC
 msgctxt "ACTIONS.CONSTRUCT.GENERIC"
@@ -447,12 +447,12 @@ msgstr ""
 #. ACTIONS.COOK
 msgctxt "ACTIONS.COOK"
 msgid "Cook"
-msgstr ""
+msgstr "Uvař"
 
 #. ACTIONS.CRAFT
 msgctxt "ACTIONS.CRAFT"
 msgid "Craft"
-msgstr ""
+msgstr "Vytvoř"
 
 #. ACTIONS.CYCLE.GENERIC
 msgctxt "ACTIONS.CYCLE.GENERIC"
@@ -467,12 +467,12 @@ msgstr ""
 #. ACTIONS.DANCE
 msgctxt "ACTIONS.DANCE"
 msgid "Dance"
-msgstr ""
+msgstr "Tanči"
 
 #. ACTIONS.DECORATEVASE
 msgctxt "ACTIONS.DECORATEVASE"
 msgid "Decorate"
-msgstr ""
+msgstr "Ozdob"
 
 #. ACTIONS.DEPLOY.DEPLOY
 msgctxt "ACTIONS.DEPLOY.DEPLOY"

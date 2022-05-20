@@ -1,7 +1,13 @@
+# 
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-05-19 23:22+0000\n"
+"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
 "POT Version: 2.0\n"
+"X-Generator: Pontoon\n"
 
 #. SKIN_DESCRIPTIONS.abigail_flower_formal
 msgctxt "SKIN_DESCRIPTIONS.abigail_flower_formal"
@@ -2860,242 +2866,386 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_abigail
 msgctxt "SKIN_DESCRIPTIONS.emoji_abigail"
-msgid "Add a dash of color to the conversation.\n\nType :abigail: in chat to use this emoticon."
+msgid ""
+"Add a dash of color to the conversation.\n"
+"\n"
+"Type :abigail: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_alchemyengine
 msgctxt "SKIN_DESCRIPTIONS.emoji_alchemyengine"
-msgid "Add a little science to everyone's day.\n\nType :alchemyengine: in chat to use this emoticon."
+msgid ""
+"Add a little science to everyone's day.\n"
+"\n"
+"Type :alchemyengine: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_arcane
 msgctxt "SKIN_DESCRIPTIONS.emoji_arcane"
-msgid "Make chatting a little more magical.\n\nType :arcane: in chat to use this emoticon."
+msgid ""
+"Make chatting a little more magical.\n"
+"\n"
+"Type :arcane: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_backpack
 msgctxt "SKIN_DESCRIPTIONS.emoji_backpack"
-msgid "If there's one thing you can do with this backpack, it's carry a conversation.\n\nType :backpack: in chat to use this emoticon."
+msgid ""
+"If there's one thing you can do with this backpack, it's carry a conversation.\n"
+"\n"
+"Type :backpack: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_battle
 msgctxt "SKIN_DESCRIPTIONS.emoji_battle"
-msgid "Let everyone know you're ready for a fight with this battle emoticon.\n\nType :battle: in chat to use this emoticon."
+msgid ""
+"Let everyone know you're ready for a fight with this battle emoticon.\n"
+"\n"
+"Type :battle: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_beefalo
 msgctxt "SKIN_DESCRIPTIONS.emoji_beefalo"
-msgid "A cute beefalo face brightens any conversation.\n\nType :beefalo: in chat to use this emoticon."
+msgid ""
+"A cute beefalo face brightens any conversation.\n"
+"\n"
+"Type :beefalo: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_beehive
 msgctxt "SKIN_DESCRIPTIONS.emoji_beehive"
-msgid "Let everyone in chat know that you're a busy bee.\n\nType :beehive: in chat to use this emoticon."
+msgid ""
+"Let everyone in chat know that you're a busy bee.\n"
+"\n"
+"Type :beehive: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_berry_bush
 msgctxt "SKIN_DESCRIPTIONS.emoji_berry_bush"
-msgid "Pick and choose your topics of conversation.\n\nType :berry_bush: in chat to use this emoticon."
+msgid ""
+"Pick and choose your topics of conversation.\n"
+"\n"
+"Type :berry_bush: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_carrot
 msgctxt "SKIN_DESCRIPTIONS.emoji_carrot"
-msgid "Ehh, what's up, chat?\n\nType :carrot: in chat to use this emoticon."
+msgid ""
+"Ehh, what's up, chat?\n"
+"\n"
+"Type :carrot: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_chest
 msgctxt "SKIN_DESCRIPTIONS.emoji_chest"
-msgid "For conversations where you need to get something off your chest.\n\nType :chest: in chat to use this emoticon."
+msgid ""
+"For conversations where you need to get something off your chest.\n"
+"\n"
+"Type :chest: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_chester
 msgctxt "SKIN_DESCRIPTIONS.emoji_chester"
-msgid "A loyal friend makes a great addition to any chat.\n\nType :chester: in chat to use this emoticon."
+msgid ""
+"A loyal friend makes a great addition to any chat.\n"
+"\n"
+"Type :chester: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_crockpot
 msgctxt "SKIN_DESCRIPTIONS.emoji_crockpot"
-msgid "Use this emoticon to let others know what's for dinner.\n\nType :crockpot: in chat to use this emoticon."
+msgid ""
+"Use this emoticon to let others know what's for dinner.\n"
+"\n"
+"Type :crockpot: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_egg
 msgctxt "SKIN_DESCRIPTIONS.emoji_egg"
-msgid "Make sure all your chat jokes go over easy.\n\nType :egg: in chat to use this emoticon."
+msgid ""
+"Make sure all your chat jokes go over easy.\n"
+"\n"
+"Type :egg: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_eyeball
 msgctxt "SKIN_DESCRIPTIONS.emoji_eyeball"
-msgid "Keep an eye on chat with this eyeball emoticon.\n\nType :eyeball: in chat to use this emoticon."
+msgid ""
+"Keep an eye on chat with this eyeball emoticon.\n"
+"\n"
+"Type :eyeball: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_eyeplant
 msgctxt "SKIN_DESCRIPTIONS.emoji_eyeplant"
-msgid "What're you looking at, chat?\n\nType :eyeplant: in chat to use this emoticon."
+msgid ""
+"What're you looking at, chat?\n"
+"\n"
+"Type :eyeplant: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_faketeeth
 msgctxt "SKIN_DESCRIPTIONS.emoji_faketeeth"
-msgid "Some people are just chatterboxes.\n\nType :faketeeth: in chat to use this emoticon."
+msgid ""
+"Some people are just chatterboxes.\n"
+"\n"
+"Type :faketeeth: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_farm
 msgctxt "SKIN_DESCRIPTIONS.emoji_farm"
-msgid "This farm emoticon is sure to cultivate excellent conversation.\n\nType :farm: in chat to use this emoticon."
+msgid ""
+"This farm emoticon is sure to cultivate excellent conversation.\n"
+"\n"
+"Type :farm: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_fire
 msgctxt "SKIN_DESCRIPTIONS.emoji_fire"
-msgid "Ignite conversation with this fire emoticon.\n\nType :fire: in chat to use this emoticon."
+msgid ""
+"Ignite conversation with this fire emoticon.\n"
+"\n"
+"Type :fire: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_firepit
 msgctxt "SKIN_DESCRIPTIONS.emoji_firepit"
-msgid "Keep conversations burning late into the night with this firepit emoticon.\n\nType :firepit: in chat to use this emoticon."
+msgid ""
+"Keep conversations burning late into the night with this firepit emoticon.\n"
+"\n"
+"Type :firepit: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_flex
 msgctxt "SKIN_DESCRIPTIONS.emoji_flex"
-msgid "Make sure others witness your strong conversational skills.\n\nType :flex: in chat to use this emoticon."
+msgid ""
+"Make sure others witness your strong conversational skills.\n"
+"\n"
+"Type :flex: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_ghost
 msgctxt "SKIN_DESCRIPTIONS.emoji_ghost"
-msgid "Bring a touch of the supernatural to chat.\n\nType :ghost: in chat to use this emoticon."
+msgid ""
+"Bring a touch of the supernatural to chat.\n"
+"\n"
+"Type :ghost: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_gold
 msgctxt "SKIN_DESCRIPTIONS.emoji_gold"
-msgid "Sometimes you just have to drop a nugget of truth into the conversation.\n\nType :gold: in chat to use this emoticon."
+msgid ""
+"Sometimes you just have to drop a nugget of truth into the conversation.\n"
+"\n"
+"Type :gold: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_grave
 msgctxt "SKIN_DESCRIPTIONS.emoji_grave"
-msgid "This emoticon is suited to even the gravest of conversation topics.\n\nType :grave: in chat to use this emoticon."
+msgid ""
+"This emoticon is suited to even the gravest of conversation topics.\n"
+"\n"
+"Type :grave: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_hambat
 msgctxt "SKIN_DESCRIPTIONS.emoji_hambat"
-msgid "Go ham in chat with this ham bat emoticon.\n\nType :hambat: in chat to use this emoticon."
+msgid ""
+"Go ham in chat with this ham bat emoticon.\n"
+"\n"
+"Type :hambat: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_hammer
 msgctxt "SKIN_DESCRIPTIONS.emoji_hammer"
-msgid "A hammer chat emoticon is sure to drive any point home.\n\nType :hammer: in chat to use this emoticon."
+msgid ""
+"A hammer chat emoticon is sure to drive any point home.\n"
+"\n"
+"Type :hammer: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_heart
 msgctxt "SKIN_DESCRIPTIONS.emoji_heart"
-msgid "Show everyone you care with this heart emoticon.\n\nType :heart: in chat to use this emoticon."
+msgid ""
+"Show everyone you care with this heart emoticon.\n"
+"\n"
+"Type :heart: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_horn
 msgctxt "SKIN_DESCRIPTIONS.emoji_horn"
-msgid "Get on the horn with chat.\n\nType :horn: in chat to use this emoticon."
+msgid ""
+"Get on the horn with chat.\n"
+"\n"
+"Type :horn: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_hunger
 msgctxt "SKIN_DESCRIPTIONS.emoji_hunger"
-msgid "Let your friends in chat know you're feeling a bit peckish.\n\nType :hunger: in chat to use this emoticon."
+msgid ""
+"Let your friends in chat know you're feeling a bit peckish.\n"
+"\n"
+"Type :hunger: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_lightbulb
 msgctxt "SKIN_DESCRIPTIONS.emoji_lightbulb"
-msgid "Illuminate conversations with this lightbulb emoticon.\n\nType :lightbulb: in chat to use this emoticon."
+msgid ""
+"Illuminate conversations with this lightbulb emoticon.\n"
+"\n"
+"Type :lightbulb: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_meat_big
 msgctxt "SKIN_DESCRIPTIONS.emoji_meat_big"
-msgid "Put a big ol' hunk of meat in chat. Why not?\n\nType :meat_big: in chat to use this emoticon."
+msgid ""
+"Put a big ol' hunk of meat in chat. Why not?\n"
+"\n"
+"Type :meat_big: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_pig
 msgctxt "SKIN_DESCRIPTIONS.emoji_pig"
-msgid "Chatting's never a boar with this pigman emoticon.\n\nType :pig: in chat to use this emoticon."
+msgid ""
+"Chatting's never a boar with this pigman emoticon.\n"
+"\n"
+"Type :pig: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_poop
 msgctxt "SKIN_DESCRIPTIONS.emoji_poop"
-msgid "Some emotions are simply best expressed through manure.\n\nType :poop: in chat to use this emoticon."
+msgid ""
+"Some emotions are simply best expressed through manure.\n"
+"\n"
+"Type :poop: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_redgem
 msgctxt "SKIN_DESCRIPTIONS.emoji_redgem"
-msgid "Let someone know you think they're a gem.\n\nType :redgem: in chat to use this emoticon."
+msgid ""
+"Let someone know you think they're a gem.\n"
+"\n"
+"Type :redgem: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_refine
 msgctxt "SKIN_DESCRIPTIONS.emoji_refine"
-msgid "Let someone know their comment was a gem.\n\nType :refine: in chat to use this emoticon."
+msgid ""
+"Let someone know their comment was a gem.\n"
+"\n"
+"Type :refine: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_salt
 msgctxt "SKIN_DESCRIPTIONS.emoji_salt"
-msgid "Bring just a pinch of salt to chat.\n\nType :salt: in chat to use this emoticon."
+msgid ""
+"Bring just a pinch of salt to chat.\n"
+"\n"
+"Type :salt: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_sanity
 msgctxt "SKIN_DESCRIPTIONS.emoji_sanity"
-msgid "It'd be insane not to use this brain emoticon in chat.\n\nType :sanity: in chat to use this emoticon."
+msgid ""
+"It'd be insane not to use this brain emoticon in chat.\n"
+"\n"
+"Type :sanity: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_sciencemachine
 msgctxt "SKIN_DESCRIPTIONS.emoji_sciencemachine"
-msgid "Let everyone in chat know it's time for science.\n\nType :sciencemachine: in chat to use this emoticon."
+msgid ""
+"Let everyone in chat know it's time for science.\n"
+"\n"
+"Type :sciencemachine: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_shadowmanipulator
 msgctxt "SKIN_DESCRIPTIONS.emoji_shadowmanipulator"
-msgid "Give the conversation a hint of magic.\n\nType :shadowmanipulator: in chat to use this emoticon."
+msgid ""
+"Give the conversation a hint of magic.\n"
+"\n"
+"Type :shadowmanipulator: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_shovel
 msgctxt "SKIN_DESCRIPTIONS.emoji_shovel"
-msgid "Some topics of conversation are best buried.\n\nType :shovel: in chat to use this emoticon."
+msgid ""
+"Some topics of conversation are best buried.\n"
+"\n"
+"Type :shovel: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_skull
 msgctxt "SKIN_DESCRIPTIONS.emoji_skull"
-msgid "Abandon all hope ye who enter chat.\n\nType :skull: in chat to use this emoticon."
+msgid ""
+"Abandon all hope ye who enter chat.\n"
+"\n"
+"Type :skull: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_thumbsup
 msgctxt "SKIN_DESCRIPTIONS.emoji_thumbsup"
-msgid "Use this thumbs up emoticon to let everyone know that you approve.\n\nType :thumbsup: in chat to use this emoticon."
+msgid ""
+"Use this thumbs up emoticon to let everyone know that you approve.\n"
+"\n"
+"Type :thumbsup: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_tophat
 msgctxt "SKIN_DESCRIPTIONS.emoji_tophat"
-msgid "Class up any conversation with this top hat emoticon.\n\nType :tophat: in chat to use this emoticon."
+msgid ""
+"Class up any conversation with this top hat emoticon.\n"
+"\n"
+"Type :tophat: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_torch
 msgctxt "SKIN_DESCRIPTIONS.emoji_torch"
-msgid "For illuminating conversation.\n\nType :torch: in chat to use this emoticon."
+msgid ""
+"For illuminating conversation.\n"
+"\n"
+"Type :torch: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_trap
 msgctxt "SKIN_DESCRIPTIONS.emoji_trap"
-msgid "Lure others into conversation with this trap emoticon.\n\nType :trap: in chat to use this emoticon."
+msgid ""
+"Lure others into conversation with this trap emoticon.\n"
+"\n"
+"Type :trap: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_trophy
 msgctxt "SKIN_DESCRIPTIONS.emoji_trophy"
-msgid "Let everyone know they did great with this trophy emoticon.\n\nType :trophy: in chat to use this emoticon."
+msgid ""
+"Let everyone know they did great with this trophy emoticon.\n"
+"\n"
+"Type :trophy: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_wave
 msgctxt "SKIN_DESCRIPTIONS.emoji_wave"
-msgid "Say \"hi\" to chat with this wave emoticon!\n\nType :wave: in chat to use this emoticon."
+msgid ""
+"Say \"hi\" to chat with this wave emoticon!\n"
+"\n"
+"Type :wave: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_web
 msgctxt "SKIN_DESCRIPTIONS.emoji_web"
-msgid "Get tangled up in conversation with this spider web emoticon.\n\nType :web: in chat to use this emoticon."
+msgid ""
+"Get tangled up in conversation with this spider web emoticon.\n"
+"\n"
+"Type :web: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emoji_wormhole
 msgctxt "SKIN_DESCRIPTIONS.emoji_wormhole"
-msgid "A wormhole emoticon, for quick escape from awkward conversations.\n\nType :wormhole: in chat to use this emoticon."
+msgid ""
+"A wormhole emoticon, for quick escape from awkward conversations.\n"
+"\n"
+"Type :wormhole: in chat to use this emoticon."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.emote_carol
@@ -5945,7 +6095,9 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_bearger_yule
 msgctxt "SKIN_DESCRIPTIONS.loading_bearger_yule"
-msgid "Deafening roars fill the air with no hint of cessation,\nWho dares disturb Bearger's sweet hibernation?"
+msgid ""
+"Deafening roars fill the air with no hint of cessation,\n"
+"Who dares disturb Bearger's sweet hibernation?"
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_carnival1
@@ -5980,12 +6132,20 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_deerclops_yule
 msgctxt "SKIN_DESCRIPTIONS.loading_deerclops_yule"
-msgid "The night had seemed dead 'fore the sound broke the hush.\nThere! Something doth stir in the thick underbrush.\nTHUMP, THUMP, CLOMP, CLOMP, sound its footsteps together,\nThen you sight the clumped fur, the thin legs like black leather.\nIts eye trains on yours in a horrid red glow,\n...How swift might you flee through the knee-deep snow?"
+msgid ""
+"The night had seemed dead 'fore the sound broke the hush.\n"
+"There! Something doth stir in the thick underbrush.\n"
+"THUMP, THUMP, CLOMP, CLOMP, sound its footsteps together,\n"
+"Then you sight the clumped fur, the thin legs like black leather.\n"
+"Its eye trains on yours in a horrid red glow,\n"
+"...How swift might you flee through the knee-deep snow?"
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_dragonfly_yule
 msgctxt "SKIN_DESCRIPTIONS.loading_dragonfly_yule"
-msgid "Whilst lava burns hot in the cold winter night,\nThe Feastfly takes wing in a most fervid flight."
+msgid ""
+"Whilst lava burns hot in the cold winter night,\n"
+"The Feastfly takes wing in a most fervid flight."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_eyeofthestorm_trailer
@@ -5995,7 +6155,11 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_farming
 msgctxt "SKIN_DESCRIPTIONS.loading_farming"
-msgid "The days have been filled with tilling and toil,\nGathering seeds and nourishing soil,\nIn hopes that the crops will produce at their best,\n(Just make sure that you keep a sharp eye out for pests!)"
+msgid ""
+"The days have been filled with tilling and toil,\n"
+"Gathering seeds and nourishing soil,\n"
+"In hopes that the crops will produce at their best,\n"
+"(Just make sure that you keep a sharp eye out for pests!)"
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_farming2
@@ -6005,12 +6169,18 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_feast
 msgctxt "SKIN_DESCRIPTIONS.loading_feast"
-msgid "The food is prepared, the table is set,\nGather round for a feast that you won't soon forget."
+msgid ""
+"The food is prepared, the table is set,\n"
+"Gather round for a feast that you won't soon forget."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_gameplay_trailer
 msgctxt "SKIN_DESCRIPTIONS.loading_gameplay_trailer"
-msgid "The future might be daunting,\n(The present's scary too)\nBut if the past has taught us anything,\nTogether, we'll get through."
+msgid ""
+"The future might be daunting,\n"
+"(The present's scary too)\n"
+"But if the past has taught us anything,\n"
+"Together, we'll get through."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_gingersnow
@@ -6025,12 +6195,16 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_goats_victorian
 msgctxt "SKIN_DESCRIPTIONS.loading_goats_victorian"
-msgid "\"Always hold the board steady. Remember, a sharp knife is safer than a dull one.\nDon't forget.\""
+msgid ""
+"\"Always hold the board steady. Remember, a sharp knife is safer than a dull one.\n"
+"Don't forget.\""
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_goosemoose_yule
 msgctxt "SKIN_DESCRIPTIONS.loading_goosemoose_yule"
-msgid "A large plump goose sounds fit for a feast,\nUnless you're the meal for the terrible beast."
+msgid ""
+"A large plump goose sounds fit for a feast,\n"
+"Unless you're the meal for the terrible beast."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_grotto
@@ -6100,7 +6274,9 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_terraria_trailer
 msgctxt "SKIN_DESCRIPTIONS.loading_terraria_trailer"
-msgid "One teensy little mishap has plunged the world of Terraria into rather... constant danger, and is terrarizing the Constant like nothing before! Who knows what might slip through the cracks when two worlds collide?"
+msgid ""
+"One teensy little mishap has plunged the world of Terraria into rather... constant danger, and is terrarizing the Constant like nothing before! Who knows what might slip through the cracks when two "
+"worlds collide?"
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_walter_trailer
@@ -6115,12 +6291,16 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_wanda_trailer
 msgctxt "SKIN_DESCRIPTIONS.loading_wanda_trailer"
-msgid "Wanda has been trying to outrun her future for longer than she can remember - but after a split-second decision left her tangled up in the Constant's timestream, it might be her past that's finally catching up to her..."
+msgid ""
+"Wanda has been trying to outrun her future for longer than she can remember - but after a split-second decision left her tangled up in the Constant's timestream, it might be her past that's finally "
+"catching up to her..."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_warly2_trailer
 msgctxt "SKIN_DESCRIPTIONS.loading_warly2_trailer"
-msgid "There are some memories that never leave you.\nFor Warly, they are the smell of an old family recipe, and the warmth of his dear Maman's hugs."
+msgid ""
+"There are some memories that never leave you.\n"
+"For Warly, they are the smell of an old family recipe, and the warmth of his dear Maman's hugs."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_warly_trailer
@@ -6160,7 +6340,9 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_wendy_creepy
 msgctxt "SKIN_DESCRIPTIONS.loading_wendy_creepy"
-msgid "She can't escape her monomaniacal obsession with death.\nNeither can you."
+msgid ""
+"She can't escape her monomaniacal obsession with death.\n"
+"Neither can you."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_wendy_trailer
@@ -6175,7 +6357,9 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_wendy_victorian
 msgctxt "SKIN_DESCRIPTIONS.loading_wendy_victorian"
-msgid "Wendy finds a strange comfort in elaborate mourning rituals.\nIt takes the guesswork out of grieving."
+msgid ""
+"Wendy finds a strange comfort in elaborate mourning rituals.\n"
+"It takes the guesswork out of grieving."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_wes_trailer
@@ -6200,12 +6384,16 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_wickerbottom
 msgctxt "SKIN_DESCRIPTIONS.loading_wickerbottom"
-msgid "Delightfully, Ms. Wickerbottom has found her passion for the written word has only deepened as the years go by. Any knowledge committed to paper becomes impervious to the brain fogs of age, you know!"
+msgid ""
+"Delightfully, Ms. Wickerbottom has found her passion for the written word has only deepened as the years go by. Any knowledge committed to paper becomes impervious to the brain fogs of age, you "
+"know!"
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_wickerbottom_victorian
 msgctxt "SKIN_DESCRIPTIONS.loading_wickerbottom_victorian"
-msgid "It's a well-known fact that a group of crows is called a \"murder\".\nIt is a lesser known fact that they hold crow funerals."
+msgid ""
+"It's a well-known fact that a group of crows is called a \"murder\".\n"
+"It is a lesser known fact that they hold crow funerals."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_wigfrid
@@ -6230,7 +6418,9 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_willow_bats
 msgctxt "SKIN_DESCRIPTIONS.loading_willow_bats"
-msgid "Woeful Willow took an axe.\nGave a tree forty whacks."
+msgid ""
+"Woeful Willow took an axe.\n"
+"Gave a tree forty whacks."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_willow_trailer
@@ -6255,7 +6445,9 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_wilson_madscience
 msgctxt "SKIN_DESCRIPTIONS.loading_wilson_madscience"
-msgid "Knowledge can consume the mind to feed the soul.\nAnd consume the soul to feed the mind."
+msgid ""
+"Knowledge can consume the mind to feed the soul.\n"
+"And consume the soul to feed the mind."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_winona2_trailer
@@ -6265,17 +6457,22 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_winona_trailer
 msgctxt "SKIN_DESCRIPTIONS.loading_winona_trailer"
-msgid "Winona never gave up hope that she'd see her sister again...\nBut time can change people."
+msgid ""
+"Winona never gave up hope that she'd see her sister again...\n"
+"But time can change people."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_winona_victorian
 msgctxt "SKIN_DESCRIPTIONS.loading_winona_victorian"
-msgid "The clank of hammers is music to the blacksmith's ears.\nThe smell of coal, a sweet perfume."
+msgid ""
+"The clank of hammers is music to the blacksmith's ears.\n"
+"The smell of coal, a sweet perfume."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_wolfgang
 msgctxt "SKIN_DESCRIPTIONS.loading_wolfgang"
-msgid "Whether in troupes or troops, Wolfgang has always thrived on the spirit of camaraderie. He considers the day he joined the survivors to be the moment his luck finally took a turn for the better."
+msgid ""
+"Whether in troupes or troops, Wolfgang has always thrived on the spirit of camaraderie. He considers the day he joined the survivors to be the moment his luck finally took a turn for the better."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_wolfgang_feast
@@ -6285,7 +6482,9 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_wolfgang_trailer
 msgctxt "SKIN_DESCRIPTIONS.loading_wolfgang_trailer"
-msgid "Wolfgang always prided himself on his strength, but after an embarrassing mishap reveals his might to be a touch exaggerated, he finds himself eager to accept any opportunity to get stronger... no matter how dubious the source."
+msgid ""
+"Wolfgang always prided himself on his strength, but after an embarrassing mishap reveals his might to be a touch exaggerated, he finds himself eager to accept any opportunity to get stronger... no "
+"matter how dubious the source."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_woodie2_trailer
@@ -6335,7 +6534,9 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.loading_wx_magma
 msgctxt "SKIN_DESCRIPTIONS.loading_wx_magma"
-msgid "WX-78 has a burning need to\nINCINERATE."
+msgid ""
+"WX-78 has a burning need to\n"
+"INCINERATE."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.mast_crabking
@@ -6565,7 +6766,9 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.mysterybox_classic_4
 msgctxt "SKIN_DESCRIPTIONS.mysterybox_classic_4"
-msgid "This chest contains\n4x curios."
+msgid ""
+"This chest contains\n"
+"4x curios."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.mysterybox_fixed
@@ -6575,22 +6778,30 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.mysterybox_ice_4
 msgctxt "SKIN_DESCRIPTIONS.mysterybox_ice_4"
-msgid "This chest contains 4x\nWinter's Feast curios."
+msgid ""
+"This chest contains 4x\n"
+"Winter's Feast curios."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.mysterybox_invisible_5
 msgctxt "SKIN_DESCRIPTIONS.mysterybox_invisible_5"
-msgid "Oh my...\nThere appears to be nothing in this chest at all."
+msgid ""
+"Oh my...\n"
+"There appears to be nothing in this chest at all."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.mysterybox_lava_4
 msgctxt "SKIN_DESCRIPTIONS.mysterybox_lava_4"
-msgid "This chest contains 4x\nForge Event curios."
+msgid ""
+"This chest contains 4x\n"
+"Forge Event curios."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.mysterybox_nature_4
 msgctxt "SKIN_DESCRIPTIONS.mysterybox_nature_4"
-msgid "This chest contains 4x\nSpring curios."
+msgid ""
+"This chest contains 4x\n"
+"Spring curios."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.mysterybox_terraria
@@ -6600,27 +6811,38 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.mysterybox_trickortreat
 msgctxt "SKIN_DESCRIPTIONS.mysterybox_trickortreat"
-msgid "This chest contains\na Hallowed Nights costume."
+msgid ""
+"This chest contains\n"
+"a Hallowed Nights costume."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.mysterybox_trickortreat_alt
 msgctxt "SKIN_DESCRIPTIONS.mysterybox_trickortreat_alt"
-msgid "This chest contains\na Hallowed Nights costume."
+msgid ""
+"This chest contains\n"
+"a Hallowed Nights costume."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.mysterybox_ugly_3
 msgctxt "SKIN_DESCRIPTIONS.mysterybox_ugly_3"
-msgid "This chest contains\nan assortment\nof festive apparel."
+msgid ""
+"This chest contains\n"
+"an assortment\n"
+"of festive apparel."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.mysterybox_victorian_4
 msgctxt "SKIN_DESCRIPTIONS.mysterybox_victorian_4"
-msgid "This chest contains 4x\nGorge Event curios."
+msgid ""
+"This chest contains 4x\n"
+"Gorge Event curios."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.mysterybox_wormholes
 msgctxt "SKIN_DESCRIPTIONS.mysterybox_wormholes"
-msgid "This chest contains 4x\nwormhole accoutrements."
+msgid ""
+"This chest contains 4x\n"
+"wormhole accoutrements."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.nightsword_curve
@@ -6935,7 +7157,9 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.pack_gothic_items
 msgctxt "SKIN_DESCRIPTIONS.pack_gothic_items"
-msgid "This Gothic Belongings Chest contains the following skin items: Gloomy Wrapping, Gothic Firepit, Gothic Fence, Stained Glass Gate, Gothic Lantern, Gothic Thundercaller, Derelict Manor, Gothic Alchemical Kiln, Gothic Scientific Instrument, Gothic Artificer's Table, Gothic Pillar, and Gothic Wardrobe."
+msgid ""
+"This Gothic Belongings Chest contains the following skin items: Gloomy Wrapping, Gothic Firepit, Gothic Fence, Stained Glass Gate, Gothic Lantern, Gothic Thundercaller, Derelict Manor, Gothic "
+"Alchemical Kiln, Gothic Scientific Instrument, Gothic Artificer's Table, Gothic Pillar, and Gothic Wardrobe."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.pack_hallowed_all
@@ -7255,7 +7479,8 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.pack_nature_bundle
 msgctxt "SKIN_DESCRIPTIONS.pack_nature_bundle"
-msgid "This Complete Verdant Chest contains the entire Verdant skin series. Contains skins for: Maxwell, Wigfrid, Woodie, Wes, Winona, WX-78, Walter, Warly, Webber, Wendy, Wortox, Wilson, and Wolfgang."
+msgid ""
+"This Complete Verdant Chest contains the entire Verdant skin series. Contains skins for: Maxwell, Wigfrid, Woodie, Wes, Winona, WX-78, Walter, Warly, Webber, Wendy, Wortox, Wilson, and Wolfgang."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.pack_nature_walter
@@ -7350,17 +7575,23 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.pack_starter_2019
 msgctxt "SKIN_DESCRIPTIONS.pack_starter_2019"
-msgid "This Chest contains the playable character, Wurt: The Half-Pint, Wilson's Gladiator skin set, Willow's Snowfallen skin set, Wendy's Victorian skin set, WX-78's Verdant skin set, the Refined Spear, the Hound Haversack, and the Yawny Jammies Ensemble."
+msgid ""
+"This Chest contains the playable character, Wurt: The Half-Pint, Wilson's Gladiator skin set, Willow's Snowfallen skin set, Wendy's Victorian skin set, WX-78's Verdant skin set, the Refined Spear, "
+"the Hound Haversack, and the Yawny Jammies Ensemble."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.pack_starter_2020
 msgctxt "SKIN_DESCRIPTIONS.pack_starter_2020"
-msgid "This Chest contains the playable character, Wortox: The Soul Starved, Wilson's Victorian skin set, Willow's Guest of Honor skin set, Wigfrid's Verdant skin set, Webber's Contenders skin set, the Weathered Spear, the Mini Beefalo Carryall, and the Sleepytime Ensemble."
+msgid ""
+"This Chest contains the playable character, Wortox: The Soul Starved, Wilson's Victorian skin set, Willow's Guest of Honor skin set, Wigfrid's Verdant skin set, Webber's Contenders skin set, the "
+"Weathered Spear, the Mini Beefalo Carryall, and the Sleepytime Ensemble."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.pack_starter_2021
 msgctxt "SKIN_DESCRIPTIONS.pack_starter_2021"
-msgid "This Chest contains the playable character, Wanda: The Timekeeper, Wilson's Snowfallen skin set, Willow's Victorian skin set, Walter's Guest of Honor skin set, Winona's Roseate skin set, the Rustic Torch, the Splumonkey Sack, and the Yawny Jammies Ensemble."
+msgid ""
+"This Chest contains the playable character, Wanda: The Timekeeper, Wilson's Snowfallen skin set, Willow's Victorian skin set, Walter's Guest of Honor skin set, Winona's Roseate skin set, the Rustic "
+"Torch, the Splumonkey Sack, and the Yawny Jammies Ensemble."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.pack_sw_gift
@@ -7895,7 +8126,9 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.pack_wrestler_promo2
 msgctxt "SKIN_DESCRIPTIONS.pack_wrestler_promo2"
-msgid "This Promo Chest contains the Contenders skins for Webber, Winona and WX-78, the Tiger Boomerang, Tiger Fang Trap, Stainless Steel Trap, Exploding Jar of Bees, Electrobolt Diffuser 300X, and Fling-o-Tron 4000."
+msgid ""
+"This Promo Chest contains the Contenders skins for Webber, Winona and WX-78, the Tiger Boomerang, Tiger Fang Trap, Stainless Steel Trap, Exploding Jar of Bees, Electrobolt Diffuser 300X, and Fling-"
+"o-Tron 4000."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.pack_wrestler_wathgrithr
@@ -8310,7 +8543,10 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_factory
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_factory"
-msgid "Equip this item to change your character's background portrait.\n\nThe Constant has a way of drawing in those who search for answers."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"The Constant has a way of drawing in those who search for answers."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_fancyarch
@@ -8355,12 +8591,18 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_forestaltar
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_forestaltar"
-msgid "Equip this item to change your character's background portrait.\n\nThe Gnaw demands regular offerings of food on the Altar of Gnaw to sate its hunger."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"The Gnaw demands regular offerings of food on the Altar of Gnaw to sate its hunger."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_forestfire
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_forestfire"
-msgid "Equip this item to change your character's background portrait.\n\nThis forest was apparently visited by Willow in recent times."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"This forest was apparently visited by Willow in recent times."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_garden
@@ -8370,7 +8612,10 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_gnaw
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_gnaw"
-msgid "Equip this item to change your character's background portrait.\n\nNamed for the hunger that gnaws eternally at its belly, no one knows what the Gnaw is or from whence it came."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"Named for the hunger that gnaws eternally at its belly, no one knows what the Gnaw is or from whence it came."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_grasslands
@@ -8380,22 +8625,34 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_gravestones
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_gravestones"
-msgid "Equip this item to change your character's background portrait.\n\nThe lives of many goats were claimed by the Gnaw's plague. In the end, only a few remained."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"The lives of many goats were claimed by the Gnaw's plague. In the end, only a few remained."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_graveyard
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_graveyard"
-msgid "Equip this item to change your character's background portrait.\n\nMany residents of the Gorge turned to worshiping the Gnaw, hoping to be spared from its terrible plague."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"Many residents of the Gorge turned to worshiping the Gnaw, hoping to be spared from its terrible plague."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_graveyard2
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_graveyard2"
-msgid "Equip this item to change your character's background portrait.\n\nAll things die. Not all things stay dead."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"All things die. Not all things stay dead."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_hallowedornaments
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_hallowedornaments"
-msgid "Equip this item to change your character's background portrait.\n\nOrnaments of dread."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"Ornaments of dread."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_hambatnautical
@@ -8440,22 +8697,34 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_lavaarena
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_lavaarena"
-msgid "Equip this item to change your character's background portrait.\n\nThe Forge is a harsh dimension of molten lava where only the toughest survive. When the survivors activated the Ancient Gateway, they mistakenly reconnected this dimension to their own."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"The Forge is a harsh dimension of molten lava where only the toughest survive. When the survivors activated the Ancient Gateway, they mistakenly reconnected this dimension to their own."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_lightningrodnautical
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_lightningrodnautical"
-msgid "Equip this item to change your character's background portrait.\n\nMastery over both sea and sky is no small feat."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"Mastery over both sea and sky is no small feat."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_livingforest
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_livingforest"
-msgid "Equip this item to change your character's background portrait.\n\nCelebrate this Halloween Season by decorating a monstrosity."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"Celebrate this Halloween Season by decorating a monstrosity."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_lonecarrot
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_lonecarrot"
-msgid "This background portrait depicts a single carrot.\n\nJust one."
+msgid ""
+"This background portrait depicts a single carrot.\n"
+"\n"
+"Just one."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_lumpyevergreen
@@ -8475,12 +8744,18 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_mastnautical
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_mastnautical"
-msgid "Equip this item to change your character's background portrait.\n\nBeware the stony maw of the Rockjaw."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"Beware the stony maw of the Rockjaw."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_mastupgradelampnautical
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_mastupgradelampnautical"
-msgid "Equip this item to change your character's background portrait.\n\nThere's remerkable beauty within the terrifying depths of the sea."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"There's remerkable beauty within the terrifying depths of the sea."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_mastupgradelightningrodnautical
@@ -8490,7 +8765,10 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_messylab
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_messylab"
-msgid "Equip this item to change your character's background portrait.\n\nA troubled mind makes a troubled Laboratory."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"A troubled mind makes a troubled Laboratory."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_monsterspawn
@@ -8515,12 +8793,18 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_penguins
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_penguins"
-msgid "Equip this item to change your character's background portrait.\n\nPengulls live almost year-round at sea, only returning to the shore during winter to nest."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"Pengulls live almost year-round at sea, only returning to the shore during winter to nest."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_pighouse
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_pighouse"
-msgid "Equip this item to change your character's background portrait.\n\nPigmen can be deceptively handy, under the right circumstances."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"Pigmen can be deceptively handy, under the right circumstances."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_plates
@@ -8530,7 +8814,10 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_portal
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_portal"
-msgid "Equip this item to change your character's background portrait.\n\nAfter defeating Battlemaster Pugna and reactivating the Molten Gateway, the survivors found themselves flung into the plagued Gate Realm of the Gorge."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"After defeating Battlemaster Pugna and reactivating the Molten Gateway, the survivors found themselves flung into the plagued Gate Realm of the Gorge."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_pothanger
@@ -8540,7 +8827,10 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_pumpkinlantern
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_pumpkinlantern"
-msgid "Equip this item to change your character's background portrait.\n\nIf you stare long into the abyss of a Jack O' Lantern mouth, it will also stare into you."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"If you stare long into the abyss of a Jack O' Lantern mouth, it will also stare into you."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_quagmiretournamentbronze
@@ -8570,7 +8860,10 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_researchlab2crystal
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_researchlab2crystal"
-msgid "Equip this item to change your character's background portrait.\n\nCrystals hold many unique magical properties."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"Crystals hold many unique magical properties."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_researchlab3crystal
@@ -8580,7 +8873,10 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_researchlab3monster
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_researchlab3monster"
-msgid "Equip this item to change your character's background portrait.\n\nDon't look behind you."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"Don't look behind you."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_researchlabgreen
@@ -8595,17 +8891,26 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_roseportal
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_roseportal"
-msgid "Equip this item to change your character's background portrait.\n\nWilson and Maxwell constructed the first prototype of the Florid Postern, connecting the survivors' dimensions and allowing them to band together."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"Wilson and Maxwell constructed the first prototype of the Florid Postern, connecting the survivors' dimensions and allowing them to band together."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_saltboxnautical
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_saltboxnautical"
-msgid "Equip this item to change your character's background portrait.\n\nWho knows what mysteries lie waiting beneath the briny waves."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"Who knows what mysteries lie waiting beneath the briny waves."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_saltboxshaker
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_saltboxshaker"
-msgid "Equip this item to change your character's background portrait.\n\nJust add a pinch of salt."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"Just add a pinch of salt."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_shoreline
@@ -8620,32 +8925,50 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_spidermarsh
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_spidermarsh"
-msgid "Equip this item to change your character's background portrait.\n\nSpiders are vicious creatures that can survive nearly any climate."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"Spiders are vicious creatures that can survive nearly any climate."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_spikymarsh
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_spikymarsh"
-msgid "Equip this item to change your character's background portrait.\n\nTake care where you place your hands."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"Take care where you place your hands."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_steeringwheelnautical
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_steeringwheelnautical"
-msgid "Equip this item to change your character's background portrait.\n\nKeep a firm hand on the helm, lest you wind up joining the creatures of the deep."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"Keep a firm hand on the helm, lest you wind up joining the creatures of the deep."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_suspisciousdirtpile
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_suspisciousdirtpile"
-msgid "Equip this item to change your character's background portrait.\n\nThe hunt is on!"
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"The hunt is on!"
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_telebasecrystal
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_telebasecrystal"
-msgid "Equip this item to change your character's background portrait.\n\nForbidden knowledge awaits."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"Forbidden knowledge awaits."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_telestaffcrystal
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_telestaffcrystal"
-msgid "Equip this item to change your character's background portrait.\n\nMagic is not for the faint of heart."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"Magic is not for the faint of heart."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_tentcircus
@@ -8660,7 +8983,10 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_toothtraps
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_toothtraps"
-msgid "Equip this item to change your character's background portrait.\n\nThe hunt is on!"
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"The hunt is on!"
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_tophatcircus
@@ -8680,7 +9006,10 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_wardrobecrystal
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_wardrobecrystal"
-msgid "Equip this item to change your character's background portrait.\n\nSuddenly, it all seems so crystal clear..."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"Suddenly, it all seems so crystal clear..."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_wardrobeyule
@@ -8690,12 +9019,18 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_winter
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_winter"
-msgid "Equip this item to change your character's background portrait.\n\nWhere do the birds go in spring?"
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"Where do the birds go in spring?"
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_winterfire
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_winterfire"
-msgid "Equip this item to change your character's background portrait.\n\nWinters are long and harsh here, but a fire always provides solace."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"Winters are long and harsh here, but a fire always provides solace."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_winterometercircus
@@ -8710,32 +9045,50 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_yotp1
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_yotp1"
-msgid "Equip this item to change your character's background portrait.\n\nAn empty shrine needs a sacrifice."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"An empty shrine needs a sacrifice."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_yotp2
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_yotp2"
-msgid "Equip this item to change your character's background portrait.\n\nThe belt color is the best indication of fighting skills."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"The belt color is the best indication of fighting skills."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_yotp3
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_yotp3"
-msgid "Equip this item to change your character's background portrait.\n\nThe Pig King's steely eyes are very effective for controlling his subjects."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"The Pig King's steely eyes are very effective for controlling his subjects."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_yotp4
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_yotp4"
-msgid "Equip this item to change your character's background portrait.\n\nThe four stacked pig heads these columns symbolize the highest number pigs can count to."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"The four stacked pig heads these columns symbolize the highest number pigs can count to."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_yotp5
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_yotp5"
-msgid "Equip this item to change your character's background portrait.\n\nPeople, and pigs, will do anything for a pile of lucky gold."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"People, and pigs, will do anything for a pile of lucky gold."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_yotp6
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_yotp6"
-msgid "Equip this item to change your character's background portrait.\n\nEight Treasure Mud Pies are a favorite of little piglets everywhere."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"Eight Treasure Mud Pies are a favorite of little piglets everywhere."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_yule1
@@ -8755,22 +9108,34 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_yule4
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_yule4"
-msgid "Equip this item to change your character's background portrait.\n\nFestering with festiveness."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"Festering with festiveness."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_yule5
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_yule5"
-msgid "Equip this item to change your character's background portrait.\n\nYou never know what's lurking inside."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"You never know what's lurking inside."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_yule6
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_yule6"
-msgid "Equip this item to change your character's background portrait.\n\nThe colored lights keep the darkness at bay."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"The colored lights keep the darkness at bay."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.playerportrait_bg_yule7
 msgctxt "SKIN_DESCRIPTIONS.playerportrait_bg_yule7"
-msgid "Equip this item to change your character's background portrait.\n\nEat, drink and be merry for tomorrow you may die."
+msgid ""
+"Equip this item to change your character's background portrait.\n"
+"\n"
+"Eat, drink and be merry for tomorrow you may die."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.potatocup
@@ -8780,7 +9145,10 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_abigail_flower
 msgctxt "SKIN_DESCRIPTIONS.profileflair_abigail_flower"
-msgid "Set your profile icon to Abigail's flower.\n\nAbigail's flower is Wendy's only remaining keepsake of her departed sister."
+msgid ""
+"Set your profile icon to Abigail's flower.\n"
+"\n"
+"Abigail's flower is Wendy's only remaining keepsake of her departed sister."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_arrowsignpost_circus
@@ -8820,7 +9188,10 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_bernie
 msgctxt "SKIN_DESCRIPTIONS.profileflair_bernie"
-msgid "Set your profile icon to Bernie the Bear.\n\nBernie's never abandoned Willow, and she plans to always return the favor."
+msgid ""
+"Set your profile icon to Bernie the Bear.\n"
+"\n"
+"Bernie's never abandoned Willow, and she plans to always return the favor."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_birdcage_circus
@@ -8830,7 +9201,10 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_bishop
 msgctxt "SKIN_DESCRIPTIONS.profileflair_bishop"
-msgid "Set your profile icon to a clockwork bishop.\n\nMaxwell produced many Clockwork Bishops during his reign on the Nightmare Throne."
+msgid ""
+"Set your profile icon to a clockwork bishop.\n"
+"\n"
+"Maxwell produced many Clockwork Bishops during his reign on the Nightmare Throne."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_catcoon
@@ -8840,17 +9214,24 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_chester
 msgctxt "SKIN_DESCRIPTIONS.profileflair_chester"
-msgid "Set your profile icon to a Chester.\n\nChester is survivor's best friend."
+msgid ""
+"Set your profile icon to a Chester.\n"
+"\n"
+"Chester is survivor's best friend."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_clayhound
 msgctxt "SKIN_DESCRIPTIONS.profileflair_clayhound"
-msgid "Set your profile icon to a celebratory Clay Hound.\nHappy Year of the Varg!"
+msgid ""
+"Set your profile icon to a celebratory Clay Hound.\n"
+"Happy Year of the Varg!"
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_claywarg
 msgctxt "SKIN_DESCRIPTIONS.profileflair_claywarg"
-msgid "Set your profile icon to a celebratory Clay Varg.\nHappy Year of the Varg!"
+msgid ""
+"Set your profile icon to a celebratory Clay Varg.\n"
+"Happy Year of the Varg!"
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_coldfirepit_teeth
@@ -9085,17 +9466,26 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_icebox_crystal
 msgctxt "SKIN_DESCRIPTIONS.profileflair_icebox_crystal"
-msgid "Set your profile icon to a sparkly crystal ice box.\n\nLooks just like real ice!"
+msgid ""
+"Set your profile icon to a sparkly crystal ice box.\n"
+"\n"
+"Looks just like real ice!"
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_icehound
 msgctxt "SKIN_DESCRIPTIONS.profileflair_icehound"
-msgid "Set your profile icon to a chilly Blue Hound.\n\nDuring his time on the Nightmare Throne, Maxwell created these monsters by imbuing regular Hounds with the magic of Blue Gems."
+msgid ""
+"Set your profile icon to a chilly Blue Hound.\n"
+"\n"
+"During his time on the Nightmare Throne, Maxwell created these monsters by imbuing regular Hounds with the magic of Blue Gems."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_knight
 msgctxt "SKIN_DESCRIPTIONS.profileflair_knight"
-msgid "Set your profile icon to a clockwork knight.\n\nMaxwell produced many Clockwork Knights during his reign on the Nightmare Throne."
+msgid ""
+"Set your profile icon to a clockwork knight.\n"
+"\n"
+"Maxwell produced many Clockwork Knights during his reign on the Nightmare Throne."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_koalefant
@@ -9105,7 +9495,10 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_krampus
 msgctxt "SKIN_DESCRIPTIONS.profileflair_krampus"
-msgid "Set your profile icon to Krampus.\n\nThe Krampus is compelled to visit all naughty denizens of The Constant."
+msgid ""
+"Set your profile icon to Krampus.\n"
+"\n"
+"The Krampus is compelled to visit all naughty denizens of The Constant."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_lantern_crystal
@@ -9140,7 +9533,10 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_mandrake
 msgctxt "SKIN_DESCRIPTIONS.profileflair_mandrake"
-msgid "Set your profile icon to squeaky mandrake.\n\n\"MEEP!\""
+msgid ""
+"Set your profile icon to squeaky mandrake.\n"
+"\n"
+"\"MEEP!\""
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_mast_nautical
@@ -9195,7 +9591,10 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_ornaments_11
 msgctxt "SKIN_DESCRIPTIONS.profileflair_ornaments_11"
-msgid "Set your profile icon to a No-Eyed Deer Feast ornament.\n\nIt's the cutest icon around, as anyone can plainly see."
+msgid ""
+"Set your profile icon to a No-Eyed Deer Feast ornament.\n"
+"\n"
+"It's the cutest icon around, as anyone can plainly see."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_ornaments_12
@@ -9275,17 +9674,26 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_phonograph
 msgctxt "SKIN_DESCRIPTIONS.profileflair_phonograph"
-msgid "Set your profile icon to a nightmarish gramophone.\n\nIt only plays one song."
+msgid ""
+"Set your profile icon to a nightmarish gramophone.\n"
+"\n"
+"It only plays one song."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_pig_happy
 msgctxt "SKIN_DESCRIPTIONS.profileflair_pig_happy"
-msgid "Set your profile icon to a pigman.\n\nMost pigmen are amicable to the idea of teaming up, once they've been shown a bit of kindness."
+msgid ""
+"Set your profile icon to a pigman.\n"
+"\n"
+"Most pigmen are amicable to the idea of teaming up, once they've been shown a bit of kindness."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_pigking
 msgctxt "SKIN_DESCRIPTIONS.profileflair_pigking"
-msgid "Set your profile icon to the Pig King.\n\nThe Pig King has vast riches and can be persuaded to share them, should someone find something to pique his interest."
+msgid ""
+"Set your profile icon to the Pig King.\n"
+"\n"
+"The Pig King has vast riches and can be persuaded to share them, should someone find something to pique his interest."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_pigking_yotp
@@ -9310,27 +9718,41 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_puppington
 msgctxt "SKIN_DESCRIPTIONS.profileflair_puppington"
-msgid "Set your profile icon to a sweet little Vargling.\nHappy Year of the Varg!"
+msgid ""
+"Set your profile icon to a sweet little Vargling.\n"
+"Happy Year of the Varg!"
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_quagmiretournament_bronze
 msgctxt "SKIN_DESCRIPTIONS.profileflair_quagmiretournament_bronze"
-msgid "Set your profile icon to an appeased maw of Gnaw.\n\nYou proved your worth in the Gnaw's great tournament."
+msgid ""
+"Set your profile icon to an appeased maw of Gnaw.\n"
+"\n"
+"You proved your worth in the Gnaw's great tournament."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_quagmiretournament_gold
 msgctxt "SKIN_DESCRIPTIONS.profileflair_quagmiretournament_gold"
-msgid "Set your profile icon to an appeased maw of Gnaw.\n\nYou proved your worth and came out on top in the Gnaw's great tournament."
+msgid ""
+"Set your profile icon to an appeased maw of Gnaw.\n"
+"\n"
+"You proved your worth and came out on top in the Gnaw's great tournament."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_quagmiretournament_participation
 msgctxt "SKIN_DESCRIPTIONS.profileflair_quagmiretournament_participation"
-msgid "Set your profile icon to an appeased maw of Gnaw.\n\nYou fulfilled your duty in the Gnaw's great tournament."
+msgid ""
+"Set your profile icon to an appeased maw of Gnaw.\n"
+"\n"
+"You fulfilled your duty in the Gnaw's great tournament."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_quagmiretournament_silver
 msgctxt "SKIN_DESCRIPTIONS.profileflair_quagmiretournament_silver"
-msgid "Set your profile icon to an appeased maw of Gnaw.\n\nYou proved your worth in the Gnaw's great tournament."
+msgid ""
+"Set your profile icon to an appeased maw of Gnaw.\n"
+"\n"
+"You proved your worth in the Gnaw's great tournament."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_rabbit
@@ -9355,7 +9777,10 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_redhound
 msgctxt "SKIN_DESCRIPTIONS.profileflair_redhound"
-msgid "Set your profile icon to a fiery Red Hound.\n\nDuring his time on the Nightmare Throne, Maxwell created these monsters by imbuing regular Hounds with the magic of Red Gems."
+msgid ""
+"Set your profile icon to a fiery Red Hound.\n"
+"\n"
+"During his time on the Nightmare Throne, Maxwell created these monsters by imbuing regular Hounds with the magic of Red Gems."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_redlantern_yotp
@@ -9385,17 +9810,26 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_rook
 msgctxt "SKIN_DESCRIPTIONS.profileflair_rook"
-msgid "Set your profile icon to a clockwork rook.\n\nMaxwell produced many Clockwork Rooks during his reign on the Nightmare Throne."
+msgid ""
+"Set your profile icon to a clockwork rook.\n"
+"\n"
+"Maxwell produced many Clockwork Rooks during his reign on the Nightmare Throne."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_rose
 msgctxt "SKIN_DESCRIPTIONS.profileflair_rose"
-msgid "Set your profile icon to a rose flower.\n\nFew things are as timeless as a red rose."
+msgid ""
+"Set your profile icon to a rose flower.\n"
+"\n"
+"Few things are as timeless as a red rose."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_saltbox_shaker
 msgctxt "SKIN_DESCRIPTIONS.profileflair_saltbox_shaker"
-msgid "Set your profile icon to a handy salt shaker.\n\nEveryone says you're the salt of the earth."
+msgid ""
+"Set your profile icon to a handy salt shaker.\n"
+"\n"
+"Everyone says you're the salt of the earth."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_saltboxnautical
@@ -9610,7 +10044,10 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_treeguard
 msgctxt "SKIN_DESCRIPTIONS.profileflair_treeguard"
-msgid "Set your profile icon to a treeguard.\n\nThese lumbering spirits will rise to defend their ilk when the forest is threatened."
+msgid ""
+"Set your profile icon to a treeguard.\n"
+"\n"
+"These lumbering spirits will rise to defend their ilk when the forest is threatened."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_trinket_faketeeth
@@ -9635,7 +10072,9 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_varg
 msgctxt "SKIN_DESCRIPTIONS.profileflair_varg"
-msgid "Set your profile icon to a pack-leading Varg.\nHappy Year of the Varg!"
+msgid ""
+"Set your profile icon to a pack-leading Varg.\n"
+"Happy Year of the Varg!"
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_victorian_boar
@@ -9645,7 +10084,10 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_victorian_coppercoin
 msgctxt "SKIN_DESCRIPTIONS.profileflair_victorian_coppercoin"
-msgid "Set your profile icon to a handful of Old Coins.\n\nBequeathed by the Gnaw itself!"
+msgid ""
+"Set your profile icon to a handful of Old Coins.\n"
+"\n"
+"Bequeathed by the Gnaw itself!"
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_victorian_goatkid
@@ -9660,7 +10102,10 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_victorian_goldcoin
 msgctxt "SKIN_DESCRIPTIONS.profileflair_victorian_goldcoin"
-msgid "Set your profile icon to a handful of Red Marks.\n\nBequeathed by the Gnaw itself!"
+msgid ""
+"Set your profile icon to a handful of Red Marks.\n"
+"\n"
+"Bequeathed by the Gnaw itself!"
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_victorian_merm
@@ -9685,17 +10130,26 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_victorian_silvercoin
 msgctxt "SKIN_DESCRIPTIONS.profileflair_victorian_silvercoin"
-msgid "Set your profile icon to a handful of Sapphire Medallions.\n\nBequeathed by the Gnaw itself!"
+msgid ""
+"Set your profile icon to a handful of Sapphire Medallions.\n"
+"\n"
+"Bequeathed by the Gnaw itself!"
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_victorian_topazcoin
 msgctxt "SKIN_DESCRIPTIONS.profileflair_victorian_topazcoin"
-msgid "Set your profile icon to a handful of Gnaw's Favors.\n\nBequeathed by the Gnaw itself!"
+msgid ""
+"Set your profile icon to a handful of Gnaw's Favors.\n"
+"\n"
+"Bequeathed by the Gnaw itself!"
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_waffle
 msgctxt "SKIN_DESCRIPTIONS.profileflair_waffle"
-msgid "Set your profile icon to some tasty waffles.\n\nPart of a balanced breakfast."
+msgid ""
+"Set your profile icon to some tasty waffles.\n"
+"\n"
+"Part of a balanced breakfast."
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_wardrobe_crystal
@@ -9720,8 +10174,14 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_wererabbit
 msgctxt "SKIN_DESCRIPTIONS.profileflair_wererabbit"
-msgid "Set your profile icon to a grinning bunnyman.\n\nBunnymen make their homes deep in the caverns of The Constant."
+msgid ""
+"Set your profile icon to a grinning bunnyman.\n"
+"\n"
+"Bunnymen make their homes deep in the caverns of The Constant."
 msgstr ""
+"Nastav si ikonu profilu na zubícího se zajdu.\n"
+"\n"
+"Zajdové se usidlují hluboko v jeskyních Neměnnosti."
 
 #. SKIN_DESCRIPTIONS.profileflair_winterometer_circus
 msgctxt "SKIN_DESCRIPTIONS.profileflair_winterometer_circus"
@@ -9730,7 +10190,10 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_yule_bearger
 msgctxt "SKIN_DESCRIPTIONS.profileflair_yule_bearger"
-msgid "Set your profile icon to a grumpy Bearger, recently roused from deep hibernation.\n\nHappy Winter's Feast!"
+msgid ""
+"Set your profile icon to a grumpy Bearger, recently roused from deep hibernation.\n"
+"\n"
+"Happy Winter's Feast!"
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_yule_candycane
@@ -9745,17 +10208,26 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_yule_claus
 msgctxt "SKIN_DESCRIPTIONS.profileflair_yule_claus"
-msgid "Set your profile icon to the fearsome Klaus.\n\nThe Constant always seems to have an odd effect on Klaus this time of year; although we all tend to show our holiday spirit in different ways. Happy Winter's Feast!"
+msgid ""
+"Set your profile icon to the fearsome Klaus.\n"
+"\n"
+"The Constant always seems to have an odd effect on Klaus this time of year; although we all tend to show our holiday spirit in different ways. Happy Winter's Feast!"
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_yule_deer
 msgctxt "SKIN_DESCRIPTIONS.profileflair_yule_deer"
-msgid "Set your profile icon to a fuzzy No-Eyed Deer.\n\nHappy Winter's Feast!"
+msgid ""
+"Set your profile icon to a fuzzy No-Eyed Deer.\n"
+"\n"
+"Happy Winter's Feast!"
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_yule_deerclops
 msgctxt "SKIN_DESCRIPTIONS.profileflair_yule_deerclops"
-msgid "Set your profile icon to a hungry holiday Deerclops.\n\nHappy Winter's Feast!"
+msgid ""
+"Set your profile icon to a hungry holiday Deerclops.\n"
+"\n"
+"Happy Winter's Feast!"
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_yule_doorgategingerbread
@@ -9765,12 +10237,18 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_yule_dragonfly
 msgctxt "SKIN_DESCRIPTIONS.profileflair_yule_dragonfly"
-msgid "Set your profile icon to a holly jolly Dragonfly.\n\nHappy Winter's Feast!"
+msgid ""
+"Set your profile icon to a holly jolly Dragonfly.\n"
+"\n"
+"Happy Winter's Feast!"
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_yule_dragonflyfire
 msgctxt "SKIN_DESCRIPTIONS.profileflair_yule_dragonflyfire"
-msgid "Set your profile icon to a warm, toasty holiday Dragonfly.\n\nHappy Winter's Feast!"
+msgid ""
+"Set your profile icon to a warm, toasty holiday Dragonfly.\n"
+"\n"
+"Happy Winter's Feast!"
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_yule_eggnog
@@ -9805,7 +10283,10 @@ msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_yule_goosemoose
 msgctxt "SKIN_DESCRIPTIONS.profileflair_yule_goosemoose"
-msgid "Set your profile icon to a holly, jolly Goose. Or Moose.\n\nHappy Winter's Feast!"
+msgid ""
+"Set your profile icon to a holly, jolly Goose. Or Moose.\n"
+"\n"
+"Happy Winter's Feast!"
 msgstr ""
 
 #. SKIN_DESCRIPTIONS.profileflair_yule_hotchocolate
@@ -12467,4 +12948,3 @@ msgstr ""
 msgctxt "SKIN_DESCRIPTIONS.wx78_yule"
 msgid "WX-78 has oft been accused of acting wooden during the holidays."
 msgstr ""
-

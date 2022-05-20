@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-18 23:24+0000\n"
+"PO-Revision-Date: 2022-05-19 21:48+0000\n"
 "Last-Translator: Ender Wiggin <f@endeer.cz>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
@@ -22,7 +22,7 @@ msgstr "Příčina smrti"
 #. UI.MORGUESCREEN.CLEAR
 msgctxt "UI.MORGUESCREEN.CLEAR"
 msgid "Clear"
-msgstr ""
+msgstr "Vyprázdnit"
 
 #. UI.MORGUESCREEN.DAY
 msgctxt "UI.MORGUESCREEN.DAY"
@@ -42,7 +42,7 @@ msgstr "Zesnulý"
 #. UI.MORGUESCREEN.DECEASED_PS4
 msgctxt "UI.MORGUESCREEN.DECEASED_PS4"
 msgid "Survivor"
-msgstr "Přeživší"
+msgstr "Nešťastník"
 
 #. UI.MORGUESCREEN.DIED_AGE
 msgctxt "UI.MORGUESCREEN.DIED_AGE"
@@ -112,7 +112,7 @@ msgstr "Tvář"
 #. UI.MORGUESCREEN.PLAYER_CHAR_PS4
 msgctxt "UI.MORGUESCREEN.PLAYER_CHAR_PS4"
 msgid "Survivor"
-msgstr "Přeživší"
+msgstr "Nešťastník"
 
 #. UI.MORGUESCREEN.PLAYER_NAME
 msgctxt "UI.MORGUESCREEN.PLAYER_NAME"
@@ -127,12 +127,12 @@ msgstr "Datum"
 #. UI.MORGUESCREEN.SERVER_NAME
 msgctxt "UI.MORGUESCREEN.SERVER_NAME"
 msgid "Server"
-msgstr ""
+msgstr "Server"
 
 #. UI.MORGUESCREEN.TITLE
 msgctxt "UI.MORGUESCREEN.TITLE"
 msgid "Obituaries"
-msgstr ""
+msgstr "Černá kronika"
 
 #. UI.MORGUESCREEN.UNKNOWN_DAYS
 msgctxt "UI.MORGUESCREEN.UNKNOWN_DAYS"

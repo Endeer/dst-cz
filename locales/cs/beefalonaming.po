@@ -1,12 +1,18 @@
+# 
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-05-20 11:35+0000\n"
+"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
 "POT Version: 2.0\n"
+"X-Generator: Pontoon\n"
 
 #. BEEFALONAMING.BEEFNAMES.1
 msgctxt "BEEFALONAMING.BEEFNAMES.1"
 msgid "Annabeef"
-msgstr ""
+msgstr "Volyně"
 
 #. BEEFALONAMING.BEEFNAMES.10
 msgctxt "BEEFALONAMING.BEEFNAMES.10"
@@ -101,15 +107,14 @@ msgstr ""
 #. BEEFALONAMING.MENU.ACCEPT
 msgctxt "BEEFALONAMING.MENU.ACCEPT"
 msgid "Done"
-msgstr ""
+msgstr "Hotovo"
 
 #. BEEFALONAMING.MENU.CANCEL
 msgctxt "BEEFALONAMING.MENU.CANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušit"
 
 #. BEEFALONAMING.MENU.RANDOM
 msgctxt "BEEFALONAMING.MENU.RANDOM"
 msgid "Random"
-msgstr ""
-
+msgstr "Náhodně"
