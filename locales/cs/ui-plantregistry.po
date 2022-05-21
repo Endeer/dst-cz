@@ -1,8 +1,8 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-20 22:41+0000\n"
-"Last-Translator: Alyssa <alysaurus98@gmail.com>\n"
+"PO-Revision-Date: 2022-05-21 00:07+0000\n"
+"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
@@ -32,12 +32,12 @@ msgstr "Produkuje lahodné ovoce s nápadným vzhledem. -W"
 #. UI.PLANTREGISTRY.DESCRIPTIONS.DURIAN
 msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.DURIAN"
 msgid "A foul smelling fruit, favored by a certain green swamp dweller. -W"
-msgstr "Nechutně páchnoucí ovoce, které má v oblibě jistý obyvatel zelených bažin. -W"
+msgstr "Nechutně páchnoucí ovoce, které má v oblibě jistý zelený obyvatel bažin. -W"
 
 #. UI.PLANTREGISTRY.DESCRIPTIONS.EGGPLANT
 msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.EGGPLANT"
 msgid "Zero percent egg, ninety-nine percent plant. Science has yet to explain the rest. -W"
-msgstr "Nula procent vejce, devadesát-devět procent rostlina. Věda musí ještě vysvětlit zbytek. -W"
+msgstr "Nula procent vejce, devadesát devět procent rostliny. Zbytek věda ještě nevysvětlila. -W"
 
 #. UI.PLANTREGISTRY.DESCRIPTIONS.GARLIC
 msgctxt "UI.PLANTREGISTRY.DESCRIPTIONS.GARLIC"

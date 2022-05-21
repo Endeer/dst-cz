@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-20 11:31+0000\n"
+"PO-Revision-Date: 2022-05-21 00:04+0000\n"
 "Last-Translator: Ender Wiggin <f@endeer.cz>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
@@ -382,7 +382,7 @@ msgstr "Použij"
 #. ACTIONS.CHANGE_TACKLE.AMMO
 msgctxt "ACTIONS.CHANGE_TACKLE.AMMO"
 msgid "Set Ammo"
-msgstr "Změň náboje"
+msgstr "Změň střelivo"
 
 #. ACTIONS.CHANGE_TACKLE.GENERIC
 msgctxt "ACTIONS.CHANGE_TACKLE.GENERIC"
@@ -417,7 +417,7 @@ msgstr "Dej dohromady"
 #. ACTIONS.COMMUNEWITHSUMMONED.MAKE_AGGRESSIVE
 msgctxt "ACTIONS.COMMUNEWITHSUMMONED.MAKE_AGGRESSIVE"
 msgid "Rile Up"
-msgstr "Rozezli"
+msgstr "Rozzlob"
 
 #. ACTIONS.COMMUNEWITHSUMMONED.MAKE_DEFENSIVE
 msgctxt "ACTIONS.COMMUNEWITHSUMMONED.MAKE_DEFENSIVE"
