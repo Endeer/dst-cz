@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-21 00:13+0000\n"
+"PO-Revision-Date: 2022-05-21 19:18+0000\n"
 "Last-Translator: Ender Wiggin <f@endeer.cz>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
@@ -412,22 +412,22 @@ msgstr "Jsou to Webberovi přátelé, ne moji."
 #. CHARACTERS.WENDY.ACTIONFAIL.HITCHUP.BEEF_HITCHED
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.HITCHUP.BEEF_HITCHED"
 msgid "My beefalo can only leave when I choose it so."
-msgstr ""
+msgstr "Můj búzon může odejít jen pokud se tak rozhodnu."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.HITCHUP.INMOOD
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.HITCHUP.INMOOD"
 msgid "I don't think I can manage it while they're like this."
-msgstr ""
+msgstr "Nemyslím že to zvládnu, dokud na mě bude takový."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.HITCHUP.NEEDBEEF
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.HITCHUP.NEEDBEEF"
 msgid "Oh where could a beefalo be?"
-msgstr ""
+msgstr "Ach kdepak by mohl búzon být...?"
 
 #. CHARACTERS.WENDY.ACTIONFAIL.HITCHUP.NEEDBEEF_CLOSER
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.HITCHUP.NEEDBEEF_CLOSER"
 msgid "Come closer, dear beefalo. I won't hurt you."
-msgstr ""
+msgstr "Pojď ke mně blíž, milý búzone. Já ti neublížím."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.LOWER_SAIL_FAIL.1
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.LOWER_SAIL_FAIL.1"
@@ -452,7 +452,7 @@ msgstr "Už jsem se rozhodla."
 #. CHARACTERS.WENDY.ACTIONFAIL.MARK.NOT_PARTICIPANT
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.MARK.NOT_PARTICIPANT"
 msgid "Maybe next time I can enter a beefalo of my own..."
-msgstr ""
+msgstr "Příště bych mohla přihlásit svého vlastního búzona..."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.MOUNT.INUSE
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.MOUNT.INUSE"
