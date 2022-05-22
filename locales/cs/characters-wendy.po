@@ -1,8 +1,8 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-21 19:18+0000\n"
-"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
+"PO-Revision-Date: 2022-05-22 10:23+0000\n"
+"Last-Translator: Whaskalmanik <whakalman@gmail.com>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
@@ -37,7 +37,7 @@ msgstr "Pokud budeme hrát teď, nebudou se mít kde schovat."
 #. CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.KITCOON_HIDEANDSEEK_ONE_GAME_PER_DAY
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.KITCOON_HIDEANDSEEK_ONE_GAME_PER_DAY"
 msgid "If we play more, Abigail will get tired."
-msgstr "Pokud budeme hrát častěji, Abigail se unaví."
+msgstr "Pokud si budeme hrát častěji, Abigail se unaví."
 
 #. CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.LOCKED_GATE
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.LOCKED_GATE"
@@ -422,7 +422,7 @@ msgstr "Nemyslím že to zvládnu, dokud na mě bude takový."
 #. CHARACTERS.WENDY.ACTIONFAIL.HITCHUP.NEEDBEEF
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.HITCHUP.NEEDBEEF"
 msgid "Oh where could a beefalo be?"
-msgstr "Ach kdepak by mohl búzon být...?"
+msgstr "Ach kdepak by mohl být takový búzon...?"
 
 #. CHARACTERS.WENDY.ACTIONFAIL.HITCHUP.NEEDBEEF_CLOSER
 msgctxt "CHARACTERS.WENDY.ACTIONFAIL.HITCHUP.NEEDBEEF_CLOSER"

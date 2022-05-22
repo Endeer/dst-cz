@@ -1,8 +1,8 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-21 00:04+0000\n"
-"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
+"PO-Revision-Date: 2022-05-22 11:42+0000\n"
+"Last-Translator: Whaskalmanik <whakalman@gmail.com>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
@@ -77,7 +77,7 @@ msgstr "Vypleň"
 #. ACTIONS.ACTIVATE.SPELUNK
 msgctxt "ACTIONS.ACTIVATE.SPELUNK"
 msgid "Spelunk"
-msgstr ""
+msgstr "Běž na průzkum"
 
 #. ACTIONS.ACTIVATE.SUMMONHOST
 msgctxt "ACTIONS.ACTIVATE.SUMMONHOST"
@@ -372,7 +372,7 @@ msgstr "Chyť"
 #. ACTIONS.CHANGEIN.DRESSUP
 msgctxt "ACTIONS.CHANGEIN.DRESSUP"
 msgid "Dress Up"
-msgstr ""
+msgstr "Vyparádi"
 
 #. ACTIONS.CHANGEIN.GENERIC
 msgctxt "ACTIONS.CHANGEIN.GENERIC"
@@ -387,27 +387,27 @@ msgstr "Změň střelivo"
 #. ACTIONS.CHANGE_TACKLE.GENERIC
 msgctxt "ACTIONS.CHANGE_TACKLE.GENERIC"
 msgid "Attach Tackle"
-msgstr ""
+msgstr "Nasaď náčiní"
 
 #. ACTIONS.CHANGE_TACKLE.REMOVE
 msgctxt "ACTIONS.CHANGE_TACKLE.REMOVE"
 msgid "Remove"
-msgstr ""
+msgstr "Odstraň"
 
 #. ACTIONS.CHARGE_FROM
 msgctxt "ACTIONS.CHARGE_FROM"
 msgid "Charge At"
-msgstr ""
+msgstr "Nabij se z:"
 
 #. ACTIONS.CHECKTRAP
 msgctxt "ACTIONS.CHECKTRAP"
 msgid "Check"
-msgstr ""
+msgstr "Zkontroluj"
 
 #. ACTIONS.CHOP
 msgctxt "ACTIONS.CHOP"
 msgid "Chop"
-msgstr ""
+msgstr "Pokácej"
 
 #. ACTIONS.COMBINESTACK
 msgctxt "ACTIONS.COMBINESTACK"
@@ -442,7 +442,7 @@ msgstr "Postav {name}"
 #. ACTIONS.CONSTRUCT.STORE
 msgctxt "ACTIONS.CONSTRUCT.STORE"
 msgid "Add Material"
-msgstr ""
+msgstr "Přidej materiál"
 
 #. ACTIONS.COOK
 msgctxt "ACTIONS.COOK"
@@ -557,7 +557,7 @@ msgstr ""
 #. ACTIONS.DRAWITEM
 msgctxt "ACTIONS.DRAWITEM"
 msgid "Draw {item}"
-msgstr ""
+msgstr "Překreslit {item}"
 
 #. ACTIONS.DROP.FREESOUL
 msgctxt "ACTIONS.DROP.FREESOUL"
@@ -667,7 +667,7 @@ msgstr ""
 #. ACTIONS.GIVE.GENERIC
 msgctxt "ACTIONS.GIVE.GENERIC"
 msgid "Give"
-msgstr ""
+msgstr "Dej"
 
 #. ACTIONS.GIVE.NOTREADY
 msgctxt "ACTIONS.GIVE.NOTREADY"
@@ -717,17 +717,17 @@ msgstr ""
 #. ACTIONS.GIVEALLTOPLAYER
 msgctxt "ACTIONS.GIVEALLTOPLAYER"
 msgid "Give All"
-msgstr ""
+msgstr "Předej vše"
 
 #. ACTIONS.GIVETOPLAYER
 msgctxt "ACTIONS.GIVETOPLAYER"
 msgid "Give"
-msgstr ""
+msgstr "Předej"
 
 #. ACTIONS.GIVE_TACKLESKETCH
 msgctxt "ACTIONS.GIVE_TACKLESKETCH"
 msgid "Give"
-msgstr ""
+msgstr "Dej"
 
 #. ACTIONS.GNAW
 msgctxt "ACTIONS.GNAW"

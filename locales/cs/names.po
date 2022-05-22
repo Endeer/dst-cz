@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-20 23:23+0000\n"
+"PO-Revision-Date: 2022-05-22 01:27+0000\n"
 "Last-Translator: Ender Wiggin <f@endeer.cz>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
@@ -6052,7 +6052,7 @@ msgstr ""
 #. NAMES.PLANTREGISTRYHAT
 msgctxt "NAMES.PLANTREGISTRYHAT"
 msgid "Gardeneer Hat"
-msgstr ""
+msgstr "Zahrádkářská helma"
 
 #. NAMES.PLANT_NORMAL
 msgctxt "NAMES.PLANT_NORMAL"

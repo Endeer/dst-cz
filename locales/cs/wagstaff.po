@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-20 23:29+0000\n"
+"PO-Revision-Date: 2022-05-20 23:37+0000\n"
 "Last-Translator: Ender Wiggin <f@endeer.cz>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
@@ -57,7 +57,7 @@ msgstr "Vezmi si tohle, budeš to potřebovat k tomu, co musíme udělat."
 #. WAGSTAFF_NPC_EXPERIMENT_FAIL_1
 msgctxt "WAGSTAFF_NPC_EXPERIMENT_FAIL_1"
 msgid "Balderdash! The containment has failed!"
-msgstr ""
+msgstr "U sta hromů! Nepovedlo se, nezachytili jsme to!"
 
 #. WAGSTAFF_NPC_EXPERIMENT_FAIL_2
 msgctxt "WAGSTAFF_NPC_EXPERIMENT_FAIL_2"
