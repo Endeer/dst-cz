@@ -1,22 +1,28 @@
+# 
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-05-26 16:55+0000\n"
+"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
 "POT Version: 2.0\n"
+"X-Generator: Pontoon\n"
 
 #. BUNNYMANNAMES.1
 msgctxt "BUNNYMANNAMES.1"
 msgid "Brassica"
-msgstr ""
+msgstr "Bob"
 
 #. BUNNYMANNAMES.10
 msgctxt "BUNNYMANNAMES.10"
 msgid "Radish"
-msgstr ""
+msgstr "Bobek"
 
 #. BUNNYMANNAMES.11
 msgctxt "BUNNYMANNAMES.11"
 msgid "Sium"
-msgstr ""
+msgstr "Pokustón"
 
 #. BUNNYMANNAMES.12
 msgctxt "BUNNYMANNAMES.12"
@@ -362,4 +368,3 @@ msgstr ""
 msgctxt "BUNNYMANNAMES.9"
 msgid "Parsnip"
 msgstr ""
-

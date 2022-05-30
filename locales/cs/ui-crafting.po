@@ -1,12 +1,18 @@
+# 
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-05-26 14:21+0000\n"
+"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
 "POT Version: 2.0\n"
+"X-Generator: Pontoon\n"
 
 #. UI.CRAFTING.BUILD
 msgctxt "UI.CRAFTING.BUILD"
 msgid "Build"
-msgstr ""
+msgstr "Postav"
 
 #. UI.CRAFTING.CANTRESEARCH
 msgctxt "UI.CRAFTING.CANTRESEARCH"
@@ -16,7 +22,7 @@ msgstr ""
 #. UI.CRAFTING.CRAFT_INGREDIENT
 msgctxt "UI.CRAFTING.CRAFT_INGREDIENT"
 msgid "Craft Ingredient"
-msgstr ""
+msgstr "Vyrob součást"
 
 #. UI.CRAFTING.DEFAULT
 msgctxt "UI.CRAFTING.DEFAULT"
@@ -170,12 +176,16 @@ msgstr ""
 
 #. UI.CRAFTING.NEEDSTUFF
 msgctxt "UI.CRAFTING.NEEDSTUFF"
-msgid "Find ingredients \nto craft!"
+msgid ""
+"Find ingredients \n"
+"to craft!"
 msgstr ""
 
 #. UI.CRAFTING.NEEDSTUFF_PROTOTYPE
 msgctxt "UI.CRAFTING.NEEDSTUFF_PROTOTYPE"
-msgid "Find ingredients \nto prototype!"
+msgid ""
+"Find ingredients \n"
+"to prototype!"
 msgstr ""
 
 #. UI.CRAFTING.NEEDSTURFCRAFTING
@@ -360,12 +370,16 @@ msgstr ""
 
 #. UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_MEALINGSTONE
 msgctxt "UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_MEALINGSTONE"
-msgid "Find ingredients \nto grind!"
+msgid ""
+"Find ingredients \n"
+"to grind!"
 msgstr ""
 
 #. UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_ELDER
 msgctxt "UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_ELDER"
-msgid "Find materials \nto trade!"
+msgid ""
+"Find materials \n"
+"to trade!"
 msgstr ""
 
 #. UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_KID
@@ -642,4 +656,3 @@ msgstr ""
 msgctxt "UI.CRAFTING_STATION_FILTERS.YOT_SHRINE_DOFFERING"
 msgid "Offerings"
 msgstr ""
-
