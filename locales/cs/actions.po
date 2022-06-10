@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-26 19:28+0000\n"
+"PO-Revision-Date: 2022-06-08 12:49+0000\n"
 "Last-Translator: Ender Wiggin <f@endeer.cz>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
@@ -522,7 +522,7 @@ msgstr "Postav zeď"
 #. ACTIONS.DEPLOY.WATER
 msgctxt "ACTIONS.DEPLOY.WATER"
 msgid "Launch"
-msgstr ""
+msgstr "Spusť"
 
 #. ACTIONS.DIG
 msgctxt "ACTIONS.DIG"
@@ -542,12 +542,12 @@ msgstr ""
 #. ACTIONS.DISMOUNT
 msgctxt "ACTIONS.DISMOUNT"
 msgid "Dismount"
-msgstr ""
+msgstr "Sesedni"
 
 #. ACTIONS.DISMOUNT_PLANK
 msgctxt "ACTIONS.DISMOUNT_PLANK"
 msgid "Dismount"
-msgstr ""
+msgstr "Seskoč"
 
 #. ACTIONS.DRAW
 msgctxt "ACTIONS.DRAW"
@@ -562,7 +562,7 @@ msgstr "Překreslit {item}"
 #. ACTIONS.DROP.FREESOUL
 msgctxt "ACTIONS.DROP.FREESOUL"
 msgid "Release Soul"
-msgstr ""
+msgstr "Vypusť duši"
 
 #. ACTIONS.DROP.GENERIC
 msgctxt "ACTIONS.DROP.GENERIC"
@@ -592,7 +592,7 @@ msgstr ""
 #. ACTIONS.DRY
 msgctxt "ACTIONS.DRY"
 msgid "Dry"
-msgstr ""
+msgstr "Dej sušit"
 
 #. ACTIONS.EAT
 msgctxt "ACTIONS.EAT"
@@ -647,12 +647,12 @@ msgstr "Naplň"
 #. ACTIONS.FISH
 msgctxt "ACTIONS.FISH"
 msgid "Fish"
-msgstr ""
+msgstr "Jdi rybařit"
 
 #. ACTIONS.FISH_OCEAN
 msgctxt "ACTIONS.FISH_OCEAN"
 msgid "Fish"
-msgstr ""
+msgstr "Jdi rybařit"
 
 #. ACTIONS.GIVE.APPLY
 msgctxt "ACTIONS.GIVE.APPLY"
@@ -862,7 +862,7 @@ msgstr ""
 #. ACTIONS.LOWER_SAIL
 msgctxt "ACTIONS.LOWER_SAIL"
 msgid "Hoist Sail"
-msgstr ""
+msgstr "Zvedni plachtu"
 
 #. ACTIONS.LOWER_SAIL_BOOST.1
 msgctxt "ACTIONS.LOWER_SAIL_BOOST.1"
@@ -902,7 +902,7 @@ msgstr ""
 #. ACTIONS.MINE
 msgctxt "ACTIONS.MINE"
 msgid "Mine"
-msgstr ""
+msgstr "Vytěž"
 
 #. ACTIONS.MIX
 msgctxt "ACTIONS.MIX"
@@ -912,22 +912,22 @@ msgstr ""
 #. ACTIONS.MOUNT
 msgctxt "ACTIONS.MOUNT"
 msgid "Mount"
-msgstr ""
+msgstr "Nasedni"
 
 #. ACTIONS.MOUNT_PLANK
 msgctxt "ACTIONS.MOUNT_PLANK"
 msgid "Mount"
-msgstr ""
+msgstr "Naskoč"
 
 #. ACTIONS.MURDER
 msgctxt "ACTIONS.MURDER"
 msgid "Murder"
-msgstr ""
+msgstr "Zabij"
 
 #. ACTIONS.MUTATE_SPIDER
 msgctxt "ACTIONS.MUTATE_SPIDER"
 msgid "Feed"
-msgstr ""
+msgstr "Nakrm"
 
 #. ACTIONS.NET
 msgctxt "ACTIONS.NET"
@@ -937,32 +937,32 @@ msgstr ""
 #. ACTIONS.OCEAN_FISHING_CAST
 msgctxt "ACTIONS.OCEAN_FISHING_CAST"
 msgid "Cast"
-msgstr ""
+msgstr "Nahoď"
 
 #. ACTIONS.OCEAN_FISHING_CATCH
 msgctxt "ACTIONS.OCEAN_FISHING_CATCH"
 msgid "Catch"
-msgstr ""
+msgstr "Chyť"
 
 #. ACTIONS.OCEAN_FISHING_POND
 msgctxt "ACTIONS.OCEAN_FISHING_POND"
 msgid "Cast"
-msgstr ""
+msgstr "Nahoď"
 
 #. ACTIONS.OCEAN_FISHING_REEL.GENERIC
 msgctxt "ACTIONS.OCEAN_FISHING_REEL.GENERIC"
 msgid "Reel"
-msgstr ""
+msgstr "Přitáhni"
 
 #. ACTIONS.OCEAN_FISHING_REEL.SETHOOK
 msgctxt "ACTIONS.OCEAN_FISHING_REEL.SETHOOK"
 msgid "Set Hook"
-msgstr ""
+msgstr "Zasekni"
 
 #. ACTIONS.OCEAN_FISHING_STOP
 msgctxt "ACTIONS.OCEAN_FISHING_STOP"
 msgid "Stop"
-msgstr ""
+msgstr "Přestaň"
 
 #. ACTIONS.OCEAN_TOSS
 msgctxt "ACTIONS.OCEAN_TOSS"
@@ -1077,7 +1077,7 @@ msgstr ""
 #. ACTIONS.POLLINATE
 msgctxt "ACTIONS.POLLINATE"
 msgid "Pollinate"
-msgstr ""
+msgstr "Opyluj"
 
 #. ACTIONS.POUR_WATER.EXTINGUISH
 msgctxt "ACTIONS.POUR_WATER.EXTINGUISH"
@@ -1087,7 +1087,7 @@ msgstr ""
 #. ACTIONS.POUR_WATER.GENERIC
 msgctxt "ACTIONS.POUR_WATER.GENERIC"
 msgid "Water"
-msgstr ""
+msgstr "Zalij"
 
 #. ACTIONS.QUOTE
 msgctxt "ACTIONS.QUOTE"
@@ -1112,7 +1112,7 @@ msgstr ""
 #. ACTIONS.REEL.CANCEL
 msgctxt "ACTIONS.REEL.CANCEL"
 msgid "Stop Fishing"
-msgstr ""
+msgstr "Přestaň rybařit"
 
 #. ACTIONS.REEL.GENERIC
 msgctxt "ACTIONS.REEL.GENERIC"
@@ -1187,7 +1187,7 @@ msgstr ""
 #. ACTIONS.REVIVE_CORPSE
 msgctxt "ACTIONS.REVIVE_CORPSE"
 msgid "Revive"
-msgstr ""
+msgstr "Oživ"
 
 #. ACTIONS.ROW
 msgctxt "ACTIONS.ROW"
@@ -1212,7 +1212,7 @@ msgstr ""
 #. ACTIONS.RUMMAGE.DECORATE
 msgctxt "ACTIONS.RUMMAGE.DECORATE"
 msgid "Decorate"
-msgstr ""
+msgstr "Ozdob"
 
 #. ACTIONS.RUMMAGE.GENERIC
 msgctxt "ACTIONS.RUMMAGE.GENERIC"
@@ -1242,17 +1242,17 @@ msgstr ""
 #. ACTIONS.SHAVE.GENERIC
 msgctxt "ACTIONS.SHAVE.GENERIC"
 msgid "Shave"
-msgstr ""
+msgstr "Ohol"
 
 #. ACTIONS.SHAVE.SELF
 msgctxt "ACTIONS.SHAVE.SELF"
 msgid "Shave Self"
-msgstr ""
+msgstr "Ohol se"
 
 #. ACTIONS.SING
 msgctxt "ACTIONS.SING"
 msgid "Sing"
-msgstr ""
+msgstr "Zpívej"
 
 #. ACTIONS.SLAUGHTER.BUTCHER
 msgctxt "ACTIONS.SLAUGHTER.BUTCHER"
@@ -1302,7 +1302,7 @@ msgstr ""
 #. ACTIONS.STARTCHANNELING.GENERIC
 msgctxt "ACTIONS.STARTCHANNELING.GENERIC"
 msgid "Touch"
-msgstr ""
+msgstr "Dotkni se"
 
 #. ACTIONS.STARTCHANNELING.PUMP
 msgctxt "ACTIONS.STARTCHANNELING.PUMP"
@@ -1372,7 +1372,7 @@ msgstr ""
 #. ACTIONS.STORE.IMPRISON
 msgctxt "ACTIONS.STORE.IMPRISON"
 msgid "Imprison"
-msgstr ""
+msgstr "Uvězni"
 
 #. ACTIONS.STORE.SPICE
 msgctxt "ACTIONS.STORE.SPICE"
@@ -1422,22 +1422,22 @@ msgstr ""
 #. ACTIONS.TEACH.READ
 msgctxt "ACTIONS.TEACH.READ"
 msgid "Read"
-msgstr ""
+msgstr "Přečti si"
 
 #. ACTIONS.TELEPORT.GENERIC
 msgctxt "ACTIONS.TELEPORT.GENERIC"
 msgid "Use"
-msgstr ""
+msgstr "Použij"
 
 #. ACTIONS.TELEPORT.TOWNPORTAL
 msgctxt "ACTIONS.TELEPORT.TOWNPORTAL"
 msgid "Touch"
-msgstr ""
+msgstr "Dotkni se"
 
 #. ACTIONS.TELLSTORY
 msgctxt "ACTIONS.TELLSTORY"
 msgid "Tell Story"
-msgstr ""
+msgstr "Vyprávěj příběh"
 
 #. ACTIONS.TERRAFORM
 msgctxt "ACTIONS.TERRAFORM"
@@ -1472,7 +1472,7 @@ msgstr "Postav branku"
 #. ACTIONS.TOGGLE_DEPLOY_MODE.GENERIC
 msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.GENERIC"
 msgid "Plant"
-msgstr ""
+msgstr "Zasaď"
 
 #. ACTIONS.TOGGLE_DEPLOY_MODE.GROUNDTILE
 msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.GROUNDTILE"
@@ -1517,12 +1517,12 @@ msgstr ""
 #. ACTIONS.TURNOFF.GENERIC
 msgctxt "ACTIONS.TURNOFF.GENERIC"
 msgid "Turn Off"
-msgstr ""
+msgstr "Vypni"
 
 #. ACTIONS.TURNON
 msgctxt "ACTIONS.TURNON"
 msgid "Turn On"
-msgstr ""
+msgstr "Zapni"
 
 #. ACTIONS.UNEQUIP.GENERIC
 msgctxt "ACTIONS.UNEQUIP.GENERIC"

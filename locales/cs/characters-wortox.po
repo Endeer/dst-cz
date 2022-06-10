@@ -1,17 +1,23 @@
+# 
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-06-08 13:09+0000\n"
+"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
 "POT Version: 2.0\n"
+"X-Generator: Pontoon\n"
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.CARNIVAL_HOST_HERE
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.CARNIVAL_HOST_HERE"
 msgid "Now where is our feathered friend?"
-msgstr ""
+msgstr "A kdepak je náš opeřený přítel?"
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.EMPTY_CATCOONDEN
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.EMPTY_CATCOONDEN"
 msgid "No one's home, I'm all alone!"
-msgstr ""
+msgstr "Jsem úplně sám, nikdo není tam!"
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.HOSTBUSY
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.HOSTBUSY"
@@ -21,12 +27,12 @@ msgstr ""
 #. CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.KITCOON_HIDEANDSEEK_NOT_ENOUGH_HIDERS
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.KITCOON_HIDEANDSEEK_NOT_ENOUGH_HIDERS"
 msgid "We'll need more friends if we want to play, hyuyu!"
-msgstr ""
+msgstr "Abychom si mohli zahrát, potřebujeme více přátel, huhaha!"
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.KITCOON_HIDEANDSEEK_NOT_ENOUGH_HIDING_SPOTS
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.KITCOON_HIDEANDSEEK_NOT_ENOUGH_HIDING_SPOTS"
 msgid "The game was denied, there's nowwhere to hide!"
-msgstr ""
+msgstr "Před pikolou za pikolou není kam se schovat!"
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.KITCOON_HIDEANDSEEK_ONE_GAME_PER_DAY
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.KITCOON_HIDEANDSEEK_ONE_GAME_PER_DAY"
@@ -36,12 +42,12 @@ msgstr ""
 #. CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.LOCKED_GATE
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.LOCKED_GATE"
 msgid "Am I locked out, or in?"
-msgstr ""
+msgstr "Nemůžu dovnitř. Nebo ven?"
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.NOCARNIVAL
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "They've come and gone, were they but a dream all along?"
-msgstr ""
+msgstr "Kde se vzali, tu se vzali, že by se mi jenom zdáli?"
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -56,12 +62,12 @@ msgstr ""
 #. CHARACTERS.WORTOX.ACTIONFAIL.APPRAISE.NOTNOW
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.APPRAISE.NOTNOW"
 msgid "I tried, but they're occupied."
-msgstr ""
+msgstr "Jsou zřejmě duševně nepřítomní."
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.ATTUNE.NOHEALTH
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.ATTUNE.NOHEALTH"
 msgid "My body would surely die."
-msgstr ""
+msgstr "Moje tělo by určitě zemřelo."
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.BATHBOMB.ALREADY_BOMBED
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.BATHBOMB.ALREADY_BOMBED"
@@ -71,7 +77,7 @@ msgstr ""
 #. CHARACTERS.WORTOX.ACTIONFAIL.BATHBOMB.GLASSED
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.BATHBOMB.GLASSED"
 msgid "I can't throw it through the looking glass!"
-msgstr ""
+msgstr "Tímhle zrcadlem projít nejde!"
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.BEGIN_QUEST.ONEGHOST
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.BEGIN_QUEST.ONEGHOST"
@@ -81,47 +87,47 @@ msgstr ""
 #. CHARACTERS.WORTOX.ACTIONFAIL.BUILD.HASPET
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.BUILD.HASPET"
 msgid "I've made my pact with a beast already."
-msgstr ""
+msgstr "Jednu smlouvu s ďáblíkem už jsem uzavřel."
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.BUILD.MOUNTED
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.BUILD.MOUNTED"
 msgid "Either I must get down, or the world must come up."
-msgstr ""
+msgstr "Buď musím já slézt dolů, nebo musí svět vylézt nahoru."
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.BUILD.TICOON
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.BUILD.TICOON"
 msgid "Oh, but one's enough, hyuyu!"
-msgstr ""
+msgstr "Ach, už jeden je až dost, huhaha!"
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.CARNIVALGAME_FEED.TOO_LATE
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.CARNIVALGAME_FEED.TOO_LATE"
 msgid "Oh ho, too slow!"
-msgstr ""
+msgstr "Ach jej, jsem pomalej!"
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.CHANGEIN.BURNING"
 msgid "I'm not big on clothes, anyway."
-msgstr ""
+msgstr "Nu což, oblečení se stejně přeceňuje."
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.CHANGEIN.GENERIC
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.CHANGEIN.GENERIC"
 msgid "I prefer my current form."
-msgstr ""
+msgstr "Mně se líbím tak jak jsem."
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.CHANGEIN.INUSE
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.CHANGEIN.INUSE"
 msgid "Another soul has use of it right now."
-msgstr ""
+msgstr "Nemůžu rušit jinou duši."
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.CHANGEIN.NOOCCUPANT
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.CHANGEIN.NOOCCUPANT"
 msgid "I can't begin without a beefalo hitched in."
-msgstr ""
+msgstr "Abych mohl začít, potřebuju přivázaného búzona."
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR"
 msgid "I could give it some flair... once it has enough hair."
-msgstr ""
+msgstr "Mohl bych mu dát trochu šmrncu... až nebude ostříhaný podle hrnců."
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL"
@@ -141,7 +147,7 @@ msgstr ""
 #. CHARACTERS.WORTOX.ACTIONFAIL.COMPARE_WEIGHABLE.OVERSIZEDVEGGIES_TOO_SMALL
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.COMPARE_WEIGHABLE.OVERSIZEDVEGGIES_TOO_SMALL"
 msgid "I'll have to produce some bigger produce, hyuyuyu!"
-msgstr ""
+msgstr "Je potřeba plodění nějaké větší plodiny, huhahaha!"
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.CONSTRUCT.EMPTY
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.CONSTRUCT.EMPTY"
@@ -151,7 +157,7 @@ msgstr ""
 #. CHARACTERS.WORTOX.ACTIONFAIL.CONSTRUCT.INUSE
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.CONSTRUCT.INUSE"
 msgid "Another soul has use of it right now."
-msgstr ""
+msgstr "Nemůžu rušit jinou duši."
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.CONSTRUCT.MISMATCH
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.CONSTRUCT.MISMATCH"
@@ -161,7 +167,7 @@ msgstr ""
 #. CHARACTERS.WORTOX.ACTIONFAIL.CONSTRUCT.NOTALLOWED
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.CONSTRUCT.NOTALLOWED"
 msgid "Oh I simply couldn't."
-msgstr ""
+msgstr "Ech, to prostě nemůžu udělat."
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.COOK.GENERIC
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.COOK.GENERIC"
@@ -186,7 +192,7 @@ msgstr ""
 #. CHARACTERS.WORTOX.ACTIONFAIL.DISMANTLE.INUSE
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.DISMANTLE.INUSE"
 msgid "Another soul has use of it right now."
-msgstr ""
+msgstr "Nemůžu rušit jinou duši."
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.DISMANTLE.NOTEMPTY
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.DISMANTLE.NOTEMPTY"
@@ -211,7 +217,7 @@ msgstr ""
 #. CHARACTERS.WORTOX.ACTIONFAIL.GIVE.ABIGAILHEART
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.GIVE.ABIGAILHEART"
 msgid "This soul's already been sucked! Hyuyu!"
-msgstr ""
+msgstr "Tuhle duši už někdo vysál! Huhaha!"
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.GIVE.BUSY
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.GIVE.BUSY"
@@ -346,7 +352,7 @@ msgstr ""
 #. CHARACTERS.WORTOX.ACTIONFAIL.GIVE.WRONGSHADOWFORM
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.GIVE.WRONGSHADOWFORM"
 msgid "It looks downright silly, hyuyu!"
-msgstr ""
+msgstr "Vypadá to vyloženě hloupě, huhaha!"
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.GIVEALLTOPLAYER.BUSY
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.GIVEALLTOPLAYER.BUSY"
@@ -481,7 +487,7 @@ msgstr ""
 #. CHARACTERS.WORTOX.ACTIONFAIL.PICKUP.INUSE
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.PICKUP.INUSE"
 msgid "Another soul has use of it."
-msgstr ""
+msgstr "Nemůžu rušit jinou duši."
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.PICKUP.NOTMINE_YOTC.1
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.PICKUP.NOTMINE_YOTC.1"
@@ -556,7 +562,7 @@ msgstr ""
 #. CHARACTERS.WORTOX.ACTIONFAIL.RUMMAGE.GENERIC
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.RUMMAGE.GENERIC"
 msgid "Oh I simply couldn't."
-msgstr ""
+msgstr "Ech, to prostě nemůžu udělat."
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.RUMMAGE.INUSE
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.RUMMAGE.INUSE"
@@ -616,12 +622,12 @@ msgstr ""
 #. CHARACTERS.WORTOX.ACTIONFAIL.STORE.INUSE
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.STORE.INUSE"
 msgid "Another soul has use of it right now."
-msgstr ""
+msgstr "Nemůžu rušit jinou duši."
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.STORE.NOTALLOWED
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.STORE.NOTALLOWED"
 msgid "Oh I simply couldn't."
-msgstr ""
+msgstr "Ech, to prostě nemůžu udělat."
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.STORE.NOTMASTERCHEF
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.STORE.NOTMASTERCHEF"
@@ -676,7 +682,7 @@ msgstr ""
 #. CHARACTERS.WORTOX.ACTIONFAIL.USEKLAUSSACKKEY.KLAUS
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.USEKLAUSSACKKEY.KLAUS"
 msgid "Hyuyu!"
-msgstr ""
+msgstr "Huhaha!"
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY"
@@ -851,7 +857,7 @@ msgstr ""
 #. CHARACTERS.WORTOX.ANNOUNCE_BOOMERANG
 msgctxt "CHARACTERS.WORTOX.ANNOUNCE_BOOMERANG"
 msgid "Hyuyu!"
-msgstr ""
+msgstr "Huhaha!"
 
 #. CHARACTERS.WORTOX.ANNOUNCE_BRAVERY_POTION
 msgctxt "CHARACTERS.WORTOX.ANNOUNCE_BRAVERY_POTION"
@@ -870,7 +876,9 @@ msgstr ""
 
 #. CHARACTERS.WORTOX.ANNOUNCE_CANFIX
 msgctxt "CHARACTERS.WORTOX.ANNOUNCE_CANFIX"
-msgid "\nI could restore it."
+msgid ""
+"\n"
+"I could restore it."
 msgstr ""
 
 #. CHARACTERS.WORTOX.ANNOUNCE_CANNOT_BUILD.NO_INGREDIENTS
@@ -1755,7 +1763,9 @@ msgstr ""
 
 #. CHARACTERS.WORTOX.ANNOUNCE_WEIGHT_HEAVY
 msgctxt "CHARACTERS.WORTOX.ANNOUNCE_WEIGHT_HEAVY"
-msgid "Weight: {weight}\nI got my wish, a hefty fish!"
+msgid ""
+"Weight: {weight}\n"
+"I got my wish, a hefty fish!"
 msgstr ""
 
 #. CHARACTERS.WORTOX.ANNOUNCE_WET
@@ -4286,7 +4296,7 @@ msgstr ""
 #. CHARACTERS.WORTOX.DESCRIBE.CRABKING.GENERIC
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.CRABKING.GENERIC"
 msgid "Another cursed soul."
-msgstr ""
+msgstr "Další prokletá duše."
 
 #. CHARACTERS.WORTOX.DESCRIBE.CRABKING.INERT
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.CRABKING.INERT"
@@ -11670,22 +11680,33 @@ msgstr ""
 
 #. CHARACTERS.WORTOX.DESCRIBE.TROPHYSCALE_FISH.HAS_ITEM
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.TROPHYSCALE_FISH.HAS_ITEM"
-msgid "Weight: {weight}\nCaught by: {owner}"
+msgid ""
+"Weight: {weight}\n"
+"Caught by: {owner}"
 msgstr ""
 
 #. CHARACTERS.WORTOX.DESCRIBE.TROPHYSCALE_FISH.HAS_ITEM_HEAVY
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.TROPHYSCALE_FISH.HAS_ITEM_HEAVY"
-msgid "Weight: {weight}\nCaught by: {owner}\nJust look at the size of this fishy prize!"
+msgid ""
+"Weight: {weight}\n"
+"Caught by: {owner}\n"
+"Just look at the size of this fishy prize!"
 msgstr ""
 
 #. CHARACTERS.WORTOX.DESCRIBE.TROPHYSCALE_FISH.OWNER
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.TROPHYSCALE_FISH.OWNER"
-msgid "Weight: {weight}\nCaught by: {owner}\nMy fish is best, as this scale can attest!"
+msgid ""
+"Weight: {weight}\n"
+"Caught by: {owner}\n"
+"My fish is best, as this scale can attest!"
 msgstr ""
 
 #. CHARACTERS.WORTOX.DESCRIBE.TROPHYSCALE_FISH.OWNER_HEAVY
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.TROPHYSCALE_FISH.OWNER_HEAVY"
-msgid "Weight: {weight}\nCaught by: {owner}\nYour impressive weight saved you from landing on a plate!"
+msgid ""
+"Weight: {weight}\n"
+"Caught by: {owner}\n"
+"Your impressive weight saved you from landing on a plate!"
 msgstr ""
 
 #. CHARACTERS.WORTOX.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.BURNING
@@ -11705,12 +11726,18 @@ msgstr ""
 
 #. CHARACTERS.WORTOX.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM"
-msgid "Weight: {weight}\nHarvested on day: {day}\nBut is it worth the weight? Hyuyu!"
+msgid ""
+"Weight: {weight}\n"
+"Harvested on day: {day}\n"
+"But is it worth the weight? Hyuyu!"
 msgstr ""
 
 #. CHARACTERS.WORTOX.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM_HEAVY
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM_HEAVY"
-msgid "Weight: {weight}\nHarvested on day: {day}\nI say, what a nice display!"
+msgid ""
+"Weight: {weight}\n"
+"Harvested on day: {day}\n"
+"I say, what a nice display!"
 msgstr ""
 
 #. CHARACTERS.WORTOX.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM_LIGHT
@@ -13822,4 +13849,3 @@ msgstr ""
 msgctxt "CHARACTERS.WORTOX.QUAGMIRE_ANNOUNCE_WIN"
 msgid "Must be off now!"
 msgstr ""
-

@@ -1,8 +1,8 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-23 13:42+0000\n"
-"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
+"PO-Revision-Date: 2022-05-25 18:30+0000\n"
+"Last-Translator: Kova <flea2310@gmail.com>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
@@ -42,7 +42,7 @@ msgstr ""
 #. NAMES.ADVENTURE_PORTAL
 msgctxt "NAMES.ADVENTURE_PORTAL"
 msgid "Maxwell's Door"
-msgstr ""
+msgstr "Maxwellovy dveře"
 
 #. NAMES.ALTERGUARDIANHAT
 msgctxt "NAMES.ALTERGUARDIANHAT"
@@ -107,7 +107,7 @@ msgstr ""
 #. NAMES.ANCHOR
 msgctxt "NAMES.ANCHOR"
 msgid "Anchor"
-msgstr ""
+msgstr "Kotva"
 
 #. NAMES.ANCHOR_ITEM
 msgctxt "NAMES.ANCHOR_ITEM"
@@ -257,7 +257,7 @@ msgstr ""
 #. NAMES.ARMORWOOD
 msgctxt "NAMES.ARMORWOOD"
 msgid "Log Suit"
-msgstr ""
+msgstr "Dřevěné brnění"
 
 #. NAMES.ARMOR_BRAMBLE
 msgctxt "NAMES.ARMOR_BRAMBLE"
@@ -267,7 +267,7 @@ msgstr ""
 #. NAMES.ARMOR_SANITY
 msgctxt "NAMES.ARMOR_SANITY"
 msgid "Night Armor"
-msgstr ""
+msgstr "Noční brnění"
 
 #. NAMES.ARROWSIGN_PANEL
 msgctxt "NAMES.ARROWSIGN_PANEL"

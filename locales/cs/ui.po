@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-17 21:36+0000\n"
+"PO-Revision-Date: 2022-06-01 19:46+0000\n"
 "Last-Translator: Ender Wiggin <f@endeer.cz>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
@@ -17,52 +17,52 @@ msgstr "Zrušit"
 #. UI.ACCOUNT.CDKEY
 msgctxt "UI.ACCOUNT.CDKEY"
 msgid "Don't Starve CD-Key"
-msgstr ""
+msgstr "Don't Starve CD-Klíč"
 
 #. UI.ACCOUNT.CREATE
 msgctxt "UI.ACCOUNT.CREATE"
 msgid "Create"
-msgstr ""
+msgstr "Vytvořit"
 
 #. UI.ACCOUNT.EMAIL
 msgctxt "UI.ACCOUNT.EMAIL"
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #. UI.ACCOUNT.LAN
 msgctxt "UI.ACCOUNT.LAN"
 msgid "LAN"
-msgstr ""
+msgstr "LAN"
 
 #. UI.ACCOUNT.LINKSTEAMACCOUNT
 msgctxt "UI.ACCOUNT.LINKSTEAMACCOUNT"
 msgid "Link Steam Account"
-msgstr ""
+msgstr "Připojit Steam účet"
 
 #. UI.ACCOUNT.LOGIN
 msgctxt "UI.ACCOUNT.LOGIN"
 msgid "Login"
-msgstr ""
+msgstr "Přihlásit se"
 
 #. UI.ACCOUNT.LOGINWITHSTEAM
 msgctxt "UI.ACCOUNT.LOGINWITHSTEAM"
 msgid "Login With Steam"
-msgstr ""
+msgstr "Přihlásit se pomocí služby Steam"
 
 #. UI.ACCOUNT.PASSWORD
 msgctxt "UI.ACCOUNT.PASSWORD"
 msgid "Password"
-msgstr ""
+msgstr "Heslo"
 
 #. UI.ACCOUNT.REGISTER
 msgctxt "UI.ACCOUNT.REGISTER"
 msgid "Register"
-msgstr ""
+msgstr "Registrovat"
 
 #. UI.ACCOUNT.USERNAME
 msgctxt "UI.ACCOUNT.USERNAME"
 msgid "User Name"
-msgstr ""
+msgstr "Uživatelské jméno"
 
 #. UI.BARTERSCREEN.CANCEL
 msgctxt "UI.BARTERSCREEN.CANCEL"
@@ -77,12 +77,12 @@ msgstr ""
 #. UI.BARTERSCREEN.COMMERCE_GRIND
 msgctxt "UI.BARTERSCREEN.COMMERCE_GRIND"
 msgid "Unravel"
-msgstr ""
+msgstr "Rozplést"
 
 #. UI.BARTERSCREEN.COMMERCE_GRIND_DUPES
 msgctxt "UI.BARTERSCREEN.COMMERCE_GRIND_DUPES"
 msgid "Unravel Duplicates"
-msgstr ""
+msgstr "Rozplést duplikáty"
 
 #. UI.BARTERSCREEN.COMMERCE_INFO_BUY
 msgctxt "UI.BARTERSCREEN.COMMERCE_INFO_BUY"
@@ -158,7 +158,7 @@ msgstr ""
 #. UI.BARTERSCREEN.FAILED_TITLE
 msgctxt "UI.BARTERSCREEN.FAILED_TITLE"
 msgid "Connection failure"
-msgstr ""
+msgstr "Selhání spojení"
 
 #. UI.BARTERSCREEN.FAIL_BUY_FMT
 msgctxt "UI.BARTERSCREEN.FAIL_BUY_FMT"
@@ -199,27 +199,27 @@ msgstr ""
 #. UI.BARTERSCREEN.UNRAVEL_WARNING_TITLE
 msgctxt "UI.BARTERSCREEN.UNRAVEL_WARNING_TITLE"
 msgid "Warning!"
-msgstr ""
+msgstr "Varování!"
 
 #. UI.BEARDSCREEN.BEARD_NAMES.1
 msgctxt "UI.BEARDSCREEN.BEARD_NAMES.1"
 msgid "Trimmed"
-msgstr ""
+msgstr "Zastřihlé"
 
 #. UI.BEARDSCREEN.BEARD_NAMES.2
 msgctxt "UI.BEARDSCREEN.BEARD_NAMES.2"
 msgid "Groomed"
-msgstr ""
+msgstr "Upravené"
 
 #. UI.BEARDSCREEN.BEARD_NAMES.3
 msgctxt "UI.BEARDSCREEN.BEARD_NAMES.3"
 msgid "Magnificent"
-msgstr ""
+msgstr "Velkolepé"
 
 #. UI.BOAT.HEALTH
 msgctxt "UI.BOAT.HEALTH"
 msgid "Boat Health: "
-msgstr ""
+msgstr "Zdraví lodi: "
 
 #. UI.BOX_POPUP.OK
 msgctxt "UI.BOX_POPUP.OK"
@@ -229,22 +229,22 @@ msgstr ""
 #. UI.BOX_POPUP.SERVER_ERROR_BODY
 msgctxt "UI.BOX_POPUP.SERVER_ERROR_BODY"
 msgid "There was an error while opening your Chest. Please log in again to refresh your account inventory."
-msgstr ""
+msgstr "Při otevírání truhly došlo k chybě. Chcete-li obnovit inventář svého účtu, znovu se přihlašte."
 
 #. UI.BOX_POPUP.SERVER_ERROR_TITLE
 msgctxt "UI.BOX_POPUP.SERVER_ERROR_TITLE"
 msgid "Error Opening Chest"
-msgstr ""
+msgstr "Chyba při otevírání truhly"
 
 #. UI.BOX_POPUP.SERVER_NO_ITEM_BODY
 msgctxt "UI.BOX_POPUP.SERVER_NO_ITEM_BODY"
 msgid "This Chest contained items that are not supported by your current game version. Please exit and update your game."
-msgstr ""
+msgstr "Tato truhla obsahovala položky, které nejsou podporovány vaší aktuální verzí hry. Ukončete a aktualizujte hru."
 
 #. UI.BOX_POPUP.TITLE
 msgctxt "UI.BOX_POPUP.TITLE"
 msgid "You received..."
-msgstr ""
+msgstr "Obdrželi jste..."
 
 #. UI.BUGREPORTSCREEN.CANCEL_SUBMIT_BODY
 msgctxt "UI.BUGREPORTSCREEN.CANCEL_SUBMIT_BODY"
@@ -256,27 +256,27 @@ msgstr ""
 #. UI.BUGREPORTSCREEN.CANCEL_SUBMIT_HEADER
 msgctxt "UI.BUGREPORTSCREEN.CANCEL_SUBMIT_HEADER"
 msgid "Cancel Bug Report?"
-msgstr ""
+msgstr "Zrušit hlášení chyby?"
 
 #. UI.BUGREPORTSCREEN.CHANGE_BUG_DESCRIPTION
 msgctxt "UI.BUGREPORTSCREEN.CHANGE_BUG_DESCRIPTION"
 msgid "Change Bug Description"
-msgstr ""
+msgstr "Změnit popis chyby"
 
 #. UI.BUGREPORTSCREEN.DESCRIPTION_LABEL
 msgctxt "UI.BUGREPORTSCREEN.DESCRIPTION_LABEL"
 msgid "Please describe your issue."
-msgstr ""
+msgstr "Prosím popište svůj problém."
 
 #. UI.BUGREPORTSCREEN.ENTER_BUG_DESCRIPTION
 msgctxt "UI.BUGREPORTSCREEN.ENTER_BUG_DESCRIPTION"
 msgid "Enter Bug Description"
-msgstr ""
+msgstr "Zadejte popis chyby"
 
 #. UI.BUGREPORTSCREEN.NO
 msgctxt "UI.BUGREPORTSCREEN.NO"
 msgid "No"
-msgstr ""
+msgstr "Ne"
 
 #. UI.BUGREPORTSCREEN.OK
 msgctxt "UI.BUGREPORTSCREEN.OK"
@@ -286,12 +286,12 @@ msgstr ""
 #. UI.BUGREPORTSCREEN.SUBMIT
 msgctxt "UI.BUGREPORTSCREEN.SUBMIT"
 msgid "Submit"
-msgstr ""
+msgstr "Odeslat"
 
 #. UI.BUGREPORTSCREEN.SUBMITTING_TEXT
 msgctxt "UI.BUGREPORTSCREEN.SUBMITTING_TEXT"
 msgid "Submitting files, please wait"
-msgstr ""
+msgstr "Odesílání souborů, prosím čekejte"
 
 #. UI.BUGREPORTSCREEN.SUBMIT_DIALOG_BODY
 msgctxt "UI.BUGREPORTSCREEN.SUBMIT_DIALOG_BODY"
@@ -304,92 +304,92 @@ msgstr ""
 #. UI.BUGREPORTSCREEN.SUBMIT_DIALOG_HEADER
 msgctxt "UI.BUGREPORTSCREEN.SUBMIT_DIALOG_HEADER"
 msgid "Submit Bug Report?"
-msgstr ""
+msgstr "Odeslat zprávu o chybě?"
 
 #. UI.BUGREPORTSCREEN.SUBMIT_FAILURE_TEXT
 msgctxt "UI.BUGREPORTSCREEN.SUBMIT_FAILURE_TEXT"
 msgid "There was a problem uploading your files."
-msgstr ""
+msgstr "Při nahrávání souborů došlo k chybě."
 
 #. UI.BUGREPORTSCREEN.SUBMIT_FAILURE_TITLE
 msgctxt "UI.BUGREPORTSCREEN.SUBMIT_FAILURE_TITLE"
 msgid "Error"
-msgstr ""
+msgstr "Chyba"
 
 #. UI.BUGREPORTSCREEN.SUBMIT_SUCCESS
 msgctxt "UI.BUGREPORTSCREEN.SUBMIT_SUCCESS"
 msgid "Files successfully uploaded. Thanks for the report!"
-msgstr ""
+msgstr "Soubory byly úspěšně nahrány. Děkujeme za nahlášení!"
 
 #. UI.BUGREPORTSCREEN.SUBMIT_SUCCESS_TITLE
 msgctxt "UI.BUGREPORTSCREEN.SUBMIT_SUCCESS_TITLE"
 msgid "Success"
-msgstr ""
+msgstr "Úspěch"
 
 #. UI.BUGREPORTSCREEN.SUBMIT_TEXT_PLACEHOLDER
 msgctxt "UI.BUGREPORTSCREEN.SUBMIT_TEXT_PLACEHOLDER"
 msgid "Please enter a description of the bug you are experiencing and any details that you feel may aid us in fixing it."
-msgstr ""
+msgstr "Zadejte prosím popis chyby, se kterou se setkáváte, a jakékoli podrobnosti, které by nám podle vás mohly pomoci ji opravit."
 
 #. UI.BUGREPORTSCREEN.YES
 msgctxt "UI.BUGREPORTSCREEN.YES"
 msgid "Yes"
-msgstr ""
+msgstr "Ano"
 
 #. UI.CHARACTERSELECT.APPLY
 msgctxt "UI.CHARACTERSELECT.APPLY"
 msgid "Apply"
-msgstr ""
+msgstr "Použít"
 
 #. UI.CHARACTERSELECT.CANCEL
 msgctxt "UI.CHARACTERSELECT.CANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušit"
 
 #. UI.CHARACTERSELECT.DISCONNECT
 msgctxt "UI.CHARACTERSELECT.DISCONNECT"
 msgid "Disconnect"
-msgstr ""
+msgstr "Odpojit"
 
 #. UI.CHARACTERSELECT.SELECT
 msgctxt "UI.CHARACTERSELECT.SELECT"
 msgid "Select"
-msgstr ""
+msgstr "Vybrat"
 
 #. UI.CHATINPUTSCREEN.HELP_OPEN_VIRTUAL_KEYBOARD
 msgctxt "UI.CHATINPUTSCREEN.HELP_OPEN_VIRTUAL_KEYBOARD"
 msgid "Open Keyboard"
-msgstr ""
+msgstr "Otevřít klávesnici"
 
 #. UI.CHATINPUTSCREEN.HELP_SAY
 msgctxt "UI.CHATINPUTSCREEN.HELP_SAY"
 msgid "Say"
-msgstr ""
+msgstr "Říct"
 
 #. UI.CHATINPUTSCREEN.HELP_WHISPER
 msgctxt "UI.CHATINPUTSCREEN.HELP_WHISPER"
 msgid "Whisper"
-msgstr ""
+msgstr "Šepot"
 
 #. UI.CHATINPUTSCREEN.SAY
 msgctxt "UI.CHATINPUTSCREEN.SAY"
 msgid "say:"
-msgstr ""
+msgstr "říct:"
 
 #. UI.CHATINPUTSCREEN.STEAMDECK_MSG_PROMPT
 msgctxt "UI.CHATINPUTSCREEN.STEAMDECK_MSG_PROMPT"
 msgid "Message:"
-msgstr ""
+msgstr "Zpráva:"
 
 #. UI.CHATINPUTSCREEN.WHISPER
 msgctxt "UI.CHATINPUTSCREEN.WHISPER"
 msgid "whisper:"
-msgstr ""
+msgstr "šeptat:"
 
 #. UI.CHATINPUTSCREEN.WHISPER_DESIGNATOR
 msgctxt "UI.CHATINPUTSCREEN.WHISPER_DESIGNATOR"
 msgid "[W]"
-msgstr ""
+msgstr "[Š]"
 
 #. UI.CLOUDSERVERCREATIONSCREEN.CREATE
 msgctxt "UI.CLOUDSERVERCREATIONSCREEN.CREATE"
@@ -404,17 +404,17 @@ msgstr ""
 #. UI.COLLECTIONSCREEN.BEARD
 msgctxt "UI.COLLECTIONSCREEN.BEARD"
 msgid "Beards"
-msgstr ""
+msgstr "Vousy"
 
 #. UI.COLLECTIONSCREEN.EMOJI
 msgctxt "UI.COLLECTIONSCREEN.EMOJI"
 msgid "Emoticons"
-msgstr ""
+msgstr "Emotikony"
 
 #. UI.COLLECTIONSCREEN.EMOTE
 msgctxt "UI.COLLECTIONSCREEN.EMOTE"
 msgid "Emotes"
-msgstr ""
+msgstr "Gesta"
 
 #. UI.COLLECTIONSCREEN.FAILED_TO_LOAD
 msgctxt "UI.COLLECTIONSCREEN.FAILED_TO_LOAD"
@@ -437,7 +437,7 @@ msgstr ""
 #. UI.COLLECTIONSCREEN.NEW
 msgctxt "UI.COLLECTIONSCREEN.NEW"
 msgid "New!"
-msgstr ""
+msgstr "Nový!"
 
 #. UI.COLLECTIONSCREEN.PORTRAITBACKGROUNDS
 msgctxt "UI.COLLECTIONSCREEN.PORTRAITBACKGROUNDS"
@@ -447,7 +447,7 @@ msgstr ""
 #. UI.COLLECTIONSCREEN.PROFILEFLAIR
 msgctxt "UI.COLLECTIONSCREEN.PROFILEFLAIR"
 msgid "Profile Icons"
-msgstr ""
+msgstr "Ikony profilu"
 
 #. UI.COLLECTIONSCREEN.SET_INFO
 msgctxt "UI.COLLECTIONSCREEN.SET_INFO"
@@ -457,7 +457,7 @@ msgstr ""
 #. UI.COLLECTIONSCREEN.SKINS
 msgctxt "UI.COLLECTIONSCREEN.SKINS"
 msgid "Wardrobe"
-msgstr ""
+msgstr "Šatník"
 
 #. UI.COLLECTIONSCREEN.TITLE
 msgctxt "UI.COLLECTIONSCREEN.TITLE"
@@ -467,17 +467,17 @@ msgstr ""
 #. UI.COLLECTIONSCREEN.TOOLTIP_BEARD
 msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_BEARD"
 msgid "View your character beards"
-msgstr ""
+msgstr "Prohlédněte si vousy své postavy"
 
 #. UI.COLLECTIONSCREEN.TOOLTIP_EMOJI
 msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_EMOJI"
 msgid "View your available chat icons"
-msgstr ""
+msgstr "Zobrazit dostupné ikony chatu"
 
 #. UI.COLLECTIONSCREEN.TOOLTIP_EMOTE
 msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_EMOTE"
 msgid "View your character emotes"
-msgstr ""
+msgstr "Prohlédněte si gesta své postavy"
 
 #. UI.COLLECTIONSCREEN.TOOLTIP_GAMEITEM
 msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_GAMEITEM"
@@ -487,167 +487,167 @@ msgstr ""
 #. UI.COLLECTIONSCREEN.TOOLTIP_LOADERS
 msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_LOADERS"
 msgid "Select loading screens to display between games"
-msgstr ""
+msgstr "Vyberte načítací obrazovky, které se mají zobrazovat mezi hrami"
 
 #. UI.COLLECTIONSCREEN.TOOLTIP_PORTRAITBACKGROUNDS
 msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_PORTRAITBACKGROUNDS"
 msgid "Equip new backgrounds to your characters' portraits"
-msgstr ""
+msgstr "Vybavte portréty svých postav novými pozadími"
 
 #. UI.COLLECTIONSCREEN.TOOLTIP_PROFILEFLAIR
 msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_PROFILEFLAIR"
 msgid "Select an icon for your profile"
-msgstr ""
+msgstr "Vyberte ikonu pro svůj profil"
 
 #. UI.COLLECTIONSCREEN.TOOLTIP_SKINS
 msgctxt "UI.COLLECTIONSCREEN.TOOLTIP_SKINS"
 msgid "View and equip your character skins"
-msgstr ""
+msgstr "Zobrazení a vybavení skinů postav"
 
 #. UI.COLLECTIONSCREEN.VIEW_MARKET
 msgctxt "UI.COLLECTIONSCREEN.VIEW_MARKET"
 msgid "Steam"
-msgstr ""
+msgstr "Steam"
 
 #. UI.COLOUR.Black
 msgctxt "UI.COLOUR.Black"
 msgid "Black"
-msgstr ""
+msgstr "Černá"
 
 #. UI.COLOUR.Blue
 msgctxt "UI.COLOUR.Blue"
 msgid "Blue"
-msgstr ""
+msgstr "Modrá"
 
 #. UI.COLOUR.Brown
 msgctxt "UI.COLOUR.Brown"
 msgid "Brown"
-msgstr ""
+msgstr "Hnědá"
 
 #. UI.COLOUR.Green
 msgctxt "UI.COLOUR.Green"
 msgid "Green"
-msgstr ""
+msgstr "Zelená"
 
 #. UI.COLOUR.Grey
 msgctxt "UI.COLOUR.Grey"
 msgid "Gray"
-msgstr ""
+msgstr "Šedá"
 
 #. UI.COLOUR.Navy
 msgctxt "UI.COLOUR.Navy"
 msgid "Navy"
-msgstr ""
+msgstr "Modř"
 
 #. UI.COLOUR.Orange
 msgctxt "UI.COLOUR.Orange"
 msgid "Orange"
-msgstr ""
+msgstr "Oranžová"
 
 #. UI.COLOUR.Pink
 msgctxt "UI.COLOUR.Pink"
 msgid "Pink"
-msgstr ""
+msgstr "Růžová"
 
 #. UI.COLOUR.Purple
 msgctxt "UI.COLOUR.Purple"
 msgid "Purple"
-msgstr ""
+msgstr "Fialová"
 
 #. UI.COLOUR.Red
 msgctxt "UI.COLOUR.Red"
 msgid "Red"
-msgstr ""
+msgstr "Červená"
 
 #. UI.COLOUR.Tan
 msgctxt "UI.COLOUR.Tan"
 msgid "Tan"
-msgstr ""
+msgstr "Usňová"
 
 #. UI.COLOUR.Teal
 msgctxt "UI.COLOUR.Teal"
 msgid "Teal"
-msgstr ""
+msgstr "Modrozelená"
 
 #. UI.COLOUR.White
 msgctxt "UI.COLOUR.White"
 msgid "White"
-msgstr ""
+msgstr "Bílá"
 
 #. UI.COLOUR.Yellow
 msgctxt "UI.COLOUR.Yellow"
 msgid "Yellow"
-msgstr ""
+msgstr "Žlutá"
 
 #. UI.COMMANDSSCREEN.CANCEL
 msgctxt "UI.COMMANDSSCREEN.CANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušit"
 
 #. UI.COMMANDSSCREEN.CONFIRMBODY
 msgctxt "UI.COMMANDSSCREEN.CONFIRMBODY"
 msgid "Are you sure?"
-msgstr ""
+msgstr "Jsi si jistý?"
 
 #. UI.COMMANDSSCREEN.CONFIRMTITLE
 msgctxt "UI.COMMANDSSCREEN.CONFIRMTITLE"
 msgid "Really %s?"
-msgstr ""
+msgstr "Opravdu %s?"
 
 #. UI.COMMANDSSCREEN.CONFIRMTITLE_TARGET
 msgctxt "UI.COMMANDSSCREEN.CONFIRMTITLE_TARGET"
 msgid "Really %s %s?"
-msgstr ""
+msgstr "Opravdu %s %s?"
 
 #. UI.COMMANDSSCREEN.HIDE_SERVERNAME
 msgctxt "UI.COMMANDSSCREEN.HIDE_SERVERNAME"
 msgid "Hide Server Name"
-msgstr ""
+msgstr "Skrýt název serveru"
 
 #. UI.COMMANDSSCREEN.SERVERSUBTITLE
 msgctxt "UI.COMMANDSSCREEN.SERVERSUBTITLE"
 msgid "Actions for"
-msgstr ""
+msgstr "Akce pro"
 
 #. UI.COMMANDSSCREEN.SERVERTITLE
 msgctxt "UI.COMMANDSSCREEN.SERVERTITLE"
 msgid "The Server"
-msgstr ""
+msgstr "Server"
 
 #. UI.COMMANDSSCREEN.SHOW_SERVERNAME
 msgctxt "UI.COMMANDSSCREEN.SHOW_SERVERNAME"
 msgid "Show Server Name"
-msgstr ""
+msgstr "Zobrazit název serveru"
 
 #. UI.COMMANDSSCREEN.USERSUBTITLE
 msgctxt "UI.COMMANDSSCREEN.USERSUBTITLE"
 msgid "User Actions for"
-msgstr ""
+msgstr "Uživatelské akce pro"
 
 #. UI.COMMANDSSCREEN.VOTEFMT
 msgctxt "UI.COMMANDSSCREEN.VOTEFMT"
 msgid "%s (vote)"
-msgstr ""
+msgstr "%s (hlasovat)"
 
 #. UI.COMMANDWHEEL.EMOTES
 msgctxt "UI.COMMANDWHEEL.EMOTES"
 msgid "Emotes"
-msgstr ""
+msgstr "Gesta"
 
 #. UI.COMMANDWHEEL.INVITE
 msgctxt "UI.COMMANDWHEEL.INVITE"
 msgid "Send Invitation"
-msgstr ""
+msgstr "Odeslat pozvánku"
 
 #. UI.COMMANDWHEEL.PLAYERLIST
 msgctxt "UI.COMMANDWHEEL.PLAYERLIST"
 msgid "Player Listing"
-msgstr ""
+msgstr "Seznam hráčů"
 
 #. UI.COMMANDWHEEL.SAY
 msgctxt "UI.COMMANDWHEEL.SAY"
 msgid "Say"
-msgstr ""
+msgstr "Říct"
 
 #. UI.COMMANDWHEEL.USERCOMMANDS
 msgctxt "UI.COMMANDWHEEL.USERCOMMANDS"
@@ -657,37 +657,37 @@ msgstr ""
 #. UI.COMMANDWHEEL.WHISPER
 msgctxt "UI.COMMANDWHEEL.WHISPER"
 msgid "Whisper"
-msgstr ""
+msgstr "Šepot"
 
 #. UI.COMPENDIUM.CAUSEOFDEATH_OTHER
 msgctxt "UI.COMPENDIUM.CAUSEOFDEATH_OTHER"
 msgid "Other"
-msgstr ""
+msgstr "Jiné"
 
 #. UI.COMPENDIUM.CHARACTERDETAILS
 msgctxt "UI.COMPENDIUM.CHARACTERDETAILS"
 msgid "Survivors"
-msgstr ""
+msgstr "Nešťastníci"
 
 #. UI.COMPENDIUM.CINEMATICS
 msgctxt "UI.COMPENDIUM.CINEMATICS"
 msgid "Cinematics"
-msgstr ""
+msgstr "Kinematografie"
 
 #. UI.COMPENDIUM.COOKBOOKPANEL
 msgctxt "UI.COMPENDIUM.COOKBOOKPANEL"
 msgid "Cookbook"
-msgstr ""
+msgstr "Kuchařka"
 
 #. UI.COMPENDIUM.ENCOUNTERS
 msgctxt "UI.COMPENDIUM.ENCOUNTERS"
 msgid "Encounters"
-msgstr ""
+msgstr "Setkání"
 
 #. UI.COMPENDIUM.HISTORYOFTRAVELS
 msgctxt "UI.COMPENDIUM.HISTORYOFTRAVELS"
 msgid "History of Travels"
-msgstr ""
+msgstr "Historie cest"
 
 #. UI.COMPENDIUM.OBITUARIES
 msgctxt "UI.COMPENDIUM.OBITUARIES"
@@ -697,52 +697,52 @@ msgstr ""
 #. UI.COMPENDIUM.PLANTREGISTRYPANEL
 msgctxt "UI.COMPENDIUM.PLANTREGISTRYPANEL"
 msgid "Plant Registry"
-msgstr ""
+msgstr "Registr rostlin"
 
 #. UI.COMPENDIUM.TOOLTIP_CHARACTERDETAILS
 msgctxt "UI.COMPENDIUM.TOOLTIP_CHARACTERDETAILS"
 msgid "The survivors of the Constant"
-msgstr ""
+msgstr "Nešťastníci z Neměnnosti"
 
 #. UI.COMPENDIUM.TOOLTIP_CINEMATICS
 msgctxt "UI.COMPENDIUM.TOOLTIP_CINEMATICS"
 msgid "Pretty movies!"
-msgstr ""
+msgstr "Pěkné filmy!"
 
 #. UI.COMPENDIUM.TOOLTIP_COOKBOOKPANEL
 msgctxt "UI.COMPENDIUM.TOOLTIP_COOKBOOKPANEL"
 msgid "The Constant's guide to cookery"
-msgstr ""
+msgstr "Neměnnostní průvodce vařením"
 
 #. UI.COMPENDIUM.TOOLTIP_ENCOUNTERS
 msgctxt "UI.COMPENDIUM.TOOLTIP_ENCOUNTERS"
 msgid "A history of those you've crossed paths with"
-msgstr ""
+msgstr "Historie těch, se kterými jste zkřížili cesty"
 
 #. UI.COMPENDIUM.TOOLTIP_HISTORYOFTRAVELS
 msgctxt "UI.COMPENDIUM.TOOLTIP_HISTORYOFTRAVELS"
 msgid "A summary of your adventures"
-msgstr ""
+msgstr "Shrnutí vašich dobrodružství"
 
 #. UI.COMPENDIUM.TOOLTIP_OBITUARIES
 msgctxt "UI.COMPENDIUM.TOOLTIP_OBITUARIES"
 msgid "Reminisce over past mistakes"
-msgstr ""
+msgstr "Připomeňte si minulé chyby"
 
 #. UI.COMPENDIUM.TOOLTIP_PLANTREGISTRY
 msgctxt "UI.COMPENDIUM.TOOLTIP_PLANTREGISTRY"
 msgid "The Constant gardener's almanac"
-msgstr ""
+msgstr "Almanach Neměnnostního zahradníka"
 
 #. UI.CONSOLESCREEN.LOCALEXECUTE
 msgctxt "UI.CONSOLESCREEN.LOCALEXECUTE"
 msgid "Local:"
-msgstr ""
+msgstr "Místní:"
 
 #. UI.CONSOLESCREEN.REMOTEEXECUTE
 msgctxt "UI.CONSOLESCREEN.REMOTEEXECUTE"
 msgid "Remote:"
-msgstr ""
+msgstr "Dálkový:"
 
 #. UI.DATACOLLECTION_LOGIN.BODY
 msgctxt "UI.DATACOLLECTION_LOGIN.BODY"
@@ -757,12 +757,12 @@ msgstr ""
 #. UI.DATACOLLECTION_LOGIN.CONTINUE
 msgctxt "UI.DATACOLLECTION_LOGIN.CONTINUE"
 msgid "Continue"
-msgstr ""
+msgstr "Pokračovat"
 
 #. UI.DATACOLLECTION_LOGIN.TITLE
 msgctxt "UI.DATACOLLECTION_LOGIN.TITLE"
 msgid "Offline Mode"
-msgstr ""
+msgstr "Režim offline"
 
 #. UI.DATACOLLECTION_POPUP.BODY
 msgctxt "UI.DATACOLLECTION_POPUP.BODY"
@@ -775,112 +775,112 @@ msgstr ""
 #. UI.DATACOLLECTION_POPUP.CANCEL
 msgctxt "UI.DATACOLLECTION_POPUP.CANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušit"
 
 #. UI.DATACOLLECTION_POPUP.OPT_IN.CONTINUE
 msgctxt "UI.DATACOLLECTION_POPUP.OPT_IN.CONTINUE"
 msgid "Enable"
-msgstr ""
+msgstr "Povolit"
 
 #. UI.DATACOLLECTION_POPUP.OPT_OUT.CONTINUE
 msgctxt "UI.DATACOLLECTION_POPUP.OPT_OUT.CONTINUE"
 msgid "Disable"
-msgstr ""
+msgstr "Zakázat"
 
 #. UI.DATACOLLECTION_POPUP.PRIVACY_PORTAL
 msgctxt "UI.DATACOLLECTION_POPUP.PRIVACY_PORTAL"
 msgid "View Privacy Policy"
-msgstr ""
+msgstr "Zobrazit zásady ochrany osobních údajů"
 
 #. UI.DATACOLLECTION_POPUP.TITLE
 msgctxt "UI.DATACOLLECTION_POPUP.TITLE"
 msgid "Data Collection"
-msgstr ""
+msgstr "Sběr dat"
 
 #. UI.DATE.MONTH_ABBR.1
 msgctxt "UI.DATE.MONTH_ABBR.1"
 msgid "Jan"
-msgstr ""
+msgstr "Led"
 
 #. UI.DATE.MONTH_ABBR.10
 msgctxt "UI.DATE.MONTH_ABBR.10"
 msgid "Oct"
-msgstr ""
+msgstr "Říj"
 
 #. UI.DATE.MONTH_ABBR.11
 msgctxt "UI.DATE.MONTH_ABBR.11"
 msgid "Nov"
-msgstr ""
+msgstr "Lis"
 
 #. UI.DATE.MONTH_ABBR.12
 msgctxt "UI.DATE.MONTH_ABBR.12"
 msgid "Dec"
-msgstr ""
+msgstr "Pro"
 
 #. UI.DATE.MONTH_ABBR.2
 msgctxt "UI.DATE.MONTH_ABBR.2"
 msgid "Feb"
-msgstr ""
+msgstr "Úno"
 
 #. UI.DATE.MONTH_ABBR.3
 msgctxt "UI.DATE.MONTH_ABBR.3"
 msgid "Mar"
-msgstr ""
+msgstr "Bře"
 
 #. UI.DATE.MONTH_ABBR.4
 msgctxt "UI.DATE.MONTH_ABBR.4"
 msgid "Apr"
-msgstr ""
+msgstr "Dub"
 
 #. UI.DATE.MONTH_ABBR.5
 msgctxt "UI.DATE.MONTH_ABBR.5"
 msgid "May"
-msgstr ""
+msgstr "Kvě"
 
 #. UI.DATE.MONTH_ABBR.6
 msgctxt "UI.DATE.MONTH_ABBR.6"
 msgid "Jun"
-msgstr ""
+msgstr "Čer"
 
 #. UI.DATE.MONTH_ABBR.7
 msgctxt "UI.DATE.MONTH_ABBR.7"
 msgid "Jul"
-msgstr ""
+msgstr "Čvn"
 
 #. UI.DATE.MONTH_ABBR.8
 msgctxt "UI.DATE.MONTH_ABBR.8"
 msgid "Aug"
-msgstr ""
+msgstr "Srp"
 
 #. UI.DATE.MONTH_ABBR.9
 msgctxt "UI.DATE.MONTH_ABBR.9"
 msgid "Sep"
-msgstr ""
+msgstr "Zář"
 
 #. UI.DATE_FORMAT.MDY
 msgctxt "UI.DATE_FORMAT.MDY"
 msgid "{month} {day}, {year}"
-msgstr ""
+msgstr "{day}. {month} {year}"
 
 #. UI.DAYS_FORMAT.DHM
 msgctxt "UI.DAYS_FORMAT.DHM"
 msgid "{days}d {hours}h {minutes}m"
-msgstr ""
+msgstr "{days}d {hours}h {minutes}m"
 
 #. UI.DAYS_FORMAT.HM
 msgctxt "UI.DAYS_FORMAT.HM"
 msgid "{hours}h {minutes}m"
-msgstr ""
+msgstr "{hours}h {minutes}m"
 
 #. UI.DAYS_FORMAT.M
 msgctxt "UI.DAYS_FORMAT.M"
 msgid "{minutes}m"
-msgstr ""
+msgstr "{minutes}m"
 
 #. UI.DEMOOVERDIALOG.BODY_FREEWEEKEND
 msgctxt "UI.DEMOOVERDIALOG.BODY_FREEWEEKEND"
 msgid "Buy now to get the special price!"
-msgstr ""
+msgstr "Kupte nyní a získejte speciální cenu!"
 
 #. UI.DEMOOVERDIALOG.QUIT
 msgctxt "UI.DEMOOVERDIALOG.QUIT"
@@ -890,7 +890,7 @@ msgstr ""
 #. UI.DEMOOVERDIALOG.TITLE_FREEWEEKEND
 msgctxt "UI.DEMOOVERDIALOG.TITLE_FREEWEEKEND"
 msgid "Thank you for playing the free demo!"
-msgstr ""
+msgstr "Děkujeme, že jste si zahráli bezplatné demo!"
 
 #. UI.DRESSUP_AVATAR.DRESSED_BY_FMT
 msgctxt "UI.DRESSUP_AVATAR.DRESSED_BY_FMT"
