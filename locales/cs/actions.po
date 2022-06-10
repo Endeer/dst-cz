@@ -1,8 +1,8 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-06-08 12:49+0000\n"
-"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
+"PO-Revision-Date: 2022-05-26 14:04+0000\n"
+"Last-Translator: TrainerTom <tomas.vlkovic.2009@gmail.com>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
@@ -1047,7 +1047,7 @@ msgstr ""
 #. ACTIONS.PLANT.GENERIC
 msgctxt "ACTIONS.PLANT.GENERIC"
 msgid "Plant"
-msgstr ""
+msgstr "Zasaď"
 
 #. ACTIONS.PLANT.PLANTER
 msgctxt "ACTIONS.PLANT.PLANTER"
