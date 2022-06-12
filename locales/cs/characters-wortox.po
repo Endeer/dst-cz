@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-06-08 13:09+0000\n"
+"PO-Revision-Date: 2022-06-12 17:10+0000\n"
 "Last-Translator: Ender Wiggin <f@endeer.cz>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
@@ -52,12 +52,12 @@ msgstr "Kde se vzali, tu se vzali, že by se mi jenom zdáli?"
 #. CHARACTERS.WORTOX.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.APPLYMODULE.COOLDOWN"
 msgid "only_used_by_wx78"
-msgstr ""
+msgstr "only_used_by_wx78"
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS"
 msgid "only_used_by_wx78"
-msgstr ""
+msgstr "only_used_by_wx78"
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.APPRAISE.NOTNOW
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.APPRAISE.NOTNOW"
@@ -82,7 +82,7 @@ msgstr "Tímhle zrcadlem projít nejde!"
 #. CHARACTERS.WORTOX.ACTIONFAIL.BEGIN_QUEST.ONEGHOST
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.BEGIN_QUEST.ONEGHOST"
 msgid "only_used_by_wendy"
-msgstr ""
+msgstr "only_used_by_wendy"
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.BUILD.HASPET
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.BUILD.HASPET"
@@ -132,12 +132,12 @@ msgstr "Mohl bych mu dát trochu šmrncu... až nebude ostříhaný podle hrnců
 #. CHARACTERS.WORTOX.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL"
 msgid "only_used_by_wx78"
-msgstr ""
+msgstr "only_used_by_wx78"
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE"
 msgid "only_used_by_wx78"
-msgstr ""
+msgstr "only_used_by_wx78"
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL"
@@ -237,17 +237,17 @@ msgstr ""
 #. CHARACTERS.WORTOX.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM"
 msgid "Oh drat, it doesn't want that."
-msgstr ""
+msgstr "Ach jej, to není co chtěj."
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.GIVE.DEAD
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.GIVE.DEAD"
 msgid "Their soul's not in right now."
-msgstr ""
+msgstr "Jsou zrovinka duševně nepřítomní."
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.GIVE.DUPLICATE
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.GIVE.DUPLICATE"
 msgid "We cannot learn what we already know!"
-msgstr ""
+msgstr "Nemůžu se učit co už znám!"
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.GIVE.FOODFULL
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.GIVE.FOODFULL"
@@ -257,7 +257,7 @@ msgstr ""
 #. CHARACTERS.WORTOX.ACTIONFAIL.GIVE.GENERIC
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.GIVE.GENERIC"
 msgid "No, no, no."
-msgstr ""
+msgstr "Ne, ne, ne."
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.GIVE.GHOSTHEART
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.GIVE.GHOSTHEART"
@@ -267,12 +267,12 @@ msgstr ""
 #. CHARACTERS.WORTOX.ACTIONFAIL.GIVE.MUSHROOMFARM_NEEDSLOG
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.GIVE.MUSHROOMFARM_NEEDSLOG"
 msgid "Its tummy rumbles for the soul of a log."
-msgstr ""
+msgstr "Tomu sluší dřevo s duší!"
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.GIVE.MUSHROOMFARM_NEEDSSHROOM
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.GIVE.MUSHROOMFARM_NEEDSSHROOM"
 msgid "There is only room... for a 'shroom!"
-msgstr ""
+msgstr "S tím se snoubí jenom houby!"
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.GIVE.MUSHROOMFARM_NOMOONALLOWED
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.GIVE.MUSHROOMFARM_NOMOONALLOWED"
@@ -362,7 +362,7 @@ msgstr ""
 #. CHARACTERS.WORTOX.ACTIONFAIL.GIVEALLTOPLAYER.DEAD
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.GIVEALLTOPLAYER.DEAD"
 msgid "Their soul's not in right now."
-msgstr ""
+msgstr "Jsou zrovinka duševně nepřítomní."
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.GIVEALLTOPLAYER.FULL
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.GIVEALLTOPLAYER.FULL"
@@ -382,7 +382,7 @@ msgstr ""
 #. CHARACTERS.WORTOX.ACTIONFAIL.GIVETOPLAYER.DEAD
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.GIVETOPLAYER.DEAD"
 msgid "Their soul's not in right now."
-msgstr ""
+msgstr "Jsou zrovinka duševně nepřítomní."
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.GIVETOPLAYER.FULL
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.GIVETOPLAYER.FULL"
@@ -692,7 +692,7 @@ msgstr ""
 #. CHARACTERS.WORTOX.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY"
 msgid "Either the key is wrong, or the lock is."
-msgstr ""
+msgstr "Buď je špatný klíč, nebo zámek."
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.WRAPBUNDLE.EMPTY
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.WRAPBUNDLE.EMPTY"
@@ -702,12 +702,12 @@ msgstr ""
 #. CHARACTERS.WORTOX.ACTIONFAIL.WRITE.GENERIC
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.WRITE.GENERIC"
 msgid "What is written cannot be unwrote!"
-msgstr ""
+msgstr "Co je psáno, nelze odepsat!"
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.WRITE.INUSE
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.WRITE.INUSE"
 msgid "Someone else has command of it."
-msgstr ""
+msgstr "Velí tomu někdo jiný."
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.YOTB_STARTCONTEST.ALREADYACTIVE
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.YOTB_STARTCONTEST.ALREADYACTIVE"
@@ -727,12 +727,12 @@ msgstr ""
 #. CHARACTERS.WORTOX.ACTIONFAIL_GENERIC
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL_GENERIC"
 msgid "No, no, no."
-msgstr ""
+msgstr "Ne, ne, ne."
 
 #. CHARACTERS.WORTOX.ANNOUNCE_ACCOMPLISHMENT
 msgctxt "CHARACTERS.WORTOX.ANNOUNCE_ACCOMPLISHMENT"
 msgid "I feel excellent about myself!"
-msgstr ""
+msgstr "Mám ze sebe skvělý pocit!"
 
 #. CHARACTERS.WORTOX.ANNOUNCE_ACCOMPLISHMENT_DONE
 msgctxt "CHARACTERS.WORTOX.ANNOUNCE_ACCOMPLISHMENT_DONE"
@@ -747,7 +747,7 @@ msgstr ""
 #. CHARACTERS.WORTOX.ANNOUNCE_ANTLION_SINKHOLE.1
 msgctxt "CHARACTERS.WORTOX.ANNOUNCE_ANTLION_SINKHOLE.1"
 msgid "Tremors and trembles!"
-msgstr ""
+msgstr "Jakési otřesy!"
 
 #. CHARACTERS.WORTOX.ANNOUNCE_ANTLION_SINKHOLE.2
 msgctxt "CHARACTERS.WORTOX.ANNOUNCE_ANTLION_SINKHOLE.2"
@@ -949,7 +949,7 @@ msgstr ""
 #. CHARACTERS.WORTOX.ANNOUNCE_COLD
 msgctxt "CHARACTERS.WORTOX.ANNOUNCE_COLD"
 msgid "It's finally frozen over!"
-msgstr ""
+msgstr "Konečně zamrzlo!"
 
 #. CHARACTERS.WORTOX.ANNOUNCE_COMPASS_OUT
 msgctxt "CHARACTERS.WORTOX.ANNOUNCE_COMPASS_OUT"
@@ -964,7 +964,7 @@ msgstr ""
 #. CHARACTERS.WORTOX.ANNOUNCE_DAMP
 msgctxt "CHARACTERS.WORTOX.ANNOUNCE_DAMP"
 msgid "The world is giving me a shower!"
-msgstr ""
+msgstr "Svět mi dává kapky!"
 
 #. CHARACTERS.WORTOX.ANNOUNCE_DEERCLOPS
 msgctxt "CHARACTERS.WORTOX.ANNOUNCE_DEERCLOPS"
@@ -1034,7 +1034,7 @@ msgstr ""
 #. CHARACTERS.WORTOX.ANNOUNCE_EAT.SPOILED
 msgctxt "CHARACTERS.WORTOX.ANNOUNCE_EAT.SPOILED"
 msgid "Blech! At least souls never spoil."
-msgstr ""
+msgstr "Fuj! Duše se aspoň nekazí."
 
 #. CHARACTERS.WORTOX.ANNOUNCE_EAT.STALE
 msgctxt "CHARACTERS.WORTOX.ANNOUNCE_EAT.STALE"
@@ -1099,7 +1099,7 @@ msgstr ""
 #. CHARACTERS.WORTOX.ANNOUNCE_ENTER_DARK
 msgctxt "CHARACTERS.WORTOX.ANNOUNCE_ENTER_DARK"
 msgid "I've been banished to the darkness plane!"
-msgstr ""
+msgstr "Vyhnanství v temnotě!"
 
 #. CHARACTERS.WORTOX.ANNOUNCE_ENTER_LIGHT
 msgctxt "CHARACTERS.WORTOX.ANNOUNCE_ENTER_LIGHT"
@@ -1404,12 +1404,12 @@ msgstr ""
 #. CHARACTERS.WORTOX.ANNOUNCE_NOHUNGERSIESTA
 msgctxt "CHARACTERS.WORTOX.ANNOUNCE_NOHUNGERSIESTA"
 msgid "I'm too soul-famished to siesta."
-msgstr ""
+msgstr "Představa krásné šťavnaté duše mi nedá odpočívat."
 
 #. CHARACTERS.WORTOX.ANNOUNCE_NOHUNGERSLEEP
 msgctxt "CHARACTERS.WORTOX.ANNOUNCE_NOHUNGERSLEEP"
 msgid "I'm too soul-famished to sleep."
-msgstr ""
+msgstr "Představa krásné šťavnaté duše mi nedá spát."
 
 #. CHARACTERS.WORTOX.ANNOUNCE_NOMOUNTEDGIFT
 msgctxt "CHARACTERS.WORTOX.ANNOUNCE_NOMOUNTEDGIFT"
@@ -1599,12 +1599,12 @@ msgstr ""
 #. CHARACTERS.WORTOX.ANNOUNCE_SOUL_EMPTY.3
 msgctxt "CHARACTERS.WORTOX.ANNOUNCE_SOUL_EMPTY.3"
 msgid "What gruesome things I must do to live!"
-msgstr ""
+msgstr "Jaké hrozné věci musím dělat pro přežití!"
 
 #. CHARACTERS.WORTOX.ANNOUNCE_SOUL_FEW.1
 msgctxt "CHARACTERS.WORTOX.ANNOUNCE_SOUL_FEW.1"
 msgid "I'll need more souls soon."
-msgstr ""
+msgstr "Brzy budu potřebovat více duší."
 
 #. CHARACTERS.WORTOX.ANNOUNCE_SOUL_FEW.2
 msgctxt "CHARACTERS.WORTOX.ANNOUNCE_SOUL_FEW.2"
@@ -1619,7 +1619,7 @@ msgstr ""
 #. CHARACTERS.WORTOX.ANNOUNCE_SOUL_MANY.2
 msgctxt "CHARACTERS.WORTOX.ANNOUNCE_SOUL_MANY.2"
 msgid "I hope I was not too greedy."
-msgstr ""
+msgstr "Snad jsem nebyl příliš nenasytný."
 
 #. CHARACTERS.WORTOX.ANNOUNCE_SOUL_OVERLOAD.1
 msgctxt "CHARACTERS.WORTOX.ANNOUNCE_SOUL_OVERLOAD.1"
@@ -1876,32 +1876,32 @@ msgstr ""
 #. CHARACTERS.WORTOX.DESCRIBE.ABIGAIL.LEVEL1.1
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.ABIGAIL.LEVEL1.1"
 msgid "Poor soul."
-msgstr ""
+msgstr "Chudák duše."
 
 #. CHARACTERS.WORTOX.DESCRIBE.ABIGAIL.LEVEL1.2
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.ABIGAIL.LEVEL1.2"
 msgid "Poor soul."
-msgstr ""
+msgstr "Chudák duše."
 
 #. CHARACTERS.WORTOX.DESCRIBE.ABIGAIL.LEVEL2.1
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.ABIGAIL.LEVEL2.1"
 msgid "Poor soul."
-msgstr ""
+msgstr "Chudák duše."
 
 #. CHARACTERS.WORTOX.DESCRIBE.ABIGAIL.LEVEL2.2
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.ABIGAIL.LEVEL2.2"
 msgid "Poor soul."
-msgstr ""
+msgstr "Chudák duše."
 
 #. CHARACTERS.WORTOX.DESCRIBE.ABIGAIL.LEVEL3.1
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.ABIGAIL.LEVEL3.1"
 msgid "Poor soul."
-msgstr ""
+msgstr "Chudák duše."
 
 #. CHARACTERS.WORTOX.DESCRIBE.ABIGAIL.LEVEL3.2
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.ABIGAIL.LEVEL3.2"
 msgid "Poor soul."
-msgstr ""
+msgstr "Chudák duše."
 
 #. CHARACTERS.WORTOX.DESCRIBE.ABIGAIL_FLOWER.GENERIC
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.ABIGAIL_FLOWER.GENERIC"
@@ -2566,17 +2566,17 @@ msgstr ""
 #. CHARACTERS.WORTOX.DESCRIBE.BATTLESONG_DURABILITY
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.BATTLESONG_DURABILITY"
 msgid "Singing is good for the soul."
-msgstr ""
+msgstr "Zpěv dělá duši dobře."
 
 #. CHARACTERS.WORTOX.DESCRIBE.BATTLESONG_FIRERESISTANCE
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.BATTLESONG_FIRERESISTANCE"
 msgid "Singing is good for the soul."
-msgstr ""
+msgstr "Zpěv dělá duši dobře."
 
 #. CHARACTERS.WORTOX.DESCRIBE.BATTLESONG_HEALTHGAIN
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.BATTLESONG_HEALTHGAIN"
 msgid "Singing is good for the soul."
-msgstr ""
+msgstr "Zpěv dělá duši dobře."
 
 #. CHARACTERS.WORTOX.DESCRIBE.BATTLESONG_INSTANT_PANIC
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.BATTLESONG_INSTANT_PANIC"
@@ -2591,12 +2591,12 @@ msgstr ""
 #. CHARACTERS.WORTOX.DESCRIBE.BATTLESONG_SANITYAURA
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.BATTLESONG_SANITYAURA"
 msgid "Singing is good for the soul."
-msgstr ""
+msgstr "Zpěv dělá duši dobře."
 
 #. CHARACTERS.WORTOX.DESCRIBE.BATTLESONG_SANITYGAIN
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.BATTLESONG_SANITYGAIN"
 msgid "Singing is good for the soul."
-msgstr ""
+msgstr "Zpěv dělá duši dobře."
 
 #. CHARACTERS.WORTOX.DESCRIBE.BATWING
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.BATWING"
@@ -3371,7 +3371,7 @@ msgstr ""
 #. CHARACTERS.WORTOX.DESCRIBE.CAMPFIRE.EMBERS
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.CAMPFIRE.EMBERS"
 msgid "Soon to extinguish."
-msgstr ""
+msgstr "Brzy vyhasne."
 
 #. CHARACTERS.WORTOX.DESCRIBE.CAMPFIRE.GENERIC
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.CAMPFIRE.GENERIC"
@@ -4061,7 +4061,7 @@ msgstr ""
 #. CHARACTERS.WORTOX.DESCRIBE.COLDFIRE.EMBERS
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.COLDFIRE.EMBERS"
 msgid "Soon to extinguish."
-msgstr ""
+msgstr "Brzy vyhasne."
 
 #. CHARACTERS.WORTOX.DESCRIBE.COLDFIRE.GENERIC
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.COLDFIRE.GENERIC"
@@ -4091,7 +4091,7 @@ msgstr ""
 #. CHARACTERS.WORTOX.DESCRIBE.COLDFIREPIT.EMBERS
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.COLDFIREPIT.EMBERS"
 msgid "Soon to extinguish."
-msgstr ""
+msgstr "Brzy vyhasne."
 
 #. CHARACTERS.WORTOX.DESCRIBE.COLDFIREPIT.GENERIC
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.COLDFIREPIT.GENERIC"
@@ -5086,7 +5086,7 @@ msgstr ""
 #. CHARACTERS.WORTOX.DESCRIBE.FIREPIT.EMBERS
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.FIREPIT.EMBERS"
 msgid "Soon to extinguish."
-msgstr ""
+msgstr "Brzy vyhasne."
 
 #. CHARACTERS.WORTOX.DESCRIBE.FIREPIT.GENERIC
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.FIREPIT.GENERIC"
@@ -10506,7 +10506,7 @@ msgstr ""
 #. CHARACTERS.WORTOX.DESCRIBE.SMALLGHOST
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.SMALLGHOST"
 msgid "I prefer souls with more meat on their bones... metaphorically speaking."
-msgstr ""
+msgstr "Mám radši když jsou duše trochu víc krev a mlíko... obrazně řečeno."
 
 #. CHARACTERS.WORTOX.DESCRIBE.SMALLMEAT
 msgctxt "CHARACTERS.WORTOX.DESCRIBE.SMALLMEAT"

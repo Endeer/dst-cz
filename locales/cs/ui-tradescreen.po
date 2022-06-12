@@ -1,17 +1,23 @@
+# 
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-05-21 13:33+0000\n"
+"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
 "POT Version: 2.0\n"
+"X-Generator: Pontoon\n"
 
 #. UI.TRADESCREEN.ACCEPT
 msgctxt "UI.TRADESCREEN.ACCEPT"
 msgid "Accept"
-msgstr ""
+msgstr "Přijmout"
 
 #. UI.TRADESCREEN.BACK
 msgctxt "UI.TRADESCREEN.BACK"
 msgid "Back"
-msgstr ""
+msgstr "Zpět"
 
 #. UI.TRADESCREEN.BASE
 msgctxt "UI.TRADESCREEN.BASE"
@@ -105,7 +111,9 @@ msgstr ""
 
 #. UI.TRADESCREEN.CROW_GAME.GAME_OVER_POPUP_BODY
 msgctxt "UI.TRADESCREEN.CROW_GAME.GAME_OVER_POPUP_BODY"
-msgid "Great job tidyin' up.\nYou completed {moves} moves, for a score of {score}!"
+msgid ""
+"Great job tidyin' up.\n"
+"You completed {moves} moves, for a score of {score}!"
 msgstr ""
 
 #. UI.TRADESCREEN.CROW_GAME.GAME_OVER_POPUP_TITLE
@@ -125,7 +133,11 @@ msgstr ""
 
 #. UI.TRADESCREEN.CROW_GAME.HELP_BODY
 msgctxt "UI.TRADESCREEN.CROW_GAME.HELP_BODY"
-msgid "Oh crow!\nA murder of feathered fiends has gotten their claws into the Curio Collector's prized collection of candy wrappers!\n\nHelp him scare away the crows by matching adjacent pairs of wrappers. Use tools to help clear big groups of wrappers and crows to improve your score. Clearing 10 or more tiles will grant you a bonus tool."
+msgid ""
+"Oh crow!\n"
+"A murder of feathered fiends has gotten their claws into the Curio Collector's prized collection of candy wrappers!\n"
+"\n"
+"Help him scare away the crows by matching adjacent pairs of wrappers. Use tools to help clear big groups of wrappers and crows to improve your score. Clearing 10 or more tiles will grant you a bonus tool."
 msgstr ""
 
 #. UI.TRADESCREEN.CROW_GAME.HELP_TITLE
@@ -460,12 +472,16 @@ msgstr ""
 
 #. UI.TRADESCREEN.REDBIRD_GAME.GAME_OVER_POPUP_BODY
 msgctxt "UI.TRADESCREEN.REDBIRD_GAME.GAME_OVER_POPUP_BODY"
-msgid "Great job countin'.\nYou completed {eggs} eggs for a total of {score} points!"
+msgid ""
+"Great job countin'.\n"
+"You completed {eggs} eggs for a total of {score} points!"
 msgstr ""
 
 #. UI.TRADESCREEN.REDBIRD_GAME.GAME_OVER_POPUP_BODY_SINGULAR
 msgctxt "UI.TRADESCREEN.REDBIRD_GAME.GAME_OVER_POPUP_BODY_SINGULAR"
-msgid "Great job countin'.\nYou completed 1 egg for a total of {score} points!"
+msgid ""
+"Great job countin'.\n"
+"You completed 1 egg for a total of {score} points!"
 msgstr ""
 
 #. UI.TRADESCREEN.REDBIRD_GAME.GAME_OVER_POPUP_TITLE
@@ -485,7 +501,10 @@ msgstr ""
 
 #. UI.TRADESCREEN.REDBIRD_GAME.HELP_BODY
 msgctxt "UI.TRADESCREEN.REDBIRD_GAME.HELP_BODY"
-msgid "Combine tiles to add up to 100. Completing a tile with a value of 100 earns you a large amount of points. The faster you add, the more points you'll receive.\n\nGood luck!"
+msgid ""
+"Combine tiles to add up to 100. Completing a tile with a value of 100 earns you a large amount of points. The faster you add, the more points you'll receive.\n"
+"\n"
+"Good luck!"
 msgstr ""
 
 #. UI.TRADESCREEN.REDBIRD_GAME.HELP_TITLE
@@ -1100,7 +1119,9 @@ msgstr ""
 
 #. UI.TRADESCREEN.SNOW_GAME.GAME_OVER_POPUP_BODY
 msgctxt "UI.TRADESCREEN.SNOW_GAME.GAME_OVER_POPUP_BODY"
-msgid "Great job matching'.\nYou completed {score} pairs!"
+msgid ""
+"Great job matching'.\n"
+"You completed {score} pairs!"
 msgstr ""
 
 #. UI.TRADESCREEN.SNOW_GAME.GAME_OVER_POPUP_TITLE
@@ -1120,7 +1141,10 @@ msgstr ""
 
 #. UI.TRADESCREEN.SNOW_GAME.HELP_BODY
 msgctxt "UI.TRADESCREEN.SNOW_GAME.HELP_BODY"
-msgid "Match pairs of food tiles from the feast. Clearing a pair will cause the tiles above to drop down, so be sure to remember what foods were there. Matching a pair of snowbirds will grant you an extra guess.\n\nGood luck!"
+msgid ""
+"Match pairs of food tiles from the feast. Clearing a pair will cause the tiles above to drop down, so be sure to remember what foods were there. Matching a pair of snowbirds will grant you an extra guess.\n"
+"\n"
+"Good luck!"
 msgstr ""
 
 #. UI.TRADESCREEN.SNOW_GAME.HELP_TITLE
@@ -1175,7 +1199,10 @@ msgstr ""
 
 #. UI.TRADESCREEN.TEMPORARILY_CLOSED_BODY
 msgctxt "UI.TRADESCREEN.TEMPORARILY_CLOSED_BODY"
-msgid "The Trade Inn is closed for a bit.\n\nBe back soon, okay?"
+msgid ""
+"The Trade Inn is closed for a bit.\n"
+"\n"
+"Be back soon, okay?"
 msgstr ""
 
 #. UI.TRADESCREEN.TITLE
@@ -1197,4 +1224,3 @@ msgstr ""
 msgctxt "UI.TRADESCREEN.WARNING_SINGLE"
 msgid "You won't be able to wear an item if you give your last one away! Do you really want to trade this item?"
 msgstr ""
-

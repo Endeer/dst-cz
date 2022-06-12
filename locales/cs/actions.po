@@ -1,8 +1,8 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-26 14:04+0000\n"
-"Last-Translator: TrainerTom <tomas.vlkovic.2009@gmail.com>\n"
+"PO-Revision-Date: 2022-06-12 17:02+0000\n"
+"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
@@ -167,7 +167,7 @@ msgstr "Zapal"
 #. ACTIONS.ATTACK.RANGEDSMOTHER
 msgctxt "ACTIONS.ATTACK.RANGEDSMOTHER"
 msgid "Extinguish"
-msgstr "Uhasit"
+msgstr "Uhas"
 
 #. ACTIONS.ATTACK.SMASHABLE
 msgctxt "ACTIONS.ATTACK.SMASHABLE"
@@ -477,7 +477,7 @@ msgstr "Ozdob"
 #. ACTIONS.DEPLOY.DEPLOY
 msgctxt "ACTIONS.DEPLOY.DEPLOY"
 msgid "Deploy"
-msgstr ""
+msgstr "Spusť"
 
 #. ACTIONS.DEPLOY.FENCE
 msgctxt "ACTIONS.DEPLOY.FENCE"
@@ -502,17 +502,17 @@ msgstr "Zasaď"
 #. ACTIONS.DEPLOY.GROUNDTILE
 msgctxt "ACTIONS.DEPLOY.GROUNDTILE"
 msgid "Place Ground"
-msgstr ""
+msgstr "Polož zem"
 
 #. ACTIONS.DEPLOY.PORTABLE
 msgctxt "ACTIONS.DEPLOY.PORTABLE"
 msgid "Place"
-msgstr ""
+msgstr "Postav"
 
 #. ACTIONS.DEPLOY.TURRET
 msgctxt "ACTIONS.DEPLOY.TURRET"
 msgid "Place"
-msgstr ""
+msgstr "Postav"
 
 #. ACTIONS.DEPLOY.WALL
 msgctxt "ACTIONS.DEPLOY.WALL"
@@ -532,12 +532,12 @@ msgstr "Vykopej"
 #. ACTIONS.DISMANTLE
 msgctxt "ACTIONS.DISMANTLE"
 msgid "Dismantle"
-msgstr ""
+msgstr "Rozeber"
 
 #. ACTIONS.DISMANTLE_POCKETWATCH
 msgctxt "ACTIONS.DISMANTLE_POCKETWATCH"
 msgid "Take Apart"
-msgstr ""
+msgstr "Rozeber"
 
 #. ACTIONS.DISMOUNT
 msgctxt "ACTIONS.DISMOUNT"
@@ -577,12 +577,12 @@ msgstr ""
 #. ACTIONS.DROP.SETMINE
 msgctxt "ACTIONS.DROP.SETMINE"
 msgid "Set Mine"
-msgstr ""
+msgstr "Nastraž minu"
 
 #. ACTIONS.DROP.SETTRAP
 msgctxt "ACTIONS.DROP.SETTRAP"
 msgid "Set Trap"
-msgstr ""
+msgstr "Nastraž past"
 
 #. ACTIONS.DROP.YOTC_ENTERRACE
 msgctxt "ACTIONS.DROP.YOTC_ENTERRACE"
@@ -1082,7 +1082,7 @@ msgstr "Opyluj"
 #. ACTIONS.POUR_WATER.EXTINGUISH
 msgctxt "ACTIONS.POUR_WATER.EXTINGUISH"
 msgid "Extinguish"
-msgstr ""
+msgstr "Uhas"
 
 #. ACTIONS.POUR_WATER.GENERIC
 msgctxt "ACTIONS.POUR_WATER.GENERIC"
@@ -1292,7 +1292,7 @@ msgstr ""
 #. ACTIONS.SMOTHER
 msgctxt "ACTIONS.SMOTHER"
 msgid "Extinguish"
-msgstr ""
+msgstr "Uhas"
 
 #. ACTIONS.SPICE
 msgctxt "ACTIONS.SPICE"
@@ -1417,7 +1417,7 @@ msgstr ""
 #. ACTIONS.TEACH.GENERIC
 msgctxt "ACTIONS.TEACH.GENERIC"
 msgid "Learn"
-msgstr ""
+msgstr "Nauč se"
 
 #. ACTIONS.TEACH.READ
 msgctxt "ACTIONS.TEACH.READ"
@@ -1452,7 +1452,7 @@ msgstr ""
 #. ACTIONS.TOGGLE_DEPLOY_MODE.DEPLOY
 msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.DEPLOY"
 msgid "Deploy"
-msgstr ""
+msgstr "Spusť"
 
 #. ACTIONS.TOGGLE_DEPLOY_MODE.FENCE
 msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.FENCE"
@@ -1462,7 +1462,7 @@ msgstr "Postav plot"
 #. ACTIONS.TOGGLE_DEPLOY_MODE.FERTILIZE_GROUND
 msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.FERTILIZE_GROUND"
 msgid "Fertilize Plot"
-msgstr ""
+msgstr "Pohnoj pole"
 
 #. ACTIONS.TOGGLE_DEPLOY_MODE.GATE
 msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.GATE"
@@ -1477,17 +1477,17 @@ msgstr "Zasaď"
 #. ACTIONS.TOGGLE_DEPLOY_MODE.GROUNDTILE
 msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.GROUNDTILE"
 msgid "Place Ground"
-msgstr ""
+msgstr "Polož zem"
 
 #. ACTIONS.TOGGLE_DEPLOY_MODE.PORTABLE
 msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.PORTABLE"
 msgid "Place"
-msgstr ""
+msgstr "Postav"
 
 #. ACTIONS.TOGGLE_DEPLOY_MODE.TURRET
 msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.TURRET"
 msgid "Place"
-msgstr ""
+msgstr "Postav"
 
 #. ACTIONS.TOGGLE_DEPLOY_MODE.WALL
 msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.WALL"
@@ -1497,7 +1497,7 @@ msgstr "Postav zeď"
 #. ACTIONS.TOGGLE_DEPLOY_MODE.WATER
 msgctxt "ACTIONS.TOGGLE_DEPLOY_MODE.WATER"
 msgid "Launch"
-msgstr ""
+msgstr "Spusť"
 
 #. ACTIONS.TOSS
 msgctxt "ACTIONS.TOSS"
