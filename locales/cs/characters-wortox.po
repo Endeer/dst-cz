@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-06-12 17:10+0000\n"
+"PO-Revision-Date: 2022-06-14 13:21+0000\n"
 "Last-Translator: Ender Wiggin <f@endeer.cz>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
@@ -72,7 +72,7 @@ msgstr "Moje tělo by určitě zemřelo."
 #. CHARACTERS.WORTOX.ACTIONFAIL.BATHBOMB.ALREADY_BOMBED
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.BATHBOMB.ALREADY_BOMBED"
 msgid "Someone else took the fun!"
-msgstr ""
+msgstr "O zábavu se tu už postaral někdo jiný!"
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.BATHBOMB.GLASSED
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.BATHBOMB.GLASSED"
@@ -152,7 +152,7 @@ msgstr "Je potřeba plodění nějaké větší plodiny, huhahaha!"
 #. CHARACTERS.WORTOX.ACTIONFAIL.CONSTRUCT.EMPTY
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.CONSTRUCT.EMPTY"
 msgid "I can't create from nothing."
-msgstr ""
+msgstr "Nemůžu tvořit z ničeho."
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.CONSTRUCT.INUSE
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.CONSTRUCT.INUSE"
@@ -162,7 +162,7 @@ msgstr "Nemůžu rušit jinou duši."
 #. CHARACTERS.WORTOX.ACTIONFAIL.CONSTRUCT.MISMATCH
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.CONSTRUCT.MISMATCH"
 msgid "I've made an error."
-msgstr ""
+msgstr "Udělal jsem chybu."
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.CONSTRUCT.NOTALLOWED
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.CONSTRUCT.NOTALLOWED"
@@ -172,22 +172,22 @@ msgstr "Ech, to prostě nemůžu udělat."
 #. CHARACTERS.WORTOX.ACTIONFAIL.COOK.GENERIC
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.COOK.GENERIC"
 msgid "I'd rather snack on a soul no one's using."
-msgstr ""
+msgstr "Raději bych posvačil nevyužívanou duši."
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.COOK.INUSE
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.COOK.INUSE"
 msgid "Mortals need physical food more than I do."
-msgstr ""
+msgstr "Smrtelníci potřebují fyzickou stravu více než já."
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.COOK.TOOFAR
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.COOK.TOOFAR"
 msgid "I could hop over, I suppose."
-msgstr ""
+msgstr "Hádám že bych tam mohl poskočit."
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.DISMANTLE.COOKING
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.DISMANTLE.COOKING"
 msgid "I'm afraid the pot is far too hot!"
-msgstr ""
+msgstr "Hrnec je horký pro mé pazourky!"
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.DISMANTLE.INUSE
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.DISMANTLE.INUSE"
@@ -197,17 +197,17 @@ msgstr "Nemůžu rušit jinou duši."
 #. CHARACTERS.WORTOX.ACTIONFAIL.DISMANTLE.NOTEMPTY
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.DISMANTLE.NOTEMPTY"
 msgid "First it must be relieved of its possessions."
-msgstr ""
+msgstr "Nejprve se musí vzdát svých hmotných statků."
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.DRAW.NOIMAGE
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.DRAW.NOIMAGE"
 msgid "I have no imagination."
-msgstr ""
+msgstr "Chybí mi představivost."
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.FILL_OCEAN.UNSUITABLE_FOR_PLANTS
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.FILL_OCEAN.UNSUITABLE_FOR_PLANTS"
 msgid "I'd better abscond to a freshwater pond."
-msgstr ""
+msgstr "Brambora naříká po vodě z rybníka."
 
 #. CHARACTERS.WORTOX.ACTIONFAIL.FISH_OCEAN.TOODEEP
 msgctxt "CHARACTERS.WORTOX.ACTIONFAIL.FISH_OCEAN.TOODEEP"
