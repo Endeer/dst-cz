@@ -1,7 +1,13 @@
+# 
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-07-31 12:20+0000\n"
+"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
 "POT Version: 2.0\n"
+"X-Generator: Pontoon\n"
 
 #. EPITAPHS.1
 msgctxt "EPITAPHS.1"
@@ -301,7 +307,7 @@ msgstr ""
 #. EPITAPHS.63
 msgctxt "EPITAPHS.63"
 msgid "\"And don't come back.\""
-msgstr ""
+msgstr "\"A už se nevracej.\""
 
 #. EPITAPHS.64
 msgctxt "EPITAPHS.64"
@@ -311,7 +317,7 @@ msgstr ""
 #. EPITAPHS.7
 msgctxt "EPITAPHS.7"
 msgid "\"Milk. Eggs. Bacon.\""
-msgstr ""
+msgstr "\"Mléko. Vajíčka. Slanina.\""
 
 #. EPITAPHS.8
 msgctxt "EPITAPHS.8"
@@ -322,4 +328,3 @@ msgstr ""
 msgctxt "EPITAPHS.9"
 msgid "It reads \"You're standing on my face.\" Oops."
 msgstr ""
-
