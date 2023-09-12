@@ -1,8 +1,8 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-06-01 19:46+0000\n"
-"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
+"PO-Revision-Date: 2023-09-12 07:44+0000\n"
+"Last-Translator: Whaskalmanik <whakalman@gmail.com>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
@@ -67,12 +67,12 @@ msgstr "Uživatelské jméno"
 #. UI.BARTERSCREEN.CANCEL
 msgctxt "UI.BARTERSCREEN.CANCEL"
 msgid "Never mind"
-msgstr ""
+msgstr "Tak nic"
 
 #. UI.BARTERSCREEN.COMMERCE_BUY
 msgctxt "UI.BARTERSCREEN.COMMERCE_BUY"
 msgid "Weave"
-msgstr ""
+msgstr "Uplést"
 
 #. UI.BARTERSCREEN.COMMERCE_GRIND
 msgctxt "UI.BARTERSCREEN.COMMERCE_GRIND"
@@ -2473,27 +2473,27 @@ msgstr ""
 #. UI.WORLDRESETDIALOG.RESET_MSG
 msgctxt "UI.WORLDRESETDIALOG.RESET_MSG"
 msgid "World will reset in: %d"
-msgstr ""
+msgstr "Svět se restartuje za: %d"
 
 #. UI.WORLDRESETDIALOG.SURVIVED_MSG
 msgctxt "UI.WORLDRESETDIALOG.SURVIVED_MSG"
 msgid "Survived %d Days"
-msgstr ""
+msgstr "Přežil jsi %d dní"
 
 #. UI.WORLDRESETDIALOG.SURVIVED_MSG_1_DAY
 msgctxt "UI.WORLDRESETDIALOG.SURVIVED_MSG_1_DAY"
 msgid "Survived %d Day"
-msgstr ""
+msgstr "Přežil jsi %d den"
 
 #. UI.WORLDRESETDIALOG.TITLE
 msgctxt "UI.WORLDRESETDIALOG.TITLE"
 msgid "Day %d: Everyone is dead"
-msgstr ""
+msgstr "Den %d: Všichni jsou mrtvý"
 
 #. UI.WORLDRESETDIALOG.TITLE_LATEJOIN
 msgctxt "UI.WORLDRESETDIALOG.TITLE_LATEJOIN"
 msgid "Day %d: Everyone else is dead. Save them!"
-msgstr ""
+msgstr "Den %d: Všichni ostatní jsou mrtvý. Zachraň je!"
 
 #. UI.XB1_USER_DIALOG.CONTROLLER_2_DISCONNECTED
 msgctxt "UI.XB1_USER_DIALOG.CONTROLLER_2_DISCONNECTED"
@@ -2518,17 +2518,17 @@ msgstr ""
 #. UI.XB1_USER_DIALOG.SIGN_IN
 msgctxt "UI.XB1_USER_DIALOG.SIGN_IN"
 msgid "Sign In"
-msgstr ""
+msgstr "Přihlásit se"
 
 #. UI.XB1_USER_DIALOG.SIGN_IN_TO_CONTINUE
 msgctxt "UI.XB1_USER_DIALOG.SIGN_IN_TO_CONTINUE"
 msgid "You must sign in again to continue."
-msgstr ""
+msgstr "Chcete-li pokračovat, musíš se znovu přihlásit."
 
 #. UI.XB1_USER_DIALOG.USER_1_CHANGED
 msgctxt "UI.XB1_USER_DIALOG.USER_1_CHANGED"
 msgid "Main profile changed"
-msgstr ""
+msgstr "Hlavní profil se změnil"
 
 #. UI.XB1_USER_DIALOG.USER_2_CHANGED
 msgctxt "UI.XB1_USER_DIALOG.USER_2_CHANGED"
@@ -2550,4 +2550,4 @@ msgstr ""
 #. UI.XPUTILS.XPPROGRESS
 msgctxt "UI.XPUTILS.XPPROGRESS"
 msgid "{num}/{max}"
-msgstr ""
+msgstr "{num}/{max}"
