@@ -1,8 +1,8 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-10 20:19+0000\n"
-"Last-Translator: Whaskalmanik <whakalman@gmail.com>\n"
+"PO-Revision-Date: 2023-09-12 21:22+0000\n"
+"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
@@ -77,7 +77,7 @@ msgstr "Vyplenit"
 #. ACTIONS.ACTIVATE.SPELUNK
 msgctxt "ACTIONS.ACTIVATE.SPELUNK"
 msgid "Spelunk"
-msgstr "Prozkoumat"
+msgstr "Jít na průzkum"
 
 #. ACTIONS.ACTIVATE.SUMMONHOST
 msgctxt "ACTIONS.ACTIVATE.SUMMONHOST"
@@ -202,7 +202,7 @@ msgstr "Ozdobit"
 #. ACTIONS.BEGIN_QUEST
 msgctxt "ACTIONS.BEGIN_QUEST"
 msgid "Assist"
-msgstr "Jít pomoci"
+msgstr "Jít na pomoc"
 
 #. ACTIONS.BLINK.GENERIC
 msgctxt "ACTIONS.BLINK.GENERIC"
@@ -242,7 +242,7 @@ msgstr "Uschovat"
 #. ACTIONS.BURY
 msgctxt "ACTIONS.BURY"
 msgid "Bury"
-msgstr "Pohřřbít"
+msgstr "Pohřbít"
 
 #. ACTIONS.CARNIVALGAME_FEED
 msgctxt "ACTIONS.CARNIVALGAME_FEED"
@@ -277,7 +277,7 @@ msgstr "Zavolej živly"
 #. ACTIONS.CASTAOE.GENERIC
 msgctxt "ACTIONS.CASTAOE.GENERIC"
 msgid "Cast Spell"
-msgstr "Vyčačovat"
+msgstr "Čarovat"
 
 #. ACTIONS.CASTAOE.HAMMER_MJOLNIR
 msgctxt "ACTIONS.CASTAOE.HAMMER_MJOLNIR"
@@ -297,7 +297,7 @@ msgstr "Žhnoucí bomba"
 #. ACTIONS.CASTAOE.LAVAARENA_HEAVYBLADE
 msgctxt "ACTIONS.CASTAOE.LAVAARENA_HEAVYBLADE"
 msgid "Parry"
-msgstr "Odrážet útoky"
+msgstr "Odrazit útok"
 
 #. ACTIONS.CASTAOE.LAVAARENA_LUCY
 msgctxt "ACTIONS.CASTAOE.LAVAARENA_LUCY"
@@ -307,7 +307,7 @@ msgstr "Vrhnout Lucy"
 #. ACTIONS.CASTAOE.SPEAR_GUNGNIR
 msgctxt "ACTIONS.CASTAOE.SPEAR_GUNGNIR"
 msgid "Pyre Poker"
-msgstr "Ohnivý bodnutí"
+msgstr "Ohnivý pohrabáč"
 
 #. ACTIONS.CASTAOE.SPEAR_LANCE
 msgctxt "ACTIONS.CASTAOE.SPEAR_LANCE"
@@ -397,7 +397,7 @@ msgstr "Odstranit"
 #. ACTIONS.CHARGE_FROM
 msgctxt "ACTIONS.CHARGE_FROM"
 msgid "Charge At"
-msgstr "Nabít se"
+msgstr "Nabít se z:"
 
 #. ACTIONS.CHECKTRAP
 msgctxt "ACTIONS.CHECKTRAP"
@@ -587,12 +587,12 @@ msgstr "Nastražit past"
 #. ACTIONS.DROP.YOTC_ENTERRACE
 msgctxt "ACTIONS.DROP.YOTC_ENTERRACE"
 msgid "Enter Race"
-msgstr "Vstoupit do závodu"
+msgstr "Přihlásit se do závodu"
 
 #. ACTIONS.DRY
 msgctxt "ACTIONS.DRY"
 msgid "Dry"
-msgstr "Vysušit"
+msgstr "Dát sušit"
 
 #. ACTIONS.EAT
 msgctxt "ACTIONS.EAT"
@@ -612,7 +612,7 @@ msgstr "Vybavit"
 #. ACTIONS.EXTEND_PLANK
 msgctxt "ACTIONS.EXTEND_PLANK"
 msgid "Extend"
-msgstr "Prodloužit"
+msgstr "Natáhnout"
 
 #. ACTIONS.EXTINGUISH
 msgctxt "ACTIONS.EXTINGUISH"
@@ -647,12 +647,12 @@ msgstr "Naplnit"
 #. ACTIONS.FISH
 msgctxt "ACTIONS.FISH"
 msgid "Fish"
-msgstr "Začít rybařit"
+msgstr "Jít rybařit"
 
 #. ACTIONS.FISH_OCEAN
 msgctxt "ACTIONS.FISH_OCEAN"
 msgid "Fish"
-msgstr "Začít rybařit"
+msgstr "Jít rybařit"
 
 #. ACTIONS.GIVE.APPLY
 msgctxt "ACTIONS.GIVE.APPLY"
@@ -682,7 +682,7 @@ msgstr "Položit {item}"
 #. ACTIONS.GIVE.QUAGMIRE_ALTAR.BOWL
 msgctxt "ACTIONS.GIVE.QUAGMIRE_ALTAR.BOWL"
 msgid "Snackrifice Bowl of {food}"
-msgstr "Obědovat Misku: {food}"
+msgstr "Obědovat misku a v ní {food}"
 
 #. ACTIONS.GIVE.QUAGMIRE_ALTAR.GENERIC
 msgctxt "ACTIONS.GIVE.QUAGMIRE_ALTAR.GENERIC"
@@ -692,7 +692,7 @@ msgstr "Obědovat {food}"
 #. ACTIONS.GIVE.QUAGMIRE_ALTAR.PLATE
 msgctxt "ACTIONS.GIVE.QUAGMIRE_ALTAR.PLATE"
 msgid "Snackrifice Plate of {food}"
-msgstr "Obědovat Talíř: {food}"
+msgstr "Obědovat talíř a na něm {food}"
 
 #. ACTIONS.GIVE.QUAGMIRE_OVEN
 msgctxt "ACTIONS.GIVE.QUAGMIRE_OVEN"
@@ -707,7 +707,7 @@ msgstr "Pověsit {item}"
 #. ACTIONS.GIVE.READY
 msgctxt "ACTIONS.GIVE.READY"
 msgid "Sacrifice"
-msgstr "Obědovat"
+msgstr "Obětovat"
 
 #. ACTIONS.GIVE.SOCKET
 msgctxt "ACTIONS.GIVE.SOCKET"

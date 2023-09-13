@@ -1,8 +1,8 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-12 07:44+0000\n"
-"Last-Translator: Whaskalmanik <whakalman@gmail.com>\n"
+"PO-Revision-Date: 2023-09-12 21:31+0000\n"
+"Last-Translator: Ender Wiggin <f@endeer.cz>\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Application: Dont' Starve\n"
@@ -2488,12 +2488,12 @@ msgstr "Přežil jsi %d den"
 #. UI.WORLDRESETDIALOG.TITLE
 msgctxt "UI.WORLDRESETDIALOG.TITLE"
 msgid "Day %d: Everyone is dead"
-msgstr "Den %d: Všichni jsou mrtvý"
+msgstr "Den %d: všichni jsou mrtví"
 
 #. UI.WORLDRESETDIALOG.TITLE_LATEJOIN
 msgctxt "UI.WORLDRESETDIALOG.TITLE_LATEJOIN"
 msgid "Day %d: Everyone else is dead. Save them!"
-msgstr "Den %d: Všichni ostatní jsou mrtvý. Zachraň je!"
+msgstr "Den %d: všichni ostatní jsou mrtví. Zachraň je!"
 
 #. UI.XB1_USER_DIALOG.CONTROLLER_2_DISCONNECTED
 msgctxt "UI.XB1_USER_DIALOG.CONTROLLER_2_DISCONNECTED"
